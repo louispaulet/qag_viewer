@@ -23,16 +23,17 @@ function convertSpeakerNameToWikipediaLink(text) {
   const wikipediaBaseURL = "https://fr.wikipedia.org/wiki/";
 
   function encodeSpeakerName(name) {
-      console.log(name)
       name = name.replace('M. ', '')
       name = name.replace('Mme ', '')
       name = name.replaceAll('.', '')
       name = name.replaceAll(',', '')
-      console.log(name)
     return encodeURIComponent(name.trim().replace(/\s+/g, "_"));
   }
 
   return text.replace(regex, (match, speakerName) => {
+    if (speakerName.includes("la présidente")){
+        return match 
+    }
     const encodedName = encodeSpeakerName(speakerName);
     const wikipediaURL = `${wikipediaBaseURL}${encodedName}`;
     return `<strong><a href="${wikipediaURL}">${speakerName}</a></strong>`;
