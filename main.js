@@ -9,14 +9,37 @@ document.addEventListener('DOMContentLoaded', async () => {
       json.question.indexationAN.minAttribs.minAttrib &&
       json.question.indexationAN.minAttribs.minAttrib.infoJO &&
       json.question.indexationAN.minAttribs.minAttrib.infoJO.dateJO) {
-    dateJO = json.question.indexationAN.minAttribs.minAttrib.infoJO.dateJO;
-  } else if (json.question.textesReponse.texteReponse.infoJO &&
-             json.question.textesReponse.texteReponse.infoJO.dateJO) {
-    dateJO = json.question.textesReponse.texteReponse.infoJO.dateJO;
+        dateJO = json.question.indexationAN.minAttribs.minAttrib.infoJO.dateJO;
+      } else if (json.question.textesReponse.texteReponse.infoJO &&
+                 json.question.textesReponse.texteReponse.infoJO.dateJO) {
+        dateJO = json.question.textesReponse.texteReponse.infoJO.dateJO;
+      }
+
+      return dateJO;
+    }
+
+function convertSpeakerNameToWikipediaLink(text) {
+  const regex = /<strong>([^<]+)<\/strong>/g;
+  const wikipediaBaseURL = "https://fr.wikipedia.org/wiki/";
+
+  function encodeSpeakerName(name) {
+      console.log(name)
+      name = name.replace('M. ', '')
+      name = name.replace('Mme ', '')
+      name = name.replaceAll('.', '')
+      name = name.replaceAll(',', '')
+      console.log(name)
+    return encodeURIComponent(name.trim().replace(/\s+/g, "_"));
   }
 
-  return dateJO;
+  return text.replace(regex, (match, speakerName) => {
+    const encodedName = encodeSpeakerName(speakerName);
+    const wikipediaURL = `${wikipediaBaseURL}${encodedName}`;
+    return `<strong><a href="${wikipediaURL}">${speakerName}</a></strong>`;
+  });
 }
+
+
 
 function jsonToHTML(json) {
   const dateJO = extractDate(json);
@@ -30,9 +53,12 @@ function jsonToHTML(json) {
   qagContent.appendChild(qagTitle);
 
   const qagText = document.createElement('div');
-  qagText.innerHTML = json.question.textesReponse.texteReponse.texte;
+  const rawText = json.question.textesReponse.texteReponse.texte;
+  const convertedText = convertSpeakerNameToWikipediaLink(rawText);
+  qagText.innerHTML = convertedText;
   qagContent.appendChild(qagText);
 }
+
 
 function compareDates(a, b) {
   if (a === 'Unknown') {
