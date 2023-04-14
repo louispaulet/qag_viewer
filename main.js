@@ -34,22 +34,42 @@ function jsonToHTML(json) {
   qagContent.appendChild(qagText);
 }
 
+function compareDates(a, b) {
+  if (a === 'Unknown') {
+    return 1;
+  }
+  if (b === 'Unknown') {
+    return -1;
+  }
+  return a.localeCompare(b);
+}
+
+function formatDate(date) {
+  const dateObj = new Date(date);
+  const year = dateObj.getFullYear();
+  const month = String(dateObj.getMonth() + 1).padStart(2, '0');
+  const day = String(dateObj.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
 async function fetchQAGList() {
   const filenames = await fetchQAGFilenames();
   const qagListPromises = filenames.map(async (filename) => {
     const json = await loadQAG(`qag_json/${filename}`);
     const dateJO = extractDate(json);
+    const formattedDate = dateJO === 'Unknown' ? dateJO : formatDate(dateJO);
     return {
-      date: dateJO === 'Unknown' ? dateJO : new Date(dateJO).toLocaleDateString(),
+      date: formattedDate,
       title: filename.slice(0, -5),
       filename,
       file: `qag_json/${filename}`,
     };
   });
   const qagList = await Promise.all(qagListPromises);
-  qagList.sort((a, b) => a.date === 'Unknown' ? 1 : b.date === 'Unknown' ? -1 : new Date(a.date) - new Date(b.date));
+  qagList.sort((a, b) => compareDates(a.date, b.date));
   return qagList;
 }
+
 
 
   async function loadQAG(file) {
