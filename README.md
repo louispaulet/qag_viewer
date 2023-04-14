@@ -2,6 +2,8 @@
 
 Welcome to the QAG Selector repository! This project helps you populate a dropdown menu with JSON files and display them in a user-friendly format. ✨
 
+QAG source: https://data.assemblee-nationale.fr/travaux-parlementaires/questions/questions-au-gouvernement  
+
 ## 🚀 Features
 
 - Populates a dropdown selector with JSON files
