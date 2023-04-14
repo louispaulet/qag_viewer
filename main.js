@@ -89,6 +89,8 @@ async function fetchQAGList() {
       title: filename.slice(0, -5),
       filename,
       file: `qag_json/${filename}`,
+      category: json.question.indexationAN.rubrique,
+      newtitle: json.question.indexationAN.analyses.analyse,
     };
   });
   const qagList = await Promise.all(qagListPromises);
@@ -104,14 +106,17 @@ async function fetchQAGList() {
     return json;
   }
 
-  function populateQAGSelector(qagList) {
-    qagList.forEach(qag => {
-      const option = document.createElement('option');
-      option.value = qag.file;
-      option.textContent = `${qag.date} - ${qag.title} - ${qag.filename}`;
-      qagSelector.appendChild(option);
-    });
-  }
+    function populateQAGSelector(qagList) {
+      qagList.forEach(qag => {
+        const option = document.createElement('option');
+        option.value = qag.file;
+        
+        const newTitle = qag.newtitle;
+        const category = qag.category;
+        option.textContent = `${qag.date} - ${qag.category} - ${newTitle} - ${qag.filename}`;
+        qagSelector.appendChild(option);
+      });
+    }
 
   function clearQAGContent() {
     qagContent.innerHTML = '';
