@@ -1,15 +1,13 @@
 document.addEventListener('DOMContentLoaded', async () => {
   const qagSelector = document.getElementById('qagSelector');
   const qagContent = document.getElementById('qagContent');
-  
-  // Load the JSON file
+
   async function loadQAG(file) {
     const response = await fetch(file);
     const json = await response.json();
     return json;
   }
 
-  // Populate the QAG selector
   function populateQAGSelector(qagList) {
     qagList.forEach(qag => {
       const option = document.createElement('option');
@@ -19,9 +17,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     });
   }
 
-  // Convert JSON to HTML
   function jsonToHTML(json) {
-    // Here, you can create the HTML structure based on the JSON content
     const qagTitle = document.createElement('h2');
     qagTitle.textContent = json.question.indexationAN.rubrique;
     qagContent.appendChild(qagTitle);
@@ -31,19 +27,27 @@ document.addEventListener('DOMContentLoaded', async () => {
     qagContent.appendChild(qagText);
   }
 
-  // Clear the QAG content
   function clearQAGContent() {
     qagContent.innerHTML = '';
   }
 
-  // Load QAG list (replace this with your own list of QAG files)
-  const qagList = [
-    {
-      title: 'QAG Example',
-      file: 'qag_json/QANR5L16QG6.json',
-    },
-  ];
+  async function fetchQAGFilenames() {
+    const response = await fetch('qag_filenames.txt');
+    const text = await response.text();
+    const filenames = text.split(/\s+/).filter((filename) => filename.trim() !== '');
+    return filenames;
+  }
 
+  async function fetchQAGList() {
+    const filenames = await fetchQAGFilenames();
+    const qagList = filenames.map((filename) => ({
+      title: filename.slice(0, -5),
+      file: `qag_json/${filename}`,
+    }));
+    return qagList;
+  }
+
+  const qagList = await fetchQAGList();
   populateQAGSelector(qagList);
 
   qagSelector.addEventListener('change', async (event) => {
