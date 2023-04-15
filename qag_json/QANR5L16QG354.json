@@ -1,1 +1,575 @@
-{"question": {"@xmlns": "http://schemas.assemblee-nationale.fr/referentiel", "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance", "@xsi:type": "QuestionGouvernement_Type", "uid": "QANR5L16QG354", "identifiant": {"numero": "354", "regime": "5eme Republique", "legislature": "16"}, "type": "QG", "indexationAN": {"rubrique": "maladies", "teteAnalyse": null, "analyses": {"analyse": "Situation des patients atteinds d'un covid long"}}, "auteur": {"identite": {"acteurRef": "PA795026", "mandatRef": "PM797259"}, "groupe": {"organeRef": "PO800514", "abrege": "HOR", "developpe": "Horizons et apparent\u00e9s"}}, "minInt": {"abrege": "Organisation territoriale et professions de sant\u00e9", "developpe": "Minist\u00e8re aupr\u00e8s du ministre de la sant\u00e9 et de la pr\u00e9vention, charg\u00e9 de l\u2019organisation territoriale et des professions de sant\u00e9"}, "minAttribs": {"minAttrib": {"infoJO": {"typeJO": "JO_DEBAT", "dateJO": "2022-11-30", "pageJO": null, "numJO": null, "urlLegifrance": null, "referenceNOR": null}, "denomination": {"abrege": "Organisation territoriale et professions de sant\u00e9", "developpe": "Minist\u00e8re aupr\u00e8s du ministre de la sant\u00e9 et de la pr\u00e9vention, charg\u00e9 de l\u2019organisation territoriale et des professions de sant\u00e9"}}}, "textesQuestion": null, "textesReponse": {"texteReponse": {"infoJO": {"typeJO": "JO_DEBAT", "dateJO": "2022-11-30", "pageJO": null, "numJO": null, "urlLegifrance": null, "referenceNOR": null}, "texte": "</p><p align=\"CENTER\"> SITUATION DES PATIENTS ATTEINTS D'UN COVID LONG <a name=PG24></a> </p><br><strong>Mme\u00a0la pr\u00e9sidente. </strong>La parole est \u00e0 Mme\u00a0Anne-C\u00e9cile Violland.<br><br><strong>Mme\u00a0Anne-C\u00e9cile Violland. </strong>Ce week-end encore, dans ma circonscription, j'ai \u00e9t\u00e9 interpell\u00e9e \u00e0 de nombreuses reprises par des personnes atteintes de covid long. Ainsi, Sophie, m\u00e8re de deux enfants, en activit\u00e9, m'a racont\u00e9 son covid, qui dure depuis 32\u00a0mois. Les t\u00e9moignages se multiplient\u00a0; ils affluent par dizaines, par centaines.<br><br>D'apr\u00e8s les premiers chiffres de Sant\u00e9 publique France, plus de 2\u00a0millions d'adultes fran\u00e7ais souffrent de cette affection de longue dur\u00e9e, caract\u00e9ris\u00e9e par des s\u00e9quelles psychologiques, neurologiques, immunitaires, cardiovasculaires ou r\u00e9nales. Elle peut toucher n'importe quelle personne ayant contract\u00e9 une infection au covid, quel que soit son \u00e2ge, m\u00eame en l'absence de pr\u00e9dispositions aggravantes. Ces troubles mal connus sont peu \u00e9tudi\u00e9s.<br><br>De trop nombreux Fran\u00e7ais se retrouvent ainsi dans des situations non reconnues par l'administration, contraints d'entamer des parcours de soins non rembours\u00e9s. L'association Covid long France nous alerte notamment sur la tr\u00e8s mauvaise int\u00e9gration et compr\u00e9hension de la maladie par les services de la Caisse nationale d'assurance maladie (Cnam), comme par la m\u00e9decine de travail ou la m\u00e9decine de ville. Or, cette affection a des cons\u00e9quences majeures sur la sant\u00e9 des Fran\u00e7ais. Il est indispensable de mieux la prendre en compte, en d\u00e9veloppant l'acc\u00e8s aux lieux d'\u00e9coute.<br><br>Le Parlement a adopt\u00e9, en janvier 2022, une loi visant \u00e0 cr\u00e9er une plateforme de r\u00e9f\u00e9rencement et de prise en charge des maladies chroniques li\u00e9es au covid. Il est urgent, pour des millions de nos compatriotes, d'acc\u00e9l\u00e9rer la concertation et la parution des d\u00e9crets d'application. En outre, alors que de nombreux articles ont paru dans des revues scientifiques depuis deux ans, la recherche fran\u00e7aise manque cruellement d'investissements, notamment pour entamer les essais th\u00e9rapeutiques demand\u00e9s par les patients souffrant de covid long.<br><br>Pr\u00e8s de 2 millions de Fran\u00e7ais sont d\u00e9sormais dans l'incapacit\u00e9 de poursuivre leur activit\u00e9 professionnelle. Quelle r\u00e9ponse pouvons-nous leur apporter, une r\u00e9ponse qui soit \u00e0 la hauteur de leurs souffrances, de leurs besoins et de leurs moyens ? <i>(Applaudissements sur les bancs du groupe HOR.)</i><br><br><strong>Mme\u00a0la pr\u00e9sidente. </strong>La parole est \u00e0 Mme\u00a0la ministre d\u00e9l\u00e9gu\u00e9e charg\u00e9e de l\u2019organisation territoriale et des professions de sant\u00e9.<br><br><strong>Mme\u00a0Agn\u00e8s Firmin\u00a0Le\u00a0Bodo,</strong><i> ministre d\u00e9l\u00e9gu\u00e9e charg\u00e9e de l\u2019organisation territoriale et des professions de sant\u00e9. </i>Deux ans et demi apr\u00e8s le d\u00e9but de la crise sanitaire, le parcours du combattant n'en finit pas pour les malades souffrant d'un covid long. C'est bien pourquoi la r\u00e9ponse \u00e0 cette probl\u00e9matique reconnue comme une r\u00e9alit\u00e9 clinique est un enjeu majeur pour le minist\u00e8re.<br><br>Le docteur Dominique Martin a \u00e9t\u00e9 confirm\u00e9 dans sa mission, qu'il m\u00e8ne avec l'appui de la Cnam et de toutes les administrations du minist\u00e8re, fortement mobilis\u00e9es sur ce sujet. Six mois apr\u00e8s la parution de la feuille de route, nous voulons avancer vite. Nous r\u00e9unirons, au cours de la premi\u00e8re quinzaine de d\u00e9cembre, l'ensemble des parties prenantes pour faire un point d'\u00e9tape, qui nous permettra d'\u00e9voquer non seulement les organisations territoriales mises en place dans chaque r\u00e9gion pour la prise en charge et l'accompagnement des malades du covid long mais aussi la plateforme de r\u00e9f\u00e9rencement et de prise en charge des malades chroniques du covid, pr\u00e9vue par la loi du 24\u00a0janvier 2022 \u2013\u00a0ce sujet figure \u00e9galement dans la lettre de mission.<br><br>N\u00e9anmoins, des actions sont mises en \u0153uvre, qu'il convient peut-\u00eatre de faire conna\u00eetre. Ainsi, la Cnam a renforc\u00e9 la mise \u00e0 disposition d'informations sur le covid long\u00a0; un espace d\u00e9di\u00e9 sur son site internet regroupe tous les \u00e9l\u00e9ments utiles au patient\u00a0: prise en charge, \u00e9l\u00e9ments m\u00e9dico-administratifs, affections de longue dur\u00e9e (ALD), maladies professionnelles, offres de services de l'assurance maladie\u2026 Les cellules d'appui et de coordination post-covid ont \u00e9t\u00e9 g\u00e9n\u00e9ralis\u00e9es sur l'ensemble du territoire.<br><br>L'information des m\u00e9decins a \u00e9t\u00e9 renforc\u00e9e\u00a0; des lignes ont \u00e9t\u00e9 ouvertes \u00e0 destination des professionnels de sant\u00e9 pour qu'ils puissent conna\u00eetre les ressources \u00e0 leur disposition. Un outil a \u00e9t\u00e9 d\u00e9velopp\u00e9 par la Cnam et l'association Tous partenaires covid, afin de faciliter le travail du m\u00e9decin traitant en recueillant les donn\u00e9es m\u00e9dicales du patient de mani\u00e8re structur\u00e9e. Un travail a \u00e9t\u00e9 entrepris avec le coll\u00e8ge des masseurs-kin\u00e9sith\u00e9rapeutes pour r\u00e9aliser des vid\u00e9os de formation \u00e0 la prise en charge des covid longs\u00a0; ces vid\u00e9os ont \u00e9t\u00e9 mises en ligne cet \u00e9t\u00e9.<br><br>Les choses avancent donc\u00a0; les malades ne sont plus laiss\u00e9s sans r\u00e9ponse. Mais leur nombre et la diversit\u00e9 des formes dont ils souffrent doivent nous conduire \u00e0 accentuer encore la mobilisation de l'ensemble du syst\u00e8me de sant\u00e9. <i>(Applaudissements sur les bancs du groupe HOR.)</i><br> <p>"}}, "cloture": {"codeCloture": "REP_PUB", "libelleCloture": "R\u00e9ponse publi\u00e9e", "dateCloture": "2022-11-30", "infoJO": {"typeJO": "JO_DEBAT", "dateJO": "2022-11-30", "pageJO": "6149", "numJO": null, "urlLegifrance": null, "referenceNOR": null}}}}
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG354",
+    "identifiant": {
+      "numero": "354",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "maladies",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Situation des patients atteinds d'un covid long"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795026",
+        "mandatRef": "PM797259"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Organisation territoriale et professions de santé",
+      "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Organisation territoriale et professions de santé",
+          "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION DES PATIENTS ATTEINTS D'UN COVID LONG <a name=PG24></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Anne-Cécile Violland.<br><br><strong>Mme Anne-Cécile Violland. </strong>Ce week-end encore, dans ma circonscription, j'ai été interpellée à de nombreuses reprises par des personnes atteintes de covid long. Ainsi, Sophie, mère de deux enfants, en activité, m'a raconté son covid, qui dure depuis 32 mois. Les témoignages se multiplient ; ils affluent par dizaines, par centaines.<br><br>D'après les premiers chiffres de Santé publique France, plus de 2 millions d'adultes français souffrent de cette affection de longue durée, caractérisée par des séquelles psychologiques, neurologiques, immunitaires, cardiovasculaires ou rénales. Elle peut toucher n'importe quelle personne ayant contracté une infection au covid, quel que soit son âge, même en l'absence de prédispositions aggravantes. Ces troubles mal connus sont peu étudiés.<br><br>De trop nombreux Français se retrouvent ainsi dans des situations non reconnues par l'administration, contraints d'entamer des parcours de soins non remboursés. L'association Covid long France nous alerte notamment sur la très mauvaise intégration et compréhension de la maladie par les services de la Caisse nationale d'assurance maladie (Cnam), comme par la médecine de travail ou la médecine de ville. Or, cette affection a des conséquences majeures sur la santé des Français. Il est indispensable de mieux la prendre en compte, en développant l'accès aux lieux d'écoute.<br><br>Le Parlement a adopté, en janvier 2022, une loi visant à créer une plateforme de référencement et de prise en charge des maladies chroniques liées au covid. Il est urgent, pour des millions de nos compatriotes, d'accélérer la concertation et la parution des décrets d'application. En outre, alors que de nombreux articles ont paru dans des revues scientifiques depuis deux ans, la recherche française manque cruellement d'investissements, notamment pour entamer les essais thérapeutiques demandés par les patients souffrant de covid long.<br><br>Près de 2 millions de Français sont désormais dans l'incapacité de poursuivre leur activité professionnelle. Quelle réponse pouvons-nous leur apporter, une réponse qui soit à la hauteur de leurs souffrances, de leurs besoins et de leurs moyens ? <i>(Applaudissements sur les bancs du groupe HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée chargée de l’organisation territoriale et des professions de santé.<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée chargée de l’organisation territoriale et des professions de santé. </i>Deux ans et demi après le début de la crise sanitaire, le parcours du combattant n'en finit pas pour les malades souffrant d'un covid long. C'est bien pourquoi la réponse à cette problématique reconnue comme une réalité clinique est un enjeu majeur pour le ministère.<br><br>Le docteur Dominique Martin a été confirmé dans sa mission, qu'il mène avec l'appui de la Cnam et de toutes les administrations du ministère, fortement mobilisées sur ce sujet. Six mois après la parution de la feuille de route, nous voulons avancer vite. Nous réunirons, au cours de la première quinzaine de décembre, l'ensemble des parties prenantes pour faire un point d'étape, qui nous permettra d'évoquer non seulement les organisations territoriales mises en place dans chaque région pour la prise en charge et l'accompagnement des malades du covid long mais aussi la plateforme de référencement et de prise en charge des malades chroniques du covid, prévue par la loi du 24 janvier 2022 – ce sujet figure également dans la lettre de mission.<br><br>Néanmoins, des actions sont mises en œuvre, qu'il convient peut-être de faire connaître. Ainsi, la Cnam a renforcé la mise à disposition d'informations sur le covid long ; un espace dédié sur son site internet regroupe tous les éléments utiles au patient : prise en charge, éléments médico-administratifs, affections de longue durée (ALD), maladies professionnelles, offres de services de l'assurance maladie… Les cellules d'appui et de coordination post-covid ont été généralisées sur l'ensemble du territoire.<br><br>L'information des médecins a été renforcée ; des lignes ont été ouvertes à destination des professionnels de santé pour qu'ils puissent connaître les ressources à leur disposition. Un outil a été développé par la Cnam et l'association Tous partenaires covid, afin de faciliter le travail du médecin traitant en recueillant les données médicales du patient de manière structurée. Un travail a été entrepris avec le collège des masseurs-kinésithérapeutes pour réaliser des vidéos de formation à la prise en charge des covid longs ; ces vidéos ont été mises en ligne cet été.<br><br>Les choses avancent donc ; les malades ne sont plus laissés sans réponse. Mais leur nombre et la diversité des formes dont ils souffrent doivent nous conduire à accentuer encore la mobilisation de l'ensemble du système de santé. <i>(Applaudissements sur les bancs du groupe HOR.)</i><br> <p>",
+        "male_pronouns_count": 20,
+        "female_pronouns_count": 36,
+        "male_pronouns_percentage": 35.714285714285715,
+        "female_pronouns_percentage": 64.28571428571429,
+        "pronoun_positions": [
+          {
+            "pronoun": "la",
+            "position": 109
+          },
+          {
+            "pronoun": "La",
+            "position": 133
+          },
+          {
+            "pronoun": "Ce",
+            "position": 225
+          },
+          {
+            "pronoun": "son",
+            "position": 421
+          },
+          {
+            "pronoun": "cette",
+            "position": 646
+          },
+          {
+            "pronoun": "Elle",
+            "position": 785
+          },
+          {
+            "pronoun": "son",
+            "position": 883
+          },
+          {
+            "pronoun": "la",
+            "position": 1210
+          },
+          {
+            "pronoun": "la",
+            "position": 1259
+          },
+          {
+            "pronoun": "la",
+            "position": 1290
+          },
+          {
+            "pronoun": "la",
+            "position": 1348
+          },
+          {
+            "pronoun": "la",
+            "position": 1374
+          },
+          {
+            "pronoun": "cette",
+            "position": 1400
+          },
+          {
+            "pronoun": "la",
+            "position": 1448
+          },
+          {
+            "pronoun": "Il",
+            "position": 1471
+          },
+          {
+            "pronoun": "la",
+            "position": 1501
+          },
+          {
+            "pronoun": "Le",
+            "position": 1573
+          },
+          {
+            "pronoun": "Il",
+            "position": 1730
+          },
+          {
+            "pronoun": "la",
+            "position": 1796
+          },
+          {
+            "pronoun": "la",
+            "position": 1815
+          },
+          {
+            "pronoun": "la",
+            "position": 1951
+          },
+          {
+            "pronoun": "la",
+            "position": 2294
+          },
+          {
+            "pronoun": "la",
+            "position": 2439
+          },
+          {
+            "pronoun": "La",
+            "position": 2463
+          },
+          {
+            "pronoun": "la",
+            "position": 2483
+          },
+          {
+            "pronoun": "Le",
+            "position": 2604
+          },
+          {
+            "pronoun": "le",
+            "position": 2738
+          },
+          {
+            "pronoun": "la",
+            "position": 2750
+          },
+          {
+            "pronoun": "le",
+            "position": 2770
+          },
+          {
+            "pronoun": "la",
+            "position": 2875
+          },
+          {
+            "pronoun": "cette",
+            "position": 2888
+          },
+          {
+            "pronoun": "le",
+            "position": 2969
+          },
+          {
+            "pronoun": "Le",
+            "position": 2990
+          },
+          {
+            "pronoun": "sa",
+            "position": 3038
+          },
+          {
+            "pronoun": "il",
+            "position": 3053
+          },
+          {
+            "pronoun": "la",
+            "position": 3077
+          },
+          {
+            "pronoun": "ce",
+            "position": 3157
+          },
+          {
+            "pronoun": "la",
+            "position": 3182
+          },
+          {
+            "pronoun": "la",
+            "position": 3197
+          },
+          {
+            "pronoun": "la",
+            "position": 3273
+          },
+          {
+            "pronoun": "la",
+            "position": 3484
+          },
+          {
+            "pronoun": "la",
+            "position": 3560
+          },
+          {
+            "pronoun": "la",
+            "position": 3657
+          },
+          {
+            "pronoun": "ce",
+            "position": 3685
+          },
+          {
+            "pronoun": "la",
+            "position": 3716
+          },
+          {
+            "pronoun": "il",
+            "position": 3792
+          },
+          {
+            "pronoun": "la",
+            "position": 3841
+          },
+          {
+            "pronoun": "la",
+            "position": 3860
+          },
+          {
+            "pronoun": "le",
+            "position": 3901
+          },
+          {
+            "pronoun": "son",
+            "position": 3937
+          },
+          {
+            "pronoun": "la",
+            "position": 4474
+          },
+          {
+            "pronoun": "le",
+            "position": 4541
+          },
+          {
+            "pronoun": "le",
+            "position": 4675
+          },
+          {
+            "pronoun": "la",
+            "position": 4757
+          },
+          {
+            "pronoun": "la",
+            "position": 4938
+          },
+          {
+            "pronoun": "la",
+            "position": 5022
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": 3,
+            "score": 0.6797470450401306
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": 3,
+            "score": 0.5220810174942017
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": 3,
+            "score": 0.6680077910423279
+          },
+          {
+            "begin_char": 23,
+            "end_char": 123,
+            "sentiment": 3,
+            "score": 0.7537503838539124
+          },
+          {
+            "begin_char": 124,
+            "end_char": 215,
+            "sentiment": 3,
+            "score": 0.698956310749054
+          },
+          {
+            "begin_char": 216,
+            "end_char": 225,
+            "sentiment": 3,
+            "score": 0.6876328587532043
+          },
+          {
+            "begin_char": 225,
+            "end_char": 232,
+            "sentiment": 3,
+            "score": 0.646905779838562
+          },
+          {
+            "begin_char": 232,
+            "end_char": 233,
+            "sentiment": 3,
+            "score": 0.5162482261657715
+          },
+          {
+            "begin_char": 233,
+            "end_char": 243,
+            "sentiment": 3,
+            "score": 0.7402395606040955
+          },
+          {
+            "begin_char": 243,
+            "end_char": 358,
+            "sentiment": 3,
+            "score": 0.7675827741622925
+          },
+          {
+            "begin_char": 359,
+            "end_char": 456,
+            "sentiment": 3,
+            "score": 0.8242319226264954
+          },
+          {
+            "begin_char": 457,
+            "end_char": 489,
+            "sentiment": 3,
+            "score": 0.8032981753349304
+          },
+          {
+            "begin_char": 490,
+            "end_char": 784,
+            "sentiment": 3,
+            "score": 0.8474366664886475
+          },
+          {
+            "begin_char": 785,
+            "end_char": 941,
+            "sentiment": 3,
+            "score": 0.5844104290008545
+          },
+          {
+            "begin_char": 942,
+            "end_char": 1151,
+            "sentiment": 3,
+            "score": 0.7132490277290344
+          },
+          {
+            "begin_char": 1152,
+            "end_char": 1395,
+            "sentiment": 3,
+            "score": 0.8339911103248596
+          },
+          {
+            "begin_char": 1396,
+            "end_char": 1470,
+            "sentiment": 3,
+            "score": 0.827911913394928
+          },
+          {
+            "begin_char": 1471,
+            "end_char": 1729,
+            "sentiment": 3,
+            "score": 0.7968011498451233
+          },
+          {
+            "begin_char": 1730,
+            "end_char": 1853,
+            "sentiment": 3,
+            "score": 0.7898768186569214
+          },
+          {
+            "begin_char": 1854,
+            "end_char": 2227,
+            "sentiment": 3,
+            "score": 0.7922596335411072
+          },
+          {
+            "begin_char": 2228,
+            "end_char": 2364,
+            "sentiment": 3,
+            "score": 0.8139141798019409
+          },
+          {
+            "begin_char": 2365,
+            "end_char": 2453,
+            "sentiment": 3,
+            "score": 0.804760754108429
+          },
+          {
+            "begin_char": 2454,
+            "end_char": 2624,
+            "sentiment": 3,
+            "score": 0.7590479254722595
+          },
+          {
+            "begin_char": 2625,
+            "end_char": 2633,
+            "sentiment": 3,
+            "score": 0.5122615098953247
+          },
+          {
+            "begin_char": 2634,
+            "end_char": 2710,
+            "sentiment": 3,
+            "score": 0.7257460951805115
+          },
+          {
+            "begin_char": 2711,
+            "end_char": 2854,
+            "sentiment": 3,
+            "score": 0.8204834461212158
+          },
+          {
+            "begin_char": 2855,
+            "end_char": 2990,
+            "sentiment": 3,
+            "score": 0.7921948432922363
+          },
+          {
+            "begin_char": 2990,
+            "end_char": 3166,
+            "sentiment": 3,
+            "score": 0.8586925864219666
+          },
+          {
+            "begin_char": 3167,
+            "end_char": 3244,
+            "sentiment": 3,
+            "score": 0.7304829359054565
+          },
+          {
+            "begin_char": 3245,
+            "end_char": 3682,
+            "sentiment": 3,
+            "score": 0.855688750743866
+          },
+          {
+            "begin_char": 3683,
+            "end_char": 3833,
+            "sentiment": 3,
+            "score": 0.8263884782791138
+          },
+          {
+            "begin_char": 3834,
+            "end_char": 3916,
+            "sentiment": 3,
+            "score": 0.8608114123344421
+          },
+          {
+            "begin_char": 3917,
+            "end_char": 4154,
+            "sentiment": 3,
+            "score": 0.8147969841957092
+          },
+          {
+            "begin_char": 4155,
+            "end_char": 4264,
+            "sentiment": 3,
+            "score": 0.8211366534233093
+          },
+          {
+            "begin_char": 4264,
+            "end_char": 4308,
+            "sentiment": 3,
+            "score": 0.8296050429344177
+          },
+          {
+            "begin_char": 4309,
+            "end_char": 4444,
+            "sentiment": 3,
+            "score": 0.8020310997962952
+          },
+          {
+            "begin_char": 4445,
+            "end_char": 4642,
+            "sentiment": 3,
+            "score": 0.819679856300354
+          },
+          {
+            "begin_char": 4643,
+            "end_char": 4793,
+            "sentiment": 3,
+            "score": 0.8729539513587952
+          },
+          {
+            "begin_char": 4794,
+            "end_char": 4844,
+            "sentiment": 3,
+            "score": 0.7933515310287476
+          },
+          {
+            "begin_char": 4844,
+            "end_char": 4870,
+            "sentiment": 3,
+            "score": 0.8167576789855957
+          },
+          {
+            "begin_char": 4871,
+            "end_char": 4917,
+            "sentiment": 3,
+            "score": 0.723443329334259
+          },
+          {
+            "begin_char": 4918,
+            "end_char": 5072,
+            "sentiment": 3,
+            "score": 0.808073103427887
+          },
+          {
+            "begin_char": 5073,
+            "end_char": 5131,
+            "sentiment": 3,
+            "score": 0.8280987739562988
+          },
+          {
+            "begin_char": 5132,
+            "end_char": 5135,
+            "sentiment": 3,
+            "score": 0.687434732913971
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-30",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-30",
+        "pageJO": "6149",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

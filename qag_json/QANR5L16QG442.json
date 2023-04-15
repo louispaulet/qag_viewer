@@ -1,1 +1,545 @@
-{"question": {"@xmlns": "http://schemas.assemblee-nationale.fr/referentiel", "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance", "@xsi:type": "QuestionGouvernement_Type", "uid": "QANR5L16QG442", "identifiant": {"numero": "442", "regime": "5eme Republique", "legislature": "16"}, "type": "QG", "indexationAN": {"rubrique": "\u00e9tablissements de sant\u00e9", "teteAnalyse": null, "analyses": {"analyse": "CRISE DE L'H\u00d4PITAL"}}, "auteur": {"identite": {"acteurRef": "PA793210", "mandatRef": "PM796212"}, "groupe": {"organeRef": "PO800532", "abrege": "LIOT", "developpe": "Libert\u00e9s, Ind\u00e9pendants, Outre-mer et Territoires"}}, "minInt": {"abrege": "Sant\u00e9 et pr\u00e9vention", "developpe": "Minist\u00e8re de la sant\u00e9 et de la pr\u00e9vention"}, "minAttribs": {"minAttrib": {"infoJO": {"typeJO": "JO_DEBAT", "dateJO": "2023-01-11", "pageJO": null, "numJO": null, "urlLegifrance": null, "referenceNOR": null}, "denomination": {"abrege": "Sant\u00e9 et pr\u00e9vention", "developpe": "Minist\u00e8re de la sant\u00e9 et de la pr\u00e9vention"}}}, "textesQuestion": null, "textesReponse": {"texteReponse": {"infoJO": {"typeJO": "JO_DEBAT", "dateJO": "2023-01-11", "pageJO": null, "numJO": null, "urlLegifrance": null, "referenceNOR": null}, "texte": "</p><p align=\"CENTER\"> CRISE DE L'H\u00d4PITAL <a name=PG28></a> </p><br><strong>Mme\u00a0la pr\u00e9sidente. </strong>La parole est \u00e0 M.\u00a0Laurent Panifous.<br><br><strong>M.\u00a0Laurent Panifous. </strong>Cette ann\u00e9e encore, les services des urgences ont connu de grandes difficult\u00e9s durant la p\u00e9riode des f\u00eates. La situation n\u2019est pas nouvelle puisque d\u00e9but juin, le syndicat Samu-Urgences de France (SUDF) parlait d\u00e9j\u00e0 d\u2019une forte d\u00e9gradation. Environ 120\u00a0services, r\u00e9partis sur une soixantaine de d\u00e9partements, sont confront\u00e9s \u00e0 d\u2019importants dysfonctionnements.<br><br>Parmi eux figurent le centre hospitalier intercommunal des vall\u00e9es de l\u2019Ari\u00e8ge, le Chiva, et le centre hospitalier Ari\u00e8ge Couserans, le Chac. Les indicateurs du d\u00e9partement figurent parmi les plus mauvais de France. L\u2019agglom\u00e9ration de Saint-Girons, dont le nombre de m\u00e9decins est pass\u00e9 de vingt et un en 1980 \u00e0 six en 2023, voit son service des urgences contraint de fermer cinq jours par mois, faute de m\u00e9decins. En un an, \u00e0 effectifs constants, voire en baisse, l\u2019activit\u00e9 des services de r\u00e9gulation du d\u00e9partement a augment\u00e9 de 20\u00a0%, les passages dans les services des urgences de 6\u00a0% et le taux d\u2019hospitalisation de 18\u00a0%. Il faut y voir l\u2019effet \u00e0 la fois du vieillissement de la population et de la d\u00e9sertification de la m\u00e9decine de ville.<br><br>Ainsi les Ari\u00e9geois subissent-ils la double peine\u00a0: apr\u00e8s l\u2019acc\u00e8s aux soins de ville, tr\u00e8s d\u00e9grad\u00e9, c\u2019est l\u2019acc\u00e8s aux urgences \u2013\u00a0pourtant le dernier rempart contre la d\u00e9sertification m\u00e9dicale\u00a0\u2013 qui est menac\u00e9, au point qu\u2019on peut d\u00e9sormais parler de \u00ab\u00a0mis\u00e8re m\u00e9dicale\u00a0\u00bb. Comme dans bien d\u2019autres territoires, l\u2019\u00e9galit\u00e9 d\u2019acc\u00e8s aux soins n\u2019est plus assur\u00e9e. La population et les soignants, parfois contraints de proc\u00e9der \u00e0 une s\u00e9lection des patients \u00e0 l\u2019entr\u00e9e, expriment leurs inqui\u00e9tudes les plus vives.<br><br>Face \u00e0 la situation tr\u00e8s tendue des services des urgences et au burn-out qui a atteint le syst\u00e8me hospitalier apr\u00e8s deux ans de pand\u00e9mie, l\u2019heure n\u2019est plus \u00e0 la r\u00e9flexion et aux revalorisations ponctuelles. Monsieur le ministre de la sant\u00e9, que le Gouvernement compte-t-il faire pour garantir aux Ari\u00e9geois, et aux Fran\u00e7ais confront\u00e9s aux m\u00eames difficult\u00e9s, l\u2019acc\u00e8s \u00e0 des services des urgences dignes d\u2019un pays d\u00e9velopp\u00e9\u00a0? (<i>Applaudissements sur les bancs du groupe LIOT.)</i><br><br><strong>Mme\u00a0la pr\u00e9sidente. </strong>La parole est \u00e0 M.\u00a0le ministre de la sant\u00e9 et de la pr\u00e9vention.<br><br><strong>M.\u00a0Fran\u00e7ois Braun,</strong><i> ministre de la sant\u00e9 et de la pr\u00e9vention. </i>Je vous remercie d\u2019avoir soulign\u00e9 que la situation des services des urgences est g\u00e9n\u00e9ralement plus difficile durant les f\u00eates, en raison des cong\u00e9s des m\u00e9decins et des \u00e9pid\u00e9mies. Elles \u00e9taient au nombre de trois cette ann\u00e9e\u00a0; je ne reviendrai pas sur l\u2019utilit\u00e9 des gestes barri\u00e8res et de la vaccination, vous avez largement entendu le message.<br><br>Malheureusement, la situation est ancienne. Elle est li\u00e9e aux difficult\u00e9s de la m\u00e9decine de ville et aux dysfonctionnements de l\u2019h\u00f4pital. La diminution globale de l\u2019offre et l\u2019augmentation des besoins, due au vieillissement de la population et aux progr\u00e8s m\u00e9dicaux, en sont les causes principales. Je veux insister sur cette derni\u00e8re notion\u00a0: il est n\u00e9cessaire de reconstruire la r\u00e9ponse aux besoins.<br><br>Une des solutions r\u00e9side dans l\u2019am\u00e9lioration de la r\u00e9gulation m\u00e9dicale, qui permet d\u2019orienter pertinemment les patients dans le parcours de soins et de mobiliser les personnels ad\u00e9quats. Le Pr\u00e9sident de la R\u00e9publique l\u2019a annonc\u00e9, nous comptons y consacrer des moyens, humains comme mat\u00e9riels. Nous poursuivrons aussi une action entreprise cet \u00e9t\u00e9, la revalorisation de la r\u00e9mun\u00e9ration des professionnels qui acceptent de prendre en charge des patients dans le cadre des soins non programm\u00e9s. Plus g\u00e9n\u00e9ralement, la mobilisation de l\u2019ensemble des professionnels et des \u00e9tablissements dans un territoire permet d\u2019\u00e9largir la r\u00e9ponse aux soins non programm\u00e9s. Vous le voyez, nous sommes dans une logique d\u2019action. Le diagnostic est connu, nous appliquons d\u00e9sormais le traitement. (<i>Applaudissements sur quelques bancs du groupe RE.)</i><br> <p>"}}, "cloture": {"codeCloture": "REP_PUB", "libelleCloture": "R\u00e9ponse publi\u00e9e", "dateCloture": "2023-01-11", "infoJO": {"typeJO": "JO_DEBAT", "dateJO": "2023-01-11", "pageJO": "119", "numJO": null, "urlLegifrance": null, "referenceNOR": null}}}}
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG442",
+    "identifiant": {
+      "numero": "442",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "établissements de santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "CRISE DE L'HÔPITAL"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793210",
+        "mandatRef": "PM796212"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CRISE DE L'HÔPITAL <a name=PG28></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Laurent Panifous.<br><br><strong>M. Laurent Panifous. </strong>Cette année encore, les services des urgences ont connu de grandes difficultés durant la période des fêtes. La situation n’est pas nouvelle puisque début juin, le syndicat Samu-Urgences de France (SUDF) parlait déjà d’une forte dégradation. Environ 120 services, répartis sur une soixantaine de départements, sont confrontés à d’importants dysfonctionnements.<br><br>Parmi eux figurent le centre hospitalier intercommunal des vallées de l’Ariège, le Chiva, et le centre hospitalier Ariège Couserans, le Chac. Les indicateurs du département figurent parmi les plus mauvais de France. L’agglomération de Saint-Girons, dont le nombre de médecins est passé de vingt et un en 1980 à six en 2023, voit son service des urgences contraint de fermer cinq jours par mois, faute de médecins. En un an, à effectifs constants, voire en baisse, l’activité des services de régulation du département a augmenté de 20 %, les passages dans les services des urgences de 6 % et le taux d’hospitalisation de 18 %. Il faut y voir l’effet à la fois du vieillissement de la population et de la désertification de la médecine de ville.<br><br>Ainsi les Ariégeois subissent-ils la double peine : après l’accès aux soins de ville, très dégradé, c’est l’accès aux urgences – pourtant le dernier rempart contre la désertification médicale – qui est menacé, au point qu’on peut désormais parler de « misère médicale ». Comme dans bien d’autres territoires, l’égalité d’accès aux soins n’est plus assurée. La population et les soignants, parfois contraints de procéder à une sélection des patients à l’entrée, expriment leurs inquiétudes les plus vives.<br><br>Face à la situation très tendue des services des urgences et au burn-out qui a atteint le système hospitalier après deux ans de pandémie, l’heure n’est plus à la réflexion et aux revalorisations ponctuelles. Monsieur le ministre de la santé, que le Gouvernement compte-t-il faire pour garantir aux Ariégeois, et aux Français confrontés aux mêmes difficultés, l’accès à des services des urgences dignes d’un pays développé ? (<i>Applaudissements sur les bancs du groupe LIOT.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>Je vous remercie d’avoir souligné que la situation des services des urgences est généralement plus difficile durant les fêtes, en raison des congés des médecins et des épidémies. Elles étaient au nombre de trois cette année ; je ne reviendrai pas sur l’utilité des gestes barrières et de la vaccination, vous avez largement entendu le message.<br><br>Malheureusement, la situation est ancienne. Elle est liée aux difficultés de la médecine de ville et aux dysfonctionnements de l’hôpital. La diminution globale de l’offre et l’augmentation des besoins, due au vieillissement de la population et aux progrès médicaux, en sont les causes principales. Je veux insister sur cette dernière notion : il est nécessaire de reconstruire la réponse aux besoins.<br><br>Une des solutions réside dans l’amélioration de la régulation médicale, qui permet d’orienter pertinemment les patients dans le parcours de soins et de mobiliser les personnels adéquats. Le Président de la République l’a annoncé, nous comptons y consacrer des moyens, humains comme matériels. Nous poursuivrons aussi une action entreprise cet été, la revalorisation de la rémunération des professionnels qui acceptent de prendre en charge des patients dans le cadre des soins non programmés. Plus généralement, la mobilisation de l’ensemble des professionnels et des établissements dans un territoire permet d’élargir la réponse aux soins non programmés. Vous le voyez, nous sommes dans une logique d’action. Le diagnostic est connu, nous appliquons désormais le traitement. (<i>Applaudissements sur quelques bancs du groupe RE.)</i><br> <p>",
+        "male_pronouns_count": 22,
+        "female_pronouns_count": 37,
+        "male_pronouns_percentage": 37.28813559322034,
+        "female_pronouns_percentage": 62.71186440677966,
+        "pronoun_positions": [
+          {
+            "pronoun": "la",
+            "position": 80
+          },
+          {
+            "pronoun": "La",
+            "position": 104
+          },
+          {
+            "pronoun": "Cette",
+            "position": 186
+          },
+          {
+            "pronoun": "la",
+            "position": 272
+          },
+          {
+            "pronoun": "La",
+            "position": 294
+          },
+          {
+            "pronoun": "le",
+            "position": 346
+          },
+          {
+            "pronoun": "le",
+            "position": 572
+          },
+          {
+            "pronoun": "le",
+            "position": 633
+          },
+          {
+            "pronoun": "le",
+            "position": 646
+          },
+          {
+            "pronoun": "le",
+            "position": 686
+          },
+          {
+            "pronoun": "le",
+            "position": 807
+          },
+          {
+            "pronoun": "son",
+            "position": 882
+          },
+          {
+            "pronoun": "le",
+            "position": 1144
+          },
+          {
+            "pronoun": "Il",
+            "position": 1179
+          },
+          {
+            "pronoun": "la",
+            "position": 1204
+          },
+          {
+            "pronoun": "la",
+            "position": 1233
+          },
+          {
+            "pronoun": "la",
+            "position": 1253
+          },
+          {
+            "pronoun": "la",
+            "position": 1275
+          },
+          {
+            "pronoun": "la",
+            "position": 1338
+          },
+          {
+            "pronoun": "le",
+            "position": 1442
+          },
+          {
+            "pronoun": "la",
+            "position": 1468
+          },
+          {
+            "pronoun": "La",
+            "position": 1661
+          },
+          {
+            "pronoun": "la",
+            "position": 1823
+          },
+          {
+            "pronoun": "le",
+            "position": 1903
+          },
+          {
+            "pronoun": "la",
+            "position": 1975
+          },
+          {
+            "pronoun": "le",
+            "position": 2033
+          },
+          {
+            "pronoun": "la",
+            "position": 2048
+          },
+          {
+            "pronoun": "le",
+            "position": 2062
+          },
+          {
+            "pronoun": "la",
+            "position": 2315
+          },
+          {
+            "pronoun": "La",
+            "position": 2339
+          },
+          {
+            "pronoun": "le",
+            "position": 2358
+          },
+          {
+            "pronoun": "la",
+            "position": 2373
+          },
+          {
+            "pronoun": "la",
+            "position": 2388
+          },
+          {
+            "pronoun": "la",
+            "position": 2461
+          },
+          {
+            "pronoun": "la",
+            "position": 2476
+          },
+          {
+            "pronoun": "la",
+            "position": 2533
+          },
+          {
+            "pronoun": "cette",
+            "position": 2707
+          },
+          {
+            "pronoun": "la",
+            "position": 2783
+          },
+          {
+            "pronoun": "le",
+            "position": 2827
+          },
+          {
+            "pronoun": "la",
+            "position": 2863
+          },
+          {
+            "pronoun": "Elle",
+            "position": 2890
+          },
+          {
+            "pronoun": "la",
+            "position": 2923
+          },
+          {
+            "pronoun": "La",
+            "position": 2984
+          },
+          {
+            "pronoun": "la",
+            "position": 3073
+          },
+          {
+            "pronoun": "cette",
+            "position": 3165
+          },
+          {
+            "pronoun": "il",
+            "position": 3189
+          },
+          {
+            "pronoun": "la",
+            "position": 3223
+          },
+          {
+            "pronoun": "la",
+            "position": 3302
+          },
+          {
+            "pronoun": "le",
+            "position": 3379
+          },
+          {
+            "pronoun": "Le",
+            "position": 3441
+          },
+          {
+            "pronoun": "la",
+            "position": 3457
+          },
+          {
+            "pronoun": "la",
+            "position": 3602
+          },
+          {
+            "pronoun": "la",
+            "position": 3623
+          },
+          {
+            "pronoun": "le",
+            "position": 3711
+          },
+          {
+            "pronoun": "la",
+            "position": 3765
+          },
+          {
+            "pronoun": "la",
+            "position": 3872
+          },
+          {
+            "pronoun": "le",
+            "position": 3914
+          },
+          {
+            "pronoun": "Le",
+            "position": 3963
+          },
+          {
+            "pronoun": "le",
+            "position": 4014
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": 3,
+            "score": 0.6797470450401306
+          },
+          {
+            "begin_char": 20,
+            "end_char": 94,
+            "sentiment": 3,
+            "score": 0.7575262188911438
+          },
+          {
+            "begin_char": 95,
+            "end_char": 176,
+            "sentiment": 3,
+            "score": 0.7334808707237244
+          },
+          {
+            "begin_char": 177,
+            "end_char": 186,
+            "sentiment": 3,
+            "score": 0.6876328587532043
+          },
+          {
+            "begin_char": 186,
+            "end_char": 293,
+            "sentiment": 3,
+            "score": 0.7830967307090759
+          },
+          {
+            "begin_char": 294,
+            "end_char": 426,
+            "sentiment": 3,
+            "score": 0.7704220414161682
+          },
+          {
+            "begin_char": 427,
+            "end_char": 694,
+            "sentiment": 3,
+            "score": 0.8076073527336121
+          },
+          {
+            "begin_char": 695,
+            "end_char": 768,
+            "sentiment": 3,
+            "score": 0.7637153267860413
+          },
+          {
+            "begin_char": 769,
+            "end_char": 966,
+            "sentiment": 3,
+            "score": 0.8085442185401917
+          },
+          {
+            "begin_char": 967,
+            "end_char": 1178,
+            "sentiment": 3,
+            "score": 0.8486188054084778
+          },
+          {
+            "begin_char": 1179,
+            "end_char": 1304,
+            "sentiment": 3,
+            "score": 0.7594251036643982
+          },
+          {
+            "begin_char": 1304,
+            "end_char": 1574,
+            "sentiment": 3,
+            "score": 0.80906742811203
+          },
+          {
+            "begin_char": 1575,
+            "end_char": 1660,
+            "sentiment": 3,
+            "score": 0.7653694152832031
+          },
+          {
+            "begin_char": 1661,
+            "end_char": 1816,
+            "sentiment": 3,
+            "score": 0.7500688433647156
+          },
+          {
+            "begin_char": 1816,
+            "end_char": 2023,
+            "sentiment": 3,
+            "score": 0.7232630848884583
+          },
+          {
+            "begin_char": 2024,
+            "end_char": 2239,
+            "sentiment": 3,
+            "score": 0.8013221621513367
+          },
+          {
+            "begin_char": 2240,
+            "end_char": 2241,
+            "sentiment": 1,
+            "score": 0.49622732400894165
+          },
+          {
+            "begin_char": 2241,
+            "end_char": 2329,
+            "sentiment": 3,
+            "score": 0.8175481557846069
+          },
+          {
+            "begin_char": 2330,
+            "end_char": 2448,
+            "sentiment": 3,
+            "score": 0.7819169759750366
+          },
+          {
+            "begin_char": 2449,
+            "end_char": 2490,
+            "sentiment": 3,
+            "score": 0.7049996852874756
+          },
+          {
+            "begin_char": 2491,
+            "end_char": 2495,
+            "sentiment": 3,
+            "score": 0.7015480399131775
+          },
+          {
+            "begin_char": 2495,
+            "end_char": 2497,
+            "sentiment": 3,
+            "score": 0.5450379848480225
+          },
+          {
+            "begin_char": 2498,
+            "end_char": 2673,
+            "sentiment": 3,
+            "score": 0.7694820165634155
+          },
+          {
+            "begin_char": 2674,
+            "end_char": 2720,
+            "sentiment": 3,
+            "score": 0.8334528803825378
+          },
+          {
+            "begin_char": 2721,
+            "end_char": 2889,
+            "sentiment": 3,
+            "score": 0.7177408933639526
+          },
+          {
+            "begin_char": 2890,
+            "end_char": 2983,
+            "sentiment": 3,
+            "score": 0.650081217288971
+          },
+          {
+            "begin_char": 2984,
+            "end_char": 3143,
+            "sentiment": 3,
+            "score": 0.7380334734916687
+          },
+          {
+            "begin_char": 3144,
+            "end_char": 3254,
+            "sentiment": 3,
+            "score": 0.8224519491195679
+          },
+          {
+            "begin_char": 3254,
+            "end_char": 3440,
+            "sentiment": 3,
+            "score": 0.7825130820274353
+          },
+          {
+            "begin_char": 3441,
+            "end_char": 3546,
+            "sentiment": 3,
+            "score": 0.8016175031661987
+          },
+          {
+            "begin_char": 3547,
+            "end_char": 3745,
+            "sentiment": 3,
+            "score": 0.7822929620742798
+          },
+          {
+            "begin_char": 3746,
+            "end_char": 3908,
+            "sentiment": 3,
+            "score": 0.8109521269798279
+          },
+          {
+            "begin_char": 3909,
+            "end_char": 3962,
+            "sentiment": 3,
+            "score": 0.7512899041175842
+          },
+          {
+            "begin_char": 3963,
+            "end_char": 4028,
+            "sentiment": 3,
+            "score": 0.7557181119918823
+          },
+          {
+            "begin_char": 4029,
+            "end_char": 4030,
+            "sentiment": 1,
+            "score": 0.49622732400894165
+          },
+          {
+            "begin_char": 4030,
+            "end_char": 4091,
+            "sentiment": 3,
+            "score": 0.8409144878387451
+          },
+          {
+            "begin_char": 4092,
+            "end_char": 4095,
+            "sentiment": 3,
+            "score": 0.687434732913971
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-11",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-11",
+        "pageJO": "119",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -11,3 +11,8 @@ body {
 .container {
   flex: 1;
 }
+
+.highlighted-pronoun {
+    background-color: yellow;
+    display: inline;
+}

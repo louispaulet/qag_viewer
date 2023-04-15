@@ -1,1 +1,505 @@
-{"question": {"@xmlns": "http://schemas.assemblee-nationale.fr/referentiel", "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance", "@xsi:type": "QuestionGouvernement_Type", "uid": "QANR5L16QG97", "identifiant": {"numero": "97", "regime": "5eme Republique", "legislature": "16"}, "type": "QG", "indexationAN": {"rubrique": "pollution", "teteAnalyse": null, "analyses": {"analyse": "Pollution aux PFAS"}}, "auteur": {"identite": {"acteurRef": "PA722374", "mandatRef": "PM797196"}, "groupe": {"organeRef": "PO800484", "abrege": "DEM", "developpe": "D\u00e9mocrate (MoDem et Ind\u00e9pendants)"}}, "minInt": {"abrege": "Transition \u00e9cologique et coh\u00e9sion des territoires", "developpe": "Minist\u00e8re de la transition \u00e9cologique et de la coh\u00e9sion des territoires"}, "minAttribs": {"minAttrib": {"infoJO": {"typeJO": "JO_DEBAT", "dateJO": "2022-08-03", "pageJO": null, "numJO": null, "urlLegifrance": null, "referenceNOR": null}, "denomination": {"abrege": "Transition \u00e9cologique et coh\u00e9sion des territoires", "developpe": "Minist\u00e8re de la transition \u00e9cologique et de la coh\u00e9sion des territoires"}}}, "textesQuestion": null, "textesReponse": {"texteReponse": {"infoJO": {"typeJO": "JO_DEBAT", "dateJO": "2022-08-03", "pageJO": null, "numJO": null, "urlLegifrance": null, "referenceNOR": null}, "texte": "</p><p align=\"CENTER\"> POLLUTION AUX PFAS <a name=PG16></a> </p><br><strong>Mme\u00a0la pr\u00e9sidente. </strong>La parole est \u00e0 M.\u00a0Cyrille Isaac-Sibille.<br><br><strong>M.\u00a0Cyrille Isaac-Sibille. </strong>Monsieur le ministre de la transition \u00e9cologique et de la coh\u00e9sion des territoires, j'associe mes coll\u00e8gues Sandrine Josso et Jimmy Pahun \u00e0 ma question.<br><br>En mai dernier, une enqu\u00eate journalistique a r\u00e9v\u00e9l\u00e9 une pollution aux substances per- et poly-fluoroalkyl\u00e9es (PFAS) touchant les communes du sud de la m\u00e9tropole de Lyon, plus particuli\u00e8rement la commune de Pierre-B\u00e9nite o\u00f9 sont implant\u00e9es deux entreprises chimiques. Des quantit\u00e9s importantes de compos\u00e9s perfluor\u00e9s ont \u00e9t\u00e9 retrouv\u00e9es dans l'eau du Rh\u00f4ne, en amont de points de captage de l'eau de consommation des habitants de plusieurs communes, dans les sols mara\u00eechers et dans l'air. Des composants per- et poly-fluor\u00e9s ont m\u00eame \u00e9t\u00e9 retrouv\u00e9s dans le lait de treize m\u00e8res.<br><br>Ces substances chimiques sont baptis\u00e9es \u00ab\u00a0polluants \u00e9ternels\u00a0\u00bb, tant elles sont peu d\u00e9gradables dans le temps. De nombreuses \u00e9tudes associent l'exposition \u00e0 ces substances aux cancers, aux troubles thyro\u00efdiens, aux d\u00e9r\u00e8glements hormonaux et \u00e0 la st\u00e9rilit\u00e9. Actuellement, les PFAS ne sont pas r\u00e9glement\u00e9es dans les aliments. Dans l'eau de boisson, une norme europ\u00e9enne doit \u00eatre traduite en droit fran\u00e7ais avant 2026. L'entreprise concern\u00e9e s'est engag\u00e9e \u00e0 ne plus utiliser ce polluant d'ici \u00e0 2024. Cependant, certains des polluants retrouv\u00e9s dans l'eau de consommation et dans les sols n'\u00e9taient plus utilis\u00e9s depuis des dizaines d'ann\u00e9es\u00a0: il est donc probable que la nappe phr\u00e9atique soit contamin\u00e9e.<br><br>Monsieur le ministre, les habitants de la m\u00e9tropole de Lyon doivent-ils attendre une enqu\u00eate journalistique pour \u00eatre inform\u00e9s de pollutions connues, et la direction r\u00e9gionale de l'environnement, de l'am\u00e9nagement et du logement (DREAL) pour faire des contr\u00f4les inopin\u00e9s\u00a0? Comment mieux informer les habitants et leurs \u00e9lus et garantir plus de transparence concernant les r\u00e9sultats des pr\u00e9l\u00e8vements, les prescriptions de la DREAL et le suivi des mesures ordonn\u00e9es\u00a0? Je me suis encore rendu sur le site internet de la DREAL ce matin\u00a0: le dossier d'actualit\u00e9 consacr\u00e9 \u00e0 ce sujet a disparu. Enfin, comment quantifier, contr\u00f4ler et traiter cette pollution ancienne des eaux souterraines et de la nappe phr\u00e9atique \u00e0 des polluants \u00e9ternels au sein d'une m\u00e9tropole d'un million et demi d'habitants\u00a0? <i>(Applaudissements sur les bancs du groupe Dem et sur quelques bancs du groupe RE.)</i><br><br><strong>Mme\u00a0la pr\u00e9sidente. </strong>La parole est \u00e0 M.\u00a0le ministre de la transition \u00e9cologique et de la coh\u00e9sion des territoires.<br><br><strong>M.\u00a0Christophe B\u00e9chu,</strong><i> ministre de la transition \u00e9cologique et de la coh\u00e9sion des territoires. </i>Le 12\u00a0mai dernier, une enqu\u00eate journalistique a effectivement permis de mesurer des taux de substances perfluoroalkyl\u00e9es \u00e0 des niveaux inacceptables, ce qui a \u00e9t\u00e9 confirm\u00e9 par les inspections r\u00e9alis\u00e9es imm\u00e9diatement apr\u00e8s par la DREAL. Le pr\u00e9fet du Rh\u00f4ne a pris deux arr\u00eat\u00e9s de surveillance renforc\u00e9e des rejets de l'usine Ark\u00e9ma dont vous parlez, compte tenu des niveaux de pollution relev\u00e9s dans la ville de Pierre-B\u00e9nite.<br><br>Ma pr\u00e9d\u00e9cesseure, Barbara Pompili, a diligent\u00e9 de mani\u00e8re imm\u00e9diate une enqu\u00eate confi\u00e9e \u00e0 la DREAL. Nous sommes sur le point d'en recevoir les conclusions\u00a0: je vous assure une totale transparence tant sur les r\u00e9sultats que sur leur interpr\u00e9tation, compte tenu du caract\u00e8re particuli\u00e8rement complexe de ces sujets. En fonction des r\u00e9sultats de l'enqu\u00eate de la DREAL et de l'ensemble de l'inspection, nous prendrons \u00e9videmment des mesures qui pourront aller jusqu'\u00e0 une restriction de l'utilisation des PFAS.<br><br>Plus largement, la France se bat pour l'interdiction de cette famille de substances. Nous avons d\u00e9j\u00e0 obtenu l'interdiction de l'acide perfluorooctano\u00efque (PFOA) et de l'acide perfluorooctanesulfonique (PFOS). Comme vous le savez, il existe certaines complexit\u00e9s en la mati\u00e8re et nous devons obtenir une position \u00e0 l'\u00e9chelle europ\u00e9enne pour ne pas nous retrouver dans une situation o\u00f9 nous importerions des produits qui seraient faits avec des PFAS, alors m\u00eame qu'on les interdirait chez nous compte tenu de leur caract\u00e8re n\u00e9faste pour l'environnement et potentiellement canc\u00e9rig\u00e8ne.<br><br>C'est le sens de notre action. \u00c0 court terme, nous soutenons la position des pays du Nord pour que, d\u00e8s 2023, les capacit\u00e9s d'utilisation de ces substances soient diminu\u00e9es de mani\u00e8re draconienne. Plus largement, nous soutenons la r\u00e9vision de la directive sur l'ensemble de ces sujets pour obtenir l'interdiction de cette famille de substances qui a encore quelques usages industriels, notamment pour ses propri\u00e9t\u00e9s de r\u00e9sistance \u00e0 la chaleur. La pollution organique qui reste dans le sol et dure dans le temps n\u00e9cessite bien un engagement d'une autre nature. <i>(Applaudissements sur les bancs du groupe Dem.)</i><br> <p>"}}, "cloture": {"codeCloture": "REP_PUB", "libelleCloture": "R\u00e9ponse publi\u00e9e", "dateCloture": "2022-08-03", "infoJO": {"typeJO": "JO_DEBAT", "dateJO": "2022-08-03", "pageJO": "3313", "numJO": null, "urlLegifrance": null, "referenceNOR": null}}}}
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG97",
+    "identifiant": {
+      "numero": "97",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "pollution",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Pollution aux PFAS"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA722374",
+        "mandatRef": "PM797196"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> POLLUTION AUX PFAS <a name=PG16></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Cyrille Isaac-Sibille.<br><br><strong>M. Cyrille Isaac-Sibille. </strong>Monsieur le ministre de la transition écologique et de la cohésion des territoires, j'associe mes collègues Sandrine Josso et Jimmy Pahun à ma question.<br><br>En mai dernier, une enquête journalistique a révélé une pollution aux substances per- et poly-fluoroalkylées (PFAS) touchant les communes du sud de la métropole de Lyon, plus particulièrement la commune de Pierre-Bénite où sont implantées deux entreprises chimiques. Des quantités importantes de composés perfluorés ont été retrouvées dans l'eau du Rhône, en amont de points de captage de l'eau de consommation des habitants de plusieurs communes, dans les sols maraîchers et dans l'air. Des composants per- et poly-fluorés ont même été retrouvés dans le lait de treize mères.<br><br>Ces substances chimiques sont baptisées « polluants éternels », tant elles sont peu dégradables dans le temps. De nombreuses études associent l'exposition à ces substances aux cancers, aux troubles thyroïdiens, aux dérèglements hormonaux et à la stérilité. Actuellement, les PFAS ne sont pas réglementées dans les aliments. Dans l'eau de boisson, une norme européenne doit être traduite en droit français avant 2026. L'entreprise concernée s'est engagée à ne plus utiliser ce polluant d'ici à 2024. Cependant, certains des polluants retrouvés dans l'eau de consommation et dans les sols n'étaient plus utilisés depuis des dizaines d'années : il est donc probable que la nappe phréatique soit contaminée.<br><br>Monsieur le ministre, les habitants de la métropole de Lyon doivent-ils attendre une enquête journalistique pour être informés de pollutions connues, et la direction régionale de l'environnement, de l'aménagement et du logement (DREAL) pour faire des contrôles inopinés ? Comment mieux informer les habitants et leurs élus et garantir plus de transparence concernant les résultats des prélèvements, les prescriptions de la DREAL et le suivi des mesures ordonnées ? Je me suis encore rendu sur le site internet de la DREAL ce matin : le dossier d'actualité consacré à ce sujet a disparu. Enfin, comment quantifier, contrôler et traiter cette pollution ancienne des eaux souterraines et de la nappe phréatique à des polluants éternels au sein d'une métropole d'un million et demi d'habitants ? <i>(Applaudissements sur les bancs du groupe Dem et sur quelques bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Le 12 mai dernier, une enquête journalistique a effectivement permis de mesurer des taux de substances perfluoroalkylées à des niveaux inacceptables, ce qui a été confirmé par les inspections réalisées immédiatement après par la DREAL. Le préfet du Rhône a pris deux arrêtés de surveillance renforcée des rejets de l'usine Arkéma dont vous parlez, compte tenu des niveaux de pollution relevés dans la ville de Pierre-Bénite.<br><br>Ma prédécesseure, Barbara Pompili, a diligenté de manière immédiate une enquête confiée à la DREAL. Nous sommes sur le point d'en recevoir les conclusions : je vous assure une totale transparence tant sur les résultats que sur leur interprétation, compte tenu du caractère particulièrement complexe de ces sujets. En fonction des résultats de l'enquête de la DREAL et de l'ensemble de l'inspection, nous prendrons évidemment des mesures qui pourront aller jusqu'à une restriction de l'utilisation des PFAS.<br><br>Plus largement, la France se bat pour l'interdiction de cette famille de substances. Nous avons déjà obtenu l'interdiction de l'acide perfluorooctanoïque (PFOA) et de l'acide perfluorooctanesulfonique (PFOS). Comme vous le savez, il existe certaines complexités en la matière et nous devons obtenir une position à l'échelle européenne pour ne pas nous retrouver dans une situation où nous importerions des produits qui seraient faits avec des PFAS, alors même qu'on les interdirait chez nous compte tenu de leur caractère néfaste pour l'environnement et potentiellement cancérigène.<br><br>C'est le sens de notre action. À court terme, nous soutenons la position des pays du Nord pour que, dès 2023, les capacités d'utilisation de ces substances soient diminuées de manière draconienne. Plus largement, nous soutenons la révision de la directive sur l'ensemble de ces sujets pour obtenir l'interdiction de cette famille de substances qui a encore quelques usages industriels, notamment pour ses propriétés de résistance à la chaleur. La pollution organique qui reste dans le sol et dure dans le temps nécessite bien un engagement d'une autre nature. <i>(Applaudissements sur les bancs du groupe Dem.)</i><br> <p>",
+        "male_pronouns_count": 22,
+        "female_pronouns_count": 33,
+        "male_pronouns_percentage": 40.0,
+        "female_pronouns_percentage": 60.0,
+        "pronoun_positions": [
+          {
+            "pronoun": "la",
+            "position": 80
+          },
+          {
+            "pronoun": "La",
+            "position": 104
+          },
+          {
+            "pronoun": "le",
+            "position": 205
+          },
+          {
+            "pronoun": "la",
+            "position": 220
+          },
+          {
+            "pronoun": "la",
+            "position": 251
+          },
+          {
+            "pronoun": "la",
+            "position": 504
+          },
+          {
+            "pronoun": "la",
+            "position": 548
+          },
+          {
+            "pronoun": "le",
+            "position": 908
+          },
+          {
+            "pronoun": "le",
+            "position": 1041
+          },
+          {
+            "pronoun": "la",
+            "position": 1183
+          },
+          {
+            "pronoun": "ce",
+            "position": 1413
+          },
+          {
+            "pronoun": "il",
+            "position": 1582
+          },
+          {
+            "pronoun": "la",
+            "position": 1607
+          },
+          {
+            "pronoun": "le",
+            "position": 1660
+          },
+          {
+            "pronoun": "la",
+            "position": 1690
+          },
+          {
+            "pronoun": "la",
+            "position": 1804
+          },
+          {
+            "pronoun": "la",
+            "position": 2071
+          },
+          {
+            "pronoun": "le",
+            "position": 2083
+          },
+          {
+            "pronoun": "le",
+            "position": 2144
+          },
+          {
+            "pronoun": "la",
+            "position": 2164
+          },
+          {
+            "pronoun": "ce",
+            "position": 2173
+          },
+          {
+            "pronoun": "le",
+            "position": 2184
+          },
+          {
+            "pronoun": "ce",
+            "position": 2218
+          },
+          {
+            "pronoun": "cette",
+            "position": 2286
+          },
+          {
+            "pronoun": "la",
+            "position": 2339
+          },
+          {
+            "pronoun": "la",
+            "position": 2552
+          },
+          {
+            "pronoun": "La",
+            "position": 2576
+          },
+          {
+            "pronoun": "le",
+            "position": 2595
+          },
+          {
+            "pronoun": "la",
+            "position": 2610
+          },
+          {
+            "pronoun": "la",
+            "position": 2641
+          },
+          {
+            "pronoun": "la",
+            "position": 2730
+          },
+          {
+            "pronoun": "la",
+            "position": 2761
+          },
+          {
+            "pronoun": "Le",
+            "position": 2794
+          },
+          {
+            "pronoun": "ce",
+            "position": 2944
+          },
+          {
+            "pronoun": "la",
+            "position": 3020
+          },
+          {
+            "pronoun": "Le",
+            "position": 3030
+          },
+          {
+            "pronoun": "la",
+            "position": 3192
+          },
+          {
+            "pronoun": "la",
+            "position": 3316
+          },
+          {
+            "pronoun": "le",
+            "position": 3342
+          },
+          {
+            "pronoun": "la",
+            "position": 3582
+          },
+          {
+            "pronoun": "la",
+            "position": 3756
+          },
+          {
+            "pronoun": "cette",
+            "position": 3796
+          },
+          {
+            "pronoun": "le",
+            "position": 3960
+          },
+          {
+            "pronoun": "il",
+            "position": 3970
+          },
+          {
+            "pronoun": "la",
+            "position": 4005
+          },
+          {
+            "pronoun": "le",
+            "position": 4336
+          },
+          {
+            "pronoun": "la",
+            "position": 4391
+          },
+          {
+            "pronoun": "la",
+            "position": 4558
+          },
+          {
+            "pronoun": "la",
+            "position": 4573
+          },
+          {
+            "pronoun": "cette",
+            "position": 4646
+          },
+          {
+            "pronoun": "ses",
+            "position": 4731
+          },
+          {
+            "pronoun": "la",
+            "position": 4762
+          },
+          {
+            "pronoun": "La",
+            "position": 4774
+          },
+          {
+            "pronoun": "le",
+            "position": 4812
+          },
+          {
+            "pronoun": "le",
+            "position": 4832
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": 3,
+            "score": 0.6797470450401306
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": 3,
+            "score": 0.5220810174942017
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": 3,
+            "score": 0.6680077910423279
+          },
+          {
+            "begin_char": 23,
+            "end_char": 94,
+            "sentiment": 3,
+            "score": 0.768765389919281
+          },
+          {
+            "begin_char": 95,
+            "end_char": 186,
+            "sentiment": 3,
+            "score": 0.7373769879341125
+          },
+          {
+            "begin_char": 187,
+            "end_char": 196,
+            "sentiment": 3,
+            "score": 0.6876328587532043
+          },
+          {
+            "begin_char": 196,
+            "end_char": 356,
+            "sentiment": 3,
+            "score": 0.8617850542068481
+          },
+          {
+            "begin_char": 356,
+            "end_char": 622,
+            "sentiment": 3,
+            "score": 0.7325354814529419
+          },
+          {
+            "begin_char": 623,
+            "end_char": 843,
+            "sentiment": 3,
+            "score": 0.8092055320739746
+          },
+          {
+            "begin_char": 844,
+            "end_char": 940,
+            "sentiment": 3,
+            "score": 0.7969210743904114
+          },
+          {
+            "begin_char": 940,
+            "end_char": 1050,
+            "sentiment": 3,
+            "score": 0.7661910057067871
+          },
+          {
+            "begin_char": 1051,
+            "end_char": 1196,
+            "sentiment": 3,
+            "score": 0.6981781125068665
+          },
+          {
+            "begin_char": 1197,
+            "end_char": 1263,
+            "sentiment": 3,
+            "score": 0.7116836905479431
+          },
+          {
+            "begin_char": 1264,
+            "end_char": 1356,
+            "sentiment": 3,
+            "score": 0.8733727335929871
+          },
+          {
+            "begin_char": 1357,
+            "end_char": 1438,
+            "sentiment": 3,
+            "score": 0.7985111474990845
+          },
+          {
+            "begin_char": 1439,
+            "end_char": 1651,
+            "sentiment": 3,
+            "score": 0.7469872832298279
+          },
+          {
+            "begin_char": 1651,
+            "end_char": 1922,
+            "sentiment": 3,
+            "score": 0.8386221528053284
+          },
+          {
+            "begin_char": 1923,
+            "end_char": 2115,
+            "sentiment": 3,
+            "score": 0.8527564406394958
+          },
+          {
+            "begin_char": 2116,
+            "end_char": 2237,
+            "sentiment": 3,
+            "score": 0.8344525694847107
+          },
+          {
+            "begin_char": 2238,
+            "end_char": 2442,
+            "sentiment": 3,
+            "score": 0.6445179581642151
+          },
+          {
+            "begin_char": 2443,
+            "end_char": 2566,
+            "sentiment": 3,
+            "score": 0.8041546940803528
+          },
+          {
+            "begin_char": 2567,
+            "end_char": 2789,
+            "sentiment": 3,
+            "score": 0.7807207703590393
+          },
+          {
+            "begin_char": 2790,
+            "end_char": 3029,
+            "sentiment": 3,
+            "score": 0.8298592567443848
+          },
+          {
+            "begin_char": 3030,
+            "end_char": 3325,
+            "sentiment": 3,
+            "score": 0.8597346544265747
+          },
+          {
+            "begin_char": 3326,
+            "end_char": 3539,
+            "sentiment": 3,
+            "score": 0.8299685120582581
+          },
+          {
+            "begin_char": 3540,
+            "end_char": 3824,
+            "sentiment": 3,
+            "score": 0.8078015446662903
+          },
+          {
+            "begin_char": 3825,
+            "end_char": 3948,
+            "sentiment": 3,
+            "score": 0.8530157208442688
+          },
+          {
+            "begin_char": 3949,
+            "end_char": 4360,
+            "sentiment": 3,
+            "score": 0.8184680342674255
+          },
+          {
+            "begin_char": 4361,
+            "end_char": 4526,
+            "sentiment": 3,
+            "score": 0.7975564002990723
+          },
+          {
+            "begin_char": 4527,
+            "end_char": 4773,
+            "sentiment": 3,
+            "score": 0.7896414399147034
+          },
+          {
+            "begin_char": 4774,
+            "end_char": 4889,
+            "sentiment": 3,
+            "score": 0.6844784617424011
+          },
+          {
+            "begin_char": 4890,
+            "end_char": 4948,
+            "sentiment": 3,
+            "score": 0.8234403133392334
+          },
+          {
+            "begin_char": 4949,
+            "end_char": 4952,
+            "sentiment": 3,
+            "score": 0.687434732913971
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3313",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,1 +1,625 @@
-{"question": {"@xmlns": "http://schemas.assemblee-nationale.fr/referentiel", "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance", "@xsi:type": "QuestionGouvernement_Type", "uid": "QANR5L16QG157", "identifiant": {"numero": "157", "regime": "5eme Republique", "legislature": "16"}, "type": "QG", "indexationAN": {"rubrique": "num\u00e9rique", "teteAnalyse": null, "analyses": {"analyse": "CYBERATTAQUES"}}, "auteur": {"identite": {"acteurRef": "PA719024", "mandatRef": "PM796305"}, "groupe": {"organeRef": "PO800484", "abrege": "DEM", "developpe": "D\u00e9mocrate (MoDem et Ind\u00e9pendants)"}}, "minInt": {"abrege": "Transition num\u00e9rique et t\u00e9l\u00e9communications", "developpe": "Minist\u00e8re aupr\u00e8s du ministre de l\u2019\u00e9conomie, des finances et de la souverainet\u00e9 industrielle et num\u00e9rique, charg\u00e9 de la transition num\u00e9rique et des t\u00e9l\u00e9communications"}, "minAttribs": {"minAttrib": {"infoJO": {"typeJO": "JO_DEBAT", "dateJO": "2022-10-12", "pageJO": null, "numJO": null, "urlLegifrance": null, "referenceNOR": null}, "denomination": {"abrege": "Transition num\u00e9rique et t\u00e9l\u00e9communications", "developpe": "Minist\u00e8re aupr\u00e8s du ministre de l\u2019\u00e9conomie, des finances et de la souverainet\u00e9 industrielle et num\u00e9rique, charg\u00e9 de la transition num\u00e9rique et des t\u00e9l\u00e9communications"}}}, "textesQuestion": null, "textesReponse": {"texteReponse": {"infoJO": {"typeJO": "JO_DEBAT", "dateJO": "2022-10-12", "pageJO": null, "numJO": null, "urlLegifrance": null, "referenceNOR": null}, "texte": "</p><p align=\"CENTER\"> CYBERATTAQUES <a name=PG20></a> </p><br><strong>Mme\u00a0la pr\u00e9sidente. </strong>La parole est \u00e0 M.\u00a0Christophe Blanchet.<br><br><strong>M.\u00a0Christophe Blanchet. </strong>Monsieur le ministre d\u00e9l\u00e9gu\u00e9 Barrot, permettez-moi de vous f\u00e9liciter, au nom du groupe D\u00e9mocrate (MODEM et ind\u00e9pendants), pour votre brillante r\u00e9\u00e9lection ce week-end dans la deuxi\u00e8me circonscription des Yvelines. <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</i><br><br>Avec 173\u00a0000\u00a0dossiers ouverts en 2021, notre pays a subi une augmentation de 65\u00a0% des attaques cybercriminelles. Auparavant, les assaillants s'en prenaient aux grandes entreprises, qui depuis se prot\u00e8gent mieux. Ils se sont ensuite mis \u00e0 attaquer les PME et d\u00e9sormais, les collectivit\u00e9s. \u00c0 chaque fois, on constate le m\u00eame proc\u00e9d\u00e9\u00a0: le vol des fichiers des clients, des patients ou de la comptabilit\u00e9 et la r\u00e9clamation d'une ran\u00e7on en \u00e9change de leur \u00e9ventuelle restitution. Ces attaques entra\u00eenent une interruption d'activit\u00e9, la d\u00e9t\u00e9rioration du mat\u00e9riel informatique, la fuite de donn\u00e9es et un impact n\u00e9gatif en mati\u00e8re de notori\u00e9t\u00e9.<br><br>Pour les entreprises, les sommes d\u00e9rob\u00e9es s'\u00e9tablissent entre 5\u00a0000\u00a0euros et plus de 100\u00a0000\u00a0euros, repr\u00e9sentant une perte moyenne de 27\u00a0% du chiffre d'affaires en 2021. Mais combien cela repr\u00e9sente-t-il pour les collectivit\u00e9s et pour les h\u00f4pitaux comme ceux de Dax, Corbeil-Essonnes, Paris et Rouen\u00a0? Il y a deux semaines, ce fut le tour de la mairie de Caen, o\u00f9 de nombreux services ont \u00e9t\u00e9 arr\u00eat\u00e9s, dont l'acc\u00e8s aux offres d'emploi publiques et aux fichiers correspondants. Hier, le d\u00e9partement de Seine-Maritime a \u00e9t\u00e9 attaqu\u00e9\u00a0: l\u00e0 encore, de nombreux services et fichiers ont \u00e9t\u00e9 affect\u00e9s. L'acc\u00e8s aux d\u00e9marches relatives aux allocations pour l'autonomie et le handicap est totalement indisponible.<br><br>Nous avons des soup\u00e7ons quant aux pays d'o\u00f9 proviennent ces attaques. \u00c0 l'heure de la guerre en Ukraine, nous savons que le cyber fait partie des armes modernes de d\u00e9stabilisation. Des organisations criminelles se structurent en industrie du cyber. Comment mieux prot\u00e9ger le tissu \u00e9conomique, les h\u00f4pitaux et les collectivit\u00e9s contre ces attaques massives de plus en plus r\u00e9currentes, qui fournissent \u00e0 ces organisations un butin cons\u00e9quent et pr\u00e9cieux\u00a0? <i>(Applaudissements sur plusieurs bancs des groupes Dem, RE et HOR.)</i> <br><br><strong>Mme\u00a0la pr\u00e9sidente. </strong>La parole est \u00e0 M.\u00a0le ministre d\u00e9l\u00e9gu\u00e9 charg\u00e9 de la transition num\u00e9rique et des t\u00e9l\u00e9communications.<br><br><strong>M.\u00a0Erwan Balanant.</strong> Monsieur\u00a072\u00a0%\u00a0!<br><br><strong>M.\u00a0Jean-No\u00ebl Barrot,</strong><i> ministre d\u00e9l\u00e9gu\u00e9 charg\u00e9 de la transition num\u00e9rique et des t\u00e9l\u00e9communications. </i>Merci pour vos f\u00e9licitations\u00a0: ce r\u00e9sultat sonne comme un encouragement \u00e0 poursuivre le travail engag\u00e9 sous l'autorit\u00e9 du Pr\u00e9sident de la R\u00e9publique et de la Premi\u00e8re ministre\u2026<br><br><strong>M.\u00a0Hadrien Clouet.</strong> Il ne faut pas exag\u00e9rer\u00a0!<br><br><strong>M.\u00a0Jean-No\u00ebl Barrot,</strong><i> ministre d\u00e9l\u00e9gu\u00e9. </i>\u2026dans le dialogue, le compromis et le respect des institutions \u2013\u00a0cela va sans dire mais, semble-t-il, encore mieux en le disant\u00a0\u2013, toujours au service de l'int\u00e9r\u00eat g\u00e9n\u00e9ral. <i>(Applaudissements sur quelques bancs des groupes Dem et RE.)</i><br><br><strong>M.\u00a0Erwan Balanant.</strong> Tr\u00e8s bien\u00a0!<br><br><strong>M.\u00a0Jean-No\u00ebl Barrot,</strong><i> ministre d\u00e9l\u00e9gu\u00e9 . </i>Vous m'interrogez au sujet de l'attaque brutale qui a frapp\u00e9 le d\u00e9partement de Seine-Maritime dimanche. J'ai pu m'entretenir avec le pr\u00e9sident du conseil d\u00e9partemental, Bertrand Bellanger\u00a0; je tiens \u00e0 saluer la r\u00e9ponse exemplaire apport\u00e9e par les \u00e9quipes du d\u00e9partement, qui ont sollicit\u00e9 les autorit\u00e9s comp\u00e9tentes dans les minutes suivant le d\u00e9but de l'attaque. Comme 700\u00a0autres collectivit\u00e9s, la Seine-Maritime \u00e9tait entr\u00e9e dans un parcours de s\u00e9curisation dispens\u00e9 par l'Anssi (Agence nationale de la s\u00e9curit\u00e9 des syst\u00e8mes d\u2019information) dans le cadre du plan de relance\u00a0; cela a certainement contribu\u00e9 \u00e0 limiter les cons\u00e9quences dramatiques de cette attaque.<br><br>Ce qui s'est pass\u00e9 dans les h\u00f4pitaux de Dax et de Corbeil-Essonnes, \u00e0 la mairie de Caen et dimanche, au d\u00e9partement de Seine-Maritime, nous rappelle que la cybercriminalit\u00e9 est une grande menace de notre temps. La criminalit\u00e9 et la d\u00e9linquance migrent dans l'espace num\u00e9rique\u00a0; nous devons tout mettre en \u0153uvre et redoubler d'efforts pour y faire face. Pr\u00e9vention, r\u00e9pression et rem\u00e9diation\u00a0: c'est ainsi que nous voulons, avec Bruno Le\u00a0Maire, r\u00e9pondre \u00e0 cette nouvelle menace.<br><br>L'Anssi accomplit un travail remarquable d'accompagnement et de rem\u00e9diation. La Premi\u00e8re ministre a d\u00e9cid\u00e9 de renforcer ses effectifs dans le cadre du projet de loi de finances pour 2023. Chaque jour, le site internet cybermalveillance.gouv.fr accompagne des dizaines de milliers de victimes \u2013\u00a0collectivit\u00e9s, entreprises, particuliers. Parlez-en autour de vous, mesdames et messieurs les d\u00e9put\u00e9s\u00a0: en cas de doute, il faut le consulter. Enfin, le projet de loi d'orientation et de programmation du minist\u00e8re de l'int\u00e9rieur, pr\u00e9sent\u00e9 aujourd'hui au S\u00e9nat par le ministre et prochainement examin\u00e9 par l'Assembl\u00e9e, pr\u00e9voit des investissements en mati\u00e8re de cybers\u00e9curit\u00e9. Vous l'avez compris, nous sommes pleinement mobilis\u00e9s pour apporter des r\u00e9ponses \u00e0 cette menace. <i>(Applaudissements sur les bancs des groupes Dem, RE et HOR.)</i><br><br><strong>M.\u00a0Bruno Millienne.</strong> Bravo\u00a0!<br> <p>"}}, "cloture": {"codeCloture": "REP_PUB", "libelleCloture": "R\u00e9ponse publi\u00e9e", "dateCloture": "2022-10-12", "infoJO": {"typeJO": "JO_DEBAT", "dateJO": "2022-10-12", "pageJO": "3870", "numJO": null, "urlLegifrance": null, "referenceNOR": null}}}}
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG157",
+    "identifiant": {
+      "numero": "157",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "numérique",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "CYBERATTAQUES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719024",
+        "mandatRef": "PM796305"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition numérique et télécommunications",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de la transition numérique et des télécommunications"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition numérique et télécommunications",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de la transition numérique et des télécommunications"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CYBERATTAQUES <a name=PG20></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Christophe Blanchet.<br><br><strong>M. Christophe Blanchet. </strong>Monsieur le ministre délégué Barrot, permettez-moi de vous féliciter, au nom du groupe Démocrate (MODEM et indépendants), pour votre brillante réélection ce week-end dans la deuxième circonscription des Yvelines. <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</i><br><br>Avec 173 000 dossiers ouverts en 2021, notre pays a subi une augmentation de 65 % des attaques cybercriminelles. Auparavant, les assaillants s'en prenaient aux grandes entreprises, qui depuis se protègent mieux. Ils se sont ensuite mis à attaquer les PME et désormais, les collectivités. À chaque fois, on constate le même procédé : le vol des fichiers des clients, des patients ou de la comptabilité et la réclamation d'une rançon en échange de leur éventuelle restitution. Ces attaques entraînent une interruption d'activité, la détérioration du matériel informatique, la fuite de données et un impact négatif en matière de notoriété.<br><br>Pour les entreprises, les sommes dérobées s'établissent entre 5 000 euros et plus de 100 000 euros, représentant une perte moyenne de 27 % du chiffre d'affaires en 2021. Mais combien cela représente-t-il pour les collectivités et pour les hôpitaux comme ceux de Dax, Corbeil-Essonnes, Paris et Rouen ? Il y a deux semaines, ce fut le tour de la mairie de Caen, où de nombreux services ont été arrêtés, dont l'accès aux offres d'emploi publiques et aux fichiers correspondants. Hier, le département de Seine-Maritime a été attaqué : là encore, de nombreux services et fichiers ont été affectés. L'accès aux démarches relatives aux allocations pour l'autonomie et le handicap est totalement indisponible.<br><br>Nous avons des soupçons quant aux pays d'où proviennent ces attaques. À l'heure de la guerre en Ukraine, nous savons que le cyber fait partie des armes modernes de déstabilisation. Des organisations criminelles se structurent en industrie du cyber. Comment mieux protéger le tissu économique, les hôpitaux et les collectivités contre ces attaques massives de plus en plus récurrentes, qui fournissent à ces organisations un butin conséquent et précieux ? <i>(Applaudissements sur plusieurs bancs des groupes Dem, RE et HOR.)</i> <br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé de la transition numérique et des télécommunications.<br><br><strong>M. Erwan Balanant.</strong> Monsieur 72 % !<br><br><strong>M. Jean-Noël Barrot,</strong><i> ministre délégué chargé de la transition numérique et des télécommunications. </i>Merci pour vos félicitations : ce résultat sonne comme un encouragement à poursuivre le travail engagé sous l'autorité du Président de la République et de la Première ministre…<br><br><strong>M. Hadrien Clouet.</strong> Il ne faut pas exagérer !<br><br><strong>M. Jean-Noël Barrot,</strong><i> ministre délégué. </i>…dans le dialogue, le compromis et le respect des institutions – cela va sans dire mais, semble-t-il, encore mieux en le disant –, toujours au service de l'intérêt général. <i>(Applaudissements sur quelques bancs des groupes Dem et RE.)</i><br><br><strong>M. Erwan Balanant.</strong> Très bien !<br><br><strong>M. Jean-Noël Barrot,</strong><i> ministre délégué . </i>Vous m'interrogez au sujet de l'attaque brutale qui a frappé le département de Seine-Maritime dimanche. J'ai pu m'entretenir avec le président du conseil départemental, Bertrand Bellanger ; je tiens à saluer la réponse exemplaire apportée par les équipes du département, qui ont sollicité les autorités compétentes dans les minutes suivant le début de l'attaque. Comme 700 autres collectivités, la Seine-Maritime était entrée dans un parcours de sécurisation dispensé par l'Anssi (Agence nationale de la sécurité des systèmes d’information) dans le cadre du plan de relance ; cela a certainement contribué à limiter les conséquences dramatiques de cette attaque.<br><br>Ce qui s'est passé dans les hôpitaux de Dax et de Corbeil-Essonnes, à la mairie de Caen et dimanche, au département de Seine-Maritime, nous rappelle que la cybercriminalité est une grande menace de notre temps. La criminalité et la délinquance migrent dans l'espace numérique ; nous devons tout mettre en œuvre et redoubler d'efforts pour y faire face. Prévention, répression et remédiation : c'est ainsi que nous voulons, avec Bruno Le Maire, répondre à cette nouvelle menace.<br><br>L'Anssi accomplit un travail remarquable d'accompagnement et de remédiation. La Première ministre a décidé de renforcer ses effectifs dans le cadre du projet de loi de finances pour 2023. Chaque jour, le site internet cybermalveillance.gouv.fr accompagne des dizaines de milliers de victimes – collectivités, entreprises, particuliers. Parlez-en autour de vous, mesdames et messieurs les députés : en cas de doute, il faut le consulter. Enfin, le projet de loi d'orientation et de programmation du ministère de l'intérieur, présenté aujourd'hui au Sénat par le ministre et prochainement examiné par l'Assemblée, prévoit des investissements en matière de cybersécurité. Vous l'avez compris, nous sommes pleinement mobilisés pour apporter des réponses à cette menace. <i>(Applaudissements sur les bancs des groupes Dem, RE et HOR.)</i><br><br><strong>M. Bruno Millienne.</strong> Bravo !<br> <p>",
+        "male_pronouns_count": 32,
+        "female_pronouns_count": 26,
+        "male_pronouns_percentage": 55.172413793103445,
+        "female_pronouns_percentage": 44.827586206896555,
+        "pronoun_positions": [
+          {
+            "pronoun": "la",
+            "position": 75
+          },
+          {
+            "pronoun": "La",
+            "position": 99
+          },
+          {
+            "pronoun": "le",
+            "position": 196
+          },
+          {
+            "pronoun": "ce",
+            "position": 341
+          },
+          {
+            "pronoun": "la",
+            "position": 358
+          },
+          {
+            "pronoun": "le",
+            "position": 790
+          },
+          {
+            "pronoun": "le",
+            "position": 808
+          },
+          {
+            "pronoun": "la",
+            "position": 860
+          },
+          {
+            "pronoun": "la",
+            "position": 879
+          },
+          {
+            "pronoun": "la",
+            "position": 1003
+          },
+          {
+            "pronoun": "la",
+            "position": 1046
+          },
+          {
+            "pronoun": "Il",
+            "position": 1421
+          },
+          {
+            "pronoun": "ce",
+            "position": 1443
+          },
+          {
+            "pronoun": "le",
+            "position": 1450
+          },
+          {
+            "pronoun": "la",
+            "position": 1461
+          },
+          {
+            "pronoun": "le",
+            "position": 1602
+          },
+          {
+            "pronoun": "le",
+            "position": 1781
+          },
+          {
+            "pronoun": "la",
+            "position": 1912
+          },
+          {
+            "pronoun": "le",
+            "position": 1950
+          },
+          {
+            "pronoun": "le",
+            "position": 2101
+          },
+          {
+            "pronoun": "la",
+            "position": 2378
+          },
+          {
+            "pronoun": "La",
+            "position": 2402
+          },
+          {
+            "pronoun": "le",
+            "position": 2421
+          },
+          {
+            "pronoun": "la",
+            "position": 2451
+          },
+          {
+            "pronoun": "la",
+            "position": 2636
+          },
+          {
+            "pronoun": "ce",
+            "position": 2722
+          },
+          {
+            "pronoun": "le",
+            "position": 2776
+          },
+          {
+            "pronoun": "la",
+            "position": 2826
+          },
+          {
+            "pronoun": "la",
+            "position": 2846
+          },
+          {
+            "pronoun": "Il",
+            "position": 2911
+          },
+          {
+            "pronoun": "le",
+            "position": 3013
+          },
+          {
+            "pronoun": "le",
+            "position": 3026
+          },
+          {
+            "pronoun": "le",
+            "position": 3042
+          },
+          {
+            "pronoun": "le",
+            "position": 3125
+          },
+          {
+            "pronoun": "le",
+            "position": 3435
+          },
+          {
+            "pronoun": "le",
+            "position": 3504
+          },
+          {
+            "pronoun": "la",
+            "position": 3582
+          },
+          {
+            "pronoun": "le",
+            "position": 3714
+          },
+          {
+            "pronoun": "la",
+            "position": 3769
+          },
+          {
+            "pronoun": "la",
+            "position": 3875
+          },
+          {
+            "pronoun": "le",
+            "position": 3920
+          },
+          {
+            "pronoun": "cette",
+            "position": 4022
+          },
+          {
+            "pronoun": "Ce",
+            "position": 4044
+          },
+          {
+            "pronoun": "la",
+            "position": 4114
+          },
+          {
+            "pronoun": "la",
+            "position": 4197
+          },
+          {
+            "pronoun": "La",
+            "position": 4255
+          },
+          {
+            "pronoun": "la",
+            "position": 4273
+          },
+          {
+            "pronoun": "Le",
+            "position": 4478
+          },
+          {
+            "pronoun": "cette",
+            "position": 4499
+          },
+          {
+            "pronoun": "La",
+            "position": 4606
+          },
+          {
+            "pronoun": "ses",
+            "position": 4649
+          },
+          {
+            "pronoun": "le",
+            "position": 4668
+          },
+          {
+            "pronoun": "le",
+            "position": 4730
+          },
+          {
+            "pronoun": "il",
+            "position": 4944
+          },
+          {
+            "pronoun": "le",
+            "position": 4952
+          },
+          {
+            "pronoun": "le",
+            "position": 4973
+          },
+          {
+            "pronoun": "le",
+            "position": 5087
+          },
+          {
+            "pronoun": "cette",
+            "position": 5281
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": 3,
+            "score": 0.6797470450401306
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": 3,
+            "score": 0.5220810174942017
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": 3,
+            "score": 0.6680077910423279
+          },
+          {
+            "begin_char": 23,
+            "end_char": 89,
+            "sentiment": 3,
+            "score": 0.7456783652305603
+          },
+          {
+            "begin_char": 90,
+            "end_char": 154,
+            "sentiment": 3,
+            "score": 0.7626389265060425
+          },
+          {
+            "begin_char": 154,
+            "end_char": 177,
+            "sentiment": 3,
+            "score": 0.8419651389122009
+          },
+          {
+            "begin_char": 178,
+            "end_char": 187,
+            "sentiment": 3,
+            "score": 0.6876328587532043
+          },
+          {
+            "begin_char": 187,
+            "end_char": 399,
+            "sentiment": 3,
+            "score": 0.8523322343826294
+          },
+          {
+            "begin_char": 400,
+            "end_char": 587,
+            "sentiment": 3,
+            "score": 0.7471423745155334
+          },
+          {
+            "begin_char": 588,
+            "end_char": 686,
+            "sentiment": 3,
+            "score": 0.687214195728302
+          },
+          {
+            "begin_char": 687,
+            "end_char": 762,
+            "sentiment": 3,
+            "score": 0.7600947022438049
+          },
+          {
+            "begin_char": 763,
+            "end_char": 949,
+            "sentiment": 3,
+            "score": 0.82909095287323
+          },
+          {
+            "begin_char": 950,
+            "end_char": 1288,
+            "sentiment": 3,
+            "score": 0.8134011626243591
+          },
+          {
+            "begin_char": 1289,
+            "end_char": 1420,
+            "sentiment": 3,
+            "score": 0.8704666495323181
+          },
+          {
+            "begin_char": 1421,
+            "end_char": 1595,
+            "sentiment": 3,
+            "score": 0.7694946527481079
+          },
+          {
+            "begin_char": 1596,
+            "end_char": 1712,
+            "sentiment": 3,
+            "score": 0.8347233533859253
+          },
+          {
+            "begin_char": 1713,
+            "end_char": 1829,
+            "sentiment": 3,
+            "score": 0.665719211101532
+          },
+          {
+            "begin_char": 1829,
+            "end_char": 1898,
+            "sentiment": 3,
+            "score": 0.7792845964431763
+          },
+          {
+            "begin_char": 1899,
+            "end_char": 2009,
+            "sentiment": 3,
+            "score": 0.7334536910057068
+          },
+          {
+            "begin_char": 2010,
+            "end_char": 2077,
+            "sentiment": 3,
+            "score": 0.7029204964637756
+          },
+          {
+            "begin_char": 2078,
+            "end_char": 2283,
+            "sentiment": 3,
+            "score": 0.8491973876953125
+          },
+          {
+            "begin_char": 2284,
+            "end_char": 2357,
+            "sentiment": 3,
+            "score": 0.8441046476364136
+          },
+          {
+            "begin_char": 2358,
+            "end_char": 2392,
+            "sentiment": 3,
+            "score": 0.7924272418022156
+          },
+          {
+            "begin_char": 2393,
+            "end_char": 2560,
+            "sentiment": 3,
+            "score": 0.7334862351417542
+          },
+          {
+            "begin_char": 2560,
+            "end_char": 2608,
+            "sentiment": 3,
+            "score": 0.803451418876648
+          },
+          {
+            "begin_char": 2609,
+            "end_char": 2686,
+            "sentiment": 3,
+            "score": 0.7647045850753784
+          },
+          {
+            "begin_char": 2687,
+            "end_char": 2691,
+            "sentiment": 3,
+            "score": 0.7015480399131775
+          },
+          {
+            "begin_char": 2691,
+            "end_char": 2910,
+            "sentiment": 3,
+            "score": 0.826625645160675
+          },
+          {
+            "begin_char": 2911,
+            "end_char": 2936,
+            "sentiment": 3,
+            "score": 0.6689529418945312
+          },
+          {
+            "begin_char": 2936,
+            "end_char": 2984,
+            "sentiment": 3,
+            "score": 0.803451418876648
+          },
+          {
+            "begin_char": 2985,
+            "end_char": 3002,
+            "sentiment": 3,
+            "score": 0.6207274794578552
+          },
+          {
+            "begin_char": 3003,
+            "end_char": 3179,
+            "sentiment": 3,
+            "score": 0.8175822496414185
+          },
+          {
+            "begin_char": 3180,
+            "end_char": 3302,
+            "sentiment": 3,
+            "score": 0.7783710956573486
+          },
+          {
+            "begin_char": 3302,
+            "end_char": 3350,
+            "sentiment": 3,
+            "score": 0.803451418876648
+          },
+          {
+            "begin_char": 3351,
+            "end_char": 3369,
+            "sentiment": 3,
+            "score": 0.6848052740097046
+          },
+          {
+            "begin_char": 3370,
+            "end_char": 3477,
+            "sentiment": 3,
+            "score": 0.8094794750213623
+          },
+          {
+            "begin_char": 3478,
+            "end_char": 3563,
+            "sentiment": 3,
+            "score": 0.8715947866439819
+          },
+          {
+            "begin_char": 3564,
+            "end_char": 3736,
+            "sentiment": 3,
+            "score": 0.749894917011261
+          },
+          {
+            "begin_char": 3737,
+            "end_char": 3949,
+            "sentiment": 3,
+            "score": 0.8884627223014832
+          },
+          {
+            "begin_char": 3950,
+            "end_char": 4254,
+            "sentiment": 3,
+            "score": 0.7295324206352234
+          },
+          {
+            "begin_char": 4255,
+            "end_char": 4321,
+            "sentiment": 3,
+            "score": 0.6847789883613586
+          },
+          {
+            "begin_char": 4322,
+            "end_char": 4396,
+            "sentiment": 3,
+            "score": 0.7928284406661987
+          },
+          {
+            "begin_char": 4397,
+            "end_char": 4529,
+            "sentiment": 3,
+            "score": 0.7039995193481445
+          },
+          {
+            "begin_char": 4529,
+            "end_char": 4605,
+            "sentiment": 3,
+            "score": 0.7842663526535034
+          },
+          {
+            "begin_char": 4606,
+            "end_char": 4716,
+            "sentiment": 3,
+            "score": 0.8738782405853271
+          },
+          {
+            "begin_char": 4717,
+            "end_char": 4864,
+            "sentiment": 3,
+            "score": 0.7661401629447937
+          },
+          {
+            "begin_char": 4865,
+            "end_char": 4965,
+            "sentiment": 3,
+            "score": 0.7869516015052795
+          },
+          {
+            "begin_char": 4966,
+            "end_char": 5197,
+            "sentiment": 3,
+            "score": 0.8331420421600342
+          },
+          {
+            "begin_char": 5198,
+            "end_char": 5294,
+            "sentiment": 3,
+            "score": 0.7510893940925598
+          },
+          {
+            "begin_char": 5295,
+            "end_char": 5414,
+            "sentiment": 3,
+            "score": 0.6054174900054932
+          },
+          {
+            "begin_char": 5414,
+            "end_char": 5422,
+            "sentiment": 3,
+            "score": 0.7725276947021484
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-12",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-12",
+        "pageJO": "3870",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -23,10 +23,10 @@ function convertSpeakerNameToWikipediaLink(text) {
   const wikipediaBaseURL = "https://fr.wikipedia.org/wiki/";
 
   function encodeSpeakerName(name) {
-      name = name.replace('M. ', '')
-      name = name.replace('Mme ', '')
-      name = name.replaceAll('.', '')
-      name = name.replaceAll(',', '')
+      name = name.replace('M. ', '');
+      name = name.replace('Mme ', '');
+      name = name.replaceAll('.', '');
+      name = name.replaceAll(',', '');
     return encodeURIComponent(name.trim().replace(/\s+/g, "_"));
   }
 
@@ -38,6 +38,24 @@ function convertSpeakerNameToWikipediaLink(text) {
     const wikipediaURL = `${wikipediaBaseURL}${encodedName}`;
     return `<strong><a href="${wikipediaURL}">${speakerName}</a></strong>`;
   });
+}
+
+function highlightPronouns(jsonData) {
+    const pronounPositions = jsonData.question.textesReponse.texteReponse.pronoun_positions;
+    let text = jsonData.question.textesReponse.texteReponse.texte;
+    
+    // Sort pronounPositions in descending order by position
+    pronounPositions.sort((a, b) => b.position - a.position);
+
+    // Wrap each pronoun with a div and apply the 'highlighted-pronoun' class
+    pronounPositions.forEach(pronounData => {
+        const position = pronounData.position;
+        const pronoun = pronounData.pronoun;
+        const highlightedPronoun = `<div class="highlighted-pronoun">${pronoun}</div>`;
+        text = text.slice(0, position) + highlightedPronoun + text.slice(position + pronoun.length);
+    });
+
+    return text;
 }
 
 
@@ -55,10 +73,16 @@ function jsonToHTML(json) {
 
   const qagText = document.createElement('div');
   const rawText = json.question.textesReponse.texteReponse.texte;
-  const convertedText = convertSpeakerNameToWikipediaLink(rawText);
+  
+  // Call the highlightPronouns function and pass the json data as an argument
+  const highlightedText = highlightPronouns(json);
+
+  // Use the highlighted text for the conversion
+  const convertedText = convertSpeakerNameToWikipediaLink(highlightedText);
   qagText.innerHTML = convertedText;
   qagContent.appendChild(qagText);
 }
+
 
 
 function compareDates(a, b) {
@@ -80,16 +104,17 @@ function formatDate(date) {
 }
 
 async function fetchQAGList() {
+  const folder_name = 'qag_json'  
   const filenames = await fetchQAGFilenames();
   const qagListPromises = filenames.map(async (filename) => {
-    const json = await loadQAG(`qag_json/${filename}`);
+    const json = await loadQAG(`${folder_name}/${filename}`);
     const dateJO = extractDate(json);
     const formattedDate = dateJO === 'Unknown' ? dateJO : formatDate(dateJO);
     return {
       date: formattedDate,
       title: filename.slice(0, -5),
       filename,
-      file: `qag_json/${filename}`,
+      file: `${folder_name}/${filename}`,
       category: json.question.indexationAN.rubrique,
       newtitle: json.question.indexationAN.analyses.analyse,
     };
