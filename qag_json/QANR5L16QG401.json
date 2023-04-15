@@ -1,0 +1,617 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG401",
+    "identifiant": {
+      "numero": "401",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "justice",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "DISPARITION DES JURÉS POPULAIRES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795794",
+        "mandatRef": "PM797688"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Justice",
+      "developpe": "Ministère de la justice"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Justice",
+          "developpe": "Ministère de la justice"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> DISPARITION DES JURÉS POPULAIRES <a name=PG15></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Francesca Pasquini.<br><br><strong>Mme Francesca Pasquini. </strong>Ma question s'adresse au garde des sceaux. En préambule, je citerai un avocat très célèbre : « La justice est rendue au nom du peuple et on voudrait interdire au peuple de rendre justice. » Le même disait alors : « Il n'y a rien de plus démocratique que la cour d'assises. Maintenant, <i>exit </i>le peuple ! » Reconnaissez-vous ces mots, monsieur le ministre ? Ce sont les vôtres ! En quelques semaines, vous avez réussi à raccrocher votre robe et à retourner votre veste.<br><br>« <i>Exit </i>le peuple », disiez-vous ? Vous n'auriez pas pu être plus clairvoyant puisque plus de la moitié des jurés des cours d'assises vont disparaître au 1er janvier 2023. Ce drame démocratique, nous le devons à votre loi du 22 décembre 2021 pour la confiance dans l'institution judiciaire. Au profit de quoi sacrifiez-vous cet héritage inestimable de la Révolution ? Aucun des objectifs poursuivis par les nouvelles cours criminelles n'est atteint : gain de temps réduit à néant par l'augmentation du taux d'appel, effet inexistant sur la décorrectionnalisation, et même la plus-value financière – logique comptable et gestionnaire que nous combattons, mais qui vous motive – est bien difficile à démontrer, voire totalement chimérique.<br><br>Quand bien même, nous parlons ici d'un héritage de la Révolution française ! Allez-vous oser comparer le gain d'une demi-heure d'audience ou de quelques centaines d'euros au formidable instrument de citoyenneté que représente le jury populaire ? Avec votre réforme, nous allons droit dans le mur et vous le savez pertinemment ! Tout comme vous, nous souhaitons que le procès ait lieu dans des délais raisonnables mais, contrairement à vous, nous sommes lucides. Les jurés populaires ne sont pas responsables de la situation, liée au manque de moyens ; vous condamnez à tort un innocent.<br><br>Souhaitez-vous qu'on se souvienne de vous comme du ministre de la justice qui aura scellé le déclin du jury populaire ? <i>(Applaudissements sur les bancs du groupe Écolo-NUPES ainsi que sur quelques bancs des groupes LFI-NUPES et GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le garde des sceaux, ministre de la justice.<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux, ministre de la justice. </i>Madame Pasquini, laissez-moi le soin de régler avec moi-même les questions qui touchent à ma postérité. <i>(Sourires et applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>Une députée du groupe LFI-NUPES .</strong> Ne soyez pas condescendant !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>Pour le reste, vous n'avez pas lu le rapport du comité d'évaluation. Si vous l'aviez lu, vous auriez retenu que les principes de l'oralité des débats et du contradictoire sont parfaitement respectés, que les plaidoiries se déroulent dans un climat moins pesant, que les parties civiles sont plus à l'aise pour s'exprimer devant cette nouvelle juridiction, que les délais d'audiencement sont beaucoup plus courts – pensez aux victimes qui attendent le jugement ainsi qu'aux accusés – et, enfin, que le taux d'acquittement et les peines moyennes sont très proches de ceux d'une cour d'assises ordinaire. Vous évoquez une hausse du taux d'appel. Mais nous n'avons pas eu le temps de mesurer les désistements !<br><br>Enfin, c'est faire insulte aux magistrats que de parler de justice au rabais. Pensez au procès V13, le procès des attentats du 13 novembre 2015 : la cour était exclusivement composée de magistrats professionnels.<br><br>En matière de violences sexuelles et sexistes, nous avons mis un terme aux insupportables correctionnalisations. Quant aux jurys populaires, ayez l'honnêteté de reconnaître que j'ai renforcé la souveraineté comme elle ne l'a jamais été, puisqu'il faut désormais une majorité absolue de jurés pour prononcer un verdict.<br><br>La cour d'assises n'a pas disparu : elle fonctionne en première instance, ainsi qu'en appel et elle est juridiction d'appel des cours criminelles départementales. La justice mérite mieux que la démagogie ; elle a besoin de moyens et de réformes !<br><br><strong>Plusieurs députés Écolo-NUPES.</strong> Elle a surtout besoin de moyens !<br><br><strong>Mme Julie Laernoes.</strong> Les délais sont hallucinants !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>Avec vous, c'est le mur des « Non » : vous dites non aux moyens – vous ne les votez pas – et vous ne voulez pas des réformes, même quand elles sont bonnes ! Vous êtes pour tout ce qui est contre et contre tout ce qui est pour ! <i>(Applaudissements sur les bancs du groupe RE et sur quelques bancs du groupe Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme Francesca Pasquini.<br><br><strong>Mme Francesca Pasquini. </strong>Monsieur le ministre, nous aimerions voter les crédits de la justice, mais, justement, nous n'en avons pas les moyens ! <i>(Applaudissements que quelques bancs des groupes Écolo-NUPES, LFI-NUPES et GDR-NUPES.)</i><br><br><strong>M. Éric Dupond-Moretti, garde des sceaux.</strong> Vous ne votez pas !<br> <p>",
+        "entities": [
+          {
+            "start_char": 90,
+            "end_char": 93,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 134,
+            "end_char": 172,
+            "label": "PER",
+            "text": "Mme Francesca Pasquini.<br><br><strong"
+          },
+          {
+            "start_char": 173,
+            "end_char": 195,
+            "label": "PER",
+            "text": "Mme Francesca Pasquini"
+          },
+          {
+            "start_char": 517,
+            "end_char": 529,
+            "label": "ORG",
+            "text": "Reconnaissez"
+          },
+          {
+            "start_char": 673,
+            "end_char": 686,
+            "label": "MISC",
+            "text": "veste.<br><br"
+          },
+          {
+            "start_char": 1045,
+            "end_char": 1058,
+            "label": "MISC",
+            "text": "la Révolution"
+          },
+          {
+            "start_char": 1419,
+            "end_char": 1437,
+            "label": "MISC",
+            "text": "chimérique.<br><br"
+          },
+          {
+            "start_char": 1492,
+            "end_char": 1512,
+            "label": "MISC",
+            "text": "Révolution française"
+          },
+          {
+            "start_char": 2015,
+            "end_char": 2041,
+            "label": "MISC",
+            "text": "innocent.<br><br>Souhaitez"
+          },
+          {
+            "start_char": 2197,
+            "end_char": 2208,
+            "label": "ORG",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2250,
+            "end_char": 2259,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2263,
+            "end_char": 2293,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2294,
+            "end_char": 2297,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2338,
+            "end_char": 2340,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2362,
+            "end_char": 2400,
+            "label": "ORG",
+            "text": "ministre de la justice.<br><br><strong"
+          },
+          {
+            "start_char": 2404,
+            "end_char": 2415,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2483,
+            "end_char": 2498,
+            "label": "PER",
+            "text": "Madame Pasquini"
+          },
+          {
+            "start_char": 2588,
+            "end_char": 2599,
+            "label": "LOC",
+            "text": "i>(Sourires"
+          },
+          {
+            "start_char": 2650,
+            "end_char": 2673,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2696,
+            "end_char": 2705,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2764,
+            "end_char": 2775,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 3629,
+            "end_char": 3632,
+            "label": "LOC",
+            "text": "V13"
+          },
+          {
+            "start_char": 3731,
+            "end_char": 3754,
+            "label": "MISC",
+            "text": "professionnels.<br><br>"
+          },
+          {
+            "start_char": 4360,
+            "end_char": 4380,
+            "label": "MISC",
+            "text": "Écolo-NUPES.</strong"
+          },
+          {
+            "start_char": 4431,
+            "end_char": 4458,
+            "label": "PER",
+            "text": "Mme Julie Laernoes.</strong"
+          },
+          {
+            "start_char": 4509,
+            "end_char": 4520,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4831,
+            "end_char": 4840,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4873,
+            "end_char": 4897,
+            "label": "ORG",
+            "text": "Dem.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4898,
+            "end_char": 4901,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4942,
+            "end_char": 4980,
+            "label": "PER",
+            "text": "Mme Francesca Pasquini.<br><br><strong"
+          },
+          {
+            "start_char": 4981,
+            "end_char": 5003,
+            "label": "PER",
+            "text": "Mme Francesca Pasquini"
+          },
+          {
+            "start_char": 5014,
+            "end_char": 5022,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 5186,
+            "end_char": 5197,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 5199,
+            "end_char": 5208,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5212,
+            "end_char": 5242,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5246,
+            "end_char": 5265,
+            "label": "PER",
+            "text": "Éric Dupond-Moretti"
+          },
+          {
+            "start_char": 5277,
+            "end_char": 5292,
+            "label": "ORG",
+            "text": "sceaux.</strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 108,
+            "sentiment": "3 stars",
+            "score": 0.3042024075984955
+          },
+          {
+            "begin_char": 109,
+            "end_char": 196,
+            "sentiment": "3 stars",
+            "score": 0.26018086075782776
+          },
+          {
+            "begin_char": 197,
+            "end_char": 248,
+            "sentiment": "4 stars",
+            "score": 0.2846064269542694
+          },
+          {
+            "begin_char": 249,
+            "end_char": 393,
+            "sentiment": "5 stars",
+            "score": 0.4373789131641388
+          },
+          {
+            "begin_char": 393,
+            "end_char": 395,
+            "sentiment": "4 stars",
+            "score": 0.25504377484321594
+          },
+          {
+            "begin_char": 396,
+            "end_char": 421,
+            "sentiment": "3 stars",
+            "score": 0.23481503129005432
+          },
+          {
+            "begin_char": 421,
+            "end_char": 478,
+            "sentiment": "5 stars",
+            "score": 0.32841023802757263
+          },
+          {
+            "begin_char": 479,
+            "end_char": 567,
+            "sentiment": "1 star",
+            "score": 0.3089177906513214
+          },
+          {
+            "begin_char": 568,
+            "end_char": 588,
+            "sentiment": "5 stars",
+            "score": 0.703348696231842
+          },
+          {
+            "begin_char": 589,
+            "end_char": 727,
+            "sentiment": "1 star",
+            "score": 0.560448169708252
+          },
+          {
+            "begin_char": 728,
+            "end_char": 864,
+            "sentiment": "1 star",
+            "score": 0.23536235094070435
+          },
+          {
+            "begin_char": 865,
+            "end_char": 983,
+            "sentiment": "5 stars",
+            "score": 0.5539272427558899
+          },
+          {
+            "begin_char": 984,
+            "end_char": 1060,
+            "sentiment": "5 stars",
+            "score": 0.4416601359844208
+          },
+          {
+            "begin_char": 1061,
+            "end_char": 1514,
+            "sentiment": "1 star",
+            "score": 0.5571016073226929
+          },
+          {
+            "begin_char": 1515,
+            "end_char": 1683,
+            "sentiment": "1 star",
+            "score": 0.4577449858188629
+          },
+          {
+            "begin_char": 1684,
+            "end_char": 1765,
+            "sentiment": "5 stars",
+            "score": 0.5875836610794067
+          },
+          {
+            "begin_char": 1766,
+            "end_char": 1899,
+            "sentiment": "4 stars",
+            "score": 0.33414995670318604
+          },
+          {
+            "begin_char": 1900,
+            "end_char": 1989,
+            "sentiment": "2 stars",
+            "score": 0.343153715133667
+          },
+          {
+            "begin_char": 1990,
+            "end_char": 2151,
+            "sentiment": "1 star",
+            "score": 0.3626091480255127
+          },
+          {
+            "begin_char": 2152,
+            "end_char": 2312,
+            "sentiment": "4 stars",
+            "score": 0.33033421635627747
+          },
+          {
+            "begin_char": 2313,
+            "end_char": 2478,
+            "sentiment": "4 stars",
+            "score": 0.31975746154785156
+          },
+          {
+            "begin_char": 2479,
+            "end_char": 2586,
+            "sentiment": "5 stars",
+            "score": 0.3649853467941284
+          },
+          {
+            "begin_char": 2587,
+            "end_char": 2674,
+            "sentiment": "3 stars",
+            "score": 0.2724088132381439
+          },
+          {
+            "begin_char": 2674,
+            "end_char": 2716,
+            "sentiment": "3 stars",
+            "score": 0.31054848432540894
+          },
+          {
+            "begin_char": 2717,
+            "end_char": 2815,
+            "sentiment": "4 stars",
+            "score": 0.23755191266536713
+          },
+          {
+            "begin_char": 2816,
+            "end_char": 2888,
+            "sentiment": "2 stars",
+            "score": 0.42259955406188965
+          },
+          {
+            "begin_char": 2889,
+            "end_char": 3421,
+            "sentiment": "5 stars",
+            "score": 0.6003276705741882
+          },
+          {
+            "begin_char": 3422,
+            "end_char": 3462,
+            "sentiment": "1 star",
+            "score": 0.25168582797050476
+          },
+          {
+            "begin_char": 3463,
+            "end_char": 3526,
+            "sentiment": "2 stars",
+            "score": 0.32450342178344727
+          },
+          {
+            "begin_char": 3526,
+            "end_char": 3611,
+            "sentiment": "1 star",
+            "score": 0.5617373585700989
+          },
+          {
+            "begin_char": 3612,
+            "end_char": 3754,
+            "sentiment": "3 stars",
+            "score": 0.2503073215484619
+          },
+          {
+            "begin_char": 3754,
+            "end_char": 3866,
+            "sentiment": "5 stars",
+            "score": 0.4372100830078125
+          },
+          {
+            "begin_char": 3867,
+            "end_char": 4242,
+            "sentiment": "5 stars",
+            "score": 0.6010230779647827
+          },
+          {
+            "begin_char": 4243,
+            "end_char": 4285,
+            "sentiment": "5 stars",
+            "score": 0.28771454095840454
+          },
+          {
+            "begin_char": 4286,
+            "end_char": 4326,
+            "sentiment": "5 stars",
+            "score": 0.45731133222579956
+          },
+          {
+            "begin_char": 4326,
+            "end_char": 4381,
+            "sentiment": "3 stars",
+            "score": 0.2651388645172119
+          },
+          {
+            "begin_char": 4382,
+            "end_char": 4415,
+            "sentiment": "3 stars",
+            "score": 0.2428460270166397
+          },
+          {
+            "begin_char": 4415,
+            "end_char": 4459,
+            "sentiment": "3 stars",
+            "score": 0.29889392852783203
+          },
+          {
+            "begin_char": 4460,
+            "end_char": 4490,
+            "sentiment": "5 stars",
+            "score": 0.6038426160812378
+          },
+          {
+            "begin_char": 4490,
+            "end_char": 4560,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 4561,
+            "end_char": 4721,
+            "sentiment": "1 star",
+            "score": 0.435054749250412
+          },
+          {
+            "begin_char": 4722,
+            "end_char": 4792,
+            "sentiment": "5 stars",
+            "score": 0.4863791763782501
+          },
+          {
+            "begin_char": 4793,
+            "end_char": 4916,
+            "sentiment": "4 stars",
+            "score": 0.30791929364204407
+          },
+          {
+            "begin_char": 4917,
+            "end_char": 5004,
+            "sentiment": "3 stars",
+            "score": 0.26018086075782776
+          },
+          {
+            "begin_char": 5005,
+            "end_char": 5014,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5014,
+            "end_char": 5133,
+            "sentiment": "2 stars",
+            "score": 0.344890296459198
+          },
+          {
+            "begin_char": 5134,
+            "end_char": 5293,
+            "sentiment": "3 stars",
+            "score": 0.3244839012622833
+          },
+          {
+            "begin_char": 5294,
+            "end_char": 5313,
+            "sentiment": "1 star",
+            "score": 0.768704891204834
+          },
+          {
+            "begin_char": 5313,
+            "end_char": 5321,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-15",
+        "pageJO": "7020",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

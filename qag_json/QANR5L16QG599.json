@@ -1,0 +1,629 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG599",
+    "identifiant": {
+      "numero": "599",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "élevage",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "GRIPPE AVIAIRE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793796",
+        "mandatRef": "PM796536"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Renouveau démocratique, porte-parole du Gouvernement",
+      "developpe": "Ministère auprès de la Première ministre, chargé du renouveau démocratique, porte-parole du Gouvernement"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Renouveau démocratique, porte-parole du Gouvernement",
+          "developpe": "Ministère auprès de la Première ministre, chargé du renouveau démocratique, porte-parole du Gouvernement"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> GRIPPE AVIAIRE <a name=PG16></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. David Taupiac.<br><br><strong>M. David Taupiac. </strong>Ma question s'adresse au ministre de l'agriculture et de la souveraineté alimentaire.<br><br>Les éleveurs des départements touchés par la grippe aviaire sont dans une situation très difficile. Je remercie le cabinet du ministre pour les échanges réguliers qui ont eu lieu. Il n'en demeure pas moins que la filière est en danger. L'abattage préventif des canards prêts à gaver ordonné par l'État occasionne des coûts importants pour les éleveurs, faute de capacités locales de valorisation du maigre. En conséquence, les abattoirs facturent aux éleveurs des frais d'abattage de 7,09 euros hors taxes par canard. Certes, ces frais seront remboursés après examen du dossier de demande de solde sanitaire. Mais la viabilité des élevages, qui s'effectuent souvent dans de petites structures, comme c'est le cas dans mon département du Gers, est mise à mal par les avances de trésorerie qui se multiplient. Ainsi, le solde économique pour la campagne 2021-2022 n'a pas encore été payé – il le sera au plus tôt en avril 2023. S'y ajoutent la valeur marchande optimale, versée quatre à soixante semaines après l'abattage, et son solde, réglé six à dix mois plus tard. Ce remboursement ne couvre même pas le coût du caneton et de son aliment.<br><br>L'État doit soulager les éleveurs des conséquences occasionnées par ses décisions en devenant le destinataire direct des factures d'abattage et en autorisant l'allongement du chômage partiel des personnels des structures affectées. Parce que le canard fait partie intégrante de l'économie du Gers, il faut donner à nos éleveurs des perspectives leur permettant de se projeter dans l'avenir. La vaccination en est une : elle permettrait de faire reculer le nombre de foyers ; surtout, elle assurerait enfin une stabilité d'exploitation et de production. Sa mise en œuvre avant l'automne 2023, avec un calendrier clair, est vitale si l'on veut sauver la filière. <i>(Applaudissements sur les bancs du groupe LIOT.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé du renouveau démocratique, porte-parole du Gouvernement.<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué chargé du renouveau démocratique, porte-parole du Gouvernement. </i>Je répondrai bien volontiers à vos interrogations sur la grippe aviaire. Encore une fois, je vous prie de bien vouloir excuser l'absence de mon collègue Marc Fesneau, qui se trouve actuellement au Salon de l'agriculture. Nous n'ignorons pas les problèmes rencontrés par les agriculteurs face à la grippe aviaire, notamment dans le Sud-Ouest. La mobilisation de l'État est évidemment totale.<br><br>À la date du 24 février, on recensait 308 foyers en élevage sur le territoire national. La situation sanitaire apparaît plutôt stabilisée depuis quelques semaines dans le Sud-Ouest, mais aussi en Pays de la Loire, région dans laquelle le nombre de foyers hebdomadaires diminue progressivement. Il convient de souligner que grâce à l'action concertée des services de l'État et des professionnels et aux mesures efficaces prises dans le Sud-Ouest dans le cadre du plan Adour, l'épizootie a été limitée dans cette région, avec seulement quelques foyers enregistrés depuis l'automne 2022.<br><br>En parallèle, pour la crise 2021-2022, l'État poursuit son soutien afin d'indemniser les pertes économiques subies par la filière volaille. Le calendrier prévisionnel annoncé en juillet 2022 a été respecté ; il a même été accéléré. En effet, afin de répondre à la détresse d'exploitants touchés pour la deuxième année consécutive, le paiement des soldes a été déclenché par FranceAgriMer la semaine dernière, avant la clôture du dispositif. <i>(M. Pierre Cordier s'exclame.)</i> De plus, 8 millions d'euros d'acomptes ont déjà été versés aux éleveurs depuis la mi-janvier ; ils viennent compléter les 65 millions d'euros d'avances payés à l'automne.<br><br>Vous l'avez affirmé, la vaccination représente un espoir. Je tiens à le redire : la biosécurité et les mesures de prévention restent indispensables pour les élevages. Le travail se poursuit, avec l'objectif d'une décision sur le scénario à retenir en mai. Une première étape a été franchie le 20 février avec la publication d'un règlement européen qui autorise la vaccination contre la grippe aviaire hautement pathogène dans l'Union européenne. Outre le financement d'une part du coût de la campagne vaccinale à venir, le ministère de l'agriculture reste mobilisé pour réussir les prochaines étapes importantes d'ici l'été. Deux comités de pilotage se sont déjà réunis pour avancer avec les acteurs et une stratégie de vaccination sera mise en œuvre en septembre 2023. Le calendrier annoncé par le ministre de l'agriculture lors de sa venue en Vendée, le 22 décembre, est donc respecté à ce jour. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. David Taupiac.<br><br><strong>M. David Taupiac. </strong>J'invite M. le ministre de l'agriculture à se rendre au stand du Gers pour discuter avec les éleveurs – ils seront présents au Salon de l'agriculture jusqu'à la fin de la semaine. <i>(Applaudissements sur quelques bancs du groupe LIOT.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 29,
+            "label": "ORG",
+            "text": "GRIPPE"
+          },
+          {
+            "start_char": 72,
+            "end_char": 75,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 116,
+            "end_char": 148,
+            "label": "PER",
+            "text": "M. David Taupiac.<br><br><strong"
+          },
+          {
+            "start_char": 152,
+            "end_char": 165,
+            "label": "PER",
+            "text": "David Taupiac"
+          },
+          {
+            "start_char": 249,
+            "end_char": 268,
+            "label": "MISC",
+            "text": "alimentaire.<br><br"
+          },
+          {
+            "start_char": 566,
+            "end_char": 570,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1401,
+            "end_char": 1416,
+            "label": "MISC",
+            "text": "aliment.<br><br"
+          },
+          {
+            "start_char": 1419,
+            "end_char": 1423,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1706,
+            "end_char": 1713,
+            "label": "LOC",
+            "text": "du Gers"
+          },
+          {
+            "start_char": 2123,
+            "end_char": 2148,
+            "label": "ORG",
+            "text": "LIOT.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2149,
+            "end_char": 2152,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2193,
+            "end_char": 2195,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2295,
+            "end_char": 2305,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2392,
+            "end_char": 2404,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2563,
+            "end_char": 2575,
+            "label": "PER",
+            "text": "Marc Fesneau"
+          },
+          {
+            "start_char": 2607,
+            "end_char": 2612,
+            "label": "LOC",
+            "text": "Salon"
+          },
+          {
+            "start_char": 2741,
+            "end_char": 2750,
+            "label": "LOC",
+            "text": "Sud-Ouest"
+          },
+          {
+            "start_char": 2773,
+            "end_char": 2777,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2793,
+            "end_char": 2807,
+            "label": "MISC",
+            "text": "totale.<br><br"
+          },
+          {
+            "start_char": 2979,
+            "end_char": 2988,
+            "label": "LOC",
+            "text": "Sud-Ouest"
+          },
+          {
+            "start_char": 3004,
+            "end_char": 3020,
+            "label": "LOC",
+            "text": "Pays de la Loire"
+          },
+          {
+            "start_char": 3176,
+            "end_char": 3180,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3243,
+            "end_char": 3252,
+            "label": "LOC",
+            "text": "Sud-Ouest"
+          },
+          {
+            "start_char": 3275,
+            "end_char": 3280,
+            "label": "LOC",
+            "text": "Adour"
+          },
+          {
+            "start_char": 3441,
+            "end_char": 3445,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3774,
+            "end_char": 3787,
+            "label": "ORG",
+            "text": "FranceAgriMer"
+          },
+          {
+            "start_char": 3848,
+            "end_char": 3862,
+            "label": "PER",
+            "text": "Pierre Cordier"
+          },
+          {
+            "start_char": 4041,
+            "end_char": 4056,
+            "label": "MISC",
+            "text": "automne.<br><br"
+          },
+          {
+            "start_char": 4485,
+            "end_char": 4501,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 4902,
+            "end_char": 4908,
+            "label": "LOC",
+            "text": "Vendée"
+          },
+          {
+            "start_char": 5005,
+            "end_char": 5028,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5029,
+            "end_char": 5032,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5073,
+            "end_char": 5105,
+            "label": "PER",
+            "text": "M. David Taupiac.<br><br><strong"
+          },
+          {
+            "start_char": 5109,
+            "end_char": 5122,
+            "label": "PER",
+            "text": "David Taupiac"
+          },
+          {
+            "start_char": 5142,
+            "end_char": 5144,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 5198,
+            "end_char": 5202,
+            "label": "LOC",
+            "text": "Gers"
+          },
+          {
+            "start_char": 5260,
+            "end_char": 5265,
+            "label": "ORG",
+            "text": "Salon"
+          },
+          {
+            "start_char": 5363,
+            "end_char": 5376,
+            "label": "LOC",
+            "text": "LIOT.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 29,
+            "sentiment": "1 star",
+            "score": 0.24648253619670868
+          },
+          {
+            "begin_char": 30,
+            "end_char": 90,
+            "sentiment": "3 stars",
+            "score": 0.24446174502372742
+          },
+          {
+            "begin_char": 91,
+            "end_char": 166,
+            "sentiment": "4 stars",
+            "score": 0.2556423544883728
+          },
+          {
+            "begin_char": 167,
+            "end_char": 269,
+            "sentiment": "3 stars",
+            "score": 0.2936827540397644
+          },
+          {
+            "begin_char": 269,
+            "end_char": 368,
+            "sentiment": "4 stars",
+            "score": 0.3130524456501007
+          },
+          {
+            "begin_char": 369,
+            "end_char": 448,
+            "sentiment": "5 stars",
+            "score": 0.47993239760398865
+          },
+          {
+            "begin_char": 449,
+            "end_char": 504,
+            "sentiment": "1 star",
+            "score": 0.27053403854370117
+          },
+          {
+            "begin_char": 505,
+            "end_char": 675,
+            "sentiment": "3 stars",
+            "score": 0.40093326568603516
+          },
+          {
+            "begin_char": 676,
+            "end_char": 774,
+            "sentiment": "3 stars",
+            "score": 0.30345672369003296
+          },
+          {
+            "begin_char": 775,
+            "end_char": 785,
+            "sentiment": "3 stars",
+            "score": 0.2233653962612152
+          },
+          {
+            "begin_char": 785,
+            "end_char": 786,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 787,
+            "end_char": 877,
+            "sentiment": "3 stars",
+            "score": 0.34703895449638367
+          },
+          {
+            "begin_char": 878,
+            "end_char": 1076,
+            "sentiment": "3 stars",
+            "score": 0.5198454856872559
+          },
+          {
+            "begin_char": 1077,
+            "end_char": 1194,
+            "sentiment": "2 stars",
+            "score": 0.3739459216594696
+          },
+          {
+            "begin_char": 1195,
+            "end_char": 1335,
+            "sentiment": "4 stars",
+            "score": 0.3576784133911133
+          },
+          {
+            "begin_char": 1336,
+            "end_char": 1417,
+            "sentiment": "1 star",
+            "score": 0.8507359623908997
+          },
+          {
+            "begin_char": 1417,
+            "end_char": 1648,
+            "sentiment": "4 stars",
+            "score": 0.4108838438987732
+          },
+          {
+            "begin_char": 1649,
+            "end_char": 1807,
+            "sentiment": "5 stars",
+            "score": 0.44690167903900146
+          },
+          {
+            "begin_char": 1808,
+            "end_char": 1835,
+            "sentiment": "4 stars",
+            "score": 0.2958007752895355
+          },
+          {
+            "begin_char": 1836,
+            "end_char": 1891,
+            "sentiment": "4 stars",
+            "score": 0.3261912167072296
+          },
+          {
+            "begin_char": 1892,
+            "end_char": 1969,
+            "sentiment": "5 stars",
+            "score": 0.4644938111305237
+          },
+          {
+            "begin_char": 1970,
+            "end_char": 2077,
+            "sentiment": "5 stars",
+            "score": 0.4095321595668793
+          },
+          {
+            "begin_char": 2078,
+            "end_char": 2167,
+            "sentiment": "4 stars",
+            "score": 0.3018896281719208
+          },
+          {
+            "begin_char": 2168,
+            "end_char": 2324,
+            "sentiment": "4 stars",
+            "score": 0.3387698829174042
+          },
+          {
+            "begin_char": 2325,
+            "end_char": 2405,
+            "sentiment": "4 stars",
+            "score": 0.3927465081214905
+          },
+          {
+            "begin_char": 2406,
+            "end_char": 2482,
+            "sentiment": "4 stars",
+            "score": 0.3892097771167755
+          },
+          {
+            "begin_char": 2483,
+            "end_char": 2630,
+            "sentiment": "1 star",
+            "score": 0.22839540243148804
+          },
+          {
+            "begin_char": 2631,
+            "end_char": 2751,
+            "sentiment": "4 stars",
+            "score": 0.3210742771625519
+          },
+          {
+            "begin_char": 2752,
+            "end_char": 2895,
+            "sentiment": "5 stars",
+            "score": 0.3238973021507263
+          },
+          {
+            "begin_char": 2896,
+            "end_char": 3101,
+            "sentiment": "3 stars",
+            "score": 0.4131819009780884
+          },
+          {
+            "begin_char": 3102,
+            "end_char": 3539,
+            "sentiment": "3 stars",
+            "score": 0.3660232722759247
+          },
+          {
+            "begin_char": 3540,
+            "end_char": 3590,
+            "sentiment": "3 stars",
+            "score": 0.2883060574531555
+          },
+          {
+            "begin_char": 3591,
+            "end_char": 3607,
+            "sentiment": "4 stars",
+            "score": 0.4633999764919281
+          },
+          {
+            "begin_char": 3608,
+            "end_char": 3631,
+            "sentiment": "5 stars",
+            "score": 0.3498519957065582
+          },
+          {
+            "begin_char": 3632,
+            "end_char": 3840,
+            "sentiment": "4 stars",
+            "score": 0.3119945228099823
+          },
+          {
+            "begin_char": 3841,
+            "end_char": 3862,
+            "sentiment": "3 stars",
+            "score": 0.33084484934806824
+          },
+          {
+            "begin_char": 3863,
+            "end_char": 3878,
+            "sentiment": "3 stars",
+            "score": 0.31647542119026184
+          },
+          {
+            "begin_char": 3879,
+            "end_char": 3973,
+            "sentiment": "3 stars",
+            "score": 0.2741815149784088
+          },
+          {
+            "begin_char": 3974,
+            "end_char": 4057,
+            "sentiment": "3 stars",
+            "score": 0.2900209128856659
+          },
+          {
+            "begin_char": 4057,
+            "end_char": 4114,
+            "sentiment": "5 stars",
+            "score": 0.4655042290687561
+          },
+          {
+            "begin_char": 4115,
+            "end_char": 4223,
+            "sentiment": "5 stars",
+            "score": 0.5187474489212036
+          },
+          {
+            "begin_char": 4224,
+            "end_char": 4312,
+            "sentiment": "4 stars",
+            "score": 0.4107455015182495
+          },
+          {
+            "begin_char": 4313,
+            "end_char": 4502,
+            "sentiment": "4 stars",
+            "score": 0.41862234473228455
+          },
+          {
+            "begin_char": 4503,
+            "end_char": 4681,
+            "sentiment": "4 stars",
+            "score": 0.4695655405521393
+          },
+          {
+            "begin_char": 4682,
+            "end_char": 4826,
+            "sentiment": "4 stars",
+            "score": 0.3919224143028259
+          },
+          {
+            "begin_char": 4827,
+            "end_char": 4954,
+            "sentiment": "4 stars",
+            "score": 0.38732999563217163
+          },
+          {
+            "begin_char": 4955,
+            "end_char": 5047,
+            "sentiment": "3 stars",
+            "score": 0.30941691994667053
+          },
+          {
+            "begin_char": 5048,
+            "end_char": 5123,
+            "sentiment": "4 stars",
+            "score": 0.2556423544883728
+          },
+          {
+            "begin_char": 5124,
+            "end_char": 5133,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5133,
+            "end_char": 5312,
+            "sentiment": "5 stars",
+            "score": 0.4209058880805969
+          },
+          {
+            "begin_char": 5313,
+            "end_char": 5381,
+            "sentiment": "3 stars",
+            "score": 0.3202967941761017
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-03-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-03-01",
+        "pageJO": "1899",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG92",
+    "identifiant": {
+      "numero": "92",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "animaux",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Maltraitance et abandon des animaux"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794286",
+        "mandatRef": "PM796827"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Agriculture et souveraineté alimentaire",
+      "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Agriculture et souveraineté alimentaire",
+          "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> MALTRAITANCE ET ABANDON DES ANIMAUX <a name=PG11></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Anne-Sophie Frigout.<br><br><strong>Mme Anne-Sophie Frigout. </strong>Ma question s'adresse au ministre de l'agriculture et de la souveraineté alimentaire. « Un chaton utilisé comme un ballon de foot : les riverains horrifiés. » Voilà le titre d'un article de presse paru il y a quelques jours. Les actes de maltraitance et d'abandon émeuvent à juste titre nos concitoyens, qui attendent plus de fermeté de la part de la justice. Les refuges sont saturés et manquent de moyens, alors qu'on dénombre 100 000 abandons en France chaque année. Ce n'est pas avec des demi-mesures que vous lutterez contre ce fléau.<br><br>La loi visant à lutter contre les maltraitances animales et à conforter le lien entre les animaux et les hommes, promulguée l'année dernière, est une occasion manquée, car le fond du problème n'est pas réglé. Les associations vous avaient clairement indiqué qu'un certificat d'engagement signé au moment de l'adoption était insuffisant, faute de mentionner les sanctions en cas de maltraitance ou d'abandon.<br><br>Monsieur le ministre, je vous invite à vous rendre dans des refuges : vous y verrez des soignants débordés, des locaux saturés, parfois dans un état catastrophique, dans lesquels les conditions de vie des animaux sont au-delà du supportable. Qu'attendez-vous pour lancer un grand plan de soutien à nos refuges, qui assurent une mission de service public ?<br><br>La loi de 2021 est aussi un échec au niveau pénal : on doit interdire à vie à toute personne condamnée pour un abandon ou une maltraitance de détenir un animal. Cela relève du bon sens !<br><br>Il faut enfin changer le statut juridique des animaux dans le code civil pour mieux les protéger car, en 2022, les animaux sont toujours considérés comme des biens malgré la loi de 2015 qui reconnaît pourtant qu'ils sont des êtres vivants doués de sensibilité.<br><br>Est-il encore acceptable, dans un pays qui se dit civilisé, de compter plus de 100 000 abandons par an ? Entendrez-vous enfin l'appel des associations et des Français qui attendent de votre part un peu de courage et de volonté politique en matière de bien-être animal ? <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’agriculture et de la souveraineté alimentaire.<br><br><strong>M. Marc Fesneau,</strong><i> ministre de l’agriculture et de la souveraineté alimentaire. </i>Madame la députée, vous nous demandez ce que nous attendons, mais la vérité c'est que nous agissons. <i>(M. Erwan Balanant applaudit.)</i> Tout d'abord, une loi a été votée au mois de novembre 2021, à l'initiative de la majorité sortante, visant à lutter contre la maltraitance animale. (Applaudissements sur quelques bancs du groupe RE.)<br><br>Vous avez raison de m'interroger sur les abandons et la maltraitance animale qui, reconnaissons-le, ont tendance à s'intensifier durant l'été, même si le problème existe tout au long de l'année. Après vous, je salue l'engagement des bénévoles associatifs mobilisés pour faire face à ce phénomène et accueillir les animaux dans les meilleures conditions. Je veux surtout rappeler solennellement que l'adoption ou l'acquisition d'un animal est un acte que l'on doit accomplir avec responsabilité, un acte qui engage. Il ne doit pas résulter d'un simple coup de cœur mais être le fruit d'un engagement sur le moyen et sur le long terme.<br><br>Nous luttons contre l'abandon des animaux, qui est une forme de cruauté. Au-delà des maltraitances animales, c'est surtout un délit puni de trois ans de prison et de 45 000 euros d'amende, ces peines pouvant être portées à cinq ans de prison et 75 000 euros d'amende en cas de décès de l'animal.<br><br><strong>Mme Julie Lechanteux.</strong> Ça n'est jamais appliqué !<br><br><strong>M. Marc Fesneau,</strong><i> ministre . </i>Mon ministère mène, depuis 2020, un travail au long cours qui permet, en particulier dans le cadre du plan France relance, d'investir dans les refuges sur lesquels vous m'interrogiez, et de sensibiliser les Français, grâce notamment à un certificat d'acquisition. Le décret sur ce sujet vient de paraître et donne lieu à une communication visant le grand public pour sensibiliser chaque détenteur d'un animal.<br><br>Un autre objectif consiste à organiser et à accompagner le tissu associatif. Dans ce cadre, nous facilitons par exemple l'accès aux soins vétérinaires pour les plus démunis, et nous investissons dans les infrastructures.<br><br>Se pose aussi la question des sanctions contre les actes de maltraitance. Dans cette logique, nous avons étendu aux gardes champêtres et aux policiers municipaux l'habilitation à procéder à des contrôles d'identification.<br><br>Enfin, cette question relève de la responsabilité individuelle et collective de chaque propriétaire. C'est en ce sens que nous continuerons d'agir avec détermination cet été et les étés qui suivront. <i>(Applaudissements sur les bancs des groupes RE et Dem.)</i><br><br><strong>Mme la présidente. </strong>Mme Charlotte Leduc n'étant pas là pour poser sa question, nous passons à la suivante.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 35,
+            "label": "ORG",
+            "text": "MALTRAITANCE"
+          },
+          {
+            "start_char": 51,
+            "end_char": 58,
+            "label": "MISC",
+            "text": "ANIMAUX"
+          },
+          {
+            "start_char": 93,
+            "end_char": 96,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 137,
+            "end_char": 152,
+            "label": "PER",
+            "text": "Mme Anne-Sophie"
+          },
+          {
+            "start_char": 177,
+            "end_char": 200,
+            "label": "PER",
+            "text": "Mme Anne-Sophie Frigout"
+          },
+          {
+            "start_char": 660,
+            "end_char": 666,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 744,
+            "end_char": 757,
+            "label": "MISC",
+            "text": "fléau.<br><br"
+          },
+          {
+            "start_char": 1157,
+            "end_char": 1173,
+            "label": "MISC",
+            "text": "abandon.<br><br>"
+          },
+          {
+            "start_char": 1173,
+            "end_char": 1181,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1978,
+            "end_char": 2001,
+            "label": "MISC",
+            "text": "sensibilité.<br><br>Est"
+          },
+          {
+            "start_char": 2103,
+            "end_char": 2112,
+            "label": "PER",
+            "text": "Entendrez"
+          },
+          {
+            "start_char": 2156,
+            "end_char": 2164,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2313,
+            "end_char": 2336,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2337,
+            "end_char": 2340,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2381,
+            "end_char": 2383,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2399,
+            "end_char": 2401,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2463,
+            "end_char": 2470,
+            "label": "PER",
+            "text": "M. Marc"
+          },
+          {
+            "start_char": 2504,
+            "end_char": 2506,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2557,
+            "end_char": 2563,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 2665,
+            "end_char": 2679,
+            "label": "LOC",
+            "text": "Erwan Balanant"
+          },
+          {
+            "start_char": 2845,
+            "end_char": 2861,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 3530,
+            "end_char": 3543,
+            "label": "MISC",
+            "text": "terme.<br><br"
+          },
+          {
+            "start_char": 3855,
+            "end_char": 3884,
+            "label": "PER",
+            "text": "Mme Julie Lechanteux.</strong"
+          },
+          {
+            "start_char": 3886,
+            "end_char": 3888,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 3931,
+            "end_char": 3935,
+            "label": "PER",
+            "text": "Marc"
+          },
+          {
+            "start_char": 4074,
+            "end_char": 4085,
+            "label": "LOC",
+            "text": "plan France"
+          },
+          {
+            "start_char": 4179,
+            "end_char": 4187,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4374,
+            "end_char": 4388,
+            "label": "MISC",
+            "text": "animal.<br><br"
+          },
+          {
+            "start_char": 4593,
+            "end_char": 4616,
+            "label": "MISC",
+            "text": "infrastructures.<br><br"
+          },
+          {
+            "start_char": 4823,
+            "end_char": 4845,
+            "label": "MISC",
+            "text": "identification.<br><br"
+          },
+          {
+            "start_char": 5093,
+            "end_char": 5095,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5124,
+            "end_char": 5127,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5152,
+            "end_char": 5171,
+            "label": "PER",
+            "text": "Mme Charlotte Leduc"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 58,
+            "sentiment": "1 star",
+            "score": 0.36367180943489075
+          },
+          {
+            "begin_char": 59,
+            "end_char": 111,
+            "sentiment": "3 stars",
+            "score": 0.30029624700546265
+          },
+          {
+            "begin_char": 112,
+            "end_char": 201,
+            "sentiment": "3 stars",
+            "score": 0.25796860456466675
+          },
+          {
+            "begin_char": 202,
+            "end_char": 296,
+            "sentiment": "4 stars",
+            "score": 0.2686174511909485
+          },
+          {
+            "begin_char": 297,
+            "end_char": 299,
+            "sentiment": "4 stars",
+            "score": 0.24992533028125763
+          },
+          {
+            "begin_char": 299,
+            "end_char": 369,
+            "sentiment": "1 star",
+            "score": 0.6327199339866638
+          },
+          {
+            "begin_char": 370,
+            "end_char": 435,
+            "sentiment": "1 star",
+            "score": 0.2771960198879242
+          },
+          {
+            "begin_char": 436,
+            "end_char": 570,
+            "sentiment": "5 stars",
+            "score": 0.5611864328384399
+          },
+          {
+            "begin_char": 571,
+            "end_char": 680,
+            "sentiment": "1 star",
+            "score": 0.23522652685642242
+          },
+          {
+            "begin_char": 681,
+            "end_char": 966,
+            "sentiment": "3 stars",
+            "score": 0.25798892974853516
+          },
+          {
+            "begin_char": 967,
+            "end_char": 1173,
+            "sentiment": "3 stars",
+            "score": 0.3415001928806305
+          },
+          {
+            "begin_char": 1173,
+            "end_char": 1414,
+            "sentiment": "5 stars",
+            "score": 0.39884498715400696
+          },
+          {
+            "begin_char": 1415,
+            "end_char": 1528,
+            "sentiment": "5 stars",
+            "score": 0.5031103491783142
+          },
+          {
+            "begin_char": 1528,
+            "end_char": 1536,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1536,
+            "end_char": 1696,
+            "sentiment": "1 star",
+            "score": 0.3906397819519043
+          },
+          {
+            "begin_char": 1697,
+            "end_char": 1722,
+            "sentiment": "5 stars",
+            "score": 0.32681211829185486
+          },
+          {
+            "begin_char": 1722,
+            "end_char": 2102,
+            "sentiment": "5 stars",
+            "score": 0.5484505891799927
+          },
+          {
+            "begin_char": 2103,
+            "end_char": 2267,
+            "sentiment": "5 stars",
+            "score": 0.5608728528022766
+          },
+          {
+            "begin_char": 2268,
+            "end_char": 2355,
+            "sentiment": "4 stars",
+            "score": 0.3186970353126526
+          },
+          {
+            "begin_char": 2356,
+            "end_char": 2491,
+            "sentiment": "4 stars",
+            "score": 0.2993431091308594
+          },
+          {
+            "begin_char": 2492,
+            "end_char": 2552,
+            "sentiment": "4 stars",
+            "score": 0.325288861989975
+          },
+          {
+            "begin_char": 2553,
+            "end_char": 2657,
+            "sentiment": "5 stars",
+            "score": 0.2926502823829651
+          },
+          {
+            "begin_char": 2658,
+            "end_char": 2695,
+            "sentiment": "4 stars",
+            "score": 0.2703075706958771
+          },
+          {
+            "begin_char": 2696,
+            "end_char": 2843,
+            "sentiment": "4 stars",
+            "score": 0.35724496841430664
+          },
+          {
+            "begin_char": 2844,
+            "end_char": 2845,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 2845,
+            "end_char": 2903,
+            "sentiment": "3 stars",
+            "score": 0.32385340332984924
+          },
+          {
+            "begin_char": 2903,
+            "end_char": 3097,
+            "sentiment": "4 stars",
+            "score": 0.33332857489585876
+          },
+          {
+            "begin_char": 3098,
+            "end_char": 3256,
+            "sentiment": "5 stars",
+            "score": 0.509035587310791
+          },
+          {
+            "begin_char": 3257,
+            "end_char": 3417,
+            "sentiment": "5 stars",
+            "score": 0.6059892773628235
+          },
+          {
+            "begin_char": 3418,
+            "end_char": 3544,
+            "sentiment": "4 stars",
+            "score": 0.3661534786224365
+          },
+          {
+            "begin_char": 3544,
+            "end_char": 3616,
+            "sentiment": "5 stars",
+            "score": 0.48444074392318726
+          },
+          {
+            "begin_char": 3617,
+            "end_char": 3885,
+            "sentiment": "4 stars",
+            "score": 0.30886197090148926
+          },
+          {
+            "begin_char": 3886,
+            "end_char": 3912,
+            "sentiment": "1 star",
+            "score": 0.9202826023101807
+          },
+          {
+            "begin_char": 3912,
+            "end_char": 3967,
+            "sentiment": "3 stars",
+            "score": 0.3122144639492035
+          },
+          {
+            "begin_char": 3968,
+            "end_char": 3972,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3972,
+            "end_char": 4235,
+            "sentiment": "5 stars",
+            "score": 0.486210435628891
+          },
+          {
+            "begin_char": 4236,
+            "end_char": 4465,
+            "sentiment": "4 stars",
+            "score": 0.31363818049430847
+          },
+          {
+            "begin_char": 4466,
+            "end_char": 4690,
+            "sentiment": "4 stars",
+            "score": 0.45711615681648254
+          },
+          {
+            "begin_char": 4691,
+            "end_char": 4946,
+            "sentiment": "4 stars",
+            "score": 0.4166813790798187
+          },
+          {
+            "begin_char": 4947,
+            "end_char": 5045,
+            "sentiment": "5 stars",
+            "score": 0.5074740648269653
+          },
+          {
+            "begin_char": 5046,
+            "end_char": 5142,
+            "sentiment": "4 stars",
+            "score": 0.31417331099510193
+          },
+          {
+            "begin_char": 5143,
+            "end_char": 5246,
+            "sentiment": "3 stars",
+            "score": 0.3445308208465576
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3309",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

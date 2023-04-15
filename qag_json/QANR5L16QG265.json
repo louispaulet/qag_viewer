@@ -1,0 +1,875 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG265",
+    "identifiant": {
+      "numero": "265",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "arts et spectacles",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Attaques contre des oeuvres d'art"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793892",
+        "mandatRef": "PM796590"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Culture",
+      "developpe": "Ministère de la culture"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Culture",
+          "developpe": "Ministère de la culture"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ATTAQUES CONTRE DES ŒUVRES D'ART <a name=PG19></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Stéphanie Galzy.<br><br><strong>Mme Stéphanie Galzy. </strong>Ma question s'adresse à Mme Rima Abdul Malak, ministre de la culture. Les attaques contre les œuvres d'art au nom de la cause écologique se multiplient ces dernières semaines en Europe. Depuis le 14 octobre, des activistes voire des terroristes, pour reprendre le terme du ministre de l'intérieur <i>(Protestations sur plusieurs bancs des groupes LFI-NUPES et Écolo-NUPES)</i>, ont sévi par exemple à Londres, à Potsdam, à La Haye, à Madrid ou encore à Rome. Des tableaux de van Gogh, de Monet, de Vermeer, de Goya – bref, des œuvres d'une valeur patrimoniale inestimable et dont la perte serait irremplaçable – ont été pris pour cibles. La France et Paris ne sont pas en reste. Le 30 octobre 2022, on apprend dans le journal Le Parisien qu'une attaque similaire a été évitée de peu au musée d'Orsay.<br><br>Contrairement à l'extrême gauche, je ne prends pas ces attaques à la légère. Je ne les justifie pas. Je ne les excuse pas. Elles sont certes ridicules, puisque je ne vois pas le rapport entre la soupe Heinz, les plus belles réalisations de l'humanité et la sortie des hydrocarbures, mais c'est justement cette absurdité qui doit nous interpeller. S'attaquer aux chefs-d'œuvre de l'humanité n'est ni anodin, ni excusable. Les pires totalitarismes ont un point commun : ils s'attaquent à l'art et à la mémoire.<br><br><strong>M. Hadrien Clouet.</strong> Parole d'expert !<br><br><strong>Mme Stéphanie Galzy. </strong>Ils font table rase du passé ; ils détruisent.<i> (Protestations sur plusieurs bancs des groupes LFI-NUPES.)</i><br><br><strong>Un député du groupe Écolo-NUPES .</strong> Il y avait une vitre !<br><br><strong>Mme Stéphanie Galzy. </strong>Les forces républicaines ne peuvent se coucher devant la montée de ces mouvements violents. Mes questions, madame la ministre, sont donc les suivantes : Avez-vous pris conscience du danger qui pèse sur nos musées ? Quelles mesures avez-vous prises pour protéger l'art et la culture de l'obscurantisme vert ? (Applaudissements sur les bancs du groupe RN. – M. Matthias Tavel proteste.)<br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre de la culture.<br><br><strong>Mme Rima Abdul-Malak,</strong><i> ministre de la culture. </i>Le mot obscurantisme, lorsque c'est vous qui le prononcez, madame la députée, me fait un peu froid dans le dos. <i>(Protestations sur les bancs du groupe RN.) </i>Vous semblez très soucieuse de l'avenir de nos musées ; je suis donc très étonnée que votre groupe ait voté contre le budget de la mission Culture que j'ai défendu ici durant une journée entière et qui est en hausse de 7 % cette année, pour soutenir notamment les travaux de mise aux normes ou de rénovation thermique des musées et pour revaloriser le salaire de certains agents. (Applaudissements sur quelques bancs du groupe RE.)<br><br><strong>M. Sylvain Maillard.</strong> Eh oui !<br><br><strong>M. Julien Odoul.</strong> Répondez à la question !<br><br><strong>Mme Marine Le Pen.</strong> Il y a eu un 49.3 !<br><br><strong>Mme Rima Abdul-Malak,</strong><i> ministre. </i>Permettez-moi de m'étonner de cet intérêt soudain pour l'avenir de nos musées. S'agissant des œuvres d'art, j'ai déjà eu l'occasion de m'exprimer ici et plusieurs fois dans les médias. Je suis très préoccupée par ce phénomène que je qualifie quant à moi d'éco-vandalisme. Il prend pour cibles, pour le moment, des œuvres protégées par des vitres, mais on ne peut exclure qu'il s'attaque un jour à d'autres types d'œuvres. Nos agents sont préparés. Nous avons discuté assez rapidement avec les musées et préparé les équipes à déjouer certaines interventions.<br><br><strong>M. Pierre Cordier.</strong> Assez rapide, ça veut dire quoi ?<br><br><strong>Mme Rima Abdul-Malak,</strong><i> ministre . </i>C'est ainsi que Paris est restée épargnée pour l'instant, une attaque au musée d'Orsay ayant été évitée. Nous restons très vigilants. Nous ne sommes pas à l'abri, dans un pays démocratique où règne la liberté d'expression,…<br><br><strong>Mme Anne-Laure Blin.</strong> Mais il n'est pas question ici de liberté d'expression !<br><br><strong>Mme Rima Abdul-Malak,</strong><i> ministre . </i>…d'autres types d'actions de ce genre, mais nos équipes dans les musées sont pleinement mobilisées. <i>(Exclamations sur les bancs du groupe LR.)</i><br><br><strong>M. Pierre Cordier.</strong> N'importe quoi ! Ministre, c'est un métier…<br><br><strong>Mme Rima Abdul-Malak,</strong><i> ministre . </i>Enfin, l'ensemble des directeurs de musées prennent la parole pour faire la distinction entre ces œuvres qui, comme vous l'avez souligné, sont des chefs-d'œuvre de l'humanité transmis de génération en génération, dont certaines ont survécu à deux guerres mondiales, et l'enjeu de la transition écologique. Sur cet enjeu, qui ne doit pas être confondu avec les attaques menées, nous sommes pleinement engagés, notamment avec les musées : eux aussi sont concernés par la décarbonation et l'amélioration de leur performance énergétique. <i>(Applaudissements sur quelques bancs du groupe RE. – M. Philippe Berta applaudit également.)</i><br><br><strong>M. Jocelyn Dessigny.</strong> Est-ce que c'est devenu « hyper intéressant », madame la ministre ?<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 31,
+            "label": "MISC",
+            "text": "ATTAQUES"
+          },
+          {
+            "start_char": 90,
+            "end_char": 93,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 134,
+            "end_char": 169,
+            "label": "PER",
+            "text": "Mme Stéphanie Galzy.<br><br><strong"
+          },
+          {
+            "start_char": 170,
+            "end_char": 189,
+            "label": "PER",
+            "text": "Mme Stéphanie Galzy"
+          },
+          {
+            "start_char": 224,
+            "end_char": 244,
+            "label": "PER",
+            "text": "Mme Rima Abdul Malak"
+          },
+          {
+            "start_char": 378,
+            "end_char": 384,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 547,
+            "end_char": 556,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 560,
+            "end_char": 575,
+            "label": "LOC",
+            "text": "Écolo-NUPES)</i"
+          },
+          {
+            "start_char": 601,
+            "end_char": 608,
+            "label": "LOC",
+            "text": "Londres"
+          },
+          {
+            "start_char": 612,
+            "end_char": 619,
+            "label": "LOC",
+            "text": "Potsdam"
+          },
+          {
+            "start_char": 623,
+            "end_char": 630,
+            "label": "LOC",
+            "text": "La Haye"
+          },
+          {
+            "start_char": 634,
+            "end_char": 640,
+            "label": "LOC",
+            "text": "Madrid"
+          },
+          {
+            "start_char": 653,
+            "end_char": 657,
+            "label": "LOC",
+            "text": "Rome"
+          },
+          {
+            "start_char": 675,
+            "end_char": 683,
+            "label": "PER",
+            "text": "van Gogh"
+          },
+          {
+            "start_char": 688,
+            "end_char": 693,
+            "label": "PER",
+            "text": "Monet"
+          },
+          {
+            "start_char": 698,
+            "end_char": 705,
+            "label": "PER",
+            "text": "Vermeer"
+          },
+          {
+            "start_char": 710,
+            "end_char": 721,
+            "label": "MISC",
+            "text": "Goya – bref"
+          },
+          {
+            "start_char": 838,
+            "end_char": 847,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 851,
+            "end_char": 856,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 926,
+            "end_char": 937,
+            "label": "ORG",
+            "text": "Le Parisien"
+          },
+          {
+            "start_char": 1209,
+            "end_char": 1214,
+            "label": "LOC",
+            "text": "Heinz"
+          },
+          {
+            "start_char": 1535,
+            "end_char": 1542,
+            "label": "PER",
+            "text": "Hadrien"
+          },
+          {
+            "start_char": 1560,
+            "end_char": 1566,
+            "label": "LOC",
+            "text": "Parole"
+          },
+          {
+            "start_char": 1593,
+            "end_char": 1612,
+            "label": "PER",
+            "text": "Mme Stéphanie Galzy"
+          },
+          {
+            "start_char": 1674,
+            "end_char": 1687,
+            "label": "MISC",
+            "text": "Protestations"
+          },
+          {
+            "start_char": 1720,
+            "end_char": 1750,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1771,
+            "end_char": 1782,
+            "label": "ORG",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 1832,
+            "end_char": 1851,
+            "label": "PER",
+            "text": "Mme Stéphanie Galzy"
+          },
+          {
+            "start_char": 1954,
+            "end_char": 1967,
+            "label": "PER",
+            "text": "Mes questions"
+          },
+          {
+            "start_char": 2015,
+            "end_char": 2019,
+            "label": "LOC",
+            "text": "Avez"
+          },
+          {
+            "start_char": 2077,
+            "end_char": 2084,
+            "label": "LOC",
+            "text": "Quelles"
+          },
+          {
+            "start_char": 2171,
+            "end_char": 2187,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 2212,
+            "end_char": 2214,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 2262,
+            "end_char": 2265,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2306,
+            "end_char": 2309,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2352,
+            "end_char": 2366,
+            "label": "PER",
+            "text": "Mme Rima Abdul"
+          },
+          {
+            "start_char": 2386,
+            "end_char": 2408,
+            "label": "ORG",
+            "text": "ministre de la culture"
+          },
+          {
+            "start_char": 2568,
+            "end_char": 2570,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 2716,
+            "end_char": 2723,
+            "label": "MISC",
+            "text": "Culture"
+          },
+          {
+            "start_char": 2958,
+            "end_char": 2974,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 3004,
+            "end_char": 3023,
+            "label": "ORG",
+            "text": "RE.)<br><br><strong"
+          },
+          {
+            "start_char": 3024,
+            "end_char": 3052,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong"
+          },
+          {
+            "start_char": 3081,
+            "end_char": 3102,
+            "label": "PER",
+            "text": "Julien Odoul.</strong"
+          },
+          {
+            "start_char": 3104,
+            "end_char": 3112,
+            "label": "LOC",
+            "text": "Répondez"
+          },
+          {
+            "start_char": 3144,
+            "end_char": 3154,
+            "label": "PER",
+            "text": "Mme Marine"
+          },
+          {
+            "start_char": 3207,
+            "end_char": 3221,
+            "label": "PER",
+            "text": "Mme Rima Abdul"
+          },
+          {
+            "start_char": 3241,
+            "end_char": 3249,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3255,
+            "end_char": 3264,
+            "label": "LOC",
+            "text": "Permettez"
+          },
+          {
+            "start_char": 3831,
+            "end_char": 3854,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 3905,
+            "end_char": 3919,
+            "label": "PER",
+            "text": "Mme Rima Abdul"
+          },
+          {
+            "start_char": 3939,
+            "end_char": 3947,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3970,
+            "end_char": 3975,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 4027,
+            "end_char": 4040,
+            "label": "LOC",
+            "text": "musée d'Orsay"
+          },
+          {
+            "start_char": 4193,
+            "end_char": 4222,
+            "label": "PER",
+            "text": "Mme Anne-Laure Blin.</strong>"
+          },
+          {
+            "start_char": 4295,
+            "end_char": 4309,
+            "label": "PER",
+            "text": "Mme Rima Abdul"
+          },
+          {
+            "start_char": 4329,
+            "end_char": 4337,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4485,
+            "end_char": 4508,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4512,
+            "end_char": 4535,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 4596,
+            "end_char": 4600,
+            "label": "PER",
+            "text": "Mme "
+          },
+          {
+            "start_char": 4630,
+            "end_char": 4638,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 5222,
+            "end_char": 5231,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 5238,
+            "end_char": 5252,
+            "label": "PER",
+            "text": "Philippe Berta"
+          },
+          {
+            "start_char": 5297,
+            "end_char": 5327,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong> Est"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 108,
+            "sentiment": "3 stars",
+            "score": 0.2631499767303467
+          },
+          {
+            "begin_char": 109,
+            "end_char": 190,
+            "sentiment": "3 stars",
+            "score": 0.24719366431236267
+          },
+          {
+            "begin_char": 191,
+            "end_char": 269,
+            "sentiment": "3 stars",
+            "score": 0.2573581039905548
+          },
+          {
+            "begin_char": 270,
+            "end_char": 385,
+            "sentiment": "5 stars",
+            "score": 0.35089048743247986
+          },
+          {
+            "begin_char": 386,
+            "end_char": 658,
+            "sentiment": "4 stars",
+            "score": 0.3473624885082245
+          },
+          {
+            "begin_char": 659,
+            "end_char": 837,
+            "sentiment": "5 stars",
+            "score": 0.636990487575531
+          },
+          {
+            "begin_char": 838,
+            "end_char": 878,
+            "sentiment": "4 stars",
+            "score": 0.3354417681694031
+          },
+          {
+            "begin_char": 879,
+            "end_char": 1084,
+            "sentiment": "1 star",
+            "score": 0.22918640077114105
+          },
+          {
+            "begin_char": 1085,
+            "end_char": 1108,
+            "sentiment": "1 star",
+            "score": 0.6479029655456543
+          },
+          {
+            "begin_char": 1109,
+            "end_char": 1130,
+            "sentiment": "1 star",
+            "score": 0.3565577268600464
+          },
+          {
+            "begin_char": 1131,
+            "end_char": 1354,
+            "sentiment": "1 star",
+            "score": 0.5840888619422913
+          },
+          {
+            "begin_char": 1355,
+            "end_char": 1428,
+            "sentiment": "5 stars",
+            "score": 0.449310839176178
+          },
+          {
+            "begin_char": 1429,
+            "end_char": 1559,
+            "sentiment": "1 star",
+            "score": 0.4577341377735138
+          },
+          {
+            "begin_char": 1560,
+            "end_char": 1577,
+            "sentiment": "5 stars",
+            "score": 0.8473930954933167
+          },
+          {
+            "begin_char": 1577,
+            "end_char": 1613,
+            "sentiment": "3 stars",
+            "score": 0.27981895208358765
+          },
+          {
+            "begin_char": 1614,
+            "end_char": 1623,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1623,
+            "end_char": 1653,
+            "sentiment": "3 stars",
+            "score": 0.21861132979393005
+          },
+          {
+            "begin_char": 1654,
+            "end_char": 1674,
+            "sentiment": "1 star",
+            "score": 0.40006935596466064
+          },
+          {
+            "begin_char": 1674,
+            "end_char": 1751,
+            "sentiment": "3 stars",
+            "score": 0.3520742952823639
+          },
+          {
+            "begin_char": 1751,
+            "end_char": 1793,
+            "sentiment": "3 stars",
+            "score": 0.30505549907684326
+          },
+          {
+            "begin_char": 1794,
+            "end_char": 1816,
+            "sentiment": "1 star",
+            "score": 0.40954717993736267
+          },
+          {
+            "begin_char": 1816,
+            "end_char": 1852,
+            "sentiment": "3 stars",
+            "score": 0.27981895208358765
+          },
+          {
+            "begin_char": 1853,
+            "end_char": 1862,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1862,
+            "end_char": 1953,
+            "sentiment": "1 star",
+            "score": 0.29454270005226135
+          },
+          {
+            "begin_char": 1954,
+            "end_char": 2076,
+            "sentiment": "5 stars",
+            "score": 0.3525923490524292
+          },
+          {
+            "begin_char": 2077,
+            "end_char": 2169,
+            "sentiment": "5 stars",
+            "score": 0.35812124609947205
+          },
+          {
+            "begin_char": 2170,
+            "end_char": 2171,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 2171,
+            "end_char": 2215,
+            "sentiment": "4 stars",
+            "score": 0.379680335521698
+          },
+          {
+            "begin_char": 2216,
+            "end_char": 2280,
+            "sentiment": "4 stars",
+            "score": 0.34247371554374695
+          },
+          {
+            "begin_char": 2281,
+            "end_char": 2409,
+            "sentiment": "3 stars",
+            "score": 0.26633015275001526
+          },
+          {
+            "begin_char": 2410,
+            "end_char": 2435,
+            "sentiment": "3 stars",
+            "score": 0.22857524454593658
+          },
+          {
+            "begin_char": 2436,
+            "end_char": 2525,
+            "sentiment": "2 stars",
+            "score": 0.306695818901062
+          },
+          {
+            "begin_char": 2526,
+            "end_char": 2577,
+            "sentiment": "3 stars",
+            "score": 0.3165616989135742
+          },
+          {
+            "begin_char": 2577,
+            "end_char": 2632,
+            "sentiment": "5 stars",
+            "score": 0.44137904047966003
+          },
+          {
+            "begin_char": 2633,
+            "end_char": 2956,
+            "sentiment": "5 stars",
+            "score": 0.31211140751838684
+          },
+          {
+            "begin_char": 2957,
+            "end_char": 2958,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 2958,
+            "end_char": 3053,
+            "sentiment": "3 stars",
+            "score": 0.3657741844654083
+          },
+          {
+            "begin_char": 3054,
+            "end_char": 3062,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 3062,
+            "end_char": 3103,
+            "sentiment": "3 stars",
+            "score": 0.30832386016845703
+          },
+          {
+            "begin_char": 3104,
+            "end_char": 3128,
+            "sentiment": "5 stars",
+            "score": 0.4616662561893463
+          },
+          {
+            "begin_char": 3128,
+            "end_char": 3154,
+            "sentiment": "3 stars",
+            "score": 0.2835083603858948
+          },
+          {
+            "begin_char": 3155,
+            "end_char": 3170,
+            "sentiment": "3 stars",
+            "score": 0.29980963468551636
+          },
+          {
+            "begin_char": 3170,
+            "end_char": 3171,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 3172,
+            "end_char": 3191,
+            "sentiment": "2 stars",
+            "score": 0.2724076509475708
+          },
+          {
+            "begin_char": 3191,
+            "end_char": 3250,
+            "sentiment": "3 stars",
+            "score": 0.2910531163215637
+          },
+          {
+            "begin_char": 3251,
+            "end_char": 3333,
+            "sentiment": "5 stars",
+            "score": 0.2950563430786133
+          },
+          {
+            "begin_char": 3334,
+            "end_char": 3439,
+            "sentiment": "5 stars",
+            "score": 0.4645023047924042
+          },
+          {
+            "begin_char": 3440,
+            "end_char": 3526,
+            "sentiment": "3 stars",
+            "score": 0.24452513456344604
+          },
+          {
+            "begin_char": 3527,
+            "end_char": 3676,
+            "sentiment": "3 stars",
+            "score": 0.2948460280895233
+          },
+          {
+            "begin_char": 3677,
+            "end_char": 3702,
+            "sentiment": "4 stars",
+            "score": 0.4200843572616577
+          },
+          {
+            "begin_char": 3703,
+            "end_char": 3855,
+            "sentiment": "4 stars",
+            "score": 0.3627716898918152
+          },
+          {
+            "begin_char": 3856,
+            "end_char": 3889,
+            "sentiment": "4 stars",
+            "score": 0.3060283958911896
+          },
+          {
+            "begin_char": 3889,
+            "end_char": 3949,
+            "sentiment": "3 stars",
+            "score": 0.3070736229419708
+          },
+          {
+            "begin_char": 3950,
+            "end_char": 4058,
+            "sentiment": "3 stars",
+            "score": 0.3420974612236023
+          },
+          {
+            "begin_char": 4059,
+            "end_char": 4087,
+            "sentiment": "4 stars",
+            "score": 0.43300914764404297
+          },
+          {
+            "begin_char": 4088,
+            "end_char": 4222,
+            "sentiment": "4 stars",
+            "score": 0.3217332363128662
+          },
+          {
+            "begin_char": 4223,
+            "end_char": 4279,
+            "sentiment": "3 stars",
+            "score": 0.21603667736053467
+          },
+          {
+            "begin_char": 4279,
+            "end_char": 4339,
+            "sentiment": "3 stars",
+            "score": 0.3070736229419708
+          },
+          {
+            "begin_char": 4340,
+            "end_char": 4443,
+            "sentiment": "4 stars",
+            "score": 0.3808401823043823
+          },
+          {
+            "begin_char": 4444,
+            "end_char": 4536,
+            "sentiment": "3 stars",
+            "score": 0.33473166823387146
+          },
+          {
+            "begin_char": 4537,
+            "end_char": 4553,
+            "sentiment": "1 star",
+            "score": 0.8737018704414368
+          },
+          {
+            "begin_char": 4554,
+            "end_char": 4600,
+            "sentiment": "3 stars",
+            "score": 0.24064134061336517
+          },
+          {
+            "begin_char": 4600,
+            "end_char": 4640,
+            "sentiment": "3 stars",
+            "score": 0.25986728072166443
+          },
+          {
+            "begin_char": 4641,
+            "end_char": 4950,
+            "sentiment": "5 stars",
+            "score": 0.7853193283081055
+          },
+          {
+            "begin_char": 4951,
+            "end_char": 5178,
+            "sentiment": "5 stars",
+            "score": 0.563264012336731
+          },
+          {
+            "begin_char": 5179,
+            "end_char": 5232,
+            "sentiment": "3 stars",
+            "score": 0.2982350289821625
+          },
+          {
+            "begin_char": 5233,
+            "end_char": 5391,
+            "sentiment": "4 stars",
+            "score": 0.3098766803741455
+          },
+          {
+            "begin_char": 5391,
+            "end_char": 5399,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-09",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-09",
+        "pageJO": "5246",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

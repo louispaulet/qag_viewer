@@ -1,0 +1,953 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG238",
+    "identifiant": {
+      "numero": "238",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "immigration",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Politique migratoire"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720684",
+        "mandatRef": "PM797082"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> POLITIQUE MIGRATOIRE <a name=PG16></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Pierre-Henri Dumont.<br><br><strong>M. Pierre-Henri Dumont. </strong>Ma question s'adresse à Mme le Premier ministre.<br><br><strong>Mme Marie-Pierre Rixain.</strong> On dit « Mme la Première ministre » !<br><br><strong>M. Pierre-Henri Dumont. </strong>En matière d'immigration, il ne peut pas y avoir de « en même temps » : ou vous voulez plus d'immigration, ou vous voulez moins d'immigration dans notre pays ! <i>(Applaudissements sur les bancs du groupe LR.)</i> Nous, les députés du groupe Les Républicains, nous voulons moins d'immigration en France, car nos capacités d'intégration ont depuis longtemps largement dépassé le seuil de saturation.<br><br><strong>M. Maxime Minot.</strong> Eh oui !<br><br><strong>M. Erwan Balanant.</strong> C'est la <i>team </i>Pradié ou Ciotti ?<br><br><strong>M. Pierre-Henri Dumont. </strong>Vous, vous voulez toujours plus d'immigration dans notre pays. Ces cinq dernières années en témoignent : record du nombre de demandeurs d'asile, record du nombre de titres de séjour délivrés, record du nombre de clandestins, record d'inexécution des obligations de quitter le territoire français (OQTF). Votre bilan en matière d'immigration est désastreux. Comme l'a dit Gérard Collomb : « On a juste perdu cinq ans. » <i>(Mêmes mouvements.)</i><br><br><strong>M. Maxime Minot.</strong> Vous êtes fiers ?<br><br><strong>M. Pierre-Henri Dumont. </strong>En proposant une vague de régularisations massives de travailleurs clandestins, qui demain seront éligibles au regroupement familial, votre gouvernement s'entête sur la voie de la lâcheté et de la facilité en faisant de l'immigration la solution à tous les dysfonctionnements du marché du travail !<br><br><strong>M. Erwan Balanant.</strong> Marine, sors de ce corps !<br><br><strong>M. Pierre-Henri Dumont. </strong>Au lieu de remettre au travail ou en formation les 5,5 millions de demandeurs d'emploi déjà présents dans notre pays pour pourvoir l'une des 300 000 offres vacantes, vous préférez vous incliner devant les suppliques du patronat. Vous feriez mieux de vous interroger sur les raisons qui poussent certains chômeurs à refuser de reprendre un travail ou sur celles qui font de la France l'avant-dernier pays de l'Organisation de coopération et de développement économiques (OCDE) en matière d'adéquation entre les besoins et les offres de formations.<br><br><strong>M. Maxime Minot.</strong> Eh oui !<br><br><strong>M. Pierre-Henri Dumont. </strong>Il existe cependant un chemin vers la reprise en main de notre politique migratoire…<br><br><strong>Mme Laure Lavalette.</strong> C'est le Rassemblement national !<br><br><strong>M. Pierre-Henri Dumont. </strong>…mais, pour cela, il vous faut du courage. Diminuez drastiquement l'immigration familiale et étudiante, qui est devenue une trappe à clandestinité puis à bas salaires ! Passez d'une immigration familiale subie, sous-qualifiée, à une immigration choisie, surqualifiée, comme le font l'ensemble des autres pays !<br><br><strong>Un député du groupe LR .</strong> Il a raison !<br><br><strong>M. Pierre-Henri Dumont. </strong>Obtenez les laissez-passer consulaires nécessaires aux expulsions : tordez le bras des pays d'origine des clandestins en supprimant les visas, l'aide publique au développement et les transferts d'argent dont ils sont destinataires !<br><br>Madame la Première ministre, êtes-vous enfin prête à abandonner le « en même temps » migratoire, à faire preuve de courage et à écouter nos propositions ? <i>(« Bravo ! » et applaudissements sur les bancs du groupe LR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Éric Ciotti.</strong> Un ministre anciennement de gauche : sa réponse sera toute faite de « en même temps » !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Monsieur le député Dumont, vous avez bien voulu évoquer les pistes que le ministre de l'intérieur et moi-même avons ouvertes sur l'immigration, dans la perspective d'un débat parlementaire puis d'un projet de loi.<br><br>Nous avons défini trois priorités.<br><br>Premièrement : améliorer notre système d'accueil et de traitement des demandes d'asile. Pour ce faire, nous nous inspirons du rapport de François-Noël Buffet, un sénateur issu de votre famille politique. Adopté à l'unanimité par la commission des lois du Sénat, il préconise un certain nombre de mesures pour accélérer les instructions et mieux traiter les demandes d'asile, ce qui permettra d'être plus efficaces.<br><br><strong>Une députée du groupe RE .</strong> Eh oui !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre. </i>Deuxièmement : trouver plus d'efficacité et de fermeté ; de l'efficacité dans la mise en œuvre des décisions de justice et de police, de la fermeté dans leur application. Le ministre de l'intérieur l'a dit : tout sera mis en œuvre pour que les OQTF soient bien suivies d'effets et pour rendre plus strictes les conditions d'installation durable sur le territoire, notamment en matière d'immigration et d'intégration.<br><br>Troisièmement : agir sur l'intégration – c'est le point auquel vous avez consacré le plus de temps – avec, pour conviction, l'idée que le travail est le meilleur outil d'intégration. Je parle des demandeurs d'asile qui se verront octroyer un titre de séjour, car nous savons pertinemment que les pays dont ils proviennent sont particulièrement dangereux – mieux vaut qu'ils puissent travailler directement et ainsi s'intégrer, plutôt que d'attendre des mois.<br><br>Par ailleurs, dans la droite ligne de la circulaire « Valls », nous voulons permettre à un certain nombre de travailleurs étrangers se trouvant en situation irrégulière en France et qui, bien souvent, ont un métier très difficile, de faire valoir leur droit à la régularisation dès lors qu'ils occupent un emploi dans un secteur en tension. Il s'agit là d'une demande qui a été formulée par les employeurs eux-mêmes. C'est aussi une question de dignité.<br><br>Non, nous n'entendons pas lancer un plan de régularisations massives. <i>(Exclamations sur les bancs des groupes LR et RN.)</i><br><br><strong>Mme Laure Lavalette.</strong> Bien sûr que si !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Nous menons simplement des études au cas par cas pour regarder la réalité en face. Car regarder la réalité en face, ce devrait être le premier enseignement à tirer à l'ouverture d'un tel débat. <i>(Applaudissements sur les bancs du groupe RE. – Protestations sur les bancs du groupe RN.)</i><br><br><strong>Mme Laure Lavalette.</strong> Vous ne croyez même pas à ce que vous dites !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 32,
+            "label": "MISC",
+            "text": "POLITIQUE"
+          },
+          {
+            "start_char": 33,
+            "end_char": 43,
+            "label": "MISC",
+            "text": "MIGRATOIRE"
+          },
+          {
+            "start_char": 78,
+            "end_char": 81,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 122,
+            "end_char": 124,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 125,
+            "end_char": 160,
+            "label": "PER",
+            "text": "Pierre-Henri Dumont.<br><br><strong"
+          },
+          {
+            "start_char": 164,
+            "end_char": 183,
+            "label": "PER",
+            "text": "Pierre-Henri Dumont"
+          },
+          {
+            "start_char": 218,
+            "end_char": 232,
+            "label": "PER",
+            "text": "Mme le Premier"
+          },
+          {
+            "start_char": 258,
+            "end_char": 290,
+            "label": "PER",
+            "text": "Mme Marie-Pierre Rixain.</strong"
+          },
+          {
+            "start_char": 301,
+            "end_char": 316,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 348,
+            "end_char": 367,
+            "label": "PER",
+            "text": "Pierre-Henri Dumont"
+          },
+          {
+            "start_char": 583,
+            "end_char": 590,
+            "label": "ORG",
+            "text": "LR.)</i"
+          },
+          {
+            "start_char": 620,
+            "end_char": 636,
+            "label": "ORG",
+            "text": "Les Républicains"
+          },
+          {
+            "start_char": 674,
+            "end_char": 680,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 765,
+            "end_char": 791,
+            "label": "LOC",
+            "text": "saturation.<br><br><strong"
+          },
+          {
+            "start_char": 795,
+            "end_char": 816,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 842,
+            "end_char": 868,
+            "label": "PER",
+            "text": "M. Erwan Balanant.</strong"
+          },
+          {
+            "start_char": 891,
+            "end_char": 897,
+            "label": "PER",
+            "text": "Pradié"
+          },
+          {
+            "start_char": 901,
+            "end_char": 907,
+            "label": "PER",
+            "text": "Ciotti"
+          },
+          {
+            "start_char": 928,
+            "end_char": 947,
+            "label": "PER",
+            "text": "Pierre-Henri Dumont"
+          },
+          {
+            "start_char": 1255,
+            "end_char": 1259,
+            "label": "ORG",
+            "text": "OQTF"
+          },
+          {
+            "start_char": 1329,
+            "end_char": 1343,
+            "label": "PER",
+            "text": "Gérard Collomb"
+          },
+          {
+            "start_char": 1378,
+            "end_char": 1386,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 1422,
+            "end_char": 1443,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 1481,
+            "end_char": 1500,
+            "label": "PER",
+            "text": "Pierre-Henri Dumont"
+          },
+          {
+            "start_char": 1825,
+            "end_char": 1851,
+            "label": "PER",
+            "text": "M. Erwan Balanant.</strong"
+          },
+          {
+            "start_char": 1853,
+            "end_char": 1859,
+            "label": "ORG",
+            "text": "Marine"
+          },
+          {
+            "start_char": 1898,
+            "end_char": 1917,
+            "label": "PER",
+            "text": "Pierre-Henri Dumont"
+          },
+          {
+            "start_char": 2301,
+            "end_char": 2310,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2337,
+            "end_char": 2396,
+            "label": "ORG",
+            "text": "Organisation de coopération et de développement économiques"
+          },
+          {
+            "start_char": 2398,
+            "end_char": 2402,
+            "label": "ORG",
+            "text": "OCDE"
+          },
+          {
+            "start_char": 2493,
+            "end_char": 2514,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 2543,
+            "end_char": 2562,
+            "label": "PER",
+            "text": "Pierre-Henri Dumont"
+          },
+          {
+            "start_char": 2673,
+            "end_char": 2682,
+            "label": "PER",
+            "text": "Mme Laure"
+          },
+          {
+            "start_char": 2712,
+            "end_char": 2736,
+            "label": "ORG",
+            "text": "Rassemblement national !"
+          },
+          {
+            "start_char": 2755,
+            "end_char": 2774,
+            "label": "PER",
+            "text": "Pierre-Henri Dumont"
+          },
+          {
+            "start_char": 2954,
+            "end_char": 2960,
+            "label": "MISC",
+            "text": "Passez"
+          },
+          {
+            "start_char": 3131,
+            "end_char": 3133,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 3177,
+            "end_char": 3196,
+            "label": "PER",
+            "text": "Pierre-Henri Dumont"
+          },
+          {
+            "start_char": 3207,
+            "end_char": 3214,
+            "label": "LOC",
+            "text": "Obtenez"
+          },
+          {
+            "start_char": 3447,
+            "end_char": 3465,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 3608,
+            "end_char": 3613,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 3662,
+            "end_char": 3685,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3686,
+            "end_char": 3689,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3730,
+            "end_char": 3732,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3779,
+            "end_char": 3781,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3810,
+            "end_char": 3831,
+            "label": "PER",
+            "text": "Éric Ciotti.</strong>"
+          },
+          {
+            "start_char": 3935,
+            "end_char": 3945,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4010,
+            "end_char": 4021,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 4027,
+            "end_char": 4035,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 4046,
+            "end_char": 4052,
+            "label": "PER",
+            "text": "Dumont"
+          },
+          {
+            "start_char": 4272,
+            "end_char": 4302,
+            "label": "MISC",
+            "text": "priorités.<br><br>Premièrement"
+          },
+          {
+            "start_char": 4427,
+            "end_char": 4447,
+            "label": "PER",
+            "text": "François-Noël Buffet"
+          },
+          {
+            "start_char": 4545,
+            "end_char": 4550,
+            "label": "ORG",
+            "text": "Sénat"
+          },
+          {
+            "start_char": 4780,
+            "end_char": 4790,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 5070,
+            "end_char": 5074,
+            "label": "ORG",
+            "text": "OQTF"
+          },
+          {
+            "start_char": 5703,
+            "end_char": 5715,
+            "label": "MISC",
+            "text": "mois.<br><br"
+          },
+          {
+            "start_char": 5770,
+            "end_char": 5775,
+            "label": "PER",
+            "text": "Valls"
+          },
+          {
+            "start_char": 5888,
+            "end_char": 5894,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 6161,
+            "end_char": 6177,
+            "label": "MISC",
+            "text": "dignité.<br><br>"
+          },
+          {
+            "start_char": 6290,
+            "end_char": 6292,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 6296,
+            "end_char": 6319,
+            "label": "MISC",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 6320,
+            "end_char": 6354,
+            "label": "PER",
+            "text": "Mme Laure Lavalette.</strong> Bien"
+          },
+          {
+            "start_char": 6383,
+            "end_char": 6393,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 6662,
+            "end_char": 6671,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 6673,
+            "end_char": 6675,
+            "label": "MISC",
+            "text": "– "
+          },
+          {
+            "start_char": 6713,
+            "end_char": 6736,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 6737,
+            "end_char": 6746,
+            "label": "PER",
+            "text": "Mme Laure"
+          },
+          {
+            "start_char": 6775,
+            "end_char": 6781,
+            "label": "MISC",
+            "text": "croyez"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 96,
+            "sentiment": "3 stars",
+            "score": 0.32880687713623047
+          },
+          {
+            "begin_char": 97,
+            "end_char": 184,
+            "sentiment": "3 stars",
+            "score": 0.2594488561153412
+          },
+          {
+            "begin_char": 185,
+            "end_char": 291,
+            "sentiment": "3 stars",
+            "score": 0.3249058127403259
+          },
+          {
+            "begin_char": 292,
+            "end_char": 329,
+            "sentiment": "5 stars",
+            "score": 0.2263440638780594
+          },
+          {
+            "begin_char": 329,
+            "end_char": 368,
+            "sentiment": "3 stars",
+            "score": 0.2760830819606781
+          },
+          {
+            "begin_char": 369,
+            "end_char": 378,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 378,
+            "end_char": 537,
+            "sentiment": "1 star",
+            "score": 0.26879578828811646
+          },
+          {
+            "begin_char": 538,
+            "end_char": 596,
+            "sentiment": "4 stars",
+            "score": 0.30670440196990967
+          },
+          {
+            "begin_char": 596,
+            "end_char": 817,
+            "sentiment": "5 stars",
+            "score": 0.36409226059913635
+          },
+          {
+            "begin_char": 818,
+            "end_char": 826,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 826,
+            "end_char": 869,
+            "sentiment": "3 stars",
+            "score": 0.3019412159919739
+          },
+          {
+            "begin_char": 870,
+            "end_char": 909,
+            "sentiment": "1 star",
+            "score": 0.3367499113082886
+          },
+          {
+            "begin_char": 909,
+            "end_char": 948,
+            "sentiment": "3 stars",
+            "score": 0.2760830819606781
+          },
+          {
+            "begin_char": 949,
+            "end_char": 958,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 958,
+            "end_char": 1020,
+            "sentiment": "5 stars",
+            "score": 0.39521971344947815
+          },
+          {
+            "begin_char": 1021,
+            "end_char": 1261,
+            "sentiment": "5 stars",
+            "score": 0.35351309180259705
+          },
+          {
+            "begin_char": 1262,
+            "end_char": 1314,
+            "sentiment": "1 star",
+            "score": 0.8257537484169006
+          },
+          {
+            "begin_char": 1315,
+            "end_char": 1444,
+            "sentiment": "2 stars",
+            "score": 0.3296259641647339
+          },
+          {
+            "begin_char": 1445,
+            "end_char": 1462,
+            "sentiment": "5 stars",
+            "score": 0.3807750642299652
+          },
+          {
+            "begin_char": 1462,
+            "end_char": 1501,
+            "sentiment": "3 stars",
+            "score": 0.2760830819606781
+          },
+          {
+            "begin_char": 1502,
+            "end_char": 1511,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1511,
+            "end_char": 1809,
+            "sentiment": "1 star",
+            "score": 0.6042733788490295
+          },
+          {
+            "begin_char": 1809,
+            "end_char": 1879,
+            "sentiment": "1 star",
+            "score": 0.5314853191375732
+          },
+          {
+            "begin_char": 1879,
+            "end_char": 1918,
+            "sentiment": "3 stars",
+            "score": 0.2760830819606781
+          },
+          {
+            "begin_char": 1919,
+            "end_char": 1928,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1928,
+            "end_char": 2156,
+            "sentiment": "1 star",
+            "score": 0.7612115144729614
+          },
+          {
+            "begin_char": 2157,
+            "end_char": 2515,
+            "sentiment": "3 stars",
+            "score": 0.2969852685928345
+          },
+          {
+            "begin_char": 2516,
+            "end_char": 2524,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 2524,
+            "end_char": 2563,
+            "sentiment": "3 stars",
+            "score": 0.2760830819606781
+          },
+          {
+            "begin_char": 2564,
+            "end_char": 2573,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2573,
+            "end_char": 2702,
+            "sentiment": "3 stars",
+            "score": 0.39632490277290344
+          },
+          {
+            "begin_char": 2703,
+            "end_char": 2736,
+            "sentiment": "5 stars",
+            "score": 0.44481801986694336
+          },
+          {
+            "begin_char": 2736,
+            "end_char": 2775,
+            "sentiment": "3 stars",
+            "score": 0.2760830819606781
+          },
+          {
+            "begin_char": 2776,
+            "end_char": 2827,
+            "sentiment": "5 stars",
+            "score": 0.25527292490005493
+          },
+          {
+            "begin_char": 2828,
+            "end_char": 2953,
+            "sentiment": "5 stars",
+            "score": 0.29479336738586426
+          },
+          {
+            "begin_char": 2954,
+            "end_char": 3095,
+            "sentiment": "5 stars",
+            "score": 0.39895376563072205
+          },
+          {
+            "begin_char": 3095,
+            "end_char": 3111,
+            "sentiment": "3 stars",
+            "score": 0.27666613459587097
+          },
+          {
+            "begin_char": 3111,
+            "end_char": 3144,
+            "sentiment": "3 stars",
+            "score": 0.31307822465896606
+          },
+          {
+            "begin_char": 3145,
+            "end_char": 3158,
+            "sentiment": "5 stars",
+            "score": 0.3322871923446655
+          },
+          {
+            "begin_char": 3158,
+            "end_char": 3197,
+            "sentiment": "3 stars",
+            "score": 0.2760830819606781
+          },
+          {
+            "begin_char": 3198,
+            "end_char": 3226,
+            "sentiment": "5 stars",
+            "score": 0.25133636593818665
+          },
+          {
+            "begin_char": 3226,
+            "end_char": 3227,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 3227,
+            "end_char": 3439,
+            "sentiment": "5 stars",
+            "score": 0.33308395743370056
+          },
+          {
+            "begin_char": 3439,
+            "end_char": 3447,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 3447,
+            "end_char": 3601,
+            "sentiment": "5 stars",
+            "score": 0.6685936450958252
+          },
+          {
+            "begin_char": 3602,
+            "end_char": 3704,
+            "sentiment": "5 stars",
+            "score": 0.3539130985736847
+          },
+          {
+            "begin_char": 3705,
+            "end_char": 3831,
+            "sentiment": "4 stars",
+            "score": 0.3035399317741394
+          },
+          {
+            "begin_char": 3832,
+            "end_char": 3919,
+            "sentiment": "1 star",
+            "score": 0.4142065644264221
+          },
+          {
+            "begin_char": 3919,
+            "end_char": 4022,
+            "sentiment": "4 stars",
+            "score": 0.30193448066711426
+          },
+          {
+            "begin_char": 4023,
+            "end_char": 4027,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4027,
+            "end_char": 4377,
+            "sentiment": "4 stars",
+            "score": 0.40000876784324646
+          },
+          {
+            "begin_char": 4378,
+            "end_char": 4493,
+            "sentiment": "5 stars",
+            "score": 0.28161048889160156
+          },
+          {
+            "begin_char": 4494,
+            "end_char": 4720,
+            "sentiment": "4 stars",
+            "score": 0.4959526062011719
+          },
+          {
+            "begin_char": 4720,
+            "end_char": 4755,
+            "sentiment": "3 stars",
+            "score": 0.32629862427711487
+          },
+          {
+            "begin_char": 4756,
+            "end_char": 4764,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 4764,
+            "end_char": 4821,
+            "sentiment": "3 stars",
+            "score": 0.29729530215263367
+          },
+          {
+            "begin_char": 4822,
+            "end_char": 4882,
+            "sentiment": "3 stars",
+            "score": 0.3253234624862671
+          },
+          {
+            "begin_char": 4883,
+            "end_char": 4996,
+            "sentiment": "4 stars",
+            "score": 0.476121187210083
+          },
+          {
+            "begin_char": 4997,
+            "end_char": 5432,
+            "sentiment": "5 stars",
+            "score": 0.5326168537139893
+          },
+          {
+            "begin_char": 5433,
+            "end_char": 6056,
+            "sentiment": "5 stars",
+            "score": 0.4933069050312042
+          },
+          {
+            "begin_char": 6057,
+            "end_char": 6132,
+            "sentiment": "3 stars",
+            "score": 0.24315808713436127
+          },
+          {
+            "begin_char": 6133,
+            "end_char": 6177,
+            "sentiment": "4 stars",
+            "score": 0.3580229878425598
+          },
+          {
+            "begin_char": 6177,
+            "end_char": 6246,
+            "sentiment": "1 star",
+            "score": 0.4513423442840576
+          },
+          {
+            "begin_char": 6247,
+            "end_char": 6425,
+            "sentiment": "3 stars",
+            "score": 0.3042536675930023
+          },
+          {
+            "begin_char": 6426,
+            "end_char": 6430,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 6430,
+            "end_char": 6512,
+            "sentiment": "3 stars",
+            "score": 0.24057790637016296
+          },
+          {
+            "begin_char": 6513,
+            "end_char": 6623,
+            "sentiment": "5 stars",
+            "score": 0.3678207993507385
+          },
+          {
+            "begin_char": 6624,
+            "end_char": 6672,
+            "sentiment": "4 stars",
+            "score": 0.3196922838687897
+          },
+          {
+            "begin_char": 6673,
+            "end_char": 6675,
+            "sentiment": "3 stars",
+            "score": 0.25771647691726685
+          },
+          {
+            "begin_char": 6675,
+            "end_char": 6688,
+            "sentiment": "5 stars",
+            "score": 0.41084393858909607
+          },
+          {
+            "begin_char": 6689,
+            "end_char": 6765,
+            "sentiment": "3 stars",
+            "score": 0.3835117220878601
+          },
+          {
+            "begin_char": 6765,
+            "end_char": 6766,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 6767,
+            "end_char": 6812,
+            "sentiment": "1 star",
+            "score": 0.9230995178222656
+          },
+          {
+            "begin_char": 6812,
+            "end_char": 6820,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-03",
+        "pageJO": "5119",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

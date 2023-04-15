@@ -1,0 +1,521 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG99",
+    "identifiant": {
+      "numero": "99",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enfants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Protection de l'enfance"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795410",
+        "mandatRef": "PM797472"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Enfance",
+      "developpe": "Secrétariat d’État auprès de la Première ministre, chargé de l’enfance"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Enfance",
+          "developpe": "Secrétariat d’État auprès de la Première ministre, chargé de l’enfance"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PROTECTION DE L'ENFANCE <a name=PG18></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Béatrice Roullaud.<br><br><strong>Mme Béatrice Roullaud. </strong>Ma question porte sur la protection de l'enfance. Des dysfonctionnements lourds de conséquences ayant entraîné la mort ou le viol d'enfants ont été pointés dans un rapport de la Cour des comptes en 2021. On garde en mémoire l'affaire monstrueuse du petit Bastien, que son père avait mis dans une machine à laver pour le punir et qui en est mort. Comment ce drame a-t-il pu se produire, alors que l'auteur des faits avait déjà été condamné pour violence et que neuf signalements avaient déjà été faits par les services sociaux ?<br><br>La loi Taquet relative à la protection des enfants du 7 février 2022 a voulu remédier à ces dysfonctionnements en apportant quelques améliorations, comme l'emploi d'un référentiel unique pour les signalements – mesure réclamée par le Rassemblement national – permettant d'établir un diagnostic fiable et de détecter les maltraitances plus tôt. Mais cette loi reste encore très en deçà de ce que les enfants sont en droit d'attendre. Ainsi, il n'est pas prévu que l'enfant victime aura droit automatiquement à l'assistance d'un avocat. Or ces petites victimes n'ont-elles pas besoin, plus que quiconque, d'un avocat et au moins autant que les délinquants comparaissant entravés pour lesquels l'avocat est de droit ? La loi ne semble pas prévoir non plus de contrôle extérieur et régulier des établissements, associations et familles d'accueil hébergeant les enfants placés, alors que la Cour des comptes pointait en 2014 des contrôles trop rares – trente-neuf établissements publics contrôlés en cinq ans. Comment envisagez-vous d'assurer la défense des droits de l'enfant si aucun mandataire <i>ad hoc</i> n'est désigné ? Le contrôle des établissements… (Applaudissements sur les bancs du groupe RN.)<br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État chargée de l’enfance.<br><br><strong>Mme Charlotte Caubel,</strong><i> secrétaire d'État chargée de l’enfance. </i>Je vous remercie de votre question, madame Roullaud. Vous avez raison, en dépit de l'engagement des professionnels sur le terrain et de toutes les actions engagées au cours du précédent quinquennat, la politique de protection de l'enfance connaît encore des défaillances. C'est pourquoi le Président de la République a été très clair : cette politique sera la priorité du nouveau quinquennat. La place qui m'est accordée, en tant que secrétaire d'État chargée de l'enfance auprès de Mme la Première ministre, traduit cette orientation et me donne la légitimité de réunir tous les acteurs concernés par cette politique : les ministres, les collectivités territoriales – au premier rang desquelles les départements – et, bien sûr, les associations, si fortement engagées. <br><br>Les chiffres restent inquiétants et nous devons continuer de nous battre pour les faire baisser. Nous avons donc défini trois priorités en matière de protection de l'enfance pour ce quinquennat. Tout d'abord, nous souhaitons libérer la parole des enfants et des adultes pour mettre fin aux actes de violence encore trop nombreux. À la rentrée, avec M. le ministre de l'éducation nationale et de la jeunesse, nous lancerons une campagne pour informer les enfants, mais aussi les adultes, sur les numéros d'urgence à leur disposition. Le secret professionnel ne doit plus être un obstacle au signalement des enfants.<br><br>Nous voulons ensuite renforcer la place de l'État auprès des départements pour améliorer la coordination, le pilotage et le contrôle. À cet égard, vous avez raison : le contrôle des établissements et des services de protection de l'enfance doit être renforcé, avec les départements et non sans eux. L'État doit être plus présent, et c'est bien notre intention.<br><br>Enfin, il est évidemment nécessaire d'accompagner les professionnels de la protection de l'enfance. Nous le savons, ils traversent actuellement une crise : nous devons les soutenir et dire à quel point ils font un travail extraordinaire. S'agissant des avocats, puis-je vous rappeler, madame la députée, que le juge des enfants, en vertu d'une ordonnance de 1958, a pour mission de protéger les enfants…<br><br><strong>Mme la présidente.</strong> Je vous remercie, madame la secrétaire d'État.<br><br><strong>Mme Charlotte Caubel,</strong><i> secrétaire d'État . </i>…et que cette mission doit être réaffirmée ? <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 39,
+            "end_char": 46,
+            "label": "ORG",
+            "text": "ENFANCE"
+          },
+          {
+            "start_char": 81,
+            "end_char": 84,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 125,
+            "end_char": 162,
+            "label": "PER",
+            "text": "Mme Béatrice Roullaud.<br><br><strong"
+          },
+          {
+            "start_char": 163,
+            "end_char": 184,
+            "label": "PER",
+            "text": "Mme Béatrice Roullaud"
+          },
+          {
+            "start_char": 373,
+            "end_char": 389,
+            "label": "ORG",
+            "text": "Cour des comptes"
+          },
+          {
+            "start_char": 450,
+            "end_char": 457,
+            "label": "PER",
+            "text": "Bastien"
+          },
+          {
+            "start_char": 964,
+            "end_char": 988,
+            "label": "ORG",
+            "text": "Rassemblement national –"
+          },
+          {
+            "start_char": 1616,
+            "end_char": 1632,
+            "label": "ORG",
+            "text": "Cour des comptes"
+          },
+          {
+            "start_char": 1825,
+            "end_char": 1834,
+            "label": "PER",
+            "text": "ad hoc</i"
+          },
+          {
+            "start_char": 1885,
+            "end_char": 1901,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 1926,
+            "end_char": 1945,
+            "label": "ORG",
+            "text": "RN.)<br><br><strong"
+          },
+          {
+            "start_char": 1946,
+            "end_char": 1949,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1990,
+            "end_char": 1993,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2010,
+            "end_char": 2014,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2026,
+            "end_char": 2028,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2052,
+            "end_char": 2065,
+            "label": "PER",
+            "text": "Mme Charlotte"
+          },
+          {
+            "start_char": 2099,
+            "end_char": 2103,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2115,
+            "end_char": 2117,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2166,
+            "end_char": 2181,
+            "label": "PER",
+            "text": "madame Roullaud"
+          },
+          {
+            "start_char": 2420,
+            "end_char": 2446,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 2577,
+            "end_char": 2581,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2613,
+            "end_char": 2628,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 3257,
+            "end_char": 3259,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3514,
+            "end_char": 3529,
+            "label": "MISC",
+            "text": "enfants.<br><br"
+          },
+          {
+            "start_char": 3575,
+            "end_char": 3579,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3831,
+            "end_char": 3835,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3880,
+            "end_char": 3897,
+            "label": "MISC",
+            "text": "intention.<br><br"
+          },
+          {
+            "start_char": 4317,
+            "end_char": 4343,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 4386,
+            "end_char": 4406,
+            "label": "PER",
+            "text": "État.<br><br><strong"
+          },
+          {
+            "start_char": 4407,
+            "end_char": 4420,
+            "label": "PER",
+            "text": "Mme Charlotte"
+          },
+          {
+            "start_char": 4454,
+            "end_char": 4458,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4560,
+            "end_char": 4571,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 99,
+            "sentiment": "3 stars",
+            "score": 0.2750723361968994
+          },
+          {
+            "begin_char": 100,
+            "end_char": 185,
+            "sentiment": "3 stars",
+            "score": 0.2551914155483246
+          },
+          {
+            "begin_char": 186,
+            "end_char": 244,
+            "sentiment": "4 stars",
+            "score": 0.29349690675735474
+          },
+          {
+            "begin_char": 245,
+            "end_char": 398,
+            "sentiment": "4 stars",
+            "score": 0.33587491512298584
+          },
+          {
+            "begin_char": 399,
+            "end_char": 540,
+            "sentiment": "4 stars",
+            "score": 0.3761594891548157
+          },
+          {
+            "begin_char": 541,
+            "end_char": 722,
+            "sentiment": "1 star",
+            "score": 0.3344038128852844
+          },
+          {
+            "begin_char": 722,
+            "end_char": 730,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 730,
+            "end_char": 736,
+            "sentiment": "4 stars",
+            "score": 0.352563738822937
+          },
+          {
+            "begin_char": 737,
+            "end_char": 1073,
+            "sentiment": "4 stars",
+            "score": 0.5729900598526001
+          },
+          {
+            "begin_char": 1074,
+            "end_char": 1162,
+            "sentiment": "3 stars",
+            "score": 0.42760661244392395
+          },
+          {
+            "begin_char": 1163,
+            "end_char": 1264,
+            "sentiment": "3 stars",
+            "score": 0.27322059869766235
+          },
+          {
+            "begin_char": 1265,
+            "end_char": 1444,
+            "sentiment": "5 stars",
+            "score": 0.43271535634994507
+          },
+          {
+            "begin_char": 1445,
+            "end_char": 1734,
+            "sentiment": "3 stars",
+            "score": 0.323436975479126
+          },
+          {
+            "begin_char": 1735,
+            "end_char": 1851,
+            "sentiment": "3 stars",
+            "score": 0.2593461275100708
+          },
+          {
+            "begin_char": 1852,
+            "end_char": 1964,
+            "sentiment": "4 stars",
+            "score": 0.33133211731910706
+          },
+          {
+            "begin_char": 1965,
+            "end_char": 2125,
+            "sentiment": "4 stars",
+            "score": 0.29513055086135864
+          },
+          {
+            "begin_char": 2126,
+            "end_char": 2130,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2130,
+            "end_char": 2132,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 2133,
+            "end_char": 2182,
+            "sentiment": "4 stars",
+            "score": 0.3291379511356354
+          },
+          {
+            "begin_char": 2183,
+            "end_char": 2401,
+            "sentiment": "3 stars",
+            "score": 0.3052980601787567
+          },
+          {
+            "begin_char": 2402,
+            "end_char": 2522,
+            "sentiment": "5 stars",
+            "score": 0.5258488655090332
+          },
+          {
+            "begin_char": 2523,
+            "end_char": 2899,
+            "sentiment": "5 stars",
+            "score": 0.6781296730041504
+          },
+          {
+            "begin_char": 2900,
+            "end_char": 2908,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2908,
+            "end_char": 3004,
+            "sentiment": "5 stars",
+            "score": 0.25346100330352783
+          },
+          {
+            "begin_char": 3005,
+            "end_char": 3102,
+            "sentiment": "4 stars",
+            "score": 0.33717581629753113
+          },
+          {
+            "begin_char": 3103,
+            "end_char": 3237,
+            "sentiment": "5 stars",
+            "score": 0.6107017397880554
+          },
+          {
+            "begin_char": 3238,
+            "end_char": 3440,
+            "sentiment": "5 stars",
+            "score": 0.4198485314846039
+          },
+          {
+            "begin_char": 3441,
+            "end_char": 3530,
+            "sentiment": "4 stars",
+            "score": 0.3073282539844513
+          },
+          {
+            "begin_char": 3530,
+            "end_char": 3663,
+            "sentiment": "5 stars",
+            "score": 0.48191767930984497
+          },
+          {
+            "begin_char": 3664,
+            "end_char": 3828,
+            "sentiment": "5 stars",
+            "score": 0.45700976252555847
+          },
+          {
+            "begin_char": 3829,
+            "end_char": 3997,
+            "sentiment": "4 stars",
+            "score": 0.38034626841545105
+          },
+          {
+            "begin_char": 3998,
+            "end_char": 4135,
+            "sentiment": "5 stars",
+            "score": 0.7744554281234741
+          },
+          {
+            "begin_char": 4136,
+            "end_char": 4344,
+            "sentiment": "4 stars",
+            "score": 0.3069881498813629
+          },
+          {
+            "begin_char": 4345,
+            "end_char": 4347,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 4348,
+            "end_char": 4460,
+            "sentiment": "5 stars",
+            "score": 0.3017556667327881
+          },
+          {
+            "begin_char": 4461,
+            "end_char": 4509,
+            "sentiment": "2 stars",
+            "score": 0.30533838272094727
+          },
+          {
+            "begin_char": 4510,
+            "end_char": 4572,
+            "sentiment": "3 stars",
+            "score": 0.3159869611263275
+          },
+          {
+            "begin_char": 4573,
+            "end_char": 4576,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3314",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

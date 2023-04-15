@@ -1,0 +1,683 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG596",
+    "identifiant": {
+      "numero": "596",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "agriculture",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "POLITIQUE AGRICOLE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793182",
+        "mandatRef": "PM796191"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Renouveau démocratique, porte-parole du Gouvernement",
+      "developpe": "Ministère auprès de la Première ministre, chargé du renouveau démocratique, porte-parole du Gouvernement"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Renouveau démocratique, porte-parole du Gouvernement",
+          "developpe": "Ministère auprès de la Première ministre, chargé du renouveau démocratique, porte-parole du Gouvernement"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> POLITIQUE AGRICOLE <a name=PG13></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jorys Bovet.<br><br><strong>M. Jorys Bovet. </strong>Ma question s'adresse au ministre de l'agriculture et de la souveraineté alimentaire.<br><br>Je suis élu dans l'Allier, le huitième département pour la production de bœuf Label rouge. Les agriculteurs sont fiers du travail qu'ils accomplissent chaque jour dans un seul but : nourrir le pays. Et pourtant, ils le disent eux-mêmes : « Si nous n'avons pas ça dans le sang, aucune raison de s'installer. » Vous assommez nos agriculteurs de règles en provenance de Bruxelles. Demain, avec les nouvelles normes de l'Europe, pourrons-nous conserver le Label rouge ? Nos agriculteurs sont reconnus dans le monde entier de par la qualité de leurs productions, sans pour autant pouvoir en vivre décemment. L'Union européenne veut casser notre production et le ministre de l'agriculture abandonne nos paysans à la concurrence déloyale sans limite. Les productions françaises sont les plus vertueuses du monde, mais il laisse entrer sur notre territoire de la viande et des céréales produits sous des normes bien moins contraignantes et donc vendus moins cher dans nos grandes surfaces au détriment de nos productions ! De plus, l'administration est totalement déconnectée : un cycle de culture ne suit pas forcément un calendrier de mesures.<br><br>Le comble est qu'alors que 18 % de nos agriculteurs vivent sous le seuil de pauvreté, la réforme des retraites proposée par le Gouvernement va les accabler encore plus, d'autant qu'elle ne tient pas compte de la pénibilité dans l'agriculture. Le ministre leur promet un minimum de 85 % du SMIC à la retraite, mais peuvent-ils le croire ?<br><br>Le ministre de l'agriculture étant aussi celui de la souveraineté alimentaire. Qu'il arrête alors de les décourager, qu'il les écoute et qu'il leur fasse confiance !<br><br>Que fait le ministre pour maintenir nos exploitations agricoles, pour motiver et susciter des vocations ? Que fait-il pour sauver notre agriculture et notre souveraineté ? <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé du renouveau démocratique, porte-parole du Gouvernement. <i>(Exclamations sur les bancs du groupe RN.)</i><br><br><strong>M. Olivier Véran,</strong><i> ministre délégué chargé du renouveau démocratique, porte-parole du Gouvernement. </i>Je ne suis pas sûr qu'en entendant votre question, un jeune qui se destinait à l'agriculture en ait encore envie. <i>(Protestations sur les bancs du groupe RN et sur plusieurs bancs du groupe LR.)</i><br><br><strong>M. Michaël Taverne.</strong> Avec vous, c'est sûr !<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué . </i>Car vous dressez un tableau extrêmement sombre d'un métier magnifique. <i>(Exclamations prolongées sur les mêmes bancs.) </i>Vous qui parlez de susciter des vocations, commencez par rappeler les qualités notre filière agricole, commencez par vanter les qualités de notre système de formation, l'avantage de travailler en contact avec la terre, avec la nature ; dites que ces métiers sont positifs, monsieur le député, et là, on vous croira…<br><br><strong>M. Francis Dubois.</strong> Vous êtes incapable, vous, de parler d'agriculture !<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué . </i>…quand vous prétendez inciter les jeunes à travailler dans l'agriculture. En tout cas, c'est notre objectif, et nous en faisons même une obligation, sachant que près de 50 % des agriculteurs actuels seront partis à la retraite d'ici une dizaine d'années. Nous voulons renouveler les générations d'agriculteurs. C'est un défi de taille évidemment, mais l'enjeu est d'importance capitale pour retrouver notre souveraineté alimentaire et aussi pour assurer le développement de nos territoires. Et c'est un objectif réaliste : il suffit de se rappeler que dans les années 60, il y avait un plan visant à renouveler les générations d'agriculteurs qui partaient à la retraite, ainsi que de grandes lois d'orientation, et que ce plan avait produit ses effets.<br><br>Que voulons-nous faire, monsieur le député ? Tout d'abord, nous voulons une loi d'orientation et d'avenir agricole : elle a été annoncée par le Président de la République et les concertations sont en cours sous l'égide du ministre de l'agriculture Marc Fesneau – dont je vous prie à nouveau d'excuser l'absence, puisqu'il est au Salon international de l'agriculture. <i>(Exclamations sur les bancs du groupe RN.) </i>Nous voulons aussi un meilleur accompagnement de la transmission, et cela vaut autant pour celui qui cède que pour celui qui veut acquérir et qui a besoin de soutien :…<br><br><strong>M. Sébastien Chenu.</strong> Comment peut-on être aussi mauvais ?<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué . </i>…il s'agit d'accompagner les repreneurs qui développent des projets innovants et plus rémunérateurs, ce qui suppose de l'investissement. Nous voulons aussi soutenir la formation, l'école des entrepreneurs du vivant, sachant que nous disposons d'un environnement agricole formidable en la matière. La profession se diversifie et se féminise, et l'enseignement agricole doit encore plus répondre à l'enjeu de la montée en compétences de nos futurs agriculteurs.<br><br><strong>M. Sébastien Chenu.</strong> Madame Faure, monsieur Travert, allez l'aider !<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué . </i>La question du renouvellement des générations n'est pas qu'un défi, c'est aussi une formidable occasion pour notre agriculture ; c'est l'émergence d'une nouvelle génération d'agriculteurs que nous préparons, avec des fermes à taille humaine à la pointe des transitions. L'avenir, c'est une agriculture de précision et pérenne. <i>(Exclamations sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Jorys Bovet.<br><br><strong>M. Jorys Bovet. </strong>Monsieur le ministre, vous semez beaucoup. J'espère que les agriculteurs pourront bientôt récolter. <i>(Applaudissements sur les bancs du groupe RN.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 32,
+            "label": "ORG",
+            "text": "POLITIQUE"
+          },
+          {
+            "start_char": 76,
+            "end_char": 79,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 120,
+            "end_char": 165,
+            "label": "PER",
+            "text": "M. Jorys Bovet.<br><br><strong>M. Jorys Bovet"
+          },
+          {
+            "start_char": 249,
+            "end_char": 268,
+            "label": "MISC",
+            "text": "alimentaire.<br><br"
+          },
+          {
+            "start_char": 288,
+            "end_char": 294,
+            "label": "LOC",
+            "text": "Allier"
+          },
+          {
+            "start_char": 347,
+            "end_char": 358,
+            "label": "ORG",
+            "text": "Label rouge"
+          },
+          {
+            "start_char": 636,
+            "end_char": 645,
+            "label": "LOC",
+            "text": "Bruxelles"
+          },
+          {
+            "start_char": 684,
+            "end_char": 692,
+            "label": "LOC",
+            "text": "l'Europe"
+          },
+          {
+            "start_char": 721,
+            "end_char": 732,
+            "label": "ORG",
+            "text": "Label rouge"
+          },
+          {
+            "start_char": 874,
+            "end_char": 890,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 1398,
+            "end_char": 1413,
+            "label": "MISC",
+            "text": "mesures.<br><br"
+          },
+          {
+            "start_char": 1541,
+            "end_char": 1553,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1703,
+            "end_char": 1707,
+            "label": "MISC",
+            "text": "SMIC"
+          },
+          {
+            "start_char": 1925,
+            "end_char": 1935,
+            "label": "MISC",
+            "text": "br><br>Que"
+          },
+          {
+            "start_char": 2149,
+            "end_char": 2172,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2173,
+            "end_char": 2176,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2217,
+            "end_char": 2219,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2290,
+            "end_char": 2302,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2345,
+            "end_char": 2368,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2369,
+            "end_char": 2379,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2466,
+            "end_char": 2478,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2640,
+            "end_char": 2642,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 2676,
+            "end_char": 2699,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2767,
+            "end_char": 2777,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3279,
+            "end_char": 3302,
+            "label": "PER",
+            "text": "Francis Dubois.</strong"
+          },
+          {
+            "start_char": 3372,
+            "end_char": 3382,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4170,
+            "end_char": 4184,
+            "label": "MISC",
+            "text": "effets.<br><br"
+          },
+          {
+            "start_char": 4329,
+            "end_char": 4355,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4433,
+            "end_char": 4445,
+            "label": "PER",
+            "text": "Marc Fesneau"
+          },
+          {
+            "start_char": 4514,
+            "end_char": 4550,
+            "label": "ORG",
+            "text": "Salon international de l'agriculture"
+          },
+          {
+            "start_char": 4593,
+            "end_char": 4595,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 4789,
+            "end_char": 4813,
+            "label": "PER",
+            "text": "Sébastien Chenu.</strong"
+          },
+          {
+            "start_char": 4867,
+            "end_char": 4877,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 5398,
+            "end_char": 5422,
+            "label": "PER",
+            "text": "Sébastien Chenu.</strong"
+          },
+          {
+            "start_char": 5424,
+            "end_char": 5436,
+            "label": "PER",
+            "text": "Madame Faure"
+          },
+          {
+            "start_char": 5447,
+            "end_char": 5454,
+            "label": "PER",
+            "text": "Travert"
+          },
+          {
+            "start_char": 5487,
+            "end_char": 5497,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 5908,
+            "end_char": 5931,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5932,
+            "end_char": 5935,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5976,
+            "end_char": 6021,
+            "label": "PER",
+            "text": "M. Jorys Bovet.<br><br><strong>M. Jorys Bovet"
+          },
+          {
+            "start_char": 6032,
+            "end_char": 6040,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 6059,
+            "end_char": 6064,
+            "label": "LOC",
+            "text": "semez"
+          },
+          {
+            "start_char": 6177,
+            "end_char": 6188,
+            "label": "ORG",
+            "text": "RN.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 94,
+            "sentiment": "3 stars",
+            "score": 0.3371681571006775
+          },
+          {
+            "begin_char": 95,
+            "end_char": 166,
+            "sentiment": "3 stars",
+            "score": 0.23949980735778809
+          },
+          {
+            "begin_char": 167,
+            "end_char": 269,
+            "sentiment": "3 stars",
+            "score": 0.2936827540397644
+          },
+          {
+            "begin_char": 269,
+            "end_char": 359,
+            "sentiment": "4 stars",
+            "score": 0.3386613428592682
+          },
+          {
+            "begin_char": 360,
+            "end_char": 467,
+            "sentiment": "5 stars",
+            "score": 0.5719460248947144
+          },
+          {
+            "begin_char": 468,
+            "end_char": 577,
+            "sentiment": "1 star",
+            "score": 0.3691750466823578
+          },
+          {
+            "begin_char": 578,
+            "end_char": 646,
+            "sentiment": "1 star",
+            "score": 0.6247125267982483
+          },
+          {
+            "begin_char": 647,
+            "end_char": 734,
+            "sentiment": "5 stars",
+            "score": 0.48916199803352356
+          },
+          {
+            "begin_char": 735,
+            "end_char": 871,
+            "sentiment": "5 stars",
+            "score": 0.5205050706863403
+          },
+          {
+            "begin_char": 872,
+            "end_char": 1012,
+            "sentiment": "1 star",
+            "score": 0.4267069101333618
+          },
+          {
+            "begin_char": 1013,
+            "end_char": 1283,
+            "sentiment": "5 stars",
+            "score": 0.45663297176361084
+          },
+          {
+            "begin_char": 1284,
+            "end_char": 1414,
+            "sentiment": "2 stars",
+            "score": 0.5010818243026733
+          },
+          {
+            "begin_char": 1414,
+            "end_char": 1656,
+            "sentiment": "1 star",
+            "score": 0.5267552137374878
+          },
+          {
+            "begin_char": 1657,
+            "end_char": 1751,
+            "sentiment": "1 star",
+            "score": 0.3667159080505371
+          },
+          {
+            "begin_char": 1751,
+            "end_char": 1759,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1759,
+            "end_char": 1837,
+            "sentiment": "4 stars",
+            "score": 0.3098253011703491
+          },
+          {
+            "begin_char": 1838,
+            "end_char": 1924,
+            "sentiment": "5 stars",
+            "score": 0.5382786393165588
+          },
+          {
+            "begin_char": 1924,
+            "end_char": 2037,
+            "sentiment": "5 stars",
+            "score": 0.39011043310165405
+          },
+          {
+            "begin_char": 2038,
+            "end_char": 2103,
+            "sentiment": "5 stars",
+            "score": 0.3841916024684906
+          },
+          {
+            "begin_char": 2104,
+            "end_char": 2191,
+            "sentiment": "4 stars",
+            "score": 0.3186970353126526
+          },
+          {
+            "begin_char": 2192,
+            "end_char": 2303,
+            "sentiment": "5 stars",
+            "score": 0.34089338779449463
+          },
+          {
+            "begin_char": 2304,
+            "end_char": 2479,
+            "sentiment": "4 stars",
+            "score": 0.3847968876361847
+          },
+          {
+            "begin_char": 2480,
+            "end_char": 2484,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2484,
+            "end_char": 2597,
+            "sentiment": "2 stars",
+            "score": 0.3558218479156494
+          },
+          {
+            "begin_char": 2598,
+            "end_char": 2728,
+            "sentiment": "3 stars",
+            "score": 0.3441382050514221
+          },
+          {
+            "begin_char": 2729,
+            "end_char": 2815,
+            "sentiment": "4 stars",
+            "score": 0.2657099962234497
+          },
+          {
+            "begin_char": 2816,
+            "end_char": 2820,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2820,
+            "end_char": 2890,
+            "sentiment": "5 stars",
+            "score": 0.7130882143974304
+          },
+          {
+            "begin_char": 2891,
+            "end_char": 3180,
+            "sentiment": "5 stars",
+            "score": 0.6055348515510559
+          },
+          {
+            "begin_char": 3181,
+            "end_char": 3303,
+            "sentiment": "1 star",
+            "score": 0.454285204410553
+          },
+          {
+            "begin_char": 3304,
+            "end_char": 3356,
+            "sentiment": "1 star",
+            "score": 0.775061845779419
+          },
+          {
+            "begin_char": 3356,
+            "end_char": 3420,
+            "sentiment": "3 stars",
+            "score": 0.30576416850090027
+          },
+          {
+            "begin_char": 3421,
+            "end_char": 3498,
+            "sentiment": "1 star",
+            "score": 0.38563084602355957
+          },
+          {
+            "begin_char": 3499,
+            "end_char": 3679,
+            "sentiment": "5 stars",
+            "score": 0.5939890742301941
+          },
+          {
+            "begin_char": 3680,
+            "end_char": 3735,
+            "sentiment": "5 stars",
+            "score": 0.587689220905304
+          },
+          {
+            "begin_char": 3736,
+            "end_char": 3915,
+            "sentiment": "5 stars",
+            "score": 0.46732625365257263
+          },
+          {
+            "begin_char": 3916,
+            "end_char": 4229,
+            "sentiment": "5 stars",
+            "score": 0.3943523168563843
+          },
+          {
+            "begin_char": 4230,
+            "end_char": 4551,
+            "sentiment": "5 stars",
+            "score": 0.5371434092521667
+          },
+          {
+            "begin_char": 4552,
+            "end_char": 4602,
+            "sentiment": "3 stars",
+            "score": 0.2924981117248535
+          },
+          {
+            "begin_char": 4602,
+            "end_char": 4814,
+            "sentiment": "5 stars",
+            "score": 0.40820762515068054
+          },
+          {
+            "begin_char": 4815,
+            "end_char": 4851,
+            "sentiment": "1 star",
+            "score": 0.759524941444397
+          },
+          {
+            "begin_char": 4851,
+            "end_char": 4915,
+            "sentiment": "3 stars",
+            "score": 0.30576416850090027
+          },
+          {
+            "begin_char": 4916,
+            "end_char": 5056,
+            "sentiment": "4 stars",
+            "score": 0.33551713824272156
+          },
+          {
+            "begin_char": 5057,
+            "end_char": 5216,
+            "sentiment": "5 stars",
+            "score": 0.5590132474899292
+          },
+          {
+            "begin_char": 5217,
+            "end_char": 5471,
+            "sentiment": "5 stars",
+            "score": 0.5874119400978088
+          },
+          {
+            "begin_char": 5471,
+            "end_char": 5535,
+            "sentiment": "3 stars",
+            "score": 0.30576416850090027
+          },
+          {
+            "begin_char": 5536,
+            "end_char": 5668,
+            "sentiment": "5 stars",
+            "score": 0.4550512731075287
+          },
+          {
+            "begin_char": 5669,
+            "end_char": 5809,
+            "sentiment": "5 stars",
+            "score": 0.6135503053665161
+          },
+          {
+            "begin_char": 5810,
+            "end_char": 5866,
+            "sentiment": "5 stars",
+            "score": 0.5193506479263306
+          },
+          {
+            "begin_char": 5867,
+            "end_char": 5950,
+            "sentiment": "4 stars",
+            "score": 0.30226588249206543
+          },
+          {
+            "begin_char": 5951,
+            "end_char": 6022,
+            "sentiment": "3 stars",
+            "score": 0.23949980735778809
+          },
+          {
+            "begin_char": 6023,
+            "end_char": 6032,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 6032,
+            "end_char": 6074,
+            "sentiment": "5 stars",
+            "score": 0.3609926104545593
+          },
+          {
+            "begin_char": 6075,
+            "end_char": 6131,
+            "sentiment": "5 stars",
+            "score": 0.33282414078712463
+          },
+          {
+            "begin_char": 6132,
+            "end_char": 6189,
+            "sentiment": "4 stars",
+            "score": 0.31565260887145996
+          },
+          {
+            "begin_char": 6190,
+            "end_char": 6193,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-03-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-03-01",
+        "pageJO": "1896",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

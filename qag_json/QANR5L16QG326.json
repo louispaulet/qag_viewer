@@ -1,0 +1,875 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG326",
+    "identifiant": {
+      "numero": "326",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "communes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Budget et financement des communes"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719272",
+        "mandatRef": "PM796347"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> BUDGET ET FINANCEMENT DES COMMUNES <a name=PG24></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Frédérique Meunier.<br><br><strong>Mme Frédérique Meunier. </strong>Nos communes rurales s'inquiètent et expriment leurs profondes préoccupations concernant les conséquences de la crise économique et financière sur leurs dépenses et leurs recettes, sur leur capacité à investir et sur le maintien d'une offre de services de proximité adaptée aux besoins de la population.<br><br>Elles doivent faire face à une situation sans précédent de hausse spectaculaire des prix de l'énergie, des produits alimentaires et des matériaux…<br><br><strong>M. Maxime Minot.</strong> On va dans le mur !<br><br><strong>Mme Frédérique Meunier. </strong>…compromettant gravement l'équilibre des budgets de fonctionnement et les capacités d'investissement. Il y a aussi l'augmentation de 3,5 % du point d'indice des agents territoriaux, non compensée par l'État, et la suppression de la cotisation sur la valeur ajoutée des entreprises (CVAE).<br><br>Ces mesures de restriction financière de nos communes ne se justifient pas : les collectivités locales votent leur budget en équilibre et les soldes qu'elles dégagent contribuent au contraire à limiter le déficit public. Vous les sanctionnez alors qu'elles ne le méritent pas ! Les 15 milliards d'euros de restrictions de dépenses imposées aux collectivités locales d’ici à 2027 sont en réalité des restrictions imposées à la population car c'est autant de moins pour financer l'offre de services.<br><br>L'AMF – l’Association des maires de France et des présidents d’intercommunalité – a fait des propositions : indexation de la dotation globale de fonctionnement (DGF) sur l'inflation en 2023 ; modulation de la suppression de la CVAE et création d'un bouclier énergétique d'urgence plafonnant le prix d'achat de l'électricité pour toutes les collectivités locales.<br><br>Aussi, au moment où se déroule à Paris le congrès des maires de France, entendrez-vous la voix des élus locaux et soutiendrez-vous les positions de l'AMF ? <i>(Applaudissements sur les bancs du groupe LR. – M. Erwan Balanant applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Madame la députée, votre question porte à la fois sur toutes les communes et, plus spécifiquement, sur les communes rurales. J'en profite pour vous dire que, vendredi, avec Dominique Faure, secrétaire d'État chargée de la ruralité, nous réunirons le Parlement rural. Nous le ferons à la demande de ceux qui le composent, notamment l'Association des maires ruraux de France (AMRF), pour évoquer des propositions concrètes comme le devenir des zones de revitalisation rurale (ZRR) ou les besoins d'accompagnement spécifique de ces territoires. Nous avons prévu une demi-journée spécifique d'échanges avec ces territoires…<br><br><strong>M. Pierre Cordier.</strong> Une demi-journée ! C'est impressionnant !<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>…dont nous connaissons l'attractivité, mais également les inquiétudes, dues notamment au poids de certaines intercommunalités.<br><br>Je relève que le dernier rapport de la Cour des comptes lance une suggestion qui n'est souhaitée par personne : le transfert de la DGF des communes vers les intercommunalités. Je profite de ce moment pour le dire de façon extrêmement claire : nous ne soutenons pas la perspective de la perte de la DGF des communes au profit des intercommunalités. <i>(Applaudissements sur plusieurs bancs des groupes RE, Dem et HOR.)</i><br><br><strong>M. Thierry Benoit.</strong> C'est très important de le dire !<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>Vous évoquez le soutien que nous apportons à ces communes. Hier soir, avec le bureau exécutif de l'AMF, ce matin, dans le cadre du congrès de l'AMF et dans les jours qui viennent, nous poursuivons une discussion à ce sujet. Pour la première fois depuis treize ans, la DGF augmente de 320 millions. Elle avait été diminuée de 12 milliards durant le quinquennat de François Hollande.<br><br><strong>M. Pierre Cordier.</strong> Il faut en parler à Dussopt !<br><br><strong>M. Maxime Minot.</strong> Et à Macron !<br><br><strong>Mme Sophia Chikirou.</strong> Sous Hollande, Macron était secrétaire général adjoint de l'Élysée, avant d'être ministre de l'économie !<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>Quelque 1,5 milliard a été affecté au filet de sécurité, et la coconstruction législative avec la majorité sénatoriale se poursuit pour trouver le dispositif le mieux ajusté. Nous faisons confiance aux sénateurs pour faire évoluer le dispositif et assurer un soutien réel aux communes. C'est le sens de nos discussions.<br><br>Je tiens à vous rappeler que 28 000 communes de notre pays, et parmi elles les communes rurales, dont vous avez parlé, sont préservées par le bouclier tarifaire : elles bénéficient d'un plafonnement total à hauteur de 15 %. <i>(Applaudissements sur plusieurs bancs des groupes RE, Dem et HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme Frédérique Meunier.<br><br><strong>Mme Frédérique Meunier. </strong>J'écoute avec beaucoup d'intérêt ce que vous dites. Je vous rappelle que les communes sont le socle de notre démocratie.<br><br><strong>M. Sylvain Maillard.</strong> Très bien !<br><br><strong>Mme Frédérique Meunier. </strong>Ne commettez l'erreur du passé. Vous nous jetez souvent le passé en pleine figure. La loi portant nouvelle organisation territoriale de la République de 2015, dite loi Notre, a été un véritable échec.<br><br>Vous avez parlé du Parlement rural, c'est un parlement de plus ! Quant à la DGF, elle a été…<br><br><strong>Mme la présidente.</strong> Merci, madame la députée.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 29,
+            "label": "ORG",
+            "text": "BUDGET"
+          },
+          {
+            "start_char": 33,
+            "end_char": 48,
+            "label": "ORG",
+            "text": "FINANCEMENT DES"
+          },
+          {
+            "start_char": 49,
+            "end_char": 57,
+            "label": "MISC",
+            "text": "COMMUNES"
+          },
+          {
+            "start_char": 92,
+            "end_char": 95,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 136,
+            "end_char": 174,
+            "label": "PER",
+            "text": "Mme Frédérique Meunier.<br><br><strong"
+          },
+          {
+            "start_char": 175,
+            "end_char": 197,
+            "label": "PER",
+            "text": "Mme Frédérique Meunier"
+          },
+          {
+            "start_char": 500,
+            "end_char": 519,
+            "label": "MISC",
+            "text": "population.<br><br>"
+          },
+          {
+            "start_char": 684,
+            "end_char": 705,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 721,
+            "end_char": 726,
+            "label": "MISC",
+            "text": "mur !"
+          },
+          {
+            "start_char": 742,
+            "end_char": 764,
+            "label": "PER",
+            "text": "Mme Frédérique Meunier"
+          },
+          {
+            "start_char": 977,
+            "end_char": 981,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1437,
+            "end_char": 1439,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1559,
+            "end_char": 1575,
+            "label": "MISC",
+            "text": "services.<br><br"
+          },
+          {
+            "start_char": 1578,
+            "end_char": 1581,
+            "label": "ORG",
+            "text": "AMF"
+          },
+          {
+            "start_char": 1586,
+            "end_char": 1618,
+            "label": "ORG",
+            "text": "Association des maires de France"
+          },
+          {
+            "start_char": 1737,
+            "end_char": 1740,
+            "label": "MISC",
+            "text": "DGF"
+          },
+          {
+            "start_char": 1803,
+            "end_char": 1807,
+            "label": "ORG",
+            "text": "CVAE"
+          },
+          {
+            "start_char": 1930,
+            "end_char": 1945,
+            "label": "MISC",
+            "text": "locales.<br><br"
+          },
+          {
+            "start_char": 1979,
+            "end_char": 1984,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 2007,
+            "end_char": 2016,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 2096,
+            "end_char": 2099,
+            "label": "ORG",
+            "text": "AMF"
+          },
+          {
+            "start_char": 2147,
+            "end_char": 2149,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2153,
+            "end_char": 2170,
+            "label": "PER",
+            "text": "M. Erwan Balanant"
+          },
+          {
+            "start_char": 2212,
+            "end_char": 2215,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2256,
+            "end_char": 2258,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2349,
+            "end_char": 2362,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 2458,
+            "end_char": 2464,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 2631,
+            "end_char": 2646,
+            "label": "PER",
+            "text": "Dominique Faure"
+          },
+          {
+            "start_char": 2661,
+            "end_char": 2665,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2708,
+            "end_char": 2723,
+            "label": "ORG",
+            "text": "Parlement rural"
+          },
+          {
+            "start_char": 2791,
+            "end_char": 2830,
+            "label": "ORG",
+            "text": "Association des maires ruraux de France"
+          },
+          {
+            "start_char": 2832,
+            "end_char": 2836,
+            "label": "ORG",
+            "text": "AMRF"
+          },
+          {
+            "start_char": 2932,
+            "end_char": 2935,
+            "label": "MISC",
+            "text": "ZRR"
+          },
+          {
+            "start_char": 3096,
+            "end_char": 3119,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 3178,
+            "end_char": 3191,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3333,
+            "end_char": 3358,
+            "label": "MISC",
+            "text": "intercommunalités.<br><br"
+          },
+          {
+            "start_char": 3398,
+            "end_char": 3414,
+            "label": "ORG",
+            "text": "Cour des comptes"
+          },
+          {
+            "start_char": 3760,
+            "end_char": 3762,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3764,
+            "end_char": 3767,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 3771,
+            "end_char": 3795,
+            "label": "PER",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3799,
+            "end_char": 3822,
+            "label": "PER",
+            "text": "Thierry Benoit.</strong"
+          },
+          {
+            "start_char": 3873,
+            "end_char": 3886,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4019,
+            "end_char": 4022,
+            "label": "ORG",
+            "text": "AMF"
+          },
+          {
+            "start_char": 4064,
+            "end_char": 4067,
+            "label": "ORG",
+            "text": "AMF"
+          },
+          {
+            "start_char": 4283,
+            "end_char": 4316,
+            "label": "PER",
+            "text": "François Hollande.<br><br><strong"
+          },
+          {
+            "start_char": 4320,
+            "end_char": 4343,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 4365,
+            "end_char": 4372,
+            "label": "PER",
+            "text": "Dussopt"
+          },
+          {
+            "start_char": 4393,
+            "end_char": 4414,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 4421,
+            "end_char": 4427,
+            "label": "LOC",
+            "text": "Macron"
+          },
+          {
+            "start_char": 4445,
+            "end_char": 4474,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong>"
+          },
+          {
+            "start_char": 4480,
+            "end_char": 4488,
+            "label": "LOC",
+            "text": "Hollande"
+          },
+          {
+            "start_char": 4490,
+            "end_char": 4496,
+            "label": "LOC",
+            "text": "Macron"
+          },
+          {
+            "start_char": 4535,
+            "end_char": 4541,
+            "label": "LOC",
+            "text": "Élysée"
+          },
+          {
+            "start_char": 4596,
+            "end_char": 4609,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4950,
+            "end_char": 4969,
+            "label": "MISC",
+            "text": "discussions.<br><br"
+          },
+          {
+            "start_char": 5247,
+            "end_char": 5249,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5251,
+            "end_char": 5254,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 5258,
+            "end_char": 5282,
+            "label": "PER",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5283,
+            "end_char": 5286,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5327,
+            "end_char": 5365,
+            "label": "PER",
+            "text": "Mme Frédérique Meunier.<br><br><strong"
+          },
+          {
+            "start_char": 5366,
+            "end_char": 5388,
+            "label": "PER",
+            "text": "Mme Frédérique Meunier"
+          },
+          {
+            "start_char": 5535,
+            "end_char": 5569,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong> Très"
+          },
+          {
+            "start_char": 5592,
+            "end_char": 5614,
+            "label": "PER",
+            "text": "Mme Frédérique Meunier"
+          },
+          {
+            "start_char": 5764,
+            "end_char": 5782,
+            "label": "LOC",
+            "text": "République de 2015"
+          },
+          {
+            "start_char": 5793,
+            "end_char": 5798,
+            "label": "MISC",
+            "text": "Notre"
+          },
+          {
+            "start_char": 5852,
+            "end_char": 5867,
+            "label": "ORG",
+            "text": "Parlement rural"
+          },
+          {
+            "start_char": 5909,
+            "end_char": 5912,
+            "label": "MISC",
+            "text": "DGF"
+          },
+          {
+            "start_char": 5941,
+            "end_char": 5968,
+            "label": "PER",
+            "text": "Mme la présidente.</strong>"
+          },
+          {
+            "start_char": 5969,
+            "end_char": 5974,
+            "label": "PER",
+            "text": "Merci"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 110,
+            "sentiment": "3 stars",
+            "score": 0.3501337468624115
+          },
+          {
+            "begin_char": 111,
+            "end_char": 198,
+            "sentiment": "3 stars",
+            "score": 0.24364501237869263
+          },
+          {
+            "begin_char": 199,
+            "end_char": 208,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 208,
+            "end_char": 519,
+            "sentiment": "5 stars",
+            "score": 0.45135053992271423
+          },
+          {
+            "begin_char": 519,
+            "end_char": 706,
+            "sentiment": "4 stars",
+            "score": 0.33815377950668335
+          },
+          {
+            "begin_char": 707,
+            "end_char": 726,
+            "sentiment": "1 star",
+            "score": 0.6347659230232239
+          },
+          {
+            "begin_char": 726,
+            "end_char": 765,
+            "sentiment": "3 stars",
+            "score": 0.2704184055328369
+          },
+          {
+            "begin_char": 766,
+            "end_char": 876,
+            "sentiment": "2 stars",
+            "score": 0.3880613148212433
+          },
+          {
+            "begin_char": 877,
+            "end_char": 1071,
+            "sentiment": "4 stars",
+            "score": 0.34407559037208557
+          },
+          {
+            "begin_char": 1071,
+            "end_char": 1291,
+            "sentiment": "4 stars",
+            "score": 0.291912317276001
+          },
+          {
+            "begin_char": 1292,
+            "end_char": 1348,
+            "sentiment": "1 star",
+            "score": 0.7608372569084167
+          },
+          {
+            "begin_char": 1349,
+            "end_char": 1576,
+            "sentiment": "2 stars",
+            "score": 0.28722062706947327
+          },
+          {
+            "begin_char": 1576,
+            "end_char": 1586,
+            "sentiment": "4 stars",
+            "score": 0.2780141830444336
+          },
+          {
+            "begin_char": 1586,
+            "end_char": 1656,
+            "sentiment": "5 stars",
+            "score": 0.36446163058280945
+          },
+          {
+            "begin_char": 1656,
+            "end_char": 1767,
+            "sentiment": "4 stars",
+            "score": 0.29630160331726074
+          },
+          {
+            "begin_char": 1768,
+            "end_char": 2017,
+            "sentiment": "5 stars",
+            "score": 0.3715038001537323
+          },
+          {
+            "begin_char": 2018,
+            "end_char": 2101,
+            "sentiment": "5 stars",
+            "score": 0.41676005721092224
+          },
+          {
+            "begin_char": 2102,
+            "end_char": 2212,
+            "sentiment": "4 stars",
+            "score": 0.35665619373321533
+          },
+          {
+            "begin_char": 2212,
+            "end_char": 2230,
+            "sentiment": "4 stars",
+            "score": 0.3682718873023987
+          },
+          {
+            "begin_char": 2231,
+            "end_char": 2453,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 2454,
+            "end_char": 2582,
+            "sentiment": "4 stars",
+            "score": 0.28046801686286926
+          },
+          {
+            "begin_char": 2583,
+            "end_char": 2724,
+            "sentiment": "5 stars",
+            "score": 0.44310683012008667
+          },
+          {
+            "begin_char": 2725,
+            "end_char": 2999,
+            "sentiment": "4 stars",
+            "score": 0.4283624291419983
+          },
+          {
+            "begin_char": 3000,
+            "end_char": 3120,
+            "sentiment": "3 stars",
+            "score": 0.32933923602104187
+          },
+          {
+            "begin_char": 3121,
+            "end_char": 3139,
+            "sentiment": "1 star",
+            "score": 0.27812498807907104
+          },
+          {
+            "begin_char": 3140,
+            "end_char": 3162,
+            "sentiment": "5 stars",
+            "score": 0.6370128393173218
+          },
+          {
+            "begin_char": 3162,
+            "end_char": 3220,
+            "sentiment": "3 stars",
+            "score": 0.29623985290527344
+          },
+          {
+            "begin_char": 3221,
+            "end_char": 3359,
+            "sentiment": "3 stars",
+            "score": 0.36132290959358215
+          },
+          {
+            "begin_char": 3359,
+            "end_char": 3534,
+            "sentiment": "2 stars",
+            "score": 0.2690759301185608
+          },
+          {
+            "begin_char": 3535,
+            "end_char": 3706,
+            "sentiment": "5 stars",
+            "score": 0.5528082847595215
+          },
+          {
+            "begin_char": 3707,
+            "end_char": 3823,
+            "sentiment": "3 stars",
+            "score": 0.3635231554508209
+          },
+          {
+            "begin_char": 3824,
+            "end_char": 3857,
+            "sentiment": "5 stars",
+            "score": 0.6575849056243896
+          },
+          {
+            "begin_char": 3857,
+            "end_char": 3915,
+            "sentiment": "3 stars",
+            "score": 0.29623985290527344
+          },
+          {
+            "begin_char": 3916,
+            "end_char": 3978,
+            "sentiment": "5 stars",
+            "score": 0.3168133795261383
+          },
+          {
+            "begin_char": 3979,
+            "end_char": 4143,
+            "sentiment": "4 stars",
+            "score": 0.34612688422203064
+          },
+          {
+            "begin_char": 4144,
+            "end_char": 4217,
+            "sentiment": "5 stars",
+            "score": 0.35706567764282227
+          },
+          {
+            "begin_char": 4218,
+            "end_char": 4344,
+            "sentiment": "3 stars",
+            "score": 0.35207000374794006
+          },
+          {
+            "begin_char": 4345,
+            "end_char": 4374,
+            "sentiment": "1 star",
+            "score": 0.3339075446128845
+          },
+          {
+            "begin_char": 4374,
+            "end_char": 4429,
+            "sentiment": "3 stars",
+            "score": 0.21700741350650787
+          },
+          {
+            "begin_char": 4429,
+            "end_char": 4474,
+            "sentiment": "3 stars",
+            "score": 0.2862336039543152
+          },
+          {
+            "begin_char": 4475,
+            "end_char": 4489,
+            "sentiment": "4 stars",
+            "score": 0.2806277871131897
+          },
+          {
+            "begin_char": 4490,
+            "end_char": 4580,
+            "sentiment": "5 stars",
+            "score": 0.2184171825647354
+          },
+          {
+            "begin_char": 4580,
+            "end_char": 4638,
+            "sentiment": "3 stars",
+            "score": 0.29623985290527344
+          },
+          {
+            "begin_char": 4639,
+            "end_char": 4817,
+            "sentiment": "3 stars",
+            "score": 0.3682110011577606
+          },
+          {
+            "begin_char": 4818,
+            "end_char": 4928,
+            "sentiment": "5 stars",
+            "score": 0.5577520728111267
+          },
+          {
+            "begin_char": 4929,
+            "end_char": 4970,
+            "sentiment": "5 stars",
+            "score": 0.3413105905056
+          },
+          {
+            "begin_char": 4970,
+            "end_char": 5193,
+            "sentiment": "5 stars",
+            "score": 0.45527738332748413
+          },
+          {
+            "begin_char": 5194,
+            "end_char": 5301,
+            "sentiment": "4 stars",
+            "score": 0.3121681213378906
+          },
+          {
+            "begin_char": 5302,
+            "end_char": 5389,
+            "sentiment": "3 stars",
+            "score": 0.24364501237869263
+          },
+          {
+            "begin_char": 5390,
+            "end_char": 5399,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5399,
+            "end_char": 5450,
+            "sentiment": "5 stars",
+            "score": 0.6668041348457336
+          },
+          {
+            "begin_char": 5451,
+            "end_char": 5615,
+            "sentiment": "5 stars",
+            "score": 0.45263639092445374
+          },
+          {
+            "begin_char": 5616,
+            "end_char": 5625,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5625,
+            "end_char": 5656,
+            "sentiment": "1 star",
+            "score": 0.5428929328918457
+          },
+          {
+            "begin_char": 5657,
+            "end_char": 5707,
+            "sentiment": "1 star",
+            "score": 0.5945584774017334
+          },
+          {
+            "begin_char": 5708,
+            "end_char": 5833,
+            "sentiment": "1 star",
+            "score": 0.4065614938735962
+          },
+          {
+            "begin_char": 5833,
+            "end_char": 5867,
+            "sentiment": "3 stars",
+            "score": 0.2284974604845047
+          },
+          {
+            "begin_char": 5867,
+            "end_char": 5897,
+            "sentiment": "5 stars",
+            "score": 0.3819418251514435
+          },
+          {
+            "begin_char": 5898,
+            "end_char": 5968,
+            "sentiment": "2 stars",
+            "score": 0.27738580107688904
+          },
+          {
+            "begin_char": 5969,
+            "end_char": 5998,
+            "sentiment": "5 stars",
+            "score": 0.43195220828056335
+          },
+          {
+            "begin_char": 5999,
+            "end_char": 6002,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5909",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

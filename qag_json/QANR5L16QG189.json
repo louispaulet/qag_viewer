@@ -1,0 +1,491 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG189",
+    "identifiant": {
+      "numero": "189",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enseignement technique et professionnel",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "RÉFORME DU LYCÉE PROFESSIONNEL"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793796",
+        "mandatRef": "PM796536"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Enseignement et formation professionnels",
+      "developpe": "Ministère auprès du ministre du travail, du plein emploi et de l’insertion et du ministre de l’éducation nationale et de la jeunesse, chargé de l’enseignement et de la formation professionnels"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Enseignement et formation professionnels",
+          "developpe": "Ministère auprès du ministre du travail, du plein emploi et de l’insertion et du ministre de l’éducation nationale et de la jeunesse, chargé de l’enseignement et de la formation professionnels"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DU LYCÉE PROFESSIONNEL <a name=PG24></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. David Taupiac.<br><br><strong>M. David Taupiac. </strong>Monsieur le ministre de l'éducation nationale, votre projet de réforme suscite inquiétude et colère au sein de l'enseignement professionnel. Se trouvent principalement en cause l'augmentation de plus de 50 % de la durée des stages en entreprise, dont on sait à quel point ils sont difficiles à trouver ; la diminution mécanique des heures consacrées à l'enseignement général, d'où des interrogations au sujet de l'avenir des enseignants ; enfin le calibrage de l'offre d'enseignement selon les besoins locaux en matière de recrutement.<br><br>Si les difficultés que rencontre la voie professionnelle rendent une réforme nécessaire, vos propositions n'en contiennent pas moins tous les ferments susceptibles d'entraîner une inégalité de traitement au détriment de certains territoires, ainsi que d'élèves issus très majoritairement des classes populaires. En plaçant l'enseignement professionnel sous la double égide des ministères de l'éducation nationale et du travail, vous imprimez à la formation de ces enfants une logique d'orientation au profit de l'environnement économique local. De plus, pour le public des lycées professionnels, la marge de progression de l'apprentissage reste limitée : ces élèves, dont 70 % ont 15 ans ou moins en classe de seconde, sont trop jeunes pour intéresser les entreprises.<br><br>Une autre voie de réforme est possible : elle nécessiterait au contraire de restituer à la voie professionnelle les heures d'enseignement qui lui ont été retirées au fil des années ; on sait en effet qu'elles permettent un taux de décrochage moins élevé, une meilleure réussite aux examens de la formation initiale, et que les élèves concernés sont plus nombreux à poursuivre ensuite leurs études.<br><br>Monsieur le ministre, il fut un siècle où l'on considérait que l'émancipation des enfants de 15 ans ne passait pas par le travail, mais par l'éducation et l'apprentissage des savoirs. Une bonne réforme ne s'impose pas, elle convainc. Allez-vous revoir une copie déjà si mal engagée ? <i>(Applaudissements sur les bancs du groupe LIOT.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée chargée de l’enseignement et de la formation professionnels.<br><br><strong>Mme Carole Grandjean,</strong><i> ministre déléguée chargée de l’enseignement et de la formation professionnels. </i>L'objectif de cette réforme est très clair : donner toutes les chances à nos enfants. Un tiers des lycéens s'orientent vers la voie professionnelle mais, une fois qu'ils sont diplômés, un sur deux ne parvient pas à s'insérer dans l'emploi. Ce constat nous oblige. Nous avons la responsabilité d'agir afin de donner à ces jeunes toutes les chances de réussir. Nous devons favoriser la relation entre l'école et l'entreprise, qui permet la professionnalisation, mais aussi nous engager en faveur des savoirs fondamentaux, que le Président de la République a de nouveau défendus aux Sables-d'Olonne, le 13 septembre dernier.<br><br>Vendredi prochain, je lancerai quatre groupes de travail réunissant l'ensemble des parties prenantes et visant à répondre à quatre défis. Le premier, celui de la réduction du nombre de décrocheurs, nous oblige lui aussi : deux tiers des décrocheurs sont issus de la voie professionnelle. Le second porte sur la réussite de l'insertion professionnelle. Le troisième concerne la poursuite des études, car trop d'élèves qui poursuivent leur scolarité ne parviennent pas à obtenir leur diplôme. Enfin, tout en préservant le caractère national des diplômes, nous donnerons aux chefs d'établissement les moyens d'agir en portant des projets de territoire dans le cadre de leur projet d'établissement, pour favoriser la réussite des élèves.<br><br>Nous mènerons des réflexions tous ensemble, avec les organisations syndicales, les personnels de l'éducation, les acteurs économiques, les parents et les représentants des élèves, pour trouver les moyens de faire réussir les élèves et de faciliter la mission des enseignants.<br><br><strong>Mme Farida Amrani.</strong> Avec des ouvertures de classe ?<br><br><strong>Mme Carole Grandjean,</strong><i> ministre déléguée. </i>Le Président de la République, la Première ministre, le ministre de l'éducation nationale et de la jeunesse et moi-même portons cette réforme avec les acteurs ; elle n'a pas été préalablement rédigée et n'est pas non plus destinée à être déployée de façon uniforme en tout et partout. Croyez, monsieur le député, en notre capacité de travail collectif. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. David Taupiac.<br><br><strong>M. David Taupiac. </strong>Je ne suis pas convaincu mais je ne demande qu'à l'être, tout comme je souhaite être associé aux groupes de travail.<br> <p>",
+        "entities": [
+          {
+            "start_char": 88,
+            "end_char": 91,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 132,
+            "end_char": 164,
+            "label": "PER",
+            "text": "M. David Taupiac.<br><br><strong"
+          },
+          {
+            "start_char": 168,
+            "end_char": 181,
+            "label": "PER",
+            "text": "David Taupiac"
+          },
+          {
+            "start_char": 192,
+            "end_char": 200,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 715,
+            "end_char": 734,
+            "label": "MISC",
+            "text": "recrutement.<br><br"
+          },
+          {
+            "start_char": 1491,
+            "end_char": 1510,
+            "label": "MISC",
+            "text": "entreprises.<br><br"
+          },
+          {
+            "start_char": 1901,
+            "end_char": 1916,
+            "label": "MISC",
+            "text": "études.<br><br>"
+          },
+          {
+            "start_char": 1916,
+            "end_char": 1924,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2245,
+            "end_char": 2270,
+            "label": "ORG",
+            "text": "LIOT.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2271,
+            "end_char": 2274,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2315,
+            "end_char": 2318,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2351,
+            "end_char": 2353,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2416,
+            "end_char": 2448,
+            "label": "PER",
+            "text": "Mme Carole Grandjean,</strong><i"
+          },
+          {
+            "start_char": 2479,
+            "end_char": 2481,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3060,
+            "end_char": 3086,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3113,
+            "end_char": 3128,
+            "label": "LOC",
+            "text": "Sables-d'Olonne"
+          },
+          {
+            "start_char": 3146,
+            "end_char": 3170,
+            "label": "MISC",
+            "text": "dernier.<br><br>Vendredi"
+          },
+          {
+            "start_char": 3888,
+            "end_char": 3902,
+            "label": "ORG",
+            "text": "élèves.<br><br"
+          },
+          {
+            "start_char": 4194,
+            "end_char": 4220,
+            "label": "PER",
+            "text": "Mme Farida Amrani.</strong"
+          },
+          {
+            "start_char": 4269,
+            "end_char": 4301,
+            "label": "PER",
+            "text": "Mme Carole Grandjean,</strong><i"
+          },
+          {
+            "start_char": 4329,
+            "end_char": 4355,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4360,
+            "end_char": 4368,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4611,
+            "end_char": 4617,
+            "label": "MISC",
+            "text": "Croyez"
+          },
+          {
+            "start_char": 4729,
+            "end_char": 4752,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4753,
+            "end_char": 4756,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4797,
+            "end_char": 4829,
+            "label": "PER",
+            "text": "M. David Taupiac.<br><br><strong"
+          },
+          {
+            "start_char": 4833,
+            "end_char": 4846,
+            "label": "PER",
+            "text": "David Taupiac"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 106,
+            "sentiment": "4 stars",
+            "score": 0.3089132606983185
+          },
+          {
+            "begin_char": 107,
+            "end_char": 182,
+            "sentiment": "4 stars",
+            "score": 0.2556423544883728
+          },
+          {
+            "begin_char": 183,
+            "end_char": 192,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 192,
+            "end_char": 332,
+            "sentiment": "4 stars",
+            "score": 0.3495374619960785
+          },
+          {
+            "begin_char": 333,
+            "end_char": 495,
+            "sentiment": "3 stars",
+            "score": 0.389786958694458
+          },
+          {
+            "begin_char": 496,
+            "end_char": 630,
+            "sentiment": "3 stars",
+            "score": 0.38523438572883606
+          },
+          {
+            "begin_char": 631,
+            "end_char": 1046,
+            "sentiment": "3 stars",
+            "score": 0.38240745663642883
+          },
+          {
+            "begin_char": 1047,
+            "end_char": 1279,
+            "sentiment": "5 stars",
+            "score": 0.45867809653282166
+          },
+          {
+            "begin_char": 1280,
+            "end_char": 1511,
+            "sentiment": "2 stars",
+            "score": 0.441545695066452
+          },
+          {
+            "begin_char": 1511,
+            "end_char": 1693,
+            "sentiment": "4 stars",
+            "score": 0.3056281805038452
+          },
+          {
+            "begin_char": 1694,
+            "end_char": 1916,
+            "sentiment": "4 stars",
+            "score": 0.4165869951248169
+          },
+          {
+            "begin_char": 1916,
+            "end_char": 2099,
+            "sentiment": "5 stars",
+            "score": 0.40799519419670105
+          },
+          {
+            "begin_char": 2100,
+            "end_char": 2149,
+            "sentiment": "2 stars",
+            "score": 0.3107098340988159
+          },
+          {
+            "begin_char": 2150,
+            "end_char": 2199,
+            "sentiment": "1 star",
+            "score": 0.5673951506614685
+          },
+          {
+            "begin_char": 2200,
+            "end_char": 2289,
+            "sentiment": "4 stars",
+            "score": 0.3018896281719208
+          },
+          {
+            "begin_char": 2290,
+            "end_char": 2449,
+            "sentiment": "4 stars",
+            "score": 0.2902127504348755
+          },
+          {
+            "begin_char": 2450,
+            "end_char": 2458,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 2459,
+            "end_char": 2528,
+            "sentiment": "4 stars",
+            "score": 0.321271687746048
+          },
+          {
+            "begin_char": 2529,
+            "end_char": 2533,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2533,
+            "end_char": 2618,
+            "sentiment": "5 stars",
+            "score": 0.4980381429195404
+          },
+          {
+            "begin_char": 2619,
+            "end_char": 2772,
+            "sentiment": "2 stars",
+            "score": 0.3984009921550751
+          },
+          {
+            "begin_char": 2773,
+            "end_char": 2796,
+            "sentiment": "3 stars",
+            "score": 0.30918818712234497
+          },
+          {
+            "begin_char": 2797,
+            "end_char": 2891,
+            "sentiment": "5 stars",
+            "score": 0.49657154083251953
+          },
+          {
+            "begin_char": 2892,
+            "end_char": 3299,
+            "sentiment": "5 stars",
+            "score": 0.5535874366760254
+          },
+          {
+            "begin_char": 3300,
+            "end_char": 3449,
+            "sentiment": "2 stars",
+            "score": 0.33234864473342896
+          },
+          {
+            "begin_char": 3450,
+            "end_char": 3513,
+            "sentiment": "4 stars",
+            "score": 0.3178403973579407
+          },
+          {
+            "begin_char": 3514,
+            "end_char": 3652,
+            "sentiment": "3 stars",
+            "score": 0.37421590089797974
+          },
+          {
+            "begin_char": 3653,
+            "end_char": 3903,
+            "sentiment": "5 stars",
+            "score": 0.4306662976741791
+          },
+          {
+            "begin_char": 3903,
+            "end_char": 4221,
+            "sentiment": "5 stars",
+            "score": 0.4822954833507538
+          },
+          {
+            "begin_char": 4222,
+            "end_char": 4253,
+            "sentiment": "3 stars",
+            "score": 0.29542645812034607
+          },
+          {
+            "begin_char": 4253,
+            "end_char": 4302,
+            "sentiment": "3 stars",
+            "score": 0.3073686957359314
+          },
+          {
+            "begin_char": 4303,
+            "end_char": 4321,
+            "sentiment": "4 stars",
+            "score": 0.3252987861633301
+          },
+          {
+            "begin_char": 4322,
+            "end_char": 4486,
+            "sentiment": "5 stars",
+            "score": 0.45961833000183105
+          },
+          {
+            "begin_char": 4487,
+            "end_char": 4610,
+            "sentiment": "2 stars",
+            "score": 0.4011576175689697
+          },
+          {
+            "begin_char": 4611,
+            "end_char": 4678,
+            "sentiment": "5 stars",
+            "score": 0.5505512356758118
+          },
+          {
+            "begin_char": 4679,
+            "end_char": 4771,
+            "sentiment": "3 stars",
+            "score": 0.30941691994667053
+          },
+          {
+            "begin_char": 4772,
+            "end_char": 4847,
+            "sentiment": "4 stars",
+            "score": 0.2556423544883728
+          },
+          {
+            "begin_char": 4848,
+            "end_char": 4981,
+            "sentiment": "3 stars",
+            "score": 0.3672722280025482
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-20",
+        "pageJO": "4320",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,737 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG161",
+    "identifiant": {
+      "numero": "161",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "communes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "COÛT DE L'ÉNERGIE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794222",
+        "mandatRef": "PM796785"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> COÛT DE L'ÉNERGIE <a name=PG24></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Annick Cousin.<br><br><strong>Mme Annick Cousin. </strong>Ma question s'adresse à M. Béchu, ministre de la transition écologique et de la cohésion des territoires. Nous vivons un immense scandale. Vous avez dû entendre le témoignage du maire de Neuilly-sur-Marne, qui dénonce le racket organisé par certains grands groupes pour faire exploser la facture énergétique des collectivités. Le prix du mégawattheure d'électricité est parfois multiplié par trente, celui du mégawattheure de gaz est, lui, multiplié par seize.<br><br>Malheureusement, le Gouvernement laisse faire. <i>(« Ah ! » sur plusieurs bancs du groupe Dem.)</i><br><br><strong>M. Olivier Véran, ministre délégué chargé du renouveau démocratique, porte-parole du Gouvernement.</strong> Oui, bien sûr !<br><br><strong>Mme Annick Cousin. </strong>Dans ma circonscription du Lot-et-Garonne, les maires sont très inquiets. Quelques exemples : à Tournon-d'Agenais, la facture énergétique passera de 15 000 à 60 000 euros ; à Penne-d'Agenais, elle passera de 60 000 à 320 000 euros ; à Villeneuve-sur-Lot, le maire m'indique un surcoût de plus de 800 000 euros. C'est totalement inacceptable. De plus, si les maires refusent de signer ou tout simplement ne peuvent payer leurs factures eu égard aux nouvelles conditions tarifaires exorbitantes, les opérateurs d'énergie menacent de couper l'électricité aux communes. C'est du racket organisé !<br><br>La situation est grave, les maires sont inquiets. Que comptez-vous faire, de toute urgence, pour accompagner toutes les communes de France afin d'éviter qu'elles aussi se retrouvent sans électricité cet hiver ? <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Vous vous faites l'écho d'une situation que nous connaissons et sur laquelle nous travaillons d'arrache-pied depuis déjà plusieurs semaines. J'aimerais d'abord rappeler que 28 000 des 35 000 communes de notre pays sont protégées par le bouclier tarifaire puisque toutes les communes employant moins de dix salariés et dont le budget s'élève à moins de 2 millions d'euros bénéficient du tarif réglementé – il y en a certainement dans votre circonscription.<br><br>Vous évoquez plusieurs communes parmi lesquelles Neuilly-sur-Marne, dont le maire est reçu aujourd'hui au ministère de la transition écologique et de la cohésion des territoires. Vous avez surtout évoqué la situation dans laquelle certains élus se retrouvent : ils reçoivent des factures dont le montant peut considérablement varier, compte tenu de la concurrence que subissent les communes ne bénéficiant pas du tarif réglementé.<br><br>Le premier objectif, c'est d'obtenir la baisse des prix de l'électricité puisque des rentes se constituent du fait de la décorrélation entre les prix de production et les prix de revente.<br><br><strong>M. Grégoire de Fournas.</strong> C'est à cause de vous !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>C'est la priorité pour laquelle le Président de la République, la Première ministre, le ministre de l'économie, des finances et de la souveraineté industrielle et moi-même nous nous battons à l'échelle européenne <i>(Applaudissements sur quelques bancs des groupes RE, Dem et HOR),</i> afin de parvenir à diminuer ces tarifs.<br><br><strong>M. Grégoire de Fournas.</strong> Quand ?<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Deuxièmement, nous espérons évidemment que vous viendrez au secours de la majorité et des amendements qui ont été déposés visant à reconduire le filet de sécurité d'ores et déjà voté au titre de l'année 2022, mécanisme permettant de récupérer de l'argent provenant de cette rente. Il y a quelques jours, le projet de décret détaillant les conditions d'accès à la dotation de soutien de 430 millions d'euros aux collectivités a été présenté au Comité des finances locales – CFL. Avec Gabriel Attal, nous venons de préciser les conditions dans lesquelles les préfets pourront débloquer des acomptes pour couvrir une partie de l'augmentation des prix de l'énergie.<br><br>La deuxième étape, c'est que pour la première fois depuis treize ans, le Gouvernement propose une augmentation du niveau de la dotation globale de fonctionnement (DGF). Lors du congrès des maires et présidents d'intercommunalité de France,…<br><br><strong>M. Fabien Di Filippo.</strong> C'est ici que la loi se vote !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>…la Première ministre a annoncé que la DGF augmenterait de 320 millions d'euros, et non de 210 millions, comme cela avait été évoqué.<br><br><strong>M. Grégoire de Fournas.</strong> Sortez du marché européen !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Dans le cadre du Fonds vert, près de 2 milliards d'euros seront alloués l'année prochaine pour soutenir l'investissement car la rénovation est un sujet important. Enfin, un nouveau dispositif a été présenté par le rapporteur général Cazeneuve pour mieux accompagner les collectivités.<br><br><strong>Mme la présidente. </strong>La parole est à Mme Annick Cousin.<br><br><strong>Mme Annick Cousin. </strong>Monsieur le ministre, ne faites pas comme si vous n'aviez pas été maire. Vous sous-estimez les problèmes. Agissez, et agissez maintenant et non l'année prochaine ! <i>(Applaudissements sur les bancs du groupe RN.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 27,
+            "label": "LOC",
+            "text": "COÛT"
+          },
+          {
+            "start_char": 33,
+            "end_char": 40,
+            "label": "ORG",
+            "text": "ÉNERGIE"
+          },
+          {
+            "start_char": 75,
+            "end_char": 78,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 119,
+            "end_char": 152,
+            "label": "PER",
+            "text": "Mme Annick Cousin.<br><br><strong"
+          },
+          {
+            "start_char": 153,
+            "end_char": 170,
+            "label": "PER",
+            "text": "Mme Annick Cousin"
+          },
+          {
+            "start_char": 205,
+            "end_char": 213,
+            "label": "PER",
+            "text": "M. Béchu"
+          },
+          {
+            "start_char": 368,
+            "end_char": 385,
+            "label": "LOC",
+            "text": "Neuilly-sur-Marne"
+          },
+          {
+            "start_char": 635,
+            "end_char": 664,
+            "label": "MISC",
+            "text": "seize.<br><br>Malheureusement"
+          },
+          {
+            "start_char": 669,
+            "end_char": 681,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 702,
+            "end_char": 706,
+            "label": "MISC",
+            "text": "Ah !"
+          },
+          {
+            "start_char": 739,
+            "end_char": 763,
+            "label": "ORG",
+            "text": "Dem.)</i><br><br><strong"
+          },
+          {
+            "start_char": 764,
+            "end_char": 780,
+            "label": "PER",
+            "text": "M. Olivier Véran"
+          },
+          {
+            "start_char": 849,
+            "end_char": 875,
+            "label": "MISC",
+            "text": "Gouvernement.</strong> Oui"
+          },
+          {
+            "start_char": 903,
+            "end_char": 920,
+            "label": "PER",
+            "text": "Mme Annick Cousin"
+          },
+          {
+            "start_char": 931,
+            "end_char": 972,
+            "label": "LOC",
+            "text": "Dans ma circonscription du Lot-et-Garonne"
+          },
+          {
+            "start_char": 1027,
+            "end_char": 1044,
+            "label": "LOC",
+            "text": "Tournon-d'Agenais"
+          },
+          {
+            "start_char": 1166,
+            "end_char": 1184,
+            "label": "LOC",
+            "text": "Villeneuve-sur-Lot"
+          },
+          {
+            "start_char": 1660,
+            "end_char": 1669,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 1787,
+            "end_char": 1810,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1811,
+            "end_char": 1814,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1855,
+            "end_char": 1857,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 1948,
+            "end_char": 1961,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 2496,
+            "end_char": 2519,
+            "label": "MISC",
+            "text": "circonscription.<br><br"
+          },
+          {
+            "start_char": 2569,
+            "end_char": 2586,
+            "label": "LOC",
+            "text": "Neuilly-sur-Marne"
+          },
+          {
+            "start_char": 2939,
+            "end_char": 2977,
+            "label": "MISC",
+            "text": "réglementé.<br><br>Le premier objectif"
+          },
+          {
+            "start_char": 3164,
+            "end_char": 3193,
+            "label": "PER",
+            "text": "Grégoire de Fournas.</strong>"
+          },
+          {
+            "start_char": 3233,
+            "end_char": 3246,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3316,
+            "end_char": 3342,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3347,
+            "end_char": 3355,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3546,
+            "end_char": 3548,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3550,
+            "end_char": 3553,
+            "label": "MISC",
+            "text": "Dem"
+          },
+          {
+            "start_char": 3557,
+            "end_char": 3565,
+            "label": "MISC",
+            "text": "HOR),</i"
+          },
+          {
+            "start_char": 3625,
+            "end_char": 3654,
+            "label": "PER",
+            "text": "Grégoire de Fournas.</strong>"
+          },
+          {
+            "start_char": 3678,
+            "end_char": 3691,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4169,
+            "end_char": 4196,
+            "label": "ORG",
+            "text": "Comité des finances locales"
+          },
+          {
+            "start_char": 4199,
+            "end_char": 4202,
+            "label": "ORG",
+            "text": "CFL"
+          },
+          {
+            "start_char": 4209,
+            "end_char": 4222,
+            "label": "PER",
+            "text": "Gabriel Attal"
+          },
+          {
+            "start_char": 4379,
+            "end_char": 4394,
+            "label": "MISC",
+            "text": "énergie.<br><br"
+          },
+          {
+            "start_char": 4468,
+            "end_char": 4480,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4558,
+            "end_char": 4561,
+            "label": "MISC",
+            "text": "DGF"
+          },
+          {
+            "start_char": 4661,
+            "end_char": 4684,
+            "label": "PER",
+            "text": "Di Filippo.</strong> C'"
+          },
+          {
+            "start_char": 4728,
+            "end_char": 4741,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4780,
+            "end_char": 4788,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4815,
+            "end_char": 4818,
+            "label": "MISC",
+            "text": "DGF"
+          },
+          {
+            "start_char": 4925,
+            "end_char": 4928,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 4928,
+            "end_char": 4957,
+            "label": "PER",
+            "text": "Grégoire de Fournas.</strong>"
+          },
+          {
+            "start_char": 4958,
+            "end_char": 4964,
+            "label": "LOC",
+            "text": "Sortez"
+          },
+          {
+            "start_char": 5001,
+            "end_char": 5014,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 5066,
+            "end_char": 5076,
+            "label": "ORG",
+            "text": "Fonds vert"
+          },
+          {
+            "start_char": 5282,
+            "end_char": 5291,
+            "label": "PER",
+            "text": "Cazeneuve"
+          },
+          {
+            "start_char": 5349,
+            "end_char": 5352,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5393,
+            "end_char": 5426,
+            "label": "PER",
+            "text": "Mme Annick Cousin.<br><br><strong"
+          },
+          {
+            "start_char": 5427,
+            "end_char": 5444,
+            "label": "PER",
+            "text": "Mme Annick Cousin"
+          },
+          {
+            "start_char": 5455,
+            "end_char": 5463,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 5561,
+            "end_char": 5568,
+            "label": "MISC",
+            "text": "Agissez"
+          },
+          {
+            "start_char": 5664,
+            "end_char": 5675,
+            "label": "ORG",
+            "text": "RN.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 93,
+            "sentiment": "3 stars",
+            "score": 0.3286052942276001
+          },
+          {
+            "begin_char": 94,
+            "end_char": 171,
+            "sentiment": "3 stars",
+            "score": 0.23877714574337006
+          },
+          {
+            "begin_char": 172,
+            "end_char": 286,
+            "sentiment": "4 stars",
+            "score": 0.3255681097507477
+          },
+          {
+            "begin_char": 287,
+            "end_char": 319,
+            "sentiment": "1 star",
+            "score": 0.47821012139320374
+          },
+          {
+            "begin_char": 320,
+            "end_char": 507,
+            "sentiment": "4 stars",
+            "score": 0.22965799272060394
+          },
+          {
+            "begin_char": 508,
+            "end_char": 695,
+            "sentiment": "2 stars",
+            "score": 0.40971851348876953
+          },
+          {
+            "begin_char": 696,
+            "end_char": 887,
+            "sentiment": "4 stars",
+            "score": 0.3439590334892273
+          },
+          {
+            "begin_char": 887,
+            "end_char": 921,
+            "sentiment": "3 stars",
+            "score": 0.27207401394844055
+          },
+          {
+            "begin_char": 922,
+            "end_char": 1004,
+            "sentiment": "4 stars",
+            "score": 0.2899939715862274
+          },
+          {
+            "begin_char": 1005,
+            "end_char": 1103,
+            "sentiment": "3 stars",
+            "score": 0.316486120223999
+          },
+          {
+            "begin_char": 1104,
+            "end_char": 1111,
+            "sentiment": "4 stars",
+            "score": 0.3183906376361847
+          },
+          {
+            "begin_char": 1111,
+            "end_char": 1112,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 1112,
+            "end_char": 1121,
+            "sentiment": "4 stars",
+            "score": 0.2515096664428711
+          },
+          {
+            "begin_char": 1121,
+            "end_char": 1163,
+            "sentiment": "3 stars",
+            "score": 0.23907800018787384
+          },
+          {
+            "begin_char": 1164,
+            "end_char": 1241,
+            "sentiment": "1 star",
+            "score": 0.383161723613739
+          },
+          {
+            "begin_char": 1242,
+            "end_char": 1272,
+            "sentiment": "1 star",
+            "score": 0.7962732911109924
+          },
+          {
+            "begin_char": 1273,
+            "end_char": 1496,
+            "sentiment": "1 star",
+            "score": 0.3708481192588806
+          },
+          {
+            "begin_char": 1497,
+            "end_char": 1523,
+            "sentiment": "1 star",
+            "score": 0.7620913982391357
+          },
+          {
+            "begin_char": 1523,
+            "end_char": 1553,
+            "sentiment": "3 stars",
+            "score": 0.2632194757461548
+          },
+          {
+            "begin_char": 1553,
+            "end_char": 1580,
+            "sentiment": "3 stars",
+            "score": 0.3036310374736786
+          },
+          {
+            "begin_char": 1581,
+            "end_char": 1741,
+            "sentiment": "5 stars",
+            "score": 0.433393657207489
+          },
+          {
+            "begin_char": 1742,
+            "end_char": 1829,
+            "sentiment": "4 stars",
+            "score": 0.3186970353126526
+          },
+          {
+            "begin_char": 1830,
+            "end_char": 2052,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 2053,
+            "end_char": 2197,
+            "sentiment": "5 stars",
+            "score": 0.36171746253967285
+          },
+          {
+            "begin_char": 2198,
+            "end_char": 2698,
+            "sentiment": "5 stars",
+            "score": 0.34045636653900146
+          },
+          {
+            "begin_char": 2699,
+            "end_char": 3193,
+            "sentiment": "3 stars",
+            "score": 0.33771753311157227
+          },
+          {
+            "begin_char": 3194,
+            "end_char": 3217,
+            "sentiment": "1 star",
+            "score": 0.42786580324172974
+          },
+          {
+            "begin_char": 3217,
+            "end_char": 3276,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 3277,
+            "end_char": 3662,
+            "sentiment": "5 stars",
+            "score": 0.44438058137893677
+          },
+          {
+            "begin_char": 3662,
+            "end_char": 3721,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 3722,
+            "end_char": 3726,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3726,
+            "end_char": 4006,
+            "sentiment": "5 stars",
+            "score": 0.34870651364326477
+          },
+          {
+            "begin_char": 4007,
+            "end_char": 4203,
+            "sentiment": "4 stars",
+            "score": 0.3845209777355194
+          },
+          {
+            "begin_char": 4204,
+            "end_char": 4395,
+            "sentiment": "4 stars",
+            "score": 0.3600531816482544
+          },
+          {
+            "begin_char": 4395,
+            "end_char": 4563,
+            "sentiment": "4 stars",
+            "score": 0.3000713884830475
+          },
+          {
+            "begin_char": 4564,
+            "end_char": 4660,
+            "sentiment": "3 stars",
+            "score": 0.28394728899002075
+          },
+          {
+            "begin_char": 4661,
+            "end_char": 4712,
+            "sentiment": "5 stars",
+            "score": 0.30628570914268494
+          },
+          {
+            "begin_char": 4712,
+            "end_char": 4771,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 4772,
+            "end_char": 4957,
+            "sentiment": "3 stars",
+            "score": 0.3139823377132416
+          },
+          {
+            "begin_char": 4958,
+            "end_char": 4985,
+            "sentiment": "5 stars",
+            "score": 0.4557245373725891
+          },
+          {
+            "begin_char": 4985,
+            "end_char": 5044,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 5045,
+            "end_char": 5211,
+            "sentiment": "4 stars",
+            "score": 0.360748827457428
+          },
+          {
+            "begin_char": 5212,
+            "end_char": 5367,
+            "sentiment": "4 stars",
+            "score": 0.3880251348018646
+          },
+          {
+            "begin_char": 5368,
+            "end_char": 5445,
+            "sentiment": "3 stars",
+            "score": 0.23877714574337006
+          },
+          {
+            "begin_char": 5446,
+            "end_char": 5455,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5455,
+            "end_char": 5527,
+            "sentiment": "1 star",
+            "score": 0.3584270477294922
+          },
+          {
+            "begin_char": 5528,
+            "end_char": 5560,
+            "sentiment": "2 stars",
+            "score": 0.40206488966941833
+          },
+          {
+            "begin_char": 5561,
+            "end_char": 5618,
+            "sentiment": "5 stars",
+            "score": 0.5531606078147888
+          },
+          {
+            "begin_char": 5619,
+            "end_char": 5676,
+            "sentiment": "4 stars",
+            "score": 0.31565260887145996
+          },
+          {
+            "begin_char": 5677,
+            "end_char": 5680,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-12",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-12",
+        "pageJO": "3872",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

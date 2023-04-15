@@ -1,0 +1,1037 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG518",
+    "identifiant": {
+      "numero": "518",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "retraites : généralités",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Réforme des retraites"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795076",
+        "mandatRef": "PM797289"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DES RETRAITES <a name=PG19></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Sandrine Rousseau.<br><br><strong>Mme Sandrine Rousseau. </strong>J'étais tout à l'heure place d'Italie, dans ma circonscription, où il y avait vraiment beaucoup de monde. <i>(Applaudissements sur plusieurs bancs des groupes Écolo-NUPES, LFI-NUPES, SOC et GDR-NUPES.)</i> J'ai bien sûr discuté avec les personnes présentes, qui avaient des questions à vous poser. Je vous les livre, car elles sont intéressantes et mériteraient d'ailleurs que vous les entendiez, que vous les écoutiez et même que vous y répondiez parce que la sagesse de la rue, c'est quelque chose !<br><br>Je commence par la question de Lisa : « Croyez-vous vraiment que les gens de plus de 55 ans qui sont au RSA retrouveront du travail pour cotiser ? » Je précise qu'elle ne parlait bien sûr pas des quinze à vingt heures de travail gratuit obligatoire que vous imposez <i>(Applaudissements sur quelques bancs des groupes Écolo-NUPES et LFI-NUPES)</i>, mais d'un vrai travail rémunéré, avec un vrai salaire !<br><br><strong>M. Pierre Cordier.</strong> Et Mbappé, il n'a pas de salaire ?<br><br><strong>Mme Sandrine Rousseau. </strong>La question de Pierre, également : « Pourquoi ce serait aux petites gens de payer pour que les retraites soient à l'équilibre ? » Bonne question, en effet ! Ensuite, celle de Thomas : « Avez-vous repéré, madame la Première ministre, que dans un système comptable, il y a des dépenses mais aussi des recettes ? » Il faut dire que Thomas est économiste, alors, forcément !<br><br><strong>M. Pierre Cordier.</strong> Et le petit Kylian : « Qu'allez-vous faire de moi ? »<br><br><strong>Mme Sandrine Rousseau. </strong>Robin, aussi : « Je fais mes études, mais au rythme où vont les choses, j'ai peur de mourir avant la retraite ! » <i>(« Oh ! » sur plusieurs bancs des groupes RE et LR.)</i> « Pourquoi ne pas prendre l'argent là où il est ? »<br><br><strong>M. Pierre Cordier.</strong> Et Kylian ?<br><br><strong>Mme Sandrine Rousseau. </strong>Karine, elle, s'interrogeait : « Pourquoi le Gouvernement dit-il que ce truc se fait dans l'intérêt de tous, alors qu'il ne touche que les plus précaires, les carrières hachées et les carrières longues ? » <i>(Brouhaha sur les bancs des groupes LR et RN.) </i>Nicolas ensuite, au sujet du handicap : « Les personnes ayant fait l'objet d'une reconnaissance de la qualité de travailleur handicapé (RQTH) devront-elles également effectuer des trimestres supplémentaires » ? Maryse : « Sommes-nous censés mourir au travail ? » Nathalie demande : « Comment les années de travail des sans-papiers sont-elles comptées ? Le projet de loi ne le précise pas. » Lila : « Quand en finirons-nous avec les 49.3 ? »<br><br><strong>M. Pierre Cordier.</strong> Et le petit Kylian ?<br><br><strong>Mme Sandrine Rousseau. </strong>Valérie : « Je n'ai pas envie de travailler jusqu'à 64 ans. Comment fait-on ? » <i>(Mêmes mouvements.)</i><br><br><strong>M. Maxime Minot.</strong> Laissez Valérie tranquille ! <i>(Sourires.)</i><br><br><strong>Mme Sandrine Rousseau. </strong>Leinka, encore : « Je suis médecin à la retraite. Je suis là pour tous les patients que j'ai soignés de troubles musculo-squelettiques. Que deviendront-ils ? »<br><br><strong>M. Benjamin Lucas.</strong> Vous avez peur du peuple !<br><br><strong>Mme Sandrine Rousseau. </strong>Marie-Pierre, 83 ans, voulait vous rappeler que vous étiez auparavant socialiste, et demande : « Pourquoi avoir tant changé ? » <i>(Applaudissements sur plusieurs bancs des groupes Écolo-NUPES, LFI-NUPES, SOC et GDR-NUPES.) </i>Saïd, pompier professionnel…<br><br><strong>Mme la présidente. </strong>Je vous remercie, chère collègue.<br><br><strong>M. Maxime Minot.</strong> Il n'y avait donc pas de question !<br><br><strong>M. Sébastien Chenu.</strong> C'était nul !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Benjamin Lucas.</strong> Et du retournement de veste !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Madame la députée, je note que vous avez besoin qu'on vous aide à poser vos questions ! <i>(Sourires sur plusieurs bancs des groupes RE et LR. – Exclamations sur plusieurs bancs des groupes Écolo-NUPES et LFI-NUPES.)</i><br><br><strong>Mme Sandrine Rousseau.</strong> Pas du tout !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre. </i>Je note, à travers les questions que vous faites mine de relayer, que vous vous faites en réalité l'écho de la désinformation, des <i>fake news </i>et des mensonges que vous ne cessez de proférer s'agissant du système de retraite. (Applaudissements sur les bancs du groupe RE.) Je note une différence entre nous… (Mme Sandrine Rousseau proteste.)<br><br><strong>Mme la présidente.</strong> Un peu de silence, s'il vous plaît !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre. </i>Je suis sûr que Mme Rousseau prendra plaisir à écouter la fin de ma réponse. Je note une grande différence entre vous et les bancs de la majorité, qui ne tient qu'en un seul mot : responsabilité. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>M. Jérôme Guedj.</strong> C'est l'argument de la semaine, la responsabilité !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 34,
+            "label": "MISC",
+            "text": "RÉFORME DES"
+          },
+          {
+            "start_char": 35,
+            "end_char": 44,
+            "label": "MISC",
+            "text": "RETRAITES"
+          },
+          {
+            "start_char": 79,
+            "end_char": 82,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 123,
+            "end_char": 135,
+            "label": "PER",
+            "text": "Mme Sandrine"
+          },
+          {
+            "start_char": 161,
+            "end_char": 182,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau"
+          },
+          {
+            "start_char": 224,
+            "end_char": 230,
+            "label": "LOC",
+            "text": "Italie"
+          },
+          {
+            "start_char": 352,
+            "end_char": 363,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 365,
+            "end_char": 374,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 376,
+            "end_char": 379,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 383,
+            "end_char": 397,
+            "label": "MISC",
+            "text": "GDR-NUPES.)</i"
+          },
+          {
+            "start_char": 733,
+            "end_char": 737,
+            "label": "MISC",
+            "text": "Lisa"
+          },
+          {
+            "start_char": 742,
+            "end_char": 748,
+            "label": "MISC",
+            "text": "Croyez"
+          },
+          {
+            "start_char": 1020,
+            "end_char": 1031,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 1035,
+            "end_char": 1048,
+            "label": "MISC",
+            "text": "LFI-NUPES)</i"
+          },
+          {
+            "start_char": 1125,
+            "end_char": 1148,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 1153,
+            "end_char": 1159,
+            "label": "MISC",
+            "text": "Mbappé"
+          },
+          {
+            "start_char": 1200,
+            "end_char": 1221,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau"
+          },
+          {
+            "start_char": 1247,
+            "end_char": 1253,
+            "label": "MISC",
+            "text": "Pierre"
+          },
+          {
+            "start_char": 1362,
+            "end_char": 1367,
+            "label": "PER",
+            "text": "Bonne"
+          },
+          {
+            "start_char": 1407,
+            "end_char": 1413,
+            "label": "PER",
+            "text": "Thomas"
+          },
+          {
+            "start_char": 1418,
+            "end_char": 1422,
+            "label": "LOC",
+            "text": "Avez"
+          },
+          {
+            "start_char": 1561,
+            "end_char": 1567,
+            "label": "PER",
+            "text": "Thomas"
+          },
+          {
+            "start_char": 1621,
+            "end_char": 1644,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 1658,
+            "end_char": 1664,
+            "label": "MISC",
+            "text": "Kylian"
+          },
+          {
+            "start_char": 1715,
+            "end_char": 1736,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau"
+          },
+          {
+            "start_char": 1747,
+            "end_char": 1752,
+            "label": "PER",
+            "text": "Robin"
+          },
+          {
+            "start_char": 1906,
+            "end_char": 1908,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 1912,
+            "end_char": 1919,
+            "label": "LOC",
+            "text": "LR.)</i"
+          },
+          {
+            "start_char": 1991,
+            "end_char": 2014,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 2019,
+            "end_char": 2025,
+            "label": "LOC",
+            "text": "Kylian"
+          },
+          {
+            "start_char": 2043,
+            "end_char": 2064,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau"
+          },
+          {
+            "start_char": 2075,
+            "end_char": 2081,
+            "label": "LOC",
+            "text": "Karine"
+          },
+          {
+            "start_char": 2120,
+            "end_char": 2132,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2282,
+            "end_char": 2293,
+            "label": "LOC",
+            "text": "i>(Brouhaha"
+          },
+          {
+            "start_char": 2320,
+            "end_char": 2322,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2326,
+            "end_char": 2328,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 2335,
+            "end_char": 2342,
+            "label": "MISC",
+            "text": "Nicolas"
+          },
+          {
+            "start_char": 2471,
+            "end_char": 2475,
+            "label": "ORG",
+            "text": "RQTH"
+          },
+          {
+            "start_char": 2546,
+            "end_char": 2552,
+            "label": "PER",
+            "text": "Maryse"
+          },
+          {
+            "start_char": 2557,
+            "end_char": 2563,
+            "label": "LOC",
+            "text": "Sommes"
+          },
+          {
+            "start_char": 2598,
+            "end_char": 2606,
+            "label": "LOC",
+            "text": "Nathalie"
+          },
+          {
+            "start_char": 2726,
+            "end_char": 2730,
+            "label": "LOC",
+            "text": "Lila"
+          },
+          {
+            "start_char": 2794,
+            "end_char": 2817,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 2831,
+            "end_char": 2837,
+            "label": "MISC",
+            "text": "Kylian"
+          },
+          {
+            "start_char": 2855,
+            "end_char": 2876,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau"
+          },
+          {
+            "start_char": 2887,
+            "end_char": 2894,
+            "label": "LOC",
+            "text": "Valérie"
+          },
+          {
+            "start_char": 2968,
+            "end_char": 2976,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 3012,
+            "end_char": 3033,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 3098,
+            "end_char": 3102,
+            "label": "PER",
+            "text": "Mme "
+          },
+          {
+            "start_char": 3130,
+            "end_char": 3136,
+            "label": "LOC",
+            "text": "Leinka"
+          },
+          {
+            "start_char": 3308,
+            "end_char": 3332,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong>"
+          },
+          {
+            "start_char": 3375,
+            "end_char": 3396,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau"
+          },
+          {
+            "start_char": 3407,
+            "end_char": 3419,
+            "label": "PER",
+            "text": "Marie-Pierre"
+          },
+          {
+            "start_char": 3588,
+            "end_char": 3599,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 3601,
+            "end_char": 3610,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3612,
+            "end_char": 3615,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 3619,
+            "end_char": 3628,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 3635,
+            "end_char": 3639,
+            "label": "LOC",
+            "text": "Saïd"
+          },
+          {
+            "start_char": 3679,
+            "end_char": 3682,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3759,
+            "end_char": 3780,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 3836,
+            "end_char": 3861,
+            "label": "PER",
+            "text": "Sébastien Chenu.</strong>"
+          },
+          {
+            "start_char": 3891,
+            "end_char": 3894,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3935,
+            "end_char": 3937,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3984,
+            "end_char": 3986,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 4015,
+            "end_char": 4045,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong> Et du"
+          },
+          {
+            "start_char": 4085,
+            "end_char": 4095,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4160,
+            "end_char": 4171,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 4177,
+            "end_char": 4183,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 4266,
+            "end_char": 4277,
+            "label": "LOC",
+            "text": "i>(Sourires"
+          },
+          {
+            "start_char": 4310,
+            "end_char": 4312,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4316,
+            "end_char": 4318,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 4320,
+            "end_char": 4322,
+            "label": "LOC",
+            "text": "– "
+          },
+          {
+            "start_char": 4322,
+            "end_char": 4334,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 4367,
+            "end_char": 4378,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 4382,
+            "end_char": 4412,
+            "label": "MISC",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4413,
+            "end_char": 4443,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau.</strong"
+          },
+          {
+            "start_char": 4474,
+            "end_char": 4484,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4654,
+            "end_char": 4663,
+            "label": "LOC",
+            "text": "fake news"
+          },
+          {
+            "start_char": 4752,
+            "end_char": 4768,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 4786,
+            "end_char": 4795,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4834,
+            "end_char": 4855,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau"
+          },
+          {
+            "start_char": 4882,
+            "end_char": 4908,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 4962,
+            "end_char": 4972,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 5024,
+            "end_char": 5036,
+            "label": "PER",
+            "text": "Mme Rousseau"
+          },
+          {
+            "start_char": 5255,
+            "end_char": 5278,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5282,
+            "end_char": 5303,
+            "label": "PER",
+            "text": "Jérôme Guedj.</strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 97,
+            "sentiment": "3 stars",
+            "score": 0.30389830470085144
+          },
+          {
+            "begin_char": 98,
+            "end_char": 183,
+            "sentiment": "3 stars",
+            "score": 0.25244197249412537
+          },
+          {
+            "begin_char": 184,
+            "end_char": 298,
+            "sentiment": "5 stars",
+            "score": 0.3061408996582031
+          },
+          {
+            "begin_char": 299,
+            "end_char": 398,
+            "sentiment": "4 stars",
+            "score": 0.3296743333339691
+          },
+          {
+            "begin_char": 399,
+            "end_char": 490,
+            "sentiment": "5 stars",
+            "score": 0.4087601602077484
+          },
+          {
+            "begin_char": 491,
+            "end_char": 694,
+            "sentiment": "5 stars",
+            "score": 0.6438986659049988
+          },
+          {
+            "begin_char": 694,
+            "end_char": 850,
+            "sentiment": "2 stars",
+            "score": 0.29221636056900024
+          },
+          {
+            "begin_char": 851,
+            "end_char": 1106,
+            "sentiment": "5 stars",
+            "score": 0.3700677454471588
+          },
+          {
+            "begin_char": 1106,
+            "end_char": 1159,
+            "sentiment": "3 stars",
+            "score": 0.3413642346858978
+          },
+          {
+            "begin_char": 1159,
+            "end_char": 1184,
+            "sentiment": "1 star",
+            "score": 0.3703763484954834
+          },
+          {
+            "begin_char": 1184,
+            "end_char": 1222,
+            "sentiment": "3 stars",
+            "score": 0.28439125418663025
+          },
+          {
+            "begin_char": 1223,
+            "end_char": 1388,
+            "sentiment": "3 stars",
+            "score": 0.30317577719688416
+          },
+          {
+            "begin_char": 1389,
+            "end_char": 1543,
+            "sentiment": "2 stars",
+            "score": 0.2622547447681427
+          },
+          {
+            "begin_char": 1544,
+            "end_char": 1602,
+            "sentiment": "2 stars",
+            "score": 0.2351161688566208
+          },
+          {
+            "begin_char": 1602,
+            "end_char": 1737,
+            "sentiment": "3 stars",
+            "score": 0.30011817812919617
+          },
+          {
+            "begin_char": 1738,
+            "end_char": 1923,
+            "sentiment": "3 stars",
+            "score": 0.31459882855415344
+          },
+          {
+            "begin_char": 1923,
+            "end_char": 2027,
+            "sentiment": "3 stars",
+            "score": 0.26843881607055664
+          },
+          {
+            "begin_char": 2027,
+            "end_char": 2065,
+            "sentiment": "3 stars",
+            "score": 0.28439125418663025
+          },
+          {
+            "begin_char": 2066,
+            "end_char": 2087,
+            "sentiment": "3 stars",
+            "score": 0.25763389468193054
+          },
+          {
+            "begin_char": 2087,
+            "end_char": 2335,
+            "sentiment": "2 stars",
+            "score": 0.24564753472805023
+          },
+          {
+            "begin_char": 2335,
+            "end_char": 2377,
+            "sentiment": "3 stars",
+            "score": 0.2832660973072052
+          },
+          {
+            "begin_char": 2377,
+            "end_char": 2545,
+            "sentiment": "3 stars",
+            "score": 0.34742870926856995
+          },
+          {
+            "begin_char": 2546,
+            "end_char": 2597,
+            "sentiment": "1 star",
+            "score": 0.267906129360199
+          },
+          {
+            "begin_char": 2598,
+            "end_char": 2687,
+            "sentiment": "3 stars",
+            "score": 0.22033476829528809
+          },
+          {
+            "begin_char": 2688,
+            "end_char": 2818,
+            "sentiment": "3 stars",
+            "score": 0.3123134970664978
+          },
+          {
+            "begin_char": 2819,
+            "end_char": 2839,
+            "sentiment": "4 stars",
+            "score": 0.28105905652046204
+          },
+          {
+            "begin_char": 2839,
+            "end_char": 2877,
+            "sentiment": "3 stars",
+            "score": 0.28439125418663025
+          },
+          {
+            "begin_char": 2878,
+            "end_char": 2887,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2887,
+            "end_char": 2898,
+            "sentiment": "3 stars",
+            "score": 0.2672328054904938
+          },
+          {
+            "begin_char": 2899,
+            "end_char": 2946,
+            "sentiment": "2 stars",
+            "score": 0.3087571859359741
+          },
+          {
+            "begin_char": 2947,
+            "end_char": 2964,
+            "sentiment": "3 stars",
+            "score": 0.2989564836025238
+          },
+          {
+            "begin_char": 2965,
+            "end_char": 3034,
+            "sentiment": "3 stars",
+            "score": 0.3309374153614044
+          },
+          {
+            "begin_char": 3035,
+            "end_char": 3063,
+            "sentiment": "1 star",
+            "score": 0.3296908438205719
+          },
+          {
+            "begin_char": 3064,
+            "end_char": 3102,
+            "sentiment": "3 stars",
+            "score": 0.2800244987010956
+          },
+          {
+            "begin_char": 3102,
+            "end_char": 3120,
+            "sentiment": "3 stars",
+            "score": 0.27923575043678284
+          },
+          {
+            "begin_char": 3121,
+            "end_char": 3149,
+            "sentiment": "2 stars",
+            "score": 0.27733686566352844
+          },
+          {
+            "begin_char": 3149,
+            "end_char": 3179,
+            "sentiment": "4 stars",
+            "score": 0.34157922863960266
+          },
+          {
+            "begin_char": 3180,
+            "end_char": 3265,
+            "sentiment": "5 stars",
+            "score": 0.5453214645385742
+          },
+          {
+            "begin_char": 3266,
+            "end_char": 3332,
+            "sentiment": "2 stars",
+            "score": 0.2597772479057312
+          },
+          {
+            "begin_char": 3333,
+            "end_char": 3359,
+            "sentiment": "1 star",
+            "score": 0.47794637084007263
+          },
+          {
+            "begin_char": 3359,
+            "end_char": 3397,
+            "sentiment": "3 stars",
+            "score": 0.28439125418663025
+          },
+          {
+            "begin_char": 3398,
+            "end_char": 3427,
+            "sentiment": "4 stars",
+            "score": 0.2851127088069916
+          },
+          {
+            "begin_char": 3427,
+            "end_char": 3697,
+            "sentiment": "4 stars",
+            "score": 0.2737124264240265
+          },
+          {
+            "begin_char": 3698,
+            "end_char": 3781,
+            "sentiment": "4 stars",
+            "score": 0.25892239809036255
+          },
+          {
+            "begin_char": 3782,
+            "end_char": 3817,
+            "sentiment": "1 star",
+            "score": 0.2904762327671051
+          },
+          {
+            "begin_char": 3817,
+            "end_char": 3861,
+            "sentiment": "3 stars",
+            "score": 0.3260832130908966
+          },
+          {
+            "begin_char": 3862,
+            "end_char": 3875,
+            "sentiment": "1 star",
+            "score": 0.8776469826698303
+          },
+          {
+            "begin_char": 3875,
+            "end_char": 3909,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 3910,
+            "end_char": 4069,
+            "sentiment": "1 star",
+            "score": 0.34347379207611084
+          },
+          {
+            "begin_char": 4069,
+            "end_char": 4172,
+            "sentiment": "4 stars",
+            "score": 0.30193448066711426
+          },
+          {
+            "begin_char": 4173,
+            "end_char": 4264,
+            "sentiment": "1 star",
+            "score": 0.26111048460006714
+          },
+          {
+            "begin_char": 4265,
+            "end_char": 4319,
+            "sentiment": "4 stars",
+            "score": 0.31310248374938965
+          },
+          {
+            "begin_char": 4320,
+            "end_char": 4322,
+            "sentiment": "3 stars",
+            "score": 0.25771647691726685
+          },
+          {
+            "begin_char": 4322,
+            "end_char": 4334,
+            "sentiment": "5 stars",
+            "score": 0.4309922754764557
+          },
+          {
+            "begin_char": 4335,
+            "end_char": 4443,
+            "sentiment": "3 stars",
+            "score": 0.3963407874107361
+          },
+          {
+            "begin_char": 4443,
+            "end_char": 4444,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 4445,
+            "end_char": 4458,
+            "sentiment": "1 star",
+            "score": 0.82905113697052
+          },
+          {
+            "begin_char": 4458,
+            "end_char": 4515,
+            "sentiment": "3 stars",
+            "score": 0.29729530215263367
+          },
+          {
+            "begin_char": 4516,
+            "end_char": 4520,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4520,
+            "end_char": 4752,
+            "sentiment": "1 star",
+            "score": 0.7481474876403809
+          },
+          {
+            "begin_char": 4752,
+            "end_char": 4797,
+            "sentiment": "4 stars",
+            "score": 0.37087440490722656
+          },
+          {
+            "begin_char": 4798,
+            "end_char": 4909,
+            "sentiment": "3 stars",
+            "score": 0.3561510443687439
+          },
+          {
+            "begin_char": 4910,
+            "end_char": 4946,
+            "sentiment": "5 stars",
+            "score": 0.2879883944988251
+          },
+          {
+            "begin_char": 4946,
+            "end_char": 5003,
+            "sentiment": "3 stars",
+            "score": 0.29729530215263367
+          },
+          {
+            "begin_char": 5004,
+            "end_char": 5008,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5008,
+            "end_char": 5084,
+            "sentiment": "5 stars",
+            "score": 0.23646356165409088
+          },
+          {
+            "begin_char": 5085,
+            "end_char": 5203,
+            "sentiment": "5 stars",
+            "score": 0.3406236469745636
+          },
+          {
+            "begin_char": 5204,
+            "end_char": 5304,
+            "sentiment": "3 stars",
+            "score": 0.3661515414714813
+          },
+          {
+            "begin_char": 5305,
+            "end_char": 5356,
+            "sentiment": "5 stars",
+            "score": 0.2907795011997223
+          },
+          {
+            "begin_char": 5356,
+            "end_char": 5364,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-01",
+        "pageJO": "771",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG108",
+    "identifiant": {
+      "numero": "108",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "élus",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Non-cumul des mandats"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793508",
+        "mandatRef": "PM796371"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Collectivités territoriales",
+      "developpe": "Ministère auprès du ministre de l’intérieur et des outre-mer et du ministre de la transition écologique et de la cohésion des territoires, chargé des collectivités territoriales"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Collectivités territoriales",
+          "developpe": "Ministère auprès du ministre de l’intérieur et des outre-mer et du ministre de la transition écologique et de la cohésion des territoires, chargé des collectivités territoriales"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> NON-CUMUL DES MANDATS <a name=PG27></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Hubert Brigand.<br><br><strong>M. Hubert Brigand. </strong>Madame la ministre déléguée chargée des collectivités territoriales, c'est non seulement un député mais aussi un maire qui s'adresse à vous.<br><br><strong>Mme Farida Amrani.</strong> Ce n'est pas possible !<br><br><strong>M. Hubert Brigand. </strong>En effet, pour quelques semaines encore, j'ai la chance d'être maire en milieu rural dans une circonscription de 342 communes et d'une longueur de 128 kilomètres. Je dois tout à ce mandat de maire que j'ai la chance et l'honneur d'exercer depuis 1995. Ce fut et c'est encore une expérience très enrichissante au cœur de mon engagement politique. Être maire d'une commune en milieu rural m'a permis d'être au plus près des réalités du terrain, de connaître et de comprendre les préoccupations de nos concitoyens, d'être à l'écoute des habitants, d'être aussi à portée des engueulades. Pour résumer, cela m'a permis de sentir l'état du pays.<br><br>Pourtant, ce mandat de maire, je vais devoir l'abandonner à contrecœur : hélas, la loi interdit désormais à un député d'être maire. Madame la ministre déléguée, pourquoi les maires – en particulier ceux qui le sont dans une petite commune rurale – seraient-ils les seuls Français à ne pas pouvoir siéger à l'Assemblée nationale ? <i>(Applaudissements sur les bancs du groupe LR.)</i><br><br><strong>M. Fabien Di Filippo.</strong> Bonne question !<br><br><strong>M. Maxime Minot.</strong> On peut être ministre et président de conseil départemental : deux poids, deux mesures !<br><br><strong>M. Hubert Brigand. </strong>Il y a, en effet, une grande hypocrisie quand le Président de la République et le Gouvernement louent l'action des maires et les présentent comme les piliers de la République et les relais indispensables à notre démocratie, mais leur interdisent de devenir députés. Permettre aux maires d'être également députés serait un formidable rempart contre le procès en déconnexion, qui est régulièrement fait aux parlementaires. Prenons garde de ne pas devenir des députés hors sol, si ce n'est déjà trop tard et déjà fait. Alors, ma question…<i>(Applaudissements sur les bancs du groupe LR.)</i><br><br><strong>Mme la présidente. </strong>Merci, mon cher collègue.<br><br>La parole est à Mme la ministre déléguée chargée des collectivités territoriales.<br><br><strong>M. Maxime Minot.</strong> Et maire de Beauvais !<br><br><strong>M. Thibault Bazin.</strong> Elle est d'accord avec nous !<br><br><strong>Mme Caroline Cayeux,</strong><i> ministre déléguée chargée des collectivités territoriales. </i>C'est une ancienne sénatrice, et bientôt ancienne maire, qui vous répond. Je vous remercie de cette question d'autant plus importante qu'elle porte sur la nécessité, dont nous convenons tous ici, de redynamiser la démocratie locale : l'abstention massive constatée lors les scrutins électoraux de notre pays en témoigne. Signe d'une démocratie malade et peut-être du désarroi de la jeunesse, l'abstention nous préoccupe tous, en tant qu'élus et responsables publics. Question ancienne, le non-cumul des mandats a déjà fait l'objet de débats en fin d'année dernière, à l'occasion d'une initiative sénatoriale. Un parlementaire assure le lien entre le local et le national. C'est lui qui élabore la loi, qui contrôle l'action du Gouvernement et qui évalue les politiques publiques.<br><br><strong>M. Éric Ciotti.</strong> Ça, on le sait !<br><br><strong>Mme Caroline Cayeux,</strong><i> ministre déléguée . </i>La demande des élus des villes de moins de 10 000 habitants de pouvoir mieux participer à l'élaboration des lois est légitime, je vous l'accorde. <i>(Applaudissements sur plusieurs bancs du groupe LR.)</i> En effet, un parlementaire entretient un lien permanent avec les acteurs du territoire qu'il représente. Il travaille le jour, souvent la nuit au service des Français, dans l'hémicycle et dans sa circonscription.<br><br><strong>M. Éric Ciotti.</strong> C'est bon là, faites répondre Darmanin !<br><br><strong>Mme Caroline Cayeux,</strong><i> ministre déléguée . </i>C'est un travail à temps plein. Notre ambition collective est de moderniser nos institutions afin de leur donner plus d'efficacité et de vitalité démocratique. Ce sera le rôle de la convention transpartisane, qui sera sollicitée pour redonner confiance en nos institutions républicaines, l'action publique et la force du suffrage universel. <i>(Exclamations sur les bancs du groupe LR.)</i> <br><br><strong>M. Thibault Bazin.</strong> Oui ou non, êtes-vous pour ou contre le cumul ?<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 44,
+            "label": "MISC",
+            "text": "NON-CUMUL DES MANDATS"
+          },
+          {
+            "start_char": 79,
+            "end_char": 82,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 123,
+            "end_char": 156,
+            "label": "PER",
+            "text": "M. Hubert Brigand.<br><br><strong"
+          },
+          {
+            "start_char": 157,
+            "end_char": 174,
+            "label": "PER",
+            "text": "M. Hubert Brigand"
+          },
+          {
+            "start_char": 185,
+            "end_char": 191,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 341,
+            "end_char": 367,
+            "label": "PER",
+            "text": "Mme Farida Amrani.</strong"
+          },
+          {
+            "start_char": 411,
+            "end_char": 425,
+            "label": "PER",
+            "text": "Hubert Brigand"
+          },
+          {
+            "start_char": 1070,
+            "end_char": 1082,
+            "label": "ORG",
+            "text": "pays.<br><br"
+          },
+          {
+            "start_char": 1215,
+            "end_char": 1221,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 1354,
+            "end_char": 1362,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1391,
+            "end_char": 1410,
+            "label": "ORG",
+            "text": "Assemblée nationale"
+          },
+          {
+            "start_char": 1458,
+            "end_char": 1481,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1492,
+            "end_char": 1518,
+            "label": "PER",
+            "text": "Di Filippo.</strong> Bonne"
+          },
+          {
+            "start_char": 1548,
+            "end_char": 1569,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 1678,
+            "end_char": 1692,
+            "label": "PER",
+            "text": "Hubert Brigand"
+          },
+          {
+            "start_char": 1752,
+            "end_char": 1778,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1785,
+            "end_char": 1797,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1867,
+            "end_char": 1877,
+            "label": "LOC",
+            "text": "République"
+          },
+          {
+            "start_char": 2283,
+            "end_char": 2306,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2307,
+            "end_char": 2310,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2335,
+            "end_char": 2340,
+            "label": "LOC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 2351,
+            "end_char": 2368,
+            "label": "MISC",
+            "text": "collègue.<br><br>"
+          },
+          {
+            "start_char": 2384,
+            "end_char": 2387,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2468,
+            "end_char": 2489,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 2503,
+            "end_char": 2511,
+            "label": "LOC",
+            "text": "Beauvais"
+          },
+          {
+            "start_char": 2602,
+            "end_char": 2614,
+            "label": "PER",
+            "text": "Mme Caroline"
+          },
+          {
+            "start_char": 3425,
+            "end_char": 3437,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3496,
+            "end_char": 3520,
+            "label": "PER",
+            "text": "Éric Ciotti.</strong> Ça"
+          },
+          {
+            "start_char": 3550,
+            "end_char": 3562,
+            "label": "PER",
+            "text": "Mme Caroline"
+          },
+          {
+            "start_char": 3804,
+            "end_char": 3811,
+            "label": "ORG",
+            "text": "LR.)</i"
+          },
+          {
+            "start_char": 3971,
+            "end_char": 3979,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4044,
+            "end_char": 4064,
+            "label": "PER",
+            "text": "Éric Ciotti.</strong"
+          },
+          {
+            "start_char": 4096,
+            "end_char": 4104,
+            "label": "PER",
+            "text": "Darmanin"
+          },
+          {
+            "start_char": 4122,
+            "end_char": 4134,
+            "label": "PER",
+            "text": "Mme Caroline"
+          },
+          {
+            "start_char": 4561,
+            "end_char": 4568,
+            "label": "LOC",
+            "text": "LR.)</i"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 97,
+            "sentiment": "1 star",
+            "score": 0.264194518327713
+          },
+          {
+            "begin_char": 98,
+            "end_char": 175,
+            "sentiment": "4 stars",
+            "score": 0.2777477204799652
+          },
+          {
+            "begin_char": 176,
+            "end_char": 185,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 185,
+            "end_char": 368,
+            "sentiment": "5 stars",
+            "score": 0.3246592879295349
+          },
+          {
+            "begin_char": 369,
+            "end_char": 392,
+            "sentiment": "1 star",
+            "score": 0.7342937588691711
+          },
+          {
+            "begin_char": 392,
+            "end_char": 426,
+            "sentiment": "3 stars",
+            "score": 0.2930518388748169
+          },
+          {
+            "begin_char": 427,
+            "end_char": 436,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 436,
+            "end_char": 598,
+            "sentiment": "5 stars",
+            "score": 0.37233299016952515
+          },
+          {
+            "begin_char": 599,
+            "end_char": 687,
+            "sentiment": "5 stars",
+            "score": 0.5240947604179382
+          },
+          {
+            "begin_char": 688,
+            "end_char": 781,
+            "sentiment": "5 stars",
+            "score": 0.6648820042610168
+          },
+          {
+            "begin_char": 782,
+            "end_char": 1019,
+            "sentiment": "5 stars",
+            "score": 0.7277526259422302
+          },
+          {
+            "begin_char": 1020,
+            "end_char": 1214,
+            "sentiment": "5 stars",
+            "score": 0.32059338688850403
+          },
+          {
+            "begin_char": 1215,
+            "end_char": 1412,
+            "sentiment": "5 stars",
+            "score": 0.2840317487716675
+          },
+          {
+            "begin_char": 1413,
+            "end_char": 1491,
+            "sentiment": "3 stars",
+            "score": 0.32710015773773193
+          },
+          {
+            "begin_char": 1492,
+            "end_char": 1529,
+            "sentiment": "3 stars",
+            "score": 0.24132750928401947
+          },
+          {
+            "begin_char": 1529,
+            "end_char": 1570,
+            "sentiment": "3 stars",
+            "score": 0.3174344599246979
+          },
+          {
+            "begin_char": 1571,
+            "end_char": 1659,
+            "sentiment": "1 star",
+            "score": 0.27209407091140747
+          },
+          {
+            "begin_char": 1659,
+            "end_char": 1693,
+            "sentiment": "3 stars",
+            "score": 0.2930518388748169
+          },
+          {
+            "begin_char": 1694,
+            "end_char": 1703,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1703,
+            "end_char": 1968,
+            "sentiment": "5 stars",
+            "score": 0.39289167523384094
+          },
+          {
+            "begin_char": 1969,
+            "end_char": 2123,
+            "sentiment": "4 stars",
+            "score": 0.3966694176197052
+          },
+          {
+            "begin_char": 2124,
+            "end_char": 2177,
+            "sentiment": "5 stars",
+            "score": 0.37798696756362915
+          },
+          {
+            "begin_char": 2178,
+            "end_char": 2218,
+            "sentiment": "3 stars",
+            "score": 0.2684440612792969
+          },
+          {
+            "begin_char": 2219,
+            "end_char": 2325,
+            "sentiment": "3 stars",
+            "score": 0.28129395842552185
+          },
+          {
+            "begin_char": 2326,
+            "end_char": 2368,
+            "sentiment": "5 stars",
+            "score": 0.3835194408893585
+          },
+          {
+            "begin_char": 2368,
+            "end_char": 2513,
+            "sentiment": "4 stars",
+            "score": 0.2632999122142792
+          },
+          {
+            "begin_char": 2513,
+            "end_char": 2556,
+            "sentiment": "3 stars",
+            "score": 0.31751394271850586
+          },
+          {
+            "begin_char": 2557,
+            "end_char": 2586,
+            "sentiment": "5 stars",
+            "score": 0.47378426790237427
+          },
+          {
+            "begin_char": 2586,
+            "end_char": 2693,
+            "sentiment": "3 stars",
+            "score": 0.3094475567340851
+          },
+          {
+            "begin_char": 2694,
+            "end_char": 2771,
+            "sentiment": "3 stars",
+            "score": 0.28945863246917725
+          },
+          {
+            "begin_char": 2772,
+            "end_char": 3018,
+            "sentiment": "5 stars",
+            "score": 0.5560728907585144
+          },
+          {
+            "begin_char": 3019,
+            "end_char": 3164,
+            "sentiment": "5 stars",
+            "score": 0.45830947160720825
+          },
+          {
+            "begin_char": 3165,
+            "end_char": 3306,
+            "sentiment": "4 stars",
+            "score": 0.3200722932815552
+          },
+          {
+            "begin_char": 3307,
+            "end_char": 3369,
+            "sentiment": "4 stars",
+            "score": 0.3693419098854065
+          },
+          {
+            "begin_char": 3370,
+            "end_char": 3534,
+            "sentiment": "4 stars",
+            "score": 0.3252902925014496
+          },
+          {
+            "begin_char": 3534,
+            "end_char": 3602,
+            "sentiment": "3 stars",
+            "score": 0.30312657356262207
+          },
+          {
+            "begin_char": 3603,
+            "end_char": 3752,
+            "sentiment": "3 stars",
+            "score": 0.2790253162384033
+          },
+          {
+            "begin_char": 3753,
+            "end_char": 3812,
+            "sentiment": "4 stars",
+            "score": 0.31002920866012573
+          },
+          {
+            "begin_char": 3813,
+            "end_char": 3917,
+            "sentiment": "4 stars",
+            "score": 0.43708500266075134
+          },
+          {
+            "begin_char": 3918,
+            "end_char": 4065,
+            "sentiment": "3 stars",
+            "score": 0.34371787309646606
+          },
+          {
+            "begin_char": 4066,
+            "end_char": 4106,
+            "sentiment": "1 star",
+            "score": 0.7484012246131897
+          },
+          {
+            "begin_char": 4106,
+            "end_char": 4174,
+            "sentiment": "3 stars",
+            "score": 0.30312657356262207
+          },
+          {
+            "begin_char": 4175,
+            "end_char": 4210,
+            "sentiment": "3 stars",
+            "score": 0.29833370447158813
+          },
+          {
+            "begin_char": 4211,
+            "end_char": 4338,
+            "sentiment": "5 stars",
+            "score": 0.6172815561294556
+          },
+          {
+            "begin_char": 4339,
+            "end_char": 4519,
+            "sentiment": "5 stars",
+            "score": 0.6461031436920166
+          },
+          {
+            "begin_char": 4520,
+            "end_char": 4661,
+            "sentiment": "3 stars",
+            "score": 0.3000934422016144
+          },
+          {
+            "begin_char": 4661,
+            "end_char": 4669,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3320",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

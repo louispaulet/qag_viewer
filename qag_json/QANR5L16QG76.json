@@ -1,0 +1,785 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG76",
+    "identifiant": {
+      "numero": "76",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "transports ferroviaires",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Chantier du Lyon-Turin"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795120",
+        "mandatRef": "PM797310"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Transports",
+      "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transports",
+          "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CHANTIER DU LYON-TURIN <a name=PG22></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Marina Ferrari.<br><br><strong>Mme Marina Ferrari. </strong>Ma question s'adresse à M. Clément Beaune, ministre délégué chargé des transports.<br><br>Nous nous apprêtons à examiner la ratification du traité France-Italie pour une coopération bilatérale renforcée, dit traité du Quirinal, qui a pour ambition de développer nos relations avec nos voisins transalpins sur de nombreuses questions très importantes pour nos deux pays.<br><br>S'il est un chantier qui, à lui seul, illustre cette coopération, c'est celui du Lyon-Turin, infrastructure majeure de portée écologique, économique et humaine. <i>(Applaudissements sur quelques bancs du groupe Dem. – M. Thomas Rudigoz et Mme Émilie Bonnivard applaudissent également.)</i> Vous le savez, notre gouvernement doit se positionner d'ici à l'automne sur la question des voies d'accès au tunnel de base. En 2019, Mme la Première ministre, alors en charge des transports, a pris une décision permettant de relancer le travail de concertation des territoires en vue de choisir le scénario pour les accès français. Le comité de pilotage a ainsi retenu l'hypothèse du grand gabarit, parfaitement cohérente avec les objectifs de la transition écologique puisqu'elle permettrait de faire passer sur les axes ferroviaires les trois quarts des plus de 40 millions de tonnes de fret routier qui traversent les Alpes.<br><br>La décision française, initialement prévue pour mars 2022, a été repoussée du fait du contexte international, et l'Europe s'inquiète fortement de l'absence de décision de notre part, qui met en péril la pérennité du financement des accès et pourrait conduire à repousser les financements européens après 2027, ce qui aurait pour conséquence de bloquer également les financements pour les accès du côté italien.<br><br><strong>Mme Émilie Bonnivard.</strong> Eh oui !<br><br><strong>Mme Marie-Charlotte Garin.</strong> Il faut renoncer !<br><br><strong>Mme Marina Ferrari. </strong>Nous courons le risque de voir notre parole discréditée dans ce dossier si vous n'agissez pas rapidement. Votre décision doit donc intervenir au plus vite pour sécuriser les financements européens, mais surtout pour donner une perspective à nos vallées, qui attendent avec impatience de mieux respirer. Il s'agit d'assurer une meilleure protection du massif alpin et d'améliorer les mobilités entre deux villes motrices en Europe, Lyon et Turin.<br><br>Ma question est donc simple : la France sera-t-elle au rendez-vous de cette décision sur les accès français au tunnel de base du Lyon-Turin avant cet hiver, comme nous nous y étions engagés ? <i>(Applaudissements sur les bancs du groupe Dem et quelques bancs du groupe HOR. – Mme Marjolaine Meynier-Millefert, Mme Émilie Bonnivard et M. Thomas Rudigoz applaudissent également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports.<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports. </i>Madame la députée, vous avez raison de souligner l'urgence du calendrier et l'importance de ce projet essentiel, vous l'avez dit, sur le plan écologique, économique, humain, et européen <i>(Exclamations sur les bancs du groupe Écolo-NUPES.)</i><br><br><strong>M. Jean-François Coulomme.</strong> C'est faux !<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué . </i>Il est enfin une réalité puisque les questions relatives aux liaisons entre la France et l'Italie ont fait l'objet d'engagements rapidement matérialisés par des financements au moment de la signature du traité du Quirinal, chose qui était attendue depuis de longues années. L'excellente décision prise en 2019 a permis, en outre, de lancer aussi la concertation sur l'autre question d'importance, celle des accès.<br><br>Nous avançons et, sur ce qui a déjà été acté, nous disposerons, année après année, dès le projet de loi de finances pour 2023, des financements prioritaires nécessaires pour que ce projet, dont nous avons impérativement besoin, avance.<br><br><strong>Mme Émilie Bonnivard.</strong> Ce n'est pas un projet, le chantier est en cours !<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué . </i>Je le précise parce qu'il a longtemps été victime d'allers-retours politiques et budgétaires.<br><br>S'agissant de la question des décalages de calendrier, je m'en suis saisi avec Christophe Béchu de manière prioritaire. Nous aurons avec les élus concernés, dont vous faites partie, madame Ferrari, une concertation à la rentrée, en vue de prendre des décisions. Le comité de pilotage, placé sous l'égide du préfet de la région Auvergne-Rhône-Alpes, les a déjà réunis, et je sais très bien quelle option ils privilégient : c'est celle du plus grand gabarit, qui permet d'absorber le plus de fret ferroviaire ; nous y travaillerons.<br><br><strong>Mme Émilie Bonnivard.</strong> Toutes les collectivités ont répondu, il ne manque plus que la décision du Gouvernement !<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué . </i>Je dois dire aussi que c'est l'option la plus coûteuse.<br><br><strong>Mme Émilie Bonnivard.</strong> Les Alpes valent bien cela !<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué . </i>Toutes les parties prenantes, les collectivités comme l'État, qui sont nécessairement engagées doivent mesurer les incidences financières, en toute responsabilité, et chacun doit les assumer, sinon nous ne ferions que reproduire les erreurs du passé, à savoir annoncer des projets que nous ne pourrions pas ensuite réaliser.<br><br>C'est pour cela que je veux achever avec vous ce travail de concertation. Nous devons mesurer toutes les conséquences de nos choix et sécuriser, le cas échéant, les financements européens qui sont indispensables.<br><br><strong>M. Philippe Vigier.</strong> Très bien !<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué . </i>Rappelons l'ordre de grandeur du coût de ce projet : 15 milliards d'euros.<br><br><strong>Mme Marie-Charlotte Garin.</strong> Trente milliards !<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué. </i>Il est nécessaire que cette responsabilité soit partagée, assumée, et qu'une décision intervienne dans les prochains mois. <i>(Applaudissements sur plusieurs bancs du groupe RE et sur les bancs du groupe Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 39,
+            "label": "MISC",
+            "text": "CHANTIER DU LYON"
+          },
+          {
+            "start_char": 80,
+            "end_char": 83,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 124,
+            "end_char": 134,
+            "label": "PER",
+            "text": "Mme Marina"
+          },
+          {
+            "start_char": 159,
+            "end_char": 177,
+            "label": "PER",
+            "text": "Mme Marina Ferrari"
+          },
+          {
+            "start_char": 212,
+            "end_char": 214,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 215,
+            "end_char": 229,
+            "label": "PER",
+            "text": "Clément Beaune"
+          },
+          {
+            "start_char": 335,
+            "end_char": 348,
+            "label": "LOC",
+            "text": "France-Italie"
+          },
+          {
+            "start_char": 396,
+            "end_char": 414,
+            "label": "MISC",
+            "text": "traité du Quirinal"
+          },
+          {
+            "start_char": 552,
+            "end_char": 564,
+            "label": "MISC",
+            "text": "pays.<br><br"
+          },
+          {
+            "start_char": 646,
+            "end_char": 656,
+            "label": "LOC",
+            "text": "Lyon-Turin"
+          },
+          {
+            "start_char": 776,
+            "end_char": 779,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 804,
+            "end_char": 808,
+            "label": "PER",
+            "text": "Mme "
+          },
+          {
+            "start_char": 989,
+            "end_char": 1004,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 1606,
+            "end_char": 1612,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 1917,
+            "end_char": 1946,
+            "label": "PER",
+            "text": "Mme Émilie Bonnivard.</strong"
+          },
+          {
+            "start_char": 1972,
+            "end_char": 1991,
+            "label": "PER",
+            "text": "Mme Marie-Charlotte"
+          },
+          {
+            "start_char": 2042,
+            "end_char": 2060,
+            "label": "PER",
+            "text": "Mme Marina Ferrari"
+          },
+          {
+            "start_char": 2494,
+            "end_char": 2500,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2502,
+            "end_char": 2506,
+            "label": "LOC",
+            "text": "Lyon"
+          },
+          {
+            "start_char": 2554,
+            "end_char": 2563,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2645,
+            "end_char": 2663,
+            "label": "LOC",
+            "text": "base du Lyon-Turin"
+          },
+          {
+            "start_char": 2761,
+            "end_char": 2764,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 2793,
+            "end_char": 2796,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 2800,
+            "end_char": 2832,
+            "label": "PER",
+            "text": "Mme Marjolaine Meynier-Millefert"
+          },
+          {
+            "start_char": 2834,
+            "end_char": 2854,
+            "label": "PER",
+            "text": "Mme Émilie Bonnivard"
+          },
+          {
+            "start_char": 2861,
+            "end_char": 2875,
+            "label": "PER",
+            "text": "Thomas Rudigoz"
+          },
+          {
+            "start_char": 2921,
+            "end_char": 2924,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2965,
+            "end_char": 2967,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3108,
+            "end_char": 3111,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 3111,
+            "end_char": 3137,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 3265,
+            "end_char": 3271,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 3492,
+            "end_char": 3524,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3528,
+            "end_char": 3559,
+            "label": "PER",
+            "text": "Jean-François Coulomme.</strong"
+          },
+          {
+            "start_char": 3592,
+            "end_char": 3618,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 3620,
+            "end_char": 3636,
+            "label": "ORG",
+            "text": "ministre délégué"
+          },
+          {
+            "start_char": 3719,
+            "end_char": 3728,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3734,
+            "end_char": 3740,
+            "label": "LOC",
+            "text": "Italie"
+          },
+          {
+            "start_char": 3846,
+            "end_char": 3864,
+            "label": "MISC",
+            "text": "traité du Quirinal"
+          },
+          {
+            "start_char": 4315,
+            "end_char": 4344,
+            "label": "PER",
+            "text": "Mme Émilie Bonnivard.</strong"
+          },
+          {
+            "start_char": 4415,
+            "end_char": 4441,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 4443,
+            "end_char": 4459,
+            "label": "ORG",
+            "text": "ministre délégué"
+          },
+          {
+            "start_char": 4547,
+            "end_char": 4566,
+            "label": "MISC",
+            "text": "budgétaires.<br><br"
+          },
+          {
+            "start_char": 4646,
+            "end_char": 4662,
+            "label": "PER",
+            "text": "Christophe Béchu"
+          },
+          {
+            "start_char": 4749,
+            "end_char": 4763,
+            "label": "PER",
+            "text": "madame Ferrari"
+          },
+          {
+            "start_char": 4894,
+            "end_char": 4914,
+            "label": "LOC",
+            "text": "Auvergne-Rhône-Alpes"
+          },
+          {
+            "start_char": 5113,
+            "end_char": 5142,
+            "label": "PER",
+            "text": "Mme Émilie Bonnivard.</strong"
+          },
+          {
+            "start_char": 5219,
+            "end_char": 5233,
+            "label": "MISC",
+            "text": "Gouvernement !"
+          },
+          {
+            "start_char": 5252,
+            "end_char": 5278,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 5280,
+            "end_char": 5296,
+            "label": "ORG",
+            "text": "ministre délégué"
+          },
+          {
+            "start_char": 5374,
+            "end_char": 5403,
+            "label": "PER",
+            "text": "Mme Émilie Bonnivard.</strong"
+          },
+          {
+            "start_char": 5409,
+            "end_char": 5414,
+            "label": "LOC",
+            "text": "Alpes"
+          },
+          {
+            "start_char": 5452,
+            "end_char": 5478,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 5480,
+            "end_char": 5496,
+            "label": "ORG",
+            "text": "ministre délégué"
+          },
+          {
+            "start_char": 5559,
+            "end_char": 5563,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5818,
+            "end_char": 5834,
+            "label": "MISC",
+            "text": "réaliser.<br><br"
+          },
+          {
+            "start_char": 6066,
+            "end_char": 6096,
+            "label": "PER",
+            "text": "Philippe Vigier.</strong> Très"
+          },
+          {
+            "start_char": 6122,
+            "end_char": 6148,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 6150,
+            "end_char": 6166,
+            "label": "ORG",
+            "text": "ministre délégué"
+          },
+          {
+            "start_char": 6263,
+            "end_char": 6305,
+            "label": "PER",
+            "text": "Mme Marie-Charlotte Garin.</strong> Trente"
+          },
+          {
+            "start_char": 6336,
+            "end_char": 6362,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 6364,
+            "end_char": 6380,
+            "label": "ORG",
+            "text": "ministre délégué"
+          },
+          {
+            "start_char": 6590,
+            "end_char": 6602,
+            "label": "ORG",
+            "text": "Dem.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 39,
+            "sentiment": "4 stars",
+            "score": 0.23884181678295135
+          },
+          {
+            "begin_char": 39,
+            "end_char": 98,
+            "sentiment": "3 stars",
+            "score": 0.270620733499527
+          },
+          {
+            "begin_char": 99,
+            "end_char": 178,
+            "sentiment": "5 stars",
+            "score": 0.23068857192993164
+          },
+          {
+            "begin_char": 179,
+            "end_char": 278,
+            "sentiment": "3 stars",
+            "score": 0.321180522441864
+          },
+          {
+            "begin_char": 278,
+            "end_char": 565,
+            "sentiment": "5 stars",
+            "score": 0.4384118318557739
+          },
+          {
+            "begin_char": 565,
+            "end_char": 725,
+            "sentiment": "5 stars",
+            "score": 0.4994601011276245
+          },
+          {
+            "begin_char": 726,
+            "end_char": 792,
+            "sentiment": "4 stars",
+            "score": 0.3300899267196655
+          },
+          {
+            "begin_char": 793,
+            "end_char": 808,
+            "sentiment": "5 stars",
+            "score": 0.29983454942703247
+          },
+          {
+            "begin_char": 808,
+            "end_char": 854,
+            "sentiment": "4 stars",
+            "score": 0.30272793769836426
+          },
+          {
+            "begin_char": 855,
+            "end_char": 979,
+            "sentiment": "5 stars",
+            "score": 0.3042517304420471
+          },
+          {
+            "begin_char": 980,
+            "end_char": 1187,
+            "sentiment": "4 stars",
+            "score": 0.40920326113700867
+          },
+          {
+            "begin_char": 1188,
+            "end_char": 1947,
+            "sentiment": "3 stars",
+            "score": 0.37640243768692017
+          },
+          {
+            "begin_char": 1948,
+            "end_char": 1956,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 1956,
+            "end_char": 2007,
+            "sentiment": "3 stars",
+            "score": 0.31009551882743835
+          },
+          {
+            "begin_char": 2008,
+            "end_char": 2026,
+            "sentiment": "1 star",
+            "score": 0.3038966655731201
+          },
+          {
+            "begin_char": 2026,
+            "end_char": 2061,
+            "sentiment": "3 stars",
+            "score": 0.252717524766922
+          },
+          {
+            "begin_char": 2062,
+            "end_char": 2176,
+            "sentiment": "1 star",
+            "score": 0.47773832082748413
+          },
+          {
+            "begin_char": 2177,
+            "end_char": 2373,
+            "sentiment": "5 stars",
+            "score": 0.6230194568634033
+          },
+          {
+            "begin_char": 2374,
+            "end_char": 2524,
+            "sentiment": "4 stars",
+            "score": 0.43350696563720703
+          },
+          {
+            "begin_char": 2524,
+            "end_char": 2715,
+            "sentiment": "4 stars",
+            "score": 0.29284021258354187
+          },
+          {
+            "begin_char": 2716,
+            "end_char": 2832,
+            "sentiment": "4 stars",
+            "score": 0.3329717516899109
+          },
+          {
+            "begin_char": 2832,
+            "end_char": 2939,
+            "sentiment": "4 stars",
+            "score": 0.36085081100463867
+          },
+          {
+            "begin_char": 2940,
+            "end_char": 3138,
+            "sentiment": "4 stars",
+            "score": 0.3516586422920227
+          },
+          {
+            "begin_char": 3139,
+            "end_char": 3147,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 3148,
+            "end_char": 3155,
+            "sentiment": "4 stars",
+            "score": 0.3199934959411621
+          },
+          {
+            "begin_char": 3156,
+            "end_char": 3260,
+            "sentiment": "4 stars",
+            "score": 0.37332937121391296
+          },
+          {
+            "begin_char": 3261,
+            "end_char": 3560,
+            "sentiment": "5 stars",
+            "score": 0.5407801270484924
+          },
+          {
+            "begin_char": 3561,
+            "end_char": 3638,
+            "sentiment": "1 star",
+            "score": 0.49005988240242004
+          },
+          {
+            "begin_char": 3639,
+            "end_char": 3916,
+            "sentiment": "5 stars",
+            "score": 0.4421082139015198
+          },
+          {
+            "begin_char": 3917,
+            "end_char": 4064,
+            "sentiment": "4 stars",
+            "score": 0.44598937034606934
+          },
+          {
+            "begin_char": 4064,
+            "end_char": 4345,
+            "sentiment": "5 stars",
+            "score": 0.5244631171226501
+          },
+          {
+            "begin_char": 4346,
+            "end_char": 4396,
+            "sentiment": "1 star",
+            "score": 0.5510090589523315
+          },
+          {
+            "begin_char": 4396,
+            "end_char": 4461,
+            "sentiment": "3 stars",
+            "score": 0.3126049041748047
+          },
+          {
+            "begin_char": 4462,
+            "end_char": 4686,
+            "sentiment": "3 stars",
+            "score": 0.328004390001297
+          },
+          {
+            "begin_char": 4687,
+            "end_char": 4828,
+            "sentiment": "4 stars",
+            "score": 0.39417365193367004
+          },
+          {
+            "begin_char": 4829,
+            "end_char": 5075,
+            "sentiment": "4 stars",
+            "score": 0.38842058181762695
+          },
+          {
+            "begin_char": 5076,
+            "end_char": 5143,
+            "sentiment": "4 stars",
+            "score": 0.3227902352809906
+          },
+          {
+            "begin_char": 5144,
+            "end_char": 5233,
+            "sentiment": "5 stars",
+            "score": 0.4680675268173218
+          },
+          {
+            "begin_char": 5233,
+            "end_char": 5298,
+            "sentiment": "3 stars",
+            "score": 0.3126049041748047
+          },
+          {
+            "begin_char": 5299,
+            "end_char": 5404,
+            "sentiment": "3 stars",
+            "score": 0.37593895196914673
+          },
+          {
+            "begin_char": 5405,
+            "end_char": 5433,
+            "sentiment": "5 stars",
+            "score": 0.38675835728645325
+          },
+          {
+            "begin_char": 5433,
+            "end_char": 5498,
+            "sentiment": "3 stars",
+            "score": 0.3126049041748047
+          },
+          {
+            "begin_char": 5499,
+            "end_char": 5835,
+            "sentiment": "5 stars",
+            "score": 0.43247368931770325
+          },
+          {
+            "begin_char": 5835,
+            "end_char": 5840,
+            "sentiment": "5 stars",
+            "score": 0.2556189298629761
+          },
+          {
+            "begin_char": 5841,
+            "end_char": 5908,
+            "sentiment": "4 stars",
+            "score": 0.3643016815185547
+          },
+          {
+            "begin_char": 5909,
+            "end_char": 6103,
+            "sentiment": "5 stars",
+            "score": 0.548238217830658
+          },
+          {
+            "begin_char": 6103,
+            "end_char": 6168,
+            "sentiment": "3 stars",
+            "score": 0.3126049041748047
+          },
+          {
+            "begin_char": 6169,
+            "end_char": 6182,
+            "sentiment": "4 stars",
+            "score": 0.29729679226875305
+          },
+          {
+            "begin_char": 6183,
+            "end_char": 6317,
+            "sentiment": "2 stars",
+            "score": 0.3251875340938568
+          },
+          {
+            "begin_char": 6317,
+            "end_char": 6381,
+            "sentiment": "3 stars",
+            "score": 0.29349955916404724
+          },
+          {
+            "begin_char": 6382,
+            "end_char": 6508,
+            "sentiment": "5 stars",
+            "score": 0.48416656255722046
+          },
+          {
+            "begin_char": 6509,
+            "end_char": 6603,
+            "sentiment": "3 stars",
+            "score": 0.31719085574150085
+          },
+          {
+            "begin_char": 6604,
+            "end_char": 6607,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-27",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-27",
+        "pageJO": "3106",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

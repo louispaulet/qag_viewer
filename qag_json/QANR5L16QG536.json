@@ -1,0 +1,635 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG536",
+    "identifiant": {
+      "numero": "536",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "hôtellerie et restauration",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PART DE L'ALIMENTATION BIOLOGIQUE DANS LA RESTAURATION COLLECTIVE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA607619",
+        "mandatRef": "PM796890"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Agriculture et souveraineté alimentaire",
+      "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Agriculture et souveraineté alimentaire",
+          "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PART DE L'ALIMENTATION BIOLOGIQUE DANS LA RESTAURATION COLLECTIVE <a name=PG9></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Paul Molac.<br><br><strong>M. Paul Molac. </strong>Ma question s'adresse au ministre de l'agriculture.<br><br>Je souhaite vous interroger sur la mise en place de 50 % de produits sous signe de qualité, dont 20 % de produits biologiques, dans la restauration collective. La première mention de cette volonté date de 2015, grâce à notre ancienne collègue Brigitte Allain ; elle a été réaffirmée dans la loi Notre – loi portant nouvelle organisation territoriale de la République – et dans la loi Egalim – loi pour l’équilibre des relations commerciales dans le secteur agricole et alimentaire et une alimentation saine, durable et accessible à tous – de 2018 ainsi que dans le plan Ambition bio de 2022. Toutefois, les chiffres montrent que nous sommes très éloignés des objectifs de la loi : un rapport de la Cour des comptes indique que la restauration collective en est seulement à 6,6 % de produits issus de l'agriculture biologique.<br><br>Vous connaissez les difficultés actuelles de la filière biologique : de nombreuses conversions ont eu lieu ces dernières années pour alimenter la restauration collective ; cependant, le marché subit une légère baisse que la restauration collective ne compense pas. On voit ainsi régulièrement des produits biologiques vendus dans la filière conventionnelle. Dans la filière de la viande de porc, dans laquelle il y avait autrefois un déficit d'offre, jusqu'à 30 % de la production est actuellement déclassée en conventionnel, ce qui a provoqué des difficultés dans certaines exploitations déjà converties et un arrêt des conversions. Nous avons assisté au même phénomène dans la filière œufs ainsi que chez les laitiers.<br><br>Monsieur le ministre, nous savons que la restauration collective est un véritable levier pour amorcer des changements de pratique et structurer des filières locales d'alimentation. La Cour des comptes regrette notamment l'absence de campagnes de promotion et le manque d'accompagnement des producteurs et des décideurs. Ma question est simple : quelles politiques comptez-vous lancer pour atteindre les objectifs de la loi ? <i>(Applaudissements sur les bancs du groupe LIOT.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’agriculture et de la souveraineté alimentaire.<br><br><strong>M. Marc Fesneau,</strong><i> ministre de l’agriculture et de la souveraineté alimentaire. </i>Merci de votre question qui me permet de faire un point sur la volonté – que nous partageons tous – de faire monter en gamme certaines productions, notamment dans la restauration dite hors domicile, en particulier dans la restauration collective scolaire. Effectivement, la filière biologique souffre à la fois de difficultés conjoncturelles et de problèmes plus structurels.<br><br>Difficultés conjoncturelles, parce que l'inflation rend difficile, pour certains de nos concitoyens, le choix de s'orienter vers la filière biologique ainsi que vers d'autres filières de qualité. Ce problème de l'inflation se pose aussi pour certaines collectivités territoriales. Ceci étant, ayant moi-même été maire et président d'un EPCI – établissement public de coopération intercommunale –, je rappelle qu'il ne m'appartient pas de juger des politiques des collectivités territoriales. Vous savez aussi bien que moi que certaines font le choix de s'avancer plus que d'autres. En revanche, vous avez raison de dire que nous avons besoin de les accompagner. Nous l'avons fait, d'abord, au moyen des projets alimentaires territoriaux, les PAT : en effet, s'il existe parfois des difficultés budgétaires, il existe parfois aussi une difficulté à structurer l'offre du monde agricole ; les PAT sont une façon d'y parvenir, et ils ont été puissamment aidés dans le cadre du plan France relance. Sans doute faudra-t-il envisager de prolonger la dynamique territoriale qu'ils ont enclenchée pour les produits biologiques et les produits en circuit court.<br><br>Par ailleurs, nous travaillons avec la filière sur les questions plus structurelles. On voit bien que la stagnation de la consommation date de 2021 plutôt que de 2022 : l'inflation n'est donc pas le seul élément en jeu. Comme je l'ai dit devant les assises de l'agriculture biologique, l'Agence bio – Agence française pour le développement et la promotion de l'agriculture biologique – travaille à répondre à la demande, exprimée notamment par la filière porc de votre région, de nouveaux moyens de communication. Sans doute faut-il cibler différemment celle-ci pour parler à la fois de la pratique et du lien avec le territoire des circuits biologiques.<br><br><strong>M. Julien Dive.</strong> Exactement !<br><br><strong>M. Marc Fesneau,</strong><i> ministre . </i>Enfin, nous continuons notre politique au travers de la politique agricole commune, premier comme deuxième pilier.<br><br><strong>M. Loïc Prud'homme.</strong> C'est de la com' ! Il faut du cash !<br><br><strong>Mme la présidente. </strong>La parole est à M. Paul Molac.<br><br><strong>M. Paul Molac. </strong>Merci, monsieur le ministre, pour vos explications. N'oublions pas la restauration qui dépend de l'État, en particulier celle des hôpitaux, pour laquelle il y a vraiment des efforts à faire. Les collectivités locales sont souvent en avance par rapport à l'État. <i>(Applaudissements sur les bancs du groupe LIOT.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 27,
+            "label": "MISC",
+            "text": "PART"
+          },
+          {
+            "start_char": 33,
+            "end_char": 56,
+            "label": "ORG",
+            "text": "ALIMENTATION BIOLOGIQUE"
+          },
+          {
+            "start_char": 65,
+            "end_char": 88,
+            "label": "ORG",
+            "text": "RESTAURATION COLLECTIVE"
+          },
+          {
+            "start_char": 97,
+            "end_char": 104,
+            "label": "LOC",
+            "text": "PG9></a"
+          },
+          {
+            "start_char": 122,
+            "end_char": 125,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 166,
+            "end_char": 168,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 169,
+            "end_char": 195,
+            "label": "PER",
+            "text": "Paul Molac.<br><br><strong"
+          },
+          {
+            "start_char": 199,
+            "end_char": 209,
+            "label": "PER",
+            "text": "Paul Molac"
+          },
+          {
+            "start_char": 259,
+            "end_char": 278,
+            "label": "ORG",
+            "text": "agriculture.<br><br"
+          },
+          {
+            "start_char": 522,
+            "end_char": 537,
+            "label": "PER",
+            "text": "Brigitte Allain"
+          },
+          {
+            "start_char": 574,
+            "end_char": 582,
+            "label": "MISC",
+            "text": "Notre – "
+          },
+          {
+            "start_char": 635,
+            "end_char": 647,
+            "label": "LOC",
+            "text": "République –"
+          },
+          {
+            "start_char": 663,
+            "end_char": 669,
+            "label": "MISC",
+            "text": "Egalim"
+          },
+          {
+            "start_char": 681,
+            "end_char": 683,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 849,
+            "end_char": 869,
+            "label": "MISC",
+            "text": "Ambition bio de 2022"
+          },
+          {
+            "start_char": 977,
+            "end_char": 993,
+            "label": "ORG",
+            "text": "Cour des comptes"
+          },
+          {
+            "start_char": 1093,
+            "end_char": 1111,
+            "label": "ORG",
+            "text": "biologique.<br><br"
+          },
+          {
+            "start_char": 1823,
+            "end_char": 1840,
+            "label": "MISC",
+            "text": "laitiers.<br><br>"
+          },
+          {
+            "start_char": 1840,
+            "end_char": 1848,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2024,
+            "end_char": 2049,
+            "label": "ORG",
+            "text": "Cour des comptes regrette"
+          },
+          {
+            "start_char": 2310,
+            "end_char": 2335,
+            "label": "ORG",
+            "text": "LIOT.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2336,
+            "end_char": 2339,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2380,
+            "end_char": 2382,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2398,
+            "end_char": 2400,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2462,
+            "end_char": 2469,
+            "label": "PER",
+            "text": "M. Marc"
+          },
+          {
+            "start_char": 2503,
+            "end_char": 2505,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2556,
+            "end_char": 2561,
+            "label": "LOC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 3275,
+            "end_char": 3279,
+            "label": "ORG",
+            "text": "EPCI"
+          },
+          {
+            "start_char": 3681,
+            "end_char": 3684,
+            "label": "ORG",
+            "text": "PAT"
+          },
+          {
+            "start_char": 3830,
+            "end_char": 3833,
+            "label": "ORG",
+            "text": "PAT"
+          },
+          {
+            "start_char": 3913,
+            "end_char": 3924,
+            "label": "LOC",
+            "text": "plan France"
+          },
+          {
+            "start_char": 4085,
+            "end_char": 4098,
+            "label": "MISC",
+            "text": "court.<br><br"
+          },
+          {
+            "start_char": 4387,
+            "end_char": 4438,
+            "label": "ORG",
+            "text": "Agence bio – Agence française pour le développement"
+          },
+          {
+            "start_char": 4772,
+            "end_char": 4806,
+            "label": "PER",
+            "text": "Julien Dive.</strong> Exactement !"
+          },
+          {
+            "start_char": 4825,
+            "end_char": 4829,
+            "label": "PER",
+            "text": "Marc"
+          },
+          {
+            "start_char": 5009,
+            "end_char": 5023,
+            "label": "PER",
+            "text": "homme.</strong"
+          },
+          {
+            "start_char": 5077,
+            "end_char": 5080,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5121,
+            "end_char": 5123,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 5124,
+            "end_char": 5150,
+            "label": "PER",
+            "text": "Paul Molac.<br><br><strong"
+          },
+          {
+            "start_char": 5154,
+            "end_char": 5164,
+            "label": "PER",
+            "text": "Paul Molac"
+          },
+          {
+            "start_char": 5175,
+            "end_char": 5180,
+            "label": "LOC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 5274,
+            "end_char": 5278,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5431,
+            "end_char": 5435,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5482,
+            "end_char": 5495,
+            "label": "LOC",
+            "text": "LIOT.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 140,
+            "sentiment": "3 stars",
+            "score": 0.3507106304168701
+          },
+          {
+            "begin_char": 141,
+            "end_char": 210,
+            "sentiment": "4 stars",
+            "score": 0.2643786370754242
+          },
+          {
+            "begin_char": 211,
+            "end_char": 438,
+            "sentiment": "5 stars",
+            "score": 0.3565646708011627
+          },
+          {
+            "begin_char": 439,
+            "end_char": 539,
+            "sentiment": "3 stars",
+            "score": 0.2944841682910919
+          },
+          {
+            "begin_char": 540,
+            "end_char": 582,
+            "sentiment": "5 stars",
+            "score": 0.41040945053100586
+          },
+          {
+            "begin_char": 582,
+            "end_char": 870,
+            "sentiment": "5 stars",
+            "score": 0.5354499816894531
+          },
+          {
+            "begin_char": 871,
+            "end_char": 1112,
+            "sentiment": "2 stars",
+            "score": 0.4158073961734772
+          },
+          {
+            "begin_char": 1112,
+            "end_char": 1283,
+            "sentiment": "5 stars",
+            "score": 0.4218983054161072
+          },
+          {
+            "begin_char": 1284,
+            "end_char": 1376,
+            "sentiment": "3 stars",
+            "score": 0.5710769295692444
+          },
+          {
+            "begin_char": 1377,
+            "end_char": 1469,
+            "sentiment": "5 stars",
+            "score": 0.3672198951244354
+          },
+          {
+            "begin_char": 1470,
+            "end_char": 1745,
+            "sentiment": "3 stars",
+            "score": 0.394247829914093
+          },
+          {
+            "begin_char": 1746,
+            "end_char": 1840,
+            "sentiment": "3 stars",
+            "score": 0.29049357771873474
+          },
+          {
+            "begin_char": 1840,
+            "end_char": 2020,
+            "sentiment": "5 stars",
+            "score": 0.5245306491851807
+          },
+          {
+            "begin_char": 2021,
+            "end_char": 2159,
+            "sentiment": "3 stars",
+            "score": 0.465067982673645
+          },
+          {
+            "begin_char": 2160,
+            "end_char": 2264,
+            "sentiment": "5 stars",
+            "score": 0.24572692811489105
+          },
+          {
+            "begin_char": 2265,
+            "end_char": 2354,
+            "sentiment": "4 stars",
+            "score": 0.3018896281719208
+          },
+          {
+            "begin_char": 2355,
+            "end_char": 2490,
+            "sentiment": "4 stars",
+            "score": 0.2993431091308594
+          },
+          {
+            "begin_char": 2491,
+            "end_char": 2551,
+            "sentiment": "4 stars",
+            "score": 0.325288861989975
+          },
+          {
+            "begin_char": 2552,
+            "end_char": 2556,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2556,
+            "end_char": 2811,
+            "sentiment": "5 stars",
+            "score": 0.430534303188324
+          },
+          {
+            "begin_char": 2812,
+            "end_char": 3134,
+            "sentiment": "3 stars",
+            "score": 0.5221386551856995
+          },
+          {
+            "begin_char": 3135,
+            "end_char": 3219,
+            "sentiment": "4 stars",
+            "score": 0.33148279786109924
+          },
+          {
+            "begin_char": 3220,
+            "end_char": 3241,
+            "sentiment": "4 stars",
+            "score": 0.3454718291759491
+          },
+          {
+            "begin_char": 3241,
+            "end_char": 3242,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 3242,
+            "end_char": 3334,
+            "sentiment": "4 stars",
+            "score": 0.257815957069397
+          },
+          {
+            "begin_char": 3334,
+            "end_char": 3430,
+            "sentiment": "4 stars",
+            "score": 0.31231924891471863
+          },
+          {
+            "begin_char": 3431,
+            "end_char": 3520,
+            "sentiment": "5 stars",
+            "score": 0.493906170129776
+          },
+          {
+            "begin_char": 3521,
+            "end_char": 3600,
+            "sentiment": "3 stars",
+            "score": 0.2535019814968109
+          },
+          {
+            "begin_char": 3601,
+            "end_char": 3825,
+            "sentiment": "3 stars",
+            "score": 0.4037594497203827
+          },
+          {
+            "begin_char": 3826,
+            "end_char": 3933,
+            "sentiment": "5 stars",
+            "score": 0.44292163848876953
+          },
+          {
+            "begin_char": 3934,
+            "end_char": 4099,
+            "sentiment": "3 stars",
+            "score": 0.3320973217487335
+          },
+          {
+            "begin_char": 4099,
+            "end_char": 4183,
+            "sentiment": "4 stars",
+            "score": 0.4416974186897278
+          },
+          {
+            "begin_char": 4184,
+            "end_char": 4318,
+            "sentiment": "3 stars",
+            "score": 0.2974676191806793
+          },
+          {
+            "begin_char": 4319,
+            "end_char": 4612,
+            "sentiment": "5 stars",
+            "score": 0.5303435325622559
+          },
+          {
+            "begin_char": 4613,
+            "end_char": 4861,
+            "sentiment": "4 stars",
+            "score": 0.36864128708839417
+          },
+          {
+            "begin_char": 4862,
+            "end_char": 5024,
+            "sentiment": "4 stars",
+            "score": 0.38384851813316345
+          },
+          {
+            "begin_char": 5025,
+            "end_char": 5043,
+            "sentiment": "1 star",
+            "score": 0.60329669713974
+          },
+          {
+            "begin_char": 5044,
+            "end_char": 5061,
+            "sentiment": "1 star",
+            "score": 0.23451589047908783
+          },
+          {
+            "begin_char": 5061,
+            "end_char": 5095,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 5096,
+            "end_char": 5165,
+            "sentiment": "4 stars",
+            "score": 0.2643786370754242
+          },
+          {
+            "begin_char": 5166,
+            "end_char": 5175,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5175,
+            "end_char": 5226,
+            "sentiment": "5 stars",
+            "score": 0.454112708568573
+          },
+          {
+            "begin_char": 5227,
+            "end_char": 5365,
+            "sentiment": "5 stars",
+            "score": 0.38448941707611084
+          },
+          {
+            "begin_char": 5366,
+            "end_char": 5436,
+            "sentiment": "4 stars",
+            "score": 0.3680066466331482
+          },
+          {
+            "begin_char": 5437,
+            "end_char": 5500,
+            "sentiment": "3 stars",
+            "score": 0.30293819308280945
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-08",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-08",
+        "pageJO": "955",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,713 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG241",
+    "identifiant": {
+      "numero": "241",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "établissements de santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Situation de la pédiatrie en France"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794038",
+        "mandatRef": "PM796668"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Organisation territoriale et professions de santé",
+      "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Organisation territoriale et professions de santé",
+          "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION DE LA PÉDIATRIE EN FRANCE <a name=PG19></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Yannick Neuder.<br><br><strong>M. Yannick Neuder. </strong>Ma question s'adresse à monsieur le ministre de la santé et de la prévention.<br><br>« Aujourd'hui, la pédiatrie est à genoux et les enfants sont en danger. » Je me joins à ces mots adressés il y a quelques jours au Président de la République par plus de 7 000 soignants. Depuis quelques semaines, nos services pédiatriques sont saturés. Les bébés sont transférés à plusieurs dizaines de kilomètres de chez eux et, tous les jours, des soins importants sont déprogrammés. Le problème ne date pas d'hier. Que sont devenus les préconisations de la mission flash de l'Igas, l'Inspection générale des affaires sociales, publiées en 2019, et son rapport paru en 2021 ?<br><br><strong>M. Jean-Pierre Vigier.</strong> Eh oui ! Disparus !<br><br><strong>M. Yannick Neuder. </strong>Je vous les redonne. Avez-vous amélioré la gestion du plan hivernal et la gestion des alertes ? La réponse est non. Avez-vous facilité le recrutement et la fidélisation des infirmiers et puéricultrices en soins critiques ? La réponse est toujours non. Pourtant, vous avez les réponses. Alors que les représentants de la pédiatrie vous exhortent à des mesures structurelles, votre budget, adopté à coups de 49.3, avec son Ondam – objectif national de dépenses d'assurance maladie – insincère, vous contraint à des mesurettes malheureusement provisoires, comme la hausse de la rémunération de nuit qui augmentera – tenez-vous bien, mes chers collègues – de 1,79 euro par heure. Rien n'a été annoncé sur la revalorisation de la permanence des soins. Par ailleurs, votre calendrier est déconnecté de la réalité et de l'urgence avec des assises de la pédiatrie prévues au printemps.<br><br>Les soignants, confrontés à une situation critique provoquée par une épidémie pourtant habituelle, ont lancé un cri désespéré. Monsieur le ministre, alors que vous allez bientôt faire accepter aux Français l'idée que désormais, les enfants ne pourront plus être soignés correctement, ma question est simple : l'État va-t-il reconnaître sa responsabilité dans les crises que nous traversons au lieu de la faire porter aux soignants ? <i>(Applaudissements sur les bancs du groupe LR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée chargée de l’organisation territoriale et des professions de santé.<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée chargée de l’organisation territoriale et des professions de santé. </i>Monsieur le député, vous avez souhaité interroger le Gouvernement sur la situation des services de réanimation en pédiatrie. Comme d'autres de vos collègues, vous faites allusion à l'épidémie de bronchiolite qui touche le territoire métropolitain depuis quelques semaines. Je ne vous laisserai pas dire que les enfants sont en danger : tous les enfants sont pris en charge et soignés.<br><br>La situation de la pédiatrie est l'un des symptômes de la crise de l'hôpital que nous connaissons et une démonstration supplémentaire de la nécessité de transformer en profondeur notre système de soins. C'est notre volonté, avec le ministre François Braun, dans le cadre du Conseil national de la refondation. Devant la situation tendue de la pédiatrie, le Gouvernement s'est mobilisé sans tarder. Le ministre de la santé s'est rendu dans plusieurs services de pédiatrie. Des réunions de crise ont été tenues et des comités de suivi régulier ont été instaurés, en particulier dans les régions les plus touchées.<br><br>Par ailleurs, le Gouvernement a tenu à rappeler des éléments essentiels d'information et d'orientation des familles. Nous attendons une mobilisation solidaire de l'ensemble des professionnels de santé, médicaux et non médicaux, en ville et à l'hôpital. Pour soutenir cette mobilisation, le Gouvernement maintient les outils créés cet été, comme la rémunération supplémentaire de 15 euros pour les soins non programmés ou le recours à la télémédecine.<br><br><strong>M. Jean-Paul Lecoq.</strong> Il y a des soignants disponibles et formés, payés par nos impôts. Réintégrez-les !<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée . </i>En complément, face aux difficultés traversées par le secteur, le Gouvernement a décidé de prendre de nouvelles mesures pour renforcer encore le soutien à la pédiatrie et à l'hôpital en valorisant mieux le travail de nuit et en soutenant la technicité du travail des soignants dans les services de soins critiques, notamment en pédiatrie. Les ARS – agences régionales de santé – ont également reçu comme consigne de mobiliser les fonds d'intervention régionaux, dits FIR, pour répondre de manière ciblée aux tensions qui pourraient survenir dans certains établissements ou services. Enfin, nous tiendrons au printemps prochain des assises de la santé de l'enfant, ayant vocation à construire des solutions structurelles pour la filière. Vous voyez, monsieur le député, nous sommes entièrement mobilisés sur ce sujet clé.<br><br><strong>Mme la présidente. </strong>La parole est à M. Yannick Neuder.<br><br><strong>M. Yannick Neuder. </strong>Les services de pédiatrie brûlent et vous proposez de la télémédecine ! Vos réponses sont à la hauteur de vos auditions en commission : vous faites de la communication sans répondre sur le fond. Nos hôpitaux sont en danger. <i>(Applaudissements sur les bancs du groupe LR.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 39,
+            "end_char": 48,
+            "label": "ORG",
+            "text": "PÉDIATRIE"
+          },
+          {
+            "start_char": 52,
+            "end_char": 58,
+            "label": "LOC",
+            "text": "FRANCE"
+          },
+          {
+            "start_char": 93,
+            "end_char": 96,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 137,
+            "end_char": 139,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 140,
+            "end_char": 170,
+            "label": "PER",
+            "text": "Yannick Neuder.<br><br><strong"
+          },
+          {
+            "start_char": 174,
+            "end_char": 188,
+            "label": "PER",
+            "text": "Yannick Neuder"
+          },
+          {
+            "start_char": 265,
+            "end_char": 283,
+            "label": "MISC",
+            "text": "prévention.<br><br"
+          },
+          {
+            "start_char": 415,
+            "end_char": 441,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 763,
+            "end_char": 767,
+            "label": "LOC",
+            "text": "Igas"
+          },
+          {
+            "start_char": 771,
+            "end_char": 812,
+            "label": "ORG",
+            "text": "Inspection générale des affaires sociales"
+          },
+          {
+            "start_char": 880,
+            "end_char": 907,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier.</strong"
+          },
+          {
+            "start_char": 918,
+            "end_char": 926,
+            "label": "PER",
+            "text": "Disparus"
+          },
+          {
+            "start_char": 947,
+            "end_char": 961,
+            "label": "PER",
+            "text": "Yannick Neuder"
+          },
+          {
+            "start_char": 993,
+            "end_char": 997,
+            "label": "LOC",
+            "text": "Avez"
+          },
+          {
+            "start_char": 1088,
+            "end_char": 1092,
+            "label": "LOC",
+            "text": "Avez"
+          },
+          {
+            "start_char": 1393,
+            "end_char": 1400,
+            "label": "MISC",
+            "text": "Ondam –"
+          },
+          {
+            "start_char": 1839,
+            "end_char": 1856,
+            "label": "MISC",
+            "text": "printemps.<br><br"
+          },
+          {
+            "start_char": 1984,
+            "end_char": 1992,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2054,
+            "end_char": 2062,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2168,
+            "end_char": 2172,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2335,
+            "end_char": 2358,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2359,
+            "end_char": 2362,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2403,
+            "end_char": 2406,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2439,
+            "end_char": 2441,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2511,
+            "end_char": 2527,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 2578,
+            "end_char": 2580,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2639,
+            "end_char": 2647,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2692,
+            "end_char": 2704,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3015,
+            "end_char": 3030,
+            "label": "MISC",
+            "text": "soignés.<br><br"
+          },
+          {
+            "start_char": 3272,
+            "end_char": 3286,
+            "label": "PER",
+            "text": "François Braun"
+          },
+          {
+            "start_char": 3305,
+            "end_char": 3339,
+            "label": "ORG",
+            "text": "Conseil national de la refondation"
+          },
+          {
+            "start_char": 3388,
+            "end_char": 3400,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3633,
+            "end_char": 3649,
+            "label": "MISC",
+            "text": "touchées.<br><br"
+          },
+          {
+            "start_char": 3667,
+            "end_char": 3679,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3940,
+            "end_char": 3952,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4119,
+            "end_char": 4143,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 4211,
+            "end_char": 4221,
+            "label": "PER",
+            "text": "Réintégrez"
+          },
+          {
+            "start_char": 4243,
+            "end_char": 4259,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 4371,
+            "end_char": 4383,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4648,
+            "end_char": 4651,
+            "label": "MISC",
+            "text": "ARS"
+          },
+          {
+            "start_char": 4772,
+            "end_char": 4775,
+            "label": "ORG",
+            "text": "FIR"
+          },
+          {
+            "start_char": 5141,
+            "end_char": 5144,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5185,
+            "end_char": 5187,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 5188,
+            "end_char": 5218,
+            "label": "PER",
+            "text": "Yannick Neuder.<br><br><strong"
+          },
+          {
+            "start_char": 5222,
+            "end_char": 5236,
+            "label": "PER",
+            "text": "Yannick Neuder"
+          },
+          {
+            "start_char": 5319,
+            "end_char": 5322,
+            "label": "PER",
+            "text": "Vos"
+          },
+          {
+            "start_char": 5516,
+            "end_char": 5527,
+            "label": "ORG",
+            "text": "LR.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 111,
+            "sentiment": "3 stars",
+            "score": 0.31768956780433655
+          },
+          {
+            "begin_char": 112,
+            "end_char": 189,
+            "sentiment": "4 stars",
+            "score": 0.2569047510623932
+          },
+          {
+            "begin_char": 190,
+            "end_char": 357,
+            "sentiment": "5 stars",
+            "score": 0.2297697812318802
+          },
+          {
+            "begin_char": 358,
+            "end_char": 470,
+            "sentiment": "5 stars",
+            "score": 0.6129419207572937
+          },
+          {
+            "begin_char": 471,
+            "end_char": 536,
+            "sentiment": "2 stars",
+            "score": 0.3218175768852234
+          },
+          {
+            "begin_char": 537,
+            "end_char": 669,
+            "sentiment": "3 stars",
+            "score": 0.2599606513977051
+          },
+          {
+            "begin_char": 670,
+            "end_char": 701,
+            "sentiment": "2 stars",
+            "score": 0.3662448227405548
+          },
+          {
+            "begin_char": 702,
+            "end_char": 908,
+            "sentiment": "3 stars",
+            "score": 0.2898874580860138
+          },
+          {
+            "begin_char": 909,
+            "end_char": 917,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 918,
+            "end_char": 928,
+            "sentiment": "2 stars",
+            "score": 0.2842959761619568
+          },
+          {
+            "begin_char": 928,
+            "end_char": 962,
+            "sentiment": "3 stars",
+            "score": 0.277818888425827
+          },
+          {
+            "begin_char": 963,
+            "end_char": 972,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 972,
+            "end_char": 992,
+            "sentiment": "5 stars",
+            "score": 0.3301144242286682
+          },
+          {
+            "begin_char": 993,
+            "end_char": 1067,
+            "sentiment": "4 stars",
+            "score": 0.35676640272140503
+          },
+          {
+            "begin_char": 1068,
+            "end_char": 1087,
+            "sentiment": "1 star",
+            "score": 0.305822491645813
+          },
+          {
+            "begin_char": 1088,
+            "end_char": 1194,
+            "sentiment": "4 stars",
+            "score": 0.2915244400501251
+          },
+          {
+            "begin_char": 1195,
+            "end_char": 1223,
+            "sentiment": "1 star",
+            "score": 0.5267000794410706
+          },
+          {
+            "begin_char": 1224,
+            "end_char": 1257,
+            "sentiment": "1 star",
+            "score": 0.42772847414016724
+          },
+          {
+            "begin_char": 1258,
+            "end_char": 1647,
+            "sentiment": "2 stars",
+            "score": 0.3319409191608429
+          },
+          {
+            "begin_char": 1648,
+            "end_char": 1718,
+            "sentiment": "2 stars",
+            "score": 0.2502463459968567
+          },
+          {
+            "begin_char": 1719,
+            "end_char": 1857,
+            "sentiment": "2 stars",
+            "score": 0.44703570008277893
+          },
+          {
+            "begin_char": 1857,
+            "end_char": 1983,
+            "sentiment": "5 stars",
+            "score": 0.4703795611858368
+          },
+          {
+            "begin_char": 1984,
+            "end_char": 2289,
+            "sentiment": "5 stars",
+            "score": 0.45203301310539246
+          },
+          {
+            "begin_char": 2290,
+            "end_char": 2377,
+            "sentiment": "4 stars",
+            "score": 0.309841126203537
+          },
+          {
+            "begin_char": 2378,
+            "end_char": 2548,
+            "sentiment": "3 stars",
+            "score": 0.30307215452194214
+          },
+          {
+            "begin_char": 2549,
+            "end_char": 2557,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 2558,
+            "end_char": 2634,
+            "sentiment": "4 stars",
+            "score": 0.32783234119415283
+          },
+          {
+            "begin_char": 2635,
+            "end_char": 2639,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2639,
+            "end_char": 2763,
+            "sentiment": "4 stars",
+            "score": 0.36802104115486145
+          },
+          {
+            "begin_char": 2764,
+            "end_char": 2911,
+            "sentiment": "4 stars",
+            "score": 0.28399455547332764
+          },
+          {
+            "begin_char": 2912,
+            "end_char": 3031,
+            "sentiment": "5 stars",
+            "score": 0.5291671752929688
+          },
+          {
+            "begin_char": 3031,
+            "end_char": 3233,
+            "sentiment": "5 stars",
+            "score": 0.5382107496261597
+          },
+          {
+            "begin_char": 3234,
+            "end_char": 3340,
+            "sentiment": "4 stars",
+            "score": 0.3788277804851532
+          },
+          {
+            "begin_char": 3341,
+            "end_char": 3428,
+            "sentiment": "4 stars",
+            "score": 0.42174798250198364
+          },
+          {
+            "begin_char": 3429,
+            "end_char": 3502,
+            "sentiment": "4 stars",
+            "score": 0.3170481324195862
+          },
+          {
+            "begin_char": 3503,
+            "end_char": 3766,
+            "sentiment": "4 stars",
+            "score": 0.4418451488018036
+          },
+          {
+            "begin_char": 3767,
+            "end_char": 3902,
+            "sentiment": "5 stars",
+            "score": 0.5425252318382263
+          },
+          {
+            "begin_char": 3903,
+            "end_char": 4144,
+            "sentiment": "4 stars",
+            "score": 0.37298789620399475
+          },
+          {
+            "begin_char": 4145,
+            "end_char": 4210,
+            "sentiment": "5 stars",
+            "score": 0.4015243351459503
+          },
+          {
+            "begin_char": 4211,
+            "end_char": 4221,
+            "sentiment": "5 stars",
+            "score": 0.3642366826534271
+          },
+          {
+            "begin_char": 4221,
+            "end_char": 4227,
+            "sentiment": "5 stars",
+            "score": 0.2848226726055145
+          },
+          {
+            "begin_char": 4227,
+            "end_char": 4280,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 4281,
+            "end_char": 4300,
+            "sentiment": "4 stars",
+            "score": 0.33328285813331604
+          },
+          {
+            "begin_char": 4301,
+            "end_char": 4305,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4305,
+            "end_char": 4643,
+            "sentiment": "5 stars",
+            "score": 0.4792296290397644
+          },
+          {
+            "begin_char": 4644,
+            "end_char": 4682,
+            "sentiment": "4 stars",
+            "score": 0.34273213148117065
+          },
+          {
+            "begin_char": 4682,
+            "end_char": 4887,
+            "sentiment": "4 stars",
+            "score": 0.41976141929626465
+          },
+          {
+            "begin_char": 4888,
+            "end_char": 5041,
+            "sentiment": "5 stars",
+            "score": 0.4228575825691223
+          },
+          {
+            "begin_char": 5042,
+            "end_char": 5159,
+            "sentiment": "5 stars",
+            "score": 0.4685277044773102
+          },
+          {
+            "begin_char": 5160,
+            "end_char": 5237,
+            "sentiment": "4 stars",
+            "score": 0.2569047510623932
+          },
+          {
+            "begin_char": 5238,
+            "end_char": 5247,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5247,
+            "end_char": 5318,
+            "sentiment": "1 star",
+            "score": 0.7987368702888489
+          },
+          {
+            "begin_char": 5319,
+            "end_char": 5441,
+            "sentiment": "5 stars",
+            "score": 0.22969619929790497
+          },
+          {
+            "begin_char": 5442,
+            "end_char": 5470,
+            "sentiment": "5 stars",
+            "score": 0.3155311942100525
+          },
+          {
+            "begin_char": 5471,
+            "end_char": 5532,
+            "sentiment": "3 stars",
+            "score": 0.293785035610199
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-03",
+        "pageJO": "5121",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

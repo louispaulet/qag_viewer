@@ -1,0 +1,737 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG228",
+    "identifiant": {
+      "numero": "228",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "établissements de santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Situation des urgences pédiatriques"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721896",
+        "mandatRef": "PM797664"
+      },
+      "groupe": {
+        "organeRef": "PO800502",
+        "abrege": "GDR-NUPES",
+        "developpe": "Gauche démocrate et républicaine - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Organisation territoriale et professions de santé",
+      "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Organisation territoriale et professions de santé",
+          "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION DES URGENCES PÉDIATRIQUES <a name=PG6></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Elsa Faucillon.<br><br><strong>Mme Elsa Faucillon. </strong>« Aujourd'hui, en France, on soigne mal les enfants […]. » Ce ne sont pas mes mots, évidemment, mais ceux de la cheffe du service pédiatrique de l'hôpital Necker. Ils sont aussi ceux de 7 000 soignants et associations de patients qui alertaient l'État le 22 octobre sur « une inaction politique irresponsable ».<br><br>L'épidémie de bronchiolite illustre – et révèle à certains – la crise qui secoue les services pédiatriques depuis de nombreuses années. Les équipes soignantes redoublent d'efforts pour assurer une prise en charge décente des enfants malades. Il n'empêche que, malgré tous ces efforts, ça craque. La pédiatrie craque, l'hôpital craque, les personnels craquent.<br><br>Pour cacher le mal qui est fait, par vos logiques, à notre santé publique, vous culpabilisez les parents en leur intimant de ne pas se rendre aux urgences pour une bronchiolite. <i>(Applaudissements sur plusieurs bancs des groupes GDR-NUPES et LFI-NUPES.)</i> Il faudrait privilégier le pédiatre ou le 15. Or, bien souvent, ni l'un ni l'autre ne sont disponibles.<br><br>Je sais que vous avez reçu, hier, le collectif de soignants. Ses membres disent avoir été écoutés. Cependant, sachant comment vous nous traitez lorsque vous prétendez nous écouter, ici à l'Assemblée, nous avons du mal à être rassurés.<br><br>Les 400 millions d'euros débloqués sont très loin d'être à la hauteur de la situation d'urgence vitale à laquelle est confronté notre hôpital public. À titre de comparaison, c'est le montant que vous avez débloqué pour la ristourne sur le prix à la pompe, prévue jusqu'au 15 novembre.<br><br>Je ferai donc mienne l'expression d'une médecin : « Vous écopez le Titanic avec une cuillère en plastique. » Le Titanic, c'est la santé publique que vous faites couler en asséchant les finances de la sécurité sociale <i>(Applaudissements sur les bancs des groupes GDR-NUPES, LFI-NUPES et Écolo-NUPES ainsi que sur plusieurs bancs du groupe SOC)</i>, en poursuivant la baisse de son financement par les cotisations sociales ; c'est aussi votre 49.3 sur le projet de loi de financement de la sécurité sociale, le PLFSS, ainsi que la baisse honteuse de l'Ondam, l'objectif national de dépenses d’assurance maladie, au moment même où des enfants sont transférés, faute de places et de personnels.<br><br>Enfin, vous annoncez au bout du compte que vous prendrez des engagements au printemps alors même que nous examinerons d'ici à quelques jours la seconde partie du budget. Alors, monsieur le ministre, sauvez les urgences pédiatriques pour sauver les enfants. C'est vital. <i>(Mmes et MM. les députés des groupes GDR-NUPES, LFI-NUPES et Écolo-NUPES applaudissent. – Plusieurs députés du groupe LFI-NUPES se lèvent.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée chargée de l’organisation territoriale et des professions de santé.<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée chargée de l’organisation territoriale et des professions de santé. </i>Permettez-moi tout d'abord de rendre hommage aux soignants qui, cette année, font face partout en France, depuis plusieurs semaines voire plusieurs mois, à une épidémie de bronchiolite précoce, dans des conditions difficiles liées à un manque de personnel.<br><br><strong>M. Jean-Paul Lecoq.</strong> Réintégrez les soignants !<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée . </i>Certains établissements d'Île-de-France ont été contraints, vous l'avez signalé, de recourir à des transferts de jeunes patients vers des services de réanimation pédiatrique d'autres régions. Je tiens à souligner la solidarité que nous avons observée entre les hôpitaux ainsi que l'engagement du Gouvernement à accompagner les parents dont les enfants sont transférés.<br><br>Nombre d'entre nous ici sont parents. Nous savons très bien qu'une bronchiolite, c'est vraiment très impressionnant mais que, dans 98 % des cas, c'est bénin. Par conséquent, oui, nous le répétons, avant de se déplacer aux urgences, il faut appeler son pédiatre ou son médecin et composer le 15. Ce n'est pas infantiliser les parents que de tenir ce discours. C'est ainsi que nous devons travailler.<br><br>Face à cette situation, le Gouvernement s'est mobilisé sans tarder, tout d'abord en recevant les professionnels de santé, bien avant le 22 octobre, et en se rendant dans les services de pédiatrie. Vous l'avez rappelé, le ministre François Braun a convoqué une réunion de crise. En outre, des comités de suivi sont mis en place afin de suivre l'évolution du secteur des soins pédiatriques.<br><br>Le plan de 400 millions d'euros a été annoncé hier. Je vous rappelle qu'il intervient alors que, depuis 2017, nous avons augmenté l'Ondam de 53 milliards. Comment pouvez-vous donc estimer que nous ne prenons pas en considération la santé de nos concitoyens ?<br><br>Il faut également souligner la mobilisation solidaire de l'ensemble des professionnels de santé médicaux et non médicaux, en ville et à l'hôpital. Nous maintenons les outils qui ont bien fonctionné cet été, comme la rémunération supplémentaire de 15 euros pour les soins non programmés ou le recours facilité à la télémédecine.<br><br><strong>M. Jean-Paul Lecoq.</strong> Pourquoi ne réintégrez-vous pas les soignants ? L'Espagne l'a fait depuis longtemps !<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée . </i>Ce plan de 400 millions représente un effort sans précédent qui se traduira par la majoration de la rémunération des heures de nuit, qui était attendue par les professionnels, jusqu'au 31 mars, ainsi que par l'élargissement de la prime d'exercice en soins critiques, jusqu'ici attribuée aux infirmiers en soins généraux et aux cadres de santé et désormais accordée également aux autres soignants affectés dans les services de soins critiques.<br> <p>",
+        "entities": [
+          {
+            "start_char": 37,
+            "end_char": 58,
+            "label": "MISC",
+            "text": "URGENCES PÉDIATRIQUES"
+          },
+          {
+            "start_char": 67,
+            "end_char": 74,
+            "label": "PER",
+            "text": "PG6></a"
+          },
+          {
+            "start_char": 92,
+            "end_char": 95,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 136,
+            "end_char": 170,
+            "label": "PER",
+            "text": "Mme Elsa Faucillon.<br><br><strong"
+          },
+          {
+            "start_char": 171,
+            "end_char": 189,
+            "label": "PER",
+            "text": "Mme Elsa Faucillon"
+          },
+          {
+            "start_char": 218,
+            "end_char": 224,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 347,
+            "end_char": 361,
+            "label": "LOC",
+            "text": "hôpital Necker"
+          },
+          {
+            "start_char": 447,
+            "end_char": 451,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 869,
+            "end_char": 885,
+            "label": "MISC",
+            "text": "craquent.<br><br"
+          },
+          {
+            "start_char": 1117,
+            "end_char": 1126,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 1130,
+            "end_char": 1144,
+            "label": "MISC",
+            "text": "LFI-NUPES.)</i"
+          },
+          {
+            "start_char": 1446,
+            "end_char": 1455,
+            "label": "ORG",
+            "text": "Assemblée"
+          },
+          {
+            "start_char": 1482,
+            "end_char": 1498,
+            "label": "MISC",
+            "text": "rassurés.<br><br"
+          },
+          {
+            "start_char": 1774,
+            "end_char": 1791,
+            "label": "MISC",
+            "text": "novembre.<br><br>"
+          },
+          {
+            "start_char": 1858,
+            "end_char": 1865,
+            "label": "MISC",
+            "text": "Titanic"
+          },
+          {
+            "start_char": 1903,
+            "end_char": 1910,
+            "label": "MISC",
+            "text": "Titanic"
+          },
+          {
+            "start_char": 2009,
+            "end_char": 2028,
+            "label": "MISC",
+            "text": "i>(Applaudissements"
+          },
+          {
+            "start_char": 2055,
+            "end_char": 2064,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2066,
+            "end_char": 2075,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2079,
+            "end_char": 2090,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2131,
+            "end_char": 2138,
+            "label": "ORG",
+            "text": "SOC)</i"
+          },
+          {
+            "start_char": 2302,
+            "end_char": 2307,
+            "label": "ORG",
+            "text": "PLFSS"
+          },
+          {
+            "start_char": 2343,
+            "end_char": 2348,
+            "label": "LOC",
+            "text": "Ondam"
+          },
+          {
+            "start_char": 2472,
+            "end_char": 2490,
+            "label": "MISC",
+            "text": "personnels.<br><br"
+          },
+          {
+            "start_char": 2773,
+            "end_char": 2776,
+            "label": "MISC",
+            "text": "MM."
+          },
+          {
+            "start_char": 2801,
+            "end_char": 2810,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2812,
+            "end_char": 2821,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2825,
+            "end_char": 2836,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2882,
+            "end_char": 2891,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2923,
+            "end_char": 2926,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2967,
+            "end_char": 2970,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3003,
+            "end_char": 3005,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3075,
+            "end_char": 3091,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 3142,
+            "end_char": 3144,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3203,
+            "end_char": 3212,
+            "label": "LOC",
+            "text": "Permettez"
+          },
+          {
+            "start_char": 3301,
+            "end_char": 3307,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 3478,
+            "end_char": 3503,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong>"
+          },
+          {
+            "start_char": 3504,
+            "end_char": 3514,
+            "label": "PER",
+            "text": "Réintégrez"
+          },
+          {
+            "start_char": 3546,
+            "end_char": 3562,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 3634,
+            "end_char": 3647,
+            "label": "LOC",
+            "text": "Île-de-France"
+          },
+          {
+            "start_char": 3904,
+            "end_char": 3916,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3965,
+            "end_char": 3983,
+            "label": "MISC",
+            "text": "transférés.<br><br"
+          },
+          {
+            "start_char": 4371,
+            "end_char": 4390,
+            "label": "MISC",
+            "text": "travailler.<br><br>"
+          },
+          {
+            "start_char": 4417,
+            "end_char": 4429,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4620,
+            "end_char": 4634,
+            "label": "PER",
+            "text": "François Braun"
+          },
+          {
+            "start_char": 4765,
+            "end_char": 4785,
+            "label": "MISC",
+            "text": "pédiatriques.<br><br"
+          },
+          {
+            "start_char": 5398,
+            "end_char": 5422,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 5472,
+            "end_char": 5481,
+            "label": "LOC",
+            "text": "L'Espagne"
+          },
+          {
+            "start_char": 5525,
+            "end_char": 5541,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 6019,
+            "end_char": 6037,
+            "label": "MISC",
+            "text": "critiques.<br> <p>"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 58,
+            "sentiment": "4 stars",
+            "score": 0.3327313959598541
+          },
+          {
+            "begin_char": 59,
+            "end_char": 110,
+            "sentiment": "3 stars",
+            "score": 0.30006399750709534
+          },
+          {
+            "begin_char": 111,
+            "end_char": 190,
+            "sentiment": "3 stars",
+            "score": 0.24767480790615082
+          },
+          {
+            "begin_char": 191,
+            "end_char": 258,
+            "sentiment": "2 stars",
+            "score": 0.2716127634048462
+          },
+          {
+            "begin_char": 259,
+            "end_char": 362,
+            "sentiment": "5 stars",
+            "score": 0.22501391172409058
+          },
+          {
+            "begin_char": 363,
+            "end_char": 519,
+            "sentiment": "5 stars",
+            "score": 0.3282777965068817
+          },
+          {
+            "begin_char": 519,
+            "end_char": 654,
+            "sentiment": "4 stars",
+            "score": 0.4133492112159729
+          },
+          {
+            "begin_char": 655,
+            "end_char": 760,
+            "sentiment": "4 stars",
+            "score": 0.4159618318080902
+          },
+          {
+            "begin_char": 761,
+            "end_char": 814,
+            "sentiment": "2 stars",
+            "score": 0.48714107275009155
+          },
+          {
+            "begin_char": 815,
+            "end_char": 1063,
+            "sentiment": "1 star",
+            "score": 0.6102290749549866
+          },
+          {
+            "begin_char": 1064,
+            "end_char": 1145,
+            "sentiment": "3 stars",
+            "score": 0.30893662571907043
+          },
+          {
+            "begin_char": 1146,
+            "end_char": 1191,
+            "sentiment": "3 stars",
+            "score": 0.30278339982032776
+          },
+          {
+            "begin_char": 1192,
+            "end_char": 1257,
+            "sentiment": "2 stars",
+            "score": 0.38583725690841675
+          },
+          {
+            "begin_char": 1257,
+            "end_char": 1317,
+            "sentiment": "1 star",
+            "score": 0.31913116574287415
+          },
+          {
+            "begin_char": 1318,
+            "end_char": 1355,
+            "sentiment": "4 stars",
+            "score": 0.311341255903244
+          },
+          {
+            "begin_char": 1356,
+            "end_char": 1648,
+            "sentiment": "2 stars",
+            "score": 0.4587479531764984
+          },
+          {
+            "begin_char": 1649,
+            "end_char": 1791,
+            "sentiment": "3 stars",
+            "score": 0.2650633454322815
+          },
+          {
+            "begin_char": 1791,
+            "end_char": 1897,
+            "sentiment": "1 star",
+            "score": 0.6580990552902222
+          },
+          {
+            "begin_char": 1897,
+            "end_char": 1898,
+            "sentiment": "4 stars",
+            "score": 0.2884850800037384
+          },
+          {
+            "begin_char": 1898,
+            "end_char": 1899,
+            "sentiment": "4 stars",
+            "score": 0.25504377484321594
+          },
+          {
+            "begin_char": 1900,
+            "end_char": 1910,
+            "sentiment": "5 stars",
+            "score": 0.2284718155860901
+          },
+          {
+            "begin_char": 1910,
+            "end_char": 2215,
+            "sentiment": "3 stars",
+            "score": 0.28413569927215576
+          },
+          {
+            "begin_char": 2216,
+            "end_char": 2660,
+            "sentiment": "5 stars",
+            "score": 0.24305272102355957
+          },
+          {
+            "begin_char": 2661,
+            "end_char": 2747,
+            "sentiment": "5 stars",
+            "score": 0.4116801619529724
+          },
+          {
+            "begin_char": 2748,
+            "end_char": 2760,
+            "sentiment": "5 stars",
+            "score": 0.4946964383125305
+          },
+          {
+            "begin_char": 2761,
+            "end_char": 2851,
+            "sentiment": "5 stars",
+            "score": 0.32669973373413086
+          },
+          {
+            "begin_char": 2852,
+            "end_char": 2941,
+            "sentiment": "3 stars",
+            "score": 0.2924007475376129
+          },
+          {
+            "begin_char": 2942,
+            "end_char": 3112,
+            "sentiment": "3 stars",
+            "score": 0.30307215452194214
+          },
+          {
+            "begin_char": 3113,
+            "end_char": 3121,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 3122,
+            "end_char": 3198,
+            "sentiment": "4 stars",
+            "score": 0.32783234119415283
+          },
+          {
+            "begin_char": 3199,
+            "end_char": 3503,
+            "sentiment": "5 stars",
+            "score": 0.37374648451805115
+          },
+          {
+            "begin_char": 3504,
+            "end_char": 3530,
+            "sentiment": "5 stars",
+            "score": 0.5208311676979065
+          },
+          {
+            "begin_char": 3530,
+            "end_char": 3583,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 3584,
+            "end_char": 3603,
+            "sentiment": "4 stars",
+            "score": 0.33328285813331604
+          },
+          {
+            "begin_char": 3604,
+            "end_char": 3799,
+            "sentiment": "3 stars",
+            "score": 0.35518574714660645
+          },
+          {
+            "begin_char": 3800,
+            "end_char": 3984,
+            "sentiment": "5 stars",
+            "score": 0.5061870813369751
+          },
+          {
+            "begin_char": 3984,
+            "end_char": 4021,
+            "sentiment": "5 stars",
+            "score": 0.37400516867637634
+          },
+          {
+            "begin_char": 4022,
+            "end_char": 4141,
+            "sentiment": "3 stars",
+            "score": 0.3021186292171478
+          },
+          {
+            "begin_char": 4142,
+            "end_char": 4278,
+            "sentiment": "5 stars",
+            "score": 0.3340747654438019
+          },
+          {
+            "begin_char": 4279,
+            "end_char": 4342,
+            "sentiment": "1 star",
+            "score": 0.3771555721759796
+          },
+          {
+            "begin_char": 4343,
+            "end_char": 4390,
+            "sentiment": "5 stars",
+            "score": 0.3191346824169159
+          },
+          {
+            "begin_char": 4390,
+            "end_char": 4586,
+            "sentiment": "5 stars",
+            "score": 0.5069546699523926
+          },
+          {
+            "begin_char": 4587,
+            "end_char": 4667,
+            "sentiment": "3 stars",
+            "score": 0.2674417793750763
+          },
+          {
+            "begin_char": 4668,
+            "end_char": 4786,
+            "sentiment": "4 stars",
+            "score": 0.410526841878891
+          },
+          {
+            "begin_char": 4786,
+            "end_char": 4837,
+            "sentiment": "4 stars",
+            "score": 0.28593936562538147
+          },
+          {
+            "begin_char": 4838,
+            "end_char": 4940,
+            "sentiment": "1 star",
+            "score": 0.3984808325767517
+          },
+          {
+            "begin_char": 4941,
+            "end_char": 5044,
+            "sentiment": "1 star",
+            "score": 0.46667617559432983
+          },
+          {
+            "begin_char": 5044,
+            "end_char": 5052,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 5052,
+            "end_char": 5198,
+            "sentiment": "5 stars",
+            "score": 0.4979463815689087
+          },
+          {
+            "begin_char": 5199,
+            "end_char": 5423,
+            "sentiment": "4 stars",
+            "score": 0.38796526193618774
+          },
+          {
+            "begin_char": 5424,
+            "end_char": 5471,
+            "sentiment": "1 star",
+            "score": 0.24374540150165558
+          },
+          {
+            "begin_char": 5472,
+            "end_char": 5509,
+            "sentiment": "5 stars",
+            "score": 0.41866329312324524
+          },
+          {
+            "begin_char": 5509,
+            "end_char": 5562,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 5563,
+            "end_char": 5582,
+            "sentiment": "4 stars",
+            "score": 0.33328285813331604
+          },
+          {
+            "begin_char": 5583,
+            "end_char": 5587,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5587,
+            "end_char": 6037,
+            "sentiment": "5 stars",
+            "score": 0.454658180475235
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-03",
+        "pageJO": "5111",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

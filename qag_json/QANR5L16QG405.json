@@ -1,0 +1,437 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG405",
+    "identifiant": {
+      "numero": "405",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "institutions sociales et médico sociales",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "SITUATION FINANCIÈRE DES EHPAD"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795278",
+        "mandatRef": "PM797397"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Solidarités, autonomie et personnes handicapées",
+      "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Solidarités, autonomie et personnes handicapées",
+          "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION FINANCIÈRE DES EHPAD <a name=PG19></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Béatrice Bellamy.<br><br><strong>Mme Béatrice Bellamy. </strong>Ma question s'adresse à M. le ministre des solidarités, de l'autonomie et des personnes handicapées.<br><br>Le vieillissement de la population, le grand âge et le bien vieillir sont des enjeux essentiels pour la société. Mon département, la Vendée, a la chance de compter de nombreux Ehpad territoriaux. Comme les élus d'autres territoires, je reçois des alertes sur leur capacité financière à boucler le budget de 2022 et à préparer celui de 2023. Les difficultés des établissements se traduisent par un creusement des déficits et qui entraîne leur fragilisation. Les élus locaux, les responsables des CCAS – centres communaux d'action sociale – et les équipes des Ehpad s'alarment de cette situation. Ils sont confrontés à des choix en partie inacceptables : diminuer les coûts, augmenter les tarifs, réduire le personnel, baisser la qualité de l'accueil et des soins.<br><br>Cette situation a de multiples causes. Les difficultés de recrutement obligent les établissements à geler des places et à recourir à l'intérim. La masse salariale a nettement augmenté en raison des mesures prévues par le Ségur de la santé et de la hausse, sans compensation totale, du point d'indice. L'inflation se répercute sur l'ensemble des dépenses de fonctionnement et de vie, matin, midi, soir et nuit. Par ailleurs les Ehpad territoriaux et associatifs ne disposent que de très faibles leviers financiers.<br><br>Chers collègues, personne dans cette assemblée ne peut accepter la détérioration des conditions d'accueil et le bien-être de nos aînés. Monsieur le ministre, je connais les avancées réalisées au cours du précédent quinquennat, ainsi que votre mobilisation sur le sujet. Pourriez-vous indiquer à la représentation nationale quelles sont vos pistes pour garantir aux Ehpad territoriaux une limitation des déficits et une meilleure visibilité financière ? <i>(Applaudissements sur les bancs du groupe HOR. – Mme Marina Ferrari applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre des solidarités, de l'autonomie et des personnes handicapées.<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre des solidarités, de l'autonomie et des personnes handicapées. </i>Dès les premiers jours de mon action, j'ai eu à cœur d'apporter des réponses aux difficultés que connaissent les Ehpad. J'ai toujours privilégié un dialogue constant, franc et transparent avec l'ensemble des acteurs d'un secteur pourvoyeur en emplois et qui fournit un service si essentiel à l'ensemble de nos concitoyens.<br><br>Comme vous l'avez dit, depuis le début du quinquennat, nous agissons pour faire face aux difficultés de recrutement et aux problèmes d'inflation. Nous avons notamment étendu à tous les Ehpad le bénéfice du bouclier tarifaire sur l'énergie ; dans le cadre du PLFSS – projet de loi de financement de la sécurité sociale –, nous leur avons alloué 440 millions d'euros de crédits supplémentaires pour financer le coût de l'inflation et l'augmentation du point d'indice. En outre, le PLFSS pour 2023 prévoit une augmentation de près de 5,1 % de leur budget, soit 700 millions d'euros supplémentaires, et il ouvre des crédits au titre de la revalorisation des salaires. Il encadre également l'intérim et engage une dynamique de recrutement, avec l'embauche de 50 000 professionnels de soin.<br><br>Dans le cadre du volet « bien vieillir » du Conseil national de la refondation, nous continuerons à aborder la question, mais de manière bien plus large : nous ne pourrons pas résoudre durablement les difficultés si nous ne prenons pas en considération tous les aspects du problème, en particulier la formation, les parcours professionnels et la qualité de vie au travail de tous les professionnels des Ehpad.<br><br>Conscient des difficultés du secteur, j'ai demandé aux agences régionales de santé de rester particulièrement attentives aux problèmes que rencontrent les établissements et de n'en laisser aucun sur le bord de la route.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 47,
+            "label": "MISC",
+            "text": "SITUATION FINANCIÈRE DES"
+          },
+          {
+            "start_char": 88,
+            "end_char": 91,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 132,
+            "end_char": 144,
+            "label": "PER",
+            "text": "Mme Béatrice"
+          },
+          {
+            "start_char": 169,
+            "end_char": 189,
+            "label": "PER",
+            "text": "Mme Béatrice Bellamy"
+          },
+          {
+            "start_char": 224,
+            "end_char": 226,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 288,
+            "end_char": 307,
+            "label": "MISC",
+            "text": "handicapées.<br><br"
+          },
+          {
+            "start_char": 484,
+            "end_char": 489,
+            "label": "MISC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 803,
+            "end_char": 807,
+            "label": "MISC",
+            "text": "CCAS"
+          },
+          {
+            "start_char": 866,
+            "end_char": 871,
+            "label": "MISC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 1064,
+            "end_char": 1077,
+            "label": "MISC",
+            "text": "soins.<br><br"
+          },
+          {
+            "start_char": 1299,
+            "end_char": 1332,
+            "label": "ORG",
+            "text": "Ségur de la santé et de la hausse"
+          },
+          {
+            "start_char": 1505,
+            "end_char": 1510,
+            "label": "MISC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 1580,
+            "end_char": 1598,
+            "label": "MISC",
+            "text": "financiers.<br><br"
+          },
+          {
+            "start_char": 1735,
+            "end_char": 1743,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1964,
+            "end_char": 1969,
+            "label": "MISC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 2097,
+            "end_char": 2100,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 2104,
+            "end_char": 2122,
+            "label": "PER",
+            "text": "Mme Marina Ferrari"
+          },
+          {
+            "start_char": 2164,
+            "end_char": 2167,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2208,
+            "end_char": 2210,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2300,
+            "end_char": 2318,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 2526,
+            "end_char": 2531,
+            "label": "MISC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 2723,
+            "end_char": 2742,
+            "label": "MISC",
+            "text": "concitoyens.<br><br"
+          },
+          {
+            "start_char": 2928,
+            "end_char": 2933,
+            "label": "MISC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 3001,
+            "end_char": 3006,
+            "label": "ORG",
+            "text": "PLFSS"
+          },
+          {
+            "start_char": 3222,
+            "end_char": 3227,
+            "label": "ORG",
+            "text": "PLFSS"
+          },
+          {
+            "start_char": 3522,
+            "end_char": 3557,
+            "label": "MISC",
+            "text": "soin.<br><br>Dans le cadre du volet"
+          },
+          {
+            "start_char": 3579,
+            "end_char": 3613,
+            "label": "ORG",
+            "text": "Conseil national de la refondation"
+          },
+          {
+            "start_char": 3938,
+            "end_char": 3951,
+            "label": "ORG",
+            "text": "Ehpad.<br><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 106,
+            "sentiment": "3 stars",
+            "score": 0.35999596118927
+          },
+          {
+            "begin_char": 107,
+            "end_char": 190,
+            "sentiment": "3 stars",
+            "score": 0.2523439824581146
+          },
+          {
+            "begin_char": 191,
+            "end_char": 308,
+            "sentiment": "4 stars",
+            "score": 0.3197033107280731
+          },
+          {
+            "begin_char": 308,
+            "end_char": 420,
+            "sentiment": "5 stars",
+            "score": 0.48472151160240173
+          },
+          {
+            "begin_char": 421,
+            "end_char": 503,
+            "sentiment": "4 stars",
+            "score": 0.40029436349868774
+          },
+          {
+            "begin_char": 504,
+            "end_char": 648,
+            "sentiment": "5 stars",
+            "score": 0.3273729383945465
+          },
+          {
+            "begin_char": 649,
+            "end_char": 764,
+            "sentiment": "3 stars",
+            "score": 0.3973925709724426
+          },
+          {
+            "begin_char": 765,
+            "end_char": 902,
+            "sentiment": "4 stars",
+            "score": 0.356317400932312
+          },
+          {
+            "begin_char": 903,
+            "end_char": 1116,
+            "sentiment": "3 stars",
+            "score": 0.3072349429130554
+          },
+          {
+            "begin_char": 1117,
+            "end_char": 1221,
+            "sentiment": "3 stars",
+            "score": 0.37460342049598694
+          },
+          {
+            "begin_char": 1222,
+            "end_char": 1378,
+            "sentiment": "4 stars",
+            "score": 0.39204421639442444
+          },
+          {
+            "begin_char": 1379,
+            "end_char": 1487,
+            "sentiment": "3 stars",
+            "score": 0.2894555926322937
+          },
+          {
+            "begin_char": 1488,
+            "end_char": 1734,
+            "sentiment": "3 stars",
+            "score": 0.2709601819515228
+          },
+          {
+            "begin_char": 1735,
+            "end_char": 1868,
+            "sentiment": "5 stars",
+            "score": 0.47520971298217773
+          },
+          {
+            "begin_char": 1869,
+            "end_char": 2051,
+            "sentiment": "4 stars",
+            "score": 0.32143640518188477
+          },
+          {
+            "begin_char": 2052,
+            "end_char": 2101,
+            "sentiment": "4 stars",
+            "score": 0.31456977128982544
+          },
+          {
+            "begin_char": 2102,
+            "end_char": 2182,
+            "sentiment": "4 stars",
+            "score": 0.34661421179771423
+          },
+          {
+            "begin_char": 2183,
+            "end_char": 2337,
+            "sentiment": "4 stars",
+            "score": 0.31987905502319336
+          },
+          {
+            "begin_char": 2338,
+            "end_char": 2408,
+            "sentiment": "4 stars",
+            "score": 0.35842639207839966
+          },
+          {
+            "begin_char": 2409,
+            "end_char": 2532,
+            "sentiment": "5 stars",
+            "score": 0.45309603214263916
+          },
+          {
+            "begin_char": 2533,
+            "end_char": 2743,
+            "sentiment": "5 stars",
+            "score": 0.6742848753929138
+          },
+          {
+            "begin_char": 2743,
+            "end_char": 2888,
+            "sentiment": "5 stars",
+            "score": 0.47245165705680847
+          },
+          {
+            "begin_char": 2889,
+            "end_char": 2983,
+            "sentiment": "5 stars",
+            "score": 0.4382251799106598
+          },
+          {
+            "begin_char": 2984,
+            "end_char": 3208,
+            "sentiment": "4 stars",
+            "score": 0.3634513318538666
+          },
+          {
+            "begin_char": 3209,
+            "end_char": 3406,
+            "sentiment": "4 stars",
+            "score": 0.4349753260612488
+          },
+          {
+            "begin_char": 3407,
+            "end_char": 3952,
+            "sentiment": "4 stars",
+            "score": 0.37387990951538086
+          },
+          {
+            "begin_char": 3952,
+            "end_char": 3988,
+            "sentiment": "4 stars",
+            "score": 0.3081679940223694
+          },
+          {
+            "begin_char": 3988,
+            "end_char": 4179,
+            "sentiment": "5 stars",
+            "score": 0.3777537941932678
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-15",
+        "pageJO": "7023",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

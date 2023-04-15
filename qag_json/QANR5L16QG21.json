@@ -1,0 +1,737 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG21",
+    "identifiant": {
+      "numero": "21",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "outre-mer",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Algues Sargasses"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720992",
+        "mandatRef": "PM797697"
+      },
+      "groupe": {
+        "organeRef": "PO800502",
+        "abrege": "GDR-NUPES",
+        "developpe": "Gauche démocrate et républicaine - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Outre-mer",
+      "developpe": "Ministère auprès du ministre de l’intérieur et des outre-mer, chargé des outre-mer"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Outre-mer",
+          "developpe": "Ministère auprès du ministre de l’intérieur et des outre-mer, chargé des outre-mer"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ALGUES SARGASSES <a name=PG21></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jiovanny William.<br><br><strong>M. Jiovanny William. </strong>Ma question s'adresse à M. le ministre en charge des outre-mer.<br><br>Voilà dix ans que la Guadeloupe et la Martinique luttent contre le fléau des algues sargasses, ces algues qui viennent s'échouer sur nos côtes et dont les émanations d'hydrogène sulfuré entraînent la dégradation des appareils électroménagers, des habitations et, surtout, de la santé de nos concitoyens. Ces territoires souffrent, mais ils luttent ! Les marins-pêcheurs, les travailleurs du secteur du tourisme, les commerçants, les riverains et les collectivités font tout leur possible pour réduire l'impact de ce danger désormais quotidien. Dernièrement, une étude du centre hospitalier universitaire de la Martinique, publiée dans une revue scientifique, a révélé un risque accru de prééclampsie chez les femmes enceintes vivant à proximité des zones touchées par ce gaz mortel !<br><br>En se contentant d'allouer des fonds dérisoires aux collectivités pour ramasser ces algues sur nos côtes, le Gouvernement n'apporte aucune solution adaptée à l'ampleur du phénomène. <i>(Applaudissements sur les bancs des groupes GDR-NUPES et sur de nombreux bancs des groupes LFI-NUPES, SOC et Écolo-NUPES.)</i> Le plan sargasses II, imposé par le Gouvernement à la fin du dernier quinquennat, évoque certes l'environnement mais il parle aussi de concertation relative, de laquelle sont exclus les élus locaux et les professionnels de la mer et du tourisme !<br><br>Qu'en est-il de votre politique de protection de la santé de la population, singulièrement celle des familles qui font le choix de donner la vie ? Si je pose cette question, c'est parce qu'aucun de nos compatriotes n'acceptera de nouveau scandale sanitaire ! <i>(Applaudissements sur les bancs des groupes GDR-NUPES, LFI-NUPES, SOC et Écolo-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué auprès du ministre de l’intérieur et des outre-mer, chargé des outre-mer.<br><br><strong>M. Jean-François Carenco,</strong><i> ministre délégué auprès du ministre de l’intérieur et des outre-mer, chargé des outre-mer. </i>Je vous remercie, monsieur le député, de cette question en effet très importante pour la Martinique mais aussi pour la Guadeloupe. Le Gouvernement a conscience de l'ampleur de ce phénomène et de ses impacts nombreux sur la biodiversité, sur le tourisme et sur le cadre de vie ; surtout, il suscite maintenant des inquiétudes quant aux effets des émanations de gaz sur la santé. Une récente étude du centre hospitalier universitaire de la Martinique a montré, comme vous l'avez souligné, une possible précocité des prééclampsies chez les femmes enceintes exposées aux émanations de sargasses, mais n'a pas noté d'aggravation du phénomène. Il s'agit de premiers résultats que nous regardons avec la plus grande attention et qu'il conviendra de comparer à d'autres études. Les ministères concernés se penchent actuellement, en lien avec les agences régionales de santé (ARS) et les préfets, sur les éventuelles mesures à prendre en urgence, notamment en matière d'information des femmes enceintes et de mise en protection.<br><br>En outre, le plan sargasses II, doté dès cette année de 36 millions d'euros,…<br><br><strong>M. Jean-Paul Lecoq.</strong> Ce n'est pas assez !<br><br><strong>M. Jean-François Carenco,</strong><i> ministre délégué . </i>…devrait permettre de lutter contre ce phénomène qui concerne tout le bassin Caraïbe et qui constitue une nouvelle preuve des effets du changement climatique.<br><br><strong>Une députée du groupe LFI-NUPES .</strong> Et les causes de la pollution ?<br><br><strong>M. Jean-François Carenco,</strong><i> ministre délégué . </i>Le plan prévoit notamment 6 millions d'euros en faveur de la recherche, financement centré sur l'étude des effets des émanations de gaz sur la santé humaine ; il consacre également des crédits significatifs à l'équipement des collectivités pour récupérer les algues en mer, du ramassage rapide au stockage dans des conditions sécurisées, le tout en surveillant la qualité de l'air. Mais le sujet n'est pas abouti et il nous faut encore y travailler. C'est notamment pour cela qu'à la demande du ministre de l'intérieur et des outre-mer, Gérald Darmanin, je me rendrai en Martinique et en Guadeloupe dès la semaine prochaine. Je vous sais vigilant sur cette question et vous avez raison. Je vous promets que nous y travaillerons ensemble. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Jiovanny William.<br><br><strong>M. Jiovanny William. </strong>Monsieur le ministre délégué, je vous rappellerai que, jadis, le ministre Nicolas Hulot disait la même chose que vous au nom du Gouvernement. <i>(Applaudissements sur les bancs du groupe GDR-NUPES.)</i> Il avait même annoncé que les algues sargasses seraient ramassées en quarante-huit heures. Aujourd'hui, où en sommes-nous ?<br><br><strong>M. Rémy Rebeyrotte.</strong> En tout cas, il doit être chez les NUPES !<br><br><strong>M. Jiovanny William. </strong>Les gens souffrent, et nous vous attendons sur ce sujet. (Vifs applaudissements sur les bancs des groupes GDR-NUPES, LFI-NUPES, SOC et Écolo-NUPES.)<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 39,
+            "label": "MISC",
+            "text": "ALGUES SARGASSES"
+          },
+          {
+            "start_char": 74,
+            "end_char": 77,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 118,
+            "end_char": 153,
+            "label": "PER",
+            "text": "M. Jiovanny William.<br><br><strong"
+          },
+          {
+            "start_char": 157,
+            "end_char": 173,
+            "label": "PER",
+            "text": "Jiovanny William"
+          },
+          {
+            "start_char": 208,
+            "end_char": 210,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 276,
+            "end_char": 286,
+            "label": "LOC",
+            "text": "Guadeloupe"
+          },
+          {
+            "start_char": 293,
+            "end_char": 303,
+            "label": "LOC",
+            "text": "Martinique"
+          },
+          {
+            "start_char": 865,
+            "end_char": 875,
+            "label": "LOC",
+            "text": "Martinique"
+          },
+          {
+            "start_char": 1155,
+            "end_char": 1167,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1275,
+            "end_char": 1284,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 1322,
+            "end_char": 1331,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1333,
+            "end_char": 1336,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 1340,
+            "end_char": 1356,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i"
+          },
+          {
+            "start_char": 1376,
+            "end_char": 1378,
+            "label": "LOC",
+            "text": "II"
+          },
+          {
+            "start_char": 1394,
+            "end_char": 1406,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1918,
+            "end_char": 1927,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 1929,
+            "end_char": 1938,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1940,
+            "end_char": 1943,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 1947,
+            "end_char": 1979,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1980,
+            "end_char": 1983,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2024,
+            "end_char": 2026,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2069,
+            "end_char": 2071,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2136,
+            "end_char": 2152,
+            "label": "PER",
+            "text": "M. Jean-François"
+          },
+          {
+            "start_char": 2213,
+            "end_char": 2215,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2358,
+            "end_char": 2368,
+            "label": "LOC",
+            "text": "Martinique"
+          },
+          {
+            "start_char": 2388,
+            "end_char": 2398,
+            "label": "LOC",
+            "text": "Guadeloupe"
+          },
+          {
+            "start_char": 2403,
+            "end_char": 2415,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2707,
+            "end_char": 2717,
+            "label": "LOC",
+            "text": "Martinique"
+          },
+          {
+            "start_char": 3136,
+            "end_char": 3139,
+            "label": "MISC",
+            "text": "ARS"
+          },
+          {
+            "start_char": 3277,
+            "end_char": 3295,
+            "label": "MISC",
+            "text": "protection.<br><br"
+          },
+          {
+            "start_char": 3324,
+            "end_char": 3326,
+            "label": "MISC",
+            "text": "II"
+          },
+          {
+            "start_char": 3392,
+            "end_char": 3416,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 3454,
+            "end_char": 3470,
+            "label": "PER",
+            "text": "M. Jean-François"
+          },
+          {
+            "start_char": 3511,
+            "end_char": 3515,
+            "label": "MISC",
+            "text": "</i>"
+          },
+          {
+            "start_char": 3585,
+            "end_char": 3599,
+            "label": "LOC",
+            "text": "bassin Caraïbe"
+          },
+          {
+            "start_char": 3711,
+            "end_char": 3720,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3779,
+            "end_char": 3795,
+            "label": "PER",
+            "text": "M. Jean-François"
+          },
+          {
+            "start_char": 4377,
+            "end_char": 4392,
+            "label": "PER",
+            "text": "Gérald Darmanin"
+          },
+          {
+            "start_char": 4411,
+            "end_char": 4421,
+            "label": "LOC",
+            "text": "Martinique"
+          },
+          {
+            "start_char": 4428,
+            "end_char": 4438,
+            "label": "LOC",
+            "text": "Guadeloupe"
+          },
+          {
+            "start_char": 4631,
+            "end_char": 4633,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4662,
+            "end_char": 4665,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4706,
+            "end_char": 4741,
+            "label": "PER",
+            "text": "M. Jiovanny William.<br><br><strong"
+          },
+          {
+            "start_char": 4745,
+            "end_char": 4761,
+            "label": "PER",
+            "text": "Jiovanny William"
+          },
+          {
+            "start_char": 4772,
+            "end_char": 4780,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 4846,
+            "end_char": 4859,
+            "label": "PER",
+            "text": "Nicolas Hulot"
+          },
+          {
+            "start_char": 4900,
+            "end_char": 4912,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4959,
+            "end_char": 4973,
+            "label": "ORG",
+            "text": "GDR-NUPES.)</i"
+          },
+          {
+            "start_char": 5114,
+            "end_char": 5141,
+            "label": "PER",
+            "text": "M. Rémy Rebeyrotte.</strong"
+          },
+          {
+            "start_char": 5178,
+            "end_char": 5183,
+            "label": "ORG",
+            "text": "NUPES"
+          },
+          {
+            "start_char": 5204,
+            "end_char": 5220,
+            "label": "PER",
+            "text": "Jiovanny William"
+          },
+          {
+            "start_char": 5289,
+            "end_char": 5293,
+            "label": "MISC",
+            "text": "Vifs"
+          },
+          {
+            "start_char": 5337,
+            "end_char": 5346,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 5348,
+            "end_char": 5357,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5359,
+            "end_char": 5362,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 5366,
+            "end_char": 5382,
+            "label": "MISC",
+            "text": "Écolo-NUPES.)<br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 92,
+            "sentiment": "3 stars",
+            "score": 0.2591225802898407
+          },
+          {
+            "begin_char": 93,
+            "end_char": 174,
+            "sentiment": "3 stars",
+            "score": 0.24315883219242096
+          },
+          {
+            "begin_char": 175,
+            "end_char": 558,
+            "sentiment": "5 stars",
+            "score": 0.3694102168083191
+          },
+          {
+            "begin_char": 559,
+            "end_char": 604,
+            "sentiment": "5 stars",
+            "score": 0.4912669360637665
+          },
+          {
+            "begin_char": 605,
+            "end_char": 624,
+            "sentiment": "4 stars",
+            "score": 0.27556443214416504
+          },
+          {
+            "begin_char": 624,
+            "end_char": 798,
+            "sentiment": "5 stars",
+            "score": 0.5176682472229004
+          },
+          {
+            "begin_char": 799,
+            "end_char": 1038,
+            "sentiment": "4 stars",
+            "score": 0.2435377687215805
+          },
+          {
+            "begin_char": 1038,
+            "end_char": 1046,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1046,
+            "end_char": 1227,
+            "sentiment": "1 star",
+            "score": 0.6171566843986511
+          },
+          {
+            "begin_char": 1228,
+            "end_char": 1357,
+            "sentiment": "4 stars",
+            "score": 0.33464285731315613
+          },
+          {
+            "begin_char": 1358,
+            "end_char": 1604,
+            "sentiment": "3 stars",
+            "score": 0.3587445914745331
+          },
+          {
+            "begin_char": 1604,
+            "end_char": 1686,
+            "sentiment": "3 stars",
+            "score": 0.308461457490921
+          },
+          {
+            "begin_char": 1686,
+            "end_char": 1758,
+            "sentiment": "5 stars",
+            "score": 0.4000076651573181
+          },
+          {
+            "begin_char": 1759,
+            "end_char": 1870,
+            "sentiment": "1 star",
+            "score": 0.3972981870174408
+          },
+          {
+            "begin_char": 1871,
+            "end_char": 1998,
+            "sentiment": "4 stars",
+            "score": 0.3334072232246399
+          },
+          {
+            "begin_char": 1999,
+            "end_char": 2264,
+            "sentiment": "4 stars",
+            "score": 0.33167627453804016
+          },
+          {
+            "begin_char": 2265,
+            "end_char": 2269,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2269,
+            "end_char": 2271,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 2272,
+            "end_char": 2399,
+            "sentiment": "5 stars",
+            "score": 0.4908389151096344
+          },
+          {
+            "begin_char": 2400,
+            "end_char": 2546,
+            "sentiment": "5 stars",
+            "score": 0.4454944133758545
+          },
+          {
+            "begin_char": 2547,
+            "end_char": 2646,
+            "sentiment": "3 stars",
+            "score": 0.30642497539520264
+          },
+          {
+            "begin_char": 2647,
+            "end_char": 2906,
+            "sentiment": "3 stars",
+            "score": 0.4896007776260376
+          },
+          {
+            "begin_char": 2907,
+            "end_char": 3038,
+            "sentiment": "4 stars",
+            "score": 0.46155256032943726
+          },
+          {
+            "begin_char": 3039,
+            "end_char": 3296,
+            "sentiment": "4 stars",
+            "score": 0.473193496465683
+          },
+          {
+            "begin_char": 3296,
+            "end_char": 3417,
+            "sentiment": "3 stars",
+            "score": 0.344919890165329
+          },
+          {
+            "begin_char": 3418,
+            "end_char": 3438,
+            "sentiment": "2 stars",
+            "score": 0.4550178050994873
+          },
+          {
+            "begin_char": 3438,
+            "end_char": 3510,
+            "sentiment": "3 stars",
+            "score": 0.3324718177318573
+          },
+          {
+            "begin_char": 3511,
+            "end_char": 3689,
+            "sentiment": "3 stars",
+            "score": 0.32845428586006165
+          },
+          {
+            "begin_char": 3689,
+            "end_char": 3731,
+            "sentiment": "3 stars",
+            "score": 0.31054848432540894
+          },
+          {
+            "begin_char": 3732,
+            "end_char": 3763,
+            "sentiment": "3 stars",
+            "score": 0.28489041328430176
+          },
+          {
+            "begin_char": 3763,
+            "end_char": 3835,
+            "sentiment": "3 stars",
+            "score": 0.3324718177318573
+          },
+          {
+            "begin_char": 3836,
+            "end_char": 3998,
+            "sentiment": "4 stars",
+            "score": 0.3655630350112915
+          },
+          {
+            "begin_char": 3999,
+            "end_char": 4221,
+            "sentiment": "4 stars",
+            "score": 0.4823915660381317
+          },
+          {
+            "begin_char": 4222,
+            "end_char": 4289,
+            "sentiment": "3 stars",
+            "score": 0.4206123948097229
+          },
+          {
+            "begin_char": 4290,
+            "end_char": 4464,
+            "sentiment": "5 stars",
+            "score": 0.34342333674430847
+          },
+          {
+            "begin_char": 4465,
+            "end_char": 4526,
+            "sentiment": "5 stars",
+            "score": 0.40767064690589905
+          },
+          {
+            "begin_char": 4527,
+            "end_char": 4577,
+            "sentiment": "5 stars",
+            "score": 0.42332038283348083
+          },
+          {
+            "begin_char": 4578,
+            "end_char": 4680,
+            "sentiment": "3 stars",
+            "score": 0.31954196095466614
+          },
+          {
+            "begin_char": 4681,
+            "end_char": 4762,
+            "sentiment": "3 stars",
+            "score": 0.24315883219242096
+          },
+          {
+            "begin_char": 4763,
+            "end_char": 4772,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 4772,
+            "end_char": 4913,
+            "sentiment": "5 stars",
+            "score": 0.264202743768692
+          },
+          {
+            "begin_char": 4914,
+            "end_char": 4974,
+            "sentiment": "4 stars",
+            "score": 0.2988927960395813
+          },
+          {
+            "begin_char": 4975,
+            "end_char": 5065,
+            "sentiment": "1 star",
+            "score": 0.35858502984046936
+          },
+          {
+            "begin_char": 5066,
+            "end_char": 5098,
+            "sentiment": "5 stars",
+            "score": 0.41577768325805664
+          },
+          {
+            "begin_char": 5098,
+            "end_char": 5142,
+            "sentiment": "3 stars",
+            "score": 0.3241443336009979
+          },
+          {
+            "begin_char": 5143,
+            "end_char": 5185,
+            "sentiment": "1 star",
+            "score": 0.2618831396102905
+          },
+          {
+            "begin_char": 5185,
+            "end_char": 5221,
+            "sentiment": "3 stars",
+            "score": 0.2981158494949341
+          },
+          {
+            "begin_char": 5222,
+            "end_char": 5231,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5231,
+            "end_char": 5287,
+            "sentiment": "5 stars",
+            "score": 0.4309117794036865
+          },
+          {
+            "begin_char": 5288,
+            "end_char": 5387,
+            "sentiment": "5 stars",
+            "score": 0.38285574316978455
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-13",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-13",
+        "pageJO": "2346",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

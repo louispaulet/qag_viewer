@@ -1,0 +1,611 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG485",
+    "identifiant": {
+      "numero": "485",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "agriculture",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "INTERDICTION DES NÉONICOTINOÏDES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA712015",
+        "mandatRef": "PM796176"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Agriculture et souveraineté alimentaire",
+      "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Agriculture et souveraineté alimentaire",
+          "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> INTERDICTION DES NÉONICOTINOÏDES <a name=PG14></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Julien Dive.<br><br><strong>M. Julien Dive. </strong>J’associe Valérie Bazin-Malgras à ma question.<br><br>Les betteraviers estiment à 200 millions d'euros les pertes de rendement consécutives à l'épidémie de jaunisse qui a décimé des hectares entiers de culture en 2020. Cette année noire semblait appartenir au passé quand, jeudi 19 janvier 2023, la Cour de justice de l'Union européenne (CJUE) en a décidé autrement. Elle a en effet jugé illégales les dérogations accordées aux agriculteurs pour utiliser des néonicotinoïdes en enrobage de semences.<br><br>Quelques semaines avant les semis de la campagne 2023-2024, cette décision assène un véritable coup de massue à la filière betterave-sucre. Les décisions de la CJUE vont à contre-courant de la réalité agronomique à laquelle les producteurs sont confrontés. Depuis des semaines, on entend le ministre de la transition écologique prendre position contre les betteraviers, mais il a fallu cet arrêt brutal pour que nous soyons obligés d'agir dans l'urgence et sortir de cette impasse.<br><br>Monsieur le ministre de l'agriculture et de la souveraineté alimentaire, vous proposez un plan d'action pour soutenir la filière, mais il nous faut des engagements concrets et durables. Le plan national de recherche et d'innovation (PNRI) que vous mentionnez demande non seulement de l'argent, mais du temps ; or le temps des 24 000 betteraviers est compté !<br><br>Vous évoquez dans ce plan d'action un accompagnement financier ; mais les producteurs de pommes de terre féculières se souviennent encore des promesses non tenues. Où comptez-vous chercher les fonds ? Quelles en sont les règles ? Sont-ils ou non plafonnés ? S'accompagnent-ils ou non d'une franchise ? S'inscrivent-ils en dehors des règles européennes <i>de minimis</i> ?<br><br>Aucun pays membre ne peut déroger à l'interdiction des néonicotinoïdes enrobés sur des graines de betteraves, sauf l'Allemagne, deuxième producteur européen de betteraves à sucre après la France, qui contourne cet arrêté en utilisant des insecticides pulvérisés que vous interdisez en France. Dans l'Union européenne, les mêmes règles doivent s'appliquer à tous !<br><br>Monsieur le ministre, comptez-vous monter au créneau pour proposer l'instauration des mêmes règles du jeu au sein de l'Union européenne, afin de préserver notre souveraineté agricole et permettre aux agriculteurs français de fournir le sucre, le bioéthanol et le gel hydroalcoolique dont nous avons besoin chaque jour ? <i>(Applaudissements sur les bancs du groupe LR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’agriculture et de la souveraineté alimentaire.<br><br><strong>M. Marc Fesneau,</strong><i> ministre de l’agriculture et de la souveraineté alimentaire. </i>Vous connaissez bien le sujet, monsieur Dive, puisque votre circonscription se situe dans un département concerné, et parce que vous y travaillez depuis le vote de la loi en vigueur, qui a permis la dérogation relative à l'enrobage des semences.<br><br>Comme vous l'avez rappelé, nous avions bien prévu de sortir, au bout de trois ans, de ce régime dérogatoire. La décision de la Cour de justice de l'Union européenne interrompt durement ce processus. En effet, le Gouvernement avait décidé de lancer une troisième année d'expérimentation pour enfin valider les solutions. Celles-ci ne relèvent pas de la magie ; elles sont issues de la recherche, du temps et de l'innovation.<br><br>Le premier élément de réponse concerne les enrobages et me permet de compléter ma réponse à la question de Lise Magnier : évidemment, la décision de la Cour de justice de l'Union européenne s'appliquera à l'ensemble des pays européens. Nous activerons la clause de sauvegarde, afin d'éviter les distorsions à l'intérieur de l'Union. Deuxièmement, notre engagement vis-à-vis de la filière, consistant à couvrir l'intégralité des pertes provoquées par la jaunisse de la betterave, sera tenu. Nous avons besoin de répondre en urgence aux producteurs, la décision de justice intervenant au moment des plantations. Troisièmement, nous devons poursuivre la recherche tant sur les itinéraires techniques plus classiques et au moyen du PNRI. Vous avez raison, c'est long ; mais nous n'avons pas d'autre choix.<br><br>Conformément à la loi votée à l'Assemblée nationale et au Sénat, issue d'un compromis avec la filière, la tendance était d'interdire les néonicotinoïdes à l'issue de l'expérimentation <i>(Exclamations sur les bancs des groupes LR et Écolo-NUPES)</i>. Voilà le travail que nous avons à faire, monsieur le député ; je compte sur nous tous pour envoyer à la filière ces messages, concernant le court, le moyen et le long termes. Comme vous l'avez rappelé, cette filière compte beaucoup en matière de souveraineté nationale.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 39,
+            "label": "MISC",
+            "text": "INTERDICTION DES"
+          },
+          {
+            "start_char": 40,
+            "end_char": 55,
+            "label": "MISC",
+            "text": "NÉONICOTINOÏDES"
+          },
+          {
+            "start_char": 90,
+            "end_char": 93,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 134,
+            "end_char": 143,
+            "label": "PER",
+            "text": "M. Julien"
+          },
+          {
+            "start_char": 168,
+            "end_char": 179,
+            "label": "PER",
+            "text": "Julien Dive"
+          },
+          {
+            "start_char": 200,
+            "end_char": 221,
+            "label": "PER",
+            "text": "Valérie Bazin-Malgras"
+          },
+          {
+            "start_char": 227,
+            "end_char": 243,
+            "label": "MISC",
+            "text": "question.<br><br"
+          },
+          {
+            "start_char": 489,
+            "end_char": 526,
+            "label": "ORG",
+            "text": "Cour de justice de l'Union européenne"
+          },
+          {
+            "start_char": 528,
+            "end_char": 532,
+            "label": "ORG",
+            "text": "CJUE"
+          },
+          {
+            "start_char": 680,
+            "end_char": 696,
+            "label": "MISC",
+            "text": "semences.<br><br"
+          },
+          {
+            "start_char": 857,
+            "end_char": 861,
+            "label": "ORG",
+            "text": "CJUE"
+          },
+          {
+            "start_char": 1170,
+            "end_char": 1194,
+            "label": "MISC",
+            "text": "impasse.<br><br>Monsieur"
+          },
+          {
+            "start_char": 1419,
+            "end_char": 1423,
+            "label": "LOC",
+            "text": "PNRI"
+          },
+          {
+            "start_char": 1753,
+            "end_char": 1760,
+            "label": "LOC",
+            "text": "Quelles"
+          },
+          {
+            "start_char": 1910,
+            "end_char": 1920,
+            "label": "LOC",
+            "text": "minimis</i"
+          },
+          {
+            "start_char": 2048,
+            "end_char": 2057,
+            "label": "LOC",
+            "text": "Allemagne"
+          },
+          {
+            "start_char": 2116,
+            "end_char": 2125,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2216,
+            "end_char": 2222,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 2231,
+            "end_char": 2247,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 2295,
+            "end_char": 2302,
+            "label": "MISC",
+            "text": "br><br>"
+          },
+          {
+            "start_char": 2302,
+            "end_char": 2310,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2421,
+            "end_char": 2437,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 2667,
+            "end_char": 2690,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2691,
+            "end_char": 2694,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2735,
+            "end_char": 2737,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2753,
+            "end_char": 2755,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2817,
+            "end_char": 2824,
+            "label": "PER",
+            "text": "M. Marc"
+          },
+          {
+            "start_char": 2858,
+            "end_char": 2860,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2951,
+            "end_char": 2955,
+            "label": "MISC",
+            "text": "Dive"
+          },
+          {
+            "start_char": 3147,
+            "end_char": 3163,
+            "label": "MISC",
+            "text": "semences.<br><br"
+          },
+          {
+            "start_char": 3291,
+            "end_char": 3328,
+            "label": "ORG",
+            "text": "Cour de justice de l'Union européenne"
+          },
+          {
+            "start_char": 3376,
+            "end_char": 3388,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3576,
+            "end_char": 3594,
+            "label": "MISC",
+            "text": "innovation.<br><br"
+          },
+          {
+            "start_char": 3702,
+            "end_char": 3714,
+            "label": "PER",
+            "text": "Lise Magnier"
+          },
+          {
+            "start_char": 3747,
+            "end_char": 3784,
+            "label": "ORG",
+            "text": "Cour de justice de l'Union européenne"
+          },
+          {
+            "start_char": 3921,
+            "end_char": 3926,
+            "label": "ORG",
+            "text": "Union"
+          },
+          {
+            "start_char": 4323,
+            "end_char": 4327,
+            "label": "LOC",
+            "text": "PNRI"
+          },
+          {
+            "start_char": 4390,
+            "end_char": 4403,
+            "label": "MISC",
+            "text": "choix.<br><br"
+          },
+          {
+            "start_char": 4436,
+            "end_char": 4455,
+            "label": "ORG",
+            "text": "Assemblée nationale"
+          },
+          {
+            "start_char": 4462,
+            "end_char": 4467,
+            "label": "ORG",
+            "text": "Sénat"
+          },
+          {
+            "start_char": 4631,
+            "end_char": 4633,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 4637,
+            "end_char": 4654,
+            "label": "LOC",
+            "text": "Écolo-NUPES)</i>."
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 108,
+            "sentiment": "3 stars",
+            "score": 0.30538228154182434
+          },
+          {
+            "begin_char": 109,
+            "end_char": 180,
+            "sentiment": "4 stars",
+            "score": 0.24634189903736115
+          },
+          {
+            "begin_char": 181,
+            "end_char": 244,
+            "sentiment": "3 stars",
+            "score": 0.3001316785812378
+          },
+          {
+            "begin_char": 244,
+            "end_char": 408,
+            "sentiment": "2 stars",
+            "score": 0.3217993676662445
+          },
+          {
+            "begin_char": 409,
+            "end_char": 556,
+            "sentiment": "4 stars",
+            "score": 0.3187634348869324
+          },
+          {
+            "begin_char": 557,
+            "end_char": 836,
+            "sentiment": "4 stars",
+            "score": 0.32001158595085144
+          },
+          {
+            "begin_char": 837,
+            "end_char": 953,
+            "sentiment": "4 stars",
+            "score": 0.42284253239631653
+          },
+          {
+            "begin_char": 954,
+            "end_char": 1371,
+            "sentiment": "5 stars",
+            "score": 0.43432387709617615
+          },
+          {
+            "begin_char": 1372,
+            "end_char": 1495,
+            "sentiment": "5 stars",
+            "score": 0.2524462938308716
+          },
+          {
+            "begin_char": 1496,
+            "end_char": 1544,
+            "sentiment": "1 star",
+            "score": 0.3071343004703522
+          },
+          {
+            "begin_char": 1544,
+            "end_char": 1552,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1552,
+            "end_char": 1616,
+            "sentiment": "3 stars",
+            "score": 0.291082501411438
+          },
+          {
+            "begin_char": 1617,
+            "end_char": 1715,
+            "sentiment": "2 stars",
+            "score": 0.4093683362007141
+          },
+          {
+            "begin_char": 1716,
+            "end_char": 1752,
+            "sentiment": "1 star",
+            "score": 0.37447935342788696
+          },
+          {
+            "begin_char": 1753,
+            "end_char": 1781,
+            "sentiment": "4 stars",
+            "score": 0.3251226842403412
+          },
+          {
+            "begin_char": 1782,
+            "end_char": 1809,
+            "sentiment": "3 stars",
+            "score": 0.3093876838684082
+          },
+          {
+            "begin_char": 1810,
+            "end_char": 1853,
+            "sentiment": "3 stars",
+            "score": 0.295122355222702
+          },
+          {
+            "begin_char": 1854,
+            "end_char": 1923,
+            "sentiment": "3 stars",
+            "score": 0.2776027321815491
+          },
+          {
+            "begin_char": 1923,
+            "end_char": 1931,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1931,
+            "end_char": 2223,
+            "sentiment": "5 stars",
+            "score": 0.44787752628326416
+          },
+          {
+            "begin_char": 2224,
+            "end_char": 2294,
+            "sentiment": "5 stars",
+            "score": 0.44091394543647766
+          },
+          {
+            "begin_char": 2294,
+            "end_char": 2302,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2302,
+            "end_char": 2621,
+            "sentiment": "5 stars",
+            "score": 0.5828378796577454
+          },
+          {
+            "begin_char": 2622,
+            "end_char": 2709,
+            "sentiment": "4 stars",
+            "score": 0.309841126203537
+          },
+          {
+            "begin_char": 2710,
+            "end_char": 2845,
+            "sentiment": "4 stars",
+            "score": 0.2993431091308594
+          },
+          {
+            "begin_char": 2846,
+            "end_char": 2906,
+            "sentiment": "4 stars",
+            "score": 0.325288861989975
+          },
+          {
+            "begin_char": 2907,
+            "end_char": 2911,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2911,
+            "end_char": 3272,
+            "sentiment": "3 stars",
+            "score": 0.250939279794693
+          },
+          {
+            "begin_char": 3273,
+            "end_char": 3362,
+            "sentiment": "2 stars",
+            "score": 0.2854916751384735
+          },
+          {
+            "begin_char": 3363,
+            "end_char": 3483,
+            "sentiment": "4 stars",
+            "score": 0.2429031878709793
+          },
+          {
+            "begin_char": 3484,
+            "end_char": 3523,
+            "sentiment": "1 star",
+            "score": 0.4491214156150818
+          },
+          {
+            "begin_char": 3524,
+            "end_char": 3595,
+            "sentiment": "5 stars",
+            "score": 0.6208359599113464
+          },
+          {
+            "begin_char": 3595,
+            "end_char": 3830,
+            "sentiment": "4 stars",
+            "score": 0.4371584355831146
+          },
+          {
+            "begin_char": 3831,
+            "end_char": 3927,
+            "sentiment": "4 stars",
+            "score": 0.40045204758644104
+          },
+          {
+            "begin_char": 3928,
+            "end_char": 4084,
+            "sentiment": "4 stars",
+            "score": 0.3364282250404358
+          },
+          {
+            "begin_char": 4085,
+            "end_char": 4204,
+            "sentiment": "5 stars",
+            "score": 0.5499941110610962
+          },
+          {
+            "begin_char": 4205,
+            "end_char": 4328,
+            "sentiment": "3 stars",
+            "score": 0.34426504373550415
+          },
+          {
+            "begin_char": 4329,
+            "end_char": 4359,
+            "sentiment": "2 stars",
+            "score": 0.32352373003959656
+          },
+          {
+            "begin_char": 4360,
+            "end_char": 4404,
+            "sentiment": "3 stars",
+            "score": 0.3322046399116516
+          },
+          {
+            "begin_char": 4404,
+            "end_char": 4654,
+            "sentiment": "4 stars",
+            "score": 0.3507780432701111
+          },
+          {
+            "begin_char": 4655,
+            "end_char": 4716,
+            "sentiment": "5 stars",
+            "score": 0.2676023542881012
+          },
+          {
+            "begin_char": 4717,
+            "end_char": 4829,
+            "sentiment": "5 stars",
+            "score": 0.5232841968536377
+          },
+          {
+            "begin_char": 4830,
+            "end_char": 4932,
+            "sentiment": "5 stars",
+            "score": 0.37990838289260864
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-25",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-25",
+        "pageJO": "665",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

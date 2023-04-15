@@ -1,0 +1,689 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG210",
+    "identifiant": {
+      "numero": "210",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "police",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "SUICIDES D'AGENTS DES FORCES DE L'ORDRE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793374",
+        "mandatRef": "PM796290"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Citoyenneté",
+      "developpe": "Secrétariat d’État auprès du ministre de l’intérieur et des outre-mer, chargé de la citoyenneté"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Citoyenneté",
+          "developpe": "Secrétariat d’État auprès du ministre de l’intérieur et des outre-mer, chargé de la citoyenneté"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SUICIDES D'AGENTS DES FORCES DE L'ORDRE <a name=PG17></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Romain Baubry.<br><br><strong>M. Romain Baubry. </strong>Monsieur le ministre de l'intérieur et des outre-mer, je reviens vers vous car, il y a quelque temps, en commission des lois, je vous ai posé une question à laquelle vous n'avez pas répondu au sujet de la vague de suicides parmi les agents des forces de l'ordre.<br><br>Nombreux sont ceux qui attendent des réponses et surtout, au-delà de ces réponses, des actes car, derrière ces suicides, il y a des familles, notamment des enfants, des collègues et des amis.<br><br>Jour après jour, les membres des forces de l'ordre sont découragés par une justice inefficace qui les oblige à interpeller continuellement les mêmes individus tout en laissant à leur sort les victimes qui s'accumulent. Stigmatisés par les extrêmes-gauchistes qui multiplient chaque jour injures et propos haineux <i>(Applaudissements sur plusieurs bancs du groupe RN)</i>, utilisés par le Gouvernement pour remplir des tableaux statistiques, victimes de pratiques managériales d'une haute hiérarchie plus politique que flic, ils sont à bout.<br><br>Ces vingt dernières années, pour la seule police nationale, plus de 1 200 policiers ont mis fin à leurs jours. Je me demande où sont les budgets qui devaient servir à proposer des solutions concrètes et efficaces pour endiguer le phénomène.<br><br><strong>Mme Sophia Chikirou.</strong> Et la commission d'enquête proposée par Alexis Corbière ?<br><br><strong>M. Romain Baubry. </strong>Ne me parlez pas du numéro d'appel ou de psychologues supplémentaires ! Vous qui aimez les statistiques et les chiffres, vous voyez que ces mesurettes n'ont aucun effet et que nous comptons toujours plus de morts. Il faut agir bien en amont pour être réellement dans la prévention avant le point de non-retour.<br><br>C'est d'ailleurs ce que j'ai défendu en commission des lois il y a quelques jours, mais, sans surprise, ma proposition de loi a été balayée d'un revers de la main par l'ensemble des députés appartenant aux autres groupes politiques que le Rassemblement national.<br><br>Lorsqu'un membre des forces de l'ordre actionne la queue de détente, il n'est pas le seul à poser son doigt dessus. Il y a des responsables. Mais où sont-ils ? Chez France Télécom, les responsables ont été traduits devant la justice. Monsieur le ministre, quand allez-vous enfin prendre des mesures concrètes pour endiguer la vague de suicides qui décime jour après jour les rangs de nos forces de l'ordre ?<i> (Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État auprès du ministre de l’intérieur et des outre-mer, chargé de la citoyenneté.<br><br><strong>Mme Sonia Backès,</strong><i> secrétaire d'État auprès du ministre de l’intérieur et des outre-mer, chargé de la citoyenneté. </i>Je veux d'abord rendre hommage à l'action de nos forces de l'ordre qui, chaque jour, protègent nos concitoyens avec toute l'énergie dont ils sont capables. <i>(Applaudissements sur les bancs des groupes RE et Dem.)</i> Je veux le répéter ici : le ministre de l'intérieur est extrêmement attentif et prend toujours la défense des policiers et des gendarmes sur le terrain.<br><br><strong>M. Karl Olive.</strong> C'est vrai !<br><br><strong>Mme Sonia Backès,</strong><i> secrétaire d'État. </i>Rappelez-vous tout le travail qui a été accompli sur le terrain ces cinq dernières années. Nous avons recruté 10 000 policiers et gendarmes supplémentaires sous le dernier quinquennat – admettez que ce n'est pas le fait des quinquennats précédents.<br><br><strong>Plusieurs députés du groupe RE .</strong> Eh oui !<br><br><strong>Mme Sonia Backès,</strong><i> secrétaire d'État . </i>Toute l'ambition du ministre de l'intérieur se trouve concrétisée au travers du projet de loi d'orientation et de programmation du ministère de l'intérieur (Lopmi), actuellement examiné. Ce texte, c'est 8 500 policiers et gendarmes en plus, c'est un investissement majeur en matière de cybersécurité,…<br><br><strong>Mmes Caroline Parmentier et Julie Lechanteux .</strong> Quel est le rapport avec la question ?<br><br><strong>Mme Sonia Backès,</strong><i> secrétaire d'État . </i>…c'est une hausse globale de 15 milliards d'euros des fonds engagés au service de nos policiers, c'est 200 nouvelles brigades, c'est 11 unités de force mobile !<br><br><strong>Mme Julie Lechanteux.</strong> On vous parle de 1 200 suicides de policiers !<br><br><strong>Mme Sonia Backès,</strong><i> secrétaire d'État. </i>Tout cela a été fait dans le but d'améliorer les conditions de travail de nos forces de sécurité. <i>(Vives exclamations sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Romain Baubry. Il vous reste deux secondes, mon cher collègue.<br><br><strong>M. Romain Baubry. </strong>Et pour les suicides ? <i>(« Bravo ! » et applaudissements sur les bancs du groupe RN.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 51,
+            "label": "MISC",
+            "text": "SUICIDES D'AGENTS DES FORCES"
+          },
+          {
+            "start_char": 55,
+            "end_char": 62,
+            "label": "ORG",
+            "text": "L'ORDRE"
+          },
+          {
+            "start_char": 97,
+            "end_char": 100,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 141,
+            "end_char": 150,
+            "label": "PER",
+            "text": "M. Romain"
+          },
+          {
+            "start_char": 184,
+            "end_char": 190,
+            "label": "PER",
+            "text": "Baubry"
+          },
+          {
+            "start_char": 201,
+            "end_char": 209,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 457,
+            "end_char": 470,
+            "label": "MISC",
+            "text": "ordre.<br><br"
+          },
+          {
+            "start_char": 657,
+            "end_char": 669,
+            "label": "MISC",
+            "text": "amis.<br><br"
+          },
+          {
+            "start_char": 984,
+            "end_char": 1003,
+            "label": "MISC",
+            "text": "i>(Applaudissements"
+          },
+          {
+            "start_char": 1034,
+            "end_char": 1040,
+            "label": "ORG",
+            "text": "RN)</i"
+          },
+          {
+            "start_char": 1059,
+            "end_char": 1071,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1206,
+            "end_char": 1218,
+            "label": "MISC",
+            "text": "bout.<br><br"
+          },
+          {
+            "start_char": 1475,
+            "end_char": 1503,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong"
+          },
+          {
+            "start_char": 1545,
+            "end_char": 1560,
+            "label": "PER",
+            "text": "Alexis Corbière"
+          },
+          {
+            "start_char": 1588,
+            "end_char": 1594,
+            "label": "PER",
+            "text": "Baubry"
+          },
+          {
+            "start_char": 2162,
+            "end_char": 2192,
+            "label": "ORG",
+            "text": "Rassemblement national.<br><br"
+          },
+          {
+            "start_char": 2358,
+            "end_char": 2372,
+            "label": "ORG",
+            "text": "France Télécom"
+          },
+          {
+            "start_char": 2427,
+            "end_char": 2435,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2605,
+            "end_char": 2621,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 2646,
+            "end_char": 2669,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2670,
+            "end_char": 2673,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2714,
+            "end_char": 2717,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2734,
+            "end_char": 2738,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2761,
+            "end_char": 2763,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2832,
+            "end_char": 2841,
+            "label": "PER",
+            "text": "Mme Sonia"
+          },
+          {
+            "start_char": 2875,
+            "end_char": 2879,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2902,
+            "end_char": 2904,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3165,
+            "end_char": 3167,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3171,
+            "end_char": 3179,
+            "label": "MISC",
+            "text": "Dem.)</i"
+          },
+          {
+            "start_char": 3352,
+            "end_char": 3371,
+            "label": "PER",
+            "text": "Karl Olive.</strong"
+          },
+          {
+            "start_char": 3401,
+            "end_char": 3410,
+            "label": "PER",
+            "text": "Mme Sonia"
+          },
+          {
+            "start_char": 3444,
+            "end_char": 3448,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3454,
+            "end_char": 3462,
+            "label": "LOC",
+            "text": "Rappelez"
+          },
+          {
+            "start_char": 3739,
+            "end_char": 3748,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 3784,
+            "end_char": 3793,
+            "label": "PER",
+            "text": "Mme Sonia"
+          },
+          {
+            "start_char": 3827,
+            "end_char": 3831,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3995,
+            "end_char": 4000,
+            "label": "LOC",
+            "text": "Lopmi"
+          },
+          {
+            "start_char": 4160,
+            "end_char": 4179,
+            "label": "PER",
+            "text": "Caroline Parmentier"
+          },
+          {
+            "start_char": 4183,
+            "end_char": 4199,
+            "label": "PER",
+            "text": "Julie Lechanteux"
+          },
+          {
+            "start_char": 4265,
+            "end_char": 4274,
+            "label": "PER",
+            "text": "Mme Sonia"
+          },
+          {
+            "start_char": 4308,
+            "end_char": 4312,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4495,
+            "end_char": 4524,
+            "label": "PER",
+            "text": "Mme Julie Lechanteux.</strong"
+          },
+          {
+            "start_char": 4588,
+            "end_char": 4597,
+            "label": "PER",
+            "text": "Mme Sonia"
+          },
+          {
+            "start_char": 4631,
+            "end_char": 4635,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4740,
+            "end_char": 4748,
+            "label": "LOC",
+            "text": "i>(Vives"
+          },
+          {
+            "start_char": 4786,
+            "end_char": 4809,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4810,
+            "end_char": 4813,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4854,
+            "end_char": 4870,
+            "label": "PER",
+            "text": "M. Romain Baubry"
+          },
+          {
+            "start_char": 4945,
+            "end_char": 4951,
+            "label": "PER",
+            "text": "Baubry"
+          },
+          {
+            "start_char": 4991,
+            "end_char": 4996,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 5045,
+            "end_char": 5056,
+            "label": "ORG",
+            "text": "RN.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 115,
+            "sentiment": "3 stars",
+            "score": 0.3154694139957428
+          },
+          {
+            "begin_char": 116,
+            "end_char": 191,
+            "sentiment": "3 stars",
+            "score": 0.25848284363746643
+          },
+          {
+            "begin_char": 192,
+            "end_char": 201,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 201,
+            "end_char": 888,
+            "sentiment": "5 stars",
+            "score": 0.23516947031021118
+          },
+          {
+            "begin_char": 889,
+            "end_char": 1329,
+            "sentiment": "5 stars",
+            "score": 0.35710760951042175
+          },
+          {
+            "begin_char": 1330,
+            "end_char": 1504,
+            "sentiment": "1 star",
+            "score": 0.47003182768821716
+          },
+          {
+            "begin_char": 1505,
+            "end_char": 1562,
+            "sentiment": "3 stars",
+            "score": 0.30245697498321533
+          },
+          {
+            "begin_char": 1562,
+            "end_char": 1595,
+            "sentiment": "3 stars",
+            "score": 0.30081379413604736
+          },
+          {
+            "begin_char": 1596,
+            "end_char": 1605,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1605,
+            "end_char": 1676,
+            "sentiment": "1 star",
+            "score": 0.5537617802619934
+          },
+          {
+            "begin_char": 1677,
+            "end_char": 1818,
+            "sentiment": "1 star",
+            "score": 0.8039295077323914
+          },
+          {
+            "begin_char": 1819,
+            "end_char": 2308,
+            "sentiment": "3 stars",
+            "score": 0.2936180531978607
+          },
+          {
+            "begin_char": 2309,
+            "end_char": 2333,
+            "sentiment": "3 stars",
+            "score": 0.26145753264427185
+          },
+          {
+            "begin_char": 2334,
+            "end_char": 2352,
+            "sentiment": "1 star",
+            "score": 0.28375425934791565
+          },
+          {
+            "begin_char": 2353,
+            "end_char": 2426,
+            "sentiment": "4 stars",
+            "score": 0.28245681524276733
+          },
+          {
+            "begin_char": 2427,
+            "end_char": 2600,
+            "sentiment": "5 stars",
+            "score": 0.6087291836738586
+          },
+          {
+            "begin_char": 2600,
+            "end_char": 2688,
+            "sentiment": "4 stars",
+            "score": 0.32762831449508667
+          },
+          {
+            "begin_char": 2689,
+            "end_char": 2957,
+            "sentiment": "4 stars",
+            "score": 0.3321842551231384
+          },
+          {
+            "begin_char": 2958,
+            "end_char": 3117,
+            "sentiment": "5 stars",
+            "score": 0.6450461745262146
+          },
+          {
+            "begin_char": 3118,
+            "end_char": 3180,
+            "sentiment": "4 stars",
+            "score": 0.3047955334186554
+          },
+          {
+            "begin_char": 3181,
+            "end_char": 3372,
+            "sentiment": "4 stars",
+            "score": 0.4072042405605316
+          },
+          {
+            "begin_char": 3373,
+            "end_char": 3385,
+            "sentiment": "5 stars",
+            "score": 0.29584935307502747
+          },
+          {
+            "begin_char": 3385,
+            "end_char": 3449,
+            "sentiment": "3 stars",
+            "score": 0.31268244981765747
+          },
+          {
+            "begin_char": 3450,
+            "end_char": 3544,
+            "sentiment": "5 stars",
+            "score": 0.48953551054000854
+          },
+          {
+            "begin_char": 3545,
+            "end_char": 3759,
+            "sentiment": "3 stars",
+            "score": 0.25550535321235657
+          },
+          {
+            "begin_char": 3760,
+            "end_char": 3768,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 3768,
+            "end_char": 3833,
+            "sentiment": "3 stars",
+            "score": 0.3254684805870056
+          },
+          {
+            "begin_char": 3834,
+            "end_char": 4024,
+            "sentiment": "4 stars",
+            "score": 0.4202321469783783
+          },
+          {
+            "begin_char": 4025,
+            "end_char": 4159,
+            "sentiment": "5 stars",
+            "score": 0.6700654625892639
+          },
+          {
+            "begin_char": 4160,
+            "end_char": 4199,
+            "sentiment": "3 stars",
+            "score": 0.24990668892860413
+          },
+          {
+            "begin_char": 4200,
+            "end_char": 4210,
+            "sentiment": "3 stars",
+            "score": 0.2825297713279724
+          },
+          {
+            "begin_char": 4211,
+            "end_char": 4249,
+            "sentiment": "3 stars",
+            "score": 0.3154681324958801
+          },
+          {
+            "begin_char": 4249,
+            "end_char": 4314,
+            "sentiment": "3 stars",
+            "score": 0.3254684805870056
+          },
+          {
+            "begin_char": 4315,
+            "end_char": 4479,
+            "sentiment": "5 stars",
+            "score": 0.4670736789703369
+          },
+          {
+            "begin_char": 4479,
+            "end_char": 4525,
+            "sentiment": "3 stars",
+            "score": 0.3128105401992798
+          },
+          {
+            "begin_char": 4526,
+            "end_char": 4572,
+            "sentiment": "1 star",
+            "score": 0.6302610635757446
+          },
+          {
+            "begin_char": 4572,
+            "end_char": 4636,
+            "sentiment": "3 stars",
+            "score": 0.31268244981765747
+          },
+          {
+            "begin_char": 4637,
+            "end_char": 4738,
+            "sentiment": "5 stars",
+            "score": 0.3890567123889923
+          },
+          {
+            "begin_char": 4739,
+            "end_char": 4748,
+            "sentiment": "3 stars",
+            "score": 0.2765619456768036
+          },
+          {
+            "begin_char": 4749,
+            "end_char": 4761,
+            "sentiment": "5 stars",
+            "score": 0.4357210099697113
+          },
+          {
+            "begin_char": 4762,
+            "end_char": 4827,
+            "sentiment": "4 stars",
+            "score": 0.3308938443660736
+          },
+          {
+            "begin_char": 4827,
+            "end_char": 4828,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 4829,
+            "end_char": 4871,
+            "sentiment": "4 stars",
+            "score": 0.24928711354732513
+          },
+          {
+            "begin_char": 4872,
+            "end_char": 4952,
+            "sentiment": "1 star",
+            "score": 0.5394145846366882
+          },
+          {
+            "begin_char": 4953,
+            "end_char": 4984,
+            "sentiment": "3 stars",
+            "score": 0.23575560748577118
+          },
+          {
+            "begin_char": 4985,
+            "end_char": 5057,
+            "sentiment": "5 stars",
+            "score": 0.3640775978565216
+          },
+          {
+            "begin_char": 5058,
+            "end_char": 5061,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-26",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-26",
+        "pageJO": "4566",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,659 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG352",
+    "identifiant": {
+      "numero": "352",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "agriculture",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Soutien à la production laitière biololgique"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794626",
+        "mandatRef": "PM797028"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Agriculture et souveraineté alimentaire",
+      "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Agriculture et souveraineté alimentaire",
+          "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SOUTIEN À LA PRODUCTION LAITIÈRE BIOLOGIQUE <a name=PG22></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Benjamin Saint-Huile.<br><br><strong>M. Benjamin Saint-Huile. </strong>Monsieur le ministre de l'agriculture et de la souveraineté alimentaire, je souhaite vous parler de l'inquiétude des agriculteurs qui ont choisi de se lancer dans la production bio, en particulier dans la production laitière.<br><br>En Sambre-Avesnois, plus de cent exploitations ont ainsi accompli la transition vers le bio. Elles représentent 80 % de la production biologique laitière des Hauts-de-France. De Solre-le-Château à Sémeries, d'Anor à Wignehies, de Wignehies à Dompierre-sur-Helpe, la Sambre-Avesnois s'est mobilisée et a montré l'exemple.<br><br>Comme l'a rappelé Mme Hignet, l'inflation à laquelle nous faisons face nuit aux produits bio, dont se détournent les consommateurs, soucieux de leur pouvoir d'achat.<br><br>S'ajoutent à cela la sécheresse, qui affecte gravement les agriculteurs, et la relative fragilité des aides pour les herbes.<br><br>Lorsque je m'entretiens avec les agriculteurs de ma circonscription, une question revient systématiquement : « Que devons-nous faire ? » Lorsqu'ils produisent 1 000 litres de lait, ils les vendent en moyenne 450 euros ; la grande distribution les revend ensuite 1 310 euros.<br><br>Ma question est donc simple, monsieur le ministre. Vous venez de rappeler que l'État a accompagné largement la conversion vers le bio pour atteindre les objectifs européens. Le territoire que je représente fait partie des meilleurs élèves de France en la matière. Pourtant, les agriculteurs que je croise m'annoncent leur retour à un mode de production conventionnel : « Nous ne gagnons pas notre vie, nous allons faire marche arrière. »<br><br>Qu'allez-vous faire pour répondre à cette urgence, pour soutenir des agriculteurs qui souffrent, qui se sont montrés exemplaires en choisissant la conversion vers le bio, mais ont maintenant le sentiment que le Gouvernement les abandonne ? <i>(Applaudissements sur les bancs du groupe LIOT et sur quelques bancs du groupe LFI-NUPES. – M. Alain David applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’agriculture et de la souveraineté alimentaire.<br><br><strong>M. Marc Fesneau,</strong><i> ministre de l’agriculture et de la souveraineté alimentaire. </i>Vous avez très bien décrit la situation des éleveurs laitiers bio. Ils souffrent de plusieurs effets de conjoncture, notamment de la baisse de consommation des produits bio – particulièrement marquée dans le cas du lait – et de l'effet ciseaux produit par la hausse des charges.<br><br>Cela crée le risque qu'ils entament à l'avenir, pour ainsi dire, leur « déconversion ». Cela serait très dommageable, puisqu'une fois revenus à un mode de production conventionnel ils ne referaient pas le chemin inverse, conscients des efforts qu'exige parfois la production bio.<br><br>Nous avons déjà pris plusieurs mesures.<br><br>Premièrement, nous avons déployé à partir du printemps un plan d'aide à l'alimentation animale, à hauteur de près de 500 millions d'euros. S'il s'est concentré essentiellement sur d'autres filières d'élevage que le bovin lait, il constitue néanmoins une première réponse.<br><br>Deuxièmement, nous mettons actuellement en œuvre un plan d'allégement des charges, mesure pour laquelle près d'un quart des agriculteurs ont manifesté leur intérêt et qui permettra d'améliorer la trésorerie des exploitations en réduisant leurs charges.<br><br>Troisièmement, nous avons décidé, sous l'autorité de la Première ministre, d'accélérer le processus de lutte contre les calamités agricoles, en déployant dès novembre, pour les régions les plus touchées par la sécheresse, le dispositif prévu. Les premiers versements ont eu lieu au début de la semaine.<br><br><strong>M. Loïc Prud'homme.</strong> Et que faites-vous pour les coopératives ?<br><br><strong>M. Marc Fesneau,</strong><i> ministre. </i>Les autres départements en bénéficieront au printemps. En tout cas, nous avons tenu à accélérer le processus pour répondre aux problèmes de trésorerie des exploitations.<br><br>Quatrièmement – il s'agit là d'une question plus structurelle –, Olivia Grégoire et moi travaillons à la question de la valorisation des producteurs par la grande distribution. Roland Lescure a fait en sorte que le prix du lait soit revalorisé. Des efforts ont déjà été faits, mais pas suffisamment en ce qui concerne le bio. Il faut donc poursuivre dans cette voie.<br><br>Enfin, il s'agit de relancer la consommation. Pour les produits dont nous parlons, nous n'avons pas besoin d'un choc d'offre, mais d'un choc de demande.<br><br>Nous devons mener un travail en ce sens avec les agriculteurs et les producteurs laitiers…<br><br><strong>M. Loïc Prud'homme.</strong> N'importe quoi !<br><br><strong>M. Marc Fesneau,</strong><i> ministre . </i>…en les encourageant à passer ce cap difficile et à attendre que la consommation des produits bio retrouve sa courbe ascendante.<br><br><strong>M. Loïc Prud'homme.</strong> C'est tout à l'envers !<br><br><strong>Mme la présidente. </strong>La parole est à M. Benjamin Saint-Huile.<br><br><strong>M. Benjamin Saint-Huile. </strong>Merci, monsieur le ministre. Je vous invite donc à venir travailler sur ce sujet majeur avec les agriculteurs de la Sambre-Avesnois.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 30,
+            "label": "ORG",
+            "text": "SOUTIEN"
+          },
+          {
+            "start_char": 36,
+            "end_char": 55,
+            "label": "MISC",
+            "text": "PRODUCTION LAITIÈRE"
+          },
+          {
+            "start_char": 101,
+            "end_char": 104,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 145,
+            "end_char": 184,
+            "label": "PER",
+            "text": "M. Benjamin Saint-Huile.<br><br><strong"
+          },
+          {
+            "start_char": 188,
+            "end_char": 208,
+            "label": "PER",
+            "text": "Benjamin Saint-Huile"
+          },
+          {
+            "start_char": 219,
+            "end_char": 227,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 435,
+            "end_char": 451,
+            "label": "MISC",
+            "text": "laitière.<br><br"
+          },
+          {
+            "start_char": 455,
+            "end_char": 470,
+            "label": "LOC",
+            "text": "Sambre-Avesnois"
+          },
+          {
+            "start_char": 610,
+            "end_char": 625,
+            "label": "LOC",
+            "text": "Hauts-de-France"
+          },
+          {
+            "start_char": 630,
+            "end_char": 646,
+            "label": "LOC",
+            "text": "Solre-le-Château"
+          },
+          {
+            "start_char": 649,
+            "end_char": 657,
+            "label": "LOC",
+            "text": "Sémeries"
+          },
+          {
+            "start_char": 661,
+            "end_char": 665,
+            "label": "ORG",
+            "text": "Anor"
+          },
+          {
+            "start_char": 668,
+            "end_char": 677,
+            "label": "LOC",
+            "text": "Wignehies"
+          },
+          {
+            "start_char": 682,
+            "end_char": 691,
+            "label": "LOC",
+            "text": "Wignehies"
+          },
+          {
+            "start_char": 694,
+            "end_char": 713,
+            "label": "LOC",
+            "text": "Dompierre-sur-Helpe"
+          },
+          {
+            "start_char": 718,
+            "end_char": 733,
+            "label": "LOC",
+            "text": "Sambre-Avesnois"
+          },
+          {
+            "start_char": 764,
+            "end_char": 779,
+            "label": "MISC",
+            "text": "exemple.<br><br"
+          },
+          {
+            "start_char": 798,
+            "end_char": 808,
+            "label": "PER",
+            "text": "Mme Hignet"
+          },
+          {
+            "start_char": 1070,
+            "end_char": 1108,
+            "label": "MISC",
+            "text": "herbes.<br><br>Lorsque je m'entretiens"
+          },
+          {
+            "start_char": 1353,
+            "end_char": 1366,
+            "label": "MISC",
+            "text": "euros.<br><br"
+          },
+          {
+            "start_char": 1447,
+            "end_char": 1451,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1606,
+            "end_char": 1615,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 2023,
+            "end_char": 2035,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2097,
+            "end_char": 2101,
+            "label": "ORG",
+            "text": "LIOT"
+          },
+          {
+            "start_char": 2134,
+            "end_char": 2143,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2150,
+            "end_char": 2161,
+            "label": "PER",
+            "text": "Alain David"
+          },
+          {
+            "start_char": 2203,
+            "end_char": 2206,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2247,
+            "end_char": 2249,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2265,
+            "end_char": 2267,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2329,
+            "end_char": 2336,
+            "label": "PER",
+            "text": "M. Marc"
+          },
+          {
+            "start_char": 2370,
+            "end_char": 2372,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2693,
+            "end_char": 2708,
+            "label": "MISC",
+            "text": "charges.<br><br"
+          },
+          {
+            "start_char": 3027,
+            "end_char": 3043,
+            "label": "MISC",
+            "text": "mesures.<br><br>"
+          },
+          {
+            "start_char": 3306,
+            "end_char": 3334,
+            "label": "MISC",
+            "text": "réponse.<br><br>Deuxièmement"
+          },
+          {
+            "start_char": 3566,
+            "end_char": 3595,
+            "label": "MISC",
+            "text": "charges.<br><br>Troisièmement"
+          },
+          {
+            "start_char": 3638,
+            "end_char": 3646,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3900,
+            "end_char": 3927,
+            "label": "PER",
+            "text": "M. Loïc Prud'homme.</strong"
+          },
+          {
+            "start_char": 3990,
+            "end_char": 3994,
+            "label": "PER",
+            "text": "Marc"
+          },
+          {
+            "start_char": 4185,
+            "end_char": 4206,
+            "label": "MISC",
+            "text": "exploitations.<br><br"
+          },
+          {
+            "start_char": 4272,
+            "end_char": 4287,
+            "label": "PER",
+            "text": "Olivia Grégoire"
+          },
+          {
+            "start_char": 4384,
+            "end_char": 4398,
+            "label": "PER",
+            "text": "Roland Lescure"
+          },
+          {
+            "start_char": 4568,
+            "end_char": 4580,
+            "label": "MISC",
+            "text": "voie.<br><br"
+          },
+          {
+            "start_char": 4911,
+            "end_char": 4915,
+            "label": "PER",
+            "text": "Marc"
+          },
+          {
+            "start_char": 5109,
+            "end_char": 5123,
+            "label": "PER",
+            "text": "homme.</strong"
+          },
+          {
+            "start_char": 5164,
+            "end_char": 5167,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5208,
+            "end_char": 5247,
+            "label": "PER",
+            "text": "M. Benjamin Saint-Huile.<br><br><strong"
+          },
+          {
+            "start_char": 5251,
+            "end_char": 5271,
+            "label": "PER",
+            "text": "Benjamin Saint-Huile"
+          },
+          {
+            "start_char": 5282,
+            "end_char": 5287,
+            "label": "LOC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 5395,
+            "end_char": 5404,
+            "label": "LOC",
+            "text": "la Sambre"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 30,
+            "sentiment": "4 stars",
+            "score": 0.2764781713485718
+          },
+          {
+            "begin_char": 31,
+            "end_char": 55,
+            "sentiment": "3 stars",
+            "score": 0.32911598682403564
+          },
+          {
+            "begin_char": 56,
+            "end_char": 119,
+            "sentiment": "3 stars",
+            "score": 0.3144834339618683
+          },
+          {
+            "begin_char": 120,
+            "end_char": 209,
+            "sentiment": "4 stars",
+            "score": 0.2736812233924866
+          },
+          {
+            "begin_char": 210,
+            "end_char": 219,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 219,
+            "end_char": 544,
+            "sentiment": "5 stars",
+            "score": 0.4684595763683319
+          },
+          {
+            "begin_char": 545,
+            "end_char": 626,
+            "sentiment": "4 stars",
+            "score": 0.3037125766277313
+          },
+          {
+            "begin_char": 627,
+            "end_char": 1152,
+            "sentiment": "4 stars",
+            "score": 0.40960022807121277
+          },
+          {
+            "begin_char": 1152,
+            "end_char": 1221,
+            "sentiment": "2 stars",
+            "score": 0.2885647118091583
+          },
+          {
+            "begin_char": 1222,
+            "end_char": 1304,
+            "sentiment": "3 stars",
+            "score": 0.31302592158317566
+          },
+          {
+            "begin_char": 1305,
+            "end_char": 1417,
+            "sentiment": "2 stars",
+            "score": 0.29949504137039185
+          },
+          {
+            "begin_char": 1418,
+            "end_char": 1540,
+            "sentiment": "5 stars",
+            "score": 0.46384432911872864
+          },
+          {
+            "begin_char": 1541,
+            "end_char": 1630,
+            "sentiment": "5 stars",
+            "score": 0.6739729642868042
+          },
+          {
+            "begin_char": 1631,
+            "end_char": 1812,
+            "sentiment": "5 stars",
+            "score": 0.28889644145965576
+          },
+          {
+            "begin_char": 1812,
+            "end_char": 2051,
+            "sentiment": "5 stars",
+            "score": 0.6202093362808228
+          },
+          {
+            "begin_char": 2052,
+            "end_char": 2221,
+            "sentiment": "4 stars",
+            "score": 0.35346880555152893
+          },
+          {
+            "begin_char": 2222,
+            "end_char": 2357,
+            "sentiment": "4 stars",
+            "score": 0.2993431091308594
+          },
+          {
+            "begin_char": 2358,
+            "end_char": 2418,
+            "sentiment": "4 stars",
+            "score": 0.325288861989975
+          },
+          {
+            "begin_char": 2419,
+            "end_char": 2489,
+            "sentiment": "5 stars",
+            "score": 0.39849117398262024
+          },
+          {
+            "begin_char": 2490,
+            "end_char": 2709,
+            "sentiment": "3 stars",
+            "score": 0.481810599565506
+          },
+          {
+            "begin_char": 2709,
+            "end_char": 2772,
+            "sentiment": "3 stars",
+            "score": 0.3136384189128876
+          },
+          {
+            "begin_char": 2772,
+            "end_char": 2796,
+            "sentiment": "1 star",
+            "score": 0.25504180788993835
+          },
+          {
+            "begin_char": 2797,
+            "end_char": 2996,
+            "sentiment": "2 stars",
+            "score": 0.35923856496810913
+          },
+          {
+            "begin_char": 2996,
+            "end_char": 3043,
+            "sentiment": "4 stars",
+            "score": 0.30397990345954895
+          },
+          {
+            "begin_char": 3043,
+            "end_char": 3181,
+            "sentiment": "4 stars",
+            "score": 0.36913612484931946
+          },
+          {
+            "begin_char": 3182,
+            "end_char": 3824,
+            "sentiment": "4 stars",
+            "score": 0.4703577160835266
+          },
+          {
+            "begin_char": 3825,
+            "end_char": 3971,
+            "sentiment": "3 stars",
+            "score": 0.25586336851119995
+          },
+          {
+            "begin_char": 3971,
+            "end_char": 4015,
+            "sentiment": "3 stars",
+            "score": 0.3174576759338379
+          },
+          {
+            "begin_char": 4016,
+            "end_char": 4025,
+            "sentiment": "4 stars",
+            "score": 0.31432053446769714
+          },
+          {
+            "begin_char": 4026,
+            "end_char": 4084,
+            "sentiment": "4 stars",
+            "score": 0.32749950885772705
+          },
+          {
+            "begin_char": 4085,
+            "end_char": 4383,
+            "sentiment": "4 stars",
+            "score": 0.3878191113471985
+          },
+          {
+            "begin_char": 4384,
+            "end_char": 4451,
+            "sentiment": "2 stars",
+            "score": 0.26364874839782715
+          },
+          {
+            "begin_char": 4452,
+            "end_char": 4532,
+            "sentiment": "3 stars",
+            "score": 0.5087521076202393
+          },
+          {
+            "begin_char": 4533,
+            "end_char": 4626,
+            "sentiment": "3 stars",
+            "score": 0.3030315637588501
+          },
+          {
+            "begin_char": 4627,
+            "end_char": 4741,
+            "sentiment": "5 stars",
+            "score": 0.256428986787796
+          },
+          {
+            "begin_char": 4741,
+            "end_char": 4850,
+            "sentiment": "5 stars",
+            "score": 0.31492266058921814
+          },
+          {
+            "begin_char": 4850,
+            "end_char": 4875,
+            "sentiment": "3 stars",
+            "score": 0.32504406571388245
+          },
+          {
+            "begin_char": 4876,
+            "end_char": 4892,
+            "sentiment": "1 star",
+            "score": 0.8737018704414368
+          },
+          {
+            "begin_char": 4892,
+            "end_char": 4947,
+            "sentiment": "3 stars",
+            "score": 0.3122144639492035
+          },
+          {
+            "begin_char": 4948,
+            "end_char": 5148,
+            "sentiment": "1 star",
+            "score": 0.3932626247406006
+          },
+          {
+            "begin_char": 5148,
+            "end_char": 5182,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 5183,
+            "end_char": 5272,
+            "sentiment": "4 stars",
+            "score": 0.2736812233924866
+          },
+          {
+            "begin_char": 5273,
+            "end_char": 5282,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5282,
+            "end_char": 5310,
+            "sentiment": "5 stars",
+            "score": 0.4598112106323242
+          },
+          {
+            "begin_char": 5311,
+            "end_char": 5422,
+            "sentiment": "5 stars",
+            "score": 0.44667497277259827
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-30",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-30",
+        "pageJO": "6147",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

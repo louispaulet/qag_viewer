@@ -1,0 +1,665 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG259",
+    "identifiant": {
+      "numero": "259",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "climat",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Fonds dédié aux pertes et dommages"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795616",
+        "mandatRef": "PM797589"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition énergétique",
+      "developpe": "Ministère de la transition énergétique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition énergétique",
+          "developpe": "Ministère de la transition énergétique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> FONDS DÉDIÉ AUX PERTES ET DOMMAGES <a name=PG13></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Carlos Martens Bilongo. <i>(Mmes et MM. les députés des groupes LFI-NUPES, SOC, Écolo-NUPES et GDR-NUPES se lèvent et applaudissent –  Quelques députés du groupe RE applaudissent aussi.)</i><br><br><strong>M. Carlos Martens Bilongo. </strong>Les dommages causés par le réchauffement climatique, qui occasionne des dégâts et catastrophes importants dans les pays les plus vulnérables, sont déjà une réalité : les phénomènes météorologiques extrêmes ont tué plus de 410 000 personnes, en affectant 1,7 milliard dans le monde.<br><br>Selon des estimations, les pertes et dommages pour les pays en développement s'établiraient entre 290 et 580 milliards de dollars d'ici à 2030. Or ces dommages touchent principalement des pays qui ne sont pas responsables du changement climatique, et qui ont le moins de capacités financières pour y répondre. Dans ce contexte, plusieurs d'entre eux ont réclamé la création d’un fonds dédié aux pertes et dommages pour compenser les conséquences irréversibles du changement climatique. Les pays les plus pollueurs ont une dette envers les pays les plus touchés par les conséquences du dérèglement climatique <i>(Applaudissements sur les bancs du groupe LFI-NUPES et sur quelques bancs du groupe GDR-NUPES. – Mme Delphine Batho applaudit aussi)</i>, il est temps qu'elle soit reconnue.<br><br>Jusqu'à présent, la France refuse de participer au paiement de la dette climatique et s'oppose à la création du fonds dédié aux pertes et dommages. Pourtant, l'industrie des énergies fossiles génère en vingt-quatre heures des superprofits 200 fois supérieurs au total des financements utilisés par les gouvernements pour remédier aux dommages : à eux seuls, ils couvriraient même 60 fois le coût total des dégâts causés par le dérèglement climatique ! Les fonds existent donc, pas la volonté politique.<br><br>Dans son discours à l'ouverture de la COP27, Emmanuel Macron a déclaré : « Les injustices du monde dans lequel nous vivons sont devenues insoutenables. Les crises aggravent ces injustices et donc nous ne pouvons nous en sortir que par une recomposition profonde de nos mécanismes de solidarité public-privé et des règles qui sont les nôtres. »<br><br>Quand passerez-vous des paroles aux actes ? La France soutiendra-t-elle la création d'un fonds dédié aux pertes et dommages à l'occasion de la COP27 ? <i>(Applaudissements sur les bancs du groupe LFI-NUPES, ainsi que sur quelques bancs des groupes Écolo-NUPES et GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre de la transition énergétique.<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre de la transition énergétique. </i>La solidarité avec les pays les plus vulnérables face aux conséquences du réchauffement climatique est un sujet important. Je l'ai déjà dit, la réussite des négociations de la COP27 dépend de plusieurs conditions.<br><br>Tout d'abord, il faut que les pays fortement émetteurs de gaz à effet de serre rehaussent leur objectif de réduction des émissions : la France l'a déjà fait, l'Europe également, il faut désormais que tous les autres pays suivent. C'est une des façons de préserver les pays les plus vulnérables face au réchauffement climatique, qui n'en sont d'ailleurs pas à l'origine.<br><br>Ensuite, comme vous le soulignez, il faut aider ces pays à déployer des politiques visant à faire évoluer leur agriculture et leurs infrastructures pour leur permettre de s'adapter au changement climatique et de ne pas être victimes d'événements météorologiques extrêmes, qu'ils soient soudains ou se construisent dans la durée, comme une sécheresse durable. La France a donc décidé de financer à hauteur de 2 milliards d'euros les politiques d'adaptation des pays en développement, à travers les actions de l'Agence française de développement, un de nos bras armés dont la qualité des interventions est aujourd'hui reconnue, notamment dans les pays africains. Lors de la pré-COP, qui a eu lieu à Kinshasa, j'ai reçu des retours très positifs sur le programme Adapt'Action.<br><br>Enfin, s'agissant des pertes et dommages, je tiens à rappeler que la France et l'Union européenne ont fait partie de ceux qui ont forcé l'inscription de ce sujet à l'agenda de la COP27.<br><br><strong>Mme Natalia Pouzyreff.</strong> Eh oui !<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre . </i>C'était loin d'être gagné, mais la détermination de la France et de l'Union européenne a permis, après une nuit de négociations entre dimanche et lundi, que ce sujet figure à l'agenda de la COP. C'était important. <i>(Mme Natalia Pouzyreff applaudit.)</i><br><br><strong>M. Jimmy Pahun.</strong> Oui, très important !<br><br><strong>Mme la présidente. </strong>La parole est à M. Carlos Martens Bilongo.<br><br><strong>M. Carlos Martens Bilongo. </strong>En matière de climat, la France a un rôle à jouer : il faut absolument aller au bout des discussions avec les pays en voie de développement qui, avec la Méditerranée, sont réellement en danger face aux conséquences du réchauffement climatique. <i>(Applaudissements sur plusieurs bancs du groupe LFI-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 39,
+            "end_char": 45,
+            "label": "MISC",
+            "text": "PERTES"
+          },
+          {
+            "start_char": 92,
+            "end_char": 95,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 136,
+            "end_char": 138,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 139,
+            "end_char": 161,
+            "label": "PER",
+            "text": "Carlos Martens Bilongo"
+          },
+          {
+            "start_char": 175,
+            "end_char": 178,
+            "label": "MISC",
+            "text": "MM."
+          },
+          {
+            "start_char": 203,
+            "end_char": 212,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 214,
+            "end_char": 217,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 219,
+            "end_char": 230,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 234,
+            "end_char": 237,
+            "label": "ORG",
+            "text": "GDR"
+          },
+          {
+            "start_char": 238,
+            "end_char": 243,
+            "label": "ORG",
+            "text": "NUPES"
+          },
+          {
+            "start_char": 348,
+            "end_char": 370,
+            "label": "PER",
+            "text": "Carlos Martens Bilongo"
+          },
+          {
+            "start_char": 656,
+            "end_char": 669,
+            "label": "MISC",
+            "text": "monde.<br><br"
+          },
+          {
+            "start_char": 1323,
+            "end_char": 1332,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1365,
+            "end_char": 1374,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 1378,
+            "end_char": 1390,
+            "label": "PER",
+            "text": "Mme Delphine"
+          },
+          {
+            "start_char": 1445,
+            "end_char": 1461,
+            "label": "MISC",
+            "text": "reconnue.<br><br"
+          },
+          {
+            "start_char": 1479,
+            "end_char": 1488,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1954,
+            "end_char": 1971,
+            "label": "MISC",
+            "text": "politique.<br><br"
+          },
+          {
+            "start_char": 2010,
+            "end_char": 2015,
+            "label": "MISC",
+            "text": "COP27"
+          },
+          {
+            "start_char": 2017,
+            "end_char": 2032,
+            "label": "PER",
+            "text": "Emmanuel Macron"
+          },
+          {
+            "start_char": 2329,
+            "end_char": 2337,
+            "label": "PER",
+            "text": "passerez"
+          },
+          {
+            "start_char": 2367,
+            "end_char": 2376,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 2466,
+            "end_char": 2471,
+            "label": "MISC",
+            "text": "COP27"
+          },
+          {
+            "start_char": 2519,
+            "end_char": 2528,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2571,
+            "end_char": 2582,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2586,
+            "end_char": 2616,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2617,
+            "end_char": 2620,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2661,
+            "end_char": 2664,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2722,
+            "end_char": 2739,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 2981,
+            "end_char": 2986,
+            "label": "MISC",
+            "text": "COP27"
+          },
+          {
+            "start_char": 3007,
+            "end_char": 3025,
+            "label": "MISC",
+            "text": "conditions.<br><br"
+          },
+          {
+            "start_char": 3159,
+            "end_char": 3168,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3184,
+            "end_char": 3192,
+            "label": "LOC",
+            "text": "l'Europe"
+          },
+          {
+            "start_char": 3387,
+            "end_char": 3402,
+            "label": "MISC",
+            "text": "origine.<br><br"
+          },
+          {
+            "start_char": 3762,
+            "end_char": 3771,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 3913,
+            "end_char": 3946,
+            "label": "ORG",
+            "text": "Agence française de développement"
+          },
+          {
+            "start_char": 4075,
+            "end_char": 4082,
+            "label": "LOC",
+            "text": "pré-COP"
+          },
+          {
+            "start_char": 4100,
+            "end_char": 4108,
+            "label": "LOC",
+            "text": "Kinshasa"
+          },
+          {
+            "start_char": 4169,
+            "end_char": 4183,
+            "label": "ORG",
+            "text": "Action.<br><br"
+          },
+          {
+            "start_char": 4250,
+            "end_char": 4259,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 4265,
+            "end_char": 4281,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 4363,
+            "end_char": 4384,
+            "label": "MISC",
+            "text": "COP27.<br><br><strong"
+          },
+          {
+            "start_char": 4385,
+            "end_char": 4415,
+            "label": "PER",
+            "text": "Mme Natalia Pouzyreff.</strong"
+          },
+          {
+            "start_char": 4441,
+            "end_char": 4458,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 4481,
+            "end_char": 4489,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4548,
+            "end_char": 4557,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 4566,
+            "end_char": 4582,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 4686,
+            "end_char": 4689,
+            "label": "ORG",
+            "text": "COP"
+          },
+          {
+            "start_char": 4718,
+            "end_char": 4735,
+            "label": "PER",
+            "text": "Natalia Pouzyreff"
+          },
+          {
+            "start_char": 4767,
+            "end_char": 4770,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 4770,
+            "end_char": 4795,
+            "label": "PER",
+            "text": "Jimmy Pahun.</strong> Oui"
+          },
+          {
+            "start_char": 4829,
+            "end_char": 4832,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4873,
+            "end_char": 4875,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 4876,
+            "end_char": 4890,
+            "label": "PER",
+            "text": "Carlos Martens"
+          },
+          {
+            "start_char": 4918,
+            "end_char": 4940,
+            "label": "PER",
+            "text": "Carlos Martens Bilongo"
+          },
+          {
+            "start_char": 4973,
+            "end_char": 4982,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 5104,
+            "end_char": 5116,
+            "label": "LOC",
+            "text": "Méditerranée"
+          },
+          {
+            "start_char": 5246,
+            "end_char": 5264,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 28,
+            "sentiment": "3 stars",
+            "score": 0.24383756518363953
+          },
+          {
+            "begin_char": 29,
+            "end_char": 110,
+            "sentiment": "1 star",
+            "score": 0.33707037568092346
+          },
+          {
+            "begin_char": 111,
+            "end_char": 162,
+            "sentiment": "3 stars",
+            "score": 0.22979336977005005
+          },
+          {
+            "begin_char": 163,
+            "end_char": 237,
+            "sentiment": "4 stars",
+            "score": 0.32893043756484985
+          },
+          {
+            "begin_char": 237,
+            "end_char": 238,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 238,
+            "end_char": 371,
+            "sentiment": "3 stars",
+            "score": 0.27088144421577454
+          },
+          {
+            "begin_char": 372,
+            "end_char": 381,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 381,
+            "end_char": 813,
+            "sentiment": "5 stars",
+            "score": 0.3445136845111847
+          },
+          {
+            "begin_char": 814,
+            "end_char": 979,
+            "sentiment": "5 stars",
+            "score": 0.2709227502346039
+          },
+          {
+            "begin_char": 980,
+            "end_char": 1155,
+            "sentiment": "4 stars",
+            "score": 0.3284759223461151
+          },
+          {
+            "begin_char": 1156,
+            "end_char": 1375,
+            "sentiment": "4 stars",
+            "score": 0.32578468322753906
+          },
+          {
+            "begin_char": 1376,
+            "end_char": 1390,
+            "sentiment": "3 stars",
+            "score": 0.2762812674045563
+          },
+          {
+            "begin_char": 1391,
+            "end_char": 1396,
+            "sentiment": "1 star",
+            "score": 0.4332430064678192
+          },
+          {
+            "begin_char": 1397,
+            "end_char": 1417,
+            "sentiment": "5 stars",
+            "score": 0.44519367814064026
+          },
+          {
+            "begin_char": 1417,
+            "end_char": 1609,
+            "sentiment": "5 stars",
+            "score": 0.4056564271450043
+          },
+          {
+            "begin_char": 1610,
+            "end_char": 1913,
+            "sentiment": "5 stars",
+            "score": 0.6097274422645569
+          },
+          {
+            "begin_char": 1914,
+            "end_char": 1972,
+            "sentiment": "2 stars",
+            "score": 0.30017659068107605
+          },
+          {
+            "begin_char": 1972,
+            "end_char": 2123,
+            "sentiment": "5 stars",
+            "score": 0.5090956687927246
+          },
+          {
+            "begin_char": 2124,
+            "end_char": 2323,
+            "sentiment": "5 stars",
+            "score": 0.5558568239212036
+          },
+          {
+            "begin_char": 2323,
+            "end_char": 2366,
+            "sentiment": "5 stars",
+            "score": 0.40568041801452637
+          },
+          {
+            "begin_char": 2367,
+            "end_char": 2473,
+            "sentiment": "4 stars",
+            "score": 0.32052791118621826
+          },
+          {
+            "begin_char": 2474,
+            "end_char": 2635,
+            "sentiment": "4 stars",
+            "score": 0.33509865403175354
+          },
+          {
+            "begin_char": 2636,
+            "end_char": 2761,
+            "sentiment": "3 stars",
+            "score": 0.28279468417167664
+          },
+          {
+            "begin_char": 2762,
+            "end_char": 2800,
+            "sentiment": "4 stars",
+            "score": 0.3457353115081787
+          },
+          {
+            "begin_char": 2801,
+            "end_char": 2927,
+            "sentiment": "4 stars",
+            "score": 0.40272781252861023
+          },
+          {
+            "begin_char": 2928,
+            "end_char": 3255,
+            "sentiment": "5 stars",
+            "score": 0.4591846168041229
+          },
+          {
+            "begin_char": 3256,
+            "end_char": 3761,
+            "sentiment": "5 stars",
+            "score": 0.591766893863678
+          },
+          {
+            "begin_char": 3762,
+            "end_char": 4063,
+            "sentiment": "5 stars",
+            "score": 0.4556989371776581
+          },
+          {
+            "begin_char": 4064,
+            "end_char": 4425,
+            "sentiment": "5 stars",
+            "score": 0.515746533870697
+          },
+          {
+            "begin_char": 4425,
+            "end_char": 4491,
+            "sentiment": "3 stars",
+            "score": 0.31557586789131165
+          },
+          {
+            "begin_char": 4492,
+            "end_char": 4690,
+            "sentiment": "4 stars",
+            "score": 0.44119638204574585
+          },
+          {
+            "begin_char": 4691,
+            "end_char": 4709,
+            "sentiment": "5 stars",
+            "score": 0.3283268213272095
+          },
+          {
+            "begin_char": 4710,
+            "end_char": 4847,
+            "sentiment": "5 stars",
+            "score": 0.4885595738887787
+          },
+          {
+            "begin_char": 4848,
+            "end_char": 4941,
+            "sentiment": "3 stars",
+            "score": 0.2589176893234253
+          },
+          {
+            "begin_char": 4942,
+            "end_char": 4951,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 4951,
+            "end_char": 5194,
+            "sentiment": "5 stars",
+            "score": 0.6083954572677612
+          },
+          {
+            "begin_char": 5195,
+            "end_char": 5269,
+            "sentiment": "3 stars",
+            "score": 0.30818018317222595
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-09",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-09",
+        "pageJO": "5242",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

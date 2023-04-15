@@ -1,0 +1,497 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG619",
+    "identifiant": {
+      "numero": "619",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "élevage",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "GRIPPE AVIAIRE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719918",
+        "mandatRef": "PM803282"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Agriculture et souveraineté alimentaire",
+      "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Agriculture et souveraineté alimentaire",
+          "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> GRIPPE AVIAIRE <a name=PG8></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Fabien Lainé.<br><br><strong>M. Fabien Lainé. </strong>Monsieur le ministre de l'agriculture et de la souveraineté alimentaire, je souhaite vous interpeller à propos de la situation sanitaire compte tenu de l'influenza aviaire hautement pathogène qui frappe durement nos éleveurs et, au-delà, toute la filière avicole.<br><br>Pour faire face aux différentes vagues d'épizootie, depuis 2017, le Gouvernement a toujours été aux côtés des acteurs de la filière palmipède, grâce à des indemnisations massives. En tant que parlementaire landais, je souhaitais saluer cet effort constant.<br><br>Au printemps 2017, le ministre de l'agriculture de l'époque avait signé avec la filière palmipèdes à foie gras un pacte de biosécurité, contenant des mesures préventives et réglementaires pour réduire les risques de diffusion et de transmission. Dans le Sud-Ouest, entre le 15 décembre 2022 et le 15 janvier 2023, afin de créer un vide sanitaire, le Gouvernement a lancé le plan Adour, qui a permis de limiter considérablement le nombre de foyers d'épizootie et de relancer ainsi le repeuplement des volailles.<br><br>Malgré les avancées de la biosécurité, l'épizootie se répète et se généralise, en France et en Europe, mais, fort heureusement, nous entrevoyons désormais un espoir avec l'arrivée prochaine du vaccin. Sans en faire un substitut à la biosécurité, nous devons envisager de recourir à la vaccination massive, mais celle-ci ne peut se mettre en place sans le soutien de l'État à la filière avicole. Le vaccin, dont le coût unitaire est très élevé, doit en effet être appliqué volaille par volaille. La vaccination devra en outre être suivie d'un programme de monitoring particulièrement lourd et onéreux afin de garantir la crédibilité et l'efficacité de la stratégie vaccinale retenue.<br><br>Compte tenu de ces conditions, envisagez-vous un plan de soutien financier à nos éleveurs lors du déploiement de la vaccination ? <i>(Applaudissements sur les bancs du groupe Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’agriculture et de la souveraineté alimentaire.<br><br><strong>M. Marc Fesneau,</strong><i> ministre de l’agriculture et de la souveraineté alimentaire. </i>Je vous remercie pour votre question, qui me permet de faire un point sur l'influenza aviaire.<br><br>Je commencerai par la progression de l'épidémie. L'épisode épidémique de l'année dernière avait touché plus de 1 400 foyers ; nous en sommes aujourd'hui à 310. Je pense bien sûr à tous les éleveurs touchés qui, pour certains, font face à leur deuxième ou même troisième épisode épidémique, mais la situation est meilleure que l'année dernière, marquée par des inquiétudes face à l'état endémique de l'influenza.<br><br>Pour l'accompagnement des éleveurs, je pense que nous avons été à la hauteur, notamment pour les indemnisations : plus de 1 milliard d'euros ont été prévus pour l'indemnisation au titre de la période 2021-2022 et ce même dispositif a été reconduit.<br><br>Que faut-il faire pour faire face à la situation actuelle ? Vous avez raison de saluer l'action du Gouvernement, mais je rappelle que le plan Adour a été voulu et monté par les éleveurs. Il a permis de ne pas repeupler les élevages en décembre et en janvier, période où le risque de contamination est le plus élevé. Ces mesures de dédensification ont fonctionné : dans la grande zone Sud-Ouest, où 300 foyers en moyenne étaient touchés lors des précédents épisodes épidémiques, nous en dénombrons aujourd'hui vingt. L'épisode actuel n'est pas terminé, mais l'évolution va dans le bon sens.<br><br>Le premier objectif est de prolonger ces mesures et les compléter par un accompagnement financier, qui nous a paru important. Le deuxième objectif est de réfléchir à des mesures similaires pour d'autres zones afin notamment de préserver le patrimoine génétique. Celui des canards en Pays de Loire est en effet menacé par les récents épisodes épidémiques. Le troisième objectif est de vacciner. Les résultats de la campagne de vaccination seront disponibles dans le courant du mois de mars. Nous allons déployer un plan comportant des mesures de logistique et de prévisibilité. J'ai par ailleurs annoncé que l'État prendrait en charge une partie des coûts de vaccination. Il faut en outre travailler sur les normes de commerce, car certains échanges internationaux sont soumis à des règles de vaccination et il faut donc prendre garde à ne pas obérer nos capacités d'exportation. Voilà les sujets sur lesquels nous travaillons. <i>(Applaudissements sur les bancs du groupe Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 29,
+            "label": "ORG",
+            "text": "GRIPPE"
+          },
+          {
+            "start_char": 46,
+            "end_char": 53,
+            "label": "PER",
+            "text": "PG8></a"
+          },
+          {
+            "start_char": 71,
+            "end_char": 74,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 115,
+            "end_char": 146,
+            "label": "PER",
+            "text": "M. Fabien Lainé.<br><br><strong"
+          },
+          {
+            "start_char": 173,
+            "end_char": 181,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 428,
+            "end_char": 494,
+            "label": "MISC",
+            "text": "avicole.<br><br>Pour faire face aux différentes vagues d'épizootie"
+          },
+          {
+            "start_char": 512,
+            "end_char": 524,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 691,
+            "end_char": 707,
+            "label": "MISC",
+            "text": "constant.<br><br"
+          },
+          {
+            "start_char": 962,
+            "end_char": 971,
+            "label": "LOC",
+            "text": "Sud-Ouest"
+          },
+          {
+            "start_char": 1058,
+            "end_char": 1070,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1087,
+            "end_char": 1092,
+            "label": "PER",
+            "text": "Adour"
+          },
+          {
+            "start_char": 1208,
+            "end_char": 1225,
+            "label": "MISC",
+            "text": "volailles.<br><br"
+          },
+          {
+            "start_char": 1308,
+            "end_char": 1314,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1321,
+            "end_char": 1327,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 1594,
+            "end_char": 1598,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1900,
+            "end_char": 1916,
+            "label": "MISC",
+            "text": "retenue.<br><br>"
+          },
+          {
+            "start_char": 2091,
+            "end_char": 2115,
+            "label": "ORG",
+            "text": "Dem.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2116,
+            "end_char": 2119,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2160,
+            "end_char": 2162,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2178,
+            "end_char": 2180,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2242,
+            "end_char": 2249,
+            "label": "PER",
+            "text": "M. Marc"
+          },
+          {
+            "start_char": 2283,
+            "end_char": 2285,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2839,
+            "end_char": 2856,
+            "label": "ORG",
+            "text": "influenza.<br><br"
+          },
+          {
+            "start_char": 3095,
+            "end_char": 3161,
+            "label": "MISC",
+            "text": "reconduit.<br><br>Que faut-il faire pour faire face à la situation"
+          },
+          {
+            "start_char": 3212,
+            "end_char": 3224,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3255,
+            "end_char": 3260,
+            "label": "LOC",
+            "text": "Adour"
+          },
+          {
+            "start_char": 3497,
+            "end_char": 3506,
+            "label": "LOC",
+            "text": "Sud-Ouest"
+          },
+          {
+            "start_char": 3697,
+            "end_char": 3709,
+            "label": "MISC",
+            "text": "sens.<br><br"
+          },
+          {
+            "start_char": 3993,
+            "end_char": 4006,
+            "label": "LOC",
+            "text": "Pays de Loire"
+          },
+          {
+            "start_char": 4319,
+            "end_char": 4323,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4682,
+            "end_char": 4694,
+            "label": "ORG",
+            "text": "Dem.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 29,
+            "sentiment": "1 star",
+            "score": 0.24648253619670868
+          },
+          {
+            "begin_char": 30,
+            "end_char": 89,
+            "sentiment": "1 star",
+            "score": 0.2457035481929779
+          },
+          {
+            "begin_char": 90,
+            "end_char": 163,
+            "sentiment": "4 stars",
+            "score": 0.26279208064079285
+          },
+          {
+            "begin_char": 164,
+            "end_char": 173,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 173,
+            "end_char": 623,
+            "sentiment": "5 stars",
+            "score": 0.4757212698459625
+          },
+          {
+            "begin_char": 624,
+            "end_char": 708,
+            "sentiment": "5 stars",
+            "score": 0.4721020758152008
+          },
+          {
+            "begin_char": 708,
+            "end_char": 953,
+            "sentiment": "4 stars",
+            "score": 0.4304860532283783
+          },
+          {
+            "begin_char": 954,
+            "end_char": 1226,
+            "sentiment": "5 stars",
+            "score": 0.3743433654308319
+          },
+          {
+            "begin_char": 1226,
+            "end_char": 1426,
+            "sentiment": "4 stars",
+            "score": 0.4046443700790405
+          },
+          {
+            "begin_char": 1427,
+            "end_char": 1620,
+            "sentiment": "4 stars",
+            "score": 0.336843878030777
+          },
+          {
+            "begin_char": 1621,
+            "end_char": 1720,
+            "sentiment": "3 stars",
+            "score": 0.3359704613685608
+          },
+          {
+            "begin_char": 1721,
+            "end_char": 1916,
+            "sentiment": "3 stars",
+            "score": 0.39251774549484253
+          },
+          {
+            "begin_char": 1916,
+            "end_char": 2045,
+            "sentiment": "3 stars",
+            "score": 0.3529016673564911
+          },
+          {
+            "begin_char": 2046,
+            "end_char": 2134,
+            "sentiment": "4 stars",
+            "score": 0.325787752866745
+          },
+          {
+            "begin_char": 2135,
+            "end_char": 2270,
+            "sentiment": "4 stars",
+            "score": 0.2993431091308594
+          },
+          {
+            "begin_char": 2271,
+            "end_char": 2331,
+            "sentiment": "4 stars",
+            "score": 0.325288861989975
+          },
+          {
+            "begin_char": 2332,
+            "end_char": 2336,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2336,
+            "end_char": 2338,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 2339,
+            "end_char": 2486,
+            "sentiment": "4 stars",
+            "score": 0.4199027121067047
+          },
+          {
+            "begin_char": 2487,
+            "end_char": 2563,
+            "sentiment": "3 stars",
+            "score": 0.24751529097557068
+          },
+          {
+            "begin_char": 2564,
+            "end_char": 2597,
+            "sentiment": "5 stars",
+            "score": 0.2573702931404114
+          },
+          {
+            "begin_char": 2598,
+            "end_char": 3172,
+            "sentiment": "5 stars",
+            "score": 0.4915276765823364
+          },
+          {
+            "begin_char": 3173,
+            "end_char": 3299,
+            "sentiment": "5 stars",
+            "score": 0.26728302240371704
+          },
+          {
+            "begin_char": 3300,
+            "end_char": 3428,
+            "sentiment": "4 stars",
+            "score": 0.4182073473930359
+          },
+          {
+            "begin_char": 3429,
+            "end_char": 3628,
+            "sentiment": "4 stars",
+            "score": 0.3602222800254822
+          },
+          {
+            "begin_char": 3629,
+            "end_char": 3835,
+            "sentiment": "4 stars",
+            "score": 0.5221046805381775
+          },
+          {
+            "begin_char": 3836,
+            "end_char": 3971,
+            "sentiment": "4 stars",
+            "score": 0.3171853721141815
+          },
+          {
+            "begin_char": 3972,
+            "end_char": 4064,
+            "sentiment": "4 stars",
+            "score": 0.33773696422576904
+          },
+          {
+            "begin_char": 4065,
+            "end_char": 4103,
+            "sentiment": "3 stars",
+            "score": 0.24465341866016388
+          },
+          {
+            "begin_char": 4104,
+            "end_char": 4199,
+            "sentiment": "4 stars",
+            "score": 0.37468788027763367
+          },
+          {
+            "begin_char": 4200,
+            "end_char": 4286,
+            "sentiment": "4 stars",
+            "score": 0.37754738330841064
+          },
+          {
+            "begin_char": 4287,
+            "end_char": 4380,
+            "sentiment": "4 stars",
+            "score": 0.3234822154045105
+          },
+          {
+            "begin_char": 4381,
+            "end_char": 4588,
+            "sentiment": "4 stars",
+            "score": 0.48453986644744873
+          },
+          {
+            "begin_char": 4589,
+            "end_char": 4636,
+            "sentiment": "3 stars",
+            "score": 0.2649178206920624
+          },
+          {
+            "begin_char": 4637,
+            "end_char": 4695,
+            "sentiment": "4 stars",
+            "score": 0.32325446605682373
+          },
+          {
+            "begin_char": 4696,
+            "end_char": 4699,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-03-08",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-03-08",
+        "pageJO": "2228",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

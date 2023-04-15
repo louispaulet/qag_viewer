@@ -1,0 +1,629 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG323",
+    "identifiant": {
+      "numero": "323",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "retraites : généralités",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Réforme des retraites"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA346054",
+        "mandatRef": "PM797679"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DES RETRAITES <a name=PG21></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Emmanuel Maquet.<br><br><strong>M. Emmanuel Maquet. </strong>Monsieur le ministre du travail, du plein emploi et de l'insertion, plus vos intentions sur la réforme des retraites se précisent, plus elles révèlent des renoncements majeurs, le dernier en date concernant les régimes spéciaux.<br><br>Alors que les Français demandent la fin des privilèges injustifiés de certains d'entre eux, vous proposez la clause du grand-père pour leur suppression. La situation financière des retraites exige d'agir avec urgence, mais vous nous proposez de légiférer pour dans quarante ans : parlons plutôt de la clause du petit-fils, voire de l'arrière-petit-fils !<br><br>Monsieur le ministre, vous vous félicitez que le climat des négociations avec les syndicats soit bon mais, quand on connaît le conservatisme de certains d'entre eux, ce n'est pas un bon signe pour votre réforme !<br><br><strong>M. Sébastien Jumel.</strong> Je vais raconter ça à l'union locale du Tréport !<br><br><strong>M. Emmanuel Maquet. </strong>À l'heure où le Gouvernement nous parle d'acceptabilité, il serait bon que l'acceptabilité de cette réforme soit celle des Français. Or l'acceptabilité, c'est que chacun fasse un effort, et pas uniquement le secteur privé. Au contraire, votre réforme, qui prétend unifier les régimes, oppose, en réalité, les fonctionnaires aux salariés du privé et laisse de côté les régimes spéciaux.<br><br>La situation des finances sociales et la sauvegarde de notre modèle exigent du courage et de l'équité.<br><br><strong>M. Meyer Habib.</strong> Très bien !<br><br><strong>M. Emmanuel Maquet. </strong>Le courage serait d'assurer une hausse de l'âge de départ pour tous, comme le groupe Les Républicains le demande depuis des années, comme tous nos grands voisins et partenaires européens l'ont fait et comme les Français sont prêts à l'accepter. Travailler plus longtemps alors que notre espérance de vie nous le permet, c'est non seulement préserver le système de retraite mais aussi dégager les moyens de relever le minimum retraite au-delà de 1 100 euros, comme vous prétendez le faire.<br><br>Vous avez abandonné l'idée d'un système universel et, avec lui, l'idée d'un système équitable. L'équité serait que, pour des métiers comparables, les fonctionnaires, les salariés, les bénéficiaires des régimes spéciaux aient des conditions de retraite comparables.<br><br><strong>Mme la présidente.</strong> Je vous remercie, mon cher collègue.<br><br><strong>M. Emmanuel Maquet. </strong>Ma question est donc simple : combien de milliards d'euros et de dette supplémentaires…<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Monsieur Maquet, avant de vous répondre, je souhaite faire une remarque sur le contexte politique dans lequel nous allons examiner la réforme des retraites. Le Président de la République, lors de la campagne du printemps dernier pour l'élection présidentielle, a pris plusieurs engagements. Il s'est notamment engagé sur la pérennité du système de retraite, sur son amélioration et sur son retour à l'équilibre et il a fixé le cap de relever l'âge de départ à la retraite de 62 ans à 64 ans en 2027, puis de 64 ans à 65 ans en 2031. C'est ce cap que nous tenons.<br><br>En vertu de ce mandat confié lors de l'élection présidentielle, et sous l'autorité de la Première ministre, j'ai ouvert un dernier cycle de concertations avec les organisations syndicales et patronales. Nous poursuivons deux objectifs.<br><br>Le premier objectif est d'améliorer un système de retraite caractérisé par des petites pensions qui sont beaucoup trop basses. Ce système ne tient suffisamment compte ni de la prévention de l'usure professionnelle, ni de la pénibilité, ni de la précarité des carrières, ni de leur caractère parfois haché et encore moins des inégalités entre les femmes et les hommes.<br><br><strong>M. Sébastien Jumel.</strong> C'est du baratin !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre. </i>L'amélioration passe par plus d'équité, qui demande de mener la réforme des régimes spéciaux pour laquelle nous avons fait le choix d'appliquer la clause du grand-père.<br><br><strong>M. Stéphane Peu.</strong> Ce n'est pas comme ça qu'on trouvera des solutions pour la RATP. Les usagers ne sont pas près d'avoir plus de métros !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre. </i>Celles et ceux qui travaillent aujourd'hui dans ces entreprises, qui sont souvent publiques, ont, lors de leur recrutement, signé un contrat assorti de droits et de devoirs tenus par toutes les parties. Cela ne signifie pas que la réforme ne s'appliquera pas à ces salariés. L'ensemble des Français, que leur statut dépende du régime public, du régime privé ou d'un régime spécial, verront leur âge légal de départ à la retraite décalé à due proportion et seront donc amenés à travailler plus longtemps.<br><br>Le deuxième objectif, qui demande de faire preuve de responsabilité, est de ramener à l'équilibre un système qui affichera 12,5 milliards de déficit en 2027.<br><br>Voilà comment nous travaillons avec l'ensemble des partenaires sociaux. Finalement, en vous écoutant, monsieur le député, j'ai le sentiment que vous nous implorez d'avoir le courage que vous n'avez jamais eu. <i>(Applaudissements sur plusieurs bancs du groupe RE. – Exclamations sur les bancs du groupe LR.)</i><br><br><strong>M. Ian Boucard.</strong> Holà !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 34,
+            "label": "MISC",
+            "text": "RÉFORME DES"
+          },
+          {
+            "start_char": 35,
+            "end_char": 44,
+            "label": "MISC",
+            "text": "RETRAITES"
+          },
+          {
+            "start_char": 79,
+            "end_char": 82,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 123,
+            "end_char": 157,
+            "label": "PER",
+            "text": "M. Emmanuel Maquet.<br><br><strong"
+          },
+          {
+            "start_char": 161,
+            "end_char": 176,
+            "label": "PER",
+            "text": "Emmanuel Maquet"
+          },
+          {
+            "start_char": 187,
+            "end_char": 195,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 406,
+            "end_char": 422,
+            "label": "MISC",
+            "text": "spéciaux.<br><br"
+          },
+          {
+            "start_char": 437,
+            "end_char": 445,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 778,
+            "end_char": 785,
+            "label": "MISC",
+            "text": "br><br>"
+          },
+          {
+            "start_char": 785,
+            "end_char": 793,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1016,
+            "end_char": 1040,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong"
+          },
+          {
+            "start_char": 1082,
+            "end_char": 1089,
+            "label": "LOC",
+            "text": "Tréport"
+          },
+          {
+            "start_char": 1110,
+            "end_char": 1125,
+            "label": "PER",
+            "text": "Emmanuel Maquet"
+          },
+          {
+            "start_char": 1152,
+            "end_char": 1164,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1259,
+            "end_char": 1267,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1512,
+            "end_char": 1563,
+            "label": "MISC",
+            "text": "spéciaux.<br><br>La situation des finances sociales"
+          },
+          {
+            "start_char": 1650,
+            "end_char": 1676,
+            "label": "PER",
+            "text": "Meyer Habib.</strong> Très"
+          },
+          {
+            "start_char": 1702,
+            "end_char": 1717,
+            "label": "PER",
+            "text": "Emmanuel Maquet"
+          },
+          {
+            "start_char": 1817,
+            "end_char": 1829,
+            "label": "ORG",
+            "text": "Républicains"
+          },
+          {
+            "start_char": 1939,
+            "end_char": 1947,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2504,
+            "end_char": 2530,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 2587,
+            "end_char": 2602,
+            "label": "PER",
+            "text": "Emmanuel Maquet"
+          },
+          {
+            "start_char": 2716,
+            "end_char": 2719,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2760,
+            "end_char": 2762,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2809,
+            "end_char": 2811,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2837,
+            "end_char": 2847,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2912,
+            "end_char": 2923,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 2929,
+            "end_char": 2944,
+            "label": "PER",
+            "text": "Monsieur Maquet"
+          },
+          {
+            "start_char": 3089,
+            "end_char": 3115,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3484,
+            "end_char": 3498,
+            "label": "MISC",
+            "text": "tenons.<br><br"
+          },
+          {
+            "start_char": 3588,
+            "end_char": 3596,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3724,
+            "end_char": 3741,
+            "label": "MISC",
+            "text": "objectifs.<br><br"
+          },
+          {
+            "start_char": 4128,
+            "end_char": 4153,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 4188,
+            "end_char": 4198,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4421,
+            "end_char": 4442,
+            "label": "PER",
+            "text": "Stéphane Peu.</strong"
+          },
+          {
+            "start_char": 4503,
+            "end_char": 4507,
+            "label": "ORG",
+            "text": "RATP"
+          },
+          {
+            "start_char": 4578,
+            "end_char": 4588,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4624,
+            "end_char": 4630,
+            "label": "LOC",
+            "text": "Celles"
+          },
+          {
+            "start_char": 4914,
+            "end_char": 4922,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5553,
+            "end_char": 5562,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 5603,
+            "end_char": 5626,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5630,
+            "end_char": 5650,
+            "label": "PER",
+            "text": "Ian Boucard.</strong"
+          },
+          {
+            "start_char": 5652,
+            "end_char": 5656,
+            "label": "LOC",
+            "text": "Holà"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 97,
+            "sentiment": "3 stars",
+            "score": 0.29350847005844116
+          },
+          {
+            "begin_char": 98,
+            "end_char": 177,
+            "sentiment": "4 stars",
+            "score": 0.26911798119544983
+          },
+          {
+            "begin_char": 178,
+            "end_char": 575,
+            "sentiment": "5 stars",
+            "score": 0.3282652497291565
+          },
+          {
+            "begin_char": 576,
+            "end_char": 777,
+            "sentiment": "5 stars",
+            "score": 0.34123021364212036
+          },
+          {
+            "begin_char": 777,
+            "end_char": 785,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 785,
+            "end_char": 997,
+            "sentiment": "3 stars",
+            "score": 0.31407850980758667
+          },
+          {
+            "begin_char": 997,
+            "end_char": 1041,
+            "sentiment": "3 stars",
+            "score": 0.31285977363586426
+          },
+          {
+            "begin_char": 1042,
+            "end_char": 1091,
+            "sentiment": "2 stars",
+            "score": 0.259492427110672
+          },
+          {
+            "begin_char": 1091,
+            "end_char": 1126,
+            "sentiment": "3 stars",
+            "score": 0.2790740132331848
+          },
+          {
+            "begin_char": 1127,
+            "end_char": 1268,
+            "sentiment": "5 stars",
+            "score": 0.3025948703289032
+          },
+          {
+            "begin_char": 1269,
+            "end_char": 1287,
+            "sentiment": "3 stars",
+            "score": 0.24999874830245972
+          },
+          {
+            "begin_char": 1287,
+            "end_char": 1358,
+            "sentiment": "3 stars",
+            "score": 0.2768513560295105
+          },
+          {
+            "begin_char": 1359,
+            "end_char": 1683,
+            "sentiment": "5 stars",
+            "score": 0.5811640024185181
+          },
+          {
+            "begin_char": 1683,
+            "end_char": 1718,
+            "sentiment": "3 stars",
+            "score": 0.2790740132331848
+          },
+          {
+            "begin_char": 1719,
+            "end_char": 1728,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1728,
+            "end_char": 1972,
+            "sentiment": "5 stars",
+            "score": 0.5753966569900513
+          },
+          {
+            "begin_char": 1973,
+            "end_char": 2224,
+            "sentiment": "5 stars",
+            "score": 0.503415584564209
+          },
+          {
+            "begin_char": 2224,
+            "end_char": 2318,
+            "sentiment": "1 star",
+            "score": 0.31931930780410767
+          },
+          {
+            "begin_char": 2319,
+            "end_char": 2531,
+            "sentiment": "3 stars",
+            "score": 0.32034412026405334
+          },
+          {
+            "begin_char": 2532,
+            "end_char": 2603,
+            "sentiment": "5 stars",
+            "score": 0.34407559037208557
+          },
+          {
+            "begin_char": 2604,
+            "end_char": 2734,
+            "sentiment": "2 stars",
+            "score": 0.28228867053985596
+          },
+          {
+            "begin_char": 2735,
+            "end_char": 2868,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 2869,
+            "end_char": 2924,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 2925,
+            "end_char": 3085,
+            "sentiment": "4 stars",
+            "score": 0.34304550290107727
+          },
+          {
+            "begin_char": 3086,
+            "end_char": 3219,
+            "sentiment": "4 stars",
+            "score": 0.3593501150608063
+          },
+          {
+            "begin_char": 3220,
+            "end_char": 3461,
+            "sentiment": "5 stars",
+            "score": 0.452354371547699
+          },
+          {
+            "begin_char": 3462,
+            "end_char": 3499,
+            "sentiment": "5 stars",
+            "score": 0.44521564245224
+          },
+          {
+            "begin_char": 3499,
+            "end_char": 3701,
+            "sentiment": "4 stars",
+            "score": 0.42299309372901917
+          },
+          {
+            "begin_char": 3702,
+            "end_char": 3868,
+            "sentiment": "3 stars",
+            "score": 0.3264698088169098
+          },
+          {
+            "begin_char": 3869,
+            "end_char": 4153,
+            "sentiment": "2 stars",
+            "score": 0.5676132440567017
+          },
+          {
+            "begin_char": 4154,
+            "end_char": 4172,
+            "sentiment": "1 star",
+            "score": 0.8522401452064514
+          },
+          {
+            "begin_char": 4172,
+            "end_char": 4229,
+            "sentiment": "3 stars",
+            "score": 0.29729530215263367
+          },
+          {
+            "begin_char": 4230,
+            "end_char": 4234,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4234,
+            "end_char": 4443,
+            "sentiment": "4 stars",
+            "score": 0.4216281771659851
+          },
+          {
+            "begin_char": 4444,
+            "end_char": 4508,
+            "sentiment": "2 stars",
+            "score": 0.34769752621650696
+          },
+          {
+            "begin_char": 4509,
+            "end_char": 4562,
+            "sentiment": "1 star",
+            "score": 0.2847638726234436
+          },
+          {
+            "begin_char": 4562,
+            "end_char": 4619,
+            "sentiment": "3 stars",
+            "score": 0.29729530215263367
+          },
+          {
+            "begin_char": 4620,
+            "end_char": 4826,
+            "sentiment": "4 stars",
+            "score": 0.3646288812160492
+          },
+          {
+            "begin_char": 4827,
+            "end_char": 4898,
+            "sentiment": "1 star",
+            "score": 0.3287946581840515
+          },
+          {
+            "begin_char": 4899,
+            "end_char": 5135,
+            "sentiment": "4 stars",
+            "score": 0.3203662037849426
+          },
+          {
+            "begin_char": 5135,
+            "end_char": 5371,
+            "sentiment": "5 stars",
+            "score": 0.33913514018058777
+          },
+          {
+            "begin_char": 5372,
+            "end_char": 5508,
+            "sentiment": "5 stars",
+            "score": 0.3558170199394226
+          },
+          {
+            "begin_char": 5509,
+            "end_char": 5651,
+            "sentiment": "3 stars",
+            "score": 0.3478582203388214
+          },
+          {
+            "begin_char": 5652,
+            "end_char": 5658,
+            "sentiment": "5 stars",
+            "score": 0.4011068642139435
+          },
+          {
+            "begin_char": 5658,
+            "end_char": 5666,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5907",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

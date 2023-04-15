@@ -1,0 +1,851 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG9",
+    "identifiant": {
+      "numero": "9",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "établissements de santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Situation des urgences à l'hôpital"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA605745",
+        "mandatRef": "PM796419"
+      },
+      "groupe": {
+        "organeRef": "PO800502",
+        "abrege": "GDR-NUPES",
+        "developpe": "Gauche démocrate et républicaine - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION DES URGENCES À L'HÔPITAL <a name=PG9></a> </p><br><strong>M. Nicolas Sansu. </strong>Madame la Première ministre, le scandale Uber est révélateur de votre vision de la société : c'est une vision qui dérégule, casse le droit du travail et maltraite les salariés. <i>(Applaudissements sur les bancs des groupes LFI-NUPES, Écolo-NUPES et GDR-NUPES.) </i>C'est ce que vous tendez à appliquer aux hôpitaux, au nom d'une exigence de rentabilité surannée. Ainsi, plus de 120 services d'urgences hospitalières sont en souffrance et des milliers de lits sont promis à la fermeture pour cet été, s'additionnant aux 17 000 lits fermés ces cinq dernières années. Dans le seul département du Cher, par manque d'infirmières et d'aides-soignantes – nombre d'entre elles jettent l'éponge –, 270 lits fermeraient cet été, engorgeant encore plus des services qui n'en peuvent plus. Les maternités vont tout aussi mal et les femmes sont inquiètes. À Orléans par exemple, et partout en France, des femmes sur le point d'accoucher sont dirigées à 50 voire 80 kilomètres de chez elles, faute de personnels soignants.<br><br>Face à cette situation critique, vos réponses valident une rupture du service public en normalisant le fonctionnement dégradé des urgences la nuit, et même en incitant à leur fermeture au nom d'une mutualisation des moyens. Les inégalités territoriales vont ainsi s'accentuer.<br><br>Comment accepter que des équipes d'urgence partent sans médecin ? Comment accepter qu'une femme n'accouche pas là où elle s'est préparée ? Comment peut-on affirmer que la solution serait de faire appel à la médecine de ville, alors même que la désertification médicale avance inexorablement ? Comment accepter le versement de primes de 3 000, voire 5 000 euros à des personnels soignants pour l'été, provoquant division et dégoût parmi les anciens qui n'y auraient pas droit ? Comment comprendre votre inflexibilité à ne pas réintégrer tous les soignants dont nous avons besoin ? <i>(Applaudissements sur quelques bancs du groupe LFI-NUPES. – M. Sébastien Jumel applaudit également.)</i><br><br><strong>Mme Caroline Parmentier.</strong> Il a raison !<br><br><strong>M. Nicolas Sansu. </strong>Les solutions sont complexes, mais le relèvement significatif des rémunérations des personnels soignants, l'encadrement strict des règles de l'intérim, ainsi qu'un véritable plan équilibré de structuration de l'hôpital public, doté des moyens y afférents, sont une nécessité. <br><br>Madame la Première ministre, quand allez-vous entendre cette inquiétude et cette souffrance qui montent et permettre à la représentation nationale de mener un grand débat sur le sujet, pour en finir avec les politiques libérales destructrices ? <i>(Applaudissements sur les bancs des groupes GDR-NUPES, LFI-NUPES, SOC et Écolo-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>En effet, notre système de santé connaît actuellement des problèmes structurels importants que ces deux années et demie de crise sanitaire ont particulièrement mis en exergue. Cependant, l'implication des personnels soignants est totale : ce sont eux qui tiennent notre système de santé en ne comptant pas leurs heures, et je veux leur rendre hommage. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>M. Jocelyn Dessigny.</strong> Le disque est rayé !<br><br><strong>M. François Ruffin.</strong> Maintenant, il y a les propositions de notre camarade Sansu !<br><br><strong>M. François Braun,</strong><i> ministre . </i>Les constats sont connus : démographie médicale inadaptée aux besoins ; déserts médicaux ; mauvaise articulation entre la ville et l'hôpital ; personnel soignant en quête de sens ;…<br><br><strong>M. François Ruffin.</strong> En quête de salaire !<br><br><strong>M. François Braun,</strong><i> ministre . </i>…métier en perte d'attractivité ; politique de prévention insuffisamment développée, etc. Face à cela, les choses qui ont déjà été faites au cours des dernières années ne sont qu'une étape.<br><br><strong>M. Stéphane Peu.</strong> Vous lisez toujours la même fiche !<br><br><strong>M. Patrick Hetzel.</strong> Il va nous endormir, c'est sûr !<br><br><strong>M. François Braun,</strong><i> ministre . </i>Nous devons aller plus loin…<br><br><strong>M. Stéphane Peu.</strong> Oh n'allez pas plus loin, s'il vous plaît ! <i>(Sourires.)</i><br><br><strong>M. François Braun,</strong><i> ministre . </i>…pour régler des problèmes structurels accumulés depuis des décennies et qui sautent désormais aux yeux. <i>(Exclamations sur les bancs du groupe LFI-NUPES.)</i><br><br>Pour cela, je n'entends pas dire à chacun ce qu'il doit faire, depuis mon bureau du ministère. Au contraire, je crois en la concertation et aux solutions qui viennent du terrain. <i>(Exclamations sur les bancs du groupe LFI-NUPES.</i> – Applaudissements sur quelques bancs du groupe RE.) Cela a été la méthode utilisée pour construire la réponse aux difficultés actuelles des urgences. Ce sera la solution utilisée à l'avenir.<br><br>Notre système de santé, fondé sur un système d'offre de soins, doit être rénové pour devenir un système de santé fondé sur la réponse aux besoins de santé.<br><br><strong>M. Stéphane Peu.</strong> Vous ne répondez pas sur les maternités !<br><br><strong>M. François Braun,</strong><i> ministre . </i>Cette réponse aux besoins de santé nous imposera d'être beaucoup plus collaboratifs que nous ne le sommes actuellement. C'est tout le sens de la conférence des parties prenantes qui permettra, dans une concertation apaisée, en écoutant d'abord ce que nous disent les Français, les soignés, les soignants et les élus, de rénover notre système de santé. La prévention est un outil essentiel pour améliorer le niveau de santé des Français. C'est aussi un outil qui nous permettra de faire des économies. <i>(Exclamations sur les bancs du groupe LFI-NUPES.</i> – Applaudissements sur quelques bancs des groupes RE et Dem.) <br><br><strong>M. Ugo Bernalicis.</strong> C'était donc ça !<br> <p>",
+        "entities": [
+          {
+            "start_char": 50,
+            "end_char": 59,
+            "label": "LOC",
+            "text": "HÔPITAL <"
+          },
+          {
+            "start_char": 66,
+            "end_char": 73,
+            "label": "LOC",
+            "text": "PG9></a"
+          },
+          {
+            "start_char": 94,
+            "end_char": 107,
+            "label": "PER",
+            "text": "Nicolas Sansu"
+          },
+          {
+            "start_char": 118,
+            "end_char": 136,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 342,
+            "end_char": 351,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 353,
+            "end_char": 364,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 368,
+            "end_char": 377,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 964,
+            "end_char": 971,
+            "label": "LOC",
+            "text": "Orléans"
+          },
+          {
+            "start_char": 999,
+            "end_char": 1005,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1117,
+            "end_char": 1135,
+            "label": "MISC",
+            "text": "soignants.<br><br>"
+          },
+          {
+            "start_char": 1401,
+            "end_char": 1418,
+            "label": "MISC",
+            "text": "accentuer.<br><br"
+          },
+          {
+            "start_char": 2049,
+            "end_char": 2058,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2065,
+            "end_char": 2080,
+            "label": "PER",
+            "text": "Sébastien Jumel"
+          },
+          {
+            "start_char": 2122,
+            "end_char": 2154,
+            "label": "PER",
+            "text": "Mme Caroline Parmentier.</strong"
+          },
+          {
+            "start_char": 2188,
+            "end_char": 2201,
+            "label": "PER",
+            "text": "Nicolas Sansu"
+          },
+          {
+            "start_char": 2496,
+            "end_char": 2514,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 2788,
+            "end_char": 2797,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2799,
+            "end_char": 2808,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2810,
+            "end_char": 2813,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2817,
+            "end_char": 2849,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2850,
+            "end_char": 2853,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2894,
+            "end_char": 2896,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2960,
+            "end_char": 2968,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3431,
+            "end_char": 3454,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3458,
+            "end_char": 3483,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 3524,
+            "end_char": 3560,
+            "label": "PER",
+            "text": "François Ruffin.</strong> Maintenant"
+          },
+          {
+            "start_char": 3604,
+            "end_char": 3609,
+            "label": "LOC",
+            "text": "Sansu"
+          },
+          {
+            "start_char": 3630,
+            "end_char": 3638,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3658,
+            "end_char": 3666,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3873,
+            "end_char": 3897,
+            "label": "PER",
+            "text": "François Ruffin.</strong"
+          },
+          {
+            "start_char": 3939,
+            "end_char": 3947,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3967,
+            "end_char": 3975,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4072,
+            "end_char": 4076,
+            "label": "MISC",
+            "text": "Face"
+          },
+          {
+            "start_char": 4190,
+            "end_char": 4211,
+            "label": "PER",
+            "text": "Stéphane Peu.</strong"
+          },
+          {
+            "start_char": 4267,
+            "end_char": 4291,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 4343,
+            "end_char": 4351,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 4371,
+            "end_char": 4379,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4433,
+            "end_char": 4454,
+            "label": "PER",
+            "text": "Stéphane Peu.</strong"
+          },
+          {
+            "start_char": 4537,
+            "end_char": 4545,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 4565,
+            "end_char": 4573,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4726,
+            "end_char": 4748,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 4969,
+            "end_char": 4982,
+            "label": "ORG",
+            "text": "LFI-NUPES.</i"
+          },
+          {
+            "start_char": 4986,
+            "end_char": 5002,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 5025,
+            "end_char": 5034,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 5168,
+            "end_char": 5182,
+            "label": "MISC",
+            "text": "avenir.<br><br"
+          },
+          {
+            "start_char": 5357,
+            "end_char": 5378,
+            "label": "PER",
+            "text": "Stéphane Peu.</strong"
+          },
+          {
+            "start_char": 5440,
+            "end_char": 5448,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 5468,
+            "end_char": 5476,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 5750,
+            "end_char": 5758,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5910,
+            "end_char": 5918,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 6025,
+            "end_char": 6038,
+            "label": "ORG",
+            "text": "LFI-NUPES.</i"
+          },
+          {
+            "start_char": 6090,
+            "end_char": 6092,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 6096,
+            "end_char": 6099,
+            "label": "ORG",
+            "text": "Dem"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 94,
+            "sentiment": "3 stars",
+            "score": 0.34968340396881104
+          },
+          {
+            "begin_char": 94,
+            "end_char": 108,
+            "sentiment": "1 star",
+            "score": 0.3528737425804138
+          },
+          {
+            "begin_char": 109,
+            "end_char": 118,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 118,
+            "end_char": 158,
+            "sentiment": "1 star",
+            "score": 0.6610658764839172
+          },
+          {
+            "begin_char": 159,
+            "end_char": 294,
+            "sentiment": "5 stars",
+            "score": 0.28797513246536255
+          },
+          {
+            "begin_char": 295,
+            "end_char": 378,
+            "sentiment": "4 stars",
+            "score": 0.34900957345962524
+          },
+          {
+            "begin_char": 378,
+            "end_char": 379,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 380,
+            "end_char": 384,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 384,
+            "end_char": 481,
+            "sentiment": "1 star",
+            "score": 0.4814251959323883
+          },
+          {
+            "begin_char": 482,
+            "end_char": 683,
+            "sentiment": "2 stars",
+            "score": 0.24194559454917908
+          },
+          {
+            "begin_char": 684,
+            "end_char": 896,
+            "sentiment": "1 star",
+            "score": 0.37439867854118347
+          },
+          {
+            "begin_char": 897,
+            "end_char": 961,
+            "sentiment": "3 stars",
+            "score": 0.26796379685401917
+          },
+          {
+            "begin_char": 962,
+            "end_char": 1135,
+            "sentiment": "3 stars",
+            "score": 0.3046190142631531
+          },
+          {
+            "begin_char": 1135,
+            "end_char": 1358,
+            "sentiment": "5 stars",
+            "score": 0.5041660070419312
+          },
+          {
+            "begin_char": 1359,
+            "end_char": 1484,
+            "sentiment": "4 stars",
+            "score": 0.2694627046585083
+          },
+          {
+            "begin_char": 1485,
+            "end_char": 1557,
+            "sentiment": "3 stars",
+            "score": 0.2317361831665039
+          },
+          {
+            "begin_char": 1558,
+            "end_char": 1711,
+            "sentiment": "1 star",
+            "score": 0.5778586268424988
+          },
+          {
+            "begin_char": 1712,
+            "end_char": 1895,
+            "sentiment": "1 star",
+            "score": 0.6399595737457275
+          },
+          {
+            "begin_char": 1896,
+            "end_char": 1998,
+            "sentiment": "5 stars",
+            "score": 0.3282546103000641
+          },
+          {
+            "begin_char": 1999,
+            "end_char": 2065,
+            "sentiment": "3 stars",
+            "score": 0.31785139441490173
+          },
+          {
+            "begin_char": 2065,
+            "end_char": 2080,
+            "sentiment": "3 stars",
+            "score": 0.2842618525028229
+          },
+          {
+            "begin_char": 2081,
+            "end_char": 2155,
+            "sentiment": "4 stars",
+            "score": 0.3977946639060974
+          },
+          {
+            "begin_char": 2156,
+            "end_char": 2169,
+            "sentiment": "5 stars",
+            "score": 0.3322871923446655
+          },
+          {
+            "begin_char": 2169,
+            "end_char": 2202,
+            "sentiment": "2 stars",
+            "score": 0.2830826938152313
+          },
+          {
+            "begin_char": 2203,
+            "end_char": 2212,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2212,
+            "end_char": 2487,
+            "sentiment": "4 stars",
+            "score": 0.5199344754219055
+          },
+          {
+            "begin_char": 2488,
+            "end_char": 2496,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2496,
+            "end_char": 2524,
+            "sentiment": "4 stars",
+            "score": 0.3429751992225647
+          },
+          {
+            "begin_char": 2525,
+            "end_char": 2740,
+            "sentiment": "5 stars",
+            "score": 0.7982016801834106
+          },
+          {
+            "begin_char": 2741,
+            "end_char": 2868,
+            "sentiment": "4 stars",
+            "score": 0.3334072232246399
+          },
+          {
+            "begin_char": 2869,
+            "end_char": 2987,
+            "sentiment": "4 stars",
+            "score": 0.3129529356956482
+          },
+          {
+            "begin_char": 2988,
+            "end_char": 3029,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 3030,
+            "end_char": 3034,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3034,
+            "end_char": 3209,
+            "sentiment": "4 stars",
+            "score": 0.43282875418663025
+          },
+          {
+            "begin_char": 3210,
+            "end_char": 3385,
+            "sentiment": "5 stars",
+            "score": 0.579336941242218
+          },
+          {
+            "begin_char": 3386,
+            "end_char": 3484,
+            "sentiment": "3 stars",
+            "score": 0.35273677110671997
+          },
+          {
+            "begin_char": 3485,
+            "end_char": 3505,
+            "sentiment": "1 star",
+            "score": 0.6196298003196716
+          },
+          {
+            "begin_char": 3505,
+            "end_char": 3611,
+            "sentiment": "1 star",
+            "score": 0.26864734292030334
+          },
+          {
+            "begin_char": 3611,
+            "end_char": 3668,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 3669,
+            "end_char": 3744,
+            "sentiment": "2 stars",
+            "score": 0.4373633563518524
+          },
+          {
+            "begin_char": 3745,
+            "end_char": 3763,
+            "sentiment": "2 stars",
+            "score": 0.2793889045715332
+          },
+          {
+            "begin_char": 3764,
+            "end_char": 3815,
+            "sentiment": "2 stars",
+            "score": 0.5038301944732666
+          },
+          {
+            "begin_char": 3816,
+            "end_char": 3853,
+            "sentiment": "4 stars",
+            "score": 0.3029753565788269
+          },
+          {
+            "begin_char": 3853,
+            "end_char": 3898,
+            "sentiment": "3 stars",
+            "score": 0.31796279549598694
+          },
+          {
+            "begin_char": 3899,
+            "end_char": 3920,
+            "sentiment": "5 stars",
+            "score": 0.26626014709472656
+          },
+          {
+            "begin_char": 3920,
+            "end_char": 3977,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 3978,
+            "end_char": 4015,
+            "sentiment": "2 stars",
+            "score": 0.4254853427410126
+          },
+          {
+            "begin_char": 4016,
+            "end_char": 4071,
+            "sentiment": "3 stars",
+            "score": 0.3369150459766388
+          },
+          {
+            "begin_char": 4072,
+            "end_char": 4248,
+            "sentiment": "2 stars",
+            "score": 0.4568301737308502
+          },
+          {
+            "begin_char": 4248,
+            "end_char": 4291,
+            "sentiment": "3 stars",
+            "score": 0.319522887468338
+          },
+          {
+            "begin_char": 4292,
+            "end_char": 4324,
+            "sentiment": "1 star",
+            "score": 0.37738096714019775
+          },
+          {
+            "begin_char": 4324,
+            "end_char": 4381,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 4382,
+            "end_char": 4386,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4386,
+            "end_char": 4455,
+            "sentiment": "3 stars",
+            "score": 0.2697621285915375
+          },
+          {
+            "begin_char": 4456,
+            "end_char": 4499,
+            "sentiment": "1 star",
+            "score": 0.5001705884933472
+          },
+          {
+            "begin_char": 4500,
+            "end_char": 4575,
+            "sentiment": "3 stars",
+            "score": 0.3272711932659149
+          },
+          {
+            "begin_char": 4576,
+            "end_char": 4684,
+            "sentiment": "3 stars",
+            "score": 0.2710626423358917
+          },
+          {
+            "begin_char": 4685,
+            "end_char": 4843,
+            "sentiment": "5 stars",
+            "score": 0.2853158712387085
+          },
+          {
+            "begin_char": 4844,
+            "end_char": 4927,
+            "sentiment": "5 stars",
+            "score": 0.5405483841896057
+          },
+          {
+            "begin_char": 4928,
+            "end_char": 5035,
+            "sentiment": "3 stars",
+            "score": 0.32626110315322876
+          },
+          {
+            "begin_char": 5035,
+            "end_char": 5134,
+            "sentiment": "5 stars",
+            "score": 0.47980019450187683
+          },
+          {
+            "begin_char": 5135,
+            "end_char": 5183,
+            "sentiment": "4 stars",
+            "score": 0.30162739753723145
+          },
+          {
+            "begin_char": 5183,
+            "end_char": 5379,
+            "sentiment": "5 stars",
+            "score": 0.3975153863430023
+          },
+          {
+            "begin_char": 5380,
+            "end_char": 5421,
+            "sentiment": "1 star",
+            "score": 0.7105309367179871
+          },
+          {
+            "begin_char": 5421,
+            "end_char": 5478,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 5479,
+            "end_char": 5602,
+            "sentiment": "5 stars",
+            "score": 0.5035765171051025
+          },
+          {
+            "begin_char": 5603,
+            "end_char": 5834,
+            "sentiment": "5 stars",
+            "score": 0.6616909503936768
+          },
+          {
+            "begin_char": 5835,
+            "end_char": 5919,
+            "sentiment": "5 stars",
+            "score": 0.4926075339317322
+          },
+          {
+            "begin_char": 5920,
+            "end_char": 5983,
+            "sentiment": "5 stars",
+            "score": 0.570605993270874
+          },
+          {
+            "begin_char": 5984,
+            "end_char": 6100,
+            "sentiment": "3 stars",
+            "score": 0.32614755630493164
+          },
+          {
+            "begin_char": 6100,
+            "end_char": 6163,
+            "sentiment": "2 stars",
+            "score": 0.2794332802295685
+          },
+          {
+            "begin_char": 6163,
+            "end_char": 6171,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-13",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-13",
+        "pageJO": "2336",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

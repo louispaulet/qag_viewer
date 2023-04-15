@@ -1,0 +1,695 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG434",
+    "identifiant": {
+      "numero": "434",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "anciens combattants et victimes de guerre",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "TIRAILLEURS SÉNÉGALAIS"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA722134",
+        "mandatRef": "PM797658"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Anciens combattants et mémoire",
+      "developpe": "Secrétariat d’État auprès du ministre des armées, chargé des anciens combattants et de la mémoire"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Anciens combattants et mémoire",
+          "developpe": "Secrétariat d’État auprès du ministre des armées, chargé des anciens combattants et de la mémoire"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> TIRAILLEURS SÉNÉGALAIS <a name=PG20></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Marie Fiévet.<br><br><strong>M. Jean-Marie Fiévet. </strong>Madame la secrétaire d’État chargée des anciens combattants et de la mémoire, le film <i>Tirailleurs</i>, réalisé par Mathieu Vadepied, est sorti au cinéma le mercredi 4 janvier. Ce film, qui se déroule en 1917, raconte l'histoire du jeune Thierno – joué par Alassane Diong – recruté de force dans un village sénégalais par l'armée française, et de son père Bakary – incarné par Omar Sy.<br><br>La sortie du film relance l’intérêt, mais aussi certaines polémiques autour de la mémoire et l’histoire de ces unités coloniales recrutées dans les différents territoires de l’empire français. Leur histoire est souvent méconnue : ne les oublions pas ! Créé en 1857, le statut de tirailleur sénégalais est donné aux hommes recrutés dans toute l’Afrique subsaharienne et faisant partie du corps militaire des troupes coloniales. À la création du premier régiment, ils étaient environ 500 ; lors de la grande guerre, ils étaient plus de 200 000 à se battre sous le drapeau français.<br><br>Engagés dans différents combats, durant la seconde guerre mondiale, en Indochine, ou encore à Madagascar et en Algérie, où ils intervenaient comme forces de l'empire français, ils ont servi les armées françaises jusqu'aux guerres de décolonisation et d'indépendance. En 1962, ils ont été définitivement dissous.<br><br>En réponse à cet engagement, et malgré les polémiques pouvant ressurgir, l’État se doit d’apporter une reconnaissance juste à ces anciens combattants – ce qu'il fait.<br><br>Au-delà de l’actualité cinématographique, pouvez-vous, madame la secrétaire d'État, nous rappeler la réalité historique de l’apport des tirailleurs à l’armée française durant les nombreuses décennies au cours desquelles ils ont été employés, et nous préciser leur nombre et leur situation géographique et sociale aujourd'hui ? Comment l’État et le Gouvernement accompagnent-ils ces grands anciens combattants et leur apportent-ils la reconnaissance qui leur est due ? <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>M. Sylvain Maillard.</strong> Très bien !<br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État chargée des anciens combattants et de la mémoire.<br><br><strong>Mme Patricia Mirallès,</strong><i> secrétaire d'État chargée des anciens combattants et de la mémoire. </i>Les tirailleurs sénégalais sont des combattants issus des anciennes colonies d'Afrique subsaharienne, qui se sont engagés au sein de l'armée française pendant la première guerre mondiale.<br><br><strong>M. Pierre Cordier.</strong> Ça a déjà été dit !<br><br><strong>Mme Patricia Mirallès,</strong><i> secrétaire d'État . </i>Près de 200 000 d'entre eux se sont engagés pour défendre notre drapeau ; leur contribution pendant la seconde guerre mondiale a d'ailleurs valu à deux d'entre eux de reposer dans la crypte du Mont-Valérien. Ils se sont battus vaillamment, avec honneur et fierté, pour notre pays, et font donc l'objet d'une attention constante de mon secrétariat d'État, sous l'autorité de Sébastien Lecornu, ministre des armées.<br><br>Si les marques de reconnaissance ne manquent pas, il s'agit d'un travail continu auquel je me suis attachée depuis mon entrée au Gouvernement. J'ai ainsi travaillé avec l'Office national des anciens combattants et victimes de guerre (ONACVG) pour dénombrer précisément les tirailleurs sénégalais. Aujourd'hui, une trentaine d'entre eux, octogénaires et nonagénaires, vivent dans des foyers de travailleurs, essentiellement à Bondy. Avec Jean-Christophe Combe, ministre des solidarités, de l'autonomie et des personnes handicapées, et Marc Fesneau, ministre de l'agriculture et de la souveraineté alimentaire, nous avons donc levé, à titre exceptionnel, l'obligation de résider en France à laquelle était conditionnée la perception du minimum vieillesse, afin qu'ils puissent finir leurs jours dans leur pays. C'était une question d'humanité. Après notre rencontre à Bondy, ils m'ont accompagnée, en décembre, pour raviver la flamme sous l'Arc de Triomphe : c'était un grand moment.<br><br>Le film avec Omar Sy doit rappeler aux Français une page de notre histoire. Mon secrétariat d'État a pour mission la reconnaissance, la réparation et la mémoire : je m'assure donc que la nation considère ces grands anciens combattants avec respect et attention. Vous pouvez compter sur ma détermination à continuer d'accompagner ces grands combattants qu'ont été les tirailleurs sénégalais. <i>(Applaudissements sur les bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 34,
+            "label": "LOC",
+            "text": "TIRAILLEURS"
+          },
+          {
+            "start_char": 35,
+            "end_char": 45,
+            "label": "MISC",
+            "text": "SÉNÉGALAIS"
+          },
+          {
+            "start_char": 80,
+            "end_char": 83,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 124,
+            "end_char": 126,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 127,
+            "end_char": 160,
+            "label": "PER",
+            "text": "Jean-Marie Fiévet.<br><br><strong"
+          },
+          {
+            "start_char": 164,
+            "end_char": 181,
+            "label": "PER",
+            "text": "Jean-Marie Fiévet"
+          },
+          {
+            "start_char": 192,
+            "end_char": 198,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 215,
+            "end_char": 219,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 278,
+            "end_char": 295,
+            "label": "MISC",
+            "text": "<i>Tirailleurs</i"
+          },
+          {
+            "start_char": 310,
+            "end_char": 326,
+            "label": "PER",
+            "text": "Mathieu Vadepied"
+          },
+          {
+            "start_char": 432,
+            "end_char": 439,
+            "label": "PER",
+            "text": "Thierno"
+          },
+          {
+            "start_char": 451,
+            "end_char": 465,
+            "label": "PER",
+            "text": "Alassane Diong"
+          },
+          {
+            "start_char": 550,
+            "end_char": 556,
+            "label": "PER",
+            "text": "Bakary"
+          },
+          {
+            "start_char": 571,
+            "end_char": 587,
+            "label": "PER",
+            "text": "Omar Sy.<br><br>"
+          },
+          {
+            "start_char": 613,
+            "end_char": 622,
+            "label": "MISC",
+            "text": "l’intérêt"
+          },
+          {
+            "start_char": 680,
+            "end_char": 682,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 761,
+            "end_char": 763,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 931,
+            "end_char": 938,
+            "label": "LOC",
+            "text": "Afrique"
+          },
+          {
+            "start_char": 1157,
+            "end_char": 1173,
+            "label": "MISC",
+            "text": "français.<br><br"
+          },
+          {
+            "start_char": 1217,
+            "end_char": 1240,
+            "label": "MISC",
+            "text": "seconde guerre mondiale"
+          },
+          {
+            "start_char": 1245,
+            "end_char": 1254,
+            "label": "LOC",
+            "text": "Indochine"
+          },
+          {
+            "start_char": 1268,
+            "end_char": 1278,
+            "label": "LOC",
+            "text": "Madagascar"
+          },
+          {
+            "start_char": 1285,
+            "end_char": 1292,
+            "label": "LOC",
+            "text": "Algérie"
+          },
+          {
+            "start_char": 1566,
+            "end_char": 1568,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 1568,
+            "end_char": 1572,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1678,
+            "end_char": 1680,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 1745,
+            "end_char": 1749,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1790,
+            "end_char": 1792,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1817,
+            "end_char": 1819,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2004,
+            "end_char": 2008,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2015,
+            "end_char": 2027,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2186,
+            "end_char": 2209,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2267,
+            "end_char": 2270,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2311,
+            "end_char": 2314,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2331,
+            "end_char": 2335,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2401,
+            "end_char": 2413,
+            "label": "PER",
+            "text": "Mme Patricia"
+          },
+          {
+            "start_char": 2449,
+            "end_char": 2453,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2587,
+            "end_char": 2608,
+            "label": "LOC",
+            "text": "Afrique subsaharienne"
+          },
+          {
+            "start_char": 2670,
+            "end_char": 2685,
+            "label": "MISC",
+            "text": "première guerre"
+          },
+          {
+            "start_char": 2714,
+            "end_char": 2738,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong>"
+          },
+          {
+            "start_char": 2739,
+            "end_char": 2741,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 2774,
+            "end_char": 2786,
+            "label": "PER",
+            "text": "Mme Patricia"
+          },
+          {
+            "start_char": 2822,
+            "end_char": 2826,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2936,
+            "end_char": 2959,
+            "label": "MISC",
+            "text": "seconde guerre mondiale"
+          },
+          {
+            "start_char": 3016,
+            "end_char": 3039,
+            "label": "LOC",
+            "text": "crypte du Mont-Valérien"
+          },
+          {
+            "start_char": 3182,
+            "end_char": 3186,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3207,
+            "end_char": 3224,
+            "label": "PER",
+            "text": "Sébastien Lecornu"
+          },
+          {
+            "start_char": 3239,
+            "end_char": 3253,
+            "label": "MISC",
+            "text": "armées.<br><br"
+          },
+          {
+            "start_char": 3383,
+            "end_char": 3395,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3425,
+            "end_char": 3464,
+            "label": "ORG",
+            "text": "Office national des anciens combattants"
+          },
+          {
+            "start_char": 3488,
+            "end_char": 3494,
+            "label": "ORG",
+            "text": "ONACVG"
+          },
+          {
+            "start_char": 3679,
+            "end_char": 3684,
+            "label": "LOC",
+            "text": "Bondy"
+          },
+          {
+            "start_char": 3691,
+            "end_char": 3712,
+            "label": "PER",
+            "text": "Jean-Christophe Combe"
+          },
+          {
+            "start_char": 3788,
+            "end_char": 3800,
+            "label": "PER",
+            "text": "Marc Fesneau"
+          },
+          {
+            "start_char": 3934,
+            "end_char": 3940,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 4120,
+            "end_char": 4125,
+            "label": "LOC",
+            "text": "Bondy"
+          },
+          {
+            "start_char": 4193,
+            "end_char": 4208,
+            "label": "LOC",
+            "text": "Arc de Triomphe"
+          },
+          {
+            "start_char": 4228,
+            "end_char": 4242,
+            "label": "MISC",
+            "text": "moment.<br><br"
+          },
+          {
+            "start_char": 4256,
+            "end_char": 4260,
+            "label": "MISC",
+            "text": "Omar"
+          },
+          {
+            "start_char": 4282,
+            "end_char": 4290,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4337,
+            "end_char": 4341,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4679,
+            "end_char": 4690,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 63,
+            "sentiment": "1 star",
+            "score": 0.4876278340816498
+          },
+          {
+            "begin_char": 64,
+            "end_char": 98,
+            "sentiment": "4 stars",
+            "score": 0.2742326259613037
+          },
+          {
+            "begin_char": 99,
+            "end_char": 182,
+            "sentiment": "3 stars",
+            "score": 0.26164811849594116
+          },
+          {
+            "begin_char": 183,
+            "end_char": 192,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 192,
+            "end_char": 370,
+            "sentiment": "5 stars",
+            "score": 0.3056909441947937
+          },
+          {
+            "begin_char": 371,
+            "end_char": 587,
+            "sentiment": "3 stars",
+            "score": 0.3674643039703369
+          },
+          {
+            "begin_char": 587,
+            "end_char": 779,
+            "sentiment": "3 stars",
+            "score": 0.4376686215400696
+          },
+          {
+            "begin_char": 780,
+            "end_char": 838,
+            "sentiment": "5 stars",
+            "score": 0.541456937789917
+          },
+          {
+            "begin_char": 839,
+            "end_char": 1013,
+            "sentiment": "4 stars",
+            "score": 0.35981428623199463
+          },
+          {
+            "begin_char": 1014,
+            "end_char": 1074,
+            "sentiment": "3 stars",
+            "score": 0.28609269857406616
+          },
+          {
+            "begin_char": 1075,
+            "end_char": 1174,
+            "sentiment": "4 stars",
+            "score": 0.30145537853240967
+          },
+          {
+            "begin_char": 1174,
+            "end_char": 1440,
+            "sentiment": "4 stars",
+            "score": 0.47518882155418396
+          },
+          {
+            "begin_char": 1441,
+            "end_char": 1493,
+            "sentiment": "3 stars",
+            "score": 0.2538835406303406
+          },
+          {
+            "begin_char": 1493,
+            "end_char": 1993,
+            "sentiment": "5 stars",
+            "score": 0.49584275484085083
+          },
+          {
+            "begin_char": 1994,
+            "end_char": 2134,
+            "sentiment": "5 stars",
+            "score": 0.5679335594177246
+          },
+          {
+            "begin_char": 2135,
+            "end_char": 2251,
+            "sentiment": "4 stars",
+            "score": 0.47295090556144714
+          },
+          {
+            "begin_char": 2251,
+            "end_char": 2285,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2286,
+            "end_char": 2503,
+            "sentiment": "4 stars",
+            "score": 0.3277911841869354
+          },
+          {
+            "begin_char": 2504,
+            "end_char": 2738,
+            "sentiment": "3 stars",
+            "score": 0.3911082446575165
+          },
+          {
+            "begin_char": 2739,
+            "end_char": 2758,
+            "sentiment": "5 stars",
+            "score": 0.24900978803634644
+          },
+          {
+            "begin_char": 2758,
+            "end_char": 2828,
+            "sentiment": "3 stars",
+            "score": 0.32021117210388184
+          },
+          {
+            "begin_char": 2829,
+            "end_char": 2906,
+            "sentiment": "5 stars",
+            "score": 0.4579613506793976
+          },
+          {
+            "begin_char": 2907,
+            "end_char": 3040,
+            "sentiment": "4 stars",
+            "score": 0.34462568163871765
+          },
+          {
+            "begin_char": 3041,
+            "end_char": 3254,
+            "sentiment": "5 stars",
+            "score": 0.5336633324623108
+          },
+          {
+            "begin_char": 3254,
+            "end_char": 3396,
+            "sentiment": "5 stars",
+            "score": 0.5613400936126709
+          },
+          {
+            "begin_char": 3397,
+            "end_char": 3550,
+            "sentiment": "4 stars",
+            "score": 0.4296761155128479
+          },
+          {
+            "begin_char": 3551,
+            "end_char": 3685,
+            "sentiment": "4 stars",
+            "score": 0.28657904267311096
+          },
+          {
+            "begin_char": 3686,
+            "end_char": 4062,
+            "sentiment": "5 stars",
+            "score": 0.5091201066970825
+          },
+          {
+            "begin_char": 4063,
+            "end_char": 4095,
+            "sentiment": "5 stars",
+            "score": 0.2669767737388611
+          },
+          {
+            "begin_char": 4096,
+            "end_char": 4260,
+            "sentiment": "5 stars",
+            "score": 0.5551697611808777
+          },
+          {
+            "begin_char": 4261,
+            "end_char": 4318,
+            "sentiment": "5 stars",
+            "score": 0.5463183522224426
+          },
+          {
+            "begin_char": 4319,
+            "end_char": 4356,
+            "sentiment": "4 stars",
+            "score": 0.32163748145103455
+          },
+          {
+            "begin_char": 4357,
+            "end_char": 4405,
+            "sentiment": "5 stars",
+            "score": 0.5276460647583008
+          },
+          {
+            "begin_char": 4406,
+            "end_char": 4504,
+            "sentiment": "5 stars",
+            "score": 0.5626463294029236
+          },
+          {
+            "begin_char": 4505,
+            "end_char": 4633,
+            "sentiment": "5 stars",
+            "score": 0.6217048168182373
+          },
+          {
+            "begin_char": 4634,
+            "end_char": 4691,
+            "sentiment": "4 stars",
+            "score": 0.2991805374622345
+          },
+          {
+            "begin_char": 4692,
+            "end_char": 4695,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-11",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-11",
+        "pageJO": "113",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG117",
+    "identifiant": {
+      "numero": "117",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "entreprises",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Aides aux entreprises face à l'inflation"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794810",
+        "mandatRef": "PM797130"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Industrie",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-05",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Industrie",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-05",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> AIDE AUX ENTREPRISES FACE À L'INFLATION <a name=PG8></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Louise Morel.<br><br><strong>Mme Louise Morel. </strong>Ma question s’adresse à Bruno Le Maire, ministre de l'économie, des finances et de la souveraineté industrielle et numérique. Tout d'abord, je tiens à saluer, au nom du groupe Démocrate, l'action du Gouvernement face à la crise énergétique d'une ampleur exceptionnelle que nous traversons. Au total, l'État a engagé plus de 53 milliards d'euros pour protéger les Français en instaurant un bouclier tarifaire sur les prix du gaz et de l'électricité, mais également en distribuant un chèque énergie de 100 euros dont bénéficient près de 6 millions de foyers, ou encore en prenant des mesures de soutien aux ménages se chauffant au fioul. Sans ces mesures, la facture des Français aurait augmenté de plusieurs centaines d'euros par mois.<br><br>En revanche, pour les professionnels, si des dispositifs d'accompagnement sont prévus, les critères d'accès aux aides sont vraisemblablement trop restrictifs. Partout dans nos circonscriptions, des artisans, des chefs d'entreprise, des industriels déplorent que le dispositif ne concerne que les entreprises dont les dépenses d'énergie représentent au moins 3 % du chiffre d'affaires. D'autres critères restreignent fortement l'accès aux aides, comme celui du doublement du prix d'achat de l'énergie sur la période concernée ou encore l'obligation d'afficher un excédent brut d'exploitation négatif.<br><br>Face à cette situation, les entreprises n'ont que peu d'options : soit elles répercutent les coûts sur leurs prix de vente, donc sur le portefeuille des Français, quitte à prendre le risque de perdre une partie de leur clientèle, soit elles baissent leur marge pour supporter elles-mêmes les coûts – mais combien de temps le pourront-elles ?<br><br>Quelles mesures comptez-vous prendre pour permettre aux entreprises de passer l'hiver ? Un assouplissement des critères d'accès aux aides est-il prévu ?<br><br>Je termine en soulignant que si notre action commune a permis à nombre d'entreprises de surmonter la crise sanitaire, nous devons maintenant les soutenir plus que jamais pour que cette nouvelle crise n'ait pas raison d'elles. <i>(Applaudissements sur les bancs du groupe Dem et sur quelques bancs des groupes RE et HOR.)</i><br><br><strong>M. Erwan Balanant.</strong> Bravo !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé de l’industrie.<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué chargé de l’industrie. </i>Merci pour cette question. Elle rejoint celles de plusieurs de vos collègues qui, sur tous les bancs, nous interpellent régulièrement pour souligner que les entreprises sont confrontées à de très fortes hausses des prix de l'énergie, auxquelles nous devons faire face et sur lesquelles nous devons agir.<br><br>Je vous prie d'abord d'excuser l'absence de Bruno Le Maire qui se trouve à Luxembourg où il participe, précisément, au Conseil des ministres de l'Union européenne pour les affaires économiques et financières (Ecofin), afin de négocier les nouveaux paramètres des aides d'État qui nous permettront d'amplifier et de simplifier le plan de soutien aux entreprises dites énergo-intensives. Comme vous l'avez indiqué, les critères actuels sont trop restreints et nous empêchent de toucher les entreprises qui en ont réellement besoin.<br><br>Depuis un an, en anticipation de la crise, le Gouvernement a commencé à prendre des mesures, y compris pour les entreprises. Il faut toutefois reconnaître que la hausse des prix observée cet été et leur volatilité accrue ont renforcé les contraintes pesant sur les entreprises. Nous devons donc agir. Parallèlement à l'action de Bruno Le Maire, Agnès Pannier-Runacher a participé le 30 septembre au Conseil de l'énergie qui s'est tenu à Bruxelles, pour y négocier des modifications du fonctionnement du marché de l'énergie européen. Contrairement à ce qui a été dit, des progrès ont été réalisés à cette occasion. J'espère que nous pourrons le prouver dans les jours qui viennent.<br><br>Enfin, nous intervenons directement auprès des entreprises. J'ai demandé personnellement aux représentants de l'État dans les régions, les CRP – commissaires aux restructurations et à la prévention des difficultés des entreprises –, d'être à leurs côtés et de nous faire remonter les cas particuliers, afin que nous puissions les accompagner, soit en les aidant à négocier avec les fournisseurs d'énergie, soit en rééchelonnant leurs prêts…<br><br><strong>M. Patrick Hetzel.</strong> Les cas particuliers sont nombreux !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué . </i>Je le sais. Nous les examinerons tous – c'est la raison d'être des CRP.<br><br>Je tiens à conclure en faisant appel à la solidarité nationale : l'industrie française nous appartient à tous et à toutes. Comme Mme la Première ministre l'a annoncé, Bruno Le Maire, Agnès Pannier-Runacher, Olivia Grégoire et moi-même réunirons demain les fournisseurs d'énergie pour les inciter à prendre leur part aux efforts de soutien à l'industrie. Les donneurs d'ordre et les distributeurs doivent en faire autant. Marc Fesneau et moi-même les avons réunis ces derniers pour que l'industrie agroalimentaire ne soit pas une victime de la crise. <i>(Applaudissements sur les bancs du groupe Dem et sur quelques bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 51,
+            "end_char": 62,
+            "label": "MISC",
+            "text": "L'INFLATION"
+          },
+          {
+            "start_char": 71,
+            "end_char": 78,
+            "label": "PER",
+            "text": "PG8></a"
+          },
+          {
+            "start_char": 96,
+            "end_char": 99,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 140,
+            "end_char": 172,
+            "label": "PER",
+            "text": "Mme Louise Morel.<br><br><strong"
+          },
+          {
+            "start_char": 173,
+            "end_char": 189,
+            "label": "PER",
+            "text": "Mme Louise Morel"
+          },
+          {
+            "start_char": 212,
+            "end_char": 214,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 224,
+            "end_char": 238,
+            "label": "PER",
+            "text": "Bruno Le Maire"
+          },
+          {
+            "start_char": 376,
+            "end_char": 385,
+            "label": "ORG",
+            "text": "Démocrate"
+          },
+          {
+            "start_char": 399,
+            "end_char": 411,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 502,
+            "end_char": 506,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 563,
+            "end_char": 571,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 869,
+            "end_char": 877,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 929,
+            "end_char": 941,
+            "label": "MISC",
+            "text": "mois.<br><br"
+          },
+          {
+            "start_char": 1533,
+            "end_char": 1553,
+            "label": "MISC",
+            "text": "négatif.<br><br>Face"
+          },
+          {
+            "start_char": 1702,
+            "end_char": 1710,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2329,
+            "end_char": 2332,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 2367,
+            "end_char": 2369,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 2373,
+            "end_char": 2424,
+            "label": "MISC",
+            "text": "HOR.)</i><br><br><strong>M. Erwan Balanant.</strong"
+          },
+          {
+            "start_char": 2426,
+            "end_char": 2431,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 2449,
+            "end_char": 2452,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2493,
+            "end_char": 2495,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2526,
+            "end_char": 2528,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2554,
+            "end_char": 2563,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 2612,
+            "end_char": 2614,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2629,
+            "end_char": 2634,
+            "label": "LOC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 2984,
+            "end_char": 2998,
+            "label": "PER",
+            "text": "Bruno Le Maire"
+          },
+          {
+            "start_char": 3015,
+            "end_char": 3025,
+            "label": "LOC",
+            "text": "Luxembourg"
+          },
+          {
+            "start_char": 3059,
+            "end_char": 3066,
+            "label": "ORG",
+            "text": "Conseil"
+          },
+          {
+            "start_char": 3086,
+            "end_char": 3102,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 3149,
+            "end_char": 3155,
+            "label": "ORG",
+            "text": "Ecofin"
+          },
+          {
+            "start_char": 3211,
+            "end_char": 3215,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3462,
+            "end_char": 3476,
+            "label": "MISC",
+            "text": "besoin.<br><br"
+          },
+          {
+            "start_char": 3523,
+            "end_char": 3535,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3806,
+            "end_char": 3820,
+            "label": "PER",
+            "text": "Bruno Le Maire"
+          },
+          {
+            "start_char": 3822,
+            "end_char": 3844,
+            "label": "PER",
+            "text": "Agnès Pannier-Runacher"
+          },
+          {
+            "start_char": 3876,
+            "end_char": 3896,
+            "label": "ORG",
+            "text": "Conseil de l'énergie"
+          },
+          {
+            "start_char": 3914,
+            "end_char": 3923,
+            "label": "LOC",
+            "text": "Bruxelles"
+          },
+          {
+            "start_char": 4148,
+            "end_char": 4164,
+            "label": "MISC",
+            "text": "viennent.<br><br"
+          },
+          {
+            "start_char": 4277,
+            "end_char": 4281,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4304,
+            "end_char": 4307,
+            "label": "ORG",
+            "text": "CRP"
+          },
+          {
+            "start_char": 4624,
+            "end_char": 4647,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong"
+          },
+          {
+            "start_char": 4701,
+            "end_char": 4710,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 4963,
+            "end_char": 4978,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 5001,
+            "end_char": 5015,
+            "label": "PER",
+            "text": "Bruno Le Maire"
+          },
+          {
+            "start_char": 5017,
+            "end_char": 5039,
+            "label": "PER",
+            "text": "Agnès Pannier-Runacher"
+          },
+          {
+            "start_char": 5041,
+            "end_char": 5056,
+            "label": "PER",
+            "text": "Olivia Grégoire"
+          },
+          {
+            "start_char": 5255,
+            "end_char": 5267,
+            "label": "PER",
+            "text": "Marc Fesneau"
+          },
+          {
+            "start_char": 5429,
+            "end_char": 5432,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 5465,
+            "end_char": 5476,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 43,
+            "sentiment": "4 stars",
+            "score": 0.39183375239372253
+          },
+          {
+            "begin_char": 44,
+            "end_char": 50,
+            "sentiment": "4 stars",
+            "score": 0.2686920166015625
+          },
+          {
+            "begin_char": 51,
+            "end_char": 114,
+            "sentiment": "1 star",
+            "score": 0.34765055775642395
+          },
+          {
+            "begin_char": 115,
+            "end_char": 190,
+            "sentiment": "3 stars",
+            "score": 0.23629999160766602
+          },
+          {
+            "begin_char": 191,
+            "end_char": 325,
+            "sentiment": "4 stars",
+            "score": 0.2972832918167114
+          },
+          {
+            "begin_char": 326,
+            "end_char": 489,
+            "sentiment": "5 stars",
+            "score": 0.6700071096420288
+          },
+          {
+            "begin_char": 490,
+            "end_char": 835,
+            "sentiment": "5 stars",
+            "score": 0.36893635988235474
+          },
+          {
+            "begin_char": 836,
+            "end_char": 942,
+            "sentiment": "3 stars",
+            "score": 0.2678428888320923
+          },
+          {
+            "begin_char": 942,
+            "end_char": 1100,
+            "sentiment": "3 stars",
+            "score": 0.5471142530441284
+          },
+          {
+            "begin_char": 1101,
+            "end_char": 1326,
+            "sentiment": "4 stars",
+            "score": 0.29501426219940186
+          },
+          {
+            "begin_char": 1327,
+            "end_char": 1890,
+            "sentiment": "3 stars",
+            "score": 0.3908519446849823
+          },
+          {
+            "begin_char": 1890,
+            "end_char": 1985,
+            "sentiment": "3 stars",
+            "score": 0.2768261730670929
+          },
+          {
+            "begin_char": 1986,
+            "end_char": 2050,
+            "sentiment": "4 stars",
+            "score": 0.3717878758907318
+          },
+          {
+            "begin_char": 2050,
+            "end_char": 2058,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2058,
+            "end_char": 2283,
+            "sentiment": "5 stars",
+            "score": 0.7123368382453918
+          },
+          {
+            "begin_char": 2284,
+            "end_char": 2433,
+            "sentiment": "5 stars",
+            "score": 0.5216277837753296
+          },
+          {
+            "begin_char": 2433,
+            "end_char": 2467,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2468,
+            "end_char": 2624,
+            "sentiment": "4 stars",
+            "score": 0.29509156942367554
+          },
+          {
+            "begin_char": 2625,
+            "end_char": 2629,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2629,
+            "end_char": 2655,
+            "sentiment": "4 stars",
+            "score": 0.3662467300891876
+          },
+          {
+            "begin_char": 2656,
+            "end_char": 2940,
+            "sentiment": "5 stars",
+            "score": 0.45485368371009827
+          },
+          {
+            "begin_char": 2940,
+            "end_char": 3325,
+            "sentiment": "5 stars",
+            "score": 0.4162060022354126
+          },
+          {
+            "begin_char": 3326,
+            "end_char": 3601,
+            "sentiment": "5 stars",
+            "score": 0.26685377955436707
+          },
+          {
+            "begin_char": 3602,
+            "end_char": 3754,
+            "sentiment": "3 stars",
+            "score": 0.4206753075122833
+          },
+          {
+            "begin_char": 3755,
+            "end_char": 3777,
+            "sentiment": "5 stars",
+            "score": 0.37650182843208313
+          },
+          {
+            "begin_char": 3778,
+            "end_char": 4009,
+            "sentiment": "4 stars",
+            "score": 0.4146515429019928
+          },
+          {
+            "begin_char": 4010,
+            "end_char": 4090,
+            "sentiment": "5 stars",
+            "score": 0.4703861176967621
+          },
+          {
+            "begin_char": 4091,
+            "end_char": 4224,
+            "sentiment": "5 stars",
+            "score": 0.48906293511390686
+          },
+          {
+            "begin_char": 4225,
+            "end_char": 4648,
+            "sentiment": "4 stars",
+            "score": 0.3829787075519562
+          },
+          {
+            "begin_char": 4649,
+            "end_char": 4685,
+            "sentiment": "4 stars",
+            "score": 0.39199939370155334
+          },
+          {
+            "begin_char": 4685,
+            "end_char": 4750,
+            "sentiment": "3 stars",
+            "score": 0.3078303039073944
+          },
+          {
+            "begin_char": 4751,
+            "end_char": 4766,
+            "sentiment": "4 stars",
+            "score": 0.2642296254634857
+          },
+          {
+            "begin_char": 4767,
+            "end_char": 4834,
+            "sentiment": "5 stars",
+            "score": 0.4131821393966675
+          },
+          {
+            "begin_char": 4834,
+            "end_char": 4956,
+            "sentiment": "5 stars",
+            "score": 0.6419867277145386
+          },
+          {
+            "begin_char": 4957,
+            "end_char": 5063,
+            "sentiment": "5 stars",
+            "score": 0.35603415966033936
+          },
+          {
+            "begin_char": 5063,
+            "end_char": 5187,
+            "sentiment": "5 stars",
+            "score": 0.45240136981010437
+          },
+          {
+            "begin_char": 5188,
+            "end_char": 5254,
+            "sentiment": "5 stars",
+            "score": 0.30961522459983826
+          },
+          {
+            "begin_char": 5255,
+            "end_char": 5383,
+            "sentiment": "5 stars",
+            "score": 0.3029480278491974
+          },
+          {
+            "begin_char": 5384,
+            "end_char": 5477,
+            "sentiment": "3 stars",
+            "score": 0.31867802143096924
+          },
+          {
+            "begin_char": 5478,
+            "end_char": 5481,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-05",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-05",
+        "pageJO": "3530",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

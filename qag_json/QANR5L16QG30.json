@@ -1,0 +1,623 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG30",
+    "identifiant": {
+      "numero": "30",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "climat",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Prévention des incendies"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795350",
+        "mandatRef": "PM797436"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PRÉVENTION DES INCENDIES <a name=PG3></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Frédéric Valletoux.<br><br><strong>M. Frédéric Valletoux. </strong>Ma question s'adresse à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br>La France s'embrase. En Gironde, dans les monts d'Arrée, à Avignon ou même, début juin, dans la forêt de Fontainebleau, située dans ma circonscription : des incendies se déclenchent dans tout le territoire. Ils ne sont plus le monopole des régions méditerranéennes, mais touchent chaque année de nouveaux massifs, jusqu’alors protégés de ce risque.<br><br>Je voudrais que nous ayons une pensée pour nos héros du quotidien : sapeurs-pompiers, militaires, agents de la sécurité civile, de l’Office national des forêts (ONF), des collectivités locales, épaulés en Gironde par de nombreux bénévoles – en un mot, pour tous ceux qui nous protègent et luttent contre le feu, avec courage et dévouement, parfois au péril de leur vie.<br><br>Le stade où « la maison [brûlait] » semble dépassé. Devant nos yeux, ce sont bien nos forêts, notre biodiversité, nos paysages et, finalement, la vie tout court qui se consument.<br><br>Le constat est clair. Le changement climatique assèche les sols et la végétation. Il accélère la récurrence des épisodes de feux. Un chiffre doit particulièrement nous alerter : 90 % des feux sont dus à l'imprudence humaine. Une prise de conscience nationale de l'ampleur du risque est indispensable.<br><br>Au cours du précédent quinquennat, le budget de la sécurité civile a connu une augmentation inédite de 44 % en cinq ans, que je salue. Nous devons poursuivre et amplifier cet effort.<br><br>Par ailleurs, nous devons élaborer des réponses plus structurelles. Je pense notamment à une meilleure application de l'obligation légale de débroussaillement ; à la réalisation d'aménagements nouveaux visant à protéger les forêts ; à des mesures de prévention, afin d'éviter les conséquences parfois funestes de la surfréquentation. J'ajoute que la recherche a mis en évidence les dangers que représentent les monocultures forestières.<br><br>Pouvez-vous nous indiquer comment le Gouvernement compte concilier la protection de la biodiversité et des sites naturels avec les contraintes de prévention qu'imposent les risques liés au réchauffement climatique, en particulier, s'agissant des forêts, le risque d'incendie ? <i>(Applaudissements sur les bancs du groupe HOR et sur quelques bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Aurélien Pradié.</strong> Et de l'amour de soi ! Ça se voit !<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Nous avons effectivement atteint 3 500 départs de feu et 27 000 hectares de forêt brûlés. Le ministre de l'intérieur vient de prononcer un hommage, que vous avez répété, et il a été salué sur tous les bancs. Or je cite à mon tour ce chiffre : 90 % des départs de feu sont provoqués par des mégots, des barbecues ou d'autres imprudences humaines. On ne peut pas en même temps applaudir les sapeurs-pompiers et ne pas se donner les moyens de faire respecter tous les gestes élémentaires de prévention en ce domaine. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br>Au-delà de cet appel à la responsabilité individuelle, il va de soi que plusieurs mesures globales doivent être prises. Vous avez cité l'obligation de débroussaillage pour les propriétaires ; c'est un vrai sujet. Je veux saluer la mission flash lancée par la commission de l'aménagement du territoire et du développement durable de l'Assemblée nationale et citer le rapport en préparation au Sénat sur les mégafeux, dont les conclusions, disponibles à l'automne, devraient nous aider à y voir plus clair.<br><br>La Première ministre a confié au Conseil général de l'environnement et du développement durable (CGEDD) la mission de préciser les conditions dans lesquelles nous pouvons aller plus loin en matière de débroussaillage.<br><br>L'autre grand sujet, ce sont les couloirs de défense contre l'incendie, qui permettent aux sapeurs-pompiers d'intervenir. Dans les forêts gérées par l'ONF – 25 % du massif forestier national –, ces couloirs existent ; dans les 75 % de forêts privées, il arrive que des associations d'usagers s'opposent à leur réalisation…<br><br><strong>Plusieurs députés du groupe RN .</strong> Ce sont les écolos !<br><br><strong>M. Vincent Descoeur.</strong> Voilà, exactement !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>…rendant très complexe l'intervention des sapeurs-pompiers. <i>(Protestations sur les bancs des groupes RN et LR.)</i> Hurler sur un sujet comme celui-là ne résoudra rien. (Applaudissements sur quelques bancs du groupe RE.)<br> <p>",
+        "entities": [
+          {
+            "start_char": 38,
+            "end_char": 47,
+            "label": "MISC",
+            "text": "INCENDIES"
+          },
+          {
+            "start_char": 56,
+            "end_char": 63,
+            "label": "LOC",
+            "text": "PG3></a"
+          },
+          {
+            "start_char": 81,
+            "end_char": 84,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 125,
+            "end_char": 162,
+            "label": "PER",
+            "text": "M. Frédéric Valletoux.<br><br><strong"
+          },
+          {
+            "start_char": 166,
+            "end_char": 184,
+            "label": "PER",
+            "text": "Frédéric Valletoux"
+          },
+          {
+            "start_char": 219,
+            "end_char": 221,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 284,
+            "end_char": 313,
+            "label": "MISC",
+            "text": "territoires.<br><br>La France"
+          },
+          {
+            "start_char": 328,
+            "end_char": 335,
+            "label": "LOC",
+            "text": "Gironde"
+          },
+          {
+            "start_char": 346,
+            "end_char": 359,
+            "label": "LOC",
+            "text": "monts d'Arrée"
+          },
+          {
+            "start_char": 363,
+            "end_char": 370,
+            "label": "LOC",
+            "text": "Avignon"
+          },
+          {
+            "start_char": 400,
+            "end_char": 422,
+            "label": "LOC",
+            "text": "forêt de Fontainebleau"
+          },
+          {
+            "start_char": 618,
+            "end_char": 624,
+            "label": "PER",
+            "text": "jusqu’"
+          },
+          {
+            "start_char": 645,
+            "end_char": 659,
+            "label": "MISC",
+            "text": "risque.<br><br"
+          },
+          {
+            "start_char": 791,
+            "end_char": 799,
+            "label": "ORG",
+            "text": "l’Office"
+          },
+          {
+            "start_char": 821,
+            "end_char": 824,
+            "label": "MISC",
+            "text": "ONF"
+          },
+          {
+            "start_char": 865,
+            "end_char": 872,
+            "label": "LOC",
+            "text": "Gironde"
+          },
+          {
+            "start_char": 1205,
+            "end_char": 1222,
+            "label": "MISC",
+            "text": "consument.<br><br"
+          },
+          {
+            "start_char": 2145,
+            "end_char": 2164,
+            "label": "MISC",
+            "text": "forestières.<br><br"
+          },
+          {
+            "start_char": 2165,
+            "end_char": 2171,
+            "label": "PER",
+            "text": "Pouvez"
+          },
+          {
+            "start_char": 2202,
+            "end_char": 2214,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2487,
+            "end_char": 2490,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 2523,
+            "end_char": 2546,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2547,
+            "end_char": 2550,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2591,
+            "end_char": 2593,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2687,
+            "end_char": 2711,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 2736,
+            "end_char": 2738,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 2764,
+            "end_char": 2777,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3438,
+            "end_char": 3453,
+            "label": "ORG",
+            "text": "RE.)</i><br><br"
+          },
+          {
+            "start_char": 3788,
+            "end_char": 3807,
+            "label": "ORG",
+            "text": "Assemblée nationale"
+          },
+          {
+            "start_char": 3846,
+            "end_char": 3868,
+            "label": "MISC",
+            "text": "Sénat sur les mégafeux"
+          },
+          {
+            "start_char": 3969,
+            "end_char": 3977,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3999,
+            "end_char": 4033,
+            "label": "LOC",
+            "text": "Conseil général de l'environnement"
+          },
+          {
+            "start_char": 4063,
+            "end_char": 4068,
+            "label": "MISC",
+            "text": "CGEDD"
+          },
+          {
+            "start_char": 4167,
+            "end_char": 4190,
+            "label": "MISC",
+            "text": "débroussaillage.<br><br"
+          },
+          {
+            "start_char": 4342,
+            "end_char": 4345,
+            "label": "ORG",
+            "text": "ONF"
+          },
+          {
+            "start_char": 4557,
+            "end_char": 4559,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 4610,
+            "end_char": 4635,
+            "label": "PER",
+            "text": "Vincent Descoeur.</strong"
+          },
+          {
+            "start_char": 4672,
+            "end_char": 4685,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4824,
+            "end_char": 4826,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 4830,
+            "end_char": 4837,
+            "label": "LOC",
+            "text": "LR.)</i"
+          },
+          {
+            "start_char": 4839,
+            "end_char": 4845,
+            "label": "LOC",
+            "text": "Hurler"
+          },
+          {
+            "start_char": 4893,
+            "end_char": 4909,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 4939,
+            "end_char": 4946,
+            "label": "MISC",
+            "text": "RE.)<br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 99,
+            "sentiment": "3 stars",
+            "score": 0.2769782841205597
+          },
+          {
+            "begin_char": 100,
+            "end_char": 185,
+            "sentiment": "3 stars",
+            "score": 0.26299819350242615
+          },
+          {
+            "begin_char": 186,
+            "end_char": 324,
+            "sentiment": "3 stars",
+            "score": 0.28880059719085693
+          },
+          {
+            "begin_char": 325,
+            "end_char": 510,
+            "sentiment": "1 star",
+            "score": 0.2726401090621948
+          },
+          {
+            "begin_char": 511,
+            "end_char": 1062,
+            "sentiment": "5 stars",
+            "score": 0.6416012644767761
+          },
+          {
+            "begin_char": 1062,
+            "end_char": 1088,
+            "sentiment": "2 stars",
+            "score": 0.4245045781135559
+          },
+          {
+            "begin_char": 1089,
+            "end_char": 1223,
+            "sentiment": "5 stars",
+            "score": 0.49603813886642456
+          },
+          {
+            "begin_char": 1223,
+            "end_char": 1244,
+            "sentiment": "3 stars",
+            "score": 0.3028998076915741
+          },
+          {
+            "begin_char": 1245,
+            "end_char": 1304,
+            "sentiment": "3 stars",
+            "score": 0.32590410113334656
+          },
+          {
+            "begin_char": 1305,
+            "end_char": 1352,
+            "sentiment": "4 stars",
+            "score": 0.5026549100875854
+          },
+          {
+            "begin_char": 1353,
+            "end_char": 1447,
+            "sentiment": "1 star",
+            "score": 0.36604103446006775
+          },
+          {
+            "begin_char": 1448,
+            "end_char": 1531,
+            "sentiment": "5 stars",
+            "score": 0.41180893778800964
+          },
+          {
+            "begin_char": 1531,
+            "end_char": 1665,
+            "sentiment": "4 stars",
+            "score": 0.41095831990242004
+          },
+          {
+            "begin_char": 1666,
+            "end_char": 1721,
+            "sentiment": "5 stars",
+            "score": 0.4149763286113739
+          },
+          {
+            "begin_char": 1721,
+            "end_char": 1788,
+            "sentiment": "4 stars",
+            "score": 0.33055147528648376
+          },
+          {
+            "begin_char": 1789,
+            "end_char": 1881,
+            "sentiment": "4 stars",
+            "score": 0.503150463104248
+          },
+          {
+            "begin_char": 1882,
+            "end_char": 1953,
+            "sentiment": "4 stars",
+            "score": 0.4067401885986328
+          },
+          {
+            "begin_char": 1954,
+            "end_char": 2054,
+            "sentiment": "4 stars",
+            "score": 0.41629335284233093
+          },
+          {
+            "begin_char": 2055,
+            "end_char": 2441,
+            "sentiment": "4 stars",
+            "score": 0.3178866505622864
+          },
+          {
+            "begin_char": 2442,
+            "end_char": 2565,
+            "sentiment": "4 stars",
+            "score": 0.29365479946136475
+          },
+          {
+            "begin_char": 2566,
+            "end_char": 2735,
+            "sentiment": "5 stars",
+            "score": 0.5096670389175415
+          },
+          {
+            "begin_char": 2736,
+            "end_char": 2748,
+            "sentiment": "4 stars",
+            "score": 0.3402360677719116
+          },
+          {
+            "begin_char": 2748,
+            "end_char": 2796,
+            "sentiment": "3 stars",
+            "score": 0.32161998748779297
+          },
+          {
+            "begin_char": 2797,
+            "end_char": 2868,
+            "sentiment": "4 stars",
+            "score": 0.3617728352546692
+          },
+          {
+            "begin_char": 2869,
+            "end_char": 2962,
+            "sentiment": "2 stars",
+            "score": 0.30663225054740906
+          },
+          {
+            "begin_char": 2963,
+            "end_char": 3080,
+            "sentiment": "5 stars",
+            "score": 0.5343726873397827
+          },
+          {
+            "begin_char": 3081,
+            "end_char": 3218,
+            "sentiment": "1 star",
+            "score": 0.52745521068573
+          },
+          {
+            "begin_char": 3219,
+            "end_char": 3386,
+            "sentiment": "1 star",
+            "score": 0.4779551029205322
+          },
+          {
+            "begin_char": 3387,
+            "end_char": 3573,
+            "sentiment": "4 stars",
+            "score": 0.38815897703170776
+          },
+          {
+            "begin_char": 3574,
+            "end_char": 3588,
+            "sentiment": "1 star",
+            "score": 0.28638410568237305
+          },
+          {
+            "begin_char": 3589,
+            "end_char": 3645,
+            "sentiment": "3 stars",
+            "score": 0.3225078284740448
+          },
+          {
+            "begin_char": 3646,
+            "end_char": 3666,
+            "sentiment": "5 stars",
+            "score": 0.28688284754753113
+          },
+          {
+            "begin_char": 3667,
+            "end_char": 4312,
+            "sentiment": "4 stars",
+            "score": 0.4228533208370209
+          },
+          {
+            "begin_char": 4313,
+            "end_char": 4408,
+            "sentiment": "4 stars",
+            "score": 0.28497400879859924
+          },
+          {
+            "begin_char": 4409,
+            "end_char": 4591,
+            "sentiment": "3 stars",
+            "score": 0.30798453092575073
+          },
+          {
+            "begin_char": 4591,
+            "end_char": 4636,
+            "sentiment": "3 stars",
+            "score": 0.30631357431411743
+          },
+          {
+            "begin_char": 4637,
+            "end_char": 4656,
+            "sentiment": "5 stars",
+            "score": 0.516284167766571
+          },
+          {
+            "begin_char": 4656,
+            "end_char": 4715,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 4716,
+            "end_char": 4779,
+            "sentiment": "3 stars",
+            "score": 0.3365445137023926
+          },
+          {
+            "begin_char": 4780,
+            "end_char": 4838,
+            "sentiment": "3 stars",
+            "score": 0.29370787739753723
+          },
+          {
+            "begin_char": 4839,
+            "end_char": 4891,
+            "sentiment": "1 star",
+            "score": 0.6905754804611206
+          },
+          {
+            "begin_char": 4892,
+            "end_char": 4893,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 4893,
+            "end_char": 4947,
+            "sentiment": "4 stars",
+            "score": 0.32069799304008484
+          },
+          {
+            "begin_char": 4948,
+            "end_char": 4951,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-20",
+        "pageJO": "2511",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,761 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG285",
+    "identifiant": {
+      "numero": "285",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "immigration",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Accueil de l'Ocean Viking à Toulon"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA722162",
+        "mandatRef": "PM797475"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Intérieur et outre-mer",
+      "developpe": "Ministère de l’intérieur et des outre-mer"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Intérieur et outre-mer",
+          "developpe": "Ministère de l’intérieur et des outre-mer"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ACCUEIL DE L'<i>OCEAN VIKING</i> À TOULON <a name=PG11></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Nicolas Turquois.<br><br><strong>M. Nicolas Turquois. </strong>Ma question s’adresse à M. le ministre de l’intérieur et des outre-mer.<br><br>Au nom du groupe Démocrate, je tiens à vous exprimer mes plus profonds remerciements s'agissant de l’<i>Ocean Viking</i>. En autorisant l’accueil de ce bateau et de ses 234 migrants dans le port de Toulon, vous avez tout simplement fait œuvre d’humanité, ce qui devrait être pour tous ici le sens de notre engagement. (Applaudissements sur de nombreux bancs des groupes Dem et RE.)<br><br><strong>M. Fabien Di Filippo.</strong> Les passeurs vous félicitent !<br><br><strong>M. Nicolas Turquois. </strong>À voir, entendre ou lire les déclarations les plus odieuses de ces derniers jours ou de cette séance, je mesure la difficulté à laquelle le Gouvernement a été confronté. Par votre décision, la France a honoré le mot « fraternité », inscrit au fronton de toutes les mairies.<br><br><strong>M. Laurent Jacobelli.</strong> Fraternité avec les passeurs !<br><br><strong>Un député du groupe RN .</strong> Gérard Collomb, reviens !<br><br><strong>M. Nicolas Turquois. </strong>Si l’affaire de l’<i>Ocean Viking</i> est particulièrement symbolique, elle n’est que le reflet d’un problème beaucoup plus vaste. Avec la multiplication des conflits aux portes de l’Europe, en Afrique, au Moyen-Orient, avec le drame du réchauffement climatique, avec un écart considérable de richesse entre les deux rives de la Méditerranée, les flux de migrants ne sont pas près de se tarir malgré les coups de menton de certains. Le refus d’accueillir un bateau, par exemple, ne dissuadera aucun migrant de tenter sa chance – avec son lot de drames.<br><br>En matière d'immigration, nous devons donc adopter une stratégie d’une autre dimension, à la fois sur le plan de la régulation mais aussi sur celui de l'humanité. La réponse européenne n’est clairement pas à la hauteur car elle laisse trop seuls les pays du sud de l’Europe.<br><br>Dans ce contexte, pourriez-vous nous expliquer de quelle façon les migrants de l’<i>Ocean Viking</i> seront accompagnés dans les prochains jours et nous dire quelle stratégie le Gouvernement adoptera s'agissant des drames migratoires ? La Méditerranée ou la Manche ne peuvent plus être d'immenses cimetières. (Applaudissements sur quelques bancs des groupes Dem et RE.)<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’intérieur et des outre-mer.<br><br><strong>M. Gérald Darmanin,</strong><i> ministre de l’intérieur et des outre-mer. </i>Je vous remercie tout d'abord pour vos mots.<br><br>En dehors de l'événement qui s'est produit le 11 novembre se pose évidemment la question des flux de migration que nous connaissons. Ils viennent d'Afrique, vous l'avez dit, mais aussi d'Asie puisqu'une partie des personnes qui cherchent refuge sur le territoire européen viennent de l'Afghanistan, du Pakistan, du Bangladesh et d'ailleurs – parfois du bout de l'Asie –, traversant deux continents et une mer pour arriver en Europe.<br><br>Nous devons, au niveau européen, organiser la protection de nos frontières et assumer notre devoir d'humanité. Tel était tout le sens de la présidence française de l'Union européenne qui a lancé la première étape du pacte migratoire. En échange d'une solidarité plus forte avec les pays du sud confrontés à cette migration – la Grèce, Chypre, Malte, l'Italie et l'Espagne –, ceux-ci devaient s'engager à assurer une certaine protection des frontières grâce notamment à des dispositifs comme Eurodac ou à l'enregistrement de toute personne arrivant sur le sol européen. La France demande d'ailleurs à l'Europe de créer un guichet unique de l'asile afin d'éviter que les personnes migrantes qui arrivent sur le territoire européen rencontrent des difficultés.<br><br>Par ailleurs, alors que les flux importants de migrants, vous l'avez dit, peuvent se multiplier en raison des crises que vous avez mentionnées, une grande partie de ces personnes souhaitent se rendre en Grande-Bretagne. Ce sont donc évidemment la Belgique et le nord de la France qui subissent, depuis plus de vingt ans, cette situation même si, aujourd'hui, à Calais, on compte dix fois moins de migrants qu'il y a sept ans.<br><br>Une partie de ces migrants veut toujours traverser la Manche, c'est pourquoi nous devons absolument élaborer avec la Grande-Bretagne un traité européen qui nous permettra d'ouvrir enfin une voie légale d'immigration vers ce pays. Nous devrons aussi dire aux Britanniques de réformer leur code du travail car les migrants seront moins enclins à se rendre sur leur territoire si le marché du travail y est moins attractif. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 38,
+            "label": "PER",
+            "text": "ACCUEIL DE L'<i"
+          },
+          {
+            "start_char": 39,
+            "end_char": 54,
+            "label": "MISC",
+            "text": "OCEAN VIKING</i"
+          },
+          {
+            "start_char": 58,
+            "end_char": 64,
+            "label": "LOC",
+            "text": "TOULON"
+          },
+          {
+            "start_char": 99,
+            "end_char": 102,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 143,
+            "end_char": 145,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 146,
+            "end_char": 178,
+            "label": "PER",
+            "text": "Nicolas Turquois.<br><br><strong"
+          },
+          {
+            "start_char": 182,
+            "end_char": 198,
+            "label": "PER",
+            "text": "Nicolas Turquois"
+          },
+          {
+            "start_char": 221,
+            "end_char": 223,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 233,
+            "end_char": 235,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 251,
+            "end_char": 253,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 305,
+            "end_char": 314,
+            "label": "ORG",
+            "text": "Démocrate"
+          },
+          {
+            "start_char": 424,
+            "end_char": 426,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 486,
+            "end_char": 492,
+            "label": "LOC",
+            "text": "Toulon"
+          },
+          {
+            "start_char": 607,
+            "end_char": 623,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 658,
+            "end_char": 661,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 665,
+            "end_char": 694,
+            "label": "PER",
+            "text": "RE.)<br><br><strong>M. Fabien"
+          },
+          {
+            "start_char": 695,
+            "end_char": 714,
+            "label": "PER",
+            "text": "Di Filippo.</strong"
+          },
+          {
+            "start_char": 765,
+            "end_char": 781,
+            "label": "PER",
+            "text": "Nicolas Turquois"
+          },
+          {
+            "start_char": 932,
+            "end_char": 944,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 982,
+            "end_char": 991,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1084,
+            "end_char": 1111,
+            "label": "PER",
+            "text": "Laurent Jacobelli.</strong>"
+          },
+          {
+            "start_char": 1112,
+            "end_char": 1122,
+            "label": "ORG",
+            "text": "Fraternité"
+          },
+          {
+            "start_char": 1178,
+            "end_char": 1180,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 1192,
+            "end_char": 1206,
+            "label": "PER",
+            "text": "Gérard Collomb"
+          },
+          {
+            "start_char": 1236,
+            "end_char": 1252,
+            "label": "PER",
+            "text": "Nicolas Turquois"
+          },
+          {
+            "start_char": 1266,
+            "end_char": 1268,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1284,
+            "end_char": 1299,
+            "label": "PER",
+            "text": "Ocean Viking</i"
+          },
+          {
+            "start_char": 1339,
+            "end_char": 1341,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 1359,
+            "end_char": 1361,
+            "label": "PER",
+            "text": "d’"
+          },
+          {
+            "start_char": 1446,
+            "end_char": 1452,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 1457,
+            "end_char": 1464,
+            "label": "LOC",
+            "text": "Afrique"
+          },
+          {
+            "start_char": 1469,
+            "end_char": 1481,
+            "label": "LOC",
+            "text": "Moyen-Orient"
+          },
+          {
+            "start_char": 1592,
+            "end_char": 1604,
+            "label": "LOC",
+            "text": "Méditerranée"
+          },
+          {
+            "start_char": 1808,
+            "end_char": 1822,
+            "label": "MISC",
+            "text": "drames.<br><br"
+          },
+          {
+            "start_char": 2088,
+            "end_char": 2090,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2189,
+            "end_char": 2204,
+            "label": "PER",
+            "text": "Ocean Viking</i"
+          },
+          {
+            "start_char": 2283,
+            "end_char": 2295,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2344,
+            "end_char": 2356,
+            "label": "LOC",
+            "text": "Méditerranée"
+          },
+          {
+            "start_char": 2363,
+            "end_char": 2369,
+            "label": "LOC",
+            "text": "Manche"
+          },
+          {
+            "start_char": 2415,
+            "end_char": 2431,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 2463,
+            "end_char": 2466,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 2470,
+            "end_char": 2489,
+            "label": "ORG",
+            "text": "RE.)<br><br><strong"
+          },
+          {
+            "start_char": 2490,
+            "end_char": 2493,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2534,
+            "end_char": 2536,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2552,
+            "end_char": 2554,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2597,
+            "end_char": 2606,
+            "label": "PER",
+            "text": "M. Gérald"
+          },
+          {
+            "start_char": 2641,
+            "end_char": 2643,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2714,
+            "end_char": 2726,
+            "label": "MISC",
+            "text": "mots.<br><br"
+          },
+          {
+            "start_char": 2875,
+            "end_char": 2882,
+            "label": "LOC",
+            "text": "Afrique"
+          },
+          {
+            "start_char": 2914,
+            "end_char": 2918,
+            "label": "LOC",
+            "text": "Asie"
+          },
+          {
+            "start_char": 3013,
+            "end_char": 3024,
+            "label": "LOC",
+            "text": "Afghanistan"
+          },
+          {
+            "start_char": 3029,
+            "end_char": 3037,
+            "label": "LOC",
+            "text": "Pakistan"
+          },
+          {
+            "start_char": 3042,
+            "end_char": 3052,
+            "label": "LOC",
+            "text": "Bangladesh"
+          },
+          {
+            "start_char": 3088,
+            "end_char": 3094,
+            "label": "LOC",
+            "text": "l'Asie"
+          },
+          {
+            "start_char": 3333,
+            "end_char": 3349,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 3495,
+            "end_char": 3500,
+            "label": "LOC",
+            "text": "Grèce"
+          },
+          {
+            "start_char": 3502,
+            "end_char": 3508,
+            "label": "LOC",
+            "text": "Chypre"
+          },
+          {
+            "start_char": 3510,
+            "end_char": 3515,
+            "label": "LOC",
+            "text": "Malte"
+          },
+          {
+            "start_char": 3519,
+            "end_char": 3525,
+            "label": "LOC",
+            "text": "Italie"
+          },
+          {
+            "start_char": 3531,
+            "end_char": 3538,
+            "label": "LOC",
+            "text": "Espagne"
+          },
+          {
+            "start_char": 3658,
+            "end_char": 3665,
+            "label": "LOC",
+            "text": "Eurodac"
+          },
+          {
+            "start_char": 3736,
+            "end_char": 3745,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 3767,
+            "end_char": 3775,
+            "label": "LOC",
+            "text": "l'Europe"
+          },
+          {
+            "start_char": 3912,
+            "end_char": 3931,
+            "label": "MISC",
+            "text": "difficultés.<br><br"
+          },
+          {
+            "start_char": 4135,
+            "end_char": 4150,
+            "label": "LOC",
+            "text": "Grande-Bretagne"
+          },
+          {
+            "start_char": 4179,
+            "end_char": 4187,
+            "label": "LOC",
+            "text": "Belgique"
+          },
+          {
+            "start_char": 4202,
+            "end_char": 4211,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 4293,
+            "end_char": 4299,
+            "label": "LOC",
+            "text": "Calais"
+          },
+          {
+            "start_char": 4419,
+            "end_char": 4425,
+            "label": "LOC",
+            "text": "Manche"
+          },
+          {
+            "start_char": 4482,
+            "end_char": 4497,
+            "label": "LOC",
+            "text": "Grande-Bretagne"
+          },
+          {
+            "start_char": 4623,
+            "end_char": 4635,
+            "label": "LOC",
+            "text": "Britanniques"
+          },
+          {
+            "start_char": 4836,
+            "end_char": 4847,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 117,
+            "sentiment": "3 stars",
+            "score": 0.3270777761936188
+          },
+          {
+            "begin_char": 118,
+            "end_char": 199,
+            "sentiment": "3 stars",
+            "score": 0.2487577199935913
+          },
+          {
+            "begin_char": 200,
+            "end_char": 314,
+            "sentiment": "4 stars",
+            "score": 0.3309517204761505
+          },
+          {
+            "begin_char": 314,
+            "end_char": 607,
+            "sentiment": "5 stars",
+            "score": 0.7735090851783752
+          },
+          {
+            "begin_char": 607,
+            "end_char": 694,
+            "sentiment": "4 stars",
+            "score": 0.3585556745529175
+          },
+          {
+            "begin_char": 695,
+            "end_char": 715,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 716,
+            "end_char": 782,
+            "sentiment": "5 stars",
+            "score": 0.2758336663246155
+          },
+          {
+            "begin_char": 783,
+            "end_char": 961,
+            "sentiment": "1 star",
+            "score": 0.5440549850463867
+          },
+          {
+            "begin_char": 962,
+            "end_char": 1111,
+            "sentiment": "5 stars",
+            "score": 0.49173131585121155
+          },
+          {
+            "begin_char": 1112,
+            "end_char": 1142,
+            "sentiment": "5 stars",
+            "score": 0.5464857816696167
+          },
+          {
+            "begin_char": 1142,
+            "end_char": 1158,
+            "sentiment": "3 stars",
+            "score": 0.27666613459587097
+          },
+          {
+            "begin_char": 1158,
+            "end_char": 1217,
+            "sentiment": "1 star",
+            "score": 0.331107497215271
+          },
+          {
+            "begin_char": 1217,
+            "end_char": 1253,
+            "sentiment": "3 stars",
+            "score": 0.2809743285179138
+          },
+          {
+            "begin_char": 1254,
+            "end_char": 1263,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1263,
+            "end_char": 1332,
+            "sentiment": "3 stars",
+            "score": 0.34201744198799133
+          },
+          {
+            "begin_char": 1332,
+            "end_char": 1393,
+            "sentiment": "2 stars",
+            "score": 0.3392486274242401
+          },
+          {
+            "begin_char": 1394,
+            "end_char": 1695,
+            "sentiment": "4 stars",
+            "score": 0.35809797048568726
+          },
+          {
+            "begin_char": 1696,
+            "end_char": 1985,
+            "sentiment": "5 stars",
+            "score": 0.4329860806465149
+          },
+          {
+            "begin_char": 1986,
+            "end_char": 2340,
+            "sentiment": "2 stars",
+            "score": 0.4650537073612213
+          },
+          {
+            "begin_char": 2341,
+            "end_char": 2413,
+            "sentiment": "5 stars",
+            "score": 0.27862653136253357
+          },
+          {
+            "begin_char": 2414,
+            "end_char": 2415,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 2415,
+            "end_char": 2508,
+            "sentiment": "4 stars",
+            "score": 0.35277047753334045
+          },
+          {
+            "begin_char": 2509,
+            "end_char": 2628,
+            "sentiment": "4 stars",
+            "score": 0.3126711845397949
+          },
+          {
+            "begin_char": 2629,
+            "end_char": 2670,
+            "sentiment": "4 stars",
+            "score": 0.31207600235939026
+          },
+          {
+            "begin_char": 2671,
+            "end_char": 2675,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2675,
+            "end_char": 2677,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 2678,
+            "end_char": 2727,
+            "sentiment": "5 stars",
+            "score": 0.5154938697814941
+          },
+          {
+            "begin_char": 2727,
+            "end_char": 2859,
+            "sentiment": "4 stars",
+            "score": 0.346408873796463
+          },
+          {
+            "begin_char": 2860,
+            "end_char": 3167,
+            "sentiment": "5 stars",
+            "score": 0.34374961256980896
+          },
+          {
+            "begin_char": 3167,
+            "end_char": 3277,
+            "sentiment": "5 stars",
+            "score": 0.601935088634491
+          },
+          {
+            "begin_char": 3278,
+            "end_char": 3400,
+            "sentiment": "4 stars",
+            "score": 0.30967089533805847
+          },
+          {
+            "begin_char": 3401,
+            "end_char": 3735,
+            "sentiment": "4 stars",
+            "score": 0.4177505373954773
+          },
+          {
+            "begin_char": 3736,
+            "end_char": 3944,
+            "sentiment": "4 stars",
+            "score": 0.4115157723426819
+          },
+          {
+            "begin_char": 3944,
+            "end_char": 4151,
+            "sentiment": "5 stars",
+            "score": 0.3218919336795807
+          },
+          {
+            "begin_char": 4152,
+            "end_char": 4365,
+            "sentiment": "4 stars",
+            "score": 0.3054760992527008
+          },
+          {
+            "begin_char": 4365,
+            "end_char": 4594,
+            "sentiment": "5 stars",
+            "score": 0.595100462436676
+          },
+          {
+            "begin_char": 4595,
+            "end_char": 4785,
+            "sentiment": "5 stars",
+            "score": 0.33490607142448425
+          },
+          {
+            "begin_char": 4786,
+            "end_char": 4848,
+            "sentiment": "3 stars",
+            "score": 0.3159869611263275
+          },
+          {
+            "begin_char": 4849,
+            "end_char": 4852,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-16",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-16",
+        "pageJO": "5421",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

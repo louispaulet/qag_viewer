@@ -1,0 +1,629 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG34",
+    "identifiant": {
+      "numero": "34",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "personnes âgées",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Isolement social des personnes vulnérables"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA1567",
+        "mandatRef": "PM797631"
+      },
+      "groupe": {
+        "organeRef": "PO800496",
+        "abrege": "SOC",
+        "developpe": "Socialistes et apparentés (membre de l’intergroupe NUPES)"
+      }
+    },
+    "minInt": {
+      "abrege": "Solidarités, autonomie et personnes handicapées",
+      "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Solidarités, autonomie et personnes handicapées",
+          "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ISOLEMENT SOCIAL DES PERSONNES VULNÉRABLES <a name=PG7></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jérôme Guedj.<br><br><strong>M. Jérôme Guedj. </strong>Ma question s'adresse à Mme la Première ministre. Le réchauffement climatique frappe d'abord les plus fragiles. La canicule de 2003 et ses 19 000 morts, essentiellement des personnes âgées très souvent isolées, le rappelle cruellement. Transition démographique et transition écologique sont des combats convergents. Malheureusement, il y a des trous dans le système de politiques publiques. Depuis 2004, les communes doivent tenir un registre des personnes vulnérables pour aller à leur contact en période exceptionnelle. Problème : trop peu de personnes âgées font la démarche volontaire de s'inscrire sur ces registres. La solution existe, elle est connue et a été proposée en 2020 : permettre le partage des informations entre les conseils départementaux, les caisses de retraite et les centres communaux d'action sociale (CCAS), notamment pour connaître les bénéficiaires de l'allocation personnalisée d'autonomie (APA) et de la prestation de compensation du handicap (PCH) sur le territoire communal.<br><br>Le Gouvernement avait donné son accord. Mais faute de loi grand âge et autonomie, cette proposition n'a pas pu être mise en œuvre. Ma première question est simple : souhaitez-vous l'appliquer de façon à muscler les registres communaux d'alerte et de protection des populations en cas de crise exceptionnelle, dits registres canicule, dans les villes ? <i>(Applaudissements sur quelques bancs du groupe SOC.)</i><br><br>Au-delà de cette question, ce ne sont pas les chaleurs extrêmes qui tuent mais bien souvent l'isolement. Il faut donc construire une politique pérenne de lutte contre ce fléau social en mobilisant les conseils départementaux, les CCAS, les associations comme les Petits Frères des pauvres ou la Croix-Rouge, les bailleurs sociaux, La Poste, les services d'aide à domicile et les professionnels de santé, pour repérer les fragilités et pour aller au-devant de ces populations invisibles et oubliées. Tout cela doit s'inscrire dans une politique interministérielle du vieillissement.<br><br>Au cours du précédent quinquennat, beaucoup d'excellents rapports ont été publiés, de nombreux travaux et missions parlementaires de grande qualité ont été conduits mais, au bout du compte, aucune loi n'a été adoptée.<br><br>J'en viens à ma seconde question. Sur presque tous les bancs de cette assemblée, il y a beaucoup de parlementaires motivés pour construire non pas uniquement une loi grand âge et autonomie, mais une loi panoramique sur la longévité, qui nous permettra d'aborder cette révolution anthropologique essentielle pour notre société. Êtes-vous prêts à laisser les parlementaires construire cette loi d'orientation de la longévité ? <i>(Applaudissements sur les bancs du groupe SOC.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre des solidarités, de l'autonomie et des personnes handicapées.<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre des solidarités, de l'autonomie et des personnes handicapées. </i>Merci pour cette première question. Je suis persuadé que, comme moi, vous avez acquis la conviction profonde que l'isolement social tue dans notre société, en particulier les personnes les plus fragiles. C'est en tout cas ce que vous avez démontré dans le rapport que vous avez remis au début de l’année 2020 à Olivier Véran.<br><br><strong>M. Aurélien Pradié.</strong> Qui ça ? Olivier quoi ?<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre. </i>On ne peut pas construire une société résiliente sans renforcer le lien social.<br><br>Ces derniers jours, je me suis beaucoup déplacé et j'ai constaté, sur le terrain, la mobilisation exceptionnelle de l'ensemble des acteurs du grand âge dans les établissements, à domicile, dans les CCAS. Pas plus tard que ce midi, j'étais au CCAS de Meudon, où j'ai participé à une séance d'appels de personnes isolées à domicile. Il faut effectivement développer l'utilisation des registres communaux rendus obligatoires par la loi du 30 juin 2004.<br><br>Votre proposition, qui consiste à intégrer les bénéficiaires de l'APA et de la PCH dans ce registre et qui figure dans ce rapport, mérite encore un examen approfondi. Vous l'avez dit, une modification législative est nécessaire pour pouvoir y répondre. Nous devons continuer à examiner la faisabilité de ces dispositifs, notamment au regard de la question sensible de la protection des données personnelles. Nous continuerons donc à y travailler.<br><br>Je vous propose qu'on lance éventuellement des expérimentations sur les territoires, dans les départements et les communes qui seraient d'accord. Ces mesures s'intégreront dans une vision plus large de la société du bien vieillir. C'est la feuille de route que le Président de la République et la Première ministre m'ont confiée et nous aurons à cœur de construire avec vous ce cadre pour les personnes âgées. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>Je vous demanderai s'il vous plaît d'être un petit peu plus silencieux. Un brouhaha continu perturbe les questions et les réponses.<br><br><strong>M. Jean-Philippe Tanguy.</strong> Vu la qualité des réponses !<br> <p>",
+        "entities": [
+          {
+            "start_char": 44,
+            "end_char": 53,
+            "label": "MISC",
+            "text": "PERSONNES"
+          },
+          {
+            "start_char": 99,
+            "end_char": 102,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 143,
+            "end_char": 152,
+            "label": "PER",
+            "text": "M. Jérôme"
+          },
+          {
+            "start_char": 178,
+            "end_char": 190,
+            "label": "PER",
+            "text": "Jérôme Guedj"
+          },
+          {
+            "start_char": 225,
+            "end_char": 240,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 1027,
+            "end_char": 1031,
+            "label": "ORG",
+            "text": "CCAS"
+          },
+          {
+            "start_char": 1120,
+            "end_char": 1123,
+            "label": "ORG",
+            "text": "APA"
+          },
+          {
+            "start_char": 1174,
+            "end_char": 1177,
+            "label": "ORG",
+            "text": "PCH"
+          },
+          {
+            "start_char": 1197,
+            "end_char": 1214,
+            "label": "MISC",
+            "text": "communal.<br><br>"
+          },
+          {
+            "start_char": 1217,
+            "end_char": 1229,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1616,
+            "end_char": 1632,
+            "label": "ORG",
+            "text": "SOC.)</i><br><br"
+          },
+          {
+            "start_char": 1863,
+            "end_char": 1867,
+            "label": "MISC",
+            "text": "CCAS"
+          },
+          {
+            "start_char": 1896,
+            "end_char": 1921,
+            "label": "MISC",
+            "text": "Petits Frères des pauvres"
+          },
+          {
+            "start_char": 1928,
+            "end_char": 1939,
+            "label": "ORG",
+            "text": "Croix-Rouge"
+          },
+          {
+            "start_char": 1964,
+            "end_char": 1972,
+            "label": "ORG",
+            "text": "La Poste"
+          },
+          {
+            "start_char": 2199,
+            "end_char": 2221,
+            "label": "MISC",
+            "text": "vieillissement.<br><br"
+          },
+          {
+            "start_char": 2431,
+            "end_char": 2446,
+            "label": "MISC",
+            "text": "adoptée.<br><br"
+          },
+          {
+            "start_char": 2917,
+            "end_char": 2941,
+            "label": "ORG",
+            "text": "SOC.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2942,
+            "end_char": 2945,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2986,
+            "end_char": 2988,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3078,
+            "end_char": 3096,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 3191,
+            "end_char": 3196,
+            "label": "LOC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 3487,
+            "end_char": 3489,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3502,
+            "end_char": 3509,
+            "label": "LOC",
+            "text": "Olivier"
+          },
+          {
+            "start_char": 3535,
+            "end_char": 3559,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 3600,
+            "end_char": 3618,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 3724,
+            "end_char": 3738,
+            "label": "MISC",
+            "text": "social.<br><br"
+          },
+          {
+            "start_char": 3937,
+            "end_char": 3941,
+            "label": "MISC",
+            "text": "CCAS"
+          },
+          {
+            "start_char": 3981,
+            "end_char": 3985,
+            "label": "MISC",
+            "text": "CCAS"
+          },
+          {
+            "start_char": 3989,
+            "end_char": 3995,
+            "label": "LOC",
+            "text": "Meudon"
+          },
+          {
+            "start_char": 4262,
+            "end_char": 4265,
+            "label": "ORG",
+            "text": "APA"
+          },
+          {
+            "start_char": 4275,
+            "end_char": 4278,
+            "label": "ORG",
+            "text": "PCH"
+          },
+          {
+            "start_char": 4914,
+            "end_char": 4940,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 5110,
+            "end_char": 5133,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5134,
+            "end_char": 5137,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5284,
+            "end_char": 5308,
+            "label": "LOC",
+            "text": "réponses.<br><br><strong"
+          },
+          {
+            "start_char": 5312,
+            "end_char": 5341,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 32,
+            "sentiment": "4 stars",
+            "score": 0.3012498617172241
+          },
+          {
+            "begin_char": 33,
+            "end_char": 65,
+            "sentiment": "5 stars",
+            "score": 0.2602606415748596
+          },
+          {
+            "begin_char": 66,
+            "end_char": 117,
+            "sentiment": "3 stars",
+            "score": 0.3023648262023926
+          },
+          {
+            "begin_char": 118,
+            "end_char": 191,
+            "sentiment": "3 stars",
+            "score": 0.26060575246810913
+          },
+          {
+            "begin_char": 192,
+            "end_char": 250,
+            "sentiment": "3 stars",
+            "score": 0.25775644183158875
+          },
+          {
+            "begin_char": 251,
+            "end_char": 312,
+            "sentiment": "4 stars",
+            "score": 0.30731910467147827
+          },
+          {
+            "begin_char": 313,
+            "end_char": 436,
+            "sentiment": "4 stars",
+            "score": 0.2544339895248413
+          },
+          {
+            "begin_char": 437,
+            "end_char": 516,
+            "sentiment": "5 stars",
+            "score": 0.42386341094970703
+          },
+          {
+            "begin_char": 517,
+            "end_char": 591,
+            "sentiment": "2 stars",
+            "score": 0.4927794337272644
+          },
+          {
+            "begin_char": 592,
+            "end_char": 722,
+            "sentiment": "4 stars",
+            "score": 0.39521047472953796
+          },
+          {
+            "begin_char": 723,
+            "end_char": 822,
+            "sentiment": "3 stars",
+            "score": 0.4440736472606659
+          },
+          {
+            "begin_char": 823,
+            "end_char": 1214,
+            "sentiment": "4 stars",
+            "score": 0.4114116132259369
+          },
+          {
+            "begin_char": 1214,
+            "end_char": 1253,
+            "sentiment": "4 stars",
+            "score": 0.267670214176178
+          },
+          {
+            "begin_char": 1254,
+            "end_char": 1344,
+            "sentiment": "2 stars",
+            "score": 0.3618573844432831
+          },
+          {
+            "begin_char": 1345,
+            "end_char": 1565,
+            "sentiment": "3 stars",
+            "score": 0.3160453736782074
+          },
+          {
+            "begin_char": 1566,
+            "end_char": 1633,
+            "sentiment": "3 stars",
+            "score": 0.3332081437110901
+          },
+          {
+            "begin_char": 1633,
+            "end_char": 1635,
+            "sentiment": "5 stars",
+            "score": 0.31276801228523254
+          },
+          {
+            "begin_char": 1635,
+            "end_char": 1636,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 1636,
+            "end_char": 1737,
+            "sentiment": "3 stars",
+            "score": 0.3468397557735443
+          },
+          {
+            "begin_char": 1738,
+            "end_char": 2131,
+            "sentiment": "5 stars",
+            "score": 0.6106423735618591
+          },
+          {
+            "begin_char": 2132,
+            "end_char": 2222,
+            "sentiment": "4 stars",
+            "score": 0.32648965716362
+          },
+          {
+            "begin_char": 2222,
+            "end_char": 2480,
+            "sentiment": "2 stars",
+            "score": 0.3707355558872223
+          },
+          {
+            "begin_char": 2481,
+            "end_char": 2773,
+            "sentiment": "5 stars",
+            "score": 0.715109646320343
+          },
+          {
+            "begin_char": 2774,
+            "end_char": 2871,
+            "sentiment": "5 stars",
+            "score": 0.3139088749885559
+          },
+          {
+            "begin_char": 2872,
+            "end_char": 2960,
+            "sentiment": "4 stars",
+            "score": 0.3210729956626892
+          },
+          {
+            "begin_char": 2961,
+            "end_char": 3115,
+            "sentiment": "4 stars",
+            "score": 0.31987905502319336
+          },
+          {
+            "begin_char": 3116,
+            "end_char": 3186,
+            "sentiment": "4 stars",
+            "score": 0.35842639207839966
+          },
+          {
+            "begin_char": 3187,
+            "end_char": 3191,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3191,
+            "end_char": 3226,
+            "sentiment": "4 stars",
+            "score": 0.3604941964149475
+          },
+          {
+            "begin_char": 3227,
+            "end_char": 3394,
+            "sentiment": "5 stars",
+            "score": 0.7117014527320862
+          },
+          {
+            "begin_char": 3395,
+            "end_char": 3569,
+            "sentiment": "3 stars",
+            "score": 0.2451324164867401
+          },
+          {
+            "begin_char": 3570,
+            "end_char": 3584,
+            "sentiment": "1 star",
+            "score": 0.3892469108104706
+          },
+          {
+            "begin_char": 3584,
+            "end_char": 3647,
+            "sentiment": "3 stars",
+            "score": 0.3068428635597229
+          },
+          {
+            "begin_char": 3648,
+            "end_char": 3652,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3652,
+            "end_char": 3739,
+            "sentiment": "5 stars",
+            "score": 0.376536101102829
+          },
+          {
+            "begin_char": 3739,
+            "end_char": 3942,
+            "sentiment": "5 stars",
+            "score": 0.5217642784118652
+          },
+          {
+            "begin_char": 3943,
+            "end_char": 4069,
+            "sentiment": "4 stars",
+            "score": 0.2568274438381195
+          },
+          {
+            "begin_char": 4070,
+            "end_char": 4196,
+            "sentiment": "4 stars",
+            "score": 0.3866080939769745
+          },
+          {
+            "begin_char": 4196,
+            "end_char": 4362,
+            "sentiment": "4 stars",
+            "score": 0.4166123569011688
+          },
+          {
+            "begin_char": 4363,
+            "end_char": 4448,
+            "sentiment": "4 stars",
+            "score": 0.2989833950996399
+          },
+          {
+            "begin_char": 4449,
+            "end_char": 4603,
+            "sentiment": "4 stars",
+            "score": 0.45154061913490295
+          },
+          {
+            "begin_char": 4604,
+            "end_char": 4650,
+            "sentiment": "4 stars",
+            "score": 0.3620903491973877
+          },
+          {
+            "begin_char": 4650,
+            "end_char": 4795,
+            "sentiment": "4 stars",
+            "score": 0.279018759727478
+          },
+          {
+            "begin_char": 4796,
+            "end_char": 4880,
+            "sentiment": "4 stars",
+            "score": 0.42195355892181396
+          },
+          {
+            "begin_char": 4881,
+            "end_char": 5059,
+            "sentiment": "5 stars",
+            "score": 0.4629703164100647
+          },
+          {
+            "begin_char": 5060,
+            "end_char": 5152,
+            "sentiment": "3 stars",
+            "score": 0.30941691994667053
+          },
+          {
+            "begin_char": 5153,
+            "end_char": 5233,
+            "sentiment": "3 stars",
+            "score": 0.3504486680030823
+          },
+          {
+            "begin_char": 5234,
+            "end_char": 5262,
+            "sentiment": "3 stars",
+            "score": 0.28663766384124756
+          },
+          {
+            "begin_char": 5263,
+            "end_char": 5342,
+            "sentiment": "3 stars",
+            "score": 0.28803032636642456
+          },
+          {
+            "begin_char": 5343,
+            "end_char": 5371,
+            "sentiment": "4 stars",
+            "score": 0.3257858157157898
+          },
+          {
+            "begin_char": 5371,
+            "end_char": 5379,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-20",
+        "pageJO": "2514",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

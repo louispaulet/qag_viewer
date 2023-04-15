@@ -1,0 +1,605 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG20",
+    "identifiant": {
+      "numero": "20",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "agriculture",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Bénédicte Auzanot"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA332228",
+        "mandatRef": "PM796704"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Agriculture et souveraineté alimentaire",
+      "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Agriculture et souveraineté alimentaire",
+          "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> TENSION DES PRIX DANS LE SECTEUR AGROALIMENTAIRE <a name=PG20></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Thierry Benoit.<br><br><strong>M. Thierry Benoit. </strong>Au nom du groupe Horizons et apparentés, je souhaite interroger le Gouvernement sur le rapport de l'observatoire de la formation des prix et des marges des produits alimentaires, dit rapport Chalmin, qui a été présenté au Parlement la semaine dernière. Il montre que partout dans le monde, les coûts de production des agriculteurs et des éleveurs s'accroissent du fait de la hausse du prix des engrais, du coût de l'énergie et du prix des céréales. Face à cela, certains pays prennent des mesures radicales pour assurer la sécurité sanitaire et surtout alimentaire de leur population. L'exemple de la Chine, qui détiendrait aujourd'hui 62 % des réserves publiques de maïs, 60 % des réserves publiques de riz et 51 % des réserves publiques de blé, doit nous interpeller.<br><br>La première question qui se pose est celle de notre souveraineté alimentaire. Le rapport Chalmin indique que les prix payés aux agriculteurs sont très instables alors que ceux payés à la consommation étaient encore contenus en 2021. De ce fait, dans les filières de l'élevage, les niveaux de rémunération tournent autour du SMIC et sont même négatifs pour les éleveurs de porcs.<br><br>La deuxième question est celle de la pérennité des filières de l'élevage car beaucoup d'éleveurs sont tentés d'abandonner leur métier au profit des grandes cultures ou des céréales.<br><br>Enfin, le rapport Chalmin évoque la part des importations dans la consommation alimentaire française, qui apparaît en constante augmentation et qui est passée de 23 % en 2010 à 26 % en 2018. Ce constat renvoie à la question de la compétitivité de notre filière agroalimentaire. <i>(Applaudissements sur les bancs du groupe HOR. – M. André Chassaigne applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’agriculture et de la souveraineté alimentaire.<br><br><strong>M. Marc Fesneau,</strong><i> ministre de l’agriculture et de la souveraineté alimentaire. </i>Je vous remercie particulièrement pour votre question, monsieur le député, car je sais que c'est un sujet sur lequel vous êtes engagé depuis des années – j'ai pu le voir lors de l'examen du projet de loi pour l'équilibre des relations commerciales dans le secteur agricole et alimentaire et une alimentation saine, durable et accessible à tous et du projet de loi visant à protéger la rémunération des agriculteurs, dits EGALIM 1 et 2.<br><br>Vous soulevez trois questions. La première, qui pourrait être aussi la dernière, est celle de la souveraineté. Nous ne risquons pas la pénurie, ni en Europe ni en France. En revanche, nous devons sans cesse veiller à demeurer dans la configuration qui permette de nourrir nos populations. Cette question de souveraineté, c'est donc d'abord une question de production.<br><br>Un autre sujet de souveraineté a trait à notre capacité à faire face aux aléas climatiques, donc à notre capacité de résilience. On y a travaillé dans le cadre du plan France relance et on le fera dans le cadre du plan France 2030, l'objectif étant d'adapter par la planification notre agriculture aux grandes transitions qui sont à l'œuvre.<br><br>La troisième question liée à la souveraineté, que vous posez depuis longtemps d'ailleurs, est celle de la rémunération. Il n'y aura en effet pas de souveraineté alimentaire si les agriculteurs ne sont pas rémunérés comme il se doit. C'était tout le sens des lois EGALIM 1 et EGALIM 2,…<br><br><strong>M. Julien Dive.</strong> Elles ont échoué !<br><br><strong>M. Ugo Bernalicis.</strong> Ça n'a pas marché, votre truc !<br><br><strong>M. Marc Fesneau,</strong><i> ministre . </i>…qui visaient avant tout à lutter contre la déflation en cours depuis vingt ans. Nous nous trouvons actuellement dans une phase de crise liée au contexte de la guerre en Ukraine. Des mesures ont été proposées : je pense particulièrement à l'élevage, le Gouvernement mettant sur la table près de 500 millions d'euros pour alléger les coûts de la matière première, c'est-à-dire des céréales. Et puis il faut poursuivre la contractualisation des filières de ce secteur dans le cadre d'EGALIM pour éviter le risque, que vous avez relevé, de la décapitalisation qui conduirait certains éleveurs à se tourner vers d'autres professions. En effet, du fait de la pénibilité de cette activité et du temps de travail qu'elle requiert, l'absence d'une rémunération juste pourrait les inciter à se réorienter. C'est aussi le sens du travail que mon ministère mènera dans le cadre du plan France 2030 afin de conjurer ce risque. La souveraineté, c'est l'installation, la rémunération, les transitions et la production. C'est sur tous ces points que nous devrons travailler ensemble. <i>(Applaudissements sur plusieurs bancs des groupes RE, Dem et HOR.)</i><br><br><strong>M. Bruno Millienne.</strong> Excellent, monsieur le ministre !<br> <p>",
+        "entities": [
+          {
+            "start_char": 48,
+            "end_char": 55,
+            "label": "ORG",
+            "text": "SECTEUR"
+          },
+          {
+            "start_char": 56,
+            "end_char": 71,
+            "label": "ORG",
+            "text": "AGROALIMENTAIRE"
+          },
+          {
+            "start_char": 106,
+            "end_char": 109,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 150,
+            "end_char": 160,
+            "label": "PER",
+            "text": "M. Thierry"
+          },
+          {
+            "start_char": 187,
+            "end_char": 201,
+            "label": "PER",
+            "text": "Thierry Benoit"
+          },
+          {
+            "start_char": 229,
+            "end_char": 237,
+            "label": "LOC",
+            "text": "Horizons"
+          },
+          {
+            "start_char": 279,
+            "end_char": 291,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 403,
+            "end_char": 410,
+            "label": "PER",
+            "text": "Chalmin"
+          },
+          {
+            "start_char": 434,
+            "end_char": 443,
+            "label": "ORG",
+            "text": "Parlement"
+          },
+          {
+            "start_char": 810,
+            "end_char": 818,
+            "label": "LOC",
+            "text": "la Chine"
+          },
+          {
+            "start_char": 969,
+            "end_char": 988,
+            "label": "MISC",
+            "text": "interpeller.<br><br"
+          },
+          {
+            "start_char": 1078,
+            "end_char": 1085,
+            "label": "PER",
+            "text": "Chalmin"
+          },
+          {
+            "start_char": 1313,
+            "end_char": 1317,
+            "label": "MISC",
+            "text": "SMIC"
+          },
+          {
+            "start_char": 1547,
+            "end_char": 1563,
+            "label": "MISC",
+            "text": "céréales.<br><br"
+          },
+          {
+            "start_char": 1582,
+            "end_char": 1589,
+            "label": "PER",
+            "text": "Chalmin"
+          },
+          {
+            "start_char": 1887,
+            "end_char": 1890,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 1897,
+            "end_char": 1913,
+            "label": "PER",
+            "text": "André Chassaigne"
+          },
+          {
+            "start_char": 1955,
+            "end_char": 1958,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1999,
+            "end_char": 2001,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2017,
+            "end_char": 2019,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2081,
+            "end_char": 2088,
+            "label": "PER",
+            "text": "M. Marc"
+          },
+          {
+            "start_char": 2122,
+            "end_char": 2124,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2596,
+            "end_char": 2604,
+            "label": "ORG",
+            "text": "EGALIM 1"
+          },
+          {
+            "start_char": 2768,
+            "end_char": 2774,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2781,
+            "end_char": 2787,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 2974,
+            "end_char": 2992,
+            "label": "MISC",
+            "text": "production.<br><br"
+          },
+          {
+            "start_char": 3156,
+            "end_char": 3167,
+            "label": "LOC",
+            "text": "plan France"
+          },
+          {
+            "start_char": 3212,
+            "end_char": 3223,
+            "label": "ORG",
+            "text": "France 2030"
+          },
+          {
+            "start_char": 3605,
+            "end_char": 3611,
+            "label": "ORG",
+            "text": "EGALIM"
+          },
+          {
+            "start_char": 3617,
+            "end_char": 3623,
+            "label": "ORG",
+            "text": "EGALIM"
+          },
+          {
+            "start_char": 3646,
+            "end_char": 3673,
+            "label": "PER",
+            "text": "Julien Dive.</strong> Elles"
+          },
+          {
+            "start_char": 3730,
+            "end_char": 3732,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 3780,
+            "end_char": 3784,
+            "label": "PER",
+            "text": "Marc"
+          },
+          {
+            "start_char": 3991,
+            "end_char": 3998,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 4074,
+            "end_char": 4086,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4303,
+            "end_char": 4309,
+            "label": "ORG",
+            "text": "EGALIM"
+          },
+          {
+            "start_char": 4696,
+            "end_char": 4707,
+            "label": "ORG",
+            "text": "France 2030"
+          },
+          {
+            "start_char": 4943,
+            "end_char": 4945,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4947,
+            "end_char": 4950,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4954,
+            "end_char": 4982,
+            "label": "PER",
+            "text": "HOR.)</i><br><br><strong>M. "
+          },
+          {
+            "start_char": 4982,
+            "end_char": 5007,
+            "label": "PER",
+            "text": "Bruno Millienne.</strong>"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 89,
+            "sentiment": "3 stars",
+            "score": 0.3513873517513275
+          },
+          {
+            "begin_char": 90,
+            "end_char": 124,
+            "sentiment": "4 stars",
+            "score": 0.2742326259613037
+          },
+          {
+            "begin_char": 125,
+            "end_char": 202,
+            "sentiment": "3 stars",
+            "score": 0.24704986810684204
+          },
+          {
+            "begin_char": 203,
+            "end_char": 212,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 212,
+            "end_char": 464,
+            "sentiment": "4 stars",
+            "score": 0.3893653154373169
+          },
+          {
+            "begin_char": 465,
+            "end_char": 660,
+            "sentiment": "4 stars",
+            "score": 0.3578803241252899
+          },
+          {
+            "begin_char": 661,
+            "end_char": 796,
+            "sentiment": "5 stars",
+            "score": 0.42262980341911316
+          },
+          {
+            "begin_char": 797,
+            "end_char": 989,
+            "sentiment": "4 stars",
+            "score": 0.3625529408454895
+          },
+          {
+            "begin_char": 989,
+            "end_char": 1066,
+            "sentiment": "4 stars",
+            "score": 0.32140055298805237
+          },
+          {
+            "begin_char": 1067,
+            "end_char": 1221,
+            "sentiment": "3 stars",
+            "score": 0.32835832238197327
+          },
+          {
+            "begin_char": 1222,
+            "end_char": 1754,
+            "sentiment": "3 stars",
+            "score": 0.38344675302505493
+          },
+          {
+            "begin_char": 1755,
+            "end_char": 1841,
+            "sentiment": "4 stars",
+            "score": 0.36162641644477844
+          },
+          {
+            "begin_char": 1842,
+            "end_char": 1894,
+            "sentiment": "4 stars",
+            "score": 0.2981894016265869
+          },
+          {
+            "begin_char": 1894,
+            "end_char": 1973,
+            "sentiment": "4 stars",
+            "score": 0.3933599591255188
+          },
+          {
+            "begin_char": 1974,
+            "end_char": 2109,
+            "sentiment": "4 stars",
+            "score": 0.2993431091308594
+          },
+          {
+            "begin_char": 2110,
+            "end_char": 2170,
+            "sentiment": "4 stars",
+            "score": 0.325288861989975
+          },
+          {
+            "begin_char": 2171,
+            "end_char": 2175,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2175,
+            "end_char": 2177,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 2178,
+            "end_char": 2618,
+            "sentiment": "5 stars",
+            "score": 0.5796476006507874
+          },
+          {
+            "begin_char": 2618,
+            "end_char": 2648,
+            "sentiment": "3 stars",
+            "score": 0.2784596383571625
+          },
+          {
+            "begin_char": 2649,
+            "end_char": 2697,
+            "sentiment": "2 stars",
+            "score": 0.25170421600341797
+          },
+          {
+            "begin_char": 2697,
+            "end_char": 2728,
+            "sentiment": "5 stars",
+            "score": 0.44081902503967285
+          },
+          {
+            "begin_char": 2729,
+            "end_char": 2788,
+            "sentiment": "5 stars",
+            "score": 0.5294011831283569
+          },
+          {
+            "begin_char": 2789,
+            "end_char": 2906,
+            "sentiment": "4 stars",
+            "score": 0.43772265315055847
+          },
+          {
+            "begin_char": 2907,
+            "end_char": 2993,
+            "sentiment": "4 stars",
+            "score": 0.2942085266113281
+          },
+          {
+            "begin_char": 2993,
+            "end_char": 3121,
+            "sentiment": "5 stars",
+            "score": 0.4130171239376068
+          },
+          {
+            "begin_char": 3122,
+            "end_char": 3461,
+            "sentiment": "4 stars",
+            "score": 0.39638587832450867
+          },
+          {
+            "begin_char": 3462,
+            "end_char": 3574,
+            "sentiment": "3 stars",
+            "score": 0.2266610562801361
+          },
+          {
+            "begin_char": 3575,
+            "end_char": 3686,
+            "sentiment": "1 star",
+            "score": 0.573720395565033
+          },
+          {
+            "begin_char": 3686,
+            "end_char": 3729,
+            "sentiment": "3 stars",
+            "score": 0.2929037809371948
+          },
+          {
+            "begin_char": 3730,
+            "end_char": 3816,
+            "sentiment": "1 star",
+            "score": 0.7611163258552551
+          },
+          {
+            "begin_char": 3817,
+            "end_char": 3901,
+            "sentiment": "3 stars",
+            "score": 0.2726144790649414
+          },
+          {
+            "begin_char": 3902,
+            "end_char": 3999,
+            "sentiment": "4 stars",
+            "score": 0.30233389139175415
+          },
+          {
+            "begin_char": 4000,
+            "end_char": 4210,
+            "sentiment": "4 stars",
+            "score": 0.3591502606868744
+          },
+          {
+            "begin_char": 4211,
+            "end_char": 4450,
+            "sentiment": "4 stars",
+            "score": 0.4399659335613251
+          },
+          {
+            "begin_char": 4451,
+            "end_char": 4617,
+            "sentiment": "3 stars",
+            "score": 0.4252468943595886
+          },
+          {
+            "begin_char": 4618,
+            "end_char": 4735,
+            "sentiment": "5 stars",
+            "score": 0.4281177520751953
+          },
+          {
+            "begin_char": 4736,
+            "end_char": 4825,
+            "sentiment": "5 stars",
+            "score": 0.49269741773605347
+          },
+          {
+            "begin_char": 4826,
+            "end_char": 4889,
+            "sentiment": "4 stars",
+            "score": 0.30894070863723755
+          },
+          {
+            "begin_char": 4890,
+            "end_char": 5007,
+            "sentiment": "3 stars",
+            "score": 0.35708725452423096
+          },
+          {
+            "begin_char": 5008,
+            "end_char": 5017,
+            "sentiment": "5 stars",
+            "score": 0.7266894578933716
+          },
+          {
+            "begin_char": 5017,
+            "end_char": 5041,
+            "sentiment": "5 stars",
+            "score": 0.31566861271858215
+          },
+          {
+            "begin_char": 5041,
+            "end_char": 5049,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-13",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-13",
+        "pageJO": "2345",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,509 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG240",
+    "identifiant": {
+      "numero": "240",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "pollution",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Lutte contre les algues vertes en Bretagne"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793520",
+        "mandatRef": "PM796377"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Collectivités territoriales",
+      "developpe": "Ministère auprès du ministre de l’intérieur et des outre-mer et du ministre de la transition écologique et de la cohésion des territoires, chargé des collectivités territoriales"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Collectivités territoriales",
+          "developpe": "Ministère auprès du ministre de l’intérieur et des outre-mer et du ministre de la transition écologique et de la cohésion des territoires, chargé des collectivités territoriales"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> LUTTE CONTRE LES ALGUES VERTES EN BRETAGNE <a name=PG18></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Mickaël Cosson.<br><br><strong>M. Mickaël Cosson. </strong>Ma question s'adresse à Mme la ministre déléguée chargée des collectivités territoriales. J'y associe ma collègue Sandrine Josso, députée de la Loire-Atlantique.<br><br>Algues vertes : ces deux mots résonnent en Bretagne depuis soixante ans. Les gouvernements successifs n'ont pas su vaincre totalement ce fléau. Depuis les années 2000, les plans de lutte impliquant le milieu agricole contre les algues vertes se sont succédé mais n'ont pas évité les fermetures de plage et des accidents parfois dramatiques. Pour les associations, les médias ou les députés en voyage nuptial, c'est, chaque fois, l'occasion de dénoncer l'inefficacité des collectivités, de l'État et du monde agricole, qui sont systématiquement désignés coupables quand l'affaire arrive devant la justice, comme la semaine dernière au tribunal administratif de Rennes.<br><br>Depuis 2021 et le troisième plan de lutte contre les algues vertes, un sous-préfet a été nommé en Bretagne pour apporter des solutions au monde agricole et aux collectivités, mais les moyens employés, insuffisants, sont dignes du début du XXe siècle plutôt que du XXIe, et l'absence de résultats tangibles sur la quantité d'algues vertes a de graves conséquences en termes environnementaux, économiques et de santé. On sait aujourd'hui qu'il faut mener des actions dans le domaine agricole et dans la recherche pour venir à bout de ce fléau. Eu égard à l'étendue du problème, qui ne se limite plus à la Bretagne, nous devons accompagner la profession agricole vers un modèle vertueux et économiquement durable grâce auquel les agriculteurs pourront vivre dignement et effacer l'image désastreuse des marées vertes.<br><br>Quelle action l'État compte-t-il entreprendre pour ne plus être seulement dans la réaction et pour rassurer les collectivités sur la saison prochaine afin que celles-ci ne soient pas de nouveau amenées à fermer des plages ? Mon plus grand espoir est que nous arrivions enfin à marcher sur les plages tout au long de l'année ; je ne demande pas à marcher sur la lune, simplement à constituer une commission d'enquête pour résoudre durablement le problème. <i>(Applaudissements sur quelques bancs du groupe Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée chargée des collectivités territoriales.<br><br><strong>Mme Caroline Cayeux,</strong><i> ministre déléguée chargée des collectivités territoriales. </i>Monsieur le député, je connais votre engagement sur le sujet des algues vertes comme parlementaire et comme ancien maire de la commune d'Hillion. Vous interrogez M. le ministre de la transition écologique et je vous prie de bien vouloir excuser l'absence de Christophe Béchu, qui est en Gironde à la suite des annonces du Président de la République sur la forêt.<br><br>Comme vous l'avez rappelé, le Gouvernement est engagé dans la lutte contre les algues vertes depuis 2010. Les deux plans successifs de lutte contre les algues vertes ont déjà permis une diminution de la teneur moyenne en nitrates de l'eau de plus de 40 % par rapport à 1998. Ces plans permettent aussi d'améliorer les connaissances sur les causes de la prolifération des algues et les leviers pour y remédier. Nous mettons l'accent sur des systèmes agricoles performants en assurant le ramassage et le traitement des algues, et une troisième version du plan sera proposée d'ici la fin de l'année par le préfet de Bretagne.<br><br>Notre mobilisation se traduit aussi par une hausse des crédits prévus pour ce troisième plan : les 5 millions d'euros annuels prévus dans le cadre du deuxième plan seront reconduits et abondés de 5 millions d'euros supplémentaires par an, issus notamment du Fonds européen agricole pour le développement rural, grâce à une mesure spécifique incluse dans la nouvelle politique agricole commune.<br><br>Par ailleurs, l'Agence de l'eau Loire-Bretagne reste mobilisée. Elle a ouvert une ligne de 5 millions d'euros supplémentaires en 2022 pour des projets de paiement de services environnementaux afin d'accompagner les projets territoriaux environnementaux en Bretagne et de permettre un changement en profondeur des pratiques agricoles, notamment par la diminution du recours aux produits phytosanitaires. Voilà l'action que nous allons continuer à mener en Bretagne. <i>(Applaudissements sur quelques bancs du groupe RE. – Mme Maud Petit applaudit également.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 35,
+            "label": "MISC",
+            "text": "LUTTE CONTRE"
+          },
+          {
+            "start_char": 40,
+            "end_char": 46,
+            "label": "MISC",
+            "text": "ALGUES"
+          },
+          {
+            "start_char": 57,
+            "end_char": 65,
+            "label": "MISC",
+            "text": "BRETAGNE"
+          },
+          {
+            "start_char": 100,
+            "end_char": 103,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 144,
+            "end_char": 177,
+            "label": "PER",
+            "text": "M. Mickaël Cosson.<br><br><strong"
+          },
+          {
+            "start_char": 181,
+            "end_char": 195,
+            "label": "PER",
+            "text": "Mickaël Cosson"
+          },
+          {
+            "start_char": 230,
+            "end_char": 233,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 320,
+            "end_char": 334,
+            "label": "PER",
+            "text": "Sandrine Josso"
+          },
+          {
+            "start_char": 350,
+            "end_char": 374,
+            "label": "LOC",
+            "text": "Loire-Atlantique.<br><br"
+          },
+          {
+            "start_char": 375,
+            "end_char": 381,
+            "label": "LOC",
+            "text": "Algues"
+          },
+          {
+            "start_char": 418,
+            "end_char": 426,
+            "label": "LOC",
+            "text": "Bretagne"
+          },
+          {
+            "start_char": 866,
+            "end_char": 870,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1035,
+            "end_char": 1049,
+            "label": "PER",
+            "text": "Rennes.<br><br"
+          },
+          {
+            "start_char": 1145,
+            "end_char": 1156,
+            "label": "LOC",
+            "text": "en Bretagne"
+          },
+          {
+            "start_char": 1289,
+            "end_char": 1292,
+            "label": "MISC",
+            "text": "XXe"
+          },
+          {
+            "start_char": 1314,
+            "end_char": 1318,
+            "label": "MISC",
+            "text": "XXIe"
+          },
+          {
+            "start_char": 1592,
+            "end_char": 1594,
+            "label": "PER",
+            "text": "Eu"
+          },
+          {
+            "start_char": 1653,
+            "end_char": 1661,
+            "label": "LOC",
+            "text": "Bretagne"
+          },
+          {
+            "start_char": 1857,
+            "end_char": 1871,
+            "label": "MISC",
+            "text": "vertes.<br><br"
+          },
+          {
+            "start_char": 1888,
+            "end_char": 1892,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2377,
+            "end_char": 2401,
+            "label": "ORG",
+            "text": "Dem.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2402,
+            "end_char": 2405,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2446,
+            "end_char": 2449,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2527,
+            "end_char": 2539,
+            "label": "PER",
+            "text": "Mme Caroline"
+          },
+          {
+            "start_char": 2623,
+            "end_char": 2631,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2760,
+            "end_char": 2767,
+            "label": "LOC",
+            "text": "Hillion"
+          },
+          {
+            "start_char": 2881,
+            "end_char": 2897,
+            "label": "PER",
+            "text": "Christophe Béchu"
+          },
+          {
+            "start_char": 2910,
+            "end_char": 2917,
+            "label": "LOC",
+            "text": "Gironde"
+          },
+          {
+            "start_char": 2945,
+            "end_char": 2971,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 2979,
+            "end_char": 2992,
+            "label": "MISC",
+            "text": "forêt.<br><br"
+          },
+          {
+            "start_char": 3023,
+            "end_char": 3035,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3606,
+            "end_char": 3623,
+            "label": "MISC",
+            "text": "Bretagne.<br><br>"
+          },
+          {
+            "start_char": 3881,
+            "end_char": 3895,
+            "label": "ORG",
+            "text": "Fonds européen"
+          },
+          {
+            "start_char": 4008,
+            "end_char": 4023,
+            "label": "MISC",
+            "text": "commune.<br><br"
+          },
+          {
+            "start_char": 4040,
+            "end_char": 4070,
+            "label": "ORG",
+            "text": "Agence de l'eau Loire-Bretagne"
+          },
+          {
+            "start_char": 4280,
+            "end_char": 4288,
+            "label": "LOC",
+            "text": "Bretagne"
+          },
+          {
+            "start_char": 4476,
+            "end_char": 4487,
+            "label": "LOC",
+            "text": "en Bretagne"
+          },
+          {
+            "start_char": 4532,
+            "end_char": 4541,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4545,
+            "end_char": 4559,
+            "label": "PER",
+            "text": "Mme Maud Petit"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 118,
+            "sentiment": "4 stars",
+            "score": 0.2968794107437134
+          },
+          {
+            "begin_char": 119,
+            "end_char": 196,
+            "sentiment": "4 stars",
+            "score": 0.252538800239563
+          },
+          {
+            "begin_char": 197,
+            "end_char": 295,
+            "sentiment": "4 stars",
+            "score": 0.2997899651527405
+          },
+          {
+            "begin_char": 296,
+            "end_char": 375,
+            "sentiment": "4 stars",
+            "score": 0.31766989827156067
+          },
+          {
+            "begin_char": 375,
+            "end_char": 390,
+            "sentiment": "4 stars",
+            "score": 0.3013075292110443
+          },
+          {
+            "begin_char": 391,
+            "end_char": 447,
+            "sentiment": "5 stars",
+            "score": 0.4828605055809021
+          },
+          {
+            "begin_char": 448,
+            "end_char": 518,
+            "sentiment": "1 star",
+            "score": 0.4619837701320648
+          },
+          {
+            "begin_char": 519,
+            "end_char": 541,
+            "sentiment": "5 stars",
+            "score": 0.3572528660297394
+          },
+          {
+            "begin_char": 541,
+            "end_char": 715,
+            "sentiment": "3 stars",
+            "score": 0.43900611996650696
+          },
+          {
+            "begin_char": 716,
+            "end_char": 1465,
+            "sentiment": "2 stars",
+            "score": 0.5391855835914612
+          },
+          {
+            "begin_char": 1466,
+            "end_char": 1591,
+            "sentiment": "5 stars",
+            "score": 0.5047421455383301
+          },
+          {
+            "begin_char": 1592,
+            "end_char": 1872,
+            "sentiment": "5 stars",
+            "score": 0.48084962368011475
+          },
+          {
+            "begin_char": 1872,
+            "end_char": 2095,
+            "sentiment": "3 stars",
+            "score": 0.22342215478420258
+          },
+          {
+            "begin_char": 2096,
+            "end_char": 2197,
+            "sentiment": "5 stars",
+            "score": 0.6047289967536926
+          },
+          {
+            "begin_char": 2198,
+            "end_char": 2326,
+            "sentiment": "1 star",
+            "score": 0.2966848313808441
+          },
+          {
+            "begin_char": 2327,
+            "end_char": 2420,
+            "sentiment": "3 stars",
+            "score": 0.3154001533985138
+          },
+          {
+            "begin_char": 2421,
+            "end_char": 2618,
+            "sentiment": "4 stars",
+            "score": 0.28080958127975464
+          },
+          {
+            "begin_char": 2619,
+            "end_char": 2623,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2623,
+            "end_char": 2768,
+            "sentiment": "4 stars",
+            "score": 0.3594835102558136
+          },
+          {
+            "begin_char": 2769,
+            "end_char": 3098,
+            "sentiment": "4 stars",
+            "score": 0.30466094613075256
+          },
+          {
+            "begin_char": 3099,
+            "end_char": 3267,
+            "sentiment": "3 stars",
+            "score": 0.30835315585136414
+          },
+          {
+            "begin_char": 3268,
+            "end_char": 3402,
+            "sentiment": "4 stars",
+            "score": 0.49262264370918274
+          },
+          {
+            "begin_char": 3403,
+            "end_char": 3623,
+            "sentiment": "4 stars",
+            "score": 0.4537099599838257
+          },
+          {
+            "begin_char": 3623,
+            "end_char": 4024,
+            "sentiment": "4 stars",
+            "score": 0.4613752067089081
+          },
+          {
+            "begin_char": 4024,
+            "end_char": 4087,
+            "sentiment": "4 stars",
+            "score": 0.39689794182777405
+          },
+          {
+            "begin_char": 4088,
+            "end_char": 4426,
+            "sentiment": "5 stars",
+            "score": 0.43997809290885925
+          },
+          {
+            "begin_char": 4427,
+            "end_char": 4488,
+            "sentiment": "5 stars",
+            "score": 0.4223746955394745
+          },
+          {
+            "begin_char": 4489,
+            "end_char": 4542,
+            "sentiment": "3 stars",
+            "score": 0.2982350289821625
+          },
+          {
+            "begin_char": 4543,
+            "end_char": 4593,
+            "sentiment": "3 stars",
+            "score": 0.34274575114250183
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-03",
+        "pageJO": "5021",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

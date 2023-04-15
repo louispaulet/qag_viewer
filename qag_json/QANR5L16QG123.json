@@ -1,0 +1,455 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG123",
+    "identifiant": {
+      "numero": "123",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "collectivités territoriales",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Financement des collectivités territoriales"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795270",
+        "mandatRef": "PM797394"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-05",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-05",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> FINANCEMENT DES COLLECTIVITÉS TERRITORIALES <a name=PG14></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Marie-Agnès Poussier-Winsback.<br><br><strong>Mme Marie-Agnès Poussier-Winsback. </strong>Madame la Première ministre, depuis quelques jours, nous pouvons lire ici ou là des articles sur la bonne santé des collectivités. Bien loin de moi l'idée de contester les montants annoncés, mais je veux tout de même vous alerter sur la situation des villes moyennes car elles disposent de nombreux équipements publics, supportent depuis toujours des charges de centralité très importantes et exercent pour cette raison sur leurs contribuables une pression fiscale déjà conséquente.<br><br><strong>M. Sébastien Jumel.</strong> Elle a raison !<br><br><strong>Mme Marie-Agnès Poussier-Winsback. </strong>Certaines d'entre elles vont se retrouver face à un mur avant la fin de l'année, étranglées par des charges imprévisibles, étranglées par des factures d'énergie bien supérieures à ce qu'on pouvait prévoir lors des préparations budgétaires, étranglées par l'augmentation importante des coûts de l'alimentation lorsqu'elles disposent de restaurants scolaires, étranglées par une augmentation du point d'indice de leurs agents que nous avons décidée cet été – même si elles sont convaincues que celle-ci était absolument indispensable. De surcroît, certaines sont débordées par des demandes émanant de leurs centres communaux d'action sociale.<br><br><strong>M. Sébastien Jumel.</strong> C'est exact !<br><br><strong>Mme Marie-Agnès Poussier-Winsback. </strong>Maire d'une ville centre et présidente, il y a encore quelques semaines, d'une communauté d'agglomération, j'ai pu mesurer que la situation des communes rurales n'était pas meilleure. Quand elles disposent d'une épargne, celle-ci était destinée à des projets d'investissement prévus souvent de longue date dont l'ajournement inquiète évidemment les élus, nos concitoyens mais aussi – terriblement – les entreprises du bâtiment et des travaux publics.<br><br>Dès lors, madame la Première ministre, après avoir fait un premier geste sur la dotation globale de fonctionnement (DGF), comment envisagez-vous d'aider toutes ces communes qui sont vraiment dans une situation très compliquée et qui ne savent comment construire leur prochain budget. <i>(Applaudissements sur les bancs du groupe HOR. – M. Sébastien Jumel applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Un récent rapport de la Cour des comptes décrit avec une précision photographique la situation des collectivités territoriales et ses conclusions sont sans équivoque : celle-ci s'est améliorée au cours du dernier quinquennat si l'on compare leur épargne, l'ensemble des fondamentaux et des dépôts au Trésor. Mais l'année 2022 ne ressemble pas à l'année précédente : elle a été marquée par la guerre en Ukraine, par la poussée de l'inflation et par la progression des prix de l'énergie.<br><br>Le Gouvernement a déjà réagi en relevant le niveau de l'Arenh – accès régulé à l'électricité nucléaire historique –, mais aussi en supprimant la TICFE – taxe intérieure sur la consommation finale d'électricité –, ce qui permet 400 millions d'euros d'économies aux collectivités territoriales, en validant et en accompagnant un dispositif de 430 millions d'euros dans le cadre de la dernière loi de finances rectificative dont les décrets d'application seront présentés demain au comité des finances locales, aboutissement de l'œuvre collective des parlementaires et du Gouvernement pour parvenir à un dispositif de soutien exceptionnel. À l'aube de ce budget 2023, je souligne que, pour la première fois depuis treize ans, le Gouvernement a décidé de majorer l'enveloppe de la DGF qui sera présentée au Parlement. Et nous conservons, dans le même temps, un bouclier tarifaire qui, je tiens à le rappeler, concerne 28 000 des 35 000 communes de ce pays, soit toutes celles qui bénéficient du tarif réglementé, emploient moins de dix salariés et perçoivent moins de 2 millions d'euros de recettes.<br><br><strong>M. Sébastien Jumel.</strong> Pas les villes moyennes !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Quant aux villes moyennes, comme d'ailleurs aux grandes villes, dans le prolongement de certaines questions soulevées aussi pour les entreprises d'une certaine taille, je précise que la stratégie se décline en trois étapes : obtenir une réforme du marché de l'électricité européen pour éviter d'avoir à payer une rente à cause du couplage gaz et électricité ; parvenir à continuer de déployer un filet de sécurité – le rapporteur général du budget a conçu un dispositif à cette fin – car nous ne laisserons pas les collectivités sur le bord du chemin face à cette dérive ; travailler de manière précise, y compris à l'échelle européenne, à améliorer le dispositif global de couverture. <i>(Applaudissements sur les bancs du groupe HOR.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 39,
+            "end_char": 66,
+            "label": "MISC",
+            "text": "COLLECTIVITÉS TERRITORIALES"
+          },
+          {
+            "start_char": 101,
+            "end_char": 104,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 145,
+            "end_char": 194,
+            "label": "PER",
+            "text": "Mme Marie-Agnès Poussier-Winsback.<br><br><strong"
+          },
+          {
+            "start_char": 195,
+            "end_char": 228,
+            "label": "PER",
+            "text": "Mme Marie-Agnès Poussier-Winsback"
+          },
+          {
+            "start_char": 239,
+            "end_char": 257,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 740,
+            "end_char": 770,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong> Elle"
+          },
+          {
+            "start_char": 797,
+            "end_char": 830,
+            "label": "PER",
+            "text": "Mme Marie-Agnès Poussier-Winsback"
+          },
+          {
+            "start_char": 1500,
+            "end_char": 1525,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 1555,
+            "end_char": 1588,
+            "label": "PER",
+            "text": "Mme Marie-Agnès Poussier-Winsback"
+          },
+          {
+            "start_char": 2173,
+            "end_char": 2176,
+            "label": "MISC",
+            "text": "DGF"
+          },
+          {
+            "start_char": 2386,
+            "end_char": 2389,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 2396,
+            "end_char": 2411,
+            "label": "PER",
+            "text": "Sébastien Jumel"
+          },
+          {
+            "start_char": 2453,
+            "end_char": 2456,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2497,
+            "end_char": 2499,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2590,
+            "end_char": 2603,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 2723,
+            "end_char": 2739,
+            "label": "ORG",
+            "text": "Cour des comptes"
+          },
+          {
+            "start_char": 2999,
+            "end_char": 3005,
+            "label": "PER",
+            "text": "Trésor"
+          },
+          {
+            "start_char": 3101,
+            "end_char": 3108,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 3176,
+            "end_char": 3192,
+            "label": "MISC",
+            "text": "énergie.<br><br>"
+          },
+          {
+            "start_char": 3248,
+            "end_char": 3253,
+            "label": "MISC",
+            "text": "Arenh"
+          },
+          {
+            "start_char": 3337,
+            "end_char": 3342,
+            "label": "MISC",
+            "text": "TICFE"
+          },
+          {
+            "start_char": 3761,
+            "end_char": 3773,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3918,
+            "end_char": 3930,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3969,
+            "end_char": 3972,
+            "label": "MISC",
+            "text": "DGF"
+          },
+          {
+            "start_char": 3995,
+            "end_char": 4004,
+            "label": "ORG",
+            "text": "Parlement"
+          },
+          {
+            "start_char": 4306,
+            "end_char": 4335,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong> Pas"
+          },
+          {
+            "start_char": 4373,
+            "end_char": 4386,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 5152,
+            "end_char": 5164,
+            "label": "ORG",
+            "text": "HOR.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 119,
+            "sentiment": "3 stars",
+            "score": 0.3207474946975708
+          },
+          {
+            "begin_char": 120,
+            "end_char": 229,
+            "sentiment": "3 stars",
+            "score": 0.2729213833808899
+          },
+          {
+            "begin_char": 230,
+            "end_char": 239,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 239,
+            "end_char": 369,
+            "sentiment": "5 stars",
+            "score": 0.40023165941238403
+          },
+          {
+            "begin_char": 370,
+            "end_char": 781,
+            "sentiment": "4 stars",
+            "score": 0.30381688475608826
+          },
+          {
+            "begin_char": 781,
+            "end_char": 831,
+            "sentiment": "3 stars",
+            "score": 0.2857487201690674
+          },
+          {
+            "begin_char": 832,
+            "end_char": 841,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 841,
+            "end_char": 850,
+            "sentiment": "3 stars",
+            "score": 0.30949079990386963
+          },
+          {
+            "begin_char": 851,
+            "end_char": 1373,
+            "sentiment": "2 stars",
+            "score": 0.3595714271068573
+          },
+          {
+            "begin_char": 1374,
+            "end_char": 1525,
+            "sentiment": "3 stars",
+            "score": 0.38379886746406555
+          },
+          {
+            "begin_char": 1526,
+            "end_char": 1539,
+            "sentiment": "5 stars",
+            "score": 0.26449570059776306
+          },
+          {
+            "begin_char": 1539,
+            "end_char": 1589,
+            "sentiment": "3 stars",
+            "score": 0.2857487201690674
+          },
+          {
+            "begin_char": 1590,
+            "end_char": 1599,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1599,
+            "end_char": 1637,
+            "sentiment": "4 stars",
+            "score": 0.3143790662288666
+          },
+          {
+            "begin_char": 1637,
+            "end_char": 1782,
+            "sentiment": "3 stars",
+            "score": 0.3705829083919525
+          },
+          {
+            "begin_char": 1783,
+            "end_char": 2057,
+            "sentiment": "4 stars",
+            "score": 0.30001750588417053
+          },
+          {
+            "begin_char": 2057,
+            "end_char": 2340,
+            "sentiment": "5 stars",
+            "score": 0.2711922228336334
+          },
+          {
+            "begin_char": 2341,
+            "end_char": 2471,
+            "sentiment": "4 stars",
+            "score": 0.3559287488460541
+          },
+          {
+            "begin_char": 2472,
+            "end_char": 2694,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 2695,
+            "end_char": 2699,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2699,
+            "end_char": 3006,
+            "sentiment": "4 stars",
+            "score": 0.4810454845428467
+          },
+          {
+            "begin_char": 3007,
+            "end_char": 3192,
+            "sentiment": "3 stars",
+            "score": 0.3080797493457794
+          },
+          {
+            "begin_char": 3192,
+            "end_char": 3253,
+            "sentiment": "3 stars",
+            "score": 0.2365342080593109
+          },
+          {
+            "begin_char": 3254,
+            "end_char": 3255,
+            "sentiment": "4 stars",
+            "score": 0.2636305093765259
+          },
+          {
+            "begin_char": 3256,
+            "end_char": 3828,
+            "sentiment": "5 stars",
+            "score": 0.7667907476425171
+          },
+          {
+            "begin_char": 3829,
+            "end_char": 4005,
+            "sentiment": "5 stars",
+            "score": 0.38213685154914856
+          },
+          {
+            "begin_char": 4006,
+            "end_char": 4357,
+            "sentiment": "3 stars",
+            "score": 0.267457515001297
+          },
+          {
+            "begin_char": 4357,
+            "end_char": 4416,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 4417,
+            "end_char": 4780,
+            "sentiment": "4 stars",
+            "score": 0.31590595841407776
+          },
+          {
+            "begin_char": 4781,
+            "end_char": 4993,
+            "sentiment": "5 stars",
+            "score": 0.35795044898986816
+          },
+          {
+            "begin_char": 4994,
+            "end_char": 5106,
+            "sentiment": "4 stars",
+            "score": 0.45702505111694336
+          },
+          {
+            "begin_char": 5107,
+            "end_char": 5165,
+            "sentiment": "4 stars",
+            "score": 0.2992249131202698
+          },
+          {
+            "begin_char": 5166,
+            "end_char": 5169,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-05",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-05",
+        "pageJO": "3535",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

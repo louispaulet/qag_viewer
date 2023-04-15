@@ -1,0 +1,611 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG292",
+    "identifiant": {
+      "numero": "292",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "réfugiés et apatrides",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Accueil de sportives afghanes"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720838",
+        "mandatRef": "PM797865"
+      },
+      "groupe": {
+        "organeRef": "PO800502",
+        "abrege": "GDR-NUPES",
+        "developpe": "Gauche démocrate et républicaine - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Intérieur et outre-mer",
+      "developpe": "Ministère de l’intérieur et des outre-mer"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Intérieur et outre-mer",
+          "developpe": "Ministère de l’intérieur et des outre-mer"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ACCUEIL DE SPORTIVES AFGHANES <a name=PG18></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Soumya Bourouaha.<br><br><strong>Mme Soumya Bourouaha. </strong>Monsieur le ministre de l'intérieur et des outre-mer, nous en convenons toutes et tous, les droits des femmes doivent être assurés partout dans le monde. En Afghanistan, les semaines passent et la situation s'aggrave pour les femmes. Interdites d'école, de travail, de déplacement sans l'accompagnement d'un homme, elles sont désormais exclues de nombreux lieux publics et priées de rester enfermées chez elles. Hier, les talibans ont annoncé qu'ils appliqueraient désormais strictement la loi islamique, signant ainsi le retour des exécutions, flagellations, amputations et lapidations publiques. C'est pourquoi de nombreuses athlètes de haut niveau tentent chaque jour de fuir l'Afghanistan pour échapper à la répression des talibans.<br><br>Avec Marie-George Buffet, nous vous avons alertés à de nombreuses reprises, depuis plusieurs semaines, sur le sort de sept joueuses de l'équipe nationale afghane de handball réfugiées depuis de nombreux mois à Islamabad, au Pakistan. Nous avons contacté le ministère des affaires étrangères, Matignon, l'Élysée et le ministère de l'intérieur. Toutes les conditions sont remplies pour que l'accueil de ces sportives soit assuré en France, grâce à l'engagement de la Fédération française de handball et de son président, ainsi que de nombreux élus locaux prêts à s'engager sur le long terme. Tous les interlocuteurs que nous avons rencontrés nous ont dit qu'ils allaient agir rapidement pour qu'elles obtiennent un visa. Pourtant, ces sept jeunes femmes n'ont, à notre connaissance, toujours pas été contactées par l'ambassade de France à Islamabad et vivent dans des conditions indignes, sans garantie de sécurité.<br><br>Pouvez-vous, monsieur le ministre, me préciser quand des visas leur seront attribués ? <i>(Applaudissements sur les bancs du groupe GDR-NUPES et sur plusieurs bancs des groupes LFI-NUPES, SOC et Écolo-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’intérieur et des outre-mer.<br><br><strong>M. Gérald Darmanin,</strong><i> ministre de l’intérieur et des outre-mer. </i>En accord avec la ministre de l'Europe et des affaires étrangères, sous l'autorité du Président de la République et de la Première ministre, nous octroierons des titres de séjour à ces femmes. Si elles déposent une demande d'asile en France, c'est l'Ofpra, l’Office français de protection des réfugiés et apatrides, qui l'étudiera, mais la volonté politique compte dans ce domaine et nous souhaitons bien qu'elles trouvent l'asile sur le territoire national. Les services de la ministre des affaires étrangères, absente aujourd'hui, vous auraient précisé que nous terminons les discussions relatives à leur sécurité.<br><br><strong>M. Pierre Cordier.</strong> Elle ne maîtrise pas les dossiers !<br><br><strong>M. Gérald Darmanin,</strong><i> ministre . </i>Par ailleurs, la situation est complexe à Islamabad. Nous délivrerons à ces sportives les titres de séjour et les aiderons à gagner le territoire de la République dès que cela sera possible, dans les meilleures conditions et de la façon la plus sécurisée pour elles. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme Soumya Bourouaha.<br><br><strong>Mme Soumya Bourouaha. </strong>Merci pour votre réponse, monsieur le ministre. Il faut agir vite car ces femmes sont en danger. En prévision des Jeux olympiques, défendons la pratique sportive des femmes, ici et ailleurs ! <i>(Applaudissements sur les bancs du groupe GDR-NUPES et sur plusieurs bancs des groupes LFI-NUPES, SOC et Écolo-NUPES. – Mme Astrid Panosyan-Bouvet applaudit également.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 30,
+            "label": "MISC",
+            "text": "ACCUEIL"
+          },
+          {
+            "start_char": 34,
+            "end_char": 52,
+            "label": "MISC",
+            "text": "SPORTIVES AFGHANES"
+          },
+          {
+            "start_char": 87,
+            "end_char": 90,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 131,
+            "end_char": 167,
+            "label": "PER",
+            "text": "Mme Soumya Bourouaha.<br><br><strong"
+          },
+          {
+            "start_char": 168,
+            "end_char": 188,
+            "label": "PER",
+            "text": "Mme Soumya Bourouaha"
+          },
+          {
+            "start_char": 199,
+            "end_char": 207,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 356,
+            "end_char": 367,
+            "label": "LOC",
+            "text": "Afghanistan"
+          },
+          {
+            "start_char": 880,
+            "end_char": 891,
+            "label": "LOC",
+            "text": "Afghanistan"
+          },
+          {
+            "start_char": 926,
+            "end_char": 942,
+            "label": "MISC",
+            "text": "talibans.<br><br"
+          },
+          {
+            "start_char": 948,
+            "end_char": 967,
+            "label": "PER",
+            "text": "Marie-George Buffet"
+          },
+          {
+            "start_char": 1153,
+            "end_char": 1162,
+            "label": "LOC",
+            "text": "Islamabad"
+          },
+          {
+            "start_char": 1167,
+            "end_char": 1175,
+            "label": "LOC",
+            "text": "Pakistan"
+          },
+          {
+            "start_char": 1235,
+            "end_char": 1243,
+            "label": "LOC",
+            "text": "Matignon"
+          },
+          {
+            "start_char": 1247,
+            "end_char": 1253,
+            "label": "LOC",
+            "text": "Élysée"
+          },
+          {
+            "start_char": 1373,
+            "end_char": 1379,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1408,
+            "end_char": 1440,
+            "label": "ORG",
+            "text": "Fédération française de handball"
+          },
+          {
+            "start_char": 1768,
+            "end_char": 1777,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 1780,
+            "end_char": 1789,
+            "label": "LOC",
+            "text": "Islamabad"
+          },
+          {
+            "start_char": 1847,
+            "end_char": 1863,
+            "label": "MISC",
+            "text": "sécurité.<br><br"
+          },
+          {
+            "start_char": 1864,
+            "end_char": 1870,
+            "label": "PER",
+            "text": "Pouvez"
+          },
+          {
+            "start_char": 1996,
+            "end_char": 2005,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2041,
+            "end_char": 2050,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2052,
+            "end_char": 2055,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2059,
+            "end_char": 2091,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2092,
+            "end_char": 2095,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2136,
+            "end_char": 2138,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2154,
+            "end_char": 2156,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2199,
+            "end_char": 2208,
+            "label": "PER",
+            "text": "M. Gérald"
+          },
+          {
+            "start_char": 2243,
+            "end_char": 2245,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2295,
+            "end_char": 2315,
+            "label": "ORG",
+            "text": "ministre de l'Europe"
+          },
+          {
+            "start_char": 2363,
+            "end_char": 2389,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 2399,
+            "end_char": 2407,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 2511,
+            "end_char": 2517,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 2527,
+            "end_char": 2532,
+            "label": "LOC",
+            "text": "Ofpra"
+          },
+          {
+            "start_char": 2534,
+            "end_char": 2542,
+            "label": "ORG",
+            "text": "l’Office"
+          },
+          {
+            "start_char": 2912,
+            "end_char": 2936,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong>"
+          },
+          {
+            "start_char": 2991,
+            "end_char": 2997,
+            "label": "PER",
+            "text": "Gérald"
+          },
+          {
+            "start_char": 3077,
+            "end_char": 3086,
+            "label": "LOC",
+            "text": "Islamabad"
+          },
+          {
+            "start_char": 3187,
+            "end_char": 3197,
+            "label": "LOC",
+            "text": "République"
+          },
+          {
+            "start_char": 3352,
+            "end_char": 3375,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3376,
+            "end_char": 3379,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3420,
+            "end_char": 3456,
+            "label": "PER",
+            "text": "Mme Soumya Bourouaha.<br><br><strong"
+          },
+          {
+            "start_char": 3457,
+            "end_char": 3477,
+            "label": "PER",
+            "text": "Mme Soumya Bourouaha"
+          },
+          {
+            "start_char": 3488,
+            "end_char": 3493,
+            "label": "LOC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 3602,
+            "end_char": 3617,
+            "label": "MISC",
+            "text": "Jeux olympiques"
+          },
+          {
+            "start_char": 3725,
+            "end_char": 3734,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 3770,
+            "end_char": 3779,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3781,
+            "end_char": 3784,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 3788,
+            "end_char": 3799,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 3803,
+            "end_char": 3807,
+            "label": "PER",
+            "text": "Mme "
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 105,
+            "sentiment": "3 stars",
+            "score": 0.3232952654361725
+          },
+          {
+            "begin_char": 106,
+            "end_char": 189,
+            "sentiment": "3 stars",
+            "score": 0.22364160418510437
+          },
+          {
+            "begin_char": 190,
+            "end_char": 352,
+            "sentiment": "5 stars",
+            "score": 0.5210367441177368
+          },
+          {
+            "begin_char": 353,
+            "end_char": 432,
+            "sentiment": "3 stars",
+            "score": 0.29019060730934143
+          },
+          {
+            "begin_char": 433,
+            "end_char": 610,
+            "sentiment": "5 stars",
+            "score": 0.38916510343551636
+          },
+          {
+            "begin_char": 611,
+            "end_char": 796,
+            "sentiment": "5 stars",
+            "score": 0.46066486835479736
+          },
+          {
+            "begin_char": 797,
+            "end_char": 1176,
+            "sentiment": "4 stars",
+            "score": 0.4030912518501282
+          },
+          {
+            "begin_char": 1177,
+            "end_char": 1285,
+            "sentiment": "5 stars",
+            "score": 0.32114410400390625
+          },
+          {
+            "begin_char": 1286,
+            "end_char": 1532,
+            "sentiment": "5 stars",
+            "score": 0.6168903708457947
+          },
+          {
+            "begin_char": 1533,
+            "end_char": 1661,
+            "sentiment": "5 stars",
+            "score": 0.4042240083217621
+          },
+          {
+            "begin_char": 1662,
+            "end_char": 1950,
+            "sentiment": "1 star",
+            "score": 0.3118616044521332
+          },
+          {
+            "begin_char": 1951,
+            "end_char": 2110,
+            "sentiment": "4 stars",
+            "score": 0.33880674839019775
+          },
+          {
+            "begin_char": 2111,
+            "end_char": 2230,
+            "sentiment": "4 stars",
+            "score": 0.3126711845397949
+          },
+          {
+            "begin_char": 2231,
+            "end_char": 2272,
+            "sentiment": "4 stars",
+            "score": 0.31207600235939026
+          },
+          {
+            "begin_char": 2273,
+            "end_char": 2277,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2277,
+            "end_char": 2469,
+            "sentiment": "4 stars",
+            "score": 0.3908193111419678
+          },
+          {
+            "begin_char": 2470,
+            "end_char": 2735,
+            "sentiment": "4 stars",
+            "score": 0.4153757393360138
+          },
+          {
+            "begin_char": 2736,
+            "end_char": 2936,
+            "sentiment": "4 stars",
+            "score": 0.29237478971481323
+          },
+          {
+            "begin_char": 2937,
+            "end_char": 2972,
+            "sentiment": "1 star",
+            "score": 0.4496314823627472
+          },
+          {
+            "begin_char": 2972,
+            "end_char": 3030,
+            "sentiment": "3 stars",
+            "score": 0.29790592193603516
+          },
+          {
+            "begin_char": 3031,
+            "end_char": 3035,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3035,
+            "end_char": 3087,
+            "sentiment": "3 stars",
+            "score": 0.3781219720840454
+          },
+          {
+            "begin_char": 3088,
+            "end_char": 3120,
+            "sentiment": "5 stars",
+            "score": 0.4241773188114166
+          },
+          {
+            "begin_char": 3121,
+            "end_char": 3141,
+            "sentiment": "3 stars",
+            "score": 0.3002696633338928
+          },
+          {
+            "begin_char": 3142,
+            "end_char": 3301,
+            "sentiment": "5 stars",
+            "score": 0.6160228252410889
+          },
+          {
+            "begin_char": 3302,
+            "end_char": 3394,
+            "sentiment": "3 stars",
+            "score": 0.30941691994667053
+          },
+          {
+            "begin_char": 3395,
+            "end_char": 3478,
+            "sentiment": "3 stars",
+            "score": 0.22364160418510437
+          },
+          {
+            "begin_char": 3479,
+            "end_char": 3488,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 3488,
+            "end_char": 3535,
+            "sentiment": "5 stars",
+            "score": 0.38163307309150696
+          },
+          {
+            "begin_char": 3536,
+            "end_char": 3584,
+            "sentiment": "5 stars",
+            "score": 0.4359436333179474
+          },
+          {
+            "begin_char": 3585,
+            "end_char": 3679,
+            "sentiment": "5 stars",
+            "score": 0.581343948841095
+          },
+          {
+            "begin_char": 3680,
+            "end_char": 3807,
+            "sentiment": "4 stars",
+            "score": 0.3450191617012024
+          },
+          {
+            "begin_char": 3807,
+            "end_char": 3822,
+            "sentiment": "3 stars",
+            "score": 0.27604517340660095
+          },
+          {
+            "begin_char": 3822,
+            "end_char": 3823,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 3823,
+            "end_char": 3859,
+            "sentiment": "4 stars",
+            "score": 0.36068612337112427
+          },
+          {
+            "begin_char": 3860,
+            "end_char": 3863,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-16",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-16",
+        "pageJO": "5426",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

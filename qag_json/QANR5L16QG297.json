@@ -1,0 +1,617 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG297",
+    "identifiant": {
+      "numero": "297",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "aquaculture et pêche professionnelle",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Lutte contre la pêche illicite"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794022",
+        "mandatRef": "PM796662"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Mer",
+      "developpe": "Secrétariat d’État auprès de la Première ministre, chargé de la mer"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Mer",
+          "developpe": "Secrétariat d’État auprès de la Première ministre, chargé de la mer"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> LUTTE CONTRE LA PÊCHE ILLICITE <a name=PG23></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jérémie Iordanoff.<br><br><strong>M. Jérémie Iordanoff. </strong>Madame la Première ministre, le 11 février dernier, lors du One Ocean Summit, le Président de la République reconnaissait que la pêche illicite était « un fléau ». Aujourd'hui, il s'affiche sur Twitter pour tenter de vendre, non sans quelques contrevérités, une supposée politique écologiste que votre gouvernement a bien du mal à incarner – et pour cause ! En même temps, la France contourne depuis des années la réglementation européenne sur la pêche ; elle autorise ses thoniers à effectuer des pesées globales, et non espèce par espèce, rendant ainsi illusoire le respect des quotas. Cela a conduit la Commission européenne à ouvrir une procédure d'infraction contre la France, en juin 2021.<br><br>Des négociations ont lieu en ce moment à Bruxelles pour modifier la réglementation européenne. La France appuie cette révision pour que les marges d'erreur, fixées actuellement à 10 %, passent à 25 % pour la pêche au thon, et pour que la pesée globale devienne la norme. Il serait impossible dans ces conditions de respecter les quotas qui, par définition, se font espèce par espèce ; cette position est irresponsable.<br><br>Nous apprenons par ailleurs – et je tiens à remercier l'ONG Bloom et les journalistes de France Info – qu'une haute fonctionnaire de la direction générale des affaires maritimes, de la pêche et de l’aquaculture (DGAMPA) a été recrutée par le principal lobby européen de la pêche, Europêche. Cette personne connaît parfaitement les rouages, l'agenda et les dossiers, qu'elle a eus à traiter directement. Elle part pourtant dans le privé, sans respecter le délai légal de trois ans mais avec l'autorisation de la commission de déontologie du ministère des armées. Tout cela est effarant !<br><br>Madame la Première ministre, ce pantouflage, qui intervient au moment même de la renégociation du règlement européen du contrôle des pêches, répond-il à une volonté politique de la France ? En avez-vous eu connaissance ? Quand allez-vous cesser d'affaiblir les mécanismes de protection de la biodiversité et de la ressource halieutique ? <i>(Applaudissements sur les bancs du groupe Écolo-NUPES et sur quelques bancs du groupe SOC.) </i><br><br><strong>Mme la présidente. </strong>La parole est à M. le secrétaire d'État chargé de la mer.<br><br><strong>M. Hervé Berville,</strong><i> secrétaire d'État chargé de la mer. </i>Vous évoquez plusieurs sujets. Tout d'abord, vous avez rappelé la volonté du Gouvernement de défendre la préservation des océans et, en même temps, nos pêcheurs. Pour garantir notre souveraineté alimentaire, nous avons bel et bien besoin de pêcheurs. C'est pourquoi nous avons tenu à les soutenir avec force face à l'augmentation du prix des carburants, en déployant des aides dont le montant s'élève à plus de 40 millions d'euros. Voilà qui nous permettra de soutenir les petits pêcheurs et la souveraineté alimentaire de notre pays.<br><br>Ensuite, vous avez évoqué la question de la marge de tolérance. Contrairement à ce que vous avez dit, la France ne soutient absolument pas l'instauration d'une marge à 25 %. Comme d'autres pays, elle a été mise en demeure par la Commission européenne de respecter certaines prescriptions, ce qui arrive d'ailleurs dans d'autres domaines. Nous nous y conformerons grâce au travail que nous avons déjà entamé avec l'ensemble des acteurs.<br><br>Concernant ces contrôles, la France défend, avec le Parlement européen et d'autres États membres, une marge de tolérance de 10 %, car, quand vous pêchez du thon, vous devez le congeler en raison des fortes chaleurs. Avec bon sens et pragmatisme, nous appelons à appliquer cette marge de 10 %, qui va de pair avec l'installation obligatoire de caméras sur les navires. Notez que, dans l'espace maritime mondial, la France conduit la politique de préservation des océans et de la ressource halieutique la plus stricte.<br><br>Enfin, vous avez parlé du recrutement par Europêche d'une administratrice de la DGAMPA. Cette dernière est partie travailler non pas pour un lobby, comme vous le dites, mais pour une association qui emploie des entreprises et des marins français. Toutes les procédures ont été respectées. Nous avons même saisi, alors que cela n'était pas obligatoire, la commission de déontologie du ministère des armées, laquelle n'a relevé aucune incompatibilité. Vous voyez, nous sommes exigeants sur la probité et nous œuvrons, en même temps, à la préservation des ressources halieutiques. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>M. Thierry Benoit.</strong> Excellent !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 35,
+            "label": "ORG",
+            "text": "LUTTE CONTRE"
+          },
+          {
+            "start_char": 88,
+            "end_char": 91,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 132,
+            "end_char": 168,
+            "label": "PER",
+            "text": "M. Jérémie Iordanoff.<br><br><strong"
+          },
+          {
+            "start_char": 172,
+            "end_char": 189,
+            "label": "PER",
+            "text": "Jérémie Iordanoff"
+          },
+          {
+            "start_char": 200,
+            "end_char": 218,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 260,
+            "end_char": 276,
+            "label": "MISC",
+            "text": "One Ocean Summit"
+          },
+          {
+            "start_char": 281,
+            "end_char": 307,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 394,
+            "end_char": 401,
+            "label": "MISC",
+            "text": "Twitter"
+          },
+          {
+            "start_char": 573,
+            "end_char": 582,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 806,
+            "end_char": 827,
+            "label": "ORG",
+            "text": "Commission européenne"
+          },
+          {
+            "start_char": 944,
+            "end_char": 953,
+            "label": "LOC",
+            "text": "Bruxelles"
+          },
+          {
+            "start_char": 998,
+            "end_char": 1007,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 1307,
+            "end_char": 1328,
+            "label": "MISC",
+            "text": "irresponsable.<br><br"
+          },
+          {
+            "start_char": 1389,
+            "end_char": 1394,
+            "label": "LOC",
+            "text": "Bloom"
+          },
+          {
+            "start_char": 1418,
+            "end_char": 1429,
+            "label": "ORG",
+            "text": "France Info"
+          },
+          {
+            "start_char": 1526,
+            "end_char": 1528,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1541,
+            "end_char": 1547,
+            "label": "MISC",
+            "text": "DGAMPA"
+          },
+          {
+            "start_char": 1609,
+            "end_char": 1618,
+            "label": "ORG",
+            "text": "Europêche"
+          },
+          {
+            "start_char": 1923,
+            "end_char": 1941,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 2101,
+            "end_char": 2110,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2306,
+            "end_char": 2317,
+            "label": "ORG",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2350,
+            "end_char": 2353,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2376,
+            "end_char": 2379,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2420,
+            "end_char": 2422,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2439,
+            "end_char": 2443,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2477,
+            "end_char": 2485,
+            "label": "PER",
+            "text": "M. Hervé"
+          },
+          {
+            "start_char": 2521,
+            "end_char": 2525,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2625,
+            "end_char": 2637,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3077,
+            "end_char": 3089,
+            "label": "MISC",
+            "text": "pays.<br><br"
+          },
+          {
+            "start_char": 3192,
+            "end_char": 3201,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3319,
+            "end_char": 3340,
+            "label": "ORG",
+            "text": "Commission européenne"
+          },
+          {
+            "start_char": 3517,
+            "end_char": 3532,
+            "label": "MISC",
+            "text": "acteurs.<br><br"
+          },
+          {
+            "start_char": 3559,
+            "end_char": 3568,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3585,
+            "end_char": 3603,
+            "label": "ORG",
+            "text": "Parlement européen"
+          },
+          {
+            "start_char": 3616,
+            "end_char": 3629,
+            "label": "LOC",
+            "text": "États membres"
+          },
+          {
+            "start_char": 3901,
+            "end_char": 3906,
+            "label": "LOC",
+            "text": "Notez"
+          },
+          {
+            "start_char": 3944,
+            "end_char": 3953,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 4041,
+            "end_char": 4056,
+            "label": "MISC",
+            "text": "stricte.<br><br"
+          },
+          {
+            "start_char": 4099,
+            "end_char": 4108,
+            "label": "ORG",
+            "text": "Europêche"
+          },
+          {
+            "start_char": 4137,
+            "end_char": 4143,
+            "label": "MISC",
+            "text": "DGAMPA"
+          },
+          {
+            "start_char": 4686,
+            "end_char": 4709,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4713,
+            "end_char": 4736,
+            "label": "PER",
+            "text": "Thierry Benoit.</strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 106,
+            "sentiment": "4 stars",
+            "score": 0.28277117013931274
+          },
+          {
+            "begin_char": 107,
+            "end_char": 190,
+            "sentiment": "4 stars",
+            "score": 0.2502862513065338
+          },
+          {
+            "begin_char": 191,
+            "end_char": 200,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 200,
+            "end_char": 250,
+            "sentiment": "5 stars",
+            "score": 0.32483747601509094
+          },
+          {
+            "begin_char": 250,
+            "end_char": 363,
+            "sentiment": "4 stars",
+            "score": 0.26954251527786255
+          },
+          {
+            "begin_char": 364,
+            "end_char": 557,
+            "sentiment": "1 star",
+            "score": 0.494358092546463
+          },
+          {
+            "begin_char": 558,
+            "end_char": 654,
+            "sentiment": "4 stars",
+            "score": 0.2951575517654419
+          },
+          {
+            "begin_char": 655,
+            "end_char": 787,
+            "sentiment": "1 star",
+            "score": 0.3181864619255066
+          },
+          {
+            "begin_char": 788,
+            "end_char": 997,
+            "sentiment": "4 stars",
+            "score": 0.33906543254852295
+          },
+          {
+            "begin_char": 998,
+            "end_char": 1014,
+            "sentiment": "4 stars",
+            "score": 0.44576698541641235
+          },
+          {
+            "begin_char": 1015,
+            "end_char": 1173,
+            "sentiment": "4 stars",
+            "score": 0.3649486005306244
+          },
+          {
+            "begin_char": 1174,
+            "end_char": 1287,
+            "sentiment": "3 stars",
+            "score": 0.3058396577835083
+          },
+          {
+            "begin_char": 1288,
+            "end_char": 1329,
+            "sentiment": "1 star",
+            "score": 0.40430665016174316
+          },
+          {
+            "begin_char": 1329,
+            "end_char": 1619,
+            "sentiment": "4 stars",
+            "score": 0.3998323678970337
+          },
+          {
+            "begin_char": 1620,
+            "end_char": 1731,
+            "sentiment": "5 stars",
+            "score": 0.45330119132995605
+          },
+          {
+            "begin_char": 1732,
+            "end_char": 1890,
+            "sentiment": "3 stars",
+            "score": 0.3162904381752014
+          },
+          {
+            "begin_char": 1891,
+            "end_char": 1915,
+            "sentiment": "1 star",
+            "score": 0.7231667637825012
+          },
+          {
+            "begin_char": 1915,
+            "end_char": 1923,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1923,
+            "end_char": 2112,
+            "sentiment": "4 stars",
+            "score": 0.34644320607185364
+          },
+          {
+            "begin_char": 2113,
+            "end_char": 2143,
+            "sentiment": "4 stars",
+            "score": 0.2522653639316559
+          },
+          {
+            "begin_char": 2144,
+            "end_char": 2260,
+            "sentiment": "5 stars",
+            "score": 0.32603079080581665
+          },
+          {
+            "begin_char": 2261,
+            "end_char": 2354,
+            "sentiment": "4 stars",
+            "score": 0.3393329381942749
+          },
+          {
+            "begin_char": 2354,
+            "end_char": 2355,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 2356,
+            "end_char": 2394,
+            "sentiment": "3 stars",
+            "score": 0.2889687418937683
+          },
+          {
+            "begin_char": 2395,
+            "end_char": 2543,
+            "sentiment": "4 stars",
+            "score": 0.31064289808273315
+          },
+          {
+            "begin_char": 2544,
+            "end_char": 2578,
+            "sentiment": "3 stars",
+            "score": 0.33028143644332886
+          },
+          {
+            "begin_char": 2579,
+            "end_char": 2709,
+            "sentiment": "5 stars",
+            "score": 0.5667127370834351
+          },
+          {
+            "begin_char": 2710,
+            "end_char": 2798,
+            "sentiment": "5 stars",
+            "score": 0.4265459477901459
+          },
+          {
+            "begin_char": 2799,
+            "end_char": 2979,
+            "sentiment": "5 stars",
+            "score": 0.5793201327323914
+          },
+          {
+            "begin_char": 2980,
+            "end_char": 3153,
+            "sentiment": "5 stars",
+            "score": 0.4748958647251129
+          },
+          {
+            "begin_char": 3154,
+            "end_char": 3263,
+            "sentiment": "1 star",
+            "score": 0.6531948447227478
+          },
+          {
+            "begin_char": 3264,
+            "end_char": 3427,
+            "sentiment": "4 stars",
+            "score": 0.41834333539009094
+          },
+          {
+            "begin_char": 3428,
+            "end_char": 3533,
+            "sentiment": "4 stars",
+            "score": 0.3882717490196228
+          },
+          {
+            "begin_char": 3533,
+            "end_char": 3748,
+            "sentiment": "4 stars",
+            "score": 0.3998604416847229
+          },
+          {
+            "begin_char": 3749,
+            "end_char": 3900,
+            "sentiment": "5 stars",
+            "score": 0.5809502601623535
+          },
+          {
+            "begin_char": 3901,
+            "end_char": 4144,
+            "sentiment": "4 stars",
+            "score": 0.3355807960033417
+          },
+          {
+            "begin_char": 4145,
+            "end_char": 4303,
+            "sentiment": "1 star",
+            "score": 0.34914475679397583
+          },
+          {
+            "begin_char": 4304,
+            "end_char": 4345,
+            "sentiment": "5 stars",
+            "score": 0.4927043616771698
+          },
+          {
+            "begin_char": 4346,
+            "end_char": 4506,
+            "sentiment": "4 stars",
+            "score": 0.270990252494812
+          },
+          {
+            "begin_char": 4507,
+            "end_char": 4634,
+            "sentiment": "5 stars",
+            "score": 0.4654284119606018
+          },
+          {
+            "begin_char": 4635,
+            "end_char": 4713,
+            "sentiment": "3 stars",
+            "score": 0.3572874367237091
+          },
+          {
+            "begin_char": 4713,
+            "end_char": 4737,
+            "sentiment": "3 stars",
+            "score": 0.2943950593471527
+          },
+          {
+            "begin_char": 4738,
+            "end_char": 4749,
+            "sentiment": "5 stars",
+            "score": 0.8453423976898193
+          },
+          {
+            "begin_char": 4749,
+            "end_char": 4757,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-16",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-16",
+        "pageJO": "5429",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG212",
+    "identifiant": {
+      "numero": "212",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "professions et activités sociales",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "AIDES À DOMICILE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA267042",
+        "mandatRef": "PM796932"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Solidarités, autonomie et personnes handicapées",
+      "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Solidarités, autonomie et personnes handicapées",
+          "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> AIDES À DOMICILE <a name=PG19></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Yannick Favennec-Bécot.<br><br><strong>M. Yannick Favennec-Bécot. </strong>Monsieur le ministre des solidarités, de l'autonomie et des personnes handicapées, ces dernières semaines, les projecteurs ont été braqués sur les aides à domicile, notamment en raison des pénuries d’essence. Je veux aujourd’hui les mettre à nouveau au centre de nos préoccupations, cette fois pour réitérer l'appel à une réforme urgente et profonde de la profession.<br><br>Les aides à domicile sont indispensables. Ce sont des hommes et des femmes qui, tous les jours, œuvrent dans des conditions parfois très difficiles auprès de personnes âgées et handicapées en perte d'autonomie, et ce pour leur permettre de rester chez elles le plus longtemps possible. Leur vocation : aider, soutenir, accompagner. Mais beaucoup sont épuisés, découragés, démotivés, et il en résulte une véritable crise du recrutement. Je le constate malheureusement tous les jours dans mon département de la Mayenne. Pourtant, leur rôle est plus que jamais essentiel.<br><br>La conjoncture, celle d'une société vieillissante, implique une réforme dont le contenu, loin d'être démesuré, apparaît légitime, rationnel et tout simplement humain. Voici ce que nous attendons : une prise en compte des temps de déplacement entre chaque patient, une revalorisation réelle des indemnités kilométriques, la définition d'un vrai statut, la mise en place d'une formation reconnue et une augmentation salariale.<br><br>Ma question est simple, monsieur le ministre : quand et comment allez-vous répondre concrètement aux attentes de ces femmes et de ces hommes, qui sont aussi nos héros du quotidien ? <i>(Applaudissements sur les bancs du groupe HOR ainsi que sur plusieurs bancs du groupe GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre des solidarités, de l'autonomie et des personnes handicapées.<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre des solidarités, de l'autonomie et des personnes handicapées. </i>Monsieur le député, vous avez raison, voilà plusieurs années que les professionnels de l'aide à domicile traversent une crise profonde. On observe une crise d'attractivité du métier, alors qu'augmentent les besoins de la population et que s'accumulent les contraintes pour ces femmes et ces hommes engagés, qui accompagnent au quotidien nos concitoyens âgés ou en situation de handicap. La crise du recrutement exacerbe les tensions déjà existantes. On déplore aussi une crise de la pratique professionnelle : l'exposition à un risque d'accident du travail et de maladie professionnelle – c'est ce que l'on appelle la sinistralité – est plus élevée chez les aides à domicile que parmi les professionnels du bâtiment.<br><br>Face à cela, il est urgent d'agir, de redonner du sens au métier et de soutenir ces professionnels dont nous avons tant besoin, pour réussir le virage domiciliaire qu'appelle de leurs vœux l'immense majorité des Français. À l'instar de ce qui s'est passé pour les Ehpad, nous avons pris des mesures fortes ces dernières années. Pour les aides à domicile, nous avons engagé des revalorisations historiques par la réforme de l'avenant 43 de la branche de l'aide, de l'accompagnement, des soins et des services à domicile. Je parle d'augmentations de plus de 15 %, pouvant aller jusqu'à 250 euros par mois, pour près de 210 000 professionnels.<br><br><strong>M. Pierre Cordier.</strong> Ce sont les départements qui paient !<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre. </i>Pas seulement, puisque ces revalorisations sont compensées à 50 % par l'État.<br><br><strong>M. Pierre Cordier.</strong> Jusqu'à quand ?<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre. </i>La « dotation qualité » pour les services d'aide à domicile permet à la fois de mieux couvrir les zones sous-denses et d'améliorer les conditions de travail des professionnels. Un tarif plancher pour les heures de travail effectuées a été établi. Il sera revalorisé dès cette année à 23 euros, avec là encore une compensation à 100 % par l'État. Dans le cadre du projet de loi de financement de la sécurité sociale pour 2023, nous allons investir en faveur des soins infirmiers à domicile et augmenter de 20 % le nombre de places d'ici à 2030. Cela représente un investissement de 400 millions d'euros en année pleine. Nous entendons également réformer le financement de ces services, en prenant en mieux compte la situation des personnes concernées.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 41,
+            "label": "MISC",
+            "text": "AIDES À DOMICILE <"
+          },
+          {
+            "start_char": 74,
+            "end_char": 77,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 118,
+            "end_char": 120,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 121,
+            "end_char": 159,
+            "label": "PER",
+            "text": "Yannick Favennec-Bécot.<br><br><strong"
+          },
+          {
+            "start_char": 163,
+            "end_char": 185,
+            "label": "PER",
+            "text": "Yannick Favennec-Bécot"
+          },
+          {
+            "start_char": 196,
+            "end_char": 204,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 552,
+            "end_char": 570,
+            "label": "ORG",
+            "text": "profession.<br><br"
+          },
+          {
+            "start_char": 1080,
+            "end_char": 1087,
+            "label": "LOC",
+            "text": "Mayenne"
+          },
+          {
+            "start_char": 1561,
+            "end_char": 1579,
+            "label": "MISC",
+            "text": "salariale.<br><br>"
+          },
+          {
+            "start_char": 1806,
+            "end_char": 1809,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 1850,
+            "end_char": 1880,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1881,
+            "end_char": 1884,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1925,
+            "end_char": 1927,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2017,
+            "end_char": 2035,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 2130,
+            "end_char": 2138,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2837,
+            "end_char": 2854,
+            "label": "MISC",
+            "text": "bâtiment.<br><br>"
+          },
+          {
+            "start_char": 3066,
+            "end_char": 3074,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3118,
+            "end_char": 3123,
+            "label": "MISC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 3513,
+            "end_char": 3536,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 3591,
+            "end_char": 3609,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 3643,
+            "end_char": 3646,
+            "label": "LOC",
+            "text": "Pas"
+          },
+          {
+            "start_char": 3739,
+            "end_char": 3762,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 3795,
+            "end_char": 3813,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 4187,
+            "end_char": 4191,
+            "label": "LOC",
+            "text": "État"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 92,
+            "sentiment": "3 stars",
+            "score": 0.3102377653121948
+          },
+          {
+            "begin_char": 93,
+            "end_char": 186,
+            "sentiment": "4 stars",
+            "score": 0.28145065903663635
+          },
+          {
+            "begin_char": 187,
+            "end_char": 196,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 196,
+            "end_char": 404,
+            "sentiment": "4 stars",
+            "score": 0.3933776617050171
+          },
+          {
+            "begin_char": 405,
+            "end_char": 571,
+            "sentiment": "5 stars",
+            "score": 0.7455617785453796
+          },
+          {
+            "begin_char": 571,
+            "end_char": 612,
+            "sentiment": "5 stars",
+            "score": 0.4213496148586273
+          },
+          {
+            "begin_char": 613,
+            "end_char": 856,
+            "sentiment": "5 stars",
+            "score": 0.5105143189430237
+          },
+          {
+            "begin_char": 857,
+            "end_char": 902,
+            "sentiment": "5 stars",
+            "score": 0.39035794138908386
+          },
+          {
+            "begin_char": 903,
+            "end_char": 1006,
+            "sentiment": "2 stars",
+            "score": 0.402628093957901
+          },
+          {
+            "begin_char": 1007,
+            "end_char": 1088,
+            "sentiment": "3 stars",
+            "score": 0.3734997510910034
+          },
+          {
+            "begin_char": 1089,
+            "end_char": 1147,
+            "sentiment": "5 stars",
+            "score": 0.500654399394989
+          },
+          {
+            "begin_char": 1147,
+            "end_char": 1313,
+            "sentiment": "5 stars",
+            "score": 0.550488293170929
+          },
+          {
+            "begin_char": 1314,
+            "end_char": 1579,
+            "sentiment": "5 stars",
+            "score": 0.6988765597343445
+          },
+          {
+            "begin_char": 1579,
+            "end_char": 1760,
+            "sentiment": "5 stars",
+            "score": 0.6531280875205994
+          },
+          {
+            "begin_char": 1761,
+            "end_char": 1899,
+            "sentiment": "4 stars",
+            "score": 0.3213507831096649
+          },
+          {
+            "begin_char": 1900,
+            "end_char": 2054,
+            "sentiment": "4 stars",
+            "score": 0.31987905502319336
+          },
+          {
+            "begin_char": 2055,
+            "end_char": 2125,
+            "sentiment": "4 stars",
+            "score": 0.35842639207839966
+          },
+          {
+            "begin_char": 2126,
+            "end_char": 2130,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2130,
+            "end_char": 2265,
+            "sentiment": "5 stars",
+            "score": 0.39577075839042664
+          },
+          {
+            "begin_char": 2266,
+            "end_char": 2516,
+            "sentiment": "4 stars",
+            "score": 0.38228222727775574
+          },
+          {
+            "begin_char": 2517,
+            "end_char": 2579,
+            "sentiment": "3 stars",
+            "score": 0.32296833395957947
+          },
+          {
+            "begin_char": 2580,
+            "end_char": 2854,
+            "sentiment": "3 stars",
+            "score": 0.4778064489364624
+          },
+          {
+            "begin_char": 2854,
+            "end_char": 3075,
+            "sentiment": "5 stars",
+            "score": 0.7613000869750977
+          },
+          {
+            "begin_char": 3076,
+            "end_char": 3181,
+            "sentiment": "5 stars",
+            "score": 0.5181012153625488
+          },
+          {
+            "begin_char": 3182,
+            "end_char": 3373,
+            "sentiment": "4 stars",
+            "score": 0.417990118265152
+          },
+          {
+            "begin_char": 3374,
+            "end_char": 3537,
+            "sentiment": "3 stars",
+            "score": 0.24044978618621826
+          },
+          {
+            "begin_char": 3538,
+            "end_char": 3575,
+            "sentiment": "1 star",
+            "score": 0.24562150239944458
+          },
+          {
+            "begin_char": 3575,
+            "end_char": 3638,
+            "sentiment": "3 stars",
+            "score": 0.3068428635597229
+          },
+          {
+            "begin_char": 3639,
+            "end_char": 3643,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3643,
+            "end_char": 3779,
+            "sentiment": "3 stars",
+            "score": 0.28147855401039124
+          },
+          {
+            "begin_char": 3779,
+            "end_char": 3842,
+            "sentiment": "3 stars",
+            "score": 0.3068428635597229
+          },
+          {
+            "begin_char": 3843,
+            "end_char": 4023,
+            "sentiment": "4 stars",
+            "score": 0.43350037932395935
+          },
+          {
+            "begin_char": 4024,
+            "end_char": 4093,
+            "sentiment": "4 stars",
+            "score": 0.3686531186103821
+          },
+          {
+            "begin_char": 4094,
+            "end_char": 4192,
+            "sentiment": "3 stars",
+            "score": 0.25178954005241394
+          },
+          {
+            "begin_char": 4193,
+            "end_char": 4390,
+            "sentiment": "5 stars",
+            "score": 0.5222592353820801
+          },
+          {
+            "begin_char": 4391,
+            "end_char": 4465,
+            "sentiment": "4 stars",
+            "score": 0.32890963554382324
+          },
+          {
+            "begin_char": 4466,
+            "end_char": 4601,
+            "sentiment": "4 stars",
+            "score": 0.41149619221687317
+          },
+          {
+            "begin_char": 4602,
+            "end_char": 4605,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-26",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-26",
+        "pageJO": "4567",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

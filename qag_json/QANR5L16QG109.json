@@ -1,0 +1,779 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG109",
+    "identifiant": {
+      "numero": "109",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "finances publiques",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Taxe sur les superprofits"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794402",
+        "mandatRef": "PM796905"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Comptes publics",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Comptes publics",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> TAXE SUR LES SUPERPROFITS <a name=PG28></a> </p><br><strong>Mme la présidente. </strong>À titre exceptionnel, je vais permettre à Mme Charlotte Leduc de poser sa question.<br><br><strong>Mme Charlotte Leduc. </strong>Monsieur le ministre délégué chargé des comptes publics, jeudi dernier, nous apprenions que TotalEnergies a réalisé 17,7 milliards d'euros de profits au cours du premier semestre de 2022, sachant que le groupe avait déjà explosé les records en réalisant 14 milliards d'euros de bénéfices en 2021. Ces profits stratosphériques, il ne les a pas engrangés grâce à une découverte extraordinaire ou à un investissement : il a tout simplement profité de l'inflation et de la guerre en Ukraine. <i>(Applaudissements sur les bancs du groupe LFI-NUPES et sur plusieurs bancs du groupe SOC.)</i><br><br>Il s'agit bien d'une situation de surprofits, de profits d'aubaine, injustifiés. TotalEnergies profite incontestablement de la crise, alors que nos concitoyens sont de plus en plus nombreux à boucler difficilement les fins de mois en raison de l'inflation. En outre, au moment de l'annonce de ces profits indécents, nous avons eu la confirmation que Total n'a pas payé un seul euro d'impôt sur les sociétés en 2020 et en 2021.<br><br><strong>Plusieurs députés du groupe LFI .</strong> C'est honteux !<br><br><strong>Mme Charlotte Leduc. </strong>Il a échappé à l'impôt grâce à des montages financiers qui lui permettent de domicilier ses profits hors de France : cette optimisation fiscale est la part légale, certes, mais illégitime de l'évasion fiscale. Pouvez-vous imaginer que le groupe ne réalise aucun bénéfice en France alors que notre pays compte pour 21 % de son activité ? En France, les PME, que vous aimez tant mettre en avant, paient presque 25 % d'impôts alors que les 300 plus grosses entreprises n'en paient que 17 % et que les entreprises du CAC40 n'en paient aucun. <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i><br><br>Bonne nouvelle : vendredi dernier, Bruno Le Maire s'est déclaré très favorable à la mission d'information, proposée par notre collègue Éric Coquerel, sur la fiscalité des groupes du CAC40 qui ne paient pas d'impôt sur les sociétés en France. Monsieur le ministre délégué, vous semblez donc enfin admettre qu'il est urgent de rétablir la justice fiscale dans notre pays. Alors que vous avez dit tout à l'heure que l'État paie sa part à coups de milliards, comment justifiez-vous de ne demander qu'une aumône à TotalEnergies ? <i>(Applaudissements sur les bancs du groupe LFI-NUPES et sur quelques bancs du groupe SOC.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé des comptes publics.<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué chargé des comptes publics. </i>Madame la députée, j'entends votre question comme un vibrant plaidoyer en faveur de l'action que mènent le Gouvernement et le Président de la République dans le but d'aboutir à une imposition minimale mondiale. <i>(Exclamations sur les bancs du groupe LFI-NUPES. – Applaudissements sur de nombreux bancs du groupe RE.) </i>Grâce à l'action de Bruno Le Maire, nous progressons sur ce point, en vue d'apporter une vraie réponse au problème que vous soulevez : taxer justement les entreprises. Oui, certaines entreprises ne savent pas où elles habitent, et nous devons le leur rappeler. C'est avec cet impôt mondial que nous y arriverons.<br><br>Venons-en aux bénéfices de TotalEnergies, dont j'ai déjà parlé en réponse à la question de Mme Pires Beaune. Nous assumons de dire que les Français préfèrent voir une ligne sur leur facture d'essence baisser dès la rentrée,…<br><br><strong>Mme Danielle Simonnet.</strong> C'est faux !<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué . </i>…plutôt qu'une ligne du Trésor public augmenter à la fin de l'année. C'est plus concret pour eux dans leur vie quotidienne. <i>(Exclamations sur les bancs du groupe LFI-NUPES.)</i><br><br>En fait, madame la députée, votre question rappelle votre programme de la présidentielle et des législatives : vous voulez augmenter les impôts qui touchent nos entreprises, toutes nos entreprises ! Vous voulez les assommer d'impôts. <i>(« Non ! » sur les bancs du groupe LFI-NUPES.) </i>Mais si : votre programme prévoyait 90 milliards d'euros d'impôts en plus pour les entreprises. Vous vous réveillez le matin en vous demandant qui taxer, et vous vous couchez le soir en vous demandant comment le faire. C'est votre philosophie de vie ! (Exclamations continues sur les bancs du groupe LFI-NUPES.)<br><br>Vous prenez l'inflation actuelle comme excuse, mais votre programme revient à assommer nos entreprises de taxes et d'impôts en permanence. Pour notre part, nous considérons que c'est en baissant la fiscalité, comme nous l'avons déjà fait en diminuant les impôts de 50 milliards d'euros, que nous relancerons l'activité économique dans notre pays. <i>(Applaudissements sur quelques bancs du groupe RE.)</i> Nous avons baissé de 33 % à 25 % le taux d'impôt sur les sociétés et, pourtant, les sommes collectées ont augmenté.<br><br><strong>Mme Ségolène Amiot.</strong> Les grands groupes paient toujours zéro !<br><br><strong>M. Matthias Tavel.</strong> Total paie zéro !<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué . </i>Quand vous baissez les impôts, c'est l'activité qui redémarre et produit aussi des recettes pour l'État. Ce que vous voulez, finalement, c'est détruire l'activité économique et l'emploi dans notre pays, et n'obtenir qu'une seule inflation, celle du chômage. <i>(Applaudissements sur les bancs du groupe RE.)</i><br>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 27,
+            "label": "ORG",
+            "text": "TAXE"
+          },
+          {
+            "start_char": 36,
+            "end_char": 48,
+            "label": "ORG",
+            "text": "SUPERPROFITS"
+          },
+          {
+            "start_char": 83,
+            "end_char": 86,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 153,
+            "end_char": 172,
+            "label": "PER",
+            "text": "Mme Charlotte Leduc"
+          },
+          {
+            "start_char": 210,
+            "end_char": 229,
+            "label": "PER",
+            "text": "Mme Charlotte Leduc"
+          },
+          {
+            "start_char": 240,
+            "end_char": 248,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 297,
+            "end_char": 310,
+            "label": "PER",
+            "text": "jeudi dernier"
+          },
+          {
+            "start_char": 332,
+            "end_char": 345,
+            "label": "ORG",
+            "text": "TotalEnergies"
+          },
+          {
+            "start_char": 719,
+            "end_char": 726,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 773,
+            "end_char": 782,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 816,
+            "end_char": 832,
+            "label": "ORG",
+            "text": "SOC.)</i><br><br"
+          },
+          {
+            "start_char": 914,
+            "end_char": 927,
+            "label": "ORG",
+            "text": "TotalEnergies"
+          },
+          {
+            "start_char": 1183,
+            "end_char": 1188,
+            "label": "MISC",
+            "text": "Total"
+          },
+          {
+            "start_char": 1303,
+            "end_char": 1306,
+            "label": "ORG",
+            "text": "LFI"
+          },
+          {
+            "start_char": 1349,
+            "end_char": 1368,
+            "label": "PER",
+            "text": "Mme Charlotte Leduc"
+          },
+          {
+            "start_char": 1484,
+            "end_char": 1493,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 1589,
+            "end_char": 1595,
+            "label": "PER",
+            "text": "Pouvez"
+          },
+          {
+            "start_char": 1653,
+            "end_char": 1659,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1719,
+            "end_char": 1725,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1892,
+            "end_char": 1897,
+            "label": "ORG",
+            "text": "CAC40"
+          },
+          {
+            "start_char": 1962,
+            "end_char": 1984,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 1985,
+            "end_char": 1990,
+            "label": "PER",
+            "text": "Bonne"
+          },
+          {
+            "start_char": 2020,
+            "end_char": 2034,
+            "label": "PER",
+            "text": "Bruno Le Maire"
+          },
+          {
+            "start_char": 2120,
+            "end_char": 2133,
+            "label": "PER",
+            "text": "Éric Coquerel"
+          },
+          {
+            "start_char": 2167,
+            "end_char": 2172,
+            "label": "ORG",
+            "text": "CAC40"
+          },
+          {
+            "start_char": 2219,
+            "end_char": 2225,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 2227,
+            "end_char": 2235,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2400,
+            "end_char": 2404,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2494,
+            "end_char": 2507,
+            "label": "ORG",
+            "text": "TotalEnergies"
+          },
+          {
+            "start_char": 2555,
+            "end_char": 2564,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2597,
+            "end_char": 2621,
+            "label": "ORG",
+            "text": "SOC.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2622,
+            "end_char": 2625,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2666,
+            "end_char": 2668,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2732,
+            "end_char": 2742,
+            "label": "PER",
+            "text": "M. Gabriel"
+          },
+          {
+            "start_char": 2811,
+            "end_char": 2817,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 2918,
+            "end_char": 2930,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2937,
+            "end_char": 2963,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3063,
+            "end_char": 3072,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3076,
+            "end_char": 3092,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 3118,
+            "end_char": 3127,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 3154,
+            "end_char": 3168,
+            "label": "PER",
+            "text": "Bruno Le Maire"
+          },
+          {
+            "start_char": 3435,
+            "end_char": 3453,
+            "label": "MISC",
+            "text": "arriverons.<br><br"
+          },
+          {
+            "start_char": 3481,
+            "end_char": 3494,
+            "label": "ORG",
+            "text": "TotalEnergies"
+          },
+          {
+            "start_char": 3545,
+            "end_char": 3561,
+            "label": "PER",
+            "text": "Mme Pires Beaune"
+          },
+          {
+            "start_char": 3593,
+            "end_char": 3601,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3694,
+            "end_char": 3706,
+            "label": "PER",
+            "text": "Mme Danielle"
+          },
+          {
+            "start_char": 3754,
+            "end_char": 3764,
+            "label": "PER",
+            "text": "M. Gabriel"
+          },
+          {
+            "start_char": 3831,
+            "end_char": 3844,
+            "label": "MISC",
+            "text": "Trésor public"
+          },
+          {
+            "start_char": 3972,
+            "end_char": 3994,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 4267,
+            "end_char": 4276,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 4536,
+            "end_char": 4548,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 4583,
+            "end_char": 4601,
+            "label": "ORG",
+            "text": "LFI-NUPES.)<br><br"
+          },
+          {
+            "start_char": 4999,
+            "end_char": 5006,
+            "label": "ORG",
+            "text": "RE.)</i"
+          },
+          {
+            "start_char": 5139,
+            "end_char": 5166,
+            "label": "PER",
+            "text": "Mme Ségolène Amiot.</strong"
+          },
+          {
+            "start_char": 5228,
+            "end_char": 5251,
+            "label": "PER",
+            "text": "Matthias Tavel.</strong"
+          },
+          {
+            "start_char": 5286,
+            "end_char": 5296,
+            "label": "PER",
+            "text": "M. Gabriel"
+          },
+          {
+            "start_char": 5438,
+            "end_char": 5442,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5642,
+            "end_char": 5653,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 101,
+            "sentiment": "1 star",
+            "score": 0.24049687385559082
+          },
+          {
+            "begin_char": 102,
+            "end_char": 230,
+            "sentiment": "4 stars",
+            "score": 0.2864255905151367
+          },
+          {
+            "begin_char": 231,
+            "end_char": 240,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 240,
+            "end_char": 536,
+            "sentiment": "5 stars",
+            "score": 0.357699990272522
+          },
+          {
+            "begin_char": 537,
+            "end_char": 727,
+            "sentiment": "5 stars",
+            "score": 0.5074490904808044
+          },
+          {
+            "begin_char": 728,
+            "end_char": 833,
+            "sentiment": "4 stars",
+            "score": 0.33526456356048584
+          },
+          {
+            "begin_char": 833,
+            "end_char": 913,
+            "sentiment": "1 star",
+            "score": 0.7000910043716431
+          },
+          {
+            "begin_char": 914,
+            "end_char": 927,
+            "sentiment": "5 stars",
+            "score": 0.40828830003738403
+          },
+          {
+            "begin_char": 928,
+            "end_char": 1089,
+            "sentiment": "4 stars",
+            "score": 0.4251202642917633
+          },
+          {
+            "begin_char": 1090,
+            "end_char": 1317,
+            "sentiment": "1 star",
+            "score": 0.3872678875923157
+          },
+          {
+            "begin_char": 1318,
+            "end_char": 1333,
+            "sentiment": "1 star",
+            "score": 0.821001410484314
+          },
+          {
+            "begin_char": 1333,
+            "end_char": 1369,
+            "sentiment": "3 stars",
+            "score": 0.2817809581756592
+          },
+          {
+            "begin_char": 1370,
+            "end_char": 1379,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1379,
+            "end_char": 1588,
+            "sentiment": "4 stars",
+            "score": 0.27508723735809326
+          },
+          {
+            "begin_char": 1589,
+            "end_char": 1715,
+            "sentiment": "1 star",
+            "score": 0.5994576811790466
+          },
+          {
+            "begin_char": 1716,
+            "end_char": 1916,
+            "sentiment": "5 stars",
+            "score": 0.329124391078949
+          },
+          {
+            "begin_char": 1917,
+            "end_char": 1985,
+            "sentiment": "4 stars",
+            "score": 0.3253982961177826
+          },
+          {
+            "begin_char": 1985,
+            "end_char": 2001,
+            "sentiment": "5 stars",
+            "score": 0.43579569458961487
+          },
+          {
+            "begin_char": 2002,
+            "end_char": 2226,
+            "sentiment": "4 stars",
+            "score": 0.4070855677127838
+          },
+          {
+            "begin_char": 2227,
+            "end_char": 2354,
+            "sentiment": "5 stars",
+            "score": 0.5373108983039856
+          },
+          {
+            "begin_char": 2355,
+            "end_char": 2509,
+            "sentiment": "1 star",
+            "score": 0.6939929127693176
+          },
+          {
+            "begin_char": 2510,
+            "end_char": 2640,
+            "sentiment": "4 stars",
+            "score": 0.3313697874546051
+          },
+          {
+            "begin_char": 2641,
+            "end_char": 2806,
+            "sentiment": "4 stars",
+            "score": 0.2992722690105438
+          },
+          {
+            "begin_char": 2807,
+            "end_char": 3021,
+            "sentiment": "5 stars",
+            "score": 0.5779744982719421
+          },
+          {
+            "begin_char": 3022,
+            "end_char": 3134,
+            "sentiment": "4 stars",
+            "score": 0.3293670415878296
+          },
+          {
+            "begin_char": 3134,
+            "end_char": 3301,
+            "sentiment": "4 stars",
+            "score": 0.40345174074172974
+          },
+          {
+            "begin_char": 3302,
+            "end_char": 3394,
+            "sentiment": "5 stars",
+            "score": 0.4660003185272217
+          },
+          {
+            "begin_char": 3395,
+            "end_char": 3454,
+            "sentiment": "5 stars",
+            "score": 0.3955046534538269
+          },
+          {
+            "begin_char": 3454,
+            "end_char": 3562,
+            "sentiment": "5 stars",
+            "score": 0.31269189715385437
+          },
+          {
+            "begin_char": 3563,
+            "end_char": 3725,
+            "sentiment": "2 stars",
+            "score": 0.35475584864616394
+          },
+          {
+            "begin_char": 3726,
+            "end_char": 3802,
+            "sentiment": "1 star",
+            "score": 0.5193576216697693
+          },
+          {
+            "begin_char": 3803,
+            "end_char": 3875,
+            "sentiment": "2 stars",
+            "score": 0.3977811336517334
+          },
+          {
+            "begin_char": 3876,
+            "end_char": 3930,
+            "sentiment": "4 stars",
+            "score": 0.3733041286468506
+          },
+          {
+            "begin_char": 3931,
+            "end_char": 3995,
+            "sentiment": "4 stars",
+            "score": 0.3037535548210144
+          },
+          {
+            "begin_char": 3995,
+            "end_char": 4193,
+            "sentiment": "5 stars",
+            "score": 0.3234955966472626
+          },
+          {
+            "begin_char": 4194,
+            "end_char": 4228,
+            "sentiment": "1 star",
+            "score": 0.6085309982299805
+          },
+          {
+            "begin_char": 4229,
+            "end_char": 4277,
+            "sentiment": "3 stars",
+            "score": 0.21720410883426666
+          },
+          {
+            "begin_char": 4277,
+            "end_char": 4278,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 4279,
+            "end_char": 4283,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4283,
+            "end_char": 4378,
+            "sentiment": "1 star",
+            "score": 0.33026453852653503
+          },
+          {
+            "begin_char": 4379,
+            "end_char": 4501,
+            "sentiment": "1 star",
+            "score": 0.5112273693084717
+          },
+          {
+            "begin_char": 4502,
+            "end_char": 4534,
+            "sentiment": "5 stars",
+            "score": 0.6131951808929443
+          },
+          {
+            "begin_char": 4535,
+            "end_char": 4536,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 4536,
+            "end_char": 4602,
+            "sentiment": "4 stars",
+            "score": 0.3093673884868622
+          },
+          {
+            "begin_char": 4602,
+            "end_char": 4740,
+            "sentiment": "1 star",
+            "score": 0.6106900572776794
+          },
+          {
+            "begin_char": 4741,
+            "end_char": 4948,
+            "sentiment": "5 stars",
+            "score": 0.5080559849739075
+          },
+          {
+            "begin_char": 4949,
+            "end_char": 5007,
+            "sentiment": "3 stars",
+            "score": 0.30346009135246277
+          },
+          {
+            "begin_char": 5008,
+            "end_char": 5167,
+            "sentiment": "3 stars",
+            "score": 0.2828660309314728
+          },
+          {
+            "begin_char": 5168,
+            "end_char": 5209,
+            "sentiment": "1 star",
+            "score": 0.7224862575531006
+          },
+          {
+            "begin_char": 5209,
+            "end_char": 5252,
+            "sentiment": "3 stars",
+            "score": 0.30641037225723267
+          },
+          {
+            "begin_char": 5253,
+            "end_char": 5270,
+            "sentiment": "1 star",
+            "score": 0.8988929986953735
+          },
+          {
+            "begin_char": 5270,
+            "end_char": 5334,
+            "sentiment": "3 stars",
+            "score": 0.2997398376464844
+          },
+          {
+            "begin_char": 5335,
+            "end_char": 5443,
+            "sentiment": "3 stars",
+            "score": 0.2991515100002289
+          },
+          {
+            "begin_char": 5444,
+            "end_char": 5596,
+            "sentiment": "1 star",
+            "score": 0.7203127145767212
+          },
+          {
+            "begin_char": 5597,
+            "end_char": 5654,
+            "sentiment": "4 stars",
+            "score": 0.2991805374622345
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3321",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

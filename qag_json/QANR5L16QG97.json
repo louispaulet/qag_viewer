@@ -1,0 +1,497 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG97",
+    "identifiant": {
+      "numero": "97",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "pollution",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Pollution aux PFAS"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA722374",
+        "mandatRef": "PM797196"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> POLLUTION AUX PFAS <a name=PG16></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Cyrille Isaac-Sibille.<br><br><strong>M. Cyrille Isaac-Sibille. </strong>Monsieur le ministre de la transition écologique et de la cohésion des territoires, j'associe mes collègues Sandrine Josso et Jimmy Pahun à ma question.<br><br>En mai dernier, une enquête journalistique a révélé une pollution aux substances per- et poly-fluoroalkylées (PFAS) touchant les communes du sud de la métropole de Lyon, plus particulièrement la commune de Pierre-Bénite où sont implantées deux entreprises chimiques. Des quantités importantes de composés perfluorés ont été retrouvées dans l'eau du Rhône, en amont de points de captage de l'eau de consommation des habitants de plusieurs communes, dans les sols maraîchers et dans l'air. Des composants per- et poly-fluorés ont même été retrouvés dans le lait de treize mères.<br><br>Ces substances chimiques sont baptisées « polluants éternels », tant elles sont peu dégradables dans le temps. De nombreuses études associent l'exposition à ces substances aux cancers, aux troubles thyroïdiens, aux dérèglements hormonaux et à la stérilité. Actuellement, les PFAS ne sont pas réglementées dans les aliments. Dans l'eau de boisson, une norme européenne doit être traduite en droit français avant 2026. L'entreprise concernée s'est engagée à ne plus utiliser ce polluant d'ici à 2024. Cependant, certains des polluants retrouvés dans l'eau de consommation et dans les sols n'étaient plus utilisés depuis des dizaines d'années : il est donc probable que la nappe phréatique soit contaminée.<br><br>Monsieur le ministre, les habitants de la métropole de Lyon doivent-ils attendre une enquête journalistique pour être informés de pollutions connues, et la direction régionale de l'environnement, de l'aménagement et du logement (DREAL) pour faire des contrôles inopinés ? Comment mieux informer les habitants et leurs élus et garantir plus de transparence concernant les résultats des prélèvements, les prescriptions de la DREAL et le suivi des mesures ordonnées ? Je me suis encore rendu sur le site internet de la DREAL ce matin : le dossier d'actualité consacré à ce sujet a disparu. Enfin, comment quantifier, contrôler et traiter cette pollution ancienne des eaux souterraines et de la nappe phréatique à des polluants éternels au sein d'une métropole d'un million et demi d'habitants ? <i>(Applaudissements sur les bancs du groupe Dem et sur quelques bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Le 12 mai dernier, une enquête journalistique a effectivement permis de mesurer des taux de substances perfluoroalkylées à des niveaux inacceptables, ce qui a été confirmé par les inspections réalisées immédiatement après par la DREAL. Le préfet du Rhône a pris deux arrêtés de surveillance renforcée des rejets de l'usine Arkéma dont vous parlez, compte tenu des niveaux de pollution relevés dans la ville de Pierre-Bénite.<br><br>Ma prédécesseure, Barbara Pompili, a diligenté de manière immédiate une enquête confiée à la DREAL. Nous sommes sur le point d'en recevoir les conclusions : je vous assure une totale transparence tant sur les résultats que sur leur interprétation, compte tenu du caractère particulièrement complexe de ces sujets. En fonction des résultats de l'enquête de la DREAL et de l'ensemble de l'inspection, nous prendrons évidemment des mesures qui pourront aller jusqu'à une restriction de l'utilisation des PFAS.<br><br>Plus largement, la France se bat pour l'interdiction de cette famille de substances. Nous avons déjà obtenu l'interdiction de l'acide perfluorooctanoïque (PFOA) et de l'acide perfluorooctanesulfonique (PFOS). Comme vous le savez, il existe certaines complexités en la matière et nous devons obtenir une position à l'échelle européenne pour ne pas nous retrouver dans une situation où nous importerions des produits qui seraient faits avec des PFAS, alors même qu'on les interdirait chez nous compte tenu de leur caractère néfaste pour l'environnement et potentiellement cancérigène.<br><br>C'est le sens de notre action. À court terme, nous soutenons la position des pays du Nord pour que, dès 2023, les capacités d'utilisation de ces substances soient diminuées de manière draconienne. Plus largement, nous soutenons la révision de la directive sur l'ensemble de ces sujets pour obtenir l'interdiction de cette famille de substances qui a encore quelques usages industriels, notamment pour ses propriétés de résistance à la chaleur. La pollution organique qui reste dans le sol et dure dans le temps nécessite bien un engagement d'une autre nature. <i>(Applaudissements sur les bancs du groupe Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 76,
+            "end_char": 79,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 120,
+            "end_char": 122,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 123,
+            "end_char": 160,
+            "label": "LOC",
+            "text": "Cyrille Isaac-Sibille.<br><br><strong"
+          },
+          {
+            "start_char": 164,
+            "end_char": 185,
+            "label": "LOC",
+            "text": "Cyrille Isaac-Sibille"
+          },
+          {
+            "start_char": 196,
+            "end_char": 204,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 304,
+            "end_char": 318,
+            "label": "PER",
+            "text": "Sandrine Josso"
+          },
+          {
+            "start_char": 322,
+            "end_char": 333,
+            "label": "PER",
+            "text": "Jimmy Pahun"
+          },
+          {
+            "start_char": 339,
+            "end_char": 355,
+            "label": "MISC",
+            "text": "question.<br><br"
+          },
+          {
+            "start_char": 466,
+            "end_char": 470,
+            "label": "ORG",
+            "text": "PFAS"
+          },
+          {
+            "start_char": 520,
+            "end_char": 524,
+            "label": "LOC",
+            "text": "Lyon"
+          },
+          {
+            "start_char": 562,
+            "end_char": 575,
+            "label": "LOC",
+            "text": "Pierre-Bénite"
+          },
+          {
+            "start_char": 705,
+            "end_char": 710,
+            "label": "LOC",
+            "text": "Rhône"
+          },
+          {
+            "start_char": 926,
+            "end_char": 939,
+            "label": "MISC",
+            "text": "mères.<br><br"
+          },
+          {
+            "start_char": 1632,
+            "end_char": 1651,
+            "label": "MISC",
+            "text": "contaminée.<br><br>"
+          },
+          {
+            "start_char": 1651,
+            "end_char": 1659,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1706,
+            "end_char": 1710,
+            "label": "LOC",
+            "text": "Lyon"
+          },
+          {
+            "start_char": 1880,
+            "end_char": 1885,
+            "label": "ORG",
+            "text": "DREAL"
+          },
+          {
+            "start_char": 2074,
+            "end_char": 2079,
+            "label": "ORG",
+            "text": "DREAL"
+          },
+          {
+            "start_char": 2488,
+            "end_char": 2491,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 2524,
+            "end_char": 2547,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2548,
+            "end_char": 2551,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2592,
+            "end_char": 2594,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2685,
+            "end_char": 2698,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3023,
+            "end_char": 3028,
+            "label": "ORG",
+            "text": "DREAL"
+          },
+          {
+            "start_char": 3043,
+            "end_char": 3048,
+            "label": "LOC",
+            "text": "Rhône"
+          },
+          {
+            "start_char": 3111,
+            "end_char": 3123,
+            "label": "ORG",
+            "text": "usine Arkéma"
+          },
+          {
+            "start_char": 3204,
+            "end_char": 3242,
+            "label": "LOC",
+            "text": "Pierre-Bénite.<br><br>Ma prédécesseure"
+          },
+          {
+            "start_char": 3244,
+            "end_char": 3259,
+            "label": "PER",
+            "text": "Barbara Pompili"
+          },
+          {
+            "start_char": 3727,
+            "end_char": 3744,
+            "label": "MISC",
+            "text": "PFAS.<br><br>Plus"
+          },
+          {
+            "start_char": 3756,
+            "end_char": 3765,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3895,
+            "end_char": 3899,
+            "label": "ORG",
+            "text": "PFOA"
+          },
+          {
+            "start_char": 3942,
+            "end_char": 3946,
+            "label": "ORG",
+            "text": "PFOS"
+          },
+          {
+            "start_char": 4183,
+            "end_char": 4187,
+            "label": "ORG",
+            "text": "PFAS"
+          },
+          {
+            "start_char": 4310,
+            "end_char": 4329,
+            "label": "MISC",
+            "text": "cancérigène.<br><br"
+          },
+          {
+            "start_char": 4412,
+            "end_char": 4419,
+            "label": "LOC",
+            "text": "du Nord"
+          },
+          {
+            "start_char": 4935,
+            "end_char": 4947,
+            "label": "ORG",
+            "text": "Dem.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 94,
+            "sentiment": "1 star",
+            "score": 0.32292449474334717
+          },
+          {
+            "begin_char": 95,
+            "end_char": 186,
+            "sentiment": "4 stars",
+            "score": 0.2576938569545746
+          },
+          {
+            "begin_char": 187,
+            "end_char": 196,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 196,
+            "end_char": 356,
+            "sentiment": "4 stars",
+            "score": 0.3918978273868561
+          },
+          {
+            "begin_char": 356,
+            "end_char": 622,
+            "sentiment": "4 stars",
+            "score": 0.30523937940597534
+          },
+          {
+            "begin_char": 623,
+            "end_char": 843,
+            "sentiment": "4 stars",
+            "score": 0.304596871137619
+          },
+          {
+            "begin_char": 844,
+            "end_char": 940,
+            "sentiment": "3 stars",
+            "score": 0.28597232699394226
+          },
+          {
+            "begin_char": 940,
+            "end_char": 1050,
+            "sentiment": "5 stars",
+            "score": 0.3502857983112335
+          },
+          {
+            "begin_char": 1051,
+            "end_char": 1196,
+            "sentiment": "4 stars",
+            "score": 0.38033023476600647
+          },
+          {
+            "begin_char": 1197,
+            "end_char": 1263,
+            "sentiment": "4 stars",
+            "score": 0.27776896953582764
+          },
+          {
+            "begin_char": 1264,
+            "end_char": 1356,
+            "sentiment": "4 stars",
+            "score": 0.31209975481033325
+          },
+          {
+            "begin_char": 1357,
+            "end_char": 1438,
+            "sentiment": "5 stars",
+            "score": 0.3125559091567993
+          },
+          {
+            "begin_char": 1439,
+            "end_char": 1651,
+            "sentiment": "3 stars",
+            "score": 0.4467569589614868
+          },
+          {
+            "begin_char": 1651,
+            "end_char": 1922,
+            "sentiment": "1 star",
+            "score": 0.3114469349384308
+          },
+          {
+            "begin_char": 1923,
+            "end_char": 2115,
+            "sentiment": "5 stars",
+            "score": 0.4683634042739868
+          },
+          {
+            "begin_char": 2116,
+            "end_char": 2237,
+            "sentiment": "1 star",
+            "score": 0.3851126730442047
+          },
+          {
+            "begin_char": 2238,
+            "end_char": 2442,
+            "sentiment": "5 stars",
+            "score": 0.4606058597564697
+          },
+          {
+            "begin_char": 2443,
+            "end_char": 2566,
+            "sentiment": "4 stars",
+            "score": 0.30880045890808105
+          },
+          {
+            "begin_char": 2567,
+            "end_char": 2789,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 2790,
+            "end_char": 3029,
+            "sentiment": "3 stars",
+            "score": 0.28793227672576904
+          },
+          {
+            "begin_char": 3030,
+            "end_char": 3325,
+            "sentiment": "4 stars",
+            "score": 0.40350815653800964
+          },
+          {
+            "begin_char": 3326,
+            "end_char": 3539,
+            "sentiment": "5 stars",
+            "score": 0.6008150577545166
+          },
+          {
+            "begin_char": 3540,
+            "end_char": 3824,
+            "sentiment": "4 stars",
+            "score": 0.44711747765541077
+          },
+          {
+            "begin_char": 3825,
+            "end_char": 3948,
+            "sentiment": "5 stars",
+            "score": 0.24320828914642334
+          },
+          {
+            "begin_char": 3949,
+            "end_char": 4360,
+            "sentiment": "5 stars",
+            "score": 0.5171083211898804
+          },
+          {
+            "begin_char": 4361,
+            "end_char": 4526,
+            "sentiment": "5 stars",
+            "score": 0.5103622078895569
+          },
+          {
+            "begin_char": 4527,
+            "end_char": 4773,
+            "sentiment": "5 stars",
+            "score": 0.41867828369140625
+          },
+          {
+            "begin_char": 4774,
+            "end_char": 4889,
+            "sentiment": "3 stars",
+            "score": 0.3485598862171173
+          },
+          {
+            "begin_char": 4890,
+            "end_char": 4948,
+            "sentiment": "4 stars",
+            "score": 0.32325446605682373
+          },
+          {
+            "begin_char": 4949,
+            "end_char": 4952,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3313",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

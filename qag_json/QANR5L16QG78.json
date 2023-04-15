@@ -1,0 +1,503 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG78",
+    "identifiant": {
+      "numero": "78",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "pollution",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Lutte contre la pollution de l'air liée aux incendies"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA722366",
+        "mandatRef": "PM797193"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> LUTTE CONTRE LA POLLUTION DE L'AIR LIÉE AUX INCENDIES <a name=PG24></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Luc Fugit.<br><br><strong>M. Jean-Luc Fugit. </strong>Ma question s'adresse à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br>La semaine dernière, de nombreux Français ont senti des odeurs de fumée un peu partout en France, en raison des terribles incendies en Gironde mais aussi dans d'autres régions de France. Nombre de nos concitoyens se sont alors inquiétés de la qualité de l'air qu'ils respiraient. C'est pour cette raison qu'en tant que président du Conseil national de l'air je souhaitais aborder ce sujet d'actualité devant la représentation nationale.<br><br>Le panache de ces incendies, qui a balayé une grande partie du territoire national, a causé, au-delà de la gêne olfactive, de fortes hausses des niveaux de pollution aux particules fines générées par les feux. Cet épisode de pollution est fort heureusement resté relativement bref sur la majeure partie du territoire et s'est révélé avoir peu de conséquences sur la santé de nos concitoyens.<br><br>Toutefois, dans les départements voisins de la Gironde, par exemple, la pollution aux particules fines a atteint des niveaux plus préoccupants et ce, sur plusieurs jours. Cette situation a conduit à prendre des mesures d'urgence pour protéger la santé respiratoire des habitants. L'agence régionale de santé (ARS) a notamment diffusé une série de recommandations sur les gestes à adopter. Néanmoins les échanges que j'ai eus avec les associations agréées par l'État pour la surveillance de la qualité de l'air, que je salue pour la valeur de leur travail, laissent apparaître que certaines mesures d'urgence de protection des populations n'ont été déclenchées que lorsque la pollution a été mesurée par les capteurs situés à plusieurs dizaines de kilomètres des feux, et non dès le début des incendies.<br><br>Monsieur le ministre de la transition écologique, à l'avenir, ne serait-il pas plus pertinent, en cas de grands incendies, de mettre en place, par défaut, des mesures d'urgence dès l'aggravation de l'incendie, sans attendre le dépassement des seuils réglementaires, souvent mesurés avait plusieurs dizaines d'heures de décalage ? Plus généralement, quelles nouvelles mesures d'urgence pouvons-nous envisager pour améliorer la protection de nos concitoyens face à de tels épisodes de pollution liés aux incendies ? <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Nous le savons, les incendies ont fait rage sur 27 400 hectares, dont 20 000 situés dans le seul département de la Gironde – et je saluerai, après le ministre de l'intérieur, le courage des sapeurs-pompiers.<br><br>Ces feux ont provoqué un pic de pollution généré par les particules fines dans le sillage des fumées qui en émanaient. Du 21 au 23 juillet dans le département de la Gironde et dans le département des Landes, des niveaux de particules PM10 et PM2,5 dépassant les seuils d'alerte ont été détectés. Mais il faut souligner que, dès le 19 juillet, la préfète de la Gironde avait émis une alerte et qu'elle a pris des mesures deux jours plus tard.<br><br>Vous avez cité l'ARS et, à cet égard, je pense qu'il faut élargir la perspective – c'est ici autant au député qu'au président du Conseil national de l'air que je m'adresse –, en prenant en compte le retour d'expérience. Dans le prolongement de la mission d'information menée conjointement par deux commissions du Sénat sur les mégafeux, nous devons voir comment, face à des épisodes d'une exceptionnelle ampleur, on adapte nos dispositifs, en agissant en amont – débroussaillage, couloirs d'incendie, opérations de prévention –, en développant des réflexes d'alerte au moment où les événements se produisent et en lançant ensuite des opérations pour régénérer les espaces atteints, notamment en replantant – cette question sera au cœur du déplacement que j'effectuerai demain avec Marc Fesneau.<br><br>C'est bien sur toute cette chaîne d'actions que doivent porter les questions essentielles, face au réchauffement climatique à l'origine de cette multiplication d'événements. Ne doutez pas de notre détermination et de notre volonté de vous associer à cette réflexion. <i>(Applaudissements sur les bancs du groupe RE et sur quelques bancs du groupe Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 35,
+            "label": "ORG",
+            "text": "LUTTE CONTRE"
+          },
+          {
+            "start_char": 39,
+            "end_char": 51,
+            "label": "ORG",
+            "text": "POLLUTION DE"
+          },
+          {
+            "start_char": 67,
+            "end_char": 76,
+            "label": "MISC",
+            "text": "INCENDIES"
+          },
+          {
+            "start_char": 111,
+            "end_char": 114,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 155,
+            "end_char": 166,
+            "label": "PER",
+            "text": "M. Jean-Luc"
+          },
+          {
+            "start_char": 192,
+            "end_char": 206,
+            "label": "PER",
+            "text": "Jean-Luc Fugit"
+          },
+          {
+            "start_char": 241,
+            "end_char": 243,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 306,
+            "end_char": 325,
+            "label": "MISC",
+            "text": "territoires.<br><br"
+          },
+          {
+            "start_char": 359,
+            "end_char": 367,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 416,
+            "end_char": 422,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 461,
+            "end_char": 468,
+            "label": "LOC",
+            "text": "Gironde"
+          },
+          {
+            "start_char": 502,
+            "end_char": 511,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 658,
+            "end_char": 697,
+            "label": "ORG",
+            "text": "Conseil national de l'air je souhaitais"
+          },
+          {
+            "start_char": 752,
+            "end_char": 769,
+            "label": "MISC",
+            "text": "nationale.<br><br"
+          },
+          {
+            "start_char": 1149,
+            "end_char": 1168,
+            "label": "MISC",
+            "text": "concitoyens.<br><br"
+          },
+          {
+            "start_char": 1216,
+            "end_char": 1223,
+            "label": "LOC",
+            "text": "Gironde"
+          },
+          {
+            "start_char": 1478,
+            "end_char": 1481,
+            "label": "MISC",
+            "text": "ARS"
+          },
+          {
+            "start_char": 1630,
+            "end_char": 1634,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1961,
+            "end_char": 1979,
+            "label": "MISC",
+            "text": "incendies.<br><br>"
+          },
+          {
+            "start_char": 1979,
+            "end_char": 1987,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2543,
+            "end_char": 2566,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2567,
+            "end_char": 2570,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2611,
+            "end_char": 2613,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2704,
+            "end_char": 2717,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 2910,
+            "end_char": 2935,
+            "label": "LOC",
+            "text": "département de la Gironde"
+          },
+          {
+            "start_char": 3011,
+            "end_char": 3027,
+            "label": "PER",
+            "text": "pompiers.<br><br"
+          },
+          {
+            "start_char": 3175,
+            "end_char": 3200,
+            "label": "LOC",
+            "text": "département de la Gironde"
+          },
+          {
+            "start_char": 3212,
+            "end_char": 3234,
+            "label": "LOC",
+            "text": "département des Landes"
+          },
+          {
+            "start_char": 3262,
+            "end_char": 3266,
+            "label": "LOC",
+            "text": "PM10"
+          },
+          {
+            "start_char": 3270,
+            "end_char": 3275,
+            "label": "ORG",
+            "text": "PM2,5"
+          },
+          {
+            "start_char": 3374,
+            "end_char": 3395,
+            "label": "LOC",
+            "text": "préfète de la Gironde"
+          },
+          {
+            "start_char": 3494,
+            "end_char": 3497,
+            "label": "MISC",
+            "text": "ARS"
+          },
+          {
+            "start_char": 3606,
+            "end_char": 3650,
+            "label": "ORG",
+            "text": "Conseil national de l'air que je m'adresse –"
+          },
+          {
+            "start_char": 3790,
+            "end_char": 3812,
+            "label": "MISC",
+            "text": "Sénat sur les mégafeux"
+          },
+          {
+            "start_char": 4258,
+            "end_char": 4279,
+            "label": "PER",
+            "text": "Marc Fesneau.<br><br>"
+          },
+          {
+            "start_char": 4584,
+            "end_char": 4593,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4626,
+            "end_char": 4638,
+            "label": "ORG",
+            "text": "Dem.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 62,
+            "sentiment": "4 stars",
+            "score": 0.33772534132003784
+          },
+          {
+            "begin_char": 63,
+            "end_char": 85,
+            "sentiment": "1 star",
+            "score": 0.2520425617694855
+          },
+          {
+            "begin_char": 85,
+            "end_char": 93,
+            "sentiment": "3 stars",
+            "score": 0.3012946844100952
+          },
+          {
+            "begin_char": 93,
+            "end_char": 94,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 95,
+            "end_char": 129,
+            "sentiment": "4 stars",
+            "score": 0.2742326259613037
+          },
+          {
+            "begin_char": 130,
+            "end_char": 207,
+            "sentiment": "3 stars",
+            "score": 0.2616755962371826
+          },
+          {
+            "begin_char": 208,
+            "end_char": 512,
+            "sentiment": "4 stars",
+            "score": 0.31117862462997437
+          },
+          {
+            "begin_char": 513,
+            "end_char": 605,
+            "sentiment": "5 stars",
+            "score": 0.33535465598106384
+          },
+          {
+            "begin_char": 606,
+            "end_char": 770,
+            "sentiment": "4 stars",
+            "score": 0.38039571046829224
+          },
+          {
+            "begin_char": 770,
+            "end_char": 979,
+            "sentiment": "3 stars",
+            "score": 0.29725053906440735
+          },
+          {
+            "begin_char": 980,
+            "end_char": 1339,
+            "sentiment": "3 stars",
+            "score": 0.4053036868572235
+          },
+          {
+            "begin_char": 1340,
+            "end_char": 1448,
+            "sentiment": "4 stars",
+            "score": 0.38514959812164307
+          },
+          {
+            "begin_char": 1449,
+            "end_char": 1557,
+            "sentiment": "4 stars",
+            "score": 0.44482049345970154
+          },
+          {
+            "begin_char": 1558,
+            "end_char": 1979,
+            "sentiment": "4 stars",
+            "score": 0.3672879934310913
+          },
+          {
+            "begin_char": 1979,
+            "end_char": 2308,
+            "sentiment": "4 stars",
+            "score": 0.3218177855014801
+          },
+          {
+            "begin_char": 2309,
+            "end_char": 2492,
+            "sentiment": "5 stars",
+            "score": 0.5055891275405884
+          },
+          {
+            "begin_char": 2493,
+            "end_char": 2585,
+            "sentiment": "3 stars",
+            "score": 0.30941691994667053
+          },
+          {
+            "begin_char": 2586,
+            "end_char": 2808,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 2809,
+            "end_char": 3028,
+            "sentiment": "5 stars",
+            "score": 0.40626195073127747
+          },
+          {
+            "begin_char": 3028,
+            "end_char": 3146,
+            "sentiment": "2 stars",
+            "score": 0.3349854648113251
+          },
+          {
+            "begin_char": 3147,
+            "end_char": 3323,
+            "sentiment": "2 stars",
+            "score": 0.23225468397140503
+          },
+          {
+            "begin_char": 3324,
+            "end_char": 3477,
+            "sentiment": "3 stars",
+            "score": 0.2949472665786743
+          },
+          {
+            "begin_char": 3477,
+            "end_char": 3491,
+            "sentiment": "1 star",
+            "score": 0.28638410568237305
+          },
+          {
+            "begin_char": 3492,
+            "end_char": 3497,
+            "sentiment": "4 stars",
+            "score": 0.2606312930583954
+          },
+          {
+            "begin_char": 3498,
+            "end_char": 3696,
+            "sentiment": "5 stars",
+            "score": 0.42613598704338074
+          },
+          {
+            "begin_char": 3697,
+            "end_char": 4279,
+            "sentiment": "4 stars",
+            "score": 0.4774654805660248
+          },
+          {
+            "begin_char": 4279,
+            "end_char": 4452,
+            "sentiment": "5 stars",
+            "score": 0.49054306745529175
+          },
+          {
+            "begin_char": 4453,
+            "end_char": 4545,
+            "sentiment": "5 stars",
+            "score": 0.6157182455062866
+          },
+          {
+            "begin_char": 4546,
+            "end_char": 4639,
+            "sentiment": "3 stars",
+            "score": 0.3193252980709076
+          },
+          {
+            "begin_char": 4640,
+            "end_char": 4643,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-27",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-27",
+        "pageJO": "3108",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

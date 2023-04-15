@@ -1,0 +1,581 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG172",
+    "identifiant": {
+      "numero": "172",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "industrie",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "RISQUE DE FERMETURE DU SITE D'ASTRAZENECA À REIMS"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794278",
+        "mandatRef": "PM796824"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Économie, finances, souveraineté industrielle et numérique",
+      "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Économie, finances, souveraineté industrielle et numérique",
+          "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RISQUE DE FERMETURE DU SITE D'ASTRAZENECA À REIMS <a name=PG7></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Xavier Albertini.<br><br><strong>M. Xavier Albertini. </strong>J'associe à cette question ma collègue Lise Magnier.<br><br>Monsieur le ministre de l'économie, AstraZeneca a annoncé le 20 septembre la fermeture en 2024 de son site de conditionnement et de distribution de Reims. Les 120 salariés redoutaient depuis des mois ce couperet. Cette annonce est un paradoxe : nous parlons d'une multinationale florissante qui a réalisé plus de 37 milliards d'euros de chiffre d'affaires en 2021.<br><br>L'usine de Reims existe depuis cinquante ans et fait partie du patrimoine industriel de notre ville. Cette fermeture annoncée est donc tout un symbole. Elle est due à la stratégie d'un géant pharmaceutique qui, après avoir racheté ce site en 2020, va s'en séparer à peine quatre ans plus tard, préférant diriger ses investissements vers des destinations plus exotiques.<br><br>À l'heure où se pose à nous le défi de la souveraineté pharmaceutique, mis en exergue par la crise sanitaire que la France a connue, à l'heure d'une prise de conscience collective et européenne de la nécessaire réindustrialisation de nos territoires, cette fermeture d'usine n'est ni envisageable, ni compréhensible, ni acceptable.<br><br>Des situations similaires existent partout en France. Nous devons collectivement relever le défi de la réindustrialisation de notre pays et, plus encore, développer nos filières souveraines. L'exemple rémois se retrouve dans nombre de circonscriptions, entraînant des difficultés réelles et concrètes : les salariés concernés sont inquiets pour leur emploi, leur reconversion, leur formation, et tout simplement pour leur avenir.<br><br>Néanmoins, loin d'être terminée, la partie ne fait que commencer. À Reims comme ailleurs, les élus locaux accompagnent ces hommes et ces femmes qui se battent pour conserver leur emploi. Les mêmes élus locaux luttent aussi au quotidien pour convaincre des groupes d'investir dans leur territoire car, nous le savons, l'annonce d'une fermeture conduit toujours à fragiliser violemment un bassin de vie entier.<br><br>Même si nous vivons dans une économie mondialisée, nos concitoyens, eux, aspirent à conserver un environnement professionnel, un environnement de vie, stable et serein. Que prévoyez-vous, non seulement pour préserver les emplois industriels existant dans nos territoires, mais surtout pour les développer ? <i>(Applaudissements sur les bancs du groupe HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br><strong>M. Bruno Le Maire,</strong><i> ministre de l’économie, des finances et de la souveraineté industrielle et numérique. </i>Le groupe AstraZeneca a effectivement annoncé son intention de fermer le site de Reims. Les salariés concernés sont au nombre de 119. Nous sommes en discussion avec AstraZeneca ; quelle que soit la décision qui en résultera, chaque salarié aura droit à un accompagnement exemplaire. En cas de fermeture de l'usine, le site pourra également être repris, ce à quoi nous vous proposons de travailler ensemble.<br><br>Je rappelle que le groupe AstraZeneca a décidé d'investir 450 millions d'euros en France, notamment sur le site de Dunkerque – je doute qu'il fasse partie des « destinations exotiques » que vous évoquiez –, ce qui se traduira par la création d'emplois.<br><br>Plus généralement, notre stratégie de réindustrialisation du pays produit des résultats. Grâce aux décisions prises par la Première ministre, par le Président de la République depuis plusieurs années – baisse des impôts de production, soutien à l'apprentissage, soutien à l'innovation et à l'investissement grâce aux 30 milliards d'euros du plan « France 2030 » –, les ouvertures d'usines sont plus nombreuses que les fermetures, pour la première fois en vingt ans. Pour la première fois en vingt ans, nous recréons des emplois industriels : pendant le précédent quinquennat, près de 20 000 emplois net ont ainsi été créés dans l'industrie française.<br><br>Première ministre, Président de la République, majorité dans son ensemble, tous autant que nous sommes, nous sommes absolument déterminés à accélérer la réindustrialisation du pays en investissant dans l'innovation, en baissant les impôts de production, en supprimant la charge de 8 milliards d'euros que représente la CVAE (cotisation sur la valeur ajoutée des entreprises), en rendant nos entreprises plus compétitives, en favorisant l'accès des salariés à la formation et à la qualification. La France a toujours été une grande nation industrielle. Elle a connu trente ans de délocalisations ; nous avons inversé le mouvement, et nous continuerons à accélérer. <i>(Applaudissements sur plusieurs bancs des groupes RE, Dem et HOR.)</i><br><br><strong>M. Pierre Cordier.</strong> À vous en croire, tout va bien !<br><br><strong>Mme Marie-Christine Dalloz.</strong> C'est extraordinaire !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 29,
+            "label": "ORG",
+            "text": "RISQUE"
+          },
+          {
+            "start_char": 33,
+            "end_char": 42,
+            "label": "ORG",
+            "text": "FERMETURE"
+          },
+          {
+            "start_char": 67,
+            "end_char": 72,
+            "label": "LOC",
+            "text": "REIMS"
+          },
+          {
+            "start_char": 106,
+            "end_char": 109,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 150,
+            "end_char": 159,
+            "label": "PER",
+            "text": "M. Xavier"
+          },
+          {
+            "start_char": 189,
+            "end_char": 205,
+            "label": "PER",
+            "text": "Xavier Albertini"
+          },
+          {
+            "start_char": 255,
+            "end_char": 259,
+            "label": "PER",
+            "text": "Lise"
+          },
+          {
+            "start_char": 312,
+            "end_char": 323,
+            "label": "ORG",
+            "text": "AstraZeneca"
+          },
+          {
+            "start_char": 424,
+            "end_char": 429,
+            "label": "LOC",
+            "text": "Reims"
+          },
+          {
+            "start_char": 659,
+            "end_char": 664,
+            "label": "LOC",
+            "text": "Reims"
+          },
+          {
+            "start_char": 1007,
+            "end_char": 1024,
+            "label": "MISC",
+            "text": "exotiques.<br><br"
+          },
+          {
+            "start_char": 1138,
+            "end_char": 1147,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1410,
+            "end_char": 1416,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1786,
+            "end_char": 1800,
+            "label": "MISC",
+            "text": "avenir.<br><br"
+          },
+          {
+            "start_char": 1869,
+            "end_char": 1874,
+            "label": "LOC",
+            "text": "Reims"
+          },
+          {
+            "start_char": 2202,
+            "end_char": 2216,
+            "label": "MISC",
+            "text": "entier.<br><br"
+          },
+          {
+            "start_char": 2569,
+            "end_char": 2593,
+            "label": "ORG",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2594,
+            "end_char": 2597,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2638,
+            "end_char": 2640,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2656,
+            "end_char": 2658,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2748,
+            "end_char": 2753,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 2788,
+            "end_char": 2790,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2876,
+            "end_char": 2887,
+            "label": "ORG",
+            "text": "AstraZeneca"
+          },
+          {
+            "start_char": 2947,
+            "end_char": 2952,
+            "label": "LOC",
+            "text": "Reims"
+          },
+          {
+            "start_char": 3031,
+            "end_char": 3042,
+            "label": "ORG",
+            "text": "AstraZeneca"
+          },
+          {
+            "start_char": 3263,
+            "end_char": 3279,
+            "label": "MISC",
+            "text": "ensemble.<br><br"
+          },
+          {
+            "start_char": 3306,
+            "end_char": 3317,
+            "label": "ORG",
+            "text": "AstraZeneca"
+          },
+          {
+            "start_char": 3362,
+            "end_char": 3368,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 3395,
+            "end_char": 3404,
+            "label": "LOC",
+            "text": "Dunkerque"
+          },
+          {
+            "start_char": 3524,
+            "end_char": 3539,
+            "label": "MISC",
+            "text": "emplois.<br><br"
+          },
+          {
+            "start_char": 3663,
+            "end_char": 3671,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3689,
+            "end_char": 3715,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3888,
+            "end_char": 3894,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 4180,
+            "end_char": 4197,
+            "label": "MISC",
+            "text": "française.<br><br"
+          },
+          {
+            "start_char": 4217,
+            "end_char": 4243,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4517,
+            "end_char": 4521,
+            "label": "ORG",
+            "text": "CVAE"
+          },
+          {
+            "start_char": 4693,
+            "end_char": 4702,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 4915,
+            "end_char": 4917,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4919,
+            "end_char": 4922,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4926,
+            "end_char": 4953,
+            "label": "PER",
+            "text": "HOR.)</i><br><br><strong>M."
+          },
+          {
+            "start_char": 4954,
+            "end_char": 4977,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 5027,
+            "end_char": 5062,
+            "label": "PER",
+            "text": "Mme Marie-Christine Dalloz.</strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 124,
+            "sentiment": "3 stars",
+            "score": 0.29436904191970825
+          },
+          {
+            "begin_char": 125,
+            "end_char": 206,
+            "sentiment": "4 stars",
+            "score": 0.2760809361934662
+          },
+          {
+            "begin_char": 207,
+            "end_char": 254,
+            "sentiment": "4 stars",
+            "score": 0.28048765659332275
+          },
+          {
+            "begin_char": 255,
+            "end_char": 259,
+            "sentiment": "4 stars",
+            "score": 0.2918579876422882
+          },
+          {
+            "begin_char": 260,
+            "end_char": 430,
+            "sentiment": "4 stars",
+            "score": 0.269400954246521
+          },
+          {
+            "begin_char": 431,
+            "end_char": 488,
+            "sentiment": "1 star",
+            "score": 0.2404586523771286
+          },
+          {
+            "begin_char": 489,
+            "end_char": 748,
+            "sentiment": "5 stars",
+            "score": 0.4871075749397278
+          },
+          {
+            "begin_char": 749,
+            "end_char": 799,
+            "sentiment": "5 stars",
+            "score": 0.33958250284194946
+          },
+          {
+            "begin_char": 800,
+            "end_char": 1417,
+            "sentiment": "3 stars",
+            "score": 0.24638839066028595
+          },
+          {
+            "begin_char": 1418,
+            "end_char": 1554,
+            "sentiment": "5 stars",
+            "score": 0.6673054099082947
+          },
+          {
+            "begin_char": 1555,
+            "end_char": 1571,
+            "sentiment": "3 stars",
+            "score": 0.24748751521110535
+          },
+          {
+            "begin_char": 1572,
+            "end_char": 1666,
+            "sentiment": "3 stars",
+            "score": 0.41678163409233093
+          },
+          {
+            "begin_char": 1667,
+            "end_char": 1832,
+            "sentiment": "5 stars",
+            "score": 0.3253912925720215
+          },
+          {
+            "begin_char": 1832,
+            "end_char": 1866,
+            "sentiment": "2 stars",
+            "score": 0.325627863407135
+          },
+          {
+            "begin_char": 1867,
+            "end_char": 1919,
+            "sentiment": "5 stars",
+            "score": 0.41099750995635986
+          },
+          {
+            "begin_char": 1920,
+            "end_char": 1986,
+            "sentiment": "5 stars",
+            "score": 0.4139725863933563
+          },
+          {
+            "begin_char": 1986,
+            "end_char": 1987,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 1988,
+            "end_char": 2385,
+            "sentiment": "5 stars",
+            "score": 0.3937722444534302
+          },
+          {
+            "begin_char": 2386,
+            "end_char": 2523,
+            "sentiment": "5 stars",
+            "score": 0.4625072181224823
+          },
+          {
+            "begin_char": 2524,
+            "end_char": 2612,
+            "sentiment": "4 stars",
+            "score": 0.3090986907482147
+          },
+          {
+            "begin_char": 2613,
+            "end_char": 2775,
+            "sentiment": "4 stars",
+            "score": 0.3296317458152771
+          },
+          {
+            "begin_char": 2776,
+            "end_char": 2861,
+            "sentiment": "5 stars",
+            "score": 0.3489697575569153
+          },
+          {
+            "begin_char": 2862,
+            "end_char": 2866,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2866,
+            "end_char": 2953,
+            "sentiment": "3 stars",
+            "score": 0.2515042722225189
+          },
+          {
+            "begin_char": 2954,
+            "end_char": 2999,
+            "sentiment": "3 stars",
+            "score": 0.2656448781490326
+          },
+          {
+            "begin_char": 3000,
+            "end_char": 3044,
+            "sentiment": "4 stars",
+            "score": 0.3367912471294403
+          },
+          {
+            "begin_char": 3045,
+            "end_char": 3148,
+            "sentiment": "5 stars",
+            "score": 0.4601749777793884
+          },
+          {
+            "begin_char": 3149,
+            "end_char": 3280,
+            "sentiment": "4 stars",
+            "score": 0.34309548139572144
+          },
+          {
+            "begin_char": 3280,
+            "end_char": 3628,
+            "sentiment": "4 stars",
+            "score": 0.37074729800224304
+          },
+          {
+            "begin_char": 3629,
+            "end_char": 4005,
+            "sentiment": "5 stars",
+            "score": 0.652543842792511
+          },
+          {
+            "begin_char": 4006,
+            "end_char": 4692,
+            "sentiment": "5 stars",
+            "score": 0.7690495848655701
+          },
+          {
+            "begin_char": 4693,
+            "end_char": 4749,
+            "sentiment": "5 stars",
+            "score": 0.3988761901855469
+          },
+          {
+            "begin_char": 4750,
+            "end_char": 4794,
+            "sentiment": "2 stars",
+            "score": 0.273591548204422
+          },
+          {
+            "begin_char": 4795,
+            "end_char": 4861,
+            "sentiment": "4 stars",
+            "score": 0.25898098945617676
+          },
+          {
+            "begin_char": 4862,
+            "end_char": 4978,
+            "sentiment": "3 stars",
+            "score": 0.3613966703414917
+          },
+          {
+            "begin_char": 4979,
+            "end_char": 5063,
+            "sentiment": "4 stars",
+            "score": 0.34519439935684204
+          },
+          {
+            "begin_char": 5064,
+            "end_char": 5086,
+            "sentiment": "5 stars",
+            "score": 0.8035165071487427
+          },
+          {
+            "begin_char": 5086,
+            "end_char": 5094,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-20",
+        "pageJO": "4307",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

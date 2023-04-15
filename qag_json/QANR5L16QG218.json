@@ -1,0 +1,503 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG218",
+    "identifiant": {
+      "numero": "218",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "entreprises",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "SITUATION DES THERMES DE PLOMBIÈRES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721486",
+        "mandatRef": "PM797517"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Première ministre",
+      "developpe": "Première ministre"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Première ministre",
+          "developpe": "Première ministre"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION DES THERMES DE PLOMBIÈRES <a name=PG25></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Christophe Naegelen.<br><br><strong>M. Christophe Naegelen. </strong>Madame la Première ministre, la presse vosgienne se fait aujourd'hui le relais d'un courrier que vous auriez reçu du président du groupe Avec, propriétaire depuis 2011 des thermes de Plombières-les-Bains, au sein de ma circonscription vosgienne. Ce groupe comptant 12 000 salariés est un habitué des rachats d'entreprises en difficulté qui, d'ailleurs, ne respecte pas les engagements pris devant les tribunaux. Au-delà des thermes de Plombières, dont la réouverture a déjà été repoussée à quatre reprises, mettant ainsi les salariés, la commune, les acteurs économiques et tout le territoire en grande difficulté, se pose la question de la gestion globale de ce groupe.<br><br>Implanté dans le domaine de la santé, il est largement bénéficiaire de fonds publics et sa réputation sulfureuse interroge, que ce soit dans les Vosges avec les thermes de Plombières ou à Grenoble avec sa clinique. De plus, on retrouve dans son équipe dirigeante d'anciens ministres, d'anciens élus et même, dernièrement, un ancien directeur de la Banque des territoires. Son dirigeant laisse lui-même entendre qu’il dispose de forts soutiens politiques. Je n'oserais croire les rumeurs de protection et de copinage politique dont bénéficierait le président du groupe Avec. Madame la Première ministre, éclairez-nous et rassurez-nous sur ces manœuvres !<br><br>Enfin, à quand la convocation – demandée depuis plus de six mois – des représentants de cette société dans les bureaux de Bercy, afin de trouver non seulement une solution à la situation catastrophique de Plombières mais, plus globalement, de contrôler la façon dont ce groupe gère l'argent public ? <i>(Applaudissements sur les bancs du groupe LIOT.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la Première ministre.<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre. </i>La situation que vous décrivez dans votre circonscription est bien connue des équipes du ministère des solidarités et de la santé ainsi que de celles du ministère de l'économie. Nous avons affaire à un investisseur qui ne respecte ni ses engagements, ni les acteurs du territoire qui lui ont fait confiance, ni les salariés des thermes de Plombières. Nous connaissons ce type de pratiques et nous leur faisons la chasse. Nous savons qu'il faut être très attentif à la préservation des emplois, et je peux vous assurer que le ministère de l'économie et plus spécifiquement M. Roland Lescure, ministre délégué chargé de l'industrie, sont très mobilisés sur ce sujet.<br><br>Je vous le dis très clairement : nous ne laisserons pas des acteurs financiers opportunistes chercher des appuis publics sans jamais tenir leurs engagements. Nous serons très exigeants avec le groupe que vous évoquez, qui est un employeur important dans votre région. Il n'y a et il n'y aura aucune complaisance, aucune facilité, aucune naïveté des pouvoirs publics vis-à-vis de ce groupe, quels que soient les soutiens imaginaires qu'il invoque. Nous n'acceptons pas ces dérives et partout où cet acteur est implanté, j'ai demandé aux services de l'État d'être attentifs, exigeants et réactifs. Vous pouvez compter sur notre mobilisation. <i>(Applaudissements sur les bancs des groupes RE et Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Christophe Naegelen.<br><br><strong>M. Christophe Naegelen. </strong>Madame la Première ministre, un grand merci pour votre réponse car les sous-entendus de ce président jetaient l’opprobre sur tous les élus et sur le Gouvernement. <i>(Applaudissements sur les bancs du groupe LIOT et sur quelques bancs du groupe Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 48,
+            "end_char": 58,
+            "label": "LOC",
+            "text": "PLOMBIÈRES"
+          },
+          {
+            "start_char": 67,
+            "end_char": 75,
+            "label": "PER",
+            "text": "PG25></a"
+          },
+          {
+            "start_char": 93,
+            "end_char": 96,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 137,
+            "end_char": 150,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 179,
+            "end_char": 198,
+            "label": "PER",
+            "text": "Christophe Naegelen"
+          },
+          {
+            "start_char": 209,
+            "end_char": 227,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 346,
+            "end_char": 350,
+            "label": "ORG",
+            "text": "Avec"
+          },
+          {
+            "start_char": 392,
+            "end_char": 412,
+            "label": "LOC",
+            "text": "Plombières-les-Bains"
+          },
+          {
+            "start_char": 644,
+            "end_char": 654,
+            "label": "LOC",
+            "text": "Plombières"
+          },
+          {
+            "start_char": 872,
+            "end_char": 887,
+            "label": "MISC",
+            "text": "groupe.<br><br>"
+          },
+          {
+            "start_char": 1032,
+            "end_char": 1038,
+            "label": "LOC",
+            "text": "Vosges"
+          },
+          {
+            "start_char": 1059,
+            "end_char": 1069,
+            "label": "LOC",
+            "text": "Plombières"
+          },
+          {
+            "start_char": 1075,
+            "end_char": 1083,
+            "label": "LOC",
+            "text": "Grenoble"
+          },
+          {
+            "start_char": 1235,
+            "end_char": 1257,
+            "label": "ORG",
+            "text": "Banque des territoires"
+          },
+          {
+            "start_char": 1455,
+            "end_char": 1459,
+            "label": "ORG",
+            "text": "Avec"
+          },
+          {
+            "start_char": 1670,
+            "end_char": 1675,
+            "label": "LOC",
+            "text": "Bercy"
+          },
+          {
+            "start_char": 1753,
+            "end_char": 1763,
+            "label": "LOC",
+            "text": "Plombières"
+          },
+          {
+            "start_char": 1893,
+            "end_char": 1918,
+            "label": "ORG",
+            "text": "LIOT.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1919,
+            "end_char": 1922,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1963,
+            "end_char": 1978,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 2004,
+            "end_char": 2017,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 2399,
+            "end_char": 2409,
+            "label": "LOC",
+            "text": "Plombières"
+          },
+          {
+            "start_char": 2632,
+            "end_char": 2635,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 2635,
+            "end_char": 2649,
+            "label": "PER",
+            "text": "Roland Lescure"
+          },
+          {
+            "start_char": 2718,
+            "end_char": 2731,
+            "label": "MISC",
+            "text": "sujet.<br><br"
+          },
+          {
+            "start_char": 3282,
+            "end_char": 3286,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3419,
+            "end_char": 3421,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3450,
+            "end_char": 3453,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3494,
+            "end_char": 3507,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3536,
+            "end_char": 3555,
+            "label": "PER",
+            "text": "Christophe Naegelen"
+          },
+          {
+            "start_char": 3566,
+            "end_char": 3584,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 3676,
+            "end_char": 3678,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 3715,
+            "end_char": 3727,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3774,
+            "end_char": 3778,
+            "label": "ORG",
+            "text": "LIOT"
+          },
+          {
+            "start_char": 3811,
+            "end_char": 3823,
+            "label": "ORG",
+            "text": "Dem.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 111,
+            "sentiment": "3 stars",
+            "score": 0.33385252952575684
+          },
+          {
+            "begin_char": 112,
+            "end_char": 176,
+            "sentiment": "3 stars",
+            "score": 0.24959950149059296
+          },
+          {
+            "begin_char": 176,
+            "end_char": 199,
+            "sentiment": "4 stars",
+            "score": 0.2594858705997467
+          },
+          {
+            "begin_char": 200,
+            "end_char": 209,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 209,
+            "end_char": 454,
+            "sentiment": "4 stars",
+            "score": 0.24889323115348816
+          },
+          {
+            "begin_char": 455,
+            "end_char": 620,
+            "sentiment": "3 stars",
+            "score": 0.2928057909011841
+          },
+          {
+            "begin_char": 621,
+            "end_char": 887,
+            "sentiment": "4 stars",
+            "score": 0.36584746837615967
+          },
+          {
+            "begin_char": 887,
+            "end_char": 923,
+            "sentiment": "5 stars",
+            "score": 0.4131741225719452
+          },
+          {
+            "begin_char": 923,
+            "end_char": 1101,
+            "sentiment": "4 stars",
+            "score": 0.4451955556869507
+          },
+          {
+            "begin_char": 1102,
+            "end_char": 1258,
+            "sentiment": "4 stars",
+            "score": 0.3518834412097931
+          },
+          {
+            "begin_char": 1259,
+            "end_char": 1341,
+            "sentiment": "4 stars",
+            "score": 0.3714004158973694
+          },
+          {
+            "begin_char": 1342,
+            "end_char": 1460,
+            "sentiment": "1 star",
+            "score": 0.37991011142730713
+          },
+          {
+            "begin_char": 1461,
+            "end_char": 1540,
+            "sentiment": "5 stars",
+            "score": 0.3790810704231262
+          },
+          {
+            "begin_char": 1540,
+            "end_char": 1847,
+            "sentiment": "5 stars",
+            "score": 0.3779192864894867
+          },
+          {
+            "begin_char": 1848,
+            "end_char": 1937,
+            "sentiment": "4 stars",
+            "score": 0.3018896281719208
+          },
+          {
+            "begin_char": 1938,
+            "end_char": 2036,
+            "sentiment": "3 stars",
+            "score": 0.28298741579055786
+          },
+          {
+            "begin_char": 2037,
+            "end_char": 2055,
+            "sentiment": "4 stars",
+            "score": 0.3165116310119629
+          },
+          {
+            "begin_char": 2056,
+            "end_char": 2237,
+            "sentiment": "3 stars",
+            "score": 0.3425489366054535
+          },
+          {
+            "begin_char": 2238,
+            "end_char": 2410,
+            "sentiment": "1 star",
+            "score": 0.7099325656890869
+          },
+          {
+            "begin_char": 2411,
+            "end_char": 2480,
+            "sentiment": "4 stars",
+            "score": 0.3121016323566437
+          },
+          {
+            "begin_char": 2481,
+            "end_char": 2889,
+            "sentiment": "5 stars",
+            "score": 0.583670973777771
+          },
+          {
+            "begin_char": 2890,
+            "end_char": 2999,
+            "sentiment": "5 stars",
+            "score": 0.5754881501197815
+          },
+          {
+            "begin_char": 3000,
+            "end_char": 3178,
+            "sentiment": "5 stars",
+            "score": 0.681065559387207
+          },
+          {
+            "begin_char": 3179,
+            "end_char": 3327,
+            "sentiment": "5 stars",
+            "score": 0.6559137105941772
+          },
+          {
+            "begin_char": 3328,
+            "end_char": 3371,
+            "sentiment": "5 stars",
+            "score": 0.5407525897026062
+          },
+          {
+            "begin_char": 3372,
+            "end_char": 3468,
+            "sentiment": "4 stars",
+            "score": 0.31417331099510193
+          },
+          {
+            "begin_char": 3469,
+            "end_char": 3533,
+            "sentiment": "3 stars",
+            "score": 0.24959950149059296
+          },
+          {
+            "begin_char": 3533,
+            "end_char": 3556,
+            "sentiment": "4 stars",
+            "score": 0.2594858705997467
+          },
+          {
+            "begin_char": 3557,
+            "end_char": 3566,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 3566,
+            "end_char": 3728,
+            "sentiment": "5 stars",
+            "score": 0.48856350779533386
+          },
+          {
+            "begin_char": 3729,
+            "end_char": 3824,
+            "sentiment": "3 stars",
+            "score": 0.32369300723075867
+          },
+          {
+            "begin_char": 3825,
+            "end_char": 3828,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-26",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-26",
+        "pageJO": "4571",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

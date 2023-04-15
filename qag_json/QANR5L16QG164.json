@@ -1,0 +1,629 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG164",
+    "identifiant": {
+      "numero": "164",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "industrie",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "COÛT DE L'ÉNERGIE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794626",
+        "mandatRef": "PM797028"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Économie, finances, souveraineté industrielle et numérique",
+      "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Économie, finances, souveraineté industrielle et numérique",
+          "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> COÛT DE L'ÉNERGIE <a name=PG27></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Benjamin Saint-Huile.<br><br><strong>M. Benjamin Saint-Huile. </strong>Monsieur le ministre de l'économie, je reviens sur la situation industrielle française dans le Pas-de-Calais, évoquée il y a quelques minutes par le député Petit, afin d'obtenir davantage de précisions sur les mesures d'accompagnement du Gouvernement. Je viens d'un territoire, le Nord, qui est marqué par l'histoire industrielle, qui a beaucoup souffert des différentes crises et a vu fermer les portes de bon nombre d'entreprises et de groupes, qui étaient pourtant des fleurons industriels de la nation France – je pense à Åkers, à NOV, à Sambre et Meuse ou encore à Phœnix. Il y a quelques jours, la verrerie AGC de Boussois a annoncé qu'eu égard à l'explosion des coûts de l'énergie, multipliés par trois, l'avenir des 135 salariés était en question : la moitié d'entre eux, voire les deux tiers, seront sans doute directement touchés par les décisions à venir.<br><br>Monsieur le ministre, vous avez mentionné la capacité du Gouvernement à accompagner les entreprises. Je tiens à le souligner, par le passé, vous vous êtes déplacé sur notre territoire, à l'usine de Maubeuge Construction Automobile (MCA). Vous avez œuvré à la tenue des engagements pris par le Président de la République, avec la constitution de Renault ElectriCity. Ce territoire, qui a signé avec le Gouvernement un pacte permettant le rattrapage des difficultés rencontrées, est aujourd'hui en grande souffrance et très inquiet. Comment pouvez-vous nous rassurer, ainsi que les salariés, qui vivent, ces dernières semaines, dans l'angoisse de voir leur emploi disparaître ?<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br><strong>M. Bruno Le Maire,</strong><i> ministre de l’économie, des finances et de la souveraineté industrielle et numérique. </i>Je tiens à vous dire à quel point je partage les inquiétudes de la ville de Maubeuge, de votre département et de toutes les PME industrielles de France. Elles voient exploser les coûts de l'énergie et certaines ont du mal à faire face aux factures : Roland Lescure et moi ne laisserons tomber aucune PME, aucune industrie, aucun secteur industriel. <i>(Mme Brigitte Klinkert et M. Charles Rodwell applaudissent.)</i> La réponse est très simple : toute entreprise industrielle qui aurait aujourd'hui du mal à payer ses factures, dont le chiffre d'affaires comporterait une part importante d'énergie – 3 %, non pas en 2021, mais fin 2022, pour tenir compte de l'augmentation des coûts de l'énergie en 2022 – doit s'inscrire sur le site de la direction générale des finances publiques (DGFIP) – je ne peux pas être plus précis –, pour demander des aides, dont le montant passera de 2 millions à 4 millions d'euros.<br><br>Nous proposons de réserver ce fonds de soutien aux PME, c'est-à-dire aux entreprises qui ont moins de 250 salariés, qui sont les plus petites, fragiles et menacées. Nous ne laisserons pas tomber notre industrie face à la flambée des prix du gaz et de l'électricité. Nous voulons, dans le même temps – tel est l'objectif de cette majorité –,…<br><br><strong>M. Pierre Cordier.</strong> Majorité minoritaire !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>…accélérer la reconquête industrielle, baisser les impôts de production, aller plus vite sur le véhicule électrique.<br><br><strong>M. Jean-Philippe Tanguy.</strong> Avec quelle électricité ?<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>À cet égard, le Président de la République aura l'occasion de faire des annonces lundi prochain, au moment de l'ouverture du Salon de l'automobile. La transition est difficile. Elle l'est encore plus pour passer du véhicule thermique au véhicule électrique, en raison de l'explosion des coûts de l'énergie. Mais nous ferons face, en soutenant les entreprises et en menant une politique claire de souveraineté industrielle. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Benjamin Saint-Huile.<br><br><strong>M. Benjamin Saint-Huile. </strong>Les dispositifs que vous avez bien voulu mettre en place depuis l'été ont montré leurs limites. Nous sommes malheureusement face à la situation du moment : je forme donc le vœu que les initiatives que vous prenez avec votre collègue Lescure – en associant peut-être également M. Dussopt – permettent d'accompagner les entreprises qui auront recours au chômage partiel allongé, afin de conserver les compétences au sein nos industries et, demain, favoriser le renouveau de l'industrie française. <i>(Applaudissements sur les bancs du groupe LIOT.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 27,
+            "label": "LOC",
+            "text": "COÛT"
+          },
+          {
+            "start_char": 33,
+            "end_char": 40,
+            "label": "ORG",
+            "text": "ÉNERGIE"
+          },
+          {
+            "start_char": 75,
+            "end_char": 78,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 119,
+            "end_char": 158,
+            "label": "PER",
+            "text": "M. Benjamin Saint-Huile.<br><br><strong"
+          },
+          {
+            "start_char": 162,
+            "end_char": 182,
+            "label": "PER",
+            "text": "Benjamin Saint-Huile"
+          },
+          {
+            "start_char": 193,
+            "end_char": 201,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 288,
+            "end_char": 301,
+            "label": "LOC",
+            "text": "Pas-de-Calais"
+          },
+          {
+            "start_char": 342,
+            "end_char": 354,
+            "label": "LOC",
+            "text": "député Petit"
+          },
+          {
+            "start_char": 431,
+            "end_char": 443,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 474,
+            "end_char": 478,
+            "label": "LOC",
+            "text": "Nord"
+          },
+          {
+            "start_char": 699,
+            "end_char": 705,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 719,
+            "end_char": 724,
+            "label": "LOC",
+            "text": "Åkers"
+          },
+          {
+            "start_char": 728,
+            "end_char": 731,
+            "label": "ORG",
+            "text": "NOV"
+          },
+          {
+            "start_char": 735,
+            "end_char": 741,
+            "label": "LOC",
+            "text": "Sambre"
+          },
+          {
+            "start_char": 745,
+            "end_char": 750,
+            "label": "LOC",
+            "text": "Meuse"
+          },
+          {
+            "start_char": 763,
+            "end_char": 769,
+            "label": "LOC",
+            "text": "Phœnix"
+          },
+          {
+            "start_char": 806,
+            "end_char": 809,
+            "label": "ORG",
+            "text": "AGC"
+          },
+          {
+            "start_char": 813,
+            "end_char": 821,
+            "label": "PER",
+            "text": "Boussois"
+          },
+          {
+            "start_char": 1053,
+            "end_char": 1075,
+            "label": "MISC",
+            "text": "venir.<br><br>Monsieur"
+          },
+          {
+            "start_char": 1124,
+            "end_char": 1136,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1265,
+            "end_char": 1297,
+            "label": "PER",
+            "text": "Maubeuge Construction Automobile"
+          },
+          {
+            "start_char": 1299,
+            "end_char": 1302,
+            "label": "ORG",
+            "text": "MCA"
+          },
+          {
+            "start_char": 1360,
+            "end_char": 1386,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1412,
+            "end_char": 1431,
+            "label": "ORG",
+            "text": "Renault ElectriCity"
+          },
+          {
+            "start_char": 1468,
+            "end_char": 1480,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1758,
+            "end_char": 1761,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1802,
+            "end_char": 1804,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 1820,
+            "end_char": 1822,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1912,
+            "end_char": 1917,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 1952,
+            "end_char": 1954,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2106,
+            "end_char": 2114,
+            "label": "LOC",
+            "text": "Maubeuge"
+          },
+          {
+            "start_char": 2172,
+            "end_char": 2181,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 2280,
+            "end_char": 2294,
+            "label": "PER",
+            "text": "Roland Lescure"
+          },
+          {
+            "start_char": 2387,
+            "end_char": 2404,
+            "label": "PER",
+            "text": "Brigitte Klinkert"
+          },
+          {
+            "start_char": 2408,
+            "end_char": 2410,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2411,
+            "end_char": 2426,
+            "label": "PER",
+            "text": "Charles Rodwell"
+          },
+          {
+            "start_char": 2813,
+            "end_char": 2818,
+            "label": "MISC",
+            "text": "DGFIP"
+          },
+          {
+            "start_char": 2935,
+            "end_char": 2948,
+            "label": "MISC",
+            "text": "euros.<br><br"
+          },
+          {
+            "start_char": 3309,
+            "end_char": 3342,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong> Majorité"
+          },
+          {
+            "start_char": 3375,
+            "end_char": 3380,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3553,
+            "end_char": 3582,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong"
+          },
+          {
+            "start_char": 3628,
+            "end_char": 3633,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3687,
+            "end_char": 3713,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3796,
+            "end_char": 3801,
+            "label": "LOC",
+            "text": "Salon"
+          },
+          {
+            "start_char": 4146,
+            "end_char": 4148,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4177,
+            "end_char": 4180,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4221,
+            "end_char": 4260,
+            "label": "PER",
+            "text": "M. Benjamin Saint-Huile.<br><br><strong"
+          },
+          {
+            "start_char": 4264,
+            "end_char": 4284,
+            "label": "PER",
+            "text": "Benjamin Saint-Huile"
+          },
+          {
+            "start_char": 4528,
+            "end_char": 4535,
+            "label": "LOC",
+            "text": "Lescure"
+          },
+          {
+            "start_char": 4571,
+            "end_char": 4581,
+            "label": "PER",
+            "text": "M. Dussopt"
+          },
+          {
+            "start_char": 4835,
+            "end_char": 4848,
+            "label": "LOC",
+            "text": "LIOT.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 93,
+            "sentiment": "3 stars",
+            "score": 0.32963091135025024
+          },
+          {
+            "begin_char": 94,
+            "end_char": 183,
+            "sentiment": "4 stars",
+            "score": 0.2736812233924866
+          },
+          {
+            "begin_char": 184,
+            "end_char": 193,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 193,
+            "end_char": 444,
+            "sentiment": "4 stars",
+            "score": 0.419400691986084
+          },
+          {
+            "begin_char": 445,
+            "end_char": 770,
+            "sentiment": "5 stars",
+            "score": 0.5573461055755615
+          },
+          {
+            "begin_char": 771,
+            "end_char": 1167,
+            "sentiment": "4 stars",
+            "score": 0.35700732469558716
+          },
+          {
+            "begin_char": 1168,
+            "end_char": 1304,
+            "sentiment": "3 stars",
+            "score": 0.2419445961713791
+          },
+          {
+            "begin_char": 1305,
+            "end_char": 1432,
+            "sentiment": "5 stars",
+            "score": 0.48647040128707886
+          },
+          {
+            "begin_char": 1433,
+            "end_char": 1597,
+            "sentiment": "5 stars",
+            "score": 0.3585796654224396
+          },
+          {
+            "begin_char": 1598,
+            "end_char": 1742,
+            "sentiment": "5 stars",
+            "score": 0.3320736885070801
+          },
+          {
+            "begin_char": 1742,
+            "end_char": 1776,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 1777,
+            "end_char": 1939,
+            "sentiment": "4 stars",
+            "score": 0.3296317458152771
+          },
+          {
+            "begin_char": 1940,
+            "end_char": 2025,
+            "sentiment": "5 stars",
+            "score": 0.3489697575569153
+          },
+          {
+            "begin_char": 2026,
+            "end_char": 2030,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2030,
+            "end_char": 2182,
+            "sentiment": "5 stars",
+            "score": 0.6973866820335388
+          },
+          {
+            "begin_char": 2183,
+            "end_char": 2378,
+            "sentiment": "2 stars",
+            "score": 0.2927061915397644
+          },
+          {
+            "begin_char": 2379,
+            "end_char": 2446,
+            "sentiment": "3 stars",
+            "score": 0.2682475447654724
+          },
+          {
+            "begin_char": 2447,
+            "end_char": 2949,
+            "sentiment": "4 stars",
+            "score": 0.29673659801483154
+          },
+          {
+            "begin_char": 2949,
+            "end_char": 3113,
+            "sentiment": "5 stars",
+            "score": 0.29868513345718384
+          },
+          {
+            "begin_char": 3114,
+            "end_char": 3214,
+            "sentiment": "5 stars",
+            "score": 0.464243084192276
+          },
+          {
+            "begin_char": 3215,
+            "end_char": 3356,
+            "sentiment": "3 stars",
+            "score": 0.28407230973243713
+          },
+          {
+            "begin_char": 3356,
+            "end_char": 3413,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3414,
+            "end_char": 3418,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3418,
+            "end_char": 3583,
+            "sentiment": "5 stars",
+            "score": 0.3581024408340454
+          },
+          {
+            "begin_char": 3584,
+            "end_char": 3609,
+            "sentiment": "4 stars",
+            "score": 0.31083792448043823
+          },
+          {
+            "begin_char": 3609,
+            "end_char": 3666,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3667,
+            "end_char": 3818,
+            "sentiment": "4 stars",
+            "score": 0.36723455786705017
+          },
+          {
+            "begin_char": 3819,
+            "end_char": 3847,
+            "sentiment": "3 stars",
+            "score": 0.4067663550376892
+          },
+          {
+            "begin_char": 3848,
+            "end_char": 3852,
+            "sentiment": "4 stars",
+            "score": 0.2995372414588928
+          },
+          {
+            "begin_char": 3853,
+            "end_char": 3977,
+            "sentiment": "4 stars",
+            "score": 0.25395864248275757
+          },
+          {
+            "begin_char": 3978,
+            "end_char": 4093,
+            "sentiment": "5 stars",
+            "score": 0.5094988346099854
+          },
+          {
+            "begin_char": 4094,
+            "end_char": 4195,
+            "sentiment": "3 stars",
+            "score": 0.32598647475242615
+          },
+          {
+            "begin_char": 4196,
+            "end_char": 4285,
+            "sentiment": "4 stars",
+            "score": 0.2736812233924866
+          },
+          {
+            "begin_char": 4286,
+            "end_char": 4295,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 4295,
+            "end_char": 4390,
+            "sentiment": "1 star",
+            "score": 0.4591329097747803
+          },
+          {
+            "begin_char": 4391,
+            "end_char": 4789,
+            "sentiment": "5 stars",
+            "score": 0.5579559206962585
+          },
+          {
+            "begin_char": 4790,
+            "end_char": 4853,
+            "sentiment": "3 stars",
+            "score": 0.30293819308280945
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-12",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-12",
+        "pageJO": "3875",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

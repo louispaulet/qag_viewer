@@ -1,0 +1,701 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG329",
+    "identifiant": {
+      "numero": "329",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "animaux",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Prédation du loup"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA266788",
+        "mandatRef": "PM796788"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Écologie",
+      "developpe": "Secrétariat d’État auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de l’écologie"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Écologie",
+          "developpe": "Secrétariat d’État auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de l’écologie"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PRÉDATION DU LOUP <a name=PG27></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Pierre Morel-À-L'Huissier.<br><br><strong>M. Pierre Morel-À-L'Huissier. </strong>Je ne sais pas à quel ministre m'adresser concernant la prédation du loup ; celui de l’agriculture et de la souveraineté alimentaire ou celui de la transition écologique et de la cohésion des territoires ? J’ai souhaité interroger le Gouvernement ce matin lors des questions orales sans débat. Ni l'un ni l'autre n’étaient présents. C’est un signe, à mon sens.<br><br>Vous avez ainsi laissé le ministre délégué chargé de la ville m’apporter ses réponses sur le loup dans les territoires ruraux – une fin de non-recevoir sur la révision de la convention de Berne et de la directive européenne « habitats ».<br><br>En contradiction totale avec ce que j'ai entendu ce matin, lors du Conseil des ministres de l'Union européenne du 26 septembre, le ministre de l'agriculture et de la souveraineté alimentaire avait déclaré soutenir « l'intérêt de réexaminer la directive “ habitats ” », face au risque de disparition de l'activité agricole. Le 2 août, au Sénat, le même ministre s'était engagé à « réexaminer le statut du loup » au niveau européen, car il jugeait que sa population était « désormais hors de danger d'extinction ».<br><br>Aujourd'hui, vous faites marche arrière. Quelle explication pouvez-vous donner au monde de l'élevage ? Pourquoi ne pas soutenir la démarche de la Suisse, concernant la convention de Berne ? Au-delà, combien d’argent public a été consommé au titre des plans « loup » successifs, pour les mesures de protection, l'achat de clôtures et de patous, la rémunération des bergers et des brigades « loup », ainsi que pour l'indemnisation des victimes de ce prédateur ? Tout cela coûte beaucoup d’argent public et vous le savez. Pourquoi les éleveurs ne sont-ils indemnisés qu’à 80 % des coûts des dommages et non à 100 % ? Pourquoi ces sommes sont-elles prélevées sur le budget du ministère de l’agriculture et de la souveraineté alimentaire et non sur celui de la transition écologique et de la cohésion des territoires ? Pourquoi continuer à financer des associations pro-loup avec de l’argent public, alors qu'elles contestent tous les arrêtés préfectoraux autorisant les tirs sur ces animaux ? <i>(Applaudissements sur les bancs du groupe LIOT.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État chargée de l’écologie.<br><br><strong>Mme Bérangère Couillard,</strong><i> secrétaire d'État chargée de l’écologie. </i>Monsieur Morel-À-L'Huissier, sachez que le Gouvernement est mobilisé face à la détresse des éleveurs français. Il faut préserver les élevages dont le nombre ne cesse de baisser depuis vingt ans. Notre méthode de suivi de la population de loups est reconnue comme l'une des plus efficaces d'Europe. Elle sera maintenue au moins jusqu'au terme du plan national d'action sur le loup et les activités d'élevage en vigueur, à la fin de 2023. Il est essentiel que la confiance soit rétablie entre tous les acteurs concernés. Agents de l'Office français de la biodiversité (OFB), membres du réseau de suivi, éleveurs, chasseurs, élus, tous doivent être impliqués.<br><br>En souhaitant le déclassement du loup de la catégorie « espèces strictement protégées », vous appelez à davantage d'efficacité dans les tirs nécessaires à la protection des élevages. Le nombre de loups dont la destruction peut être autorisée chaque année est fixé à 19 % de la population estimée. Pour 2022, 174 sont autorisées, car l'estimation de la population a été revue à la hausse. Pour davantage d'efficacité, le Gouvernement a décidé de moderniser le matériel utilisé par les louvetiers, grâce à une enveloppe de 400 000 euros.<br><br>Le loup est une espèce strictement protégée au niveau national, européen et international, grâce à la convention de Berne. Un déclassement de cette catégorie ne peut être la solution à court terme, car il est peu vraisemblable. Il faudrait que l'espèce soit parfaitement restaurée et que la décision soit prise à l'unanimité des pays. De plus, dans l'hypothèse où le loup serait déclassé, il ferait l'objet d'une gestion de type cynégétique, avec la définition de quotas et de modalités de prélèvement. Or il n'est pas démontré qu'un tel changement permettrait de réduire les dommages. La priorité du Gouvernement est de faciliter les mesures de protection, notamment les tirs dans les zones les plus proches des élevages et d'améliorer les modalités d'accompagnement des agriculteurs. C'est indispensable, notamment dans un territoire tel que la Lozère, où le loup commet ses premières prédations. M. le ministre de la transition écologique et de la cohésion des territoires, celui de l'agriculture et de la souveraineté alimentaire et moi-même sommes particulièrement mobilisés. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Pierre Morel-À-L'Huissier.<br><br><strong>M. Pierre Morel-À-L'Huissier. </strong>Quelque 11 000 ovins et 237 bovins sont morts. Pourtant, vous refuser toujours de regarder la réalité.<br><br><strong>Mme Anne-Laure Blin.</strong> Il n'a pas tort !<br><br><strong>M. Pierre Morel-À-L'Huissier. </strong>Venez sur le terrain, pour voir et écouter les éleveurs de 55 ans qui pleurent alors que leurs brebis agonisent. Voilà la réalité ! <i>(« Bravo ! » et applaudissements sur les bancs du groupe LIOT, ainsi que sur plusieurs bancs des groupes RN et LR.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 40,
+            "label": "ORG",
+            "text": "PRÉDATION DU LOUP"
+          },
+          {
+            "start_char": 75,
+            "end_char": 78,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 119,
+            "end_char": 121,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 122,
+            "end_char": 163,
+            "label": "PER",
+            "text": "Pierre Morel-À-L'Huissier.<br><br><strong"
+          },
+          {
+            "start_char": 167,
+            "end_char": 192,
+            "label": "PER",
+            "text": "Pierre Morel-À-L'Huissier"
+          },
+          {
+            "start_char": 288,
+            "end_char": 290,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 437,
+            "end_char": 449,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 516,
+            "end_char": 518,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 536,
+            "end_char": 538,
+            "label": "MISC",
+            "text": "C’"
+          },
+          {
+            "start_char": 558,
+            "end_char": 570,
+            "label": "ORG",
+            "text": "sens.<br><br"
+          },
+          {
+            "start_char": 633,
+            "end_char": 635,
+            "label": "PER",
+            "text": "m’"
+          },
+          {
+            "start_char": 745,
+            "end_char": 764,
+            "label": "MISC",
+            "text": "convention de Berne"
+          },
+          {
+            "start_char": 883,
+            "end_char": 890,
+            "label": "ORG",
+            "text": "Conseil"
+          },
+          {
+            "start_char": 910,
+            "end_char": 926,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 1153,
+            "end_char": 1158,
+            "label": "ORG",
+            "text": "Sénat"
+          },
+          {
+            "start_char": 1482,
+            "end_char": 1488,
+            "label": "LOC",
+            "text": "Suisse"
+          },
+          {
+            "start_char": 1504,
+            "end_char": 1523,
+            "label": "MISC",
+            "text": "convention de Berne"
+          },
+          {
+            "start_char": 1543,
+            "end_char": 1545,
+            "label": "PER",
+            "text": "d’"
+          },
+          {
+            "start_char": 1821,
+            "end_char": 1823,
+            "label": "PER",
+            "text": "d’"
+          },
+          {
+            "start_char": 1900,
+            "end_char": 1903,
+            "label": "LOC",
+            "text": "qu’"
+          },
+          {
+            "start_char": 2021,
+            "end_char": 2023,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2214,
+            "end_char": 2216,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2370,
+            "end_char": 2395,
+            "label": "ORG",
+            "text": "LIOT.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2396,
+            "end_char": 2399,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2440,
+            "end_char": 2443,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2460,
+            "end_char": 2464,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2476,
+            "end_char": 2478,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2503,
+            "end_char": 2516,
+            "label": "PER",
+            "text": "Mme Bérangère"
+          },
+          {
+            "start_char": 2553,
+            "end_char": 2557,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2569,
+            "end_char": 2579,
+            "label": "ORG",
+            "text": "l’écologie"
+          },
+          {
+            "start_char": 2585,
+            "end_char": 2612,
+            "label": "MISC",
+            "text": "Monsieur Morel-À-L'Huissier"
+          },
+          {
+            "start_char": 2628,
+            "end_char": 2640,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2875,
+            "end_char": 2881,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 3116,
+            "end_char": 3150,
+            "label": "ORG",
+            "text": "Office français de la biodiversité"
+          },
+          {
+            "start_char": 3152,
+            "end_char": 3155,
+            "label": "ORG",
+            "text": "OFB"
+          },
+          {
+            "start_char": 3231,
+            "end_char": 3248,
+            "label": "MISC",
+            "text": "impliqués.<br><br"
+          },
+          {
+            "start_char": 3669,
+            "end_char": 3681,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3778,
+            "end_char": 3791,
+            "label": "MISC",
+            "text": "euros.<br><br"
+          },
+          {
+            "start_char": 3894,
+            "end_char": 3913,
+            "label": "MISC",
+            "text": "convention de Berne"
+          },
+          {
+            "start_char": 4393,
+            "end_char": 4405,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4639,
+            "end_char": 4645,
+            "label": "LOC",
+            "text": "Lozère"
+          },
+          {
+            "start_char": 4923,
+            "end_char": 4946,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4947,
+            "end_char": 4950,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4991,
+            "end_char": 4993,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 4994,
+            "end_char": 5035,
+            "label": "PER",
+            "text": "Pierre Morel-À-L'Huissier.<br><br><strong"
+          },
+          {
+            "start_char": 5039,
+            "end_char": 5064,
+            "label": "PER",
+            "text": "Pierre Morel-À-L'Huissier"
+          },
+          {
+            "start_char": 5193,
+            "end_char": 5207,
+            "label": "PER",
+            "text": "Mme Anne-Laure"
+          },
+          {
+            "start_char": 5259,
+            "end_char": 5284,
+            "label": "PER",
+            "text": "Pierre Morel-À-L'Huissier"
+          },
+          {
+            "start_char": 5295,
+            "end_char": 5300,
+            "label": "LOC",
+            "text": "Venez"
+          },
+          {
+            "start_char": 5433,
+            "end_char": 5438,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 5535,
+            "end_char": 5537,
+            "label": "ORG",
+            "text": "RN"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 93,
+            "sentiment": "3 stars",
+            "score": 0.2722935974597931
+          },
+          {
+            "begin_char": 94,
+            "end_char": 193,
+            "sentiment": "3 stars",
+            "score": 0.268506795167923
+          },
+          {
+            "begin_char": 194,
+            "end_char": 278,
+            "sentiment": "1 star",
+            "score": 0.33359768986701965
+          },
+          {
+            "begin_char": 279,
+            "end_char": 408,
+            "sentiment": "5 stars",
+            "score": 0.3968784213066101
+          },
+          {
+            "begin_char": 409,
+            "end_char": 496,
+            "sentiment": "1 star",
+            "score": 0.2275860756635666
+          },
+          {
+            "begin_char": 497,
+            "end_char": 535,
+            "sentiment": "1 star",
+            "score": 0.5165407657623291
+          },
+          {
+            "begin_char": 536,
+            "end_char": 816,
+            "sentiment": "4 stars",
+            "score": 0.2606477439403534
+          },
+          {
+            "begin_char": 816,
+            "end_char": 1138,
+            "sentiment": "5 stars",
+            "score": 0.31046900153160095
+          },
+          {
+            "begin_char": 1139,
+            "end_char": 1376,
+            "sentiment": "1 star",
+            "score": 0.26503682136535645
+          },
+          {
+            "begin_char": 1377,
+            "end_char": 1438,
+            "sentiment": "1 star",
+            "score": 0.255344420671463
+          },
+          {
+            "begin_char": 1439,
+            "end_char": 1525,
+            "sentiment": "5 stars",
+            "score": 0.3705747127532959
+          },
+          {
+            "begin_char": 1526,
+            "end_char": 1528,
+            "sentiment": "5 stars",
+            "score": 0.31276801228523254
+          },
+          {
+            "begin_char": 1528,
+            "end_char": 1529,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 1529,
+            "end_char": 1533,
+            "sentiment": "5 stars",
+            "score": 0.22760853171348572
+          },
+          {
+            "begin_char": 1533,
+            "end_char": 1534,
+            "sentiment": "4 stars",
+            "score": 0.3105934262275696
+          },
+          {
+            "begin_char": 1535,
+            "end_char": 1795,
+            "sentiment": "1 star",
+            "score": 0.25116485357284546
+          },
+          {
+            "begin_char": 1796,
+            "end_char": 1854,
+            "sentiment": "1 star",
+            "score": 0.3278743028640747
+          },
+          {
+            "begin_char": 1855,
+            "end_char": 1949,
+            "sentiment": "2 stars",
+            "score": 0.3608519434928894
+          },
+          {
+            "begin_char": 1950,
+            "end_char": 2149,
+            "sentiment": "2 stars",
+            "score": 0.33674436807632446
+          },
+          {
+            "begin_char": 2150,
+            "end_char": 2324,
+            "sentiment": "1 star",
+            "score": 0.3693986237049103
+          },
+          {
+            "begin_char": 2325,
+            "end_char": 2414,
+            "sentiment": "4 stars",
+            "score": 0.3018896281719208
+          },
+          {
+            "begin_char": 2415,
+            "end_char": 2539,
+            "sentiment": "3 stars",
+            "score": 0.3019806742668152
+          },
+          {
+            "begin_char": 2540,
+            "end_char": 2580,
+            "sentiment": "4 stars",
+            "score": 0.34350618720054626
+          },
+          {
+            "begin_char": 2581,
+            "end_char": 2695,
+            "sentiment": "5 stars",
+            "score": 0.39852648973464966
+          },
+          {
+            "begin_char": 2696,
+            "end_char": 2779,
+            "sentiment": "5 stars",
+            "score": 0.4300025403499603
+          },
+          {
+            "begin_char": 2780,
+            "end_char": 2882,
+            "sentiment": "5 stars",
+            "score": 0.718320906162262
+          },
+          {
+            "begin_char": 2883,
+            "end_char": 3021,
+            "sentiment": "4 stars",
+            "score": 0.31095677614212036
+          },
+          {
+            "begin_char": 3022,
+            "end_char": 3103,
+            "sentiment": "5 stars",
+            "score": 0.5386212468147278
+          },
+          {
+            "begin_char": 3104,
+            "end_char": 3249,
+            "sentiment": "4 stars",
+            "score": 0.38227635622024536
+          },
+          {
+            "begin_char": 3249,
+            "end_char": 3431,
+            "sentiment": "5 stars",
+            "score": 0.403960257768631
+          },
+          {
+            "begin_char": 3432,
+            "end_char": 3545,
+            "sentiment": "3 stars",
+            "score": 0.25124871730804443
+          },
+          {
+            "begin_char": 3546,
+            "end_char": 3636,
+            "sentiment": "4 stars",
+            "score": 0.32882851362228394
+          },
+          {
+            "begin_char": 3637,
+            "end_char": 3914,
+            "sentiment": "5 stars",
+            "score": 0.42577072978019714
+          },
+          {
+            "begin_char": 3915,
+            "end_char": 4019,
+            "sentiment": "2 stars",
+            "score": 0.425485223531723
+          },
+          {
+            "begin_char": 4020,
+            "end_char": 4126,
+            "sentiment": "5 stars",
+            "score": 0.3715585172176361
+          },
+          {
+            "begin_char": 4127,
+            "end_char": 4294,
+            "sentiment": "4 stars",
+            "score": 0.39375320076942444
+          },
+          {
+            "begin_char": 4295,
+            "end_char": 4377,
+            "sentiment": "2 stars",
+            "score": 0.292788565158844
+          },
+          {
+            "begin_char": 4378,
+            "end_char": 4577,
+            "sentiment": "4 stars",
+            "score": 0.4426437020301819
+          },
+          {
+            "begin_char": 4578,
+            "end_char": 4690,
+            "sentiment": "5 stars",
+            "score": 0.46383488178253174
+          },
+          {
+            "begin_char": 4691,
+            "end_char": 4832,
+            "sentiment": "5 stars",
+            "score": 0.41134709119796753
+          },
+          {
+            "begin_char": 4832,
+            "end_char": 4872,
+            "sentiment": "5 stars",
+            "score": 0.4326946437358856
+          },
+          {
+            "begin_char": 4873,
+            "end_char": 4965,
+            "sentiment": "3 stars",
+            "score": 0.30941691994667053
+          },
+          {
+            "begin_char": 4966,
+            "end_char": 5065,
+            "sentiment": "3 stars",
+            "score": 0.268506795167923
+          },
+          {
+            "begin_char": 5066,
+            "end_char": 5121,
+            "sentiment": "1 star",
+            "score": 0.28325334191322327
+          },
+          {
+            "begin_char": 5122,
+            "end_char": 5222,
+            "sentiment": "1 star",
+            "score": 0.258628785610199
+          },
+          {
+            "begin_char": 5223,
+            "end_char": 5285,
+            "sentiment": "3 stars",
+            "score": 0.2278599888086319
+          },
+          {
+            "begin_char": 5286,
+            "end_char": 5407,
+            "sentiment": "5 stars",
+            "score": 0.40881818532943726
+          },
+          {
+            "begin_char": 5408,
+            "end_char": 5426,
+            "sentiment": "5 stars",
+            "score": 0.3351993262767792
+          },
+          {
+            "begin_char": 5427,
+            "end_char": 5557,
+            "sentiment": "5 stars",
+            "score": 0.4180785119533539
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5912",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

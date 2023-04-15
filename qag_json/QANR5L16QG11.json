@@ -1,0 +1,641 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG11",
+    "identifiant": {
+      "numero": "11",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "pouvoir d'achat",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Pouvoir d'achat"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719186",
+        "mandatRef": "PM796368"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> POUVOIR D'ACHAT <a name=PG11></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Fadila Khattabi.<br><br><strong>Mme Fadila Khattabi. </strong>Protéger les Français, tel est le mot d'ordre de notre majorité…<br><br><strong>M. Pierre Cordier.</strong> Vous êtes en minorité !<br><br><strong>Mme Fadila Khattabi. </strong>…et du Gouvernement. Oui, depuis cinq ans, nous protégeons nos concitoyens face à des défis majeurs comme la crise sanitaire, en renforçant notre protection sociale et en soutenant notre tissu économique. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>M. Fabien Di Filippo.</strong> Arrêtez la méthode Coué !<br><br><strong>Mme Fadila Khattabi. </strong>Aujourd'hui encore, nous les protégeons contre la forte inflation à laquelle notre pays doit faire face, et ce au travers de mesures d'urgence inédites visant à préserver leur niveau de vie. Oui, c'est l'engagement que nous avons pris auprès des Français, et nous le tenons en respectant un principe essentiel : ni impôt supplémentaire ni creusement de la dette. <i>(Mêmes mouvements.)</i><br><br>Oui, mes chers collègues, il est possible d'agir efficacement sans pour autant créer de nouvel impôt ou aggraver la situation financière de notre pays. Ni impôt ni dette, mais des mesures de justice sociale qui auront un impact direct sur le quotidien de nos concitoyens : la revalorisation anticipée des prestations et minima sociaux, la revalorisation des retraites à hauteur de 4 % dès juillet, un meilleur partage de la valeur en entreprise par le biais de l'intéressement, et le triplement de la prime exceptionnelle pour les salariés. <i>(Exclamations sur les bancs du groupe LFI-NUPES.)</i><br><br>Eh oui, ça fait mal ! Citons aussi la diminution des cotisations sociales pour les indépendants, sans oublier bien sûr le bouclier énergétique et le plafonnement des loyers. <i>(Mêmes mouvements.) </i>Ni dette ni impôt mais des dispositifs qui auront des effets rapides et positifs grâce au projet de loi sur le pouvoir d'achat. (Applaudissements sur de nombreux bancs du groupe RE.) Ce texte est le symbole d'une politique volontariste, concrète et responsable. C'est ce que nous devons aux Français et à notre pays. (Exclamations sur les bancs du groupe LFI-NUPES.)<br><br>Pourriez-vous nous indiquer les différentes modalités d'application et le calendrier de ces mesures ? <i>(Applaudissements sur les bancs du groupe RE. – Exclamations sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Vous l'avez dit, notre majorité se bat depuis cinq ans pour préserver et développer le pouvoir d'achat des Français. Devant la commission des affaires sociales – que vous présidez – et devant celle des affaires économiques, j'ai eu l'occasion de rappeler que le quinquennat passé s'est traduit chaque année par une augmentation du pouvoir d'achat de tous les ménages, indépendamment de l'inflation. Nous voulons continuer dans ce sens, ce qui est d'autant plus nécessaire que nous devons faire face à une poussée inflationniste.<br><br>La loi sur le pouvoir d'achat, que nous défendions devant votre commission hier soir et que vous allez examiner article par article dans les heures qui viennent, tient les engagements pris par le Président de la République pendant la campagne. Ces engagements sont tenus dans le domaine énergétique, ainsi que vient de le rappeler Agnès Pannier-Runacher. Ils sont aussi tenus dans le domaine économique et ils le seront évidemment pour les revenus du travail.<br><br>Ainsi que vous l'avez rappelé, nous allons revaloriser les pensions de retraite et les prestations sociales de 4 %. Précisons que ceci s'ajoute à une première revalorisation de 1,1 % des retraites au début de l'année et de 1,8 % des prestations sociales au mois d'avril dernier. <br><br>Nous allons favoriser le partage de la valeur grâce au triplement des plafonds de la prime exceptionnelle de pouvoir d'achat, mais aussi en simplifiant de manière drastique les conditions qui permettent aux entreprises de mettre en place des accords d'intéressement jusque dans les entreprises de cinquante salariés, afin que la valeur et les richesses soient mieux partagées.<br><br><strong>M. Hadrien Clouet.</strong> Et les salaires, on les partage ?<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Nous voulons dynamiser les grilles salariales et faire en sorte que la revalorisation automatique du SMIC puisse se traduire plus concrètement par une véritable dynamique en matière de conventions salariales collectives.<br><br>Enfin, nous tenons un autre engagement du Président de la République : celui qui va permettre…<br><br><strong>M. Maxime Minot.</strong> De mentir aux Français !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>…aux travailleurs indépendants de gagner plus chaque année. Nous réduisons les cotisations sociales maladie afin que les travailleurs indépendants, rémunérés au niveau du SMIC, gagnent plus de 50 euros par mois. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br>Ces engagements sont tenus grâce à la mobilisation de la majorité et à l'implication de tous les responsables de groupe qui, avec vous et avec les rapporteurs, travaillent pour trouver les consensus et les convergences, de façon à ce que ce service rendu aux Français soit le plus rassembleur possible. <i>(Mêmes mouvements.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 38,
+            "label": "MISC",
+            "text": "POUVOIR D'ACHAT"
+          },
+          {
+            "start_char": 73,
+            "end_char": 76,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 117,
+            "end_char": 127,
+            "label": "PER",
+            "text": "Mme Fadila"
+          },
+          {
+            "start_char": 153,
+            "end_char": 172,
+            "label": "PER",
+            "text": "Mme Fadila Khattabi"
+          },
+          {
+            "start_char": 196,
+            "end_char": 204,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 266,
+            "end_char": 289,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 330,
+            "end_char": 349,
+            "label": "PER",
+            "text": "Mme Fadila Khattabi"
+          },
+          {
+            "start_char": 367,
+            "end_char": 379,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 610,
+            "end_char": 633,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 644,
+            "end_char": 664,
+            "label": "PER",
+            "text": "Di Filippo.</strong>"
+          },
+          {
+            "start_char": 665,
+            "end_char": 672,
+            "label": "LOC",
+            "text": "Arrêtez"
+          },
+          {
+            "start_char": 684,
+            "end_char": 690,
+            "label": "MISC",
+            "text": "Coué !"
+          },
+          {
+            "start_char": 706,
+            "end_char": 725,
+            "label": "PER",
+            "text": "Mme Fadila Khattabi"
+          },
+          {
+            "start_char": 982,
+            "end_char": 990,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1100,
+            "end_char": 1108,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 1715,
+            "end_char": 1737,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 2068,
+            "end_char": 2084,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 2110,
+            "end_char": 2119,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 2230,
+            "end_char": 2238,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2257,
+            "end_char": 2269,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 2294,
+            "end_char": 2312,
+            "label": "ORG",
+            "text": "LFI-NUPES.)<br><br"
+          },
+          {
+            "start_char": 2453,
+            "end_char": 2462,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 2503,
+            "end_char": 2533,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2534,
+            "end_char": 2537,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2578,
+            "end_char": 2580,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2627,
+            "end_char": 2629,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2655,
+            "end_char": 2665,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2730,
+            "end_char": 2741,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 3479,
+            "end_char": 3505,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3614,
+            "end_char": 3636,
+            "label": "PER",
+            "text": "Agnès Pannier-Runacher"
+          },
+          {
+            "start_char": 3734,
+            "end_char": 3749,
+            "label": "MISC",
+            "text": "travail.<br><br"
+          },
+          {
+            "start_char": 4432,
+            "end_char": 4439,
+            "label": "PER",
+            "text": "Hadrien"
+          },
+          {
+            "start_char": 4506,
+            "end_char": 4516,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4654,
+            "end_char": 4658,
+            "label": "MISC",
+            "text": "SMIC"
+          },
+          {
+            "start_char": 4761,
+            "end_char": 4786,
+            "label": "MISC",
+            "text": "collectives.<br><br>Enfin"
+          },
+          {
+            "start_char": 4823,
+            "end_char": 4849,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4894,
+            "end_char": 4915,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 4931,
+            "end_char": 4939,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4957,
+            "end_char": 4967,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 5175,
+            "end_char": 5179,
+            "label": "MISC",
+            "text": "SMIC"
+          },
+          {
+            "start_char": 5261,
+            "end_char": 5276,
+            "label": "ORG",
+            "text": "RE.)</i><br><br"
+          },
+          {
+            "start_char": 5536,
+            "end_char": 5544,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5581,
+            "end_char": 5589,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 91,
+            "sentiment": "3 stars",
+            "score": 0.29584503173828125
+          },
+          {
+            "begin_char": 92,
+            "end_char": 173,
+            "sentiment": "3 stars",
+            "score": 0.2472703754901886
+          },
+          {
+            "begin_char": 174,
+            "end_char": 314,
+            "sentiment": "3 stars",
+            "score": 0.25685521960258484
+          },
+          {
+            "begin_char": 314,
+            "end_char": 350,
+            "sentiment": "3 stars",
+            "score": 0.2731461822986603
+          },
+          {
+            "begin_char": 351,
+            "end_char": 380,
+            "sentiment": "3 stars",
+            "score": 0.229385107755661
+          },
+          {
+            "begin_char": 381,
+            "end_char": 564,
+            "sentiment": "5 stars",
+            "score": 0.6851403117179871
+          },
+          {
+            "begin_char": 565,
+            "end_char": 643,
+            "sentiment": "3 stars",
+            "score": 0.33557388186454773
+          },
+          {
+            "begin_char": 644,
+            "end_char": 664,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 665,
+            "end_char": 690,
+            "sentiment": "1 star",
+            "score": 0.714889407157898
+          },
+          {
+            "begin_char": 690,
+            "end_char": 726,
+            "sentiment": "3 stars",
+            "score": 0.2731461822986603
+          },
+          {
+            "begin_char": 727,
+            "end_char": 926,
+            "sentiment": "5 stars",
+            "score": 0.6383503675460815
+          },
+          {
+            "begin_char": 927,
+            "end_char": 1098,
+            "sentiment": "5 stars",
+            "score": 0.629136860370636
+          },
+          {
+            "begin_char": 1099,
+            "end_char": 1284,
+            "sentiment": "5 stars",
+            "score": 0.4688848555088043
+          },
+          {
+            "begin_char": 1285,
+            "end_char": 1673,
+            "sentiment": "5 stars",
+            "score": 0.7334235310554504
+          },
+          {
+            "begin_char": 1674,
+            "end_char": 1738,
+            "sentiment": "4 stars",
+            "score": 0.3037535548210144
+          },
+          {
+            "begin_char": 1738,
+            "end_char": 1759,
+            "sentiment": "5 stars",
+            "score": 0.40312644839286804
+          },
+          {
+            "begin_char": 1760,
+            "end_char": 1911,
+            "sentiment": "4 stars",
+            "score": 0.34413233399391174
+          },
+          {
+            "begin_char": 1912,
+            "end_char": 1933,
+            "sentiment": "3 stars",
+            "score": 0.2835439443588257
+          },
+          {
+            "begin_char": 1933,
+            "end_char": 1934,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 1935,
+            "end_char": 1939,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 1939,
+            "end_char": 2066,
+            "sentiment": "5 stars",
+            "score": 0.49005645513534546
+          },
+          {
+            "begin_char": 2067,
+            "end_char": 2068,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 2068,
+            "end_char": 2121,
+            "sentiment": "4 stars",
+            "score": 0.3929770588874817
+          },
+          {
+            "begin_char": 2122,
+            "end_char": 2200,
+            "sentiment": "5 stars",
+            "score": 0.6802361011505127
+          },
+          {
+            "begin_char": 2201,
+            "end_char": 2255,
+            "sentiment": "5 stars",
+            "score": 0.6778794527053833
+          },
+          {
+            "begin_char": 2256,
+            "end_char": 2414,
+            "sentiment": "4 stars",
+            "score": 0.37245431542396545
+          },
+          {
+            "begin_char": 2415,
+            "end_char": 2552,
+            "sentiment": "4 stars",
+            "score": 0.30931755900382996
+          },
+          {
+            "begin_char": 2553,
+            "end_char": 2686,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 2687,
+            "end_char": 2742,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 2743,
+            "end_char": 2863,
+            "sentiment": "5 stars",
+            "score": 0.37690016627311707
+          },
+          {
+            "begin_char": 2864,
+            "end_char": 3145,
+            "sentiment": "5 stars",
+            "score": 0.5427582263946533
+          },
+          {
+            "begin_char": 3146,
+            "end_char": 3526,
+            "sentiment": "5 stars",
+            "score": 0.5294241309165955
+          },
+          {
+            "begin_char": 3527,
+            "end_char": 3637,
+            "sentiment": "5 stars",
+            "score": 0.3702874481678009
+          },
+          {
+            "begin_char": 3638,
+            "end_char": 3750,
+            "sentiment": "3 stars",
+            "score": 0.31507110595703125
+          },
+          {
+            "begin_char": 3750,
+            "end_char": 3865,
+            "sentiment": "5 stars",
+            "score": 0.3717646598815918
+          },
+          {
+            "begin_char": 3866,
+            "end_char": 4028,
+            "sentiment": "4 stars",
+            "score": 0.3052319884300232
+          },
+          {
+            "begin_char": 4029,
+            "end_char": 4490,
+            "sentiment": "5 stars",
+            "score": 0.49939805269241333
+          },
+          {
+            "begin_char": 4490,
+            "end_char": 4548,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 4549,
+            "end_char": 4916,
+            "sentiment": "5 stars",
+            "score": 0.463766485452652
+          },
+          {
+            "begin_char": 4917,
+            "end_char": 4941,
+            "sentiment": "1 star",
+            "score": 0.5977461338043213
+          },
+          {
+            "begin_char": 4941,
+            "end_char": 4999,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 5000,
+            "end_char": 5063,
+            "sentiment": "5 stars",
+            "score": 0.23814140260219574
+          },
+          {
+            "begin_char": 5064,
+            "end_char": 5215,
+            "sentiment": "5 stars",
+            "score": 0.3705212473869324
+          },
+          {
+            "begin_char": 5216,
+            "end_char": 5277,
+            "sentiment": "3 stars",
+            "score": 0.3026253879070282
+          },
+          {
+            "begin_char": 5277,
+            "end_char": 5579,
+            "sentiment": "5 stars",
+            "score": 0.6172990798950195
+          },
+          {
+            "begin_char": 5580,
+            "end_char": 5610,
+            "sentiment": "3 stars",
+            "score": 0.29948246479034424
+          },
+          {
+            "begin_char": 5611,
+            "end_char": 5614,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-13",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-13",
+        "pageJO": "2338",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

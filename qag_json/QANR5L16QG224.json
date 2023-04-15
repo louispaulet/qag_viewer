@@ -1,0 +1,1145 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG224",
+    "identifiant": {
+      "numero": "224",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "logement : aides et prêts",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Aide à la rénovation thermique"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA610002",
+        "mandatRef": "PM797286"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Ville et logement",
+      "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de la ville et du logement"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Ville et logement",
+          "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de la ville et du logement"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> AIDE À LA RÉNOVATION THERMIQUE <a name=PG2></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Eva Sas.<br><br><strong>Mme Eva Sas. </strong>Lundi, l'Assemblée nationale a adopté un amendement au projet de loi de finances (PLF) pour 2023, visant à augmenter de 7 milliards d'euros le budget dédié à la rénovation thermique des logements. <i>(Applaudissements sur les bancs du groupe Écolo-NUPES et sur plusieurs bancs du groupe LFI-NUPES.)</i> Ce montant, c'est celui qu'Olivier Sichel, dans son rapport, recommande d'investir pour aider les 5 millions de ménages qui habitent dans des passoires thermiques :…<br><br><strong>M. Benjamin Lucas.</strong> Eh oui !<br><br><strong>Mme Eva Sas. </strong>…7 milliards pour parvenir à un reste à charge zéro pour les familles modestes, 7 milliards pour accompagner les particuliers, les copropriétés et les propriétaires bailleurs dans leur démarche de rénovation thermique.<br><br>Les votes en faveur de l'amendement sont venus de tous les bancs, à l'exception de ceux de la majorité présidentielle. Les jeunes se sont immédiatement mobilisés pour défendre cette mesure. Une pétition a même été lancée sur les réseaux sociaux. Pourquoi un tel consensus ? Parce que l'isolation des logements est une solution de bon sens pour faire face à la flambée des cours de l'énergie et au dérèglement climatique.<br><br>Pourtant, vous restez sourds à l'appel du pays. Vous n'avez pas voulu retenir cet amendement dans le texte qui sera adopté après l'utilisation du 49.3. Vous n'avez même pas voulu augmenter un tant soit peu les crédits alloués à la rénovation thermique.<br><br><strong>M. Benjamin Lucas.</strong> C'est un scandale !<br><br><strong>Mme Eva Sas. </strong>Vous parlez d'écologie, mais vous dépensez moins qu'il y a quinze ans pour isoler les logements. L'écologie, ce ne sont pas des mots, ce n'est pas l'avion vert, les EPR – réacteur pressurisé européen – à construire d'ici à 2035, ou les SUV électriques. L'écologie, ce sont des solutions pragmatiques pour protéger durablement les Français. C'est le ferroviaire, les transports en commun et l'isolation des bâtiments.<br><br>Quand allez-vous enfin consacrer à la rénovation thermique un budget à la hauteur de la crise écologique ? <i>(Mmes et MM. les députés du groupe Écolo-NUPES, ainsi que plusieurs députés des groupes LFI-NUPES et SOC, se lèvent et applaudissent. – Applaudissements sur les bancs du groupe GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé de la ville et du logement.<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué chargé de la ville et du logement. </i>Vous criez au scandale, mais permettez-moi de clarifier les choses : il me semble que, dans cette affaire, la première des rénovations à faire, c'est celle des pratiques politiques. Il est facile de faire un coup politique dans cet hémicycle en vous alliant – comme vous l'avez d'ailleurs rappelé – avec l'extrême droite pour faire adopter deux amendements à 12 milliards d'euros. <i>(Applaudissements sur quelques bancs du groupe RE. – Exclamations sur les bancs des groupes RN, LFI-NUPES, Écolo-NUPES, SOC et GDR-NUPES.)</i><br><br><strong>M. Benjamin Lucas et Mme Sandrine Rousseau .</strong> Ça s'appelle la démocratie !<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué. </i>Mais ces votes ne font que démontrer votre méconnaissance de la question.<br><br><strong>M. Jean-Paul Lecoq.</strong> Assumez votre politique et répondez à la question !<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué . </i>J'assume parfaitement. Je tiens d'ailleurs à souligner que j'ai enseigné pendant quinze ans…<br><br><strong>M. Jean-Paul Lecoq.</strong> Raison de plus !<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué. </i>…et que mes élèves n'ont jamais eu ce comportement envers moi.<br><br><strong>Mme Sandrine Rousseau.</strong> Nous ne sommes pas vos élèves, nous sommes au Parlement !<br><br><strong>Mme la présidente.</strong> Veuillez écouter la réponse du ministre délégué, chers collègues.<br><br><strong>M. Jean-Paul Lecoq.</strong> Il ne répond pas à la question, il nous juge !<br><br><strong>Mme Sandra Regol.</strong> Pourquoi devrions-nous l'écouter alors qu'il ne fait que nous insulter ?<br><br><strong>Mme la présidente.</strong> Vous êtes libres de vos propos, comme le ministre délégué est libre des siens. Laissez-le s'exprimer. Vous disposerez ensuite de quelques secondes pour lui répondre.<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué. </i>L'enjeu de la rénovation est loin de se limiter à une simple dimension budgétaire. Il faut d'abord, vous le savez, développer la filière et la planifier.<br><br><strong>Mme Sandrine Rousseau.</strong> Alors faites-le !<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué. </i>L'objectif est de permettre à cette filière de monter en puissance. Sans ce travail préalable, toute augmentation de budget reviendrait à ouvrir des crédits qui ne seront pas dépensés, vous le savez très bien.<br><br>Ensuite, vous conviendrez que le fait que vous ayez proposé de gager ces milliards supplémentaires en rognant sur le bouclier énergie,…<br><br><strong>M. Louis Boyard.</strong> Dégagez !<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué . </i>…donc en confisquant du pouvoir d'achat à tous les Français, paraît parfaitement contradictoire.<br><br><strong>M. Julien Bayou.</strong> Ce n'est pas un argument !<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué. </i>Pour en revenir au dispositif MaPrimeRénov', nous n'avons pas à rougir de ses résultats : 1,5 million de chantiers ont été engagés et le cumul des économies réalisées excède les dépenses énergétiques de la ville de Lyon.<br><br><strong>M. Patrick Hetzel.</strong> Ça ne tient pas la route !<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué. </i>L'objectif est avant tout d'aider les ménages modestes…<br><br><strong>M. Patrick Hetzel.</strong> Pour l'instant, c'est largement inefficace !<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué . </i>…et nous y sommes parvenus : 80 % des aides ont été versées aux ménages les plus modestes. Nous avons prévu de consacrer 2,6 milliards d'euros à MaPrimeRénov' dans le projet de loi de finances pour 2023. Cet argent, nous le dépenserons, et nous le dépenserons bien.<br><br>Nous travaillons chaque jour à améliorer le dispositif, notamment à destination des copropriétés, car chacun sait qu'il doit concerner non seulement le logement individuel, mais aussi - et peut-être surtout, à l'avenir - l'habitat collectif. À cela aussi nous travaillons d'arrache-pied. <i>(Applaudissements sur plusieurs bancs des groupes RE, Dem et HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme Eva Sas.<br><br><strong>Mme Eva Sas. </strong>D'abord, je regrette que la Première ministre n'ait pas souhaité répondre à ma question. <i>(Exclamations sur quelques bancs des groupes RE, Dem et HOR.)</i><br><br>Ensuite, je rappelle au ministre qu'un vote de l'Assemblée nationale n'est pas un « coup politique » : c'est simplement l'exercice de la démocratie. <i>(Applaudissements sur les bancs des groupes Écolo-NUPES, LFI-NUPES et GDR-NUPES ainsi que sur plusieurs bancs du groupe SOC.)</i><br><br>Vous expliquez qu'il faut créer une filière pour dépenser les milliards que nous avions votés. Faisons-le ensemble ! Or vous n'augmentez pas les budgets nécessaires à la création de cette filière.<br><br><strong>Mme Élisabeth Borne, Première ministre .</strong> Ce n'est pas vrai !<br><br><strong>Mme Eva Sas. </strong>Il faut, précisément, dépenser de l'argent pour recruter et construire une filière qui permettra de procéder aux opérations de rénovation thermique dont nous avons tant besoin. <i>(Applaudissements sur les bancs des groupes Écolo-NUPES, LFI-NUPES et SOC.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 44,
+            "end_char": 53,
+            "label": "MISC",
+            "text": "THERMIQUE"
+          },
+          {
+            "start_char": 62,
+            "end_char": 69,
+            "label": "PER",
+            "text": "PG2></a"
+          },
+          {
+            "start_char": 87,
+            "end_char": 90,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 131,
+            "end_char": 138,
+            "label": "PER",
+            "text": "Mme Eva"
+          },
+          {
+            "start_char": 159,
+            "end_char": 170,
+            "label": "PER",
+            "text": "Mme Eva Sas"
+          },
+          {
+            "start_char": 181,
+            "end_char": 186,
+            "label": "LOC",
+            "text": "Lundi"
+          },
+          {
+            "start_char": 190,
+            "end_char": 209,
+            "label": "ORG",
+            "text": "Assemblée nationale"
+          },
+          {
+            "start_char": 263,
+            "end_char": 266,
+            "label": "ORG",
+            "text": "PLF"
+          },
+          {
+            "start_char": 423,
+            "end_char": 434,
+            "label": "ORG",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 468,
+            "end_char": 482,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i"
+          },
+          {
+            "start_char": 511,
+            "end_char": 525,
+            "label": "PER",
+            "text": "Olivier Sichel"
+          },
+          {
+            "start_char": 668,
+            "end_char": 691,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong"
+          },
+          {
+            "start_char": 717,
+            "end_char": 728,
+            "label": "PER",
+            "text": "Mme Eva Sas"
+          },
+          {
+            "start_char": 947,
+            "end_char": 964,
+            "label": "MISC",
+            "text": "thermique.<br><br"
+          },
+          {
+            "start_char": 1664,
+            "end_char": 1688,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong>"
+          },
+          {
+            "start_char": 1724,
+            "end_char": 1735,
+            "label": "PER",
+            "text": "Mme Eva Sas"
+          },
+          {
+            "start_char": 1911,
+            "end_char": 1914,
+            "label": "MISC",
+            "text": "EPR"
+          },
+          {
+            "start_char": 1982,
+            "end_char": 1985,
+            "label": "MISC",
+            "text": "SUV"
+          },
+          {
+            "start_char": 2076,
+            "end_char": 2084,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2152,
+            "end_char": 2181,
+            "label": "MISC",
+            "text": "bâtiments.<br><br>Quand allez"
+          },
+          {
+            "start_char": 2289,
+            "end_char": 2292,
+            "label": "MISC",
+            "text": "MM."
+          },
+          {
+            "start_char": 2315,
+            "end_char": 2326,
+            "label": "ORG",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2368,
+            "end_char": 2377,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2381,
+            "end_char": 2384,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2457,
+            "end_char": 2487,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2488,
+            "end_char": 2491,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2532,
+            "end_char": 2534,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2605,
+            "end_char": 2615,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3115,
+            "end_char": 3124,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 3128,
+            "end_char": 3140,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 3167,
+            "end_char": 3169,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 3171,
+            "end_char": 3180,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3182,
+            "end_char": 3193,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 3195,
+            "end_char": 3198,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 3202,
+            "end_char": 3232,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3236,
+            "end_char": 3250,
+            "label": "PER",
+            "text": "Benjamin Lucas"
+          },
+          {
+            "start_char": 3254,
+            "end_char": 3258,
+            "label": "PER",
+            "text": "Mme "
+          },
+          {
+            "start_char": 3287,
+            "end_char": 3289,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 3331,
+            "end_char": 3341,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3475,
+            "end_char": 3499,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 3568,
+            "end_char": 3578,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3732,
+            "end_char": 3764,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong> Raison"
+          },
+          {
+            "start_char": 3790,
+            "end_char": 3800,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3920,
+            "end_char": 3951,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau.</strong>"
+          },
+          {
+            "start_char": 3998,
+            "end_char": 4007,
+            "label": "ORG",
+            "text": "Parlement"
+          },
+          {
+            "start_char": 4025,
+            "end_char": 4051,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 4137,
+            "end_char": 4161,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 4225,
+            "end_char": 4235,
+            "label": "PER",
+            "text": "Mme Sandra"
+          },
+          {
+            "start_char": 4340,
+            "end_char": 4366,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 4549,
+            "end_char": 4559,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4770,
+            "end_char": 4800,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau.</strong"
+          },
+          {
+            "start_char": 4835,
+            "end_char": 4845,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 5091,
+            "end_char": 5103,
+            "label": "MISC",
+            "text": "bien.<br><br"
+          },
+          {
+            "start_char": 5167,
+            "end_char": 5172,
+            "label": "PER",
+            "text": "gager"
+          },
+          {
+            "start_char": 5258,
+            "end_char": 5279,
+            "label": "PER",
+            "text": "Louis Boyard.</strong"
+          },
+          {
+            "start_char": 5281,
+            "end_char": 5288,
+            "label": "PER",
+            "text": "Dégagez"
+          },
+          {
+            "start_char": 5306,
+            "end_char": 5316,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 5410,
+            "end_char": 5418,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5474,
+            "end_char": 5495,
+            "label": "PER",
+            "text": "Julien Bayou.</strong"
+          },
+          {
+            "start_char": 5539,
+            "end_char": 5549,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 5806,
+            "end_char": 5826,
+            "label": "LOC",
+            "text": "Lyon.<br><br><strong"
+          },
+          {
+            "start_char": 5830,
+            "end_char": 5854,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 5855,
+            "end_char": 5857,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 5897,
+            "end_char": 5907,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 6023,
+            "end_char": 6047,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 6108,
+            "end_char": 6118,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 6421,
+            "end_char": 6433,
+            "label": "MISC",
+            "text": "bien.<br><br"
+          },
+          {
+            "start_char": 6775,
+            "end_char": 6777,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 6779,
+            "end_char": 6782,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 6786,
+            "end_char": 6810,
+            "label": "PER",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 6811,
+            "end_char": 6814,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 6855,
+            "end_char": 6862,
+            "label": "PER",
+            "text": "Mme Eva"
+          },
+          {
+            "start_char": 6883,
+            "end_char": 6894,
+            "label": "PER",
+            "text": "Mme Eva Sas"
+          },
+          {
+            "start_char": 6933,
+            "end_char": 6941,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 7042,
+            "end_char": 7044,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 7046,
+            "end_char": 7049,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 7053,
+            "end_char": 7069,
+            "label": "PER",
+            "text": "HOR.)</i><br><br"
+          },
+          {
+            "start_char": 7119,
+            "end_char": 7138,
+            "label": "ORG",
+            "text": "Assemblée nationale"
+          },
+          {
+            "start_char": 7266,
+            "end_char": 7277,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 7279,
+            "end_char": 7288,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 7292,
+            "end_char": 7295,
+            "label": "ORG",
+            "text": "GDR"
+          },
+          {
+            "start_char": 7296,
+            "end_char": 7301,
+            "label": "ORG",
+            "text": "NUPES"
+          },
+          {
+            "start_char": 7342,
+            "end_char": 7359,
+            "label": "MISC",
+            "text": "SOC.)</i><br><br>"
+          },
+          {
+            "start_char": 7571,
+            "end_char": 7590,
+            "label": "PER",
+            "text": "Mme Élisabeth Borne"
+          },
+          {
+            "start_char": 7592,
+            "end_char": 7600,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 7656,
+            "end_char": 7667,
+            "label": "PER",
+            "text": "Mme Eva Sas"
+          },
+          {
+            "start_char": 7902,
+            "end_char": 7913,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 7915,
+            "end_char": 7924,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 105,
+            "sentiment": "4 stars",
+            "score": 0.27245816588401794
+          },
+          {
+            "begin_char": 106,
+            "end_char": 171,
+            "sentiment": "3 stars",
+            "score": 0.24788515269756317
+          },
+          {
+            "begin_char": 172,
+            "end_char": 377,
+            "sentiment": "4 stars",
+            "score": 0.376885324716568
+          },
+          {
+            "begin_char": 378,
+            "end_char": 483,
+            "sentiment": "4 stars",
+            "score": 0.33153095841407776
+          },
+          {
+            "begin_char": 484,
+            "end_char": 692,
+            "sentiment": "3 stars",
+            "score": 0.31870830059051514
+          },
+          {
+            "begin_char": 693,
+            "end_char": 701,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 701,
+            "end_char": 729,
+            "sentiment": "3 stars",
+            "score": 0.291046142578125
+          },
+          {
+            "begin_char": 730,
+            "end_char": 1083,
+            "sentiment": "5 stars",
+            "score": 0.40025341510772705
+          },
+          {
+            "begin_char": 1084,
+            "end_char": 1154,
+            "sentiment": "5 stars",
+            "score": 0.4384560286998749
+          },
+          {
+            "begin_char": 1155,
+            "end_char": 1210,
+            "sentiment": "5 stars",
+            "score": 0.31866395473480225
+          },
+          {
+            "begin_char": 1211,
+            "end_char": 1238,
+            "sentiment": "3 stars",
+            "score": 0.30284303426742554
+          },
+          {
+            "begin_char": 1239,
+            "end_char": 1440,
+            "sentiment": "5 stars",
+            "score": 0.26010626554489136
+          },
+          {
+            "begin_char": 1441,
+            "end_char": 1544,
+            "sentiment": "3 stars",
+            "score": 0.26841363310813904
+          },
+          {
+            "begin_char": 1545,
+            "end_char": 1688,
+            "sentiment": "1 star",
+            "score": 0.6355671882629395
+          },
+          {
+            "begin_char": 1689,
+            "end_char": 1708,
+            "sentiment": "1 star",
+            "score": 0.87748783826828
+          },
+          {
+            "begin_char": 1708,
+            "end_char": 1736,
+            "sentiment": "3 stars",
+            "score": 0.291046142578125
+          },
+          {
+            "begin_char": 1737,
+            "end_char": 1746,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1746,
+            "end_char": 1842,
+            "sentiment": "2 stars",
+            "score": 0.3324233889579773
+          },
+          {
+            "begin_char": 1843,
+            "end_char": 1998,
+            "sentiment": "5 stars",
+            "score": 0.29730966687202454
+          },
+          {
+            "begin_char": 1999,
+            "end_char": 2085,
+            "sentiment": "5 stars",
+            "score": 0.5542581081390381
+          },
+          {
+            "begin_char": 2086,
+            "end_char": 2276,
+            "sentiment": "5 stars",
+            "score": 0.32964664697647095
+          },
+          {
+            "begin_char": 2277,
+            "end_char": 2413,
+            "sentiment": "5 stars",
+            "score": 0.44200560450553894
+          },
+          {
+            "begin_char": 2414,
+            "end_char": 2506,
+            "sentiment": "4 stars",
+            "score": 0.3336471617221832
+          },
+          {
+            "begin_char": 2507,
+            "end_char": 2686,
+            "sentiment": "4 stars",
+            "score": 0.2953059673309326
+          },
+          {
+            "begin_char": 2687,
+            "end_char": 2872,
+            "sentiment": "5 stars",
+            "score": 0.23410098254680634
+          },
+          {
+            "begin_char": 2873,
+            "end_char": 3071,
+            "sentiment": "1 star",
+            "score": 0.31248337030410767
+          },
+          {
+            "begin_char": 3072,
+            "end_char": 3125,
+            "sentiment": "3 stars",
+            "score": 0.2982350289821625
+          },
+          {
+            "begin_char": 3126,
+            "end_char": 3236,
+            "sentiment": "3 stars",
+            "score": 0.3361344039440155
+          },
+          {
+            "begin_char": 3236,
+            "end_char": 3258,
+            "sentiment": "3 stars",
+            "score": 0.2802340090274811
+          },
+          {
+            "begin_char": 3258,
+            "end_char": 3266,
+            "sentiment": "4 stars",
+            "score": 0.2989853024482727
+          },
+          {
+            "begin_char": 3267,
+            "end_char": 3286,
+            "sentiment": "3 stars",
+            "score": 0.2947607636451721
+          },
+          {
+            "begin_char": 3287,
+            "end_char": 3315,
+            "sentiment": "5 stars",
+            "score": 0.44624200463294983
+          },
+          {
+            "begin_char": 3315,
+            "end_char": 3378,
+            "sentiment": "3 stars",
+            "score": 0.27910318970680237
+          },
+          {
+            "begin_char": 3379,
+            "end_char": 3383,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3383,
+            "end_char": 3552,
+            "sentiment": "1 star",
+            "score": 0.4260183572769165
+          },
+          {
+            "begin_char": 3552,
+            "end_char": 3616,
+            "sentiment": "3 stars",
+            "score": 0.296230286359787
+          },
+          {
+            "begin_char": 3617,
+            "end_char": 3643,
+            "sentiment": "5 stars",
+            "score": 0.5066133737564087
+          },
+          {
+            "begin_char": 3644,
+            "end_char": 3774,
+            "sentiment": "1 star",
+            "score": 0.3896060585975647
+          },
+          {
+            "begin_char": 3774,
+            "end_char": 3837,
+            "sentiment": "3 stars",
+            "score": 0.27910318970680237
+          },
+          {
+            "begin_char": 3838,
+            "end_char": 3951,
+            "sentiment": "1 star",
+            "score": 0.3575458824634552
+          },
+          {
+            "begin_char": 3952,
+            "end_char": 3981,
+            "sentiment": "1 star",
+            "score": 0.3628862500190735
+          },
+          {
+            "begin_char": 3981,
+            "end_char": 4052,
+            "sentiment": "5 stars",
+            "score": 0.3635765314102173
+          },
+          {
+            "begin_char": 4053,
+            "end_char": 4162,
+            "sentiment": "4 stars",
+            "score": 0.2796873450279236
+          },
+          {
+            "begin_char": 4163,
+            "end_char": 4251,
+            "sentiment": "1 star",
+            "score": 0.6116795539855957
+          },
+          {
+            "begin_char": 4252,
+            "end_char": 4324,
+            "sentiment": "1 star",
+            "score": 0.6916114687919617
+          },
+          {
+            "begin_char": 4324,
+            "end_char": 4367,
+            "sentiment": "3 stars",
+            "score": 0.2839324474334717
+          },
+          {
+            "begin_char": 4368,
+            "end_char": 4446,
+            "sentiment": "5 stars",
+            "score": 0.4072916507720947
+          },
+          {
+            "begin_char": 4447,
+            "end_char": 4469,
+            "sentiment": "5 stars",
+            "score": 0.46458014845848083
+          },
+          {
+            "begin_char": 4470,
+            "end_char": 4596,
+            "sentiment": "1 star",
+            "score": 0.22035209834575653
+          },
+          {
+            "begin_char": 4597,
+            "end_char": 4601,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4601,
+            "end_char": 4683,
+            "sentiment": "3 stars",
+            "score": 0.33018526434898376
+          },
+          {
+            "begin_char": 4684,
+            "end_char": 4801,
+            "sentiment": "4 stars",
+            "score": 0.31525611877441406
+          },
+          {
+            "begin_char": 4802,
+            "end_char": 4814,
+            "sentiment": "5 stars",
+            "score": 0.3138682544231415
+          },
+          {
+            "begin_char": 4814,
+            "end_char": 4815,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 4815,
+            "end_char": 4819,
+            "sentiment": "5 stars",
+            "score": 0.3231343626976013
+          },
+          {
+            "begin_char": 4819,
+            "end_char": 4882,
+            "sentiment": "3 stars",
+            "score": 0.27910318970680237
+          },
+          {
+            "begin_char": 4883,
+            "end_char": 4887,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4887,
+            "end_char": 4954,
+            "sentiment": "4 stars",
+            "score": 0.37636587023735046
+          },
+          {
+            "begin_char": 4955,
+            "end_char": 5290,
+            "sentiment": "1 star",
+            "score": 0.4836874008178711
+          },
+          {
+            "begin_char": 5290,
+            "end_char": 5354,
+            "sentiment": "3 stars",
+            "score": 0.296230286359787
+          },
+          {
+            "begin_char": 5355,
+            "end_char": 5496,
+            "sentiment": "2 stars",
+            "score": 0.3128156065940857
+          },
+          {
+            "begin_char": 5497,
+            "end_char": 5523,
+            "sentiment": "1 star",
+            "score": 0.48610150814056396
+          },
+          {
+            "begin_char": 5523,
+            "end_char": 5586,
+            "sentiment": "3 stars",
+            "score": 0.27910318970680237
+          },
+          {
+            "begin_char": 5587,
+            "end_char": 5854,
+            "sentiment": "5 stars",
+            "score": 0.3616040050983429
+          },
+          {
+            "begin_char": 5855,
+            "end_char": 5944,
+            "sentiment": "1 star",
+            "score": 0.6349889039993286
+          },
+          {
+            "begin_char": 5945,
+            "end_char": 5949,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5949,
+            "end_char": 6047,
+            "sentiment": "3 stars",
+            "score": 0.31684136390686035
+          },
+          {
+            "begin_char": 6048,
+            "end_char": 6092,
+            "sentiment": "1 star",
+            "score": 0.48070985078811646
+          },
+          {
+            "begin_char": 6092,
+            "end_char": 6156,
+            "sentiment": "3 stars",
+            "score": 0.296230286359787
+          },
+          {
+            "begin_char": 6157,
+            "end_char": 6251,
+            "sentiment": "5 stars",
+            "score": 0.3733307123184204
+          },
+          {
+            "begin_char": 6252,
+            "end_char": 6364,
+            "sentiment": "5 stars",
+            "score": 0.29927411675453186
+          },
+          {
+            "begin_char": 6365,
+            "end_char": 6434,
+            "sentiment": "5 stars",
+            "score": 0.39904648065567017
+          },
+          {
+            "begin_char": 6434,
+            "end_char": 6675,
+            "sentiment": "5 stars",
+            "score": 0.5423197150230408
+          },
+          {
+            "begin_char": 6676,
+            "end_char": 6721,
+            "sentiment": "5 stars",
+            "score": 0.3801521062850952
+          },
+          {
+            "begin_char": 6722,
+            "end_char": 6829,
+            "sentiment": "4 stars",
+            "score": 0.3121681213378906
+          },
+          {
+            "begin_char": 6830,
+            "end_char": 6895,
+            "sentiment": "3 stars",
+            "score": 0.24788515269756317
+          },
+          {
+            "begin_char": 6896,
+            "end_char": 6993,
+            "sentiment": "4 stars",
+            "score": 0.26214125752449036
+          },
+          {
+            "begin_char": 6994,
+            "end_char": 7218,
+            "sentiment": "5 stars",
+            "score": 0.3421128988265991
+          },
+          {
+            "begin_char": 7219,
+            "end_char": 7359,
+            "sentiment": "4 stars",
+            "score": 0.3431602716445923
+          },
+          {
+            "begin_char": 7359,
+            "end_char": 7453,
+            "sentiment": "1 star",
+            "score": 0.4422447383403778
+          },
+          {
+            "begin_char": 7454,
+            "end_char": 7475,
+            "sentiment": "5 stars",
+            "score": 0.5540937781333923
+          },
+          {
+            "begin_char": 7476,
+            "end_char": 7620,
+            "sentiment": "1 star",
+            "score": 0.35571199655532837
+          },
+          {
+            "begin_char": 7621,
+            "end_char": 7640,
+            "sentiment": "1 star",
+            "score": 0.5489705204963684
+          },
+          {
+            "begin_char": 7640,
+            "end_char": 7668,
+            "sentiment": "3 stars",
+            "score": 0.291046142578125
+          },
+          {
+            "begin_char": 7669,
+            "end_char": 7678,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 7678,
+            "end_char": 7854,
+            "sentiment": "5 stars",
+            "score": 0.4177763760089874
+          },
+          {
+            "begin_char": 7855,
+            "end_char": 7945,
+            "sentiment": "4 stars",
+            "score": 0.32434526085853577
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-03",
+        "pageJO": "5107",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

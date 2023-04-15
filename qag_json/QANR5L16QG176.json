@@ -1,0 +1,809 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG176",
+    "identifiant": {
+      "numero": "176",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "pouvoir d'achat",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "GRÈVE NATIONALE POUR L'AUGMENTATION DES SALAIRES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793444",
+        "mandatRef": "PM796329"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> GRÈVE NATIONALE POUR L'AUGMENTATION DES SALAIRES <a name=PG11></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Manuel Bompard.<br><br><strong>M. Manuel Bompard. </strong>Madame la Première ministre, aujourd'hui a lieu une journée de grève nationale pour l'augmentation des salaires. Cette grève intervient à la suite du formidable succès de la marche contre la vie chère, organisée dimanche dernier. <i>(Applaudissements sur les bancs du groupe LFI-NUPES. – Rires et exclamations sur les bancs des groupes RE, Dem et HOR ainsi que sur plusieurs bancs du groupe LR.)</i><br><br><strong>M. Olivier Falorni.</strong> Elle est bien bonne, celle-là !<br><br><strong>M. Manuel Bompard. </strong>Ce mouvement a notre soutien total. Les salariés ont raison d'exiger des salaires plus élevés pour faire face à la hausse des prix. Alors que l'inflation atteint 6 %, le salaire moyen dans le privé n'a augmenté que de 3,1 %. Quant au point d'indice des fonctionnaires, il n'a progressé, en juillet, que de 3,5 %. Très concrètement, les salariés du public comme du privé perdent donc du pouvoir d'achat alors que, dans le même temps, les plus riches se gavent. <i>(Applaudissements sur les bancs du groupe LFI-NUPES.) </i>De fait, la France a atteint cette année un record en matière de dividendes, lesquels sont en hausse de 33 %.<br><br>Vous êtes entièrement responsable de cette situation.<br><br>Depuis des mois, nous vous proposons d'augmenter le Smic pour mettre fin à cette injustice <i>(Nouveaux applaudissements sur les bancs du groupe LFI-NUPES)</i>, mais vous l'avez refusé, main dans la main avec le Rassemblement national. Depuis des mois, nous vous proposons de taxer les superprofits et de rétablir l'impôt de solidarité sur la fortune (ISF), mais vous l'avez refusé, main dans la main avec le Rassemblement national. (Mêmes mouvements.)<br><br><strong>M. Jocelyn Dessigny.</strong> C'est vous qui avez fait élire Macron, pas nous !<br><br><strong>M. Manuel Bompard. </strong>À la place, vous demandez timidement aux entreprises de faire des gestes. Le patron de TotalEnergies vous a répondu en s'augmentant de 52 % tout en refusant de négocier avec les salariés, avant que ceux-ci se mettent en grève.<br><br>Face à ces blocages, les salariés ont raison de se mobiliser. En effet, après une journée de grève, les chauffeurs routiers de Laval ont obtenu une augmentation de 6,9 % ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES.) </i>La grève permet parfois de remplir le frigo, n'en déplaise à M. Attal.<br><br>Madame la Première ministre, vous êtes minoritaires dans la société comme dans cette assemblée <i>(Applaudissements sur les bancs du groupe LFI-NUPES)</i> :…<br><br><strong>M. Bruno Millienne.</strong> C'est faux !<br><br><strong>M. Manuel Bompard. </strong>…79 % des Français sont pour le rétablissement de l'ISF, 67 % d'entre eux sont pour la hausse du Smic et 81 % de nos concitoyens souhaitent une taxation des superprofits. <i>(Même mouvement.)</i><br><br><strong>M. Bruno Millienne.</strong> Et 71 % d'entre eux sont contre la grève !<br><br><strong>M. Manuel Bompard. </strong>Ma question est simple, madame la Première ministre. Allez-vous continuer à bloquer le pays ou allez-vous enfin porter le Smic à 1 600 euros net et convoquer une conférence sociale pour l'augmentation des salaires ? <i>(Les députés du groupe LFI-NUPES se lèvent et applaudissent.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Je ne sais si je dois sourire, car la question est sérieuse : elle porte sur le pouvoir d'achat. Ce qui est certain, c'est que ce n'est pas à moi de commenter le succès ou l'échec d'une manifestation : 29 000 personnes, ce n'est pas si mal <i>(Sourires et applaudissements sur plusieurs bancs du groupe RE)</i>, même si c'est loin de votre estimation.<br><br>J'ai parfois le sentiment que votre capacité à estimer le nombre de participants à une manifestation vaut votre capacité à évaluer la réalité de la politique du Gouvernement et ses résultats pour le pouvoir d'achat. <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</i> Nous avons fait le choix, je le répète, de le protéger et de déployer des boucliers en prenant des mesures qu'aucun autre pays d'Europe n'a prises.<br><br>Nous avons fait le choix de dynamiser la négociation dans les branches collectives en nous appuyant sur l'augmentation automatique de 8 % du Smic. La grande différence entre vous et nous, c'est que nous faisons confiance au dialogue social <i>(Exclamations sur les bancs du groupe LFI-NUPES)</i> pour que, dans les branches, les solutions soient trouvées dans le respect de chacune des parties. Nous faisons confiance au dialogue social pour sortir des conflits. Nous faisons confiance au dialogue social lorsqu'il aboutit à des accords majoritaires, ce qui nous incite à encourager la reprise du travail.<br><br>Monsieur le député, vous répétez une espèce de mantra qui correspond au village Potemkine de votre réalité sociale. <i>(Mme Sophia Chikirou s'exclame.)</i> Nous agissons pour protéger le pouvoir d'achat ; vous vous contentez de haranguer les foules. Vous souhaitez le blocage du pays ; nous souhaitons sa réussite. Vous souhaitez finalement que la misère prospère, car la misère, c'est votre fonds de commerce ! (Applaudissements sur les bancs des groupes RE, Dem et HOR.)<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 38,
+            "label": "ORG",
+            "text": "GRÈVE NATIONALE"
+          },
+          {
+            "start_char": 106,
+            "end_char": 109,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 150,
+            "end_char": 186,
+            "label": "PER",
+            "text": "M. Manuel Bompard.<br><br><strong>M."
+          },
+          {
+            "start_char": 187,
+            "end_char": 201,
+            "label": "PER",
+            "text": "Manuel Bompard"
+          },
+          {
+            "start_char": 212,
+            "end_char": 230,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 487,
+            "end_char": 496,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 500,
+            "end_char": 505,
+            "label": "LOC",
+            "text": "Rires"
+          },
+          {
+            "start_char": 548,
+            "end_char": 550,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 552,
+            "end_char": 555,
+            "label": "MISC",
+            "text": "Dem"
+          },
+          {
+            "start_char": 559,
+            "end_char": 562,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 603,
+            "end_char": 626,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 627,
+            "end_char": 654,
+            "label": "PER",
+            "text": "M. Olivier Falorni.</strong"
+          },
+          {
+            "start_char": 706,
+            "end_char": 720,
+            "label": "PER",
+            "text": "Manuel Bompard"
+          },
+          {
+            "start_char": 1236,
+            "end_char": 1245,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1261,
+            "end_char": 1270,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1412,
+            "end_char": 1429,
+            "label": "MISC",
+            "text": "situation.<br><br"
+          },
+          {
+            "start_char": 1482,
+            "end_char": 1486,
+            "label": "LOC",
+            "text": "Smic"
+          },
+          {
+            "start_char": 1522,
+            "end_char": 1533,
+            "label": "LOC",
+            "text": "i>(Nouveaux"
+          },
+          {
+            "start_char": 1575,
+            "end_char": 1588,
+            "label": "ORG",
+            "text": "LFI-NUPES)</i"
+          },
+          {
+            "start_char": 1642,
+            "end_char": 1664,
+            "label": "ORG",
+            "text": "Rassemblement national"
+          },
+          {
+            "start_char": 1839,
+            "end_char": 1861,
+            "label": "ORG",
+            "text": "Rassemblement national"
+          },
+          {
+            "start_char": 1864,
+            "end_char": 1869,
+            "label": "LOC",
+            "text": "Mêmes"
+          },
+          {
+            "start_char": 1901,
+            "end_char": 1926,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 1959,
+            "end_char": 1965,
+            "label": "PER",
+            "text": "Macron"
+          },
+          {
+            "start_char": 1996,
+            "end_char": 2010,
+            "label": "PER",
+            "text": "Manuel Bompard"
+          },
+          {
+            "start_char": 2108,
+            "end_char": 2121,
+            "label": "ORG",
+            "text": "TotalEnergies"
+          },
+          {
+            "start_char": 2241,
+            "end_char": 2254,
+            "label": "MISC",
+            "text": "grève.<br><br"
+          },
+          {
+            "start_char": 2382,
+            "end_char": 2387,
+            "label": "PER",
+            "text": "Laval"
+          },
+          {
+            "start_char": 2472,
+            "end_char": 2481,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2549,
+            "end_char": 2551,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2566,
+            "end_char": 2584,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 2706,
+            "end_char": 2719,
+            "label": "ORG",
+            "text": "LFI-NUPES)</i"
+          },
+          {
+            "start_char": 2742,
+            "end_char": 2766,
+            "label": "PER",
+            "text": "Bruno Millienne.</strong"
+          },
+          {
+            "start_char": 2799,
+            "end_char": 2813,
+            "label": "PER",
+            "text": "Manuel Bompard"
+          },
+          {
+            "start_char": 2834,
+            "end_char": 2842,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2921,
+            "end_char": 2925,
+            "label": "LOC",
+            "text": "Smic"
+          },
+          {
+            "start_char": 3038,
+            "end_char": 3062,
+            "label": "PER",
+            "text": "Bruno Millienne.</strong"
+          },
+          {
+            "start_char": 3125,
+            "end_char": 3139,
+            "label": "PER",
+            "text": "Manuel Bompard"
+          },
+          {
+            "start_char": 3272,
+            "end_char": 3276,
+            "label": "LOC",
+            "text": "Smic"
+          },
+          {
+            "start_char": 3392,
+            "end_char": 3401,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3450,
+            "end_char": 3453,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3494,
+            "end_char": 3496,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3543,
+            "end_char": 3545,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3571,
+            "end_char": 3581,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3646,
+            "end_char": 3657,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 3904,
+            "end_char": 3915,
+            "label": "LOC",
+            "text": "i>(Sourires"
+          },
+          {
+            "start_char": 3966,
+            "end_char": 3972,
+            "label": "ORG",
+            "text": "RE)</i"
+          },
+          {
+            "start_char": 4183,
+            "end_char": 4195,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4285,
+            "end_char": 4287,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4289,
+            "end_char": 4304,
+            "label": "MISC",
+            "text": "Dem et HOR.)</i"
+          },
+          {
+            "start_char": 4435,
+            "end_char": 4441,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 4602,
+            "end_char": 4606,
+            "label": "LOC",
+            "text": "Smic"
+          },
+          {
+            "start_char": 4742,
+            "end_char": 4755,
+            "label": "ORG",
+            "text": "LFI-NUPES)</i"
+          },
+          {
+            "start_char": 5058,
+            "end_char": 5074,
+            "label": "MISC",
+            "text": "travail.<br><br>"
+          },
+          {
+            "start_char": 5154,
+            "end_char": 5163,
+            "label": "PER",
+            "text": "Potemkine"
+          },
+          {
+            "start_char": 5487,
+            "end_char": 5503,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 5530,
+            "end_char": 5532,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5534,
+            "end_char": 5549,
+            "label": "MISC",
+            "text": "Dem et HOR.)<br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 124,
+            "sentiment": "3 stars",
+            "score": 0.2765035033226013
+          },
+          {
+            "begin_char": 125,
+            "end_char": 202,
+            "sentiment": "3 stars",
+            "score": 0.2678610384464264
+          },
+          {
+            "begin_char": 203,
+            "end_char": 212,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 212,
+            "end_char": 324,
+            "sentiment": "5 stars",
+            "score": 0.3867025375366211
+          },
+          {
+            "begin_char": 325,
+            "end_char": 441,
+            "sentiment": "4 stars",
+            "score": 0.38537970185279846
+          },
+          {
+            "begin_char": 442,
+            "end_char": 655,
+            "sentiment": "4 stars",
+            "score": 0.3347158432006836
+          },
+          {
+            "begin_char": 656,
+            "end_char": 721,
+            "sentiment": "4 stars",
+            "score": 0.3142946660518646
+          },
+          {
+            "begin_char": 722,
+            "end_char": 731,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 731,
+            "end_char": 766,
+            "sentiment": "5 stars",
+            "score": 0.7292266488075256
+          },
+          {
+            "begin_char": 767,
+            "end_char": 862,
+            "sentiment": "5 stars",
+            "score": 0.412129282951355
+          },
+          {
+            "begin_char": 863,
+            "end_char": 955,
+            "sentiment": "3 stars",
+            "score": 0.3493044078350067
+          },
+          {
+            "begin_char": 956,
+            "end_char": 1043,
+            "sentiment": "3 stars",
+            "score": 0.3963596820831299
+          },
+          {
+            "begin_char": 1044,
+            "end_char": 1190,
+            "sentiment": "1 star",
+            "score": 0.3743240237236023
+          },
+          {
+            "begin_char": 1191,
+            "end_char": 1246,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 1246,
+            "end_char": 1247,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 1248,
+            "end_char": 1252,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 1252,
+            "end_char": 1369,
+            "sentiment": "5 stars",
+            "score": 0.39764487743377686
+          },
+          {
+            "begin_char": 1369,
+            "end_char": 1430,
+            "sentiment": "5 stars",
+            "score": 0.2741582691669464
+          },
+          {
+            "begin_char": 1430,
+            "end_char": 1665,
+            "sentiment": "5 stars",
+            "score": 0.3096674978733063
+          },
+          {
+            "begin_char": 1666,
+            "end_char": 1862,
+            "sentiment": "1 star",
+            "score": 0.3334575295448303
+          },
+          {
+            "begin_char": 1863,
+            "end_char": 1927,
+            "sentiment": "3 stars",
+            "score": 0.32373377680778503
+          },
+          {
+            "begin_char": 1928,
+            "end_char": 1977,
+            "sentiment": "1 star",
+            "score": 0.547386884689331
+          },
+          {
+            "begin_char": 1977,
+            "end_char": 2011,
+            "sentiment": "3 stars",
+            "score": 0.2967948317527771
+          },
+          {
+            "begin_char": 2012,
+            "end_char": 2094,
+            "sentiment": "1 star",
+            "score": 0.25081929564476013
+          },
+          {
+            "begin_char": 2095,
+            "end_char": 2316,
+            "sentiment": "5 stars",
+            "score": 0.30573102831840515
+          },
+          {
+            "begin_char": 2317,
+            "end_char": 2426,
+            "sentiment": "5 stars",
+            "score": 0.3138314187526703
+          },
+          {
+            "begin_char": 2427,
+            "end_char": 2482,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 2482,
+            "end_char": 2483,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 2484,
+            "end_char": 2488,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2488,
+            "end_char": 2566,
+            "sentiment": "3 stars",
+            "score": 0.32759106159210205
+          },
+          {
+            "begin_char": 2566,
+            "end_char": 2767,
+            "sentiment": "5 stars",
+            "score": 0.3380037546157837
+          },
+          {
+            "begin_char": 2768,
+            "end_char": 2814,
+            "sentiment": "1 star",
+            "score": 0.6398707628250122
+          },
+          {
+            "begin_char": 2815,
+            "end_char": 2994,
+            "sentiment": "5 stars",
+            "score": 0.27376270294189453
+          },
+          {
+            "begin_char": 2995,
+            "end_char": 3106,
+            "sentiment": "3 stars",
+            "score": 0.29106175899505615
+          },
+          {
+            "begin_char": 3106,
+            "end_char": 3140,
+            "sentiment": "3 stars",
+            "score": 0.2967948317527771
+          },
+          {
+            "begin_char": 3141,
+            "end_char": 3202,
+            "sentiment": "5 stars",
+            "score": 0.2573763430118561
+          },
+          {
+            "begin_char": 3203,
+            "end_char": 3365,
+            "sentiment": "1 star",
+            "score": 0.4293573498725891
+          },
+          {
+            "begin_char": 3366,
+            "end_char": 3373,
+            "sentiment": "3 stars",
+            "score": 0.29896679520606995
+          },
+          {
+            "begin_char": 3374,
+            "end_char": 3468,
+            "sentiment": "5 stars",
+            "score": 0.3468448519706726
+          },
+          {
+            "begin_char": 3469,
+            "end_char": 3602,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 3603,
+            "end_char": 3658,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 3659,
+            "end_char": 3663,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3663,
+            "end_char": 3759,
+            "sentiment": "2 stars",
+            "score": 0.3017929196357727
+          },
+          {
+            "begin_char": 3760,
+            "end_char": 4237,
+            "sentiment": "3 stars",
+            "score": 0.44001007080078125
+          },
+          {
+            "begin_char": 4238,
+            "end_char": 4305,
+            "sentiment": "4 stars",
+            "score": 0.293683797121048
+          },
+          {
+            "begin_char": 4306,
+            "end_char": 4461,
+            "sentiment": "5 stars",
+            "score": 0.5240921974182129
+          },
+          {
+            "begin_char": 4461,
+            "end_char": 4607,
+            "sentiment": "5 stars",
+            "score": 0.504060685634613
+          },
+          {
+            "begin_char": 4608,
+            "end_char": 4855,
+            "sentiment": "5 stars",
+            "score": 0.595691442489624
+          },
+          {
+            "begin_char": 4856,
+            "end_char": 4923,
+            "sentiment": "5 stars",
+            "score": 0.5334858298301697
+          },
+          {
+            "begin_char": 4924,
+            "end_char": 5074,
+            "sentiment": "5 stars",
+            "score": 0.482074111700058
+          },
+          {
+            "begin_char": 5074,
+            "end_char": 5189,
+            "sentiment": "5 stars",
+            "score": 0.2634768784046173
+          },
+          {
+            "begin_char": 5190,
+            "end_char": 5204,
+            "sentiment": "3 stars",
+            "score": 0.2935602366924286
+          },
+          {
+            "begin_char": 5205,
+            "end_char": 5213,
+            "sentiment": "3 stars",
+            "score": 0.2415481060743332
+          },
+          {
+            "begin_char": 5214,
+            "end_char": 5229,
+            "sentiment": "3 stars",
+            "score": 0.31647542119026184
+          },
+          {
+            "begin_char": 5230,
+            "end_char": 5278,
+            "sentiment": "5 stars",
+            "score": 0.45398542284965515
+          },
+          {
+            "begin_char": 5279,
+            "end_char": 5323,
+            "sentiment": "1 star",
+            "score": 0.6766673922538757
+          },
+          {
+            "begin_char": 5324,
+            "end_char": 5359,
+            "sentiment": "1 star",
+            "score": 0.24509254097938538
+          },
+          {
+            "begin_char": 5360,
+            "end_char": 5388,
+            "sentiment": "4 stars",
+            "score": 0.42813733220100403
+          },
+          {
+            "begin_char": 5389,
+            "end_char": 5487,
+            "sentiment": "1 star",
+            "score": 0.31799134612083435
+          },
+          {
+            "begin_char": 5487,
+            "end_char": 5550,
+            "sentiment": "4 stars",
+            "score": 0.34177517890930176
+          },
+          {
+            "begin_char": 5551,
+            "end_char": 5554,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-20",
+        "pageJO": "4310",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

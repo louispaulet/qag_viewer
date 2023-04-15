@@ -1,0 +1,905 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG312",
+    "identifiant": {
+      "numero": "312",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "pouvoir d'achat",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Augmentation des prix de l'alimentation"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794418",
+        "mandatRef": "PM796914"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Économie, finances, souveraineté industrielle et numérique",
+      "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Économie, finances, souveraineté industrielle et numérique",
+          "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> AUGMENTATION DES PRIX DE L'ALIMENTATION <a name=PG10></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Florence Goulet.<br><br><strong>Mme Florence Goulet. </strong>Ma question s'adresse à M. le ministre de l'économie, des finances et de la souveraineté industrielle et numérique. 12 % d'inflation pour l'alimentation, 17 % pour les produits frais ;…<br><br><strong>Un député du groupe LFI-NUPES .</strong> Il faut augmenter le Smic !<br><br><strong>Mme Florence Goulet. </strong>…voilà la réalité qu'affrontent les familles françaises alors que les salaires peinent, eux, à augmenter de 4 %.<br><br>Ces chiffres alarmants cachent de très grandes disparités. Les huiles alimentaires ont augmenté de 60 %, les légumes de 33 %, les pâtes, le lait, les œufs, le beurre connaissent des hausses de 15 à 20 %. Ce matin, le dirigeant d'une enseigne de grande distribution a indiqué qu'il refusait de mettre en rayon des produits de base devenus si chers que la plupart des Français ne pouvaient les acheter.<br><br>Comment accepter une situation indigne d'une grande puissance agricole comme la France, désormais incapable d'assurer une alimentation saine et abordable à ses habitants ? Dès le mois de septembre 2021, avant la guerre en Ukraine, Marine Le Pen <i>(« Ah ! » sur les sur les bancs des groupes RE, LFI-NUPES, LR, Dem, SOC, Écolo-NUPES et GDR-NUPES.)</i> a alerté sur la gravité de l'inflation alimentaire mais aussi sur sa durée dans le temps. Pendant des mois, vous avez annoncé que la France avait passé le pic d'inflation pour justifier votre passivité. Aux dernières élections, vous avez promis un chèque alimentation que vous avez finalement enterré.<br><br>Ma question est donc simple : quand appliquerez-vous la seule mesure concrète pour soulager les Français,…<br><br><strong>M. Louis Boyard.</strong> Augmentation des salaires, blocage des prix !<br><br><strong>Mme Florence Goulet. </strong>…la baisse à 0 % de la TVA sur un panier de produits d'alimentation et d'hygiène s'accompagnant d'un strict contrôle de sa répercussion sur la baisse des prix ? <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Plusieurs députés du groupe RN .</strong> Bravo !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br><strong>M. Pierre Cordier.</strong> Et de la dette !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre de l’économie, des finances et de la souveraineté industrielle et numérique. </i>Avant de répondre à Mme la députée du groupe Rassemblement national, je voudrais m'associer à l'hommage qui a été rendu à l'agent de la direction générale des finances publiques – DGFIP– qui a été assassiné près d'Arras, il y a quelques heures. Je voudrais dire aux 96 000 agents de la DGFIP, aux 4 000 agents vérificateurs qui sont au contact direct du terrain tout mon soutien, toute ma reconnaissance et toute l'amitié de la République et de la nation française, que vous représentez. (Mmes et MM. les députés et les membres du Gouvernement se lèvent et applaudissent très longuement.)<br><br>Bien entendu, l'inflation des produits alimentaires pèse très durement sur tous nos compatriotes. Nous avons anticipé l'augmentation des prix. Vous avez parlé des propositions qui ont été faites par la présidente Le Pen il y a quelques mois. Je rappelle que cette majorité, la seule en Europe, au mois d'octobre 2021, a pris la décision de protéger tous nos compatriotes contre l'explosion des prix du gaz et de l'électricité.<br><br><strong>Mme Danielle Brulebois.</strong> Exactement !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre. </i>Je rappelle que la France est le premier et le seul pays en Europe à engager 110 milliards d'euros de dépenses pour protéger nos compatriotes contre l'augmentation des prix. Vous me direz que cela ne concerne pas les prix alimentaires, mais nos compatriotes ont un seul budget et répartissent leurs dépenses entre le logement, l'alimentation, le déplacement, l'électricité, l'énergie.<br><br><strong>M. Jocelyn Dessigny.</strong> Et la baisse de la TVA sur les produits alimentaires ? C'est la question !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre. </i>C'est grâce à cette protection, que la France connaît toujours le taux d'inflation le plus faible de la zone euro. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>Plusieurs députés du groupe LR .</strong> Et alors ?<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>C'est un chiffre, c'est un fait.<br><br>Nous avons protégé, mieux et plus tôt que les autres nations européennes.<br><br><strong>M. Jocelyn Dessigny.</strong> Vous ne répondez pas à la question !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Nous continuerons à le faire, en ciblant la protection des plus fragiles, en aidant les entreprises – j'aurai l'occasion d'en reparler – qui font, elles aussi, face à l'explosion de leurs factures.<br><br><strong>M. Jean-Philippe Tanguy.</strong> Ça n'a rien à voir !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Nous n'avons jamais laissé tomber personne pendant les périodes de crise, ni pendant le covid ni pendant les autres crises. Nous serons aux côtés de nos compatriotes pendant cette crise de l'inflation et cette explosion des prix de l'énergie. <i>(Applaudissements sur les bancs des groupes RE et Dem.)</i><br><br><strong>M. Jocelyn Dessigny.</strong> Et vous n'avez pas répondu à la question.<br><br><strong>Mme la présidente. </strong>La parole est à Mme Florence Goulet.<br><br><strong>Mme Florence Goulet. </strong>Vous savez très bien que les Français sont obligés de faire des choix et des sacrifices sur leur panier alimentaire.<br><br><strong>Plusieurs députés du groupe RN .</strong> Eh oui !<br><br><strong>Mme Florence Goulet. </strong>Par ailleurs, vos mesures ne sont pas pérennes, alors que vous savez très bien que la crise est appelée à durer ; cela ne satisfait pas un grand nombre de Français. <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Plusieurs députés du groupe RN .</strong> Bravo !<br> <p>",
+        "entities": [
+          {
+            "start_char": 97,
+            "end_char": 100,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 141,
+            "end_char": 176,
+            "label": "PER",
+            "text": "Mme Florence Goulet.<br><br><strong"
+          },
+          {
+            "start_char": 177,
+            "end_char": 196,
+            "label": "PER",
+            "text": "Mme Florence Goulet"
+          },
+          {
+            "start_char": 231,
+            "end_char": 233,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 428,
+            "end_char": 437,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 470,
+            "end_char": 474,
+            "label": "LOC",
+            "text": "Smic"
+          },
+          {
+            "start_char": 492,
+            "end_char": 511,
+            "label": "PER",
+            "text": "Mme Florence Goulet"
+          },
+          {
+            "start_char": 1008,
+            "end_char": 1016,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1127,
+            "end_char": 1136,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1272,
+            "end_char": 1279,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 1281,
+            "end_char": 1294,
+            "label": "PER",
+            "text": "Marine Le Pen"
+          },
+          {
+            "start_char": 1301,
+            "end_char": 1305,
+            "label": "MISC",
+            "text": "Ah !"
+          },
+          {
+            "start_char": 1342,
+            "end_char": 1344,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 1346,
+            "end_char": 1355,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1357,
+            "end_char": 1359,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 1361,
+            "end_char": 1364,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 1366,
+            "end_char": 1369,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 1371,
+            "end_char": 1382,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 1386,
+            "end_char": 1400,
+            "label": "MISC",
+            "text": "GDR-NUPES.)</i"
+          },
+          {
+            "start_char": 1532,
+            "end_char": 1541,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1695,
+            "end_char": 1710,
+            "label": "MISC",
+            "text": "enterré.<br><br"
+          },
+          {
+            "start_char": 1747,
+            "end_char": 1758,
+            "label": "PER",
+            "text": "appliquerez"
+          },
+          {
+            "start_char": 1807,
+            "end_char": 1816,
+            "label": "MISC",
+            "text": "Français,"
+          },
+          {
+            "start_char": 1836,
+            "end_char": 1858,
+            "label": "PER",
+            "text": "Louis Boyard.</strong>"
+          },
+          {
+            "start_char": 1920,
+            "end_char": 1939,
+            "label": "PER",
+            "text": "Mme Florence Goulet"
+          },
+          {
+            "start_char": 1973,
+            "end_char": 1976,
+            "label": "ORG",
+            "text": "TVA"
+          },
+          {
+            "start_char": 2156,
+            "end_char": 2179,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2208,
+            "end_char": 2210,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 2222,
+            "end_char": 2227,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 2245,
+            "end_char": 2248,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2289,
+            "end_char": 2291,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2307,
+            "end_char": 2309,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2399,
+            "end_char": 2422,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 2459,
+            "end_char": 2464,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 2499,
+            "end_char": 2501,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2597,
+            "end_char": 2600,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2622,
+            "end_char": 2644,
+            "label": "ORG",
+            "text": "Rassemblement national"
+          },
+          {
+            "start_char": 2791,
+            "end_char": 2796,
+            "label": "LOC",
+            "text": "Arras"
+          },
+          {
+            "start_char": 2863,
+            "end_char": 2868,
+            "label": "MISC",
+            "text": "DGFIP"
+          },
+          {
+            "start_char": 3005,
+            "end_char": 3015,
+            "label": "LOC",
+            "text": "République"
+          },
+          {
+            "start_char": 3066,
+            "end_char": 3070,
+            "label": "MISC",
+            "text": "Mmes"
+          },
+          {
+            "start_char": 3074,
+            "end_char": 3077,
+            "label": "MISC",
+            "text": "MM."
+          },
+          {
+            "start_char": 3108,
+            "end_char": 3120,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3386,
+            "end_char": 3392,
+            "label": "MISC",
+            "text": "Le Pen"
+          },
+          {
+            "start_char": 3459,
+            "end_char": 3465,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 3615,
+            "end_char": 3646,
+            "label": "PER",
+            "text": "Mme Danielle Brulebois.</strong"
+          },
+          {
+            "start_char": 3679,
+            "end_char": 3684,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3737,
+            "end_char": 3746,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3781,
+            "end_char": 3787,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 4124,
+            "end_char": 4149,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 4170,
+            "end_char": 4173,
+            "label": "ORG",
+            "text": "TVA"
+          },
+          {
+            "start_char": 4244,
+            "end_char": 4249,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4322,
+            "end_char": 4331,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 4446,
+            "end_char": 4469,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4498,
+            "end_char": 4500,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 4541,
+            "end_char": 4546,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4611,
+            "end_char": 4623,
+            "label": "MISC",
+            "text": "fait.<br><br"
+          },
+          {
+            "start_char": 4716,
+            "end_char": 4742,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong>"
+          },
+          {
+            "start_char": 4798,
+            "end_char": 4803,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 5057,
+            "end_char": 5086,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong"
+          },
+          {
+            "start_char": 5088,
+            "end_char": 5090,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 5127,
+            "end_char": 5132,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 5460,
+            "end_char": 5462,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5494,
+            "end_char": 5519,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 5578,
+            "end_char": 5581,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5622,
+            "end_char": 5657,
+            "label": "PER",
+            "text": "Mme Florence Goulet.<br><br><strong"
+          },
+          {
+            "start_char": 5658,
+            "end_char": 5677,
+            "label": "PER",
+            "text": "Mme Florence Goulet"
+          },
+          {
+            "start_char": 5717,
+            "end_char": 5725,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5848,
+            "end_char": 5850,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 5886,
+            "end_char": 5905,
+            "label": "PER",
+            "text": "Mme Florence Goulet"
+          },
+          {
+            "start_char": 6071,
+            "end_char": 6079,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 6126,
+            "end_char": 6149,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 6178,
+            "end_char": 6180,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 6192,
+            "end_char": 6197,
+            "label": "PER",
+            "text": "Bravo"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 115,
+            "sentiment": "3 stars",
+            "score": 0.3342117369174957
+          },
+          {
+            "begin_char": 116,
+            "end_char": 197,
+            "sentiment": "3 stars",
+            "score": 0.2530973255634308
+          },
+          {
+            "begin_char": 198,
+            "end_char": 322,
+            "sentiment": "4 stars",
+            "score": 0.3211067318916321
+          },
+          {
+            "begin_char": 323,
+            "end_char": 391,
+            "sentiment": "3 stars",
+            "score": 0.30222395062446594
+          },
+          {
+            "begin_char": 391,
+            "end_char": 408,
+            "sentiment": "3 stars",
+            "score": 0.2870877981185913
+          },
+          {
+            "begin_char": 408,
+            "end_char": 448,
+            "sentiment": "3 stars",
+            "score": 0.3071180284023285
+          },
+          {
+            "begin_char": 449,
+            "end_char": 476,
+            "sentiment": "1 star",
+            "score": 0.23165263235569
+          },
+          {
+            "begin_char": 476,
+            "end_char": 512,
+            "sentiment": "3 stars",
+            "score": 0.2809540033340454
+          },
+          {
+            "begin_char": 513,
+            "end_char": 642,
+            "sentiment": "2 stars",
+            "score": 0.31447073817253113
+          },
+          {
+            "begin_char": 642,
+            "end_char": 700,
+            "sentiment": "3 stars",
+            "score": 0.3679252564907074
+          },
+          {
+            "begin_char": 701,
+            "end_char": 845,
+            "sentiment": "4 stars",
+            "score": 0.326932430267334
+          },
+          {
+            "begin_char": 846,
+            "end_char": 1221,
+            "sentiment": "5 stars",
+            "score": 0.27943676710128784
+          },
+          {
+            "begin_char": 1222,
+            "end_char": 1400,
+            "sentiment": "4 stars",
+            "score": 0.2830967605113983
+          },
+          {
+            "begin_char": 1400,
+            "end_char": 1491,
+            "sentiment": "4 stars",
+            "score": 0.422514408826828
+          },
+          {
+            "begin_char": 1492,
+            "end_char": 1604,
+            "sentiment": "1 star",
+            "score": 0.5496491193771362
+          },
+          {
+            "begin_char": 1605,
+            "end_char": 1858,
+            "sentiment": "1 star",
+            "score": 0.37825503945350647
+          },
+          {
+            "begin_char": 1859,
+            "end_char": 1904,
+            "sentiment": "1 star",
+            "score": 0.24503721296787262
+          },
+          {
+            "begin_char": 1904,
+            "end_char": 1940,
+            "sentiment": "3 stars",
+            "score": 0.2809540033340454
+          },
+          {
+            "begin_char": 1941,
+            "end_char": 2110,
+            "sentiment": "2 stars",
+            "score": 0.35327574610710144
+          },
+          {
+            "begin_char": 2111,
+            "end_char": 2229,
+            "sentiment": "5 stars",
+            "score": 0.5455135107040405
+          },
+          {
+            "begin_char": 2229,
+            "end_char": 2263,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2264,
+            "end_char": 2440,
+            "sentiment": "2 stars",
+            "score": 0.2233516424894333
+          },
+          {
+            "begin_char": 2440,
+            "end_char": 2486,
+            "sentiment": "3 stars",
+            "score": 0.30349332094192505
+          },
+          {
+            "begin_char": 2487,
+            "end_char": 2572,
+            "sentiment": "5 stars",
+            "score": 0.3489697575569153
+          },
+          {
+            "begin_char": 2573,
+            "end_char": 2821,
+            "sentiment": "4 stars",
+            "score": 0.405354380607605
+          },
+          {
+            "begin_char": 2822,
+            "end_char": 3064,
+            "sentiment": "5 stars",
+            "score": 0.8541327714920044
+          },
+          {
+            "begin_char": 3065,
+            "end_char": 3270,
+            "sentiment": "5 stars",
+            "score": 0.5309596657752991
+          },
+          {
+            "begin_char": 3271,
+            "end_char": 3315,
+            "sentiment": "4 stars",
+            "score": 0.35561221837997437
+          },
+          {
+            "begin_char": 3316,
+            "end_char": 3414,
+            "sentiment": "1 star",
+            "score": 0.25533223152160645
+          },
+          {
+            "begin_char": 3415,
+            "end_char": 3660,
+            "sentiment": "5 stars",
+            "score": 0.5928030014038086
+          },
+          {
+            "begin_char": 3660,
+            "end_char": 3716,
+            "sentiment": "4 stars",
+            "score": 0.2820071280002594
+          },
+          {
+            "begin_char": 3717,
+            "end_char": 3894,
+            "sentiment": "5 stars",
+            "score": 0.4474840760231018
+          },
+          {
+            "begin_char": 3895,
+            "end_char": 4205,
+            "sentiment": "3 stars",
+            "score": 0.285654753446579
+          },
+          {
+            "begin_char": 4206,
+            "end_char": 4225,
+            "sentiment": "3 stars",
+            "score": 0.25450846552848816
+          },
+          {
+            "begin_char": 4225,
+            "end_char": 4281,
+            "sentiment": "4 stars",
+            "score": 0.2820071280002594
+          },
+          {
+            "begin_char": 4282,
+            "end_char": 4400,
+            "sentiment": "5 stars",
+            "score": 0.46692991256713867
+          },
+          {
+            "begin_char": 4401,
+            "end_char": 4522,
+            "sentiment": "3 stars",
+            "score": 0.3161171078681946
+          },
+          {
+            "begin_char": 4522,
+            "end_char": 4579,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 4580,
+            "end_char": 4624,
+            "sentiment": "3 stars",
+            "score": 0.2690633535385132
+          },
+          {
+            "begin_char": 4624,
+            "end_char": 4742,
+            "sentiment": "5 stars",
+            "score": 0.4942394196987152
+          },
+          {
+            "begin_char": 4743,
+            "end_char": 4779,
+            "sentiment": "1 star",
+            "score": 0.8371937870979309
+          },
+          {
+            "begin_char": 4779,
+            "end_char": 4836,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 4837,
+            "end_char": 4841,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4841,
+            "end_char": 5087,
+            "sentiment": "5 stars",
+            "score": 0.39461103081703186
+          },
+          {
+            "begin_char": 5088,
+            "end_char": 5108,
+            "sentiment": "1 star",
+            "score": 0.7373398542404175
+          },
+          {
+            "begin_char": 5108,
+            "end_char": 5165,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 5166,
+            "end_char": 5170,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5170,
+            "end_char": 5293,
+            "sentiment": "5 stars",
+            "score": 0.41930216550827026
+          },
+          {
+            "begin_char": 5294,
+            "end_char": 5412,
+            "sentiment": "5 stars",
+            "score": 0.5151246786117554
+          },
+          {
+            "begin_char": 5413,
+            "end_char": 5520,
+            "sentiment": "3 stars",
+            "score": 0.3691273033618927
+          },
+          {
+            "begin_char": 5521,
+            "end_char": 5596,
+            "sentiment": "1 star",
+            "score": 0.6853997111320496
+          },
+          {
+            "begin_char": 5597,
+            "end_char": 5678,
+            "sentiment": "3 stars",
+            "score": 0.2530973255634308
+          },
+          {
+            "begin_char": 5679,
+            "end_char": 5688,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5688,
+            "end_char": 5861,
+            "sentiment": "5 stars",
+            "score": 0.31429973244667053
+          },
+          {
+            "begin_char": 5862,
+            "end_char": 5870,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 5870,
+            "end_char": 5906,
+            "sentiment": "3 stars",
+            "score": 0.2809540033340454
+          },
+          {
+            "begin_char": 5907,
+            "end_char": 5916,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5916,
+            "end_char": 6029,
+            "sentiment": "1 star",
+            "score": 0.5617668628692627
+          },
+          {
+            "begin_char": 6030,
+            "end_char": 6080,
+            "sentiment": "2 stars",
+            "score": 0.46843597292900085
+          },
+          {
+            "begin_char": 6081,
+            "end_char": 6199,
+            "sentiment": "5 stars",
+            "score": 0.5455135107040405
+          },
+          {
+            "begin_char": 6199,
+            "end_char": 6207,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5899",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

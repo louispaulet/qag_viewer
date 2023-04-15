@@ -1,0 +1,809 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG422",
+    "identifiant": {
+      "numero": "422",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "politique économique",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PERSPECTIVES ÉCONOMIQUES DE LA FRANCE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721852",
+        "mandatRef": "PM797565"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Économie, finances, souveraineté industrielle et numérique",
+      "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Économie, finances, souveraineté industrielle et numérique",
+          "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PERSPECTIVES ÉCONOMIQUES DE LA FRANCE <a name=PG8></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Marie Lebec.<br><br><strong>Mme Marie Lebec. </strong>Alors que la conjoncture économique reste difficile – du fait de la permanence de la guerre en Ukraine, de la réouverture économique désordonnée de la Chine, ou encore de l'instabilité des prix de l'énergie –, notre économie résiste. Les résultats sont là : une croissance positive de 2,5 % en 2022, le cap du million d'entreprises créées en passe d'être franchi, ainsi que 300 000 emplois créés sur les trois premiers trimestres de 2022, dont 62 000 emplois industriels net.<br><br><strong>M. Maxime Minot.</strong> C'est formidable ! <i>(Sourires.)</i><br><br><strong>Mme Marie Lebec. </strong>Notre économie résiste grâce à l'engagement de tous, au premier rang desquels les entrepreneurs et leurs salariés – je tiens à saluer leur persévérance et leur résilience, alors que le contexte national, européen et international aurait pu les décourager d'investir et d'innover.<br><br>Si notre économie tient, c'est également grâce à la réactivité du Gouvernement et de l'ensemble des services déconcentrés de l'État. L'annonce faite la semaine dernière par le Président de la République, affirmant sa volonté de s'appuyer sur le réseau de préfectures, a été saluée par les acteurs économiques : ils ont en mémoire la très grande réactivité montrée par celles-ci durant la crise du covid et lors du déploiement du plan de relance.<br><br>Le bouclier énergétique instauré par la majorité, tout comme le guichet d'aide, complétés par l'amortisseur des prix de l'électricité, ont constitué des premières réponses. Ils ont permis de protéger la très grande majorité des PME éligibles au tarif régulé. Néanmoins, aucun de nous, sur ces bancs, n'a été sourd aux appels des boulangers, des bouchers et des restaurateurs, qui voient leurs factures augmenter et rencontrent des difficultés croissantes. Ils sont parfois les derniers acteurs économiques des centres-villes. <br><br>Depuis plusieurs années, monsieur le ministre de l’économie, des finances et de la souveraineté industrielle et numérique, vous avez engagé une bataille en faveur de la réindustrialisation du pays. De fait, depuis cinq ans, la France est redevenue le premier pays européen en matière d'attractivité. L'industrie est une condition nécessaire pour faire de notre pays une nation puissante et souveraine. (Mme Émilie Bonnivard s'exclame.) Par ailleurs, nous croyons – la majorité comme le Gouvernement – à la capacité de notre industrie à se verdir. Vous l'avez rappelé, l'ensemble des acteurs économiques doivent désormais être mobilisés pour agir en faveur de la réussite économique du pays : seul, l'État ne peut rien. <br><br>Si ces batailles économiques représentent d'immenses défis pour l'année à venir, elles ne doivent pas nous faire oublier les bons résultats que nous enregistrons depuis cinq ans. Aussi, monsieur le ministre, quelles sont les perspectives économiques pour 2023 ? <i>(Applaudissements sur plusieurs bancs du groupe RE.) </i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br><strong>M. Maxime Minot.</strong> Et de la dette !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre de l’économie, des finances et de la souveraineté industrielle et numérique. </i>Avant la coupure de Noël, certains nous expliquaient que nous allions entrer en récession, que la production industrielle allait s'effondrer, que le chômage allait repartir à la hausse, et que nous aurions des coupures d'électricité cet hiver, faute de réacteurs nucléaires. <br><br><strong>M. Frédéric Boccaletti.</strong> Vous plaisantez ! Ce sont vos préfets qui l'ont dit !<br><br><strong>Plusieurs députés du groupe RN .</strong> C'est vous qui l'avez dit !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>C'était vous. Le résultat, c'est que nous avons enregistré une croissance de 2,5 % en 2022.<i> (Applaudissements sur plusieurs bancs du groupe RE.) </i><br><br><strong>Plusieurs députés du groupe RE .</strong> Eh oui !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Le résultat, c'est aussi que la croissance sera positive en 2023, que l'indice de la production industrielle en novembre a été à nouveau positif,…<br><br><strong>Mme Marine Le Pen.</strong> On ne peut pas en dire autant de la balance commerciale !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>…que nous avons continué à créer des dizaines de milliers d'emplois en France au dernier trimestre, et qu'il n'y a pas eu de coupure d'électricité.<br><br><strong>M. Emeric Salmon.</strong> Il est où, le col roulé ?<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Au contraire, les ingénieurs, les ouvriers et les salariés d'EDF viennent de remettre en état les 45 gigawatts qui avaient été promis pour la mi-janvier. Nous sommes le 10 janvier, et les 45 gigawatts ont été remis sur le réseau par les salariés, par les ingénieurs, par les ouvriers et par les soudeurs d'EDF. <i>(Applaudissements sur les bancs des groupes RE et Dem.) </i><br><br><strong>M. Emeric Salmon.</strong> Mais pas par vous ! Vous n'y êtes pour rien !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre. </i>Oui, la France résiste ; oui, l'économie française résiste ; oui, la croissance française résiste – elle résiste même mieux que celle de ses partenaires. <br><br><strong>M. Sébastien Chenu.</strong> Ah ?<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Il faut poursuivre cette dynamique. Nous vous proposerons, dans les mois qui viennent, un projet de loi de réindustrialisation verte. La majorité a déjà réussi à créer 61 000 emplois industriels nets au cours du précédent quinquennat : c'est la première fois depuis des décennies que la France recrée des emplois industriels et rouvre des usines. Avec notre projet de loi pour l'industrie verte, nous accélérerons encore l'industrialisation de la France, pour en faire la première nation décarbonée de l'Union européenne. <i>(Mêmes mouvements.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 47,
+            "label": "MISC",
+            "text": "PERSPECTIVES ÉCONOMIQUES"
+          },
+          {
+            "start_char": 51,
+            "end_char": 60,
+            "label": "LOC",
+            "text": "LA FRANCE"
+          },
+          {
+            "start_char": 69,
+            "end_char": 76,
+            "label": "PER",
+            "text": "PG8></a"
+          },
+          {
+            "start_char": 94,
+            "end_char": 97,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 138,
+            "end_char": 169,
+            "label": "PER",
+            "text": "Mme Marie Lebec.<br><br><strong"
+          },
+          {
+            "start_char": 170,
+            "end_char": 185,
+            "label": "PER",
+            "text": "Mme Marie Lebec"
+          },
+          {
+            "start_char": 291,
+            "end_char": 298,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 344,
+            "end_char": 352,
+            "label": "LOC",
+            "text": "la Chine"
+          },
+          {
+            "start_char": 690,
+            "end_char": 711,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 766,
+            "end_char": 781,
+            "label": "PER",
+            "text": "Mme Marie Lebec"
+          },
+          {
+            "start_char": 1063,
+            "end_char": 1078,
+            "label": "MISC",
+            "text": "innover.<br><br"
+          },
+          {
+            "start_char": 1145,
+            "end_char": 1157,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1206,
+            "end_char": 1210,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1255,
+            "end_char": 1281,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1516,
+            "end_char": 1531,
+            "label": "MISC",
+            "text": "relance.<br><br"
+          },
+          {
+            "start_char": 2115,
+            "end_char": 2117,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2290,
+            "end_char": 2299,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2469,
+            "end_char": 2489,
+            "label": "PER",
+            "text": "Mme Émilie Bonnivard"
+          },
+          {
+            "start_char": 2552,
+            "end_char": 2564,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2766,
+            "end_char": 2770,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3099,
+            "end_char": 3108,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 3131,
+            "end_char": 3134,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3175,
+            "end_char": 3177,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3193,
+            "end_char": 3195,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3285,
+            "end_char": 3306,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 3343,
+            "end_char": 3348,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3383,
+            "end_char": 3385,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3470,
+            "end_char": 3485,
+            "label": "LOC",
+            "text": "coupure de Noël"
+          },
+          {
+            "start_char": 3755,
+            "end_char": 3783,
+            "label": "PER",
+            "text": "Frédéric Boccaletti.</strong"
+          },
+          {
+            "start_char": 3882,
+            "end_char": 3884,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 3942,
+            "end_char": 3947,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4071,
+            "end_char": 4078,
+            "label": "MISC",
+            "text": "2022.<i"
+          },
+          {
+            "start_char": 4081,
+            "end_char": 4097,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 4121,
+            "end_char": 4130,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4174,
+            "end_char": 4183,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4222,
+            "end_char": 4227,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4427,
+            "end_char": 4437,
+            "label": "PER",
+            "text": "Mme Marine"
+          },
+          {
+            "start_char": 4531,
+            "end_char": 4536,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4645,
+            "end_char": 4651,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 4740,
+            "end_char": 4746,
+            "label": "PER",
+            "text": "Emeric"
+          },
+          {
+            "start_char": 4808,
+            "end_char": 4813,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4912,
+            "end_char": 4915,
+            "label": "ORG",
+            "text": "EDF"
+          },
+          {
+            "start_char": 5157,
+            "end_char": 5160,
+            "label": "ORG",
+            "text": "EDF"
+          },
+          {
+            "start_char": 5209,
+            "end_char": 5211,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5215,
+            "end_char": 5218,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 5244,
+            "end_char": 5250,
+            "label": "PER",
+            "text": "Emeric"
+          },
+          {
+            "start_char": 5332,
+            "end_char": 5337,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 5379,
+            "end_char": 5388,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 5547,
+            "end_char": 5572,
+            "label": "PER",
+            "text": "Sébastien Chenu.</strong>"
+          },
+          {
+            "start_char": 5596,
+            "end_char": 5601,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 5923,
+            "end_char": 5932,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 6083,
+            "end_char": 6092,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 6143,
+            "end_char": 6159,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 6162,
+            "end_char": 6170,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 112,
+            "sentiment": "3 stars",
+            "score": 0.3293114900588989
+          },
+          {
+            "begin_char": 113,
+            "end_char": 186,
+            "sentiment": "3 stars",
+            "score": 0.24921636283397675
+          },
+          {
+            "begin_char": 187,
+            "end_char": 429,
+            "sentiment": "4 stars",
+            "score": 0.37531793117523193
+          },
+          {
+            "begin_char": 430,
+            "end_char": 731,
+            "sentiment": "5 stars",
+            "score": 0.7810962200164795
+          },
+          {
+            "begin_char": 732,
+            "end_char": 782,
+            "sentiment": "3 stars",
+            "score": 0.2938835024833679
+          },
+          {
+            "begin_char": 783,
+            "end_char": 792,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 792,
+            "end_char": 1211,
+            "sentiment": "5 stars",
+            "score": 0.5916016697883606
+          },
+          {
+            "begin_char": 1212,
+            "end_char": 1704,
+            "sentiment": "4 stars",
+            "score": 0.46301165223121643
+          },
+          {
+            "begin_char": 1705,
+            "end_char": 1790,
+            "sentiment": "5 stars",
+            "score": 0.6429829001426697
+          },
+          {
+            "begin_char": 1791,
+            "end_char": 1987,
+            "sentiment": "3 stars",
+            "score": 0.2378600835800171
+          },
+          {
+            "begin_char": 1988,
+            "end_char": 2057,
+            "sentiment": "3 stars",
+            "score": 0.3204931616783142
+          },
+          {
+            "begin_char": 2058,
+            "end_char": 2263,
+            "sentiment": "5 stars",
+            "score": 0.5640285611152649
+          },
+          {
+            "begin_char": 2264,
+            "end_char": 2365,
+            "sentiment": "5 stars",
+            "score": 0.5038219690322876
+          },
+          {
+            "begin_char": 2366,
+            "end_char": 2467,
+            "sentiment": "5 stars",
+            "score": 0.6133203506469727
+          },
+          {
+            "begin_char": 2468,
+            "end_char": 2501,
+            "sentiment": "3 stars",
+            "score": 0.2355431616306305
+          },
+          {
+            "begin_char": 2502,
+            "end_char": 2612,
+            "sentiment": "5 stars",
+            "score": 0.5920718312263489
+          },
+          {
+            "begin_char": 2613,
+            "end_char": 2784,
+            "sentiment": "5 stars",
+            "score": 0.5997979640960693
+          },
+          {
+            "begin_char": 2785,
+            "end_char": 2971,
+            "sentiment": "4 stars",
+            "score": 0.3626895248889923
+          },
+          {
+            "begin_char": 2972,
+            "end_char": 3054,
+            "sentiment": "5 stars",
+            "score": 0.40755006670951843
+          },
+          {
+            "begin_char": 3055,
+            "end_char": 3110,
+            "sentiment": "4 stars",
+            "score": 0.2979218363761902
+          },
+          {
+            "begin_char": 3111,
+            "end_char": 3149,
+            "sentiment": "3 stars",
+            "score": 0.2889687418937683
+          },
+          {
+            "begin_char": 3150,
+            "end_char": 3324,
+            "sentiment": "2 stars",
+            "score": 0.23260630667209625
+          },
+          {
+            "begin_char": 3324,
+            "end_char": 3370,
+            "sentiment": "3 stars",
+            "score": 0.30349332094192505
+          },
+          {
+            "begin_char": 3371,
+            "end_char": 3456,
+            "sentiment": "5 stars",
+            "score": 0.3489697575569153
+          },
+          {
+            "begin_char": 3457,
+            "end_char": 3735,
+            "sentiment": "2 stars",
+            "score": 0.3211689889431
+          },
+          {
+            "begin_char": 3736,
+            "end_char": 3784,
+            "sentiment": "3 stars",
+            "score": 0.3272780478000641
+          },
+          {
+            "begin_char": 3785,
+            "end_char": 3802,
+            "sentiment": "1 star",
+            "score": 0.29991909861564636
+          },
+          {
+            "begin_char": 3803,
+            "end_char": 3838,
+            "sentiment": "1 star",
+            "score": 0.29935431480407715
+          },
+          {
+            "begin_char": 3838,
+            "end_char": 3895,
+            "sentiment": "3 stars",
+            "score": 0.3050595819950104
+          },
+          {
+            "begin_char": 3896,
+            "end_char": 3923,
+            "sentiment": "1 star",
+            "score": 0.3286307752132416
+          },
+          {
+            "begin_char": 3923,
+            "end_char": 3980,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3981,
+            "end_char": 3985,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3985,
+            "end_char": 3998,
+            "sentiment": "1 star",
+            "score": 0.244241863489151
+          },
+          {
+            "begin_char": 3999,
+            "end_char": 4132,
+            "sentiment": "4 stars",
+            "score": 0.30279234051704407
+          },
+          {
+            "begin_char": 4133,
+            "end_char": 4194,
+            "sentiment": "3 stars",
+            "score": 0.3283654749393463
+          },
+          {
+            "begin_char": 4195,
+            "end_char": 4203,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 4203,
+            "end_char": 4260,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 4261,
+            "end_char": 4437,
+            "sentiment": "5 stars",
+            "score": 0.31834882497787476
+          },
+          {
+            "begin_char": 4438,
+            "end_char": 4453,
+            "sentiment": "3 stars",
+            "score": 0.29980963468551636
+          },
+          {
+            "begin_char": 4453,
+            "end_char": 4454,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 4455,
+            "end_char": 4512,
+            "sentiment": "2 stars",
+            "score": 0.32061004638671875
+          },
+          {
+            "begin_char": 4512,
+            "end_char": 4569,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 4570,
+            "end_char": 4763,
+            "sentiment": "5 stars",
+            "score": 0.4229884147644043
+          },
+          {
+            "begin_char": 4764,
+            "end_char": 4789,
+            "sentiment": "1 star",
+            "score": 0.4591124653816223
+          },
+          {
+            "begin_char": 4789,
+            "end_char": 4846,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 4847,
+            "end_char": 4851,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4851,
+            "end_char": 5004,
+            "sentiment": "5 stars",
+            "score": 0.3595350980758667
+          },
+          {
+            "begin_char": 5005,
+            "end_char": 5161,
+            "sentiment": "5 stars",
+            "score": 0.6299711465835571
+          },
+          {
+            "begin_char": 5162,
+            "end_char": 5220,
+            "sentiment": "4 stars",
+            "score": 0.3128458857536316
+          },
+          {
+            "begin_char": 5221,
+            "end_char": 5267,
+            "sentiment": "3 stars",
+            "score": 0.3604452311992645
+          },
+          {
+            "begin_char": 5268,
+            "end_char": 5287,
+            "sentiment": "1 star",
+            "score": 0.31588056683540344
+          },
+          {
+            "begin_char": 5288,
+            "end_char": 5313,
+            "sentiment": "1 star",
+            "score": 0.5544489622116089
+          },
+          {
+            "begin_char": 5313,
+            "end_char": 5369,
+            "sentiment": "4 stars",
+            "score": 0.2820071280002594
+          },
+          {
+            "begin_char": 5370,
+            "end_char": 5398,
+            "sentiment": "4 stars",
+            "score": 0.30894550681114197
+          },
+          {
+            "begin_char": 5399,
+            "end_char": 5434,
+            "sentiment": "4 stars",
+            "score": 0.35226917266845703
+          },
+          {
+            "begin_char": 5435,
+            "end_char": 5527,
+            "sentiment": "5 stars",
+            "score": 0.39819496870040894
+          },
+          {
+            "begin_char": 5528,
+            "end_char": 5572,
+            "sentiment": "3 stars",
+            "score": 0.3260832130908966
+          },
+          {
+            "begin_char": 5573,
+            "end_char": 5577,
+            "sentiment": "1 star",
+            "score": 0.25879260897636414
+          },
+          {
+            "begin_char": 5577,
+            "end_char": 5634,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 5635,
+            "end_char": 5639,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5639,
+            "end_char": 5674,
+            "sentiment": "4 stars",
+            "score": 0.40895047783851624
+          },
+          {
+            "begin_char": 5675,
+            "end_char": 5772,
+            "sentiment": "5 stars",
+            "score": 0.3340608775615692
+          },
+          {
+            "begin_char": 5773,
+            "end_char": 5985,
+            "sentiment": "5 stars",
+            "score": 0.44293174147605896
+          },
+          {
+            "begin_char": 5986,
+            "end_char": 6160,
+            "sentiment": "5 stars",
+            "score": 0.5758956074714661
+          },
+          {
+            "begin_char": 6161,
+            "end_char": 6191,
+            "sentiment": "3 stars",
+            "score": 0.29948246479034424
+          },
+          {
+            "begin_char": 6192,
+            "end_char": 6195,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-11",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-11",
+        "pageJO": "104",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

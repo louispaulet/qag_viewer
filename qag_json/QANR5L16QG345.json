@@ -1,0 +1,779 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG345",
+    "identifiant": {
+      "numero": "345",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "transports",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Situation dans les transports en commun"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793218",
+        "mandatRef": "PM796215"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION DANS LES TRANSPORTS EN COMMUN <a name=PG15></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jordan Guitton.<br><br><strong>M. Jordan Guitton. </strong>Ma question s'adresse à M. le ministre délégué chargé des transports. RER B « La galère quotidienne » ou encore « Aller et retour, nous avons cumulé plus de six heures de retard sur un trajet reliant Troyes, dans l'Aube, à Paris » : voilà le quotidien de 73 % des Français qui utilisent bus, métros et trains pour effectuer leurs déplacements quotidiens. Ces témoignages illustrent les difficultés rencontrées par tous les usagers des transports en commun : stress, fatigue, retards pour aller travailler, sans parler de l'insécurité ! Les Français sont obligés d'utiliser un service où les retards et les suppressions s'accumulent et de supporter des prix qui ne font que s'envoler, comme ceux du passe Navigo, du ticket de métro, du billet de TGV et bientôt des TER (transports express régionaux). Tout augmente ! Cette situation n'est plus tenable !<br><br>Entre les concitoyens de la France urbaine qui sont obligés d'utiliser des transports en commun dégradés pour aller travailler et les oubliés de la France rurale qui ne peuvent tout simplement plus aller travailler, la politique de transport du Gouvernement continue de s'effondrer depuis de nombreuses années. Comme dans beaucoup d'autres domaines, la France perd sa place de pionnière au profit d'une gestion de crise permanente, que même les cabinets de conseil n'arrivent pas à déjouer.<br><br>Face à cela, Emmanuel Macron fuit ses responsabilités en annonçant un grand plan de développement d'un réseau de RER dans les métropoles françaises à l'échéance de dix ans, au lieu d'engager un grand plan urbain et rural en matière de transport dès maintenant ! Les Français veulent non un président YouTube, porteur d'une vision parisienne, mais un président animé d'une vision nationale, qui facilite leur quotidien !<br><br><strong>M. Sylvain Maillard.</strong> Arrêtez d'opposer Paris et les territoires !<br><br><strong>M. Jordan Guitton. </strong>Mes questions seront donc simples : que comptez-vous faire pour redonner aux Français un service public de qualité, doté de transports en commun sécurisés et ponctuels ? Quand augmenterez-vous la fréquence des dessertes aux heures de pointe ? Entendez-vous maintenir les petites lignes rurales ? Enfin, augmenterez-vous la qualité, et non le prix, du service public des transports ? <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>C'est précisément un plan complet, national, et non uniquement centré sur l'Île-de-France ou sur tel ou tel territoire, que nous nous apprêtons à vous présenter. Il résulte d'une méthode, décrite depuis des mois : la présentation par le Conseil d'orientation des infrastructures (COI), à l'issue d'un tour de France commencé il y a déjà plusieurs mois, de toutes les infrastructures attendues dans les treize régions métropolitaines et au-delà.<br><br>Ce plan s'appuiera sur des investissements massifs en matière ferroviaire, pierre angulaire de la planification écologique qui sera déclinée par la Première ministre. Des dizaines de milliards d'euros y seront consacrées avec, vous avez raison, l'accent mis sur la régénération des transports du quotidien et des lignes : depuis cinq ans, nous avons augmenté les moyens alloués ; il faut encore les accroître pour prendre en compte certains aspects comme les postes de signalisation automatique et l'ERTMS – système européen de gestion et de trafic des trains.<br><br>Parallèlement à ce dispositif qui va des trains d'équilibre du territoire à la régénération des petites lignes, aux trains de nuit et au fret, le Président de la République a dévoilé, vendredi dernier, un des éléments socle du projet que sont les RER métropolitains, projet sur lequel nous travaillons avec la SNCF depuis plusieurs mois. Nous partons d'une idée simple : les transports représentent 30 % des émissions de gaz à effet de serre ; la voiture individuelle est à l'origine de 60 % d'entre elles, alors que le train, qui accueille 10 % des voyageurs et assure 9 % du transport de marchandises, n'en produit que 0,3 %.<br><br><strong>M. Loïc Prud'homme.</strong> C'est trois fois rien !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Augmenter cette part nécessite d'investir là où vivent les Français. Le plan que nous aurons l'occasion de présenter, et pour lequel nous réunirons les représentants des territoires en début d'année prochaine afin de leur préciser le niveau de contribution de l'État, concernera ainsi plus de 10 millions de Français qui vivent dans ces zones denses, dans lesquelles nous aurons l'occasion d'intervenir.<br><br><strong>M. Thomas Ménagé.</strong> C'est quand même toujours tout pour les métropoles !<br><br><strong>Mme la présidente. </strong>La parole est à M. Jordan Guitton.<br><br><strong>M. Jordan Guitton. </strong>Merci, monsieur le ministre, pour votre réponse de techno !<br><br><strong>M. Rémy Rebeyrotte.</strong> Oh là là !<br><br><strong>M. Jordan Guitton. </strong>Je vous invite simplement à prendre les transports en commun et à partager ainsi la galère que vivent les Français au quotidien ! <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre.<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>Merci, monsieur le député, pour votre réponse de politicien. <i>(Applaudissements sur les bancs du groupe RE. – Protestations sur plusieurs bancs du groupe RN.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 42,
+            "end_char": 52,
+            "label": "ORG",
+            "text": "TRANSPORTS"
+          },
+          {
+            "start_char": 97,
+            "end_char": 100,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 141,
+            "end_char": 150,
+            "label": "PER",
+            "text": "M. Jordan"
+          },
+          {
+            "start_char": 178,
+            "end_char": 192,
+            "label": "PER",
+            "text": "Jordan Guitton"
+          },
+          {
+            "start_char": 227,
+            "end_char": 229,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 273,
+            "end_char": 278,
+            "label": "LOC",
+            "text": "RER B"
+          },
+          {
+            "start_char": 317,
+            "end_char": 322,
+            "label": "PER",
+            "text": "Aller"
+          },
+          {
+            "start_char": 403,
+            "end_char": 409,
+            "label": "LOC",
+            "text": "Troyes"
+          },
+          {
+            "start_char": 418,
+            "end_char": 422,
+            "label": "LOC",
+            "text": "Aube"
+          },
+          {
+            "start_char": 426,
+            "end_char": 431,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 467,
+            "end_char": 475,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 743,
+            "end_char": 751,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 907,
+            "end_char": 913,
+            "label": "LOC",
+            "text": "Navigo"
+          },
+          {
+            "start_char": 948,
+            "end_char": 951,
+            "label": "MISC",
+            "text": "TGV"
+          },
+          {
+            "start_char": 967,
+            "end_char": 970,
+            "label": "ORG",
+            "text": "TER"
+          },
+          {
+            "start_char": 1088,
+            "end_char": 1097,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1208,
+            "end_char": 1217,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1308,
+            "end_char": 1320,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1413,
+            "end_char": 1422,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1574,
+            "end_char": 1589,
+            "label": "PER",
+            "text": "Emmanuel Macron"
+          },
+          {
+            "start_char": 1674,
+            "end_char": 1677,
+            "label": "LOC",
+            "text": "RER"
+          },
+          {
+            "start_char": 1827,
+            "end_char": 1835,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1861,
+            "end_char": 1868,
+            "label": "MISC",
+            "text": "YouTube"
+          },
+          {
+            "start_char": 2026,
+            "end_char": 2033,
+            "label": "LOC",
+            "text": "Arrêtez"
+          },
+          {
+            "start_char": 2044,
+            "end_char": 2049,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 2089,
+            "end_char": 2103,
+            "label": "PER",
+            "text": "Jordan Guitton"
+          },
+          {
+            "start_char": 2114,
+            "end_char": 2127,
+            "label": "MISC",
+            "text": "Mes questions"
+          },
+          {
+            "start_char": 2191,
+            "end_char": 2199,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2357,
+            "end_char": 2365,
+            "label": "LOC",
+            "text": "Entendez"
+          },
+          {
+            "start_char": 2542,
+            "end_char": 2565,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2566,
+            "end_char": 2569,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2610,
+            "end_char": 2612,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2703,
+            "end_char": 2716,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 2888,
+            "end_char": 2901,
+            "label": "LOC",
+            "text": "Île-de-France"
+          },
+          {
+            "start_char": 3049,
+            "end_char": 3056,
+            "label": "ORG",
+            "text": "Conseil"
+          },
+          {
+            "start_char": 3092,
+            "end_char": 3095,
+            "label": "LOC",
+            "text": "COI"
+          },
+          {
+            "start_char": 3118,
+            "end_char": 3127,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 3251,
+            "end_char": 3263,
+            "label": "MISC",
+            "text": "delà.<br><br"
+          },
+          {
+            "start_char": 3412,
+            "end_char": 3420,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3764,
+            "end_char": 3769,
+            "label": "ORG",
+            "text": "ERTMS"
+          },
+          {
+            "start_char": 3817,
+            "end_char": 3832,
+            "label": "MISC",
+            "text": "trains.<br><br>"
+          },
+          {
+            "start_char": 3978,
+            "end_char": 4004,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4079,
+            "end_char": 4097,
+            "label": "LOC",
+            "text": "RER métropolitains"
+          },
+          {
+            "start_char": 4142,
+            "end_char": 4146,
+            "label": "ORG",
+            "text": "SNCF"
+          },
+          {
+            "start_char": 4488,
+            "end_char": 4502,
+            "label": "PER",
+            "text": "homme.</strong"
+          },
+          {
+            "start_char": 4543,
+            "end_char": 4556,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4591,
+            "end_char": 4600,
+            "label": "LOC",
+            "text": "Augmenter"
+          },
+          {
+            "start_char": 4650,
+            "end_char": 4658,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4853,
+            "end_char": 4857,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4899,
+            "end_char": 4907,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4983,
+            "end_char": 5009,
+            "label": "LOC",
+            "text": "intervenir.<br><br><strong"
+          },
+          {
+            "start_char": 5013,
+            "end_char": 5035,
+            "label": "PER",
+            "text": "Thomas Ménagé.</strong"
+          },
+          {
+            "start_char": 5105,
+            "end_char": 5108,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5149,
+            "end_char": 5158,
+            "label": "PER",
+            "text": "M. Jordan"
+          },
+          {
+            "start_char": 5186,
+            "end_char": 5200,
+            "label": "PER",
+            "text": "Jordan Guitton"
+          },
+          {
+            "start_char": 5211,
+            "end_char": 5216,
+            "label": "LOC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 5286,
+            "end_char": 5314,
+            "label": "PER",
+            "text": "M. Rémy Rebeyrotte.</strong>"
+          },
+          {
+            "start_char": 5344,
+            "end_char": 5358,
+            "label": "PER",
+            "text": "Jordan Guitton"
+          },
+          {
+            "start_char": 5475,
+            "end_char": 5483,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5544,
+            "end_char": 5567,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5568,
+            "end_char": 5571,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5612,
+            "end_char": 5614,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 5643,
+            "end_char": 5656,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 5690,
+            "end_char": 5695,
+            "label": "LOC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 5789,
+            "end_char": 5798,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 5846,
+            "end_char": 5857,
+            "label": "ORG",
+            "text": "RN.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 115,
+            "sentiment": "3 stars",
+            "score": 0.33093419671058655
+          },
+          {
+            "begin_char": 116,
+            "end_char": 193,
+            "sentiment": "3 stars",
+            "score": 0.24142616987228394
+          },
+          {
+            "begin_char": 194,
+            "end_char": 272,
+            "sentiment": "4 stars",
+            "score": 0.3064182698726654
+          },
+          {
+            "begin_char": 273,
+            "end_char": 557,
+            "sentiment": "2 stars",
+            "score": 0.35281437635421753
+          },
+          {
+            "begin_char": 558,
+            "end_char": 738,
+            "sentiment": "4 stars",
+            "score": 0.38544127345085144
+          },
+          {
+            "begin_char": 739,
+            "end_char": 1002,
+            "sentiment": "1 star",
+            "score": 0.3327454924583435
+          },
+          {
+            "begin_char": 1003,
+            "end_char": 1018,
+            "sentiment": "5 stars",
+            "score": 0.3500475287437439
+          },
+          {
+            "begin_char": 1019,
+            "end_char": 1055,
+            "sentiment": "1 star",
+            "score": 0.5341693758964539
+          },
+          {
+            "begin_char": 1055,
+            "end_char": 1373,
+            "sentiment": "2 stars",
+            "score": 0.35237786173820496
+          },
+          {
+            "begin_char": 1374,
+            "end_char": 1822,
+            "sentiment": "2 stars",
+            "score": 0.3059118390083313
+          },
+          {
+            "begin_char": 1823,
+            "end_char": 1980,
+            "sentiment": "5 stars",
+            "score": 0.5536271929740906
+          },
+          {
+            "begin_char": 1980,
+            "end_char": 2025,
+            "sentiment": "3 stars",
+            "score": 0.315640389919281
+          },
+          {
+            "begin_char": 2026,
+            "end_char": 2070,
+            "sentiment": "5 stars",
+            "score": 0.3580303490161896
+          },
+          {
+            "begin_char": 2070,
+            "end_char": 2104,
+            "sentiment": "3 stars",
+            "score": 0.2944774925708771
+          },
+          {
+            "begin_char": 2105,
+            "end_char": 2114,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2114,
+            "end_char": 2283,
+            "sentiment": "5 stars",
+            "score": 0.5209512710571289
+          },
+          {
+            "begin_char": 2284,
+            "end_char": 2356,
+            "sentiment": "5 stars",
+            "score": 0.3833051323890686
+          },
+          {
+            "begin_char": 2357,
+            "end_char": 2409,
+            "sentiment": "2 stars",
+            "score": 0.29343050718307495
+          },
+          {
+            "begin_char": 2410,
+            "end_char": 2496,
+            "sentiment": "5 stars",
+            "score": 0.3010360598564148
+          },
+          {
+            "begin_char": 2497,
+            "end_char": 2584,
+            "sentiment": "4 stars",
+            "score": 0.3186970353126526
+          },
+          {
+            "begin_char": 2585,
+            "end_char": 2807,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 2808,
+            "end_char": 2973,
+            "sentiment": "5 stars",
+            "score": 0.34115785360336304
+          },
+          {
+            "begin_char": 2974,
+            "end_char": 3264,
+            "sentiment": "3 stars",
+            "score": 0.3004045784473419
+          },
+          {
+            "begin_char": 3264,
+            "end_char": 3430,
+            "sentiment": "4 stars",
+            "score": 0.4371406137943268
+          },
+          {
+            "begin_char": 3431,
+            "end_char": 3643,
+            "sentiment": "5 stars",
+            "score": 0.5842017531394958
+          },
+          {
+            "begin_char": 3644,
+            "end_char": 3832,
+            "sentiment": "4 stars",
+            "score": 0.41721317172050476
+          },
+          {
+            "begin_char": 3832,
+            "end_char": 3845,
+            "sentiment": "4 stars",
+            "score": 0.33508217334747314
+          },
+          {
+            "begin_char": 3846,
+            "end_char": 4033,
+            "sentiment": "5 stars",
+            "score": 0.42789050936698914
+          },
+          {
+            "begin_char": 4034,
+            "end_char": 4169,
+            "sentiment": "4 stars",
+            "score": 0.41245245933532715
+          },
+          {
+            "begin_char": 4170,
+            "end_char": 4275,
+            "sentiment": "3 stars",
+            "score": 0.2649751603603363
+          },
+          {
+            "begin_char": 4276,
+            "end_char": 4503,
+            "sentiment": "3 stars",
+            "score": 0.3747461438179016
+          },
+          {
+            "begin_char": 4504,
+            "end_char": 4527,
+            "sentiment": "1 star",
+            "score": 0.5822603702545166
+          },
+          {
+            "begin_char": 4527,
+            "end_char": 4586,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 4587,
+            "end_char": 4659,
+            "sentiment": "4 stars",
+            "score": 0.3317931890487671
+          },
+          {
+            "begin_char": 4660,
+            "end_char": 5089,
+            "sentiment": "4 stars",
+            "score": 0.3152449131011963
+          },
+          {
+            "begin_char": 5089,
+            "end_char": 5123,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 5124,
+            "end_char": 5201,
+            "sentiment": "3 stars",
+            "score": 0.24142616987228394
+          },
+          {
+            "begin_char": 5202,
+            "end_char": 5270,
+            "sentiment": "5 stars",
+            "score": 0.3676612675189972
+          },
+          {
+            "begin_char": 5270,
+            "end_char": 5314,
+            "sentiment": "3 stars",
+            "score": 0.3241443336009979
+          },
+          {
+            "begin_char": 5315,
+            "end_char": 5325,
+            "sentiment": "1 star",
+            "score": 0.3837512731552124
+          },
+          {
+            "begin_char": 5325,
+            "end_char": 5359,
+            "sentiment": "3 stars",
+            "score": 0.2944774925708771
+          },
+          {
+            "begin_char": 5360,
+            "end_char": 5498,
+            "sentiment": "5 stars",
+            "score": 0.45025619864463806
+          },
+          {
+            "begin_char": 5499,
+            "end_char": 5586,
+            "sentiment": "4 stars",
+            "score": 0.3186970353126526
+          },
+          {
+            "begin_char": 5587,
+            "end_char": 5685,
+            "sentiment": "3 stars",
+            "score": 0.28424251079559326
+          },
+          {
+            "begin_char": 5686,
+            "end_char": 5750,
+            "sentiment": "5 stars",
+            "score": 0.22193700075149536
+          },
+          {
+            "begin_char": 5751,
+            "end_char": 5858,
+            "sentiment": "3 stars",
+            "score": 0.34305673837661743
+          },
+          {
+            "begin_char": 5859,
+            "end_char": 5862,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-30",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-30",
+        "pageJO": "6145",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

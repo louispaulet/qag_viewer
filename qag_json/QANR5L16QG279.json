@@ -1,0 +1,665 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG279",
+    "identifiant": {
+      "numero": "279",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enseignement secondaire",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Enseignement des mathématiques"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720552",
+        "mandatRef": "PM797013"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Éducation nationale et jeunesse",
+      "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Éducation nationale et jeunesse",
+          "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ENSEIGNEMENT DES MATHÉMATIQUES <a name=PG5></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Isabelle Rauch.<br><br><strong>Mme Isabelle Rauch. </strong>Monsieur le ministre de l'éducation nationale et de la jeunesse, à l'heure des polémiques en tous genres, je tiens à saluer votre décision de rendre à nouveau les maths obligatoires au lycée et d'ajouter des heures d'enseignement dont nos élèves ont besoin pour progresser.<br><br><strong>Une députée du groupe LR .</strong> Il était temps !<br><br><strong>M. Vincent Descoeur.</strong> Il faut réparer ce qu'a fait Blanquer !<br><br><strong>M. Pierre Cordier.</strong> D'ailleurs, Jean-Michel Blanquer n'est pas content !<br><br><strong>Mme Isabelle Rauch. </strong>Comme le disait Jean-Marie Souriau, mathématicien français : « Les maths, ça prend le relais dans les situations où l'intelligence habituelle est en panne. Les chaussures sont un instrument pour marcher, les maths sont un instrument pour penser. On peut marcher sans chaussures, mais on va moins loin. »<br><br><strong>M. Pierre Cordier.</strong> Blanquer, c'était l'idole des jeunes !<br><br><strong>M. Vincent Descoeur.</strong> On est en marche arrière !<br><br><strong>Mme Isabelle Rauch. </strong>La France n'a pas à rougir de son niveau en maths car elle est une nation d'excellence dans ce domaine : selon le classement de Shanghai, nos établissements sont classés au dix-huitième rang dans la liste des cent premiers établissements mondiaux. Les mathématiques sont au cœur du monde moderne…<br><br><strong>M. Fabien Di Filippo.</strong> Qui les a retirées du tronc commun ?<br><br><strong>Mme Isabelle Rauch. </strong>…et sont un prérequis pour de nombreux métiers d'avenir. Elles sont nécessaires en informatique, aérospatial, nucléaire, et participent au bon fonctionnement de notre vie quotidienne. Il est inutile de rappeler à quel point les mathématiques sont importantes pour le bon fonctionnement de notre société.<br><br>Alors qu'il devient nécessaire de renforcer notre culture mathématique, nos élèves considèrent cette matière comme non attractive. De plus, ils sont encore trop nombreux à quitter le système scolaire sans détenir les acquis nécessaires dans ce domaine. Ainsi, 25 % des élèves n'ont pas le niveau attendu en maths à l'issue de la classe de troisième. Le constat est encore plus préoccupant pour les élèves qui s'orientent vers le lycée professionnel où 70 % d'entre eux ont un niveau trop faible en mathématiques.<br><br>Monsieur le ministre, comment rendre à nouveau attractive cette matière aux yeux de nos élèves pour préparer les métiers et les citoyens de demain ?<br><br>Vous connaissez mon attachement aux questions d'égalité entre les femmes et les hommes. Or nous sommes confrontés à une autre inégalité scolaire : les jeunes filles ne choisissent pas les mathématiques à l'école et s'en excluent. Elles sont 46 % à étudier encore les maths en terminale tous enseignements confondus, et 26 % à les choisir comme spécialité. Comment rompre cette disparité et rendre les mathématiques attractives pour les filles ? <i>(Applaudissements sur quelques bancs des groupes HOR, RE et Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’éducation nationale et de la jeunesse.<br><br><strong>M. Pap Ndiaye,</strong><i> ministre de l’éducation nationale et de la jeunesse. </i>Vous avez raison, le paradoxe français est le suivant : la France est une grande nation de mathématiques avec une longue tradition d'excellence – elle compte treize médaillés Fields –, mais le niveau moyen en mathématiques s'est détérioré depuis plusieurs décennies, ce qui pose des problèmes évidents à l'entrée dans les classes de sixième et de seconde, et à l'entrée des études supérieures. <br><br>Face à cela, j'ai en effet décidé de réintroduire, à la rentrée prochaine, une heure et demie de mathématiques obligatoire dans le tronc commun en classe de première pour les élèves qui ne suivent pas la spécialité.<br><br>Comme ce n'est pas suffisant, nous poursuivons par un plan mathématique général allant du primaire jusqu'à la terminale. Il passe par la meilleure formation des professeurs des écoles, par la création de groupes réduits à l'entrée en sixième à l'issue des tests d'évaluation, par la promotion des clubs de maths au collège, et par des modules de mathématiques en seconde. Tout cela s'ajoute donc à l'heure et demie de mathématiques dans le tronc commun des élèves de première.<br><br><strong>M. Vincent Descoeur.</strong> Il faut réparer ce qu'a fait Blanquer !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>Autre sujet qui me tient particulièrement à cœur : l'égalité entre filles et garçons dans le domaine des études scientifiques, particulièrement des mathématiques. Nous allons mener une politique volontariste afin d'atteindre l'objectif suivant à l'issue du quinquennat : la parité entre les filles et les garçons dans les filières mathématiques du lycée et à l'entrée dans les études supérieures. Nous allons demander aux chefs d'établissement et aux enseignants d'inciter les filles à choisir les spécialités scientifiques, notamment les mathématiques, en particulier à l'entrée en terminale et pour l'option de mathématiques expertes. Nous devons conduire une politique très déterminée en la matière. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 39,
+            "label": "MISC",
+            "text": "ENSEIGNEMENT DES"
+          },
+          {
+            "start_char": 40,
+            "end_char": 53,
+            "label": "MISC",
+            "text": "MATHÉMATIQUES"
+          },
+          {
+            "start_char": 62,
+            "end_char": 69,
+            "label": "PER",
+            "text": "PG5></a"
+          },
+          {
+            "start_char": 87,
+            "end_char": 90,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 131,
+            "end_char": 143,
+            "label": "PER",
+            "text": "Mme Isabelle"
+          },
+          {
+            "start_char": 166,
+            "end_char": 184,
+            "label": "PER",
+            "text": "Mme Isabelle Rauch"
+          },
+          {
+            "start_char": 195,
+            "end_char": 203,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 358,
+            "end_char": 363,
+            "label": "MISC",
+            "text": "maths"
+          },
+          {
+            "start_char": 506,
+            "end_char": 508,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 555,
+            "end_char": 580,
+            "label": "PER",
+            "text": "Vincent Descoeur.</strong"
+          },
+          {
+            "start_char": 611,
+            "end_char": 619,
+            "label": "PER",
+            "text": "Blanquer"
+          },
+          {
+            "start_char": 640,
+            "end_char": 663,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 677,
+            "end_char": 697,
+            "label": "PER",
+            "text": "Jean-Michel Blanquer"
+          },
+          {
+            "start_char": 733,
+            "end_char": 751,
+            "label": "PER",
+            "text": "Mme Isabelle Rauch"
+          },
+          {
+            "start_char": 970,
+            "end_char": 975,
+            "label": "MISC",
+            "text": "maths"
+          },
+          {
+            "start_char": 1084,
+            "end_char": 1117,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong> Blanquer"
+          },
+          {
+            "start_char": 1166,
+            "end_char": 1191,
+            "label": "PER",
+            "text": "Vincent Descoeur.</strong"
+          },
+          {
+            "start_char": 1235,
+            "end_char": 1253,
+            "label": "PER",
+            "text": "Mme Isabelle Rauch"
+          },
+          {
+            "start_char": 1264,
+            "end_char": 1273,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 1392,
+            "end_char": 1400,
+            "label": "LOC",
+            "text": "Shanghai"
+          },
+          {
+            "start_char": 1586,
+            "end_char": 1610,
+            "label": "PER",
+            "text": "Di Filippo.</strong> Qui"
+          },
+          {
+            "start_char": 1659,
+            "end_char": 1677,
+            "label": "PER",
+            "text": "Mme Isabelle Rauch"
+          },
+          {
+            "start_char": 2497,
+            "end_char": 2518,
+            "label": "MISC",
+            "text": "mathématiques.<br><br"
+          },
+          {
+            "start_char": 2519,
+            "end_char": 2527,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2942,
+            "end_char": 2947,
+            "label": "MISC",
+            "text": "maths"
+          },
+          {
+            "start_char": 3172,
+            "end_char": 3175,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 3177,
+            "end_char": 3179,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3208,
+            "end_char": 3211,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3252,
+            "end_char": 3254,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3270,
+            "end_char": 3272,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3326,
+            "end_char": 3332,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 3365,
+            "end_char": 3367,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3466,
+            "end_char": 3475,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3585,
+            "end_char": 3591,
+            "label": "ORG",
+            "text": "Fields"
+          },
+          {
+            "start_char": 4016,
+            "end_char": 4034,
+            "label": "MISC",
+            "text": "spécialité.<br><br"
+          },
+          {
+            "start_char": 4341,
+            "end_char": 4346,
+            "label": "MISC",
+            "text": "maths"
+          },
+          {
+            "start_char": 4530,
+            "end_char": 4555,
+            "label": "PER",
+            "text": "Vincent Descoeur.</strong"
+          },
+          {
+            "start_char": 4586,
+            "end_char": 4594,
+            "label": "PER",
+            "text": "Blanquer"
+          },
+          {
+            "start_char": 4615,
+            "end_char": 4618,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 5407,
+            "end_char": 5418,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 105,
+            "sentiment": "3 stars",
+            "score": 0.28992024064064026
+          },
+          {
+            "begin_char": 106,
+            "end_char": 185,
+            "sentiment": "3 stars",
+            "score": 0.25638532638549805
+          },
+          {
+            "begin_char": 186,
+            "end_char": 195,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 195,
+            "end_char": 484,
+            "sentiment": "5 stars",
+            "score": 0.550449550151825
+          },
+          {
+            "begin_char": 484,
+            "end_char": 519,
+            "sentiment": "3 stars",
+            "score": 0.32053545117378235
+          },
+          {
+            "begin_char": 520,
+            "end_char": 536,
+            "sentiment": "5 stars",
+            "score": 0.3912208676338196
+          },
+          {
+            "begin_char": 536,
+            "end_char": 581,
+            "sentiment": "3 stars",
+            "score": 0.30631357431411743
+          },
+          {
+            "begin_char": 582,
+            "end_char": 621,
+            "sentiment": "1 star",
+            "score": 0.36394938826560974
+          },
+          {
+            "begin_char": 621,
+            "end_char": 717,
+            "sentiment": "1 star",
+            "score": 0.32227566838264465
+          },
+          {
+            "begin_char": 717,
+            "end_char": 752,
+            "sentiment": "3 stars",
+            "score": 0.281743586063385
+          },
+          {
+            "begin_char": 753,
+            "end_char": 777,
+            "sentiment": "4 stars",
+            "score": 0.2723881006240845
+          },
+          {
+            "begin_char": 778,
+            "end_char": 788,
+            "sentiment": "4 stars",
+            "score": 0.310218870639801
+          },
+          {
+            "begin_char": 789,
+            "end_char": 797,
+            "sentiment": "5 stars",
+            "score": 0.46638303995132446
+          },
+          {
+            "begin_char": 798,
+            "end_char": 825,
+            "sentiment": "3 stars",
+            "score": 0.23728284239768982
+          },
+          {
+            "begin_char": 825,
+            "end_char": 917,
+            "sentiment": "4 stars",
+            "score": 0.3173885941505432
+          },
+          {
+            "begin_char": 918,
+            "end_char": 951,
+            "sentiment": "4 stars",
+            "score": 0.3094174265861511
+          },
+          {
+            "begin_char": 952,
+            "end_char": 964,
+            "sentiment": "4 stars",
+            "score": 0.2944018542766571
+          },
+          {
+            "begin_char": 964,
+            "end_char": 994,
+            "sentiment": "4 stars",
+            "score": 0.3076634109020233
+          },
+          {
+            "begin_char": 995,
+            "end_char": 1006,
+            "sentiment": "4 stars",
+            "score": 0.32475903630256653
+          },
+          {
+            "begin_char": 1006,
+            "end_char": 1007,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 1008,
+            "end_char": 1147,
+            "sentiment": "3 stars",
+            "score": 0.3130122125148773
+          },
+          {
+            "begin_char": 1147,
+            "end_char": 1192,
+            "sentiment": "3 stars",
+            "score": 0.30631357431411743
+          },
+          {
+            "begin_char": 1193,
+            "end_char": 1219,
+            "sentiment": "1 star",
+            "score": 0.46770644187927246
+          },
+          {
+            "begin_char": 1219,
+            "end_char": 1254,
+            "sentiment": "3 stars",
+            "score": 0.281743586063385
+          },
+          {
+            "begin_char": 1255,
+            "end_char": 1511,
+            "sentiment": "5 stars",
+            "score": 0.6354159712791443
+          },
+          {
+            "begin_char": 1512,
+            "end_char": 1585,
+            "sentiment": "5 stars",
+            "score": 0.3047538101673126
+          },
+          {
+            "begin_char": 1586,
+            "end_char": 1643,
+            "sentiment": "2 stars",
+            "score": 0.29463282227516174
+          },
+          {
+            "begin_char": 1643,
+            "end_char": 1678,
+            "sentiment": "3 stars",
+            "score": 0.281743586063385
+          },
+          {
+            "begin_char": 1679,
+            "end_char": 1744,
+            "sentiment": "5 stars",
+            "score": 0.4260251820087433
+          },
+          {
+            "begin_char": 1745,
+            "end_char": 1871,
+            "sentiment": "5 stars",
+            "score": 0.5245276689529419
+          },
+          {
+            "begin_char": 1872,
+            "end_char": 2129,
+            "sentiment": "2 stars",
+            "score": 0.4195120930671692
+          },
+          {
+            "begin_char": 2130,
+            "end_char": 2251,
+            "sentiment": "2 stars",
+            "score": 0.43285122513771057
+          },
+          {
+            "begin_char": 2252,
+            "end_char": 2348,
+            "sentiment": "2 stars",
+            "score": 0.41112175583839417
+          },
+          {
+            "begin_char": 2349,
+            "end_char": 2667,
+            "sentiment": "5 stars",
+            "score": 0.3591501712799072
+          },
+          {
+            "begin_char": 2667,
+            "end_char": 2675,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2675,
+            "end_char": 2762,
+            "sentiment": "5 stars",
+            "score": 0.4736190438270569
+          },
+          {
+            "begin_char": 2763,
+            "end_char": 2904,
+            "sentiment": "3 stars",
+            "score": 0.24965210258960724
+          },
+          {
+            "begin_char": 2905,
+            "end_char": 3030,
+            "sentiment": "5 stars",
+            "score": 0.30553266406059265
+          },
+          {
+            "begin_char": 3031,
+            "end_char": 3119,
+            "sentiment": "5 stars",
+            "score": 0.2725345194339752
+          },
+          {
+            "begin_char": 3120,
+            "end_char": 3226,
+            "sentiment": "3 stars",
+            "score": 0.30994805693626404
+          },
+          {
+            "begin_char": 3227,
+            "end_char": 3352,
+            "sentiment": "3 stars",
+            "score": 0.30180537700653076
+          },
+          {
+            "begin_char": 3353,
+            "end_char": 3405,
+            "sentiment": "4 stars",
+            "score": 0.30159011483192444
+          },
+          {
+            "begin_char": 3406,
+            "end_char": 3803,
+            "sentiment": "3 stars",
+            "score": 0.4598105549812317
+          },
+          {
+            "begin_char": 3804,
+            "end_char": 4155,
+            "sentiment": "3 stars",
+            "score": 0.31220051646232605
+          },
+          {
+            "begin_char": 4156,
+            "end_char": 4406,
+            "sentiment": "5 stars",
+            "score": 0.4580649733543396
+          },
+          {
+            "begin_char": 4407,
+            "end_char": 4556,
+            "sentiment": "3 stars",
+            "score": 0.27570921182632446
+          },
+          {
+            "begin_char": 4557,
+            "end_char": 4596,
+            "sentiment": "1 star",
+            "score": 0.36394938826560974
+          },
+          {
+            "begin_char": 4596,
+            "end_char": 4649,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 4650,
+            "end_char": 4654,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4654,
+            "end_char": 4816,
+            "sentiment": "4 stars",
+            "score": 0.40300071239471436
+          },
+          {
+            "begin_char": 4817,
+            "end_char": 5050,
+            "sentiment": "5 stars",
+            "score": 0.34329164028167725
+          },
+          {
+            "begin_char": 5051,
+            "end_char": 5290,
+            "sentiment": "5 stars",
+            "score": 0.3972811698913574
+          },
+          {
+            "begin_char": 5291,
+            "end_char": 5356,
+            "sentiment": "4 stars",
+            "score": 0.3943827450275421
+          },
+          {
+            "begin_char": 5357,
+            "end_char": 5419,
+            "sentiment": "3 stars",
+            "score": 0.3159869611263275
+          },
+          {
+            "begin_char": 5420,
+            "end_char": 5423,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-16",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-16",
+        "pageJO": "5416",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

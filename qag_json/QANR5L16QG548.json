@@ -1,0 +1,581 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG548",
+    "identifiant": {
+      "numero": "548",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "voirie",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "HAUSSE DES TARIFS AUTOROUTIERS"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719640",
+        "mandatRef": "PM796575"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> HAUSSE DES TARIFS AUTOROUTIERS <a name=PG21></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Sophie Mette.<br><br><strong>Mme Sophie Mette. </strong>Tous ceux qui, sur ces bancs, sont élus de zones rurales le savent : la voiture reste bien souvent l'unique moyen de transport quotidien des Français. Ces derniers doivent parfois emprunter l'autoroute pour aller travailler, pour se rendre chez le médecin, ou tout simplement pour effectuer les trajets du quotidien. Le Gouvernement a bien conscience de cette réalité, comme il le montre en luttant concrètement et efficacement contre l'inflation des coûts des transports, en particulier au bénéfice des foyers les moins aisés. Je ne mentionnerai à ce titre que le seul chèque carburant, qui reste encore trop peu sollicité par ceux qui peuvent y prétendre.<br><br>Dans les campagnes, le manque de mobilité est un véritable frein. Certains gestionnaires d'autoroutes le savent, et augmentent leurs prix sans vergogne, ou prétendent créer encore de nouveaux péages.<br><br><strong>M. Matthias Tavel.</strong> Racket !<br><br><strong>Mme Sophie Mette. </strong>En Gironde, pour se rendre à Bordeaux, les tarifs jusqu'au péage de Saint-Selve continuent de grimper : à compter de ce mois-ci, il faut compter 20 centimes de plus, soit 5,30 euros depuis Bazas, et 8,30 euros depuis Captieux, pour emprunter l'autoroute A65, soit une hausse de 50 centimes depuis 2018. Une nouvelle fois, la revalorisation annuelle des tarifs se fait au détriment des zones les plus isolées.<br><br>Ces hausses conséquentes sont particulièrement malvenues dans un contexte difficile pour le pouvoir d'achat. M. le ministre chargé des transports a déjà longuement négocié avec les sociétés d'autoroutes pour qu'elles fassent un geste à l'intention des abonnés. Qu'en est-il désormais ? À défaut de pouvoir leur imposer des tarifs fixes, voire des baisses de tarifs, il faut exiger de ces sociétés monopolistiques, dont les rentes ne cessent d'augmenter, qu'elles prennent toute leur part dans l'effort collectif.<br><br>À l'heure du chèque carburant ou du bonus écologique destiné à décarboner les transports, et alors que l'État multiplie les efforts pour accompagner les Français, comment comptez-vous agir pour que ces sociétés participent à l'effort général de soutien au pouvoir d'achat des Français ? <i>(Applaudissements sur les bancs du groupe Dem et sur quelques bancs des groupes RE, LFI-NUPES et GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Pierre Cordier.</strong> Et des chasses traditionnelles !<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Vous avez mentionné le chèque carburant. Je saisis l'occasion pour rappeler que plus de la moitié des Français qui y sont éligibles ne l'ont pas encore demandé. Il s'agit pourtant d'une mesure forte en faveur des gros rouleurs et des familles les plus modestes. Je rappelle donc que ce dispositif est disponible et peut être obtenu auprès des services de Bercy.<br><br>Vous m'interrogez sur la hausse des tarifs de péage intervenue le 1er février. Cette augmentation est prévue dans les contrats signés avec les sociétés d'autoroutes, en vertu de mécanismes applicables chaque année. Sans l'investissement personnel de Clément Beaune, qui a bataillé pour qu'elle ne soit que partiellement répercutée, elle aurait été plus forte qu'elle ne l'a été. Elle reste ainsi inférieure à l'inflation, même si toute hausse des prix est évidemment toujours trop élevée pour ceux qui la subissent.<br><br>L'augmentation des tarifs est modulée par deux dispositifs. Le premier prévoit une baisse de 40 %, au lieu des 30 % habituels, pour les utilisateurs réguliers des autoroutes, c'est-à-dire ceux effectuant plus de dix allers-retours par mois sur une portion donnée.<br><br><strong>Mme Clémence Guetté.</strong> Quelle ambition !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Ensuite, de façon inédite, le prix des péages diminuera pour ceux qui utilisent des véhicules électriques, ce qui contribuera d'ailleurs à la transition écologique.<br><br><strong>Mme Clémence Guetté.</strong> Avec le réchauffement climatique qui s'annonce, il serait peut-être temps de faire quelque chose !<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>Votre question porte plus largement sur la juste contribution à l'effort de la nation. À cet égard, je rappelle que nous avons, en janvier, gagné une bataille importante. La majorité avait créé, pendant le quinquennat précédent, un dispositif permettant d'indexer certains impôts sur l'inflation, notamment la taxe d'aménagement du territoire (TAT) dont s'acquittent les sociétés d'autoroutes. Cette mesure était contestée par toutes les sociétés concessionnaires. Le 13 janvier, le tribunal administratif de Paris a donné raison au Gouvernement, nous permettant d'envisager une recette qui pourrait atteindre 1 milliard d'euros pour la période récente.<br><br>Ce n'est pas tout : dans le même temps, le Gouvernement continue d'explorer les pistes à sa disposition pour assurer une meilleure prise en charge, par les sociétés d'autoroutes, du financement de la transition écologique, qui est une nécessité. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br><br><strong>M. Sylvain Maillard.</strong> Très bien !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 40,
+            "label": "MISC",
+            "text": "HAUSSE DES TARIFS"
+          },
+          {
+            "start_char": 41,
+            "end_char": 53,
+            "label": "MISC",
+            "text": "AUTOROUTIERS"
+          },
+          {
+            "start_char": 88,
+            "end_char": 91,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 132,
+            "end_char": 142,
+            "label": "PER",
+            "text": "Mme Sophie"
+          },
+          {
+            "start_char": 165,
+            "end_char": 181,
+            "label": "PER",
+            "text": "Mme Sophie Mette"
+          },
+          {
+            "start_char": 333,
+            "end_char": 341,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 512,
+            "end_char": 524,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 839,
+            "end_char": 856,
+            "label": "MISC",
+            "text": "prétendre.<br><br"
+          },
+          {
+            "start_char": 1075,
+            "end_char": 1106,
+            "label": "PER",
+            "text": "Matthias Tavel.</strong> Racket"
+          },
+          {
+            "start_char": 1124,
+            "end_char": 1140,
+            "label": "PER",
+            "text": "Mme Sophie Mette"
+          },
+          {
+            "start_char": 1154,
+            "end_char": 1161,
+            "label": "LOC",
+            "text": "Gironde"
+          },
+          {
+            "start_char": 1180,
+            "end_char": 1188,
+            "label": "LOC",
+            "text": "Bordeaux"
+          },
+          {
+            "start_char": 1219,
+            "end_char": 1230,
+            "label": "LOC",
+            "text": "Saint-Selve"
+          },
+          {
+            "start_char": 1340,
+            "end_char": 1345,
+            "label": "PER",
+            "text": "Bazas"
+          },
+          {
+            "start_char": 1368,
+            "end_char": 1376,
+            "label": "LOC",
+            "text": "Captieux"
+          },
+          {
+            "start_char": 1405,
+            "end_char": 1408,
+            "label": "LOC",
+            "text": "A65"
+          },
+          {
+            "start_char": 2192,
+            "end_char": 2196,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2240,
+            "end_char": 2248,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2419,
+            "end_char": 2422,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 2457,
+            "end_char": 2459,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 2461,
+            "end_char": 2470,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2474,
+            "end_char": 2504,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2505,
+            "end_char": 2508,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2549,
+            "end_char": 2551,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2645,
+            "end_char": 2668,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 2718,
+            "end_char": 2731,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 2929,
+            "end_char": 2937,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3446,
+            "end_char": 3460,
+            "label": "PER",
+            "text": "Clément Beaune"
+          },
+          {
+            "start_char": 3701,
+            "end_char": 3718,
+            "label": "MISC",
+            "text": "subissent.<br><br"
+          },
+          {
+            "start_char": 3998,
+            "end_char": 4010,
+            "label": "PER",
+            "text": "Mme Clémence"
+          },
+          {
+            "start_char": 4061,
+            "end_char": 4074,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4289,
+            "end_char": 4301,
+            "label": "PER",
+            "text": "Mme Clémence"
+          },
+          {
+            "start_char": 4433,
+            "end_char": 4446,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4824,
+            "end_char": 4827,
+            "label": "ORG",
+            "text": "TAT"
+          },
+          {
+            "start_char": 4989,
+            "end_char": 4994,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 5013,
+            "end_char": 5025,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 5125,
+            "end_char": 5140,
+            "label": "MISC",
+            "text": "récente.<br><br"
+          },
+          {
+            "start_char": 5184,
+            "end_char": 5196,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 5439,
+            "end_char": 5441,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5470,
+            "end_char": 5504,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong> Très"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 40,
+            "sentiment": "3 stars",
+            "score": 0.27314502000808716
+          },
+          {
+            "begin_char": 41,
+            "end_char": 106,
+            "sentiment": "3 stars",
+            "score": 0.3077169954776764
+          },
+          {
+            "begin_char": 107,
+            "end_char": 182,
+            "sentiment": "3 stars",
+            "score": 0.23783260583877563
+          },
+          {
+            "begin_char": 183,
+            "end_char": 342,
+            "sentiment": "4 stars",
+            "score": 0.29416245222091675
+          },
+          {
+            "begin_char": 343,
+            "end_char": 508,
+            "sentiment": "4 stars",
+            "score": 0.3256980776786804
+          },
+          {
+            "begin_char": 509,
+            "end_char": 719,
+            "sentiment": "5 stars",
+            "score": 0.5119787454605103
+          },
+          {
+            "begin_char": 720,
+            "end_char": 922,
+            "sentiment": "3 stars",
+            "score": 0.37963658571243286
+          },
+          {
+            "begin_char": 923,
+            "end_char": 1108,
+            "sentiment": "1 star",
+            "score": 0.424582839012146
+          },
+          {
+            "begin_char": 1108,
+            "end_char": 1141,
+            "sentiment": "3 stars",
+            "score": 0.2759350836277008
+          },
+          {
+            "begin_char": 1142,
+            "end_char": 1151,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1151,
+            "end_char": 1162,
+            "sentiment": "4 stars",
+            "score": 0.2926783859729767
+          },
+          {
+            "begin_char": 1163,
+            "end_char": 1453,
+            "sentiment": "3 stars",
+            "score": 0.31165310740470886
+          },
+          {
+            "begin_char": 1454,
+            "end_char": 1567,
+            "sentiment": "2 stars",
+            "score": 0.32186487317085266
+          },
+          {
+            "begin_char": 1567,
+            "end_char": 1675,
+            "sentiment": "3 stars",
+            "score": 0.36194556951522827
+          },
+          {
+            "begin_char": 1676,
+            "end_char": 1827,
+            "sentiment": "4 stars",
+            "score": 0.35537371039390564
+          },
+          {
+            "begin_char": 1828,
+            "end_char": 1852,
+            "sentiment": "4 stars",
+            "score": 0.2546398639678955
+          },
+          {
+            "begin_char": 1853,
+            "end_char": 2373,
+            "sentiment": "5 stars",
+            "score": 0.5139193534851074
+          },
+          {
+            "begin_char": 2374,
+            "end_char": 2523,
+            "sentiment": "4 stars",
+            "score": 0.3240979313850403
+          },
+          {
+            "begin_char": 2524,
+            "end_char": 2702,
+            "sentiment": "3 stars",
+            "score": 0.28805387020111084
+          },
+          {
+            "begin_char": 2702,
+            "end_char": 2750,
+            "sentiment": "3 stars",
+            "score": 0.32161998748779297
+          },
+          {
+            "begin_char": 2751,
+            "end_char": 2822,
+            "sentiment": "4 stars",
+            "score": 0.3617728352546692
+          },
+          {
+            "begin_char": 2823,
+            "end_char": 2867,
+            "sentiment": "3 stars",
+            "score": 0.3150821328163147
+          },
+          {
+            "begin_char": 2868,
+            "end_char": 2987,
+            "sentiment": "5 stars",
+            "score": 0.47500288486480713
+          },
+          {
+            "begin_char": 2988,
+            "end_char": 3088,
+            "sentiment": "4 stars",
+            "score": 0.33316415548324585
+          },
+          {
+            "begin_char": 3089,
+            "end_char": 3196,
+            "sentiment": "4 stars",
+            "score": 0.33894532918930054
+          },
+          {
+            "begin_char": 3196,
+            "end_char": 3274,
+            "sentiment": "1 star",
+            "score": 0.330404669046402
+          },
+          {
+            "begin_char": 3275,
+            "end_char": 3410,
+            "sentiment": "4 stars",
+            "score": 0.3748140335083008
+          },
+          {
+            "begin_char": 3411,
+            "end_char": 3574,
+            "sentiment": "2 stars",
+            "score": 0.2843518555164337
+          },
+          {
+            "begin_char": 3575,
+            "end_char": 3719,
+            "sentiment": "3 stars",
+            "score": 0.32894575595855713
+          },
+          {
+            "begin_char": 3719,
+            "end_char": 3778,
+            "sentiment": "4 stars",
+            "score": 0.3418525457382202
+          },
+          {
+            "begin_char": 3779,
+            "end_char": 4045,
+            "sentiment": "5 stars",
+            "score": 0.2797069251537323
+          },
+          {
+            "begin_char": 4045,
+            "end_char": 4104,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 4105,
+            "end_char": 4417,
+            "sentiment": "5 stars",
+            "score": 0.29614126682281494
+          },
+          {
+            "begin_char": 4417,
+            "end_char": 4475,
+            "sentiment": "3 stars",
+            "score": 0.29623985290527344
+          },
+          {
+            "begin_char": 4476,
+            "end_char": 4480,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4480,
+            "end_char": 4566,
+            "sentiment": "5 stars",
+            "score": 0.36030882596969604
+          },
+          {
+            "begin_char": 4567,
+            "end_char": 4650,
+            "sentiment": "5 stars",
+            "score": 0.4055485427379608
+          },
+          {
+            "begin_char": 4651,
+            "end_char": 4873,
+            "sentiment": "4 stars",
+            "score": 0.35946977138519287
+          },
+          {
+            "begin_char": 4874,
+            "end_char": 4944,
+            "sentiment": "5 stars",
+            "score": 0.3427974283695221
+          },
+          {
+            "begin_char": 4945,
+            "end_char": 5386,
+            "sentiment": "4 stars",
+            "score": 0.40209272503852844
+          },
+          {
+            "begin_char": 5387,
+            "end_char": 5511,
+            "sentiment": "4 stars",
+            "score": 0.4827168583869934
+          },
+          {
+            "begin_char": 5511,
+            "end_char": 5519,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-08",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-08",
+        "pageJO": "965",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

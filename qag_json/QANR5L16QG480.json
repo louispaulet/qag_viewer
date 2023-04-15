@@ -1,0 +1,845 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG480",
+    "identifiant": {
+      "numero": "480",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PRIX DE L'ÉNERGIE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720692",
+        "mandatRef": "PM796986"
+      },
+      "groupe": {
+        "organeRef": "PO800502",
+        "abrege": "GDR-NUPES",
+        "developpe": "Gauche démocrate et républicaine - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Industrie",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Industrie",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PRIX DE L'ÉNERGIE <a name=PG9></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Fabien Roussel.<br><br><strong>M. Fabien Roussel. </strong>Monsieur le ministre de l'économie, les factures de gaz et d'électricité suscitent au moins autant de colère que votre réforme des retraites. Des locataires de HLM de Saint-Amand-les-Eaux doivent payer des régularisations de charges de 400 à 500 euros et estiment que leurs salaires deviennent hybrides, comme les voitures, puisque la moitié part dans l'essence, l'autre moitié dans l'électricité. <i>(« Excellent ! » sur plusieurs bancs.)</i><br><br>Des entreprises se demandent comment elles paieront leurs factures énergétiques, en hausse de 38 000 euros pour une boulangère de Rumegies et de 30 000 euros pour un boucher à Anzin.<br><br>Des communes ou des services publics, exclus des filets de sécurité, réduisent leurs investissements. Et tous vos boucliers tarifaires se révèlent aussi insuffisants qu'ils coûtent cher à nos finances publiques.<br><br>Les Français et les entreprises ne veulent pas vivre – ou plutôt survivre – avec des aides, mais de leur travail. Nous avons tout en France, grâce à notre mix énergétique, grâce au nucléaire, pour faire face à cette crise. Quant à nos réserves de gaz, elles sont au plus haut !<br><br>Mais, depuis que la France est soumise aux funestes lois de la libre concurrence européenne, les tarifs explosent. Nous produisons de l'énergie à moins de 50 euros le mégawattheure. Pourtant, elle est revendue cinq à dix fois plus cher à cause de la spéculation européenne. Et même votre tarif garanti, plafonné à 280 euros hors taxes, est trop cher !<br><br>Monsieur le ministre, la France est une grande nation qui a su bâtir son indépendance énergétique. Par le biais d'une proposition de loi, 110 députés de tous bords vous demandent de rétablir les tarifs réglementés pour tous – entreprises, communes, foyers –, des tarifs bas, à prix coûtant, stables. <i>(Applaudissements sur les bancs du groupe GDR-NUPES. – M. Stéphane Delautrette applaudit également.)</i><br><br><strong>M. Sébastien Jumel.</strong> Eh oui !<br><br><strong>M. Fabien Roussel. </strong>Quand la France va-t-elle enfin sortir l'électricité et le gaz de la spéculation européenne ? Allez-vous maintenir les tarifs réglementés de vente de gaz au-delà du 1er juillet ? <i>(Applaudissements sur les bancs du groupe GDR-NUPES. – Mme Christine Pirès Beaune applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br><strong>M. Bruno Le Maire,</strong><i> ministre de l’économie, des finances et de la souveraineté industrielle et numérique. </i>Je vais peut-être vous surprendre mais, votre remarque sur les retraites mise à part, je suis parfaitement d'accord avec vous. Vous êtes pour l'indépendance énergétique ; nous sommes pour l'indépendance énergétique.<br><br><strong>Plusieurs députés du groupe RE .</strong> Eh oui !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Vous êtes pour le renforcement de la filière nucléaire ; nous sommes pour le renforcement de la filière nucléaire. <i>(Applaudissements sur les bancs du groupe RE et sur quelques bancs du groupe Dem.)</i><br><br><strong>M. Fabien Di Filippo.</strong> Cela a changé !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Vous défendez les entreprises, les boulangers, les bouchers ; nous défendons les entreprises, les boulangers, les bouchers, les artisans, les commerçants…<br><br><strong>M. Alexandre Sabatou.</strong> C'est faux !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>…et nous voulons les protéger contre l'augmentation des factures. C'est pourquoi nous avons prévu un bouclier tarifaire plafonné à 280 euros le mégawattheure…<br><br><strong>M. Stéphane Peu.</strong> On n'est pas d'accord !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>…pour toutes les très petites entreprises (TPE) de France <i>(Exclamations sur les bancs du groupe RN)</i>, en particulier les boulangers qui subissent la double peine – augmentation des tarifs de l'électricité et augmentation du prix des matières premières…<br><br><strong>M. Laurent Jacobelli.</strong> À cause de qui ?<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>…qu'il s'agisse du beurre ou de la farine, ingrédients essentiels du pain au chocolat – ou de la chocolatine, selon vos origines…<br><br><strong>M. Raphaël Schellenberger.</strong> Ce genre de diversion ne fonctionne plus !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Je profite de votre question pour lancer un appel solennel à toutes les très petites entreprises qui ne se sont pas déclarées comme telles auprès des fournisseurs d'énergie. Il faut qu'elles le fassent dans les jours qui viennent. Alors que 1,5 million de TPE sont éligibles au tarif garanti, seule la moitié va en bénéficier, les autres ayant choisi les tarifs de marché et ne s'étant pas déclarées comme TPE auprès de leurs fournisseurs.<br><br><strong>M. Emeric Salmon.</strong> Si vous les connaissiez !<br><br><strong>M. Stéphane Peu.</strong> Pourquoi ne pas revenir aux tarifs réglementés ?<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Parmi les très petites entreprises, boulangers, bouchers, artisans, 600 000 ont droit au bouclier tarifaire, mais, je le répète, ils doivent se déclarer comme TPE. Il faut qu'ils retirent le formulaire et aillent sur leur espace client pour réaliser cette déclaration, afin de bénéficier de la protection dès les factures de février.<br><br><strong>M. Sébastien Jumel.</strong> Ça ne marche pas !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Ils verront qu'ils ont droit à cette protection que vous réclamez légitimement pour nos très petites entreprises. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>M. Fabien Roussel.</strong> Si ça ne marche pas, je vous les envoie !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 42,
+            "label": "MISC",
+            "text": "PRIX DE L'ÉNERGIE <"
+          },
+          {
+            "start_char": 49,
+            "end_char": 56,
+            "label": "LOC",
+            "text": "PG9></a"
+          },
+          {
+            "start_char": 74,
+            "end_char": 77,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 118,
+            "end_char": 127,
+            "label": "PER",
+            "text": "M. Fabien"
+          },
+          {
+            "start_char": 152,
+            "end_char": 169,
+            "label": "PER",
+            "text": "M. Fabien Roussel"
+          },
+          {
+            "start_char": 180,
+            "end_char": 188,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 347,
+            "end_char": 367,
+            "label": "LOC",
+            "text": "Saint-Amand-les-Eaux"
+          },
+          {
+            "start_char": 761,
+            "end_char": 769,
+            "label": "PER",
+            "text": "Rumegies"
+          },
+          {
+            "start_char": 1022,
+            "end_char": 1040,
+            "label": "MISC",
+            "text": "publiques.<br><br>"
+          },
+          {
+            "start_char": 1044,
+            "end_char": 1052,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1173,
+            "end_char": 1179,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1318,
+            "end_char": 1329,
+            "label": "MISC",
+            "text": "br><br>Mais"
+          },
+          {
+            "start_char": 1342,
+            "end_char": 1351,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1677,
+            "end_char": 1684,
+            "label": "MISC",
+            "text": "br><br>"
+          },
+          {
+            "start_char": 1684,
+            "end_char": 1692,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1706,
+            "end_char": 1715,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2029,
+            "end_char": 2038,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2045,
+            "end_char": 2065,
+            "label": "PER",
+            "text": "Stéphane Delautrette"
+          },
+          {
+            "start_char": 2110,
+            "end_char": 2134,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong"
+          },
+          {
+            "start_char": 2170,
+            "end_char": 2177,
+            "label": "PER",
+            "text": "Roussel"
+          },
+          {
+            "start_char": 2282,
+            "end_char": 2287,
+            "label": "LOC",
+            "text": "Allez"
+          },
+          {
+            "start_char": 2412,
+            "end_char": 2421,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2425,
+            "end_char": 2451,
+            "label": "PER",
+            "text": "Mme Christine Pirès Beaune"
+          },
+          {
+            "start_char": 2493,
+            "end_char": 2496,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2537,
+            "end_char": 2539,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2555,
+            "end_char": 2557,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2647,
+            "end_char": 2652,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 2687,
+            "end_char": 2689,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3017,
+            "end_char": 3026,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 3065,
+            "end_char": 3070,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3261,
+            "end_char": 3270,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 3303,
+            "end_char": 3327,
+            "label": "ORG",
+            "text": "Dem.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3328,
+            "end_char": 3337,
+            "label": "PER",
+            "text": "M. Fabien"
+          },
+          {
+            "start_char": 3338,
+            "end_char": 3357,
+            "label": "PER",
+            "text": "Di Filippo.</strong"
+          },
+          {
+            "start_char": 3393,
+            "end_char": 3398,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3668,
+            "end_char": 3673,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3888,
+            "end_char": 3909,
+            "label": "PER",
+            "text": "Stéphane Peu.</strong"
+          },
+          {
+            "start_char": 3953,
+            "end_char": 3958,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4039,
+            "end_char": 4042,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 4044,
+            "end_char": 4053,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 4095,
+            "end_char": 4101,
+            "label": "ORG",
+            "text": "RN)</i"
+          },
+          {
+            "start_char": 4273,
+            "end_char": 4299,
+            "label": "PER",
+            "text": "Laurent Jacobelli.</strong"
+          },
+          {
+            "start_char": 4336,
+            "end_char": 4341,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4527,
+            "end_char": 4558,
+            "label": "PER",
+            "text": "Raphaël Schellenberger.</strong"
+          },
+          {
+            "start_char": 4621,
+            "end_char": 4626,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4920,
+            "end_char": 4923,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 5070,
+            "end_char": 5073,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 5122,
+            "end_char": 5128,
+            "label": "PER",
+            "text": "Emeric"
+          },
+          {
+            "start_char": 5190,
+            "end_char": 5211,
+            "label": "PER",
+            "text": "Stéphane Peu.</strong"
+          },
+          {
+            "start_char": 5280,
+            "end_char": 5285,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 5482,
+            "end_char": 5485,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 5675,
+            "end_char": 5700,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 5701,
+            "end_char": 5703,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 5738,
+            "end_char": 5743,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 5945,
+            "end_char": 5968,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5969,
+            "end_char": 5978,
+            "label": "PER",
+            "text": "M. Fabien"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 92,
+            "sentiment": "3 stars",
+            "score": 0.302604615688324
+          },
+          {
+            "begin_char": 93,
+            "end_char": 170,
+            "sentiment": "3 stars",
+            "score": 0.2574087679386139
+          },
+          {
+            "begin_char": 171,
+            "end_char": 180,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 180,
+            "end_char": 321,
+            "sentiment": "5 stars",
+            "score": 0.31215840578079224
+          },
+          {
+            "begin_char": 322,
+            "end_char": 577,
+            "sentiment": "2 stars",
+            "score": 0.2727273404598236
+          },
+          {
+            "begin_char": 578,
+            "end_char": 922,
+            "sentiment": "5 stars",
+            "score": 0.3352508246898651
+          },
+          {
+            "begin_char": 923,
+            "end_char": 1040,
+            "sentiment": "1 star",
+            "score": 0.5400909781455994
+          },
+          {
+            "begin_char": 1040,
+            "end_char": 1095,
+            "sentiment": "1 star",
+            "score": 0.3233984410762787
+          },
+          {
+            "begin_char": 1095,
+            "end_char": 1115,
+            "sentiment": "3 stars",
+            "score": 0.24846459925174713
+          },
+          {
+            "begin_char": 1116,
+            "end_char": 1152,
+            "sentiment": "3 stars",
+            "score": 0.36377397179603577
+          },
+          {
+            "begin_char": 1152,
+            "end_char": 1153,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 1154,
+            "end_char": 1262,
+            "sentiment": "5 stars",
+            "score": 0.5907299518585205
+          },
+          {
+            "begin_char": 1263,
+            "end_char": 1317,
+            "sentiment": "5 stars",
+            "score": 0.48251786828041077
+          },
+          {
+            "begin_char": 1317,
+            "end_char": 1439,
+            "sentiment": "4 stars",
+            "score": 0.2910453677177429
+          },
+          {
+            "begin_char": 1440,
+            "end_char": 1506,
+            "sentiment": "5 stars",
+            "score": 0.3477955758571625
+          },
+          {
+            "begin_char": 1507,
+            "end_char": 1598,
+            "sentiment": "2 stars",
+            "score": 0.3096762001514435
+          },
+          {
+            "begin_char": 1599,
+            "end_char": 1676,
+            "sentiment": "1 star",
+            "score": 0.6271888613700867
+          },
+          {
+            "begin_char": 1676,
+            "end_char": 1684,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1684,
+            "end_char": 1782,
+            "sentiment": "5 stars",
+            "score": 0.6184551119804382
+          },
+          {
+            "begin_char": 1783,
+            "end_char": 1983,
+            "sentiment": "5 stars",
+            "score": 0.6818810105323792
+          },
+          {
+            "begin_char": 1984,
+            "end_char": 2039,
+            "sentiment": "4 stars",
+            "score": 0.31600967049598694
+          },
+          {
+            "begin_char": 2040,
+            "end_char": 2045,
+            "sentiment": "3 stars",
+            "score": 0.28024494647979736
+          },
+          {
+            "begin_char": 2045,
+            "end_char": 2135,
+            "sentiment": "3 stars",
+            "score": 0.35932499170303345
+          },
+          {
+            "begin_char": 2136,
+            "end_char": 2144,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 2144,
+            "end_char": 2178,
+            "sentiment": "3 stars",
+            "score": 0.29407355189323425
+          },
+          {
+            "begin_char": 2179,
+            "end_char": 2281,
+            "sentiment": "5 stars",
+            "score": 0.3274594247341156
+          },
+          {
+            "begin_char": 2282,
+            "end_char": 2366,
+            "sentiment": "3 stars",
+            "score": 0.21221975982189178
+          },
+          {
+            "begin_char": 2367,
+            "end_char": 2511,
+            "sentiment": "4 stars",
+            "score": 0.372168630361557
+          },
+          {
+            "begin_char": 2512,
+            "end_char": 2674,
+            "sentiment": "4 stars",
+            "score": 0.3296317458152771
+          },
+          {
+            "begin_char": 2675,
+            "end_char": 2760,
+            "sentiment": "5 stars",
+            "score": 0.3489697575569153
+          },
+          {
+            "begin_char": 2761,
+            "end_char": 2765,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2765,
+            "end_char": 2891,
+            "sentiment": "4 stars",
+            "score": 0.3431524336338043
+          },
+          {
+            "begin_char": 2892,
+            "end_char": 2935,
+            "sentiment": "5 stars",
+            "score": 0.3808765113353729
+          },
+          {
+            "begin_char": 2936,
+            "end_char": 3037,
+            "sentiment": "5 stars",
+            "score": 0.38323989510536194
+          },
+          {
+            "begin_char": 3038,
+            "end_char": 3046,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 3046,
+            "end_char": 3103,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3104,
+            "end_char": 3164,
+            "sentiment": "5 stars",
+            "score": 0.37812933325767517
+          },
+          {
+            "begin_char": 3165,
+            "end_char": 3222,
+            "sentiment": "5 stars",
+            "score": 0.4792240560054779
+          },
+          {
+            "begin_char": 3223,
+            "end_char": 3337,
+            "sentiment": "3 stars",
+            "score": 0.34845301508903503
+          },
+          {
+            "begin_char": 3338,
+            "end_char": 3374,
+            "sentiment": "5 stars",
+            "score": 0.321903795003891
+          },
+          {
+            "begin_char": 3374,
+            "end_char": 3431,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3432,
+            "end_char": 3497,
+            "sentiment": "5 stars",
+            "score": 0.35377389192581177
+          },
+          {
+            "begin_char": 3498,
+            "end_char": 3636,
+            "sentiment": "5 stars",
+            "score": 0.3247874975204468
+          },
+          {
+            "begin_char": 3637,
+            "end_char": 3706,
+            "sentiment": "1 star",
+            "score": 0.5111895799636841
+          },
+          {
+            "begin_char": 3707,
+            "end_char": 3776,
+            "sentiment": "4 stars",
+            "score": 0.26135843992233276
+          },
+          {
+            "begin_char": 3777,
+            "end_char": 3910,
+            "sentiment": "2 stars",
+            "score": 0.364521324634552
+          },
+          {
+            "begin_char": 3911,
+            "end_char": 3934,
+            "sentiment": "2 stars",
+            "score": 0.28208667039871216
+          },
+          {
+            "begin_char": 3934,
+            "end_char": 3991,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3992,
+            "end_char": 4300,
+            "sentiment": "3 stars",
+            "score": 0.2627846300601959
+          },
+          {
+            "begin_char": 4301,
+            "end_char": 4317,
+            "sentiment": "1 star",
+            "score": 0.2657979130744934
+          },
+          {
+            "begin_char": 4317,
+            "end_char": 4374,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 4375,
+            "end_char": 4559,
+            "sentiment": "3 stars",
+            "score": 0.3167542517185211
+          },
+          {
+            "begin_char": 4560,
+            "end_char": 4602,
+            "sentiment": "1 star",
+            "score": 0.8581604957580566
+          },
+          {
+            "begin_char": 4602,
+            "end_char": 4659,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 4660,
+            "end_char": 4837,
+            "sentiment": "5 stars",
+            "score": 0.5445448756217957
+          },
+          {
+            "begin_char": 4838,
+            "end_char": 4894,
+            "sentiment": "5 stars",
+            "score": 0.276185005903244
+          },
+          {
+            "begin_char": 4895,
+            "end_char": 4989,
+            "sentiment": "1 star",
+            "score": 0.28417739272117615
+          },
+          {
+            "begin_char": 4989,
+            "end_char": 5145,
+            "sentiment": "3 stars",
+            "score": 0.338802307844162
+          },
+          {
+            "begin_char": 5146,
+            "end_char": 5171,
+            "sentiment": "5 stars",
+            "score": 0.3411214053630829
+          },
+          {
+            "begin_char": 5171,
+            "end_char": 5212,
+            "sentiment": "3 stars",
+            "score": 0.3307780623435974
+          },
+          {
+            "begin_char": 5213,
+            "end_char": 5261,
+            "sentiment": "5 stars",
+            "score": 0.3593222200870514
+          },
+          {
+            "begin_char": 5261,
+            "end_char": 5318,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 5319,
+            "end_char": 5486,
+            "sentiment": "3 stars",
+            "score": 0.28101712465286255
+          },
+          {
+            "begin_char": 5487,
+            "end_char": 5700,
+            "sentiment": "2 stars",
+            "score": 0.2635250389575958
+          },
+          {
+            "begin_char": 5701,
+            "end_char": 5776,
+            "sentiment": "1 star",
+            "score": 0.8278506994247437
+          },
+          {
+            "begin_char": 5777,
+            "end_char": 5894,
+            "sentiment": "5 stars",
+            "score": 0.44423747062683105
+          },
+          {
+            "begin_char": 5895,
+            "end_char": 5996,
+            "sentiment": "3 stars",
+            "score": 0.36989718675613403
+          },
+          {
+            "begin_char": 5997,
+            "end_char": 6038,
+            "sentiment": "1 star",
+            "score": 0.6991695165634155
+          },
+          {
+            "begin_char": 6038,
+            "end_char": 6046,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-25",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-25",
+        "pageJO": "661",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

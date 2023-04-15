@@ -1,0 +1,977 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG263",
+    "identifiant": {
+      "numero": "263",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "climat",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "COP27"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793980",
+        "mandatRef": "PM796635"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Écologie",
+      "developpe": "Secrétariat d’État auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de l’écologie"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Écologie",
+          "developpe": "Secrétariat d’État auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de l’écologie"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> COP27 <a name=PG17></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Charles Fournier.<br><br><strong>M. Charles Fournier. </strong>Madame la Première ministre, vous souhaitiez une question des écologistes au sujet de la COP27 : la voici. <i>(Applaudissements sur plusieurs bancs du groupe Écolo-NUPES.)</i><br><br><strong>M. Bruno Millienne.</strong> Eh bien, il n'est pas trop tard !<br><br><strong>M. Charles Fournier. </strong>Depuis dimanche, les regards sont tournés vers Charm el-Cheikh, en Égypte, où sous le haut patronage de Coca-Cola, qui produit 200 000 bouteilles en plastique par minute <i>(M. Gabriel Amard applaudit)</i>, les dirigeants de notre belle planète tentent d'en éviter la destruction. S'ils ne se résolvent pas à agir de façon concrète, à prendre des décisions radicales, aucune des précédentes COP n'aura servi à quoi que ce soit. Au début de celle-ci, le Président de la République a tenté de revêtir le costume de l'élève modèle en matière climatique ; à l'entendre, nous serions les seuls à payer et à réduire nos émissions. Pire, il faudrait chercher ailleurs, au risque de toutes les fake news, les responsables du réchauffement : c'est la faute des Indiens, des Américains, des Chinois. Nous avons désormais l'habitude de ce greenwashing en grande pompe – « l'écologie, combat du siècle », la « fin de l'abondance ». Cette semaine encore, Emmanuel Macron déclarait aux jeunes : « Je suis comme vous, je n'aime pas les énergies fossiles. »<br><br>Reste que les actes ne suivent pas les paroles : s'agissant d'énergies fossiles, il conviendrait mieux de parler de « je t'aime, moi non plus », voire de double jeu d'un président qui, tout en parlant d'en finir avec ces énergies, rouvre un terminal méthanier flottant, des centrales à charbon, et continue de soutenir des mégaprojets constituant autant de bombes climatiques. <i>(Applaudissements sur plusieurs bancs du groupe Écolo-NUPES, ainsi que sur quelques bancs du groupe LFI-NUPES. – Mme Émilie Bonnivard s'exclame.)</i> Citons seulement l'oléoduc d'Afrique de l'Est, East African Crude Oil Pipeline (Eacop), dont une entreprise française, TotalEnergies, poursuit le développement en Ouganda et en Tanzanie (Applaudissements sur plusieurs bancs du groupe Écolo-NUPES) : 34 millions de tonnes de CO2 émises chaque année, un oléoduc chauffé traversant le plus grand parc naturel d'Ouganda, des milliers de personnes subissant des pressions en vue de leur faire céder leurs terres.<br><br>Le Président peut bien répondre sur Twitter aux Français mais ici nous ne sommes pas sur Twitter. Ma question sera claire, et je veux une réponse claire : demanderez-vous à TotalEnergies de cesser d'investir dans des projets d'exploitation des énergies fossiles, lesquels sont des bombes climatiques, et de mettre un terme au projet Eacop ? <i>(Applaudissements sur les bancs du groupe Écolo-NUPES, ainsi que sur plusieurs bancs des groupes LFI-NUPES et SOC.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État chargée de l’écologie.<br><br><strong>Mme Bérangère Couillard,</strong><i> secrétaire d'État chargée de l’écologie. </i>Monsieur le député, vous avez raison sur un point :…<br><br><strong>Un député du groupe LFI-NUPES .</strong> Sur tout !<br><br><strong>Mme Bérangère Couillard,</strong><i> secrétaire d'État. </i>…il est plus que temps d'agir pour le climat, mais aussi pour la nature, la préservation de la biodiversité. Or, dans ces domaines, jamais une majorité présidentielle n'avait été aussi loin, n'avait fait autant ! <i>(Exclamations sur plusieurs bancs des groupes Écolo-NUPES et LFI-NUPES.)</i> Depuis cinq ans, nous suivons un cap clair et ambitieux, au niveau national comme au niveau international. Ainsi que l'a rappelé le Président de la République à Charm el-Cheikh, la bataille pour le climat et la bataille pour la biodiversité sont l'avers et le revers d'une même médaille. L'objectif de neutralité carbone en 2050 constitue notre boussole : il guide nos politiques publiques en vue de décarboner l'économie, de favoriser les énergies renouvelables, de lutter contre les énergies fossiles. <br><br><strong>M. Olivier Faure.</strong> Et le projet Eacop ?<br><br><strong>Mme Bérangère Couillard,</strong><i> secrétaire d'État. </i>Le Président de la République rencontre d'ailleurs actuellement, en présence de Christophe Béchu, les cinquante sites et filières les plus émetteurs de CO2 afin qu'ils prennent des engagements pour la décarbonation de notre économie. C'est une nouvelle étape dans le renforcement de notre ambition. <i>(M. Jimmy Pahun applaudit.)</i><br><br>La France s'engage également à l'international pour préserver l'environnement et la biodiversité. Nous défendrons, lors de la COP15 consacrée à la biodiversité, un objectif fort au niveau mondial : celui de protéger 30 % des terres et des mers de la planète en 2030. C'est ce que nous faisons en France, avec la stratégie nationale pour les aires protégées – que nous souhaitons voir étendues. <i>(Exclamations prolongées sur plusieurs bancs du groupe Écolo-NUPES.)</i><br><br><strong>M. Olivier Faure.</strong> Et sur le projet Eacop ?<br><br><strong>Mme Delphine Batho.</strong> Et la question ?<br><br><strong>Mme Bérangère Couillard,</strong><i> secrétaire d'État . </i>Pour les océans en particulier, le Président de la République a porté un message très fort, soutenant l'interdiction de toute exploitation des grands fonds marins ; il l'a répété hier.<br><br><strong>Mme Julie Laernoes.</strong> Et Total ?<br><br><strong>Mme Bérangère Couillard,</strong><i> secrétaire d'État. </i>Enfin, une politique efficace est une politique juste. C'est pourquoi la France s'est engagée à y consacrer 2 milliards d'euros par an de 2021 à 2025, soit le tiers de ses financements internationaux en faveur du climat. À elle seule, la France contribue à hauteur de 10 % environ du financement international consacré à l'adaptation au changement climatique. Ce sont ces engagements nationaux et internationaux que nous défendons à la COP27. (Applaudissements sur quelques bancs du groupe RE. – Les exclamations se poursuivent sur les bancs du groupe Écolo-NUPES.)<br><br><strong>Mme Marie-Christine Dalloz.</strong> Sans les notes, ça donne quoi ?<br><br><strong>Mme la présidente. </strong>La parole est à M. Charles Fournier.<br><br><strong>M. Charles Fournier. </strong>En deux secondes : aux actes !<i> (Applaudissements sur les bancs du groupe Écolo-NUPES et sur plusieurs bancs du groupe LFI-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 28,
+            "label": "MISC",
+            "text": "COP27"
+          },
+          {
+            "start_char": 63,
+            "end_char": 66,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 107,
+            "end_char": 109,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 110,
+            "end_char": 142,
+            "label": "PER",
+            "text": "Charles Fournier.<br><br><strong"
+          },
+          {
+            "start_char": 146,
+            "end_char": 162,
+            "label": "PER",
+            "text": "Charles Fournier"
+          },
+          {
+            "start_char": 173,
+            "end_char": 191,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 262,
+            "end_char": 267,
+            "label": "MISC",
+            "text": "COP27"
+          },
+          {
+            "start_char": 331,
+            "end_char": 363,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 367,
+            "end_char": 391,
+            "label": "PER",
+            "text": "Bruno Millienne.</strong"
+          },
+          {
+            "start_char": 445,
+            "end_char": 461,
+            "label": "PER",
+            "text": "Charles Fournier"
+          },
+          {
+            "start_char": 519,
+            "end_char": 534,
+            "label": "LOC",
+            "text": "Charm el-Cheikh"
+          },
+          {
+            "start_char": 539,
+            "end_char": 545,
+            "label": "LOC",
+            "text": "Égypte"
+          },
+          {
+            "start_char": 576,
+            "end_char": 585,
+            "label": "LOC",
+            "text": "Coca-Cola"
+          },
+          {
+            "start_char": 649,
+            "end_char": 662,
+            "label": "PER",
+            "text": "Gabriel Amard"
+          },
+          {
+            "start_char": 863,
+            "end_char": 866,
+            "label": "MISC",
+            "text": "COP"
+          },
+          {
+            "start_char": 925,
+            "end_char": 951,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1224,
+            "end_char": 1231,
+            "label": "LOC",
+            "text": "Indiens"
+          },
+          {
+            "start_char": 1237,
+            "end_char": 1247,
+            "label": "LOC",
+            "text": "Américains"
+          },
+          {
+            "start_char": 1253,
+            "end_char": 1260,
+            "label": "LOC",
+            "text": "Chinois"
+          },
+          {
+            "start_char": 1414,
+            "end_char": 1429,
+            "label": "PER",
+            "text": "Emmanuel Macron"
+          },
+          {
+            "start_char": 1949,
+            "end_char": 1960,
+            "label": "ORG",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2001,
+            "end_char": 2010,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2014,
+            "end_char": 2034,
+            "label": "PER",
+            "text": "Mme Émilie Bonnivard"
+          },
+          {
+            "start_char": 2080,
+            "end_char": 2096,
+            "label": "LOC",
+            "text": "Afrique de l'Est"
+          },
+          {
+            "start_char": 2098,
+            "end_char": 2110,
+            "label": "ORG",
+            "text": "East African"
+          },
+          {
+            "start_char": 2131,
+            "end_char": 2136,
+            "label": "LOC",
+            "text": "Eacop"
+          },
+          {
+            "start_char": 2170,
+            "end_char": 2183,
+            "label": "ORG",
+            "text": "TotalEnergies"
+          },
+          {
+            "start_char": 2214,
+            "end_char": 2221,
+            "label": "LOC",
+            "text": "Ouganda"
+          },
+          {
+            "start_char": 2228,
+            "end_char": 2236,
+            "label": "LOC",
+            "text": "Tanzanie"
+          },
+          {
+            "start_char": 2238,
+            "end_char": 2254,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 2285,
+            "end_char": 2296,
+            "label": "ORG",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2409,
+            "end_char": 2416,
+            "label": "LOC",
+            "text": "Ouganda"
+          },
+          {
+            "start_char": 2501,
+            "end_char": 2515,
+            "label": "MISC",
+            "text": "terres.<br><br"
+          },
+          {
+            "start_char": 2552,
+            "end_char": 2559,
+            "label": "MISC",
+            "text": "Twitter"
+          },
+          {
+            "start_char": 2564,
+            "end_char": 2572,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2605,
+            "end_char": 2612,
+            "label": "MISC",
+            "text": "Twitter"
+          },
+          {
+            "start_char": 2689,
+            "end_char": 2702,
+            "label": "ORG",
+            "text": "TotalEnergies"
+          },
+          {
+            "start_char": 2849,
+            "end_char": 2854,
+            "label": "MISC",
+            "text": "Eacop"
+          },
+          {
+            "start_char": 2902,
+            "end_char": 2913,
+            "label": "ORG",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2957,
+            "end_char": 2966,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2970,
+            "end_char": 2994,
+            "label": "MISC",
+            "text": "SOC.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2995,
+            "end_char": 2998,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3039,
+            "end_char": 3042,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3059,
+            "end_char": 3063,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3075,
+            "end_char": 3077,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3102,
+            "end_char": 3115,
+            "label": "PER",
+            "text": "Mme Bérangère"
+          },
+          {
+            "start_char": 3152,
+            "end_char": 3156,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3168,
+            "end_char": 3178,
+            "label": "ORG",
+            "text": "l’écologie"
+          },
+          {
+            "start_char": 3184,
+            "end_char": 3192,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 3272,
+            "end_char": 3281,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3319,
+            "end_char": 3332,
+            "label": "PER",
+            "text": "Mme Bérangère"
+          },
+          {
+            "start_char": 3369,
+            "end_char": 3373,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3641,
+            "end_char": 3652,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 3656,
+            "end_char": 3671,
+            "label": "MISC",
+            "text": "LFI-NUPES.)</i>"
+          },
+          {
+            "start_char": 3804,
+            "end_char": 3830,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4232,
+            "end_char": 4237,
+            "label": "MISC",
+            "text": "Eacop"
+          },
+          {
+            "start_char": 4255,
+            "end_char": 4268,
+            "label": "PER",
+            "text": "Mme Bérangère"
+          },
+          {
+            "start_char": 4305,
+            "end_char": 4309,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4318,
+            "end_char": 4344,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4395,
+            "end_char": 4411,
+            "label": "PER",
+            "text": "Christophe Béchu"
+          },
+          {
+            "start_char": 4621,
+            "end_char": 4632,
+            "label": "PER",
+            "text": "Jimmy Pahun"
+          },
+          {
+            "start_char": 4656,
+            "end_char": 4665,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 4782,
+            "end_char": 4787,
+            "label": "MISC",
+            "text": "COP15"
+          },
+          {
+            "start_char": 4952,
+            "end_char": 4958,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 5108,
+            "end_char": 5140,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5185,
+            "end_char": 5190,
+            "label": "MISC",
+            "text": "Eacop"
+          },
+          {
+            "start_char": 5208,
+            "end_char": 5235,
+            "label": "PER",
+            "text": "Mme Delphine Batho.</strong"
+          },
+          {
+            "start_char": 5269,
+            "end_char": 5282,
+            "label": "PER",
+            "text": "Mme Bérangère"
+          },
+          {
+            "start_char": 5319,
+            "end_char": 5323,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5365,
+            "end_char": 5391,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 5530,
+            "end_char": 5557,
+            "label": "PER",
+            "text": "Mme Julie Laernoes.</strong"
+          },
+          {
+            "start_char": 5585,
+            "end_char": 5598,
+            "label": "PER",
+            "text": "Mme Bérangère"
+          },
+          {
+            "start_char": 5635,
+            "end_char": 5639,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5715,
+            "end_char": 5724,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 5880,
+            "end_char": 5889,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 6081,
+            "end_char": 6086,
+            "label": "MISC",
+            "text": "COP27"
+          },
+          {
+            "start_char": 6089,
+            "end_char": 6105,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 6128,
+            "end_char": 6137,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 6197,
+            "end_char": 6225,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)<br><br><strong"
+          },
+          {
+            "start_char": 6226,
+            "end_char": 6261,
+            "label": "PER",
+            "text": "Mme Marie-Christine Dalloz.</strong"
+          },
+          {
+            "start_char": 6310,
+            "end_char": 6313,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 6354,
+            "end_char": 6356,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 6357,
+            "end_char": 6389,
+            "label": "PER",
+            "text": "Charles Fournier.<br><br><strong"
+          },
+          {
+            "start_char": 6393,
+            "end_char": 6409,
+            "label": "PER",
+            "text": "Charles Fournier"
+          },
+          {
+            "start_char": 6455,
+            "end_char": 6471,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 6496,
+            "end_char": 6507,
+            "label": "ORG",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 6541,
+            "end_char": 6559,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 81,
+            "sentiment": "3 stars",
+            "score": 0.32311558723449707
+          },
+          {
+            "begin_char": 82,
+            "end_char": 163,
+            "sentiment": "3 stars",
+            "score": 0.2531266212463379
+          },
+          {
+            "begin_char": 164,
+            "end_char": 173,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 173,
+            "end_char": 279,
+            "sentiment": "3 stars",
+            "score": 0.24333146214485168
+          },
+          {
+            "begin_char": 280,
+            "end_char": 392,
+            "sentiment": "3 stars",
+            "score": 0.34976303577423096
+          },
+          {
+            "begin_char": 393,
+            "end_char": 426,
+            "sentiment": "5 stars",
+            "score": 0.3383054733276367
+          },
+          {
+            "begin_char": 426,
+            "end_char": 462,
+            "sentiment": "3 stars",
+            "score": 0.28595033288002014
+          },
+          {
+            "begin_char": 463,
+            "end_char": 472,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 472,
+            "end_char": 752,
+            "sentiment": "5 stars",
+            "score": 0.5255539417266846
+          },
+          {
+            "begin_char": 753,
+            "end_char": 899,
+            "sentiment": "2 stars",
+            "score": 0.2625482678413391
+          },
+          {
+            "begin_char": 900,
+            "end_char": 1023,
+            "sentiment": "1 star",
+            "score": 0.3338111639022827
+          },
+          {
+            "begin_char": 1024,
+            "end_char": 1096,
+            "sentiment": "5 stars",
+            "score": 0.29803428053855896
+          },
+          {
+            "begin_char": 1097,
+            "end_char": 1261,
+            "sentiment": "1 star",
+            "score": 0.5964120030403137
+          },
+          {
+            "begin_char": 1262,
+            "end_char": 1391,
+            "sentiment": "5 stars",
+            "score": 0.45967474579811096
+          },
+          {
+            "begin_char": 1392,
+            "end_char": 1897,
+            "sentiment": "1 star",
+            "score": 0.32423633337020874
+          },
+          {
+            "begin_char": 1898,
+            "end_char": 2050,
+            "sentiment": "3 stars",
+            "score": 0.31739506125450134
+          },
+          {
+            "begin_char": 2051,
+            "end_char": 2110,
+            "sentiment": "3 stars",
+            "score": 0.28445327281951904
+          },
+          {
+            "begin_char": 2111,
+            "end_char": 2120,
+            "sentiment": "1 star",
+            "score": 0.2901768684387207
+          },
+          {
+            "begin_char": 2121,
+            "end_char": 2131,
+            "sentiment": "3 stars",
+            "score": 0.25648248195648193
+          },
+          {
+            "begin_char": 2131,
+            "end_char": 2613,
+            "sentiment": "5 stars",
+            "score": 0.27380216121673584
+          },
+          {
+            "begin_char": 2614,
+            "end_char": 2856,
+            "sentiment": "5 stars",
+            "score": 0.3436252176761627
+          },
+          {
+            "begin_char": 2857,
+            "end_char": 3013,
+            "sentiment": "4 stars",
+            "score": 0.3446318805217743
+          },
+          {
+            "begin_char": 3014,
+            "end_char": 3138,
+            "sentiment": "3 stars",
+            "score": 0.3019806742668152
+          },
+          {
+            "begin_char": 3139,
+            "end_char": 3179,
+            "sentiment": "4 stars",
+            "score": 0.34350618720054626
+          },
+          {
+            "begin_char": 3180,
+            "end_char": 3184,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3184,
+            "end_char": 3252,
+            "sentiment": "3 stars",
+            "score": 0.3039899468421936
+          },
+          {
+            "begin_char": 3252,
+            "end_char": 3303,
+            "sentiment": "1 star",
+            "score": 0.5024018287658691
+          },
+          {
+            "begin_char": 3303,
+            "end_char": 3374,
+            "sentiment": "3 stars",
+            "score": 0.3210887312889099
+          },
+          {
+            "begin_char": 3375,
+            "end_char": 3487,
+            "sentiment": "5 stars",
+            "score": 0.5472247004508972
+          },
+          {
+            "begin_char": 3488,
+            "end_char": 3591,
+            "sentiment": "5 stars",
+            "score": 0.31446176767349243
+          },
+          {
+            "begin_char": 3592,
+            "end_char": 3671,
+            "sentiment": "4 stars",
+            "score": 0.3075013756752014
+          },
+          {
+            "begin_char": 3672,
+            "end_char": 3778,
+            "sentiment": "5 stars",
+            "score": 0.6443253755569458
+          },
+          {
+            "begin_char": 3779,
+            "end_char": 3959,
+            "sentiment": "4 stars",
+            "score": 0.3691471517086029
+          },
+          {
+            "begin_char": 3960,
+            "end_char": 4175,
+            "sentiment": "5 stars",
+            "score": 0.5617877840995789
+          },
+          {
+            "begin_char": 4176,
+            "end_char": 4239,
+            "sentiment": "3 stars",
+            "score": 0.29752588272094727
+          },
+          {
+            "begin_char": 4239,
+            "end_char": 4310,
+            "sentiment": "3 stars",
+            "score": 0.3210887312889099
+          },
+          {
+            "begin_char": 4311,
+            "end_char": 4548,
+            "sentiment": "5 stars",
+            "score": 0.41914916038513184
+          },
+          {
+            "begin_char": 4549,
+            "end_char": 4613,
+            "sentiment": "5 stars",
+            "score": 0.6113491058349609
+          },
+          {
+            "begin_char": 4614,
+            "end_char": 4753,
+            "sentiment": "4 stars",
+            "score": 0.38133934140205383
+          },
+          {
+            "begin_char": 4754,
+            "end_char": 4922,
+            "sentiment": "5 stars",
+            "score": 0.6033139824867249
+          },
+          {
+            "begin_char": 4923,
+            "end_char": 5049,
+            "sentiment": "5 stars",
+            "score": 0.5118166208267212
+          },
+          {
+            "begin_char": 5050,
+            "end_char": 5192,
+            "sentiment": "3 stars",
+            "score": 0.32698705792427063
+          },
+          {
+            "begin_char": 5192,
+            "end_char": 5236,
+            "sentiment": "3 stars",
+            "score": 0.29919683933258057
+          },
+          {
+            "begin_char": 5237,
+            "end_char": 5253,
+            "sentiment": "3 stars",
+            "score": 0.25109174847602844
+          },
+          {
+            "begin_char": 5253,
+            "end_char": 5325,
+            "sentiment": "3 stars",
+            "score": 0.332613080739975
+          },
+          {
+            "begin_char": 5326,
+            "end_char": 5494,
+            "sentiment": "5 stars",
+            "score": 0.6584979891777039
+          },
+          {
+            "begin_char": 5495,
+            "end_char": 5569,
+            "sentiment": "1 star",
+            "score": 0.30475929379463196
+          },
+          {
+            "begin_char": 5569,
+            "end_char": 5640,
+            "sentiment": "3 stars",
+            "score": 0.3210887312889099
+          },
+          {
+            "begin_char": 5641,
+            "end_char": 5699,
+            "sentiment": "4 stars",
+            "score": 0.353164941072464
+          },
+          {
+            "begin_char": 5700,
+            "end_char": 5865,
+            "sentiment": "5 stars",
+            "score": 0.3885439932346344
+          },
+          {
+            "begin_char": 5866,
+            "end_char": 6004,
+            "sentiment": "5 stars",
+            "score": 0.35124126076698303
+          },
+          {
+            "begin_char": 6005,
+            "end_char": 6087,
+            "sentiment": "5 stars",
+            "score": 0.574215292930603
+          },
+          {
+            "begin_char": 6088,
+            "end_char": 6089,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 6089,
+            "end_char": 6138,
+            "sentiment": "4 stars",
+            "score": 0.32657939195632935
+          },
+          {
+            "begin_char": 6139,
+            "end_char": 6262,
+            "sentiment": "3 stars",
+            "score": 0.29823875427246094
+          },
+          {
+            "begin_char": 6263,
+            "end_char": 6294,
+            "sentiment": "2 stars",
+            "score": 0.41810962557792664
+          },
+          {
+            "begin_char": 6294,
+            "end_char": 6328,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 6329,
+            "end_char": 6410,
+            "sentiment": "3 stars",
+            "score": 0.2531266212463379
+          },
+          {
+            "begin_char": 6411,
+            "end_char": 6420,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 6420,
+            "end_char": 6450,
+            "sentiment": "5 stars",
+            "score": 0.6378800272941589
+          },
+          {
+            "begin_char": 6450,
+            "end_char": 6564,
+            "sentiment": "4 stars",
+            "score": 0.32123804092407227
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-09",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-09",
+        "pageJO": "5244",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

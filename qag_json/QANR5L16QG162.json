@@ -1,0 +1,701 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG162",
+    "identifiant": {
+      "numero": "162",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "logement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "HÉBERGEMENT D'URGENCE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795692",
+        "mandatRef": "PM797628"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> HÉBERGEMENT D'URGENCE <a name=PG25></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. William Martinet.<br><br><strong>M. William Martinet. </strong>Je vais vous parler de la misère, celle qui submerge notre pays et dont l'une des expressions les plus insoutenables est le « sans-abrisme » des enfants.<br><br>Chaque soir, 2 000 enfants sans-abri sont signalés au 115 sans qu'aucune solution d'hébergement d'urgence ne leur soit proposée. Ces enfants passeront la nuit dehors. Je pèse mes mots mais je demande à la représentation nationale de prendre la mesure du caractère inédit et grave de la situation. Aujourd'hui, en France, dans le territoire de la République, des enfants âgés parfois de 2 ou 3 ans dorment à même le trottoir de nos villes, voilà la réalité !<br><br>Monsieur le ministre délégué chargé du logement, je sais que cette situation est pour vous « inacceptable ». C'est d'ailleurs le mot que vous avez utilisé il y a deux semaines, lors d'un déplacement à Lyon. Vous avez été interpellé par le collectif citoyen Jamais sans toit, dont je tiens à saluer l'action. Il vous a alerté sur la situation de plus de 100 enfants sans abri dans la métropole lyonnaise. Vous lui avez répondu, en direct à la télévision, et vous vous êtes engagé à mettre à l'abri ces enfants dans les quarante-huit heures.<br><br>J'ai donc plusieurs questions très précises à vous poser. La première : nous sommes plus de quarante-huit heures après votre déclaration, où en est la mise à l'abri de ces enfants ?<br><br>Deuxième question : les enfants sans-abri de Paris, de Bordeaux, de Rennes ou d'ailleurs doivent-ils attendre que le ministre délégué se déplace dans leur ville ? Doivent-ils attendre que leur détresse soit médiatisée pour que vous leur proposiez une mise à l'abri ? <i>(Applaudissements sur les bancs des groupes LFI-NUPES, Écolo-NUPES et GDR-NUPES et sur quelques bancs du groupe SOC.)</i><br><br>Troisième et dernière question : vous défendez un projet de loi de finances qui prévoit la suppression de 7 000 places d’hébergement d'urgence. Étant donné la saturation du 115, nous savons que cette mesure augmentera mécaniquement le nombre de personnes sans-abri.<br><br><strong>M. Louis Boyard.</strong> C'est honteux !<br><br><strong>M. William Martinet. </strong>On ne peut déplorer les effets dont on chérit les causes <i>(Applaudissements sur les bancs du groupe LFI-NUPES et sur quelques bancs des groupes SOC et Écolo-NUPES), </i>on ne peut déplorer le « sans-abrisme » des enfants et réaliser des économies budgétaires en supprimant des places d'hébergement d'urgence. Renoncerez-vous à ces économies indignes ? (Applaudissements sur les bancs des groupes LFI-NUPES, Écolo-NUPES et sur quelques bancs des groupes SOC et GDR-NUPES.)<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Olivier Klein n'étant pas là cet après-midi,…<br><br><strong>Un député du groupe LFI-NUPES .</strong> Il est où ?<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>… je veux vous assurer qu'au-delà des situations que vous décrivez, la question plus large de l'hébergement, afin que chacun ait un toit dans notre pays, est bien une priorité du Gouvernement et du ministère de la transition écologique et de la cohésion des territoires.<br><br>Le budget qui vous sera présenté dans quelques jours consacre plus de 2 milliards d'euros à la mission <i>Immigration, asile et intégration</i>, soit une augmentation de 113 millions d'euros, notamment alloués à la création de places. Entre la situation que vous décrivez et les chiffres que je donne, il faut comprendre que notre volonté, c'est de diminuer les logements hôteliers dont nous connaissons les limites pour augmenter, dans le cadre du plan Logement d’abord, le nombre de places durables qui soient plus dignes. Nous proposons de créer 5 900 places en centres d'accueil pour demandeurs d'asile – Cada–, en centres d'accueil et d'examen des situations – CAES –, en centres provisoires d'hébergement – CPH – et en outre-mer, en hébergements d'urgence pour demandeurs d'asile – Huda.<br><br>Ce sont 1 000 places de plus pour les femmes victimes de violences et leurs enfants. D'ici la fin de cette année, 10 000 places d'hébergement seront créées, auxquelles nous ajouterons 1 000 places supplémentaires au titre de l'année 2023. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br><br><strong>Mme Mathilde Panot.</strong> Le compte n'y est pas ! 2 000 enfants à la rue !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>C'était un engagement du Gouvernement, il est tenu.<br><br>Le nombre de places d'hébergement qui a été atteint ces derniers mois, en particulier à la suite de la crise sanitaire, est historique. Rapporté à sa population, notre pays est celui qui concentre le plus de places de logements d'urgence dans toute l'Europe.<br><br><strong>Mme Sophia Chikirou.</strong> On pose une question précise !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Ce matin, Olivier Klein et la délégation interministérielle à l'hébergement et à l'accès au logement – Dihal – ont reçu l'ensemble des associations d'hébergement d'urgence. Un observatoire hebdomadaire des situations préoccupantes, piloté par la Dihal, fera un point toutes les semaines. Des solutions concrètes ont déjà été trouvées pour les familles sur la situation desquelles Olivier Klein a été interpellé. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>Mme Ségolène Amiot.</strong> Trois questions, zéro réponse !<br> <p>",
+        "entities": [
+          {
+            "start_char": 53,
+            "end_char": 61,
+            "label": "PER",
+            "text": "PG25></a"
+          },
+          {
+            "start_char": 79,
+            "end_char": 82,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 123,
+            "end_char": 133,
+            "label": "PER",
+            "text": "M. William"
+          },
+          {
+            "start_char": 162,
+            "end_char": 178,
+            "label": "PER",
+            "text": "William Martinet"
+          },
+          {
+            "start_char": 334,
+            "end_char": 349,
+            "label": "MISC",
+            "text": "enfants.<br><br"
+          },
+          {
+            "start_char": 663,
+            "end_char": 669,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 696,
+            "end_char": 706,
+            "label": "LOC",
+            "text": "République"
+          },
+          {
+            "start_char": 808,
+            "end_char": 815,
+            "label": "MISC",
+            "text": "br><br>"
+          },
+          {
+            "start_char": 815,
+            "end_char": 823,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1016,
+            "end_char": 1020,
+            "label": "LOC",
+            "text": "Lyon"
+          },
+          {
+            "start_char": 1072,
+            "end_char": 1078,
+            "label": "LOC",
+            "text": "Jamais"
+          },
+          {
+            "start_char": 1347,
+            "end_char": 1361,
+            "label": "MISC",
+            "text": "heures.<br><br"
+          },
+          {
+            "start_char": 1596,
+            "end_char": 1601,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 1606,
+            "end_char": 1614,
+            "label": "LOC",
+            "text": "Bordeaux"
+          },
+          {
+            "start_char": 1619,
+            "end_char": 1625,
+            "label": "LOC",
+            "text": "Rennes"
+          },
+          {
+            "start_char": 1865,
+            "end_char": 1874,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1876,
+            "end_char": 1887,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 1891,
+            "end_char": 1900,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 1933,
+            "end_char": 1959,
+            "label": "ORG",
+            "text": "SOC.)</i><br><br>Troisième"
+          },
+          {
+            "start_char": 2234,
+            "end_char": 2255,
+            "label": "PER",
+            "text": "Louis Boyard.</strong"
+          },
+          {
+            "start_char": 2291,
+            "end_char": 2307,
+            "label": "PER",
+            "text": "William Martinet"
+          },
+          {
+            "start_char": 2376,
+            "end_char": 2395,
+            "label": "MISC",
+            "text": "i>(Applaudissements"
+          },
+          {
+            "start_char": 2420,
+            "end_char": 2429,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2464,
+            "end_char": 2467,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2471,
+            "end_char": 2482,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2629,
+            "end_char": 2639,
+            "label": "PER",
+            "text": "Renoncerez"
+          },
+          {
+            "start_char": 2673,
+            "end_char": 2689,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 2716,
+            "end_char": 2725,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2727,
+            "end_char": 2738,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2773,
+            "end_char": 2776,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2780,
+            "end_char": 2806,
+            "label": "MISC",
+            "text": "GDR-NUPES.)<br><br><strong"
+          },
+          {
+            "start_char": 2807,
+            "end_char": 2810,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2851,
+            "end_char": 2853,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2944,
+            "end_char": 2957,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3053,
+            "end_char": 3066,
+            "label": "PER",
+            "text": "Olivier Klein"
+          },
+          {
+            "start_char": 3134,
+            "end_char": 3143,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3182,
+            "end_char": 3195,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3409,
+            "end_char": 3421,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3488,
+            "end_char": 3508,
+            "label": "MISC",
+            "text": "territoires.<br><br>"
+          },
+          {
+            "start_char": 3962,
+            "end_char": 3978,
+            "label": "MISC",
+            "text": "Logement d’abord"
+          },
+          {
+            "start_char": 4117,
+            "end_char": 4122,
+            "label": "LOC",
+            "text": "Cada–"
+          },
+          {
+            "start_char": 4174,
+            "end_char": 4178,
+            "label": "MISC",
+            "text": "CAES"
+          },
+          {
+            "start_char": 4221,
+            "end_char": 4224,
+            "label": "ORG",
+            "text": "CPH"
+          },
+          {
+            "start_char": 4600,
+            "end_char": 4602,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4631,
+            "end_char": 4658,
+            "label": "PER",
+            "text": "Mme Mathilde Panot.</strong"
+          },
+          {
+            "start_char": 4724,
+            "end_char": 4737,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4797,
+            "end_char": 4809,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4818,
+            "end_char": 4830,
+            "label": "MISC",
+            "text": "tenu.<br><br"
+          },
+          {
+            "start_char": 5105,
+            "end_char": 5134,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong>"
+          },
+          {
+            "start_char": 5181,
+            "end_char": 5194,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 5239,
+            "end_char": 5252,
+            "label": "PER",
+            "text": "Olivier Klein"
+          },
+          {
+            "start_char": 5332,
+            "end_char": 5337,
+            "label": "LOC",
+            "text": "Dihal"
+          },
+          {
+            "start_char": 5475,
+            "end_char": 5480,
+            "label": "LOC",
+            "text": "Dihal"
+          },
+          {
+            "start_char": 5609,
+            "end_char": 5622,
+            "label": "PER",
+            "text": "Olivier Klein"
+          },
+          {
+            "start_char": 5691,
+            "end_char": 5714,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5715,
+            "end_char": 5743,
+            "label": "PER",
+            "text": "Mme Ségolène Amiot.</strong>"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 97,
+            "sentiment": "5 stars",
+            "score": 0.30102959275245667
+          },
+          {
+            "begin_char": 98,
+            "end_char": 179,
+            "sentiment": "3 stars",
+            "score": 0.24664689600467682
+          },
+          {
+            "begin_char": 180,
+            "end_char": 189,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 189,
+            "end_char": 478,
+            "sentiment": "5 stars",
+            "score": 0.37460118532180786
+          },
+          {
+            "begin_char": 479,
+            "end_char": 516,
+            "sentiment": "3 stars",
+            "score": 0.23202256858348846
+          },
+          {
+            "begin_char": 517,
+            "end_char": 646,
+            "sentiment": "5 stars",
+            "score": 0.5272691249847412
+          },
+          {
+            "begin_char": 647,
+            "end_char": 807,
+            "sentiment": "5 stars",
+            "score": 0.44612789154052734
+          },
+          {
+            "begin_char": 807,
+            "end_char": 815,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 815,
+            "end_char": 923,
+            "sentiment": "1 star",
+            "score": 0.5034297704696655
+          },
+          {
+            "begin_char": 924,
+            "end_char": 1021,
+            "sentiment": "5 stars",
+            "score": 0.2138107866048813
+          },
+          {
+            "begin_char": 1022,
+            "end_char": 1122,
+            "sentiment": "5 stars",
+            "score": 0.4827366769313812
+          },
+          {
+            "begin_char": 1123,
+            "end_char": 1218,
+            "sentiment": "5 stars",
+            "score": 0.34909164905548096
+          },
+          {
+            "begin_char": 1219,
+            "end_char": 1419,
+            "sentiment": "5 stars",
+            "score": 0.3257855176925659
+          },
+          {
+            "begin_char": 1420,
+            "end_char": 1713,
+            "sentiment": "1 star",
+            "score": 0.46644532680511475
+          },
+          {
+            "begin_char": 1714,
+            "end_char": 1817,
+            "sentiment": "1 star",
+            "score": 0.4928491413593292
+          },
+          {
+            "begin_char": 1818,
+            "end_char": 2093,
+            "sentiment": "4 stars",
+            "score": 0.31111469864845276
+          },
+          {
+            "begin_char": 2094,
+            "end_char": 2272,
+            "sentiment": "1 star",
+            "score": 0.5895342826843262
+          },
+          {
+            "begin_char": 2272,
+            "end_char": 2308,
+            "sentiment": "3 stars",
+            "score": 0.28561264276504517
+          },
+          {
+            "begin_char": 2309,
+            "end_char": 2318,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2318,
+            "end_char": 2628,
+            "sentiment": "5 stars",
+            "score": 0.4780193269252777
+          },
+          {
+            "begin_char": 2629,
+            "end_char": 2671,
+            "sentiment": "1 star",
+            "score": 0.49619850516319275
+          },
+          {
+            "begin_char": 2672,
+            "end_char": 2673,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 2673,
+            "end_char": 2825,
+            "sentiment": "4 stars",
+            "score": 0.3566901981830597
+          },
+          {
+            "begin_char": 2826,
+            "end_char": 3048,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 3049,
+            "end_char": 3166,
+            "sentiment": "1 star",
+            "score": 0.3090677261352539
+          },
+          {
+            "begin_char": 3166,
+            "end_char": 3225,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 3226,
+            "end_char": 3230,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3230,
+            "end_char": 3508,
+            "sentiment": "5 stars",
+            "score": 0.553197979927063
+          },
+          {
+            "begin_char": 3508,
+            "end_char": 3742,
+            "sentiment": "4 stars",
+            "score": 0.3424190878868103
+          },
+          {
+            "begin_char": 3743,
+            "end_char": 4032,
+            "sentiment": "5 stars",
+            "score": 0.4610249102115631
+          },
+          {
+            "begin_char": 4033,
+            "end_char": 4393,
+            "sentiment": "5 stars",
+            "score": 0.4788966178894043
+          },
+          {
+            "begin_char": 4394,
+            "end_char": 4547,
+            "sentiment": "5 stars",
+            "score": 0.3738161623477936
+          },
+          {
+            "begin_char": 4548,
+            "end_char": 4659,
+            "sentiment": "3 stars",
+            "score": 0.3719537556171417
+          },
+          {
+            "begin_char": 4660,
+            "end_char": 4767,
+            "sentiment": "1 star",
+            "score": 0.5964030623435974
+          },
+          {
+            "begin_char": 4768,
+            "end_char": 4831,
+            "sentiment": "4 stars",
+            "score": 0.3117697536945343
+          },
+          {
+            "begin_char": 4831,
+            "end_char": 4966,
+            "sentiment": "4 stars",
+            "score": 0.37935778498649597
+          },
+          {
+            "begin_char": 4967,
+            "end_char": 5134,
+            "sentiment": "5 stars",
+            "score": 0.4198882579803467
+          },
+          {
+            "begin_char": 5135,
+            "end_char": 5165,
+            "sentiment": "3 stars",
+            "score": 0.2752933204174042
+          },
+          {
+            "begin_char": 5165,
+            "end_char": 5224,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 5225,
+            "end_char": 5401,
+            "sentiment": "5 stars",
+            "score": 0.36830875277519226
+          },
+          {
+            "begin_char": 5402,
+            "end_char": 5516,
+            "sentiment": "4 stars",
+            "score": 0.4713606834411621
+          },
+          {
+            "begin_char": 5517,
+            "end_char": 5640,
+            "sentiment": "4 stars",
+            "score": 0.38972291350364685
+          },
+          {
+            "begin_char": 5641,
+            "end_char": 5743,
+            "sentiment": "3 stars",
+            "score": 0.350244402885437
+          },
+          {
+            "begin_char": 5744,
+            "end_char": 5775,
+            "sentiment": "1 star",
+            "score": 0.7725926637649536
+          },
+          {
+            "begin_char": 5775,
+            "end_char": 5783,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-12",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-12",
+        "pageJO": "3873",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

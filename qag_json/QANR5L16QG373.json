@@ -1,0 +1,593 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG373",
+    "identifiant": {
+      "numero": "373",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "déploiement des éoliennes terrestres"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA605069",
+        "mandatRef": "PM796179"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition énergétique",
+      "developpe": "Ministère de la transition énergétique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition énergétique",
+          "developpe": "Ministère de la transition énergétique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> DÉPLOIEMENT DES ÉOLIENNES TERRESTRES <a name=PG15></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Louis Bricout.<br><br><strong>M. Jean-Louis Bricout. </strong>J'associe à ma question mon homonyme Guy Bricout ainsi que mon collègue Benjamin Saint-Huile.<br><br>La France est bonne dernière, en Europe, en matière de déploiement des énergies renouvelables. Pourtant – et c'est là tout le paradoxe –, certains territoires sont déjà trop abîmés par l'éolien. Bien sûr, nous devons produire plus d'énergie décarbonée pour répondre à la demande croissante en usages électriques, et chacun sait que le nucléaire ne permettra pas d'y parvenir immédiatement, mais nous ne pourrons pas accroître la production d'énergie verte sans garantir son acceptation. Chez nous, dans les Hauts-de-France et plus particulièrement chez moi, dans la Thiérache et le Vermandois, une éolienne de plus, c'est souvent une éolienne de trop. Or vous ne pourrez pas faire la transition sans y associer les territoires et sans respecter leurs élus, leurs populations, leurs projets et leurs paysages.<br><br>Le dispositif de planification que vous proposez dans votre projet de loi relatif à l'accélération de la production d'énergies renouvelables reste incomplet. Certes, les élus pourront définir des zones d'accélération, tout comme ils peuvent, depuis la loi relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale - dite loi 3DS -, définir des zones d'exclusion. Qu'en sera-t-il, néanmoins, des petites communes qui ne disposent ni d'un plan local d’urbanisme (PLU) ni d'un plan local d’urbanisme intercommunal (PLUI) sur lequel adosser ces zonages ? Comment s'assurer d'une répartition harmonieuse de l'éolien sur le territoire ? <i>(Applaudissements sur les bancs du groupe LIOT.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre de la transition énergétique.<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre de la transition énergétique. </i>Merci pour votre question, qui me permet d'évoquer le système de planification énergétique que nous coconstruisons dans le cadre de l'examen du projet de loi relatif à l'accélération de la production d'énergies renouvelables. Je salue votre engagement en faveur du développement de ces énergies, car, si vous êtes bien placé pour connaître le phénomène de saturation que connaissent en effet certaines zones des Hauts-de-France, vous êtes aussi à la manœuvre pour faire en sorte que nous continuions de déployer toutes les énergies renouvelables, qu'il s'agisse des éoliennes marines, du biométhane, de la géothermie ou du photovoltaïque – car c'est bien de toutes ces énergies que nous voulons accélérer le développement.<br><br>La planification repose sur un principe très simple : c'est aux maires qu'il revient de définir les zones dans lesquelles ils veulent accélérer le déploiement des projets et celles où ils souhaitent limiter l'implantation des infrastructures de production d'énergies renouvelables. Grâce à la planification, nous leur redonnerons les moyens de définir ces zones et de décider en dernier ressort, puisqu'ils rendront un avis conforme sur le zonage.<br><br><strong>M. Jean-Pierre Taite.</strong> Ça ne suffit pas !<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre . </i>Par ailleurs, comme vous le savez, lorsque nous fixons les objectifs de développement des énergies renouvelables, nous tenons compte des efforts déjà fournis – c'est-à-dire de la puissance installée et de la production des parcs déjà implantés sur un territoire – ainsi que de l'impact paysager des projets. Nous avons d'ailleurs adopté hier le principe de la prise en considération de cet impact dans le schéma de cohérence territoriale (Scot).<br><br>Vous soulevez la question des communes dépourvues de documents d'urbanisme. Elles pourront, dans le cadre du schéma qui sera défini à l'échelle de chaque département, mettre en avant les zones d'accélération qui seront proposées en priorité aux porteurs de projet bénéficiant de soutiens de l'État, ce qui leur permettra de se protéger d'un développement anarchique. <i>(M. Jean-Pierre Taite s'exclame.)</i><br><br><strong>M. Pierre Cordier.</strong> Et les oiseaux qui meurent en se prenant dans les éoliennes ?<br><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Louis Bricout.<br><br><strong>M. Jean-Louis Bricout. </strong>Tout cela est bien gentil, mais votre réponse me paraît incomplète. Le groupe LIOT a proposé des solutions de régulation.<br><br><strong>M. Benjamin Saint-Huile.</strong> C'est vrai.<br><br><strong>M. Jean-Louis Bricout. </strong>Il a demandé la définition d'un taux d'effort dont pourraient se prévaloir les territoires ayant déjà rempli leur part des objectifs ou la création de malus applicables aux appels d'offres dans les zones saturées. D'autres ont proposé de s'appuyer sur un indice de saturation visuelle. Beaucoup de pistes restent donc à explorer.<br><br>Sur ces points comme sur la situation particulière des zones non interconnectées, le vote des élus de notre groupe dépendra de votre volonté d'accepter nos propositions. <i>(Applaudissements sur les bancs du groupe LIOT.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 48,
+            "label": "MISC",
+            "text": "DÉPLOIEMENT DES ÉOLIENNES"
+          },
+          {
+            "start_char": 49,
+            "end_char": 59,
+            "label": "MISC",
+            "text": "TERRESTRES"
+          },
+          {
+            "start_char": 94,
+            "end_char": 97,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 138,
+            "end_char": 140,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 141,
+            "end_char": 178,
+            "label": "PER",
+            "text": "Jean-Louis Bricout.<br><br><strong>M."
+          },
+          {
+            "start_char": 179,
+            "end_char": 197,
+            "label": "PER",
+            "text": "Jean-Louis Bricout"
+          },
+          {
+            "start_char": 245,
+            "end_char": 256,
+            "label": "PER",
+            "text": "Guy Bricout"
+          },
+          {
+            "start_char": 280,
+            "end_char": 309,
+            "label": "PER",
+            "text": "Benjamin Saint-Huile.<br><br>"
+          },
+          {
+            "start_char": 309,
+            "end_char": 318,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 342,
+            "end_char": 348,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 816,
+            "end_char": 831,
+            "label": "LOC",
+            "text": "Hauts-de-France"
+          },
+          {
+            "start_char": 875,
+            "end_char": 884,
+            "label": "LOC",
+            "text": "Thiérache"
+          },
+          {
+            "start_char": 891,
+            "end_char": 901,
+            "label": "LOC",
+            "text": "Vermandois"
+          },
+          {
+            "start_char": 1673,
+            "end_char": 1676,
+            "label": "ORG",
+            "text": "PLU"
+          },
+          {
+            "start_char": 1724,
+            "end_char": 1728,
+            "label": "ORG",
+            "text": "PLUI"
+          },
+          {
+            "start_char": 1888,
+            "end_char": 1913,
+            "label": "ORG",
+            "text": "LIOT.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1914,
+            "end_char": 1917,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1958,
+            "end_char": 1961,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2019,
+            "end_char": 2036,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 2102,
+            "end_char": 2107,
+            "label": "LOC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 2514,
+            "end_char": 2529,
+            "label": "LOC",
+            "text": "Hauts-de-France"
+          },
+          {
+            "start_char": 2690,
+            "end_char": 2700,
+            "label": "LOC",
+            "text": "biométhane"
+          },
+          {
+            "start_char": 2810,
+            "end_char": 2831,
+            "label": "MISC",
+            "text": "développement.<br><br"
+          },
+          {
+            "start_char": 3298,
+            "end_char": 3324,
+            "label": "PER",
+            "text": "Jean-Pierre Taite.</strong"
+          },
+          {
+            "start_char": 3326,
+            "end_char": 3328,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 3360,
+            "end_char": 3377,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 3400,
+            "end_char": 3408,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3854,
+            "end_char": 3881,
+            "label": "MISC",
+            "text": "Scot).<br><br>Vous soulevez"
+          },
+          {
+            "start_char": 4161,
+            "end_char": 4165,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4294,
+            "end_char": 4317,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 4396,
+            "end_char": 4399,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4440,
+            "end_char": 4442,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 4443,
+            "end_char": 4480,
+            "label": "PER",
+            "text": "Jean-Louis Bricout.<br><br><strong>M."
+          },
+          {
+            "start_char": 4481,
+            "end_char": 4499,
+            "label": "PER",
+            "text": "Jean-Louis Bricout"
+          },
+          {
+            "start_char": 4588,
+            "end_char": 4592,
+            "label": "ORG",
+            "text": "LIOT"
+          },
+          {
+            "start_char": 4620,
+            "end_char": 4646,
+            "label": "PER",
+            "text": "régulation.<br><br><strong"
+          },
+          {
+            "start_char": 4650,
+            "end_char": 4679,
+            "label": "PER",
+            "text": "Benjamin Saint-Huile.</strong"
+          },
+          {
+            "start_char": 4711,
+            "end_char": 4729,
+            "label": "PER",
+            "text": "Jean-Louis Bricout"
+          },
+          {
+            "start_char": 5060,
+            "end_char": 5076,
+            "label": "MISC",
+            "text": "explorer.<br><br"
+          },
+          {
+            "start_char": 5292,
+            "end_char": 5305,
+            "label": "LOC",
+            "text": "LIOT.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 48,
+            "sentiment": "1 star",
+            "score": 0.39061203598976135
+          },
+          {
+            "begin_char": 49,
+            "end_char": 59,
+            "sentiment": "4 stars",
+            "score": 0.3015364706516266
+          },
+          {
+            "begin_char": 60,
+            "end_char": 112,
+            "sentiment": "3 stars",
+            "score": 0.304695725440979
+          },
+          {
+            "begin_char": 113,
+            "end_char": 198,
+            "sentiment": "3 stars",
+            "score": 0.26949363946914673
+          },
+          {
+            "begin_char": 199,
+            "end_char": 403,
+            "sentiment": "4 stars",
+            "score": 0.3831532597541809
+          },
+          {
+            "begin_char": 404,
+            "end_char": 503,
+            "sentiment": "3 stars",
+            "score": 0.3203273117542267
+          },
+          {
+            "begin_char": 504,
+            "end_char": 795,
+            "sentiment": "5 stars",
+            "score": 0.5961746573448181
+          },
+          {
+            "begin_char": 796,
+            "end_char": 960,
+            "sentiment": "2 stars",
+            "score": 0.43761497735977173
+          },
+          {
+            "begin_char": 961,
+            "end_char": 1125,
+            "sentiment": "5 stars",
+            "score": 0.420918732881546
+          },
+          {
+            "begin_char": 1125,
+            "end_char": 1282,
+            "sentiment": "2 stars",
+            "score": 0.41909360885620117
+          },
+          {
+            "begin_char": 1283,
+            "end_char": 1525,
+            "sentiment": "4 stars",
+            "score": 0.4269346296787262
+          },
+          {
+            "begin_char": 1526,
+            "end_char": 1532,
+            "sentiment": "4 stars",
+            "score": 0.2409195899963379
+          },
+          {
+            "begin_char": 1533,
+            "end_char": 1540,
+            "sentiment": "3 stars",
+            "score": 0.2710825502872467
+          },
+          {
+            "begin_char": 1541,
+            "end_char": 1542,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 1542,
+            "end_char": 1574,
+            "sentiment": "4 stars",
+            "score": 0.33534958958625793
+          },
+          {
+            "begin_char": 1575,
+            "end_char": 1762,
+            "sentiment": "3 stars",
+            "score": 0.3408231735229492
+          },
+          {
+            "begin_char": 1763,
+            "end_char": 1842,
+            "sentiment": "4 stars",
+            "score": 0.4135913550853729
+          },
+          {
+            "begin_char": 1843,
+            "end_char": 1932,
+            "sentiment": "4 stars",
+            "score": 0.3018896281719208
+          },
+          {
+            "begin_char": 1933,
+            "end_char": 2058,
+            "sentiment": "3 stars",
+            "score": 0.28279468417167664
+          },
+          {
+            "begin_char": 2059,
+            "end_char": 2097,
+            "sentiment": "4 stars",
+            "score": 0.3457353115081787
+          },
+          {
+            "begin_char": 2098,
+            "end_char": 2102,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2102,
+            "end_char": 2327,
+            "sentiment": "4 stars",
+            "score": 0.45658376812934875
+          },
+          {
+            "begin_char": 2328,
+            "end_char": 3113,
+            "sentiment": "5 stars",
+            "score": 0.6242225766181946
+          },
+          {
+            "begin_char": 3114,
+            "end_char": 3325,
+            "sentiment": "4 stars",
+            "score": 0.40400880575180054
+          },
+          {
+            "begin_char": 3326,
+            "end_char": 3344,
+            "sentiment": "1 star",
+            "score": 0.46338948607444763
+          },
+          {
+            "begin_char": 3344,
+            "end_char": 3410,
+            "sentiment": "3 stars",
+            "score": 0.31557586789131165
+          },
+          {
+            "begin_char": 3411,
+            "end_char": 3415,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3415,
+            "end_char": 3722,
+            "sentiment": "5 stars",
+            "score": 0.429519385099411
+          },
+          {
+            "begin_char": 3723,
+            "end_char": 3943,
+            "sentiment": "4 stars",
+            "score": 0.33018890023231506
+          },
+          {
+            "begin_char": 3944,
+            "end_char": 4234,
+            "sentiment": "4 stars",
+            "score": 0.44169583916664124
+          },
+          {
+            "begin_char": 4235,
+            "end_char": 4253,
+            "sentiment": "3 stars",
+            "score": 0.3171035051345825
+          },
+          {
+            "begin_char": 4254,
+            "end_char": 4259,
+            "sentiment": "1 star",
+            "score": 0.22472968697547913
+          },
+          {
+            "begin_char": 4260,
+            "end_char": 4318,
+            "sentiment": "3 stars",
+            "score": 0.35851070284843445
+          },
+          {
+            "begin_char": 4319,
+            "end_char": 4380,
+            "sentiment": "1 star",
+            "score": 0.3403518497943878
+          },
+          {
+            "begin_char": 4380,
+            "end_char": 4414,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 4415,
+            "end_char": 4500,
+            "sentiment": "3 stars",
+            "score": 0.26949363946914673
+          },
+          {
+            "begin_char": 4501,
+            "end_char": 4510,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 4510,
+            "end_char": 4577,
+            "sentiment": "3 stars",
+            "score": 0.3600707948207855
+          },
+          {
+            "begin_char": 4578,
+            "end_char": 4680,
+            "sentiment": "4 stars",
+            "score": 0.2760126292705536
+          },
+          {
+            "begin_char": 4681,
+            "end_char": 4730,
+            "sentiment": "3 stars",
+            "score": 0.28241288661956787
+          },
+          {
+            "begin_char": 4731,
+            "end_char": 4953,
+            "sentiment": "3 stars",
+            "score": 0.3181839883327484
+          },
+          {
+            "begin_char": 4954,
+            "end_char": 5025,
+            "sentiment": "2 stars",
+            "score": 0.3448198437690735
+          },
+          {
+            "begin_char": 5026,
+            "end_char": 5246,
+            "sentiment": "4 stars",
+            "score": 0.4207727611064911
+          },
+          {
+            "begin_char": 5247,
+            "end_char": 5310,
+            "sentiment": "3 stars",
+            "score": 0.30293819308280945
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-07",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-07",
+        "pageJO": "6567",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

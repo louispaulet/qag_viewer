@@ -1,0 +1,911 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG355",
+    "identifiant": {
+      "numero": "355",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "professions de santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Réintégration des personnels soignants non vaccinés"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA267429",
+        "mandatRef": "PM796722"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Organisation territoriale et professions de santé",
+      "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Organisation territoriale et professions de santé",
+          "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉINTÉGRATION DES PERSONNELS SOIGNANTS NON VACCINÉS <a name=PG25></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Dino Cinieri.<br><br><strong>M. Dino Cinieri. </strong>Madame la Première ministre, jeudi dernier, dans cet hémicycle, votre majorité minoritaire a bloqué le débat sur la réintégration des soignants non vaccinés contre le covid-19. Ce débat était pourtant important et attendu par des dizaines de milliers de nos compatriotes : soignants et pompiers, ainsi que les membres de leurs familles, patients…<br><br>Ce débat est d’autant plus légitime que la France est l’un des tout derniers pays d'Europe à n’avoir toujours pas réintégré les soignants non vaccinés. Même la Grèce va les réintégrer avant le 1er janvier 2023 !<br><br><strong>M. Maxime Minot.</strong> Il est urgent d'attendre !<br><br><strong>M. Dino Cinieri. </strong>La suspension de nos personnels de santé devait être temporaire. Pourtant, vous vous y opposez toujours, alors que nous vous avons soumis un protocole de protection renforcée. Près de 3 000 infirmiers et aides-soignants, des centaines de médecins, pharmaciens, orthophonistes et kinés sont suspendus depuis plus d'un an, sans salaire ni indemnités chômage.<br><br>Pendant ce temps-là, les hôpitaux font face à un manque criant de soignants, au point que des enfants se retrouvent sans suivi ! Les établissements médico-sociaux font également face à des difficultés majeures du fait d'un manque d'effectifs. Cela accentue la quantité de travail des soignants présents et affaiblit la qualité de la prise en charge et des soins prodigués.<br><br>Les députés Les Républicains n'acceptent pas la mise au ban d'une partie de nos soignants au moment où nous avons le plus besoin d'eux. C'est pourquoi nous vous demandons de réintégrer sans délai ces soignants, que nous avons applaudis durant des mois à vingt heures ! <i>(Applaudissements sur les bancs du groupe LR et sur plusieurs bancs du groupe RN ainsi que sur quelques bancs des groupes LFI-NUPES et SOC.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée chargée de l’organisation territoriale et des professions de santé.<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée chargée de l’organisation territoriale et des professions de santé. </i>Je tiens d'abord à rappeler le caractère essentiel de la vaccination : c'est grâce à elle que nous avons pu retrouver une vie normale et mieux protéger les plus fragiles d'entre nous. <i>(Applaudissements sur les bancs du groupe HOR, RE et Dem.)</i><br><br><strong>M. Maxime Minot.</strong> On n'est pas antivax !<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée. </i>Je rappelle que les campagnes hivernales de vaccination contre la grippe et le covid ont débuté, et j'invite les plus fragiles de nos concitoyens et ceux qui les entourent à se faire vacciner contre ces deux maladies. J'espère, mesdames, messieurs les députés, que vous relaierez ce message dans vos circonscriptions.<br><br><strong>M. Maxime Minot.</strong> Répondez à la question !<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée. </i>La vaccination protège en effet contre les formes graves de ces deux virus.<br><br><strong>M. Pierre Cordier.</strong> Nous sommes d'accord !<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée. </i>Je rappelle que le principe de l'obligation vaccinale a été adopté par le Parlement dans le cadre de la loi du 5 août 2021, relative à la gestion de la crise sanitaire ; il a ensuite été validé par le Conseil constitutionnel. Je rappelle également que nos professionnels de santé sont, pour la très grande majorité d'entre eux, les premiers à se dire totalement opposés à la perspective d'un retour de ceux de leurs collègues qui n'ont pas joué le jeu de la vaccination,…<br><br><strong>M. Francis Dubois.</strong> Ce n'est pas vrai !<br><br><strong>Mme Sophia Chikirou.</strong> C'est faux. Vous dites n'importe quoi !<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée. </i>…et ce, alors qu'ils sont les premières victimes du manque de personnels dans nos établissements de santé. Il y va d'un principe éthique essentiel et d'un devoir vis-à-vis des personnes les plus vulnérables.<br><br>Le Gouvernement est bien sûr particulièrement attentif à la situation, notamment dans les outre-mer. Néanmoins, plus encore sur les territoires insulaires qu'ailleurs, la vaccination des professionnels de santé protège le système de santé et garantit un accès aux soins pour tous.<br><br><strong>Mme Sophia Chikirou.</strong> Complètement à l'ouest !<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée. </i>Nous n'irons pas à l'encontre des autorités scientifiques. Nous avons saisi, la semaine dernière, conformément à notre engagement, la Haute Autorité de santé sur la révision de l'ensemble des recommandations vaccinales des professionnels exerçant dans le secteur sanitaire et médico-social. Elle se prononcera donc sur la réactualisation des recommandations vaccinales pour les professionnels de santé, en prenant en compte l'obligation vaccinale contre le covid.<br><br>Enfin, vous avez fait allusion au protocole inclus dans la proposition de loi de Mme Fiat. Or, je vous le rappelle, votre groupe a jugé, par la voix de Mme Corneloup, ce protocole inopérant. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Dino Cinieri.<br><br><strong>M. Dino Cinieri. </strong>Nous vous demandons de respecter tous ceux, vaccinés ou non, qui, dès mars 2020, ont soigné tous les patients…<br><br><strong>Mme Agnès Firmin Le Bodo, ministre déléguée.</strong> C'est ce que nous faisons !<br><br><strong>M. Dino Cinieri. </strong>…alors que le Gouvernement les privait de masques et de blouses. Ils et elles méritent la reconnaissance de la nation ! <i>(Applaudissements sur les bancs du groupe LR, sur plusieurs bancs du groupe RN ainsi que sur les bancs du groupe LFI-NUPES et sur quelques bancs du groupe SOC.)</i><br><br><strong>Mme Christine Arrighi.</strong> Très bien !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 51,
+            "label": "MISC",
+            "text": "RÉINTÉGRATION DES PERSONNELS"
+          },
+          {
+            "start_char": 66,
+            "end_char": 74,
+            "label": "MISC",
+            "text": "VACCINÉS"
+          },
+          {
+            "start_char": 83,
+            "end_char": 91,
+            "label": "PER",
+            "text": "PG25></a"
+          },
+          {
+            "start_char": 109,
+            "end_char": 112,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 153,
+            "end_char": 155,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 156,
+            "end_char": 160,
+            "label": "PER",
+            "text": "Dino"
+          },
+          {
+            "start_char": 188,
+            "end_char": 200,
+            "label": "PER",
+            "text": "Dino Cinieri"
+          },
+          {
+            "start_char": 211,
+            "end_char": 229,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 605,
+            "end_char": 614,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 619,
+            "end_char": 621,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 649,
+            "end_char": 655,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 658,
+            "end_char": 660,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 725,
+            "end_char": 730,
+            "label": "LOC",
+            "text": "Grèce"
+          },
+          {
+            "start_char": 795,
+            "end_char": 816,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 863,
+            "end_char": 875,
+            "label": "PER",
+            "text": "Dino Cinieri"
+          },
+          {
+            "start_char": 1234,
+            "end_char": 1249,
+            "label": "MISC",
+            "text": "chômage.<br><br"
+          },
+          {
+            "start_char": 1612,
+            "end_char": 1629,
+            "label": "MISC",
+            "text": "prodigués.<br><br"
+          },
+          {
+            "start_char": 1642,
+            "end_char": 1658,
+            "label": "MISC",
+            "text": "Les Républicains"
+          },
+          {
+            "start_char": 1944,
+            "end_char": 1946,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 1980,
+            "end_char": 1982,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 2024,
+            "end_char": 2033,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2037,
+            "end_char": 2061,
+            "label": "MISC",
+            "text": "SOC.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2062,
+            "end_char": 2065,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2106,
+            "end_char": 2109,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2142,
+            "end_char": 2144,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2214,
+            "end_char": 2230,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 2281,
+            "end_char": 2283,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2571,
+            "end_char": 2574,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 2576,
+            "end_char": 2578,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 2610,
+            "end_char": 2631,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 2671,
+            "end_char": 2687,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 3068,
+            "end_char": 3089,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 3091,
+            "end_char": 3099,
+            "label": "PER",
+            "text": "Répondez"
+          },
+          {
+            "start_char": 3131,
+            "end_char": 3147,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 3286,
+            "end_char": 3309,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 3349,
+            "end_char": 3365,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 3484,
+            "end_char": 3493,
+            "label": "ORG",
+            "text": "Parlement"
+          },
+          {
+            "start_char": 3611,
+            "end_char": 3634,
+            "label": "ORG",
+            "text": "Conseil constitutionnel"
+          },
+          {
+            "start_char": 3900,
+            "end_char": 3923,
+            "label": "PER",
+            "text": "Francis Dubois.</strong"
+          },
+          {
+            "start_char": 3960,
+            "end_char": 3989,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong>"
+          },
+          {
+            "start_char": 4045,
+            "end_char": 4061,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 4324,
+            "end_char": 4336,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4617,
+            "end_char": 4646,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong>"
+          },
+          {
+            "start_char": 4687,
+            "end_char": 4703,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 4882,
+            "end_char": 4896,
+            "label": "ORG",
+            "text": "Haute Autorité"
+          },
+          {
+            "start_char": 5205,
+            "end_char": 5218,
+            "label": "MISC",
+            "text": "covid.<br><br"
+          },
+          {
+            "start_char": 5300,
+            "end_char": 5308,
+            "label": "PER",
+            "text": "Mme Fiat"
+          },
+          {
+            "start_char": 5371,
+            "end_char": 5384,
+            "label": "PER",
+            "text": "Mme Corneloup"
+          },
+          {
+            "start_char": 5460,
+            "end_char": 5483,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5484,
+            "end_char": 5487,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5528,
+            "end_char": 5530,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 5531,
+            "end_char": 5535,
+            "label": "PER",
+            "text": "Dino"
+          },
+          {
+            "start_char": 5563,
+            "end_char": 5575,
+            "label": "PER",
+            "text": "Dino Cinieri"
+          },
+          {
+            "start_char": 5712,
+            "end_char": 5728,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 5747,
+            "end_char": 5764,
+            "label": "ORG",
+            "text": "déléguée.</strong"
+          },
+          {
+            "start_char": 5812,
+            "end_char": 5824,
+            "label": "PER",
+            "text": "Dino Cinieri"
+          },
+          {
+            "start_char": 5849,
+            "end_char": 5861,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 6000,
+            "end_char": 6002,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 6034,
+            "end_char": 6036,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 6071,
+            "end_char": 6080,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 6113,
+            "end_char": 6137,
+            "label": "ORG",
+            "text": "SOC.)</i><br><br><strong"
+          },
+          {
+            "start_char": 6138,
+            "end_char": 6169,
+            "label": "PER",
+            "text": "Mme Christine Arrighi.</strong>"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 51,
+            "sentiment": "3 stars",
+            "score": 0.25483208894729614
+          },
+          {
+            "begin_char": 52,
+            "end_char": 61,
+            "sentiment": "5 stars",
+            "score": 0.5100773572921753
+          },
+          {
+            "begin_char": 62,
+            "end_char": 74,
+            "sentiment": "1 star",
+            "score": 0.4682663679122925
+          },
+          {
+            "begin_char": 75,
+            "end_char": 127,
+            "sentiment": "3 stars",
+            "score": 0.3025357723236084
+          },
+          {
+            "begin_char": 128,
+            "end_char": 201,
+            "sentiment": "4 stars",
+            "score": 0.2644566297531128
+          },
+          {
+            "begin_char": 202,
+            "end_char": 387,
+            "sentiment": "3 stars",
+            "score": 0.3229808509349823
+          },
+          {
+            "begin_char": 388,
+            "end_char": 565,
+            "sentiment": "5 stars",
+            "score": 0.5965767502784729
+          },
+          {
+            "begin_char": 565,
+            "end_char": 716,
+            "sentiment": "5 stars",
+            "score": 0.5524590015411377
+          },
+          {
+            "begin_char": 717,
+            "end_char": 776,
+            "sentiment": "1 star",
+            "score": 0.4957617521286011
+          },
+          {
+            "begin_char": 776,
+            "end_char": 817,
+            "sentiment": "3 stars",
+            "score": 0.3174344599246979
+          },
+          {
+            "begin_char": 818,
+            "end_char": 844,
+            "sentiment": "5 stars",
+            "score": 0.3964771628379822
+          },
+          {
+            "begin_char": 844,
+            "end_char": 876,
+            "sentiment": "3 stars",
+            "score": 0.28369468450546265
+          },
+          {
+            "begin_char": 877,
+            "end_char": 950,
+            "sentiment": "3 stars",
+            "score": 0.25975367426872253
+          },
+          {
+            "begin_char": 951,
+            "end_char": 1061,
+            "sentiment": "5 stars",
+            "score": 0.2594873011112213
+          },
+          {
+            "begin_char": 1062,
+            "end_char": 1105,
+            "sentiment": "5 stars",
+            "score": 0.363465279340744
+          },
+          {
+            "begin_char": 1105,
+            "end_char": 1250,
+            "sentiment": "1 star",
+            "score": 0.31720253825187683
+          },
+          {
+            "begin_char": 1250,
+            "end_char": 1378,
+            "sentiment": "1 star",
+            "score": 0.33880436420440674
+          },
+          {
+            "begin_char": 1379,
+            "end_char": 1492,
+            "sentiment": "3 stars",
+            "score": 0.4562544822692871
+          },
+          {
+            "begin_char": 1493,
+            "end_char": 1630,
+            "sentiment": "3 stars",
+            "score": 0.487885981798172
+          },
+          {
+            "begin_char": 1630,
+            "end_char": 1641,
+            "sentiment": "4 stars",
+            "score": 0.27876928448677063
+          },
+          {
+            "begin_char": 1642,
+            "end_char": 1765,
+            "sentiment": "1 star",
+            "score": 0.34200310707092285
+          },
+          {
+            "begin_char": 1766,
+            "end_char": 1898,
+            "sentiment": "5 stars",
+            "score": 0.6559022068977356
+          },
+          {
+            "begin_char": 1899,
+            "end_char": 2080,
+            "sentiment": "4 stars",
+            "score": 0.3369092047214508
+          },
+          {
+            "begin_char": 2081,
+            "end_char": 2251,
+            "sentiment": "3 stars",
+            "score": 0.30307215452194214
+          },
+          {
+            "begin_char": 2252,
+            "end_char": 2260,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 2261,
+            "end_char": 2337,
+            "sentiment": "4 stars",
+            "score": 0.32783234119415283
+          },
+          {
+            "begin_char": 2338,
+            "end_char": 2342,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2342,
+            "end_char": 2525,
+            "sentiment": "5 stars",
+            "score": 0.6581966280937195
+          },
+          {
+            "begin_char": 2526,
+            "end_char": 2632,
+            "sentiment": "3 stars",
+            "score": 0.3415304124355316
+          },
+          {
+            "begin_char": 2633,
+            "end_char": 2655,
+            "sentiment": "1 star",
+            "score": 0.24926061928272247
+          },
+          {
+            "begin_char": 2655,
+            "end_char": 2708,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 2709,
+            "end_char": 2727,
+            "sentiment": "4 stars",
+            "score": 0.3252987861633301
+          },
+          {
+            "begin_char": 2728,
+            "end_char": 2949,
+            "sentiment": "5 stars",
+            "score": 0.524155855178833
+          },
+          {
+            "begin_char": 2950,
+            "end_char": 3115,
+            "sentiment": "5 stars",
+            "score": 0.37246769666671753
+          },
+          {
+            "begin_char": 3115,
+            "end_char": 3168,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 3169,
+            "end_char": 3187,
+            "sentiment": "4 stars",
+            "score": 0.3252987861633301
+          },
+          {
+            "begin_char": 3188,
+            "end_char": 3333,
+            "sentiment": "4 stars",
+            "score": 0.3269359767436981
+          },
+          {
+            "begin_char": 3333,
+            "end_char": 3386,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 3387,
+            "end_char": 3405,
+            "sentiment": "4 stars",
+            "score": 0.3252987861633301
+          },
+          {
+            "begin_char": 3406,
+            "end_char": 3579,
+            "sentiment": "4 stars",
+            "score": 0.4099954068660736
+          },
+          {
+            "begin_char": 3580,
+            "end_char": 3635,
+            "sentiment": "4 stars",
+            "score": 0.37343087792396545
+          },
+          {
+            "begin_char": 3636,
+            "end_char": 3944,
+            "sentiment": "5 stars",
+            "score": 0.30934473872184753
+          },
+          {
+            "begin_char": 3944,
+            "end_char": 3989,
+            "sentiment": "3 stars",
+            "score": 0.2862336039543152
+          },
+          {
+            "begin_char": 3990,
+            "end_char": 4001,
+            "sentiment": "1 star",
+            "score": 0.5637560486793518
+          },
+          {
+            "begin_char": 4002,
+            "end_char": 4029,
+            "sentiment": "1 star",
+            "score": 0.8596572875976562
+          },
+          {
+            "begin_char": 4029,
+            "end_char": 4082,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 4083,
+            "end_char": 4101,
+            "sentiment": "4 stars",
+            "score": 0.3252987861633301
+          },
+          {
+            "begin_char": 4102,
+            "end_char": 4212,
+            "sentiment": "2 stars",
+            "score": 0.26119673252105713
+          },
+          {
+            "begin_char": 4213,
+            "end_char": 4321,
+            "sentiment": "5 stars",
+            "score": 0.4750310778617859
+          },
+          {
+            "begin_char": 4321,
+            "end_char": 4391,
+            "sentiment": "4 stars",
+            "score": 0.4693991541862488
+          },
+          {
+            "begin_char": 4392,
+            "end_char": 4420,
+            "sentiment": "4 stars",
+            "score": 0.34007883071899414
+          },
+          {
+            "begin_char": 4420,
+            "end_char": 4421,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 4422,
+            "end_char": 4475,
+            "sentiment": "3 stars",
+            "score": 0.3788987696170807
+          },
+          {
+            "begin_char": 4476,
+            "end_char": 4646,
+            "sentiment": "5 stars",
+            "score": 0.3833938241004944
+          },
+          {
+            "begin_char": 4647,
+            "end_char": 4671,
+            "sentiment": "1 star",
+            "score": 0.3559566140174866
+          },
+          {
+            "begin_char": 4671,
+            "end_char": 4724,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 4725,
+            "end_char": 4743,
+            "sentiment": "4 stars",
+            "score": 0.3252987861633301
+          },
+          {
+            "begin_char": 4744,
+            "end_char": 4748,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4748,
+            "end_char": 4806,
+            "sentiment": "5 stars",
+            "score": 0.2954223155975342
+          },
+          {
+            "begin_char": 4807,
+            "end_char": 5038,
+            "sentiment": "5 stars",
+            "score": 0.4355901777744293
+          },
+          {
+            "begin_char": 5039,
+            "end_char": 5309,
+            "sentiment": "4 stars",
+            "score": 0.3284279406070709
+          },
+          {
+            "begin_char": 5310,
+            "end_char": 5409,
+            "sentiment": "1 star",
+            "score": 0.45262306928634644
+          },
+          {
+            "begin_char": 5410,
+            "end_char": 5502,
+            "sentiment": "3 stars",
+            "score": 0.30941691994667053
+          },
+          {
+            "begin_char": 5503,
+            "end_char": 5576,
+            "sentiment": "4 stars",
+            "score": 0.2644566297531128
+          },
+          {
+            "begin_char": 5577,
+            "end_char": 5586,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5586,
+            "end_char": 5765,
+            "sentiment": "5 stars",
+            "score": 0.5616260170936584
+          },
+          {
+            "begin_char": 5766,
+            "end_char": 5793,
+            "sentiment": "5 stars",
+            "score": 0.587558925151825
+          },
+          {
+            "begin_char": 5793,
+            "end_char": 5825,
+            "sentiment": "3 stars",
+            "score": 0.28369468450546265
+          },
+          {
+            "begin_char": 5826,
+            "end_char": 5899,
+            "sentiment": "2 stars",
+            "score": 0.28908318281173706
+          },
+          {
+            "begin_char": 5900,
+            "end_char": 5954,
+            "sentiment": "5 stars",
+            "score": 0.7006565928459167
+          },
+          {
+            "begin_char": 5955,
+            "end_char": 6169,
+            "sentiment": "3 stars",
+            "score": 0.31813809275627136
+          },
+          {
+            "begin_char": 6170,
+            "end_char": 6181,
+            "sentiment": "5 stars",
+            "score": 0.5586434602737427
+          },
+          {
+            "begin_char": 6181,
+            "end_char": 6189,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-30",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-30",
+        "pageJO": "6150",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG364",
+    "identifiant": {
+      "numero": "364",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "outre-mer",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "insécurité à Mayotte"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720614",
+        "mandatRef": "PM797055"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Première ministre",
+      "developpe": "Première ministre"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Première ministre",
+          "developpe": "Première ministre"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> INSÉCURITÉ À MAYOTTE <a name=PG6></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Marine Le Pen.<br><br><strong>Mme Marine Le Pen. </strong>Ici, un mort exposé sur un pont. Là, un autre à l'entrée d'un bourg. Il y a deux semaines, un car scolaire attaqué par une horde de criminels armés de machettes. Explosion de 153,5 % du nombre annuel de coups et blessures volontaires sur des personnes de 15 ans ou plus. Hausse de 263,8 % des vols en 2019. Et pourtant, nous sommes dans un département français…<br><br>L'île de Mayotte est en proie à une véritable guerre des machettes, dans l'indifférence quasi générale des pouvoirs publics à Paris. La situation de chaos à Mayotte ne doit pas être considérée comme lointaine et « ultrapériphérique », mais comme un effet de loupe, un zoom, sur ce qui pourrait advenir à l'ensemble du pays. Nous assistons au passage d'un ensauvagement de la société à une situation de chaos, hors de contrôle du Gouvernement. L'immigration est incontrôlée et pesante, voire étouffante, pour nos services publics, notamment pour les maternités, qui accueillent en moyenne trente naissances par jour. À Mayotte, 77 % de la population vit sous le seuil de pauvreté et l'inflation des prix, sans précédent, varie de 10 % à 20 % en comparaison de la métropole.<br><br>Nous avons tant à faire pour nos compatriotes d'outre-mer, particulièrement pour ceux de Mayotte : en matière de contrôle des frontières, pour faire face à l'immigration clandestine, mais aussi en matière de maintien de la paix, d'accès à l'eau courante et de réintégration des soignants non vaccinés.<br><br>Madame la Première ministre, qu'en est-il des annonces tonitruantes d'Emmanuel Macron lors de son déplacement à Mayotte en octobre 2019 ? Depuis des années, nos compatriotes mahorais manifestent contre l'insécurité et pour des services régaliens dignes de l'État français. Nous entendons depuis longtemps leur cri d'alerte. Et vous, l'entendez-vous ? <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la Première ministre.<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre. </i>Vous venez de dresser le tableau de la situation à Mayotte. J'ai eu l'occasion de le dire, notamment lors du congrès des maires et des présidents d'intercommunalité de France : nous sommes particulièrement attentifs à la situation dans ce territoire, qu'il s'agisse de la santé – le ministre de la santé et de la prévention s'est rendu à Mayotte il y a quelques jours –, de la sécurité – le ministre de l'intérieur et des outre-mer a fait le déplacement il y a quelques semaines et retournera à Mayotte avant la fin de l'année –, ou, évidemment, de la pression migratoire. Sur ce sujet, il existe, je crois, un large consensus au sein de l'Assemblée, chacun s'accordant sur la difficulté de la situation à Mayotte. Le débat que nous aurons tout à l'heure sur la politique de l'immigration nous permettra sans doute d'y revenir.<br><br>Soyez assurée, madame la présidente Le Pen, que sur la santé, l'école, le développement économique, l'emploi, l'égal accès aux prestations ou la sécurité – un enjeu majeur –, le Gouvernement est particulièrement attentif à la situation de nos compatriotes de Mayotte et mobilisé. Nous sommes déterminés à apporter des réponses aux attentes de nos concitoyens. <i>(Applaudissements sur les bancs du groupe RE.)</i> <br> <p>",
+        "entities": [
+          {
+            "start_char": 36,
+            "end_char": 43,
+            "label": "LOC",
+            "text": "MAYOTTE"
+          },
+          {
+            "start_char": 52,
+            "end_char": 59,
+            "label": "PER",
+            "text": "PG6></a"
+          },
+          {
+            "start_char": 77,
+            "end_char": 80,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 121,
+            "end_char": 131,
+            "label": "PER",
+            "text": "Mme Marine"
+          },
+          {
+            "start_char": 155,
+            "end_char": 165,
+            "label": "PER",
+            "text": "Mme Marine"
+          },
+          {
+            "start_char": 166,
+            "end_char": 172,
+            "label": "PER",
+            "text": "Le Pen"
+          },
+          {
+            "start_char": 345,
+            "end_char": 354,
+            "label": "MISC",
+            "text": "Explosion"
+          },
+          {
+            "start_char": 554,
+            "end_char": 568,
+            "label": "LOC",
+            "text": "île de Mayotte"
+          },
+          {
+            "start_char": 678,
+            "end_char": 683,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 709,
+            "end_char": 716,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 981,
+            "end_char": 993,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1170,
+            "end_char": 1177,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 1314,
+            "end_char": 1331,
+            "label": "MISC",
+            "text": "métropole.<br><br"
+          },
+          {
+            "start_char": 1421,
+            "end_char": 1428,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 1624,
+            "end_char": 1640,
+            "label": "MISC",
+            "text": "vaccinés.<br><br"
+          },
+          {
+            "start_char": 1641,
+            "end_char": 1659,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 1753,
+            "end_char": 1760,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 1897,
+            "end_char": 1912,
+            "label": "LOC",
+            "text": "l'État français"
+          },
+          {
+            "start_char": 2037,
+            "end_char": 2060,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2061,
+            "end_char": 2064,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2105,
+            "end_char": 2120,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 2146,
+            "end_char": 2159,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 2253,
+            "end_char": 2260,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 2367,
+            "end_char": 2376,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 2540,
+            "end_char": 2547,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 2697,
+            "end_char": 2704,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 2842,
+            "end_char": 2851,
+            "label": "ORG",
+            "text": "Assemblée"
+          },
+          {
+            "start_char": 2908,
+            "end_char": 2915,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 3021,
+            "end_char": 3036,
+            "label": "MISC",
+            "text": "revenir.<br><br"
+          },
+          {
+            "start_char": 3037,
+            "end_char": 3042,
+            "label": "ORG",
+            "text": "Soyez"
+          },
+          {
+            "start_char": 3073,
+            "end_char": 3079,
+            "label": "MISC",
+            "text": "Le Pen"
+          },
+          {
+            "start_char": 3215,
+            "end_char": 3227,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3296,
+            "end_char": 3303,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 3442,
+            "end_char": 3449,
+            "label": "ORG",
+            "text": "RE.)</i"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 95,
+            "sentiment": "3 stars",
+            "score": 0.24772386252880096
+          },
+          {
+            "begin_char": 96,
+            "end_char": 131,
+            "sentiment": "5 stars",
+            "score": 0.24591000378131866
+          },
+          {
+            "begin_char": 132,
+            "end_char": 155,
+            "sentiment": "3 stars",
+            "score": 0.2681725323200226
+          },
+          {
+            "begin_char": 155,
+            "end_char": 165,
+            "sentiment": "3 stars",
+            "score": 0.268145352602005
+          },
+          {
+            "begin_char": 166,
+            "end_char": 173,
+            "sentiment": "4 stars",
+            "score": 0.2989981472492218
+          },
+          {
+            "begin_char": 174,
+            "end_char": 215,
+            "sentiment": "1 star",
+            "score": 0.31296616792678833
+          },
+          {
+            "begin_char": 216,
+            "end_char": 251,
+            "sentiment": "2 stars",
+            "score": 0.3050662577152252
+          },
+          {
+            "begin_char": 252,
+            "end_char": 289,
+            "sentiment": "3 stars",
+            "score": 0.27963340282440186
+          },
+          {
+            "begin_char": 290,
+            "end_char": 344,
+            "sentiment": "4 stars",
+            "score": 0.3428068161010742
+          },
+          {
+            "begin_char": 345,
+            "end_char": 453,
+            "sentiment": "2 stars",
+            "score": 0.2687663435935974
+          },
+          {
+            "begin_char": 454,
+            "end_char": 489,
+            "sentiment": "3 stars",
+            "score": 0.26875048875808716
+          },
+          {
+            "begin_char": 490,
+            "end_char": 684,
+            "sentiment": "4 stars",
+            "score": 0.26260167360305786
+          },
+          {
+            "begin_char": 685,
+            "end_char": 875,
+            "sentiment": "4 stars",
+            "score": 0.3499259948730469
+          },
+          {
+            "begin_char": 876,
+            "end_char": 994,
+            "sentiment": "5 stars",
+            "score": 0.2736327648162842
+          },
+          {
+            "begin_char": 995,
+            "end_char": 1167,
+            "sentiment": "3 stars",
+            "score": 0.30266135931015015
+          },
+          {
+            "begin_char": 1168,
+            "end_char": 1641,
+            "sentiment": "5 stars",
+            "score": 0.4524504244327545
+          },
+          {
+            "begin_char": 1641,
+            "end_char": 1719,
+            "sentiment": "1 star",
+            "score": 0.2741512656211853
+          },
+          {
+            "begin_char": 1720,
+            "end_char": 1778,
+            "sentiment": "3 stars",
+            "score": 0.25448474287986755
+          },
+          {
+            "begin_char": 1779,
+            "end_char": 1913,
+            "sentiment": "5 stars",
+            "score": 0.4812510907649994
+          },
+          {
+            "begin_char": 1914,
+            "end_char": 1964,
+            "sentiment": "5 stars",
+            "score": 0.4858347773551941
+          },
+          {
+            "begin_char": 1965,
+            "end_char": 1991,
+            "sentiment": "1 star",
+            "score": 0.2909405827522278
+          },
+          {
+            "begin_char": 1992,
+            "end_char": 2079,
+            "sentiment": "4 stars",
+            "score": 0.3186970353126526
+          },
+          {
+            "begin_char": 2080,
+            "end_char": 2178,
+            "sentiment": "3 stars",
+            "score": 0.28298741579055786
+          },
+          {
+            "begin_char": 2179,
+            "end_char": 2197,
+            "sentiment": "4 stars",
+            "score": 0.3165116310119629
+          },
+          {
+            "begin_char": 2198,
+            "end_char": 2202,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2202,
+            "end_char": 2261,
+            "sentiment": "4 stars",
+            "score": 0.2480485439300537
+          },
+          {
+            "begin_char": 2262,
+            "end_char": 2774,
+            "sentiment": "5 stars",
+            "score": 0.5101356506347656
+          },
+          {
+            "begin_char": 2775,
+            "end_char": 2916,
+            "sentiment": "4 stars",
+            "score": 0.47616443037986755
+          },
+          {
+            "begin_char": 2917,
+            "end_char": 3072,
+            "sentiment": "5 stars",
+            "score": 0.4247923791408539
+          },
+          {
+            "begin_char": 3073,
+            "end_char": 3079,
+            "sentiment": "4 stars",
+            "score": 0.31321200728416443
+          },
+          {
+            "begin_char": 3079,
+            "end_char": 3316,
+            "sentiment": "5 stars",
+            "score": 0.494811475276947
+          },
+          {
+            "begin_char": 3317,
+            "end_char": 3396,
+            "sentiment": "5 stars",
+            "score": 0.580345630645752
+          },
+          {
+            "begin_char": 3397,
+            "end_char": 3450,
+            "sentiment": "4 stars",
+            "score": 0.293697714805603
+          },
+          {
+            "begin_char": 3451,
+            "end_char": 3459,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-07",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-07",
+        "pageJO": "6561",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

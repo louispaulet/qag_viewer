@@ -1,0 +1,713 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG278",
+    "identifiant": {
+      "numero": "278",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "laïcité",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Laïcité à l'école"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA605991",
+        "mandatRef": "PM796428"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Éducation nationale et jeunesse",
+      "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Éducation nationale et jeunesse",
+          "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> LAÏCITÉ À L'ÉCOLE <a name=PG4></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Annie Genevard.<br><br><strong>Mme Annie Genevard. </strong>En un mois, les atteintes à la laïcité ont doublé dans les établissements scolaires.<br><br><strong>M. Patrick Hetzel.</strong> Eh oui ! C'est un vrai problème !<br><br><strong>Mme Annie Genevard. </strong>Elles concernent dans la majorité des cas le port de tenues et de signes religieux. Face à cette réalité, il y a deux attitudes possibles : se borner à des réponses techniques, alors qu'il est clair qu'une circulaire ne suffira pas, ou affronter cette offensive politique qui est à l'œuvre sur les réseaux sociaux et qui conduit des adolescents à contester la primauté de nos principes républicains.<br><br>« Il faut toujours dire ce que l'on voit ; surtout, il faut toujours, ce qui est plus difficile, voir ce que l'on voit », disait Péguy. Aujourd'hui, comme en 1989 lors de l'affaire des trois collégiennes voilées de Creil, la situation impose une parole politique forte. Il avait fallu attendre Jacques Chirac, en 2004, pour qu'une loi se dresse et protège l'école de l'islamisme. Et voilà qu'à nouveau, cette idéologie relance son offensive, en utilisant le vêtement comme un étendard et des adolescents comme des porte-drapeaux.<br><br>Les enseignants, comme les élèves et leurs parents, ont besoin d'un discours politique tenu au plus haut niveau. Madame la Première ministre, je m'adresse à vous parce que vous avez dédié votre nomination à Matignon aux petites filles, en leur disant d'aller au bout de leurs rêves. Vous êtes au rendez-vous de la responsabilité :…<br><br><strong>M. Pierre Cordier.</strong> Très bien dit !<br><br><strong>Mme Annie Genevard. </strong>…êtes-vous prête à dire qu'en France, comme en Iran ou en Afghanistan, tout vêtement qui affiche la soumission des filles n'a pas sa place à l'école ? <i>(Applaudissements sur les bancs du groupe LR et sur quelques bancs du groupe Dem.)</i><br><br><strong>M. Patrick Hetzel.</strong> Eh oui ! Voilà qui est très bien !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’éducation nationale et de la jeunesse.<br><br><strong>M. Pap Ndiaye,</strong><i> ministre de l’éducation nationale et de la jeunesse. </i>Vous avez raison, les chiffres de signalements des atteintes à la laïcité, que je me suis engagé à publier mensuellement, montrent une augmentation pour le mois d'octobre.<br><br><strong>M. Maxime Minot.</strong> Remettons l'uniforme !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>Cette augmentation est liée à trois phénomènes. Le premier tient à l'influence des réseaux sociaux sur lesquels, depuis la mi-septembre, nous observons une multiplication de défis lancés par des personnes qui ne veulent le bien ni des élèves ni de l'école ni de la République.<br><br>Nous avons évidemment peu de moyens d'agir juridiquement sur les réseaux sociaux,…<br><br><strong>M. Maxime Minot.</strong> Mais vous pouvez agir sur la tenue !<br><br><strong>M. Patrick Hetzel.</strong> Vous avez les moyens d'agir sur les écoles !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>…mais nous travaillons à augmenter et améliorer la modération sur les réseaux sociaux, en lien avec les personnes concernées.<br><br>Deuxième phénomène : comme l'an dernier, l'hommage à Samuel Paty s'est malheureusement accompagné de contestations.<br><br>Troisième élément : la vigilance accrue de tous les personnels qui font de mieux en mieux remonter les atteintes à la laïcité, ce qui est l'objectif des données mensuelles déjà mentionnées.<br><br><strong>M. Patrick Hetzel.</strong> Soutenez vos personnels !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>C'est pourquoi nous avons publié une circulaire très claire visant à sanctionner systématiquement ces atteintes – des sanctions ont d'ailleurs été prises depuis la rentrée –, à renforcer la protection et le soutien aux personnels, à appuyer l'action des chefs d'établissement et à renforcer la formation.<br><br>Je vous le redis : notre boussole, très ferme et très claire, c'est la loi de 2004. Ces principes nous permettent de gérer l'ensemble des situations. Madame la députée, nous agissons avec discernement et fermeté, et nous continuerons à le faire. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme Annie Genevard.<br><br><strong>Mme Annie Genevard. </strong>Merci, monsieur le ministre, mais vous décrivez la situation alors que nous attendons une réponse politique forte, donnée au plus haut niveau. <i>(Applaudissements sur les bancs du groupe LR.)</i><br><br><strong>Mme Anne-Laure Blin.</strong> Exactement !<br><br><strong>Mme Annie Genevard. </strong>Madame la Première ministre, je regrette que vous esquiviez cette réponse. Nous n'avons pas besoin d'une réponse administrative, mais d'une réponse politique ! <i>(Applaudissements sur les bancs du groupe LR et sur quelques bancs du groupe RN.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 33,
+            "end_char": 42,
+            "label": "MISC",
+            "text": "L'ÉCOLE <"
+          },
+          {
+            "start_char": 49,
+            "end_char": 56,
+            "label": "MISC",
+            "text": "PG4></a"
+          },
+          {
+            "start_char": 74,
+            "end_char": 77,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 118,
+            "end_char": 127,
+            "label": "PER",
+            "text": "Mme Annie"
+          },
+          {
+            "start_char": 153,
+            "end_char": 171,
+            "label": "PER",
+            "text": "Mme Annie Genevard"
+          },
+          {
+            "start_char": 285,
+            "end_char": 309,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 359,
+            "end_char": 377,
+            "label": "PER",
+            "text": "Mme Annie Genevard"
+          },
+          {
+            "start_char": 774,
+            "end_char": 794,
+            "label": "MISC",
+            "text": "républicains.<br><br"
+          },
+          {
+            "start_char": 924,
+            "end_char": 929,
+            "label": "PER",
+            "text": "Péguy"
+          },
+          {
+            "start_char": 1010,
+            "end_char": 1015,
+            "label": "LOC",
+            "text": "Creil"
+          },
+          {
+            "start_char": 1089,
+            "end_char": 1103,
+            "label": "PER",
+            "text": "Jacques Chirac"
+          },
+          {
+            "start_char": 1309,
+            "end_char": 1331,
+            "label": "LOC",
+            "text": "porte-drapeaux.<br><br"
+          },
+          {
+            "start_char": 1539,
+            "end_char": 1547,
+            "label": "LOC",
+            "text": "Matignon"
+          },
+          {
+            "start_char": 1682,
+            "end_char": 1706,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong>"
+          },
+          {
+            "start_char": 1738,
+            "end_char": 1756,
+            "label": "PER",
+            "text": "Mme Annie Genevard"
+          },
+          {
+            "start_char": 1797,
+            "end_char": 1803,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1814,
+            "end_char": 1818,
+            "label": "LOC",
+            "text": "Iran"
+          },
+          {
+            "start_char": 1825,
+            "end_char": 1836,
+            "label": "LOC",
+            "text": "Afghanistan"
+          },
+          {
+            "start_char": 1963,
+            "end_char": 1965,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 1998,
+            "end_char": 2022,
+            "label": "ORG",
+            "text": "Dem.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2026,
+            "end_char": 2050,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 2101,
+            "end_char": 2104,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2145,
+            "end_char": 2147,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2163,
+            "end_char": 2165,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2219,
+            "end_char": 2225,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 2258,
+            "end_char": 2260,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2493,
+            "end_char": 2514,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 2557,
+            "end_char": 2560,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 2770,
+            "end_char": 2782,
+            "label": "PER",
+            "text": "défis lancés"
+          },
+          {
+            "start_char": 2981,
+            "end_char": 3002,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 3059,
+            "end_char": 3083,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 3147,
+            "end_char": 3150,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 3300,
+            "end_char": 3318,
+            "label": "MISC",
+            "text": "concernées.<br><br"
+          },
+          {
+            "start_char": 3372,
+            "end_char": 3383,
+            "label": "PER",
+            "text": "Samuel Paty"
+          },
+          {
+            "start_char": 3420,
+            "end_char": 3451,
+            "label": "MISC",
+            "text": "contestations.<br><br>Troisième"
+          },
+          {
+            "start_char": 3650,
+            "end_char": 3674,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 3719,
+            "end_char": 3722,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 4052,
+            "end_char": 4069,
+            "label": "MISC",
+            "text": "formation.<br><br"
+          },
+          {
+            "start_char": 4220,
+            "end_char": 4226,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 4366,
+            "end_char": 4389,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4390,
+            "end_char": 4393,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4434,
+            "end_char": 4443,
+            "label": "PER",
+            "text": "Mme Annie"
+          },
+          {
+            "start_char": 4469,
+            "end_char": 4487,
+            "label": "PER",
+            "text": "Mme Annie Genevard"
+          },
+          {
+            "start_char": 4498,
+            "end_char": 4503,
+            "label": "LOC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 4686,
+            "end_char": 4709,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4710,
+            "end_char": 4752,
+            "label": "PER",
+            "text": "Mme Anne-Laure Blin.</strong> Exactement !"
+          },
+          {
+            "start_char": 4768,
+            "end_char": 4786,
+            "label": "PER",
+            "text": "Mme Annie Genevard"
+          },
+          {
+            "start_char": 4797,
+            "end_char": 4815,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 5002,
+            "end_char": 5004,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 5037,
+            "end_char": 5048,
+            "label": "ORG",
+            "text": "RN.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 92,
+            "sentiment": "3 stars",
+            "score": 0.2900330424308777
+          },
+          {
+            "begin_char": 93,
+            "end_char": 172,
+            "sentiment": "3 stars",
+            "score": 0.24590769410133362
+          },
+          {
+            "begin_char": 173,
+            "end_char": 182,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 182,
+            "end_char": 309,
+            "sentiment": "3 stars",
+            "score": 0.23907554149627686
+          },
+          {
+            "begin_char": 310,
+            "end_char": 318,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 319,
+            "end_char": 343,
+            "sentiment": "1 star",
+            "score": 0.3611811697483063
+          },
+          {
+            "begin_char": 343,
+            "end_char": 378,
+            "sentiment": "3 stars",
+            "score": 0.2815569043159485
+          },
+          {
+            "begin_char": 379,
+            "end_char": 388,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 388,
+            "end_char": 471,
+            "sentiment": "3 stars",
+            "score": 0.2780456244945526
+          },
+          {
+            "begin_char": 472,
+            "end_char": 837,
+            "sentiment": "5 stars",
+            "score": 0.30135202407836914
+          },
+          {
+            "begin_char": 838,
+            "end_char": 930,
+            "sentiment": "4 stars",
+            "score": 0.33525365591049194
+          },
+          {
+            "begin_char": 931,
+            "end_char": 1064,
+            "sentiment": "4 stars",
+            "score": 0.4644029438495636
+          },
+          {
+            "begin_char": 1065,
+            "end_char": 1174,
+            "sentiment": "5 stars",
+            "score": 0.2960973381996155
+          },
+          {
+            "begin_char": 1175,
+            "end_char": 1444,
+            "sentiment": "5 stars",
+            "score": 0.4676416218280792
+          },
+          {
+            "begin_char": 1445,
+            "end_char": 1614,
+            "sentiment": "5 stars",
+            "score": 0.5870264768600464
+          },
+          {
+            "begin_char": 1615,
+            "end_char": 1706,
+            "sentiment": "1 star",
+            "score": 0.2708173096179962
+          },
+          {
+            "begin_char": 1707,
+            "end_char": 1722,
+            "sentiment": "5 stars",
+            "score": 0.545091986656189
+          },
+          {
+            "begin_char": 1722,
+            "end_char": 1757,
+            "sentiment": "3 stars",
+            "score": 0.2815569043159485
+          },
+          {
+            "begin_char": 1758,
+            "end_char": 1917,
+            "sentiment": "1 star",
+            "score": 0.4925232529640198
+          },
+          {
+            "begin_char": 1918,
+            "end_char": 2050,
+            "sentiment": "3 stars",
+            "score": 0.3502821922302246
+          },
+          {
+            "begin_char": 2051,
+            "end_char": 2059,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 2060,
+            "end_char": 2085,
+            "sentiment": "5 stars",
+            "score": 0.5422178506851196
+          },
+          {
+            "begin_char": 2085,
+            "end_char": 2119,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2120,
+            "end_char": 2245,
+            "sentiment": "3 stars",
+            "score": 0.30180537700653076
+          },
+          {
+            "begin_char": 2246,
+            "end_char": 2298,
+            "sentiment": "4 stars",
+            "score": 0.30159011483192444
+          },
+          {
+            "begin_char": 2299,
+            "end_char": 2515,
+            "sentiment": "3 stars",
+            "score": 0.3138670325279236
+          },
+          {
+            "begin_char": 2516,
+            "end_char": 2538,
+            "sentiment": "5 stars",
+            "score": 0.36580801010131836
+          },
+          {
+            "begin_char": 2538,
+            "end_char": 2591,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 2592,
+            "end_char": 2643,
+            "sentiment": "3 stars",
+            "score": 0.41220319271087646
+          },
+          {
+            "begin_char": 2644,
+            "end_char": 2880,
+            "sentiment": "5 stars",
+            "score": 0.3067415654659271
+          },
+          {
+            "begin_char": 2880,
+            "end_char": 3003,
+            "sentiment": "2 stars",
+            "score": 0.29641586542129517
+          },
+          {
+            "begin_char": 3004,
+            "end_char": 3008,
+            "sentiment": "3 stars",
+            "score": 0.3008788824081421
+          },
+          {
+            "begin_char": 3009,
+            "end_char": 3040,
+            "sentiment": "4 stars",
+            "score": 0.364707350730896
+          },
+          {
+            "begin_char": 3040,
+            "end_char": 3083,
+            "sentiment": "3 stars",
+            "score": 0.319522887468338
+          },
+          {
+            "begin_char": 3084,
+            "end_char": 3128,
+            "sentiment": "5 stars",
+            "score": 0.5581501126289368
+          },
+          {
+            "begin_char": 3128,
+            "end_char": 3181,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 3182,
+            "end_char": 3674,
+            "sentiment": "3 stars",
+            "score": 0.4050929844379425
+          },
+          {
+            "begin_char": 3675,
+            "end_char": 3700,
+            "sentiment": "5 stars",
+            "score": 0.47642701864242554
+          },
+          {
+            "begin_char": 3700,
+            "end_char": 3753,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 3754,
+            "end_char": 4070,
+            "sentiment": "5 stars",
+            "score": 0.5065162181854248
+          },
+          {
+            "begin_char": 4070,
+            "end_char": 4153,
+            "sentiment": "5 stars",
+            "score": 0.5346159934997559
+          },
+          {
+            "begin_char": 4154,
+            "end_char": 4219,
+            "sentiment": "5 stars",
+            "score": 0.4534730911254883
+          },
+          {
+            "begin_char": 4220,
+            "end_char": 4315,
+            "sentiment": "5 stars",
+            "score": 0.5741401314735413
+          },
+          {
+            "begin_char": 4316,
+            "end_char": 4408,
+            "sentiment": "3 stars",
+            "score": 0.30941691994667053
+          },
+          {
+            "begin_char": 4409,
+            "end_char": 4488,
+            "sentiment": "3 stars",
+            "score": 0.24590769410133362
+          },
+          {
+            "begin_char": 4489,
+            "end_char": 4498,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 4498,
+            "end_char": 4640,
+            "sentiment": "5 stars",
+            "score": 0.2382916659116745
+          },
+          {
+            "begin_char": 4641,
+            "end_char": 4752,
+            "sentiment": "5 stars",
+            "score": 0.393916517496109
+          },
+          {
+            "begin_char": 4752,
+            "end_char": 4787,
+            "sentiment": "3 stars",
+            "score": 0.2815569043159485
+          },
+          {
+            "begin_char": 4788,
+            "end_char": 4871,
+            "sentiment": "1 star",
+            "score": 0.34862974286079407
+          },
+          {
+            "begin_char": 4872,
+            "end_char": 4956,
+            "sentiment": "5 stars",
+            "score": 0.3876428008079529
+          },
+          {
+            "begin_char": 4957,
+            "end_char": 5049,
+            "sentiment": "3 stars",
+            "score": 0.3146475851535797
+          },
+          {
+            "begin_char": 5050,
+            "end_char": 5053,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-16",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-16",
+        "pageJO": "5415",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

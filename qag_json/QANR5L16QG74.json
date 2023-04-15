@@ -1,0 +1,467 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG74",
+    "identifiant": {
+      "numero": "74",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "urbanisme",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Lutte contre la spéculation dans l'immobilier touristique"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794854",
+        "mandatRef": "PM797163"
+      },
+      "groupe": {
+        "organeRef": "PO800496",
+        "abrege": "SOC",
+        "developpe": "Socialistes et apparentés (membre de l’intergroupe NUPES)"
+      }
+    },
+    "minInt": {
+      "abrege": "Ville et logement",
+      "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de la ville et du logement"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Ville et logement",
+          "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de la ville et du logement"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> LUTTE CONTRE LA SPÉCULATION DANS L'IMMOBILIER TOURISTIQUE <a name=PG20></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Inaki Echaniz.<br><br><strong>M. Inaki Echaniz. </strong>Monsieur le ministre de l'économie, alors que la saison touristique bat son plein, la communauté d'agglomération du Pays basque a voté le 9 juillet, à la quasi-unanimité transpartisane, le principe de compensation, qui contraindra les propriétaires louant un bien sur Airbnb à proposer un logement équivalent toute l'année. Cette mesure forte, soutenue par un exécutif proche de votre sensibilité, vise à lutter contre la spéculation immobilière qui frappe de plein fouet les communes des zones tendues du Pays basque et de l'ensemble des façades littorales, et qui s'attaque désormais aux territoires intérieurs comme les vallées béarnaises.<br><br>Selon l'agence d'urbanisme Atlantique & Pyrénées, le nombre d'hébergements de tourisme de courte durée a augmenté de 130 % entre 2016 et 2020, ce qui représente plus de 16 000 logements au Pays basque ; autant d'habitations qui ne sont pas accessibles aux habitants du territoire. Par ailleurs, depuis le début de la crise sanitaire, le prix du mètre carré a augmenté de 15 à 20 %, ce qui rend impossible l'accession à la propriété pour les habitants du territoire, qui le font vivre à l'année.<br><br>Sur les façades littorales, les banques ne suivent les dossiers d'emprunt que pour du locatif touristique, car la fiscalité est plus rentable sur les meublés de tourisme que sur la location de longue durée. Impossible de louer, impossible d'acheter : le parcours immobilier sur mon territoire et sur tout le littoral atlantique est désormais sous l'emprise de spéculateurs qui accumulent les biens immobiliers et qui vivent uniquement de leurs rentes. Même si le tourisme est un facteur de développement, force est de constater qu'aujourd'hui, il peut engendrer des situations intenables pour nos concitoyens. Le Pays basque, que vous connaissez bien monsieur le ministre, n'est ni un hôtel ni une plateforme boursière. <i>(Mme Valérie Rabault applaudit.)</i><br><br>De nombreuses associations, des élus locaux et la société civile se mobilisent, car il s'agit d'une véritable fracture sociale qui touche en premier lieu les jeunes les plus précaires et les classes moyennes. Il est urgent que l'Assemblée se mobilise pour apporter des réponses législatives à ce problème, qui concerne bon nombre de circonscriptions, et pour donner de véritables leviers aux collectivités. Monsieur le ministre, quelles sont vos positions sur une évolution de la fiscalité s'appliquant aux meublés de tourisme, un déplafonnement de la surtaxe d'habitation sur les résidences secondaires et l'encadrement des loyers ?<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de la ville et du logement.<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de la ville et du logement. </i>Votre question pointe le problème particulier du logement dans les zones touristiques. La question du logement se pose au sens large et il est important pour nous de construire un parcours résidentiel pour l'ensemble des habitants – c'est la volonté de la Première ministre. Nous avons décidé de nous pencher sérieusement sur les questions du zonage et de la fiscalité, parce que vous avez raison : il n'est pas possible que, dans certaines zones, des spéculateurs achètent des logements en profitant d'outils spéculatifs, sans les mettre en location de longue durée. C'est un sujet sur lequel nous allons travailler d'arrache-pied dans les prochains mois.<br><br>Pour le reste, j'espère être le ministre du parcours résidentiel. La question est la suivante : quels logements sommes-nous capables de proposer à nos concitoyens à chaque étape de leur vie ? Nous allons y réfléchir par le biais de l'ensemble des dispositifs, de la sortie de l'hébergement avec logement à la production massive de logements sociaux. J'étais encore hier après-midi avec Christophe Robert, puis avec Emmanuelle Cosse, pour parler au monde du logement de la stratégie visant à bâtir un nouveau pacte de confiance avec le secteur des HLM, suivant la volonté Mme la Première ministre. J'étais hier matin avec le patron de la Fédération française du bâtiment pour réfléchir à la production avec l'ensemble du monde immobilier. Tous ces chantiers nous attendent.<br><br>Je n'oublie pas la question du littoral, mais nous travaillerons à l'ensemble de ces chantiers dans les mois qui viennent. Dès la rentrée, à l'occasion notamment du congrès HLM, nous aurons déjà de nouvelles propositions à faire. <i>(Mme Marjolaine Meynier-Millefert applaudit.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 35,
+            "label": "ORG",
+            "text": "LUTTE CONTRE"
+          },
+          {
+            "start_char": 39,
+            "end_char": 50,
+            "label": "ORG",
+            "text": "SPÉCULATION"
+          },
+          {
+            "start_char": 69,
+            "end_char": 80,
+            "label": "MISC",
+            "text": "TOURISTIQUE"
+          },
+          {
+            "start_char": 115,
+            "end_char": 118,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 159,
+            "end_char": 167,
+            "label": "PER",
+            "text": "M. Inaki"
+          },
+          {
+            "start_char": 195,
+            "end_char": 208,
+            "label": "PER",
+            "text": "Inaki Echaniz"
+          },
+          {
+            "start_char": 219,
+            "end_char": 227,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 305,
+            "end_char": 346,
+            "label": "LOC",
+            "text": "communauté d'agglomération du Pays basque"
+          },
+          {
+            "start_char": 487,
+            "end_char": 493,
+            "label": "MISC",
+            "text": "Airbnb"
+          },
+          {
+            "start_char": 725,
+            "end_char": 736,
+            "label": "LOC",
+            "text": "Pays basque"
+          },
+          {
+            "start_char": 850,
+            "end_char": 868,
+            "label": "MISC",
+            "text": "béarnaises.<br><br"
+          },
+          {
+            "start_char": 896,
+            "end_char": 917,
+            "label": "ORG",
+            "text": "Atlantique & Pyrénées"
+          },
+          {
+            "start_char": 1058,
+            "end_char": 1069,
+            "label": "LOC",
+            "text": "Pays basque"
+          },
+          {
+            "start_char": 1357,
+            "end_char": 1370,
+            "label": "MISC",
+            "text": "année.<br><br"
+          },
+          {
+            "start_char": 1981,
+            "end_char": 1995,
+            "label": "LOC",
+            "text": "Le Pays basque"
+          },
+          {
+            "start_char": 2367,
+            "end_char": 2376,
+            "label": "ORG",
+            "text": "Assemblée"
+          },
+          {
+            "start_char": 2545,
+            "end_char": 2553,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2787,
+            "end_char": 2790,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2831,
+            "end_char": 2833,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2986,
+            "end_char": 2996,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3410,
+            "end_char": 3418,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3805,
+            "end_char": 3817,
+            "label": "MISC",
+            "text": "mois.<br><br"
+          },
+          {
+            "start_char": 4204,
+            "end_char": 4221,
+            "label": "PER",
+            "text": "Christophe Robert"
+          },
+          {
+            "start_char": 4233,
+            "end_char": 4249,
+            "label": "PER",
+            "text": "Emmanuelle Cosse"
+          },
+          {
+            "start_char": 4389,
+            "end_char": 4413,
+            "label": "MISC",
+            "text": "Mme la Première ministre"
+          },
+          {
+            "start_char": 4455,
+            "end_char": 4475,
+            "label": "ORG",
+            "text": "Fédération française"
+          },
+          {
+            "start_char": 4580,
+            "end_char": 4598,
+            "label": "MISC",
+            "text": "attendent.<br><br>"
+          },
+          {
+            "start_char": 4836,
+            "end_char": 4864,
+            "label": "PER",
+            "text": "Marjolaine Meynier-Millefert"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 133,
+            "sentiment": "4 stars",
+            "score": 0.29741013050079346
+          },
+          {
+            "begin_char": 134,
+            "end_char": 209,
+            "sentiment": "5 stars",
+            "score": 0.24211911857128143
+          },
+          {
+            "begin_char": 210,
+            "end_char": 219,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 219,
+            "end_char": 290,
+            "sentiment": "4 stars",
+            "score": 0.3340960443019867
+          },
+          {
+            "begin_char": 291,
+            "end_char": 300,
+            "sentiment": "4 stars",
+            "score": 0.3995198607444763
+          },
+          {
+            "begin_char": 300,
+            "end_char": 542,
+            "sentiment": "4 stars",
+            "score": 0.3642033040523529
+          },
+          {
+            "begin_char": 543,
+            "end_char": 1071,
+            "sentiment": "4 stars",
+            "score": 0.4343913197517395
+          },
+          {
+            "begin_char": 1072,
+            "end_char": 1149,
+            "sentiment": "2 stars",
+            "score": 0.37187743186950684
+          },
+          {
+            "begin_char": 1150,
+            "end_char": 1577,
+            "sentiment": "3 stars",
+            "score": 0.35415956377983093
+          },
+          {
+            "begin_char": 1578,
+            "end_char": 1822,
+            "sentiment": "1 star",
+            "score": 0.5939494371414185
+          },
+          {
+            "begin_char": 1823,
+            "end_char": 1980,
+            "sentiment": "4 stars",
+            "score": 0.37426918745040894
+          },
+          {
+            "begin_char": 1981,
+            "end_char": 2090,
+            "sentiment": "1 star",
+            "score": 0.2927556335926056
+          },
+          {
+            "begin_char": 2091,
+            "end_char": 2106,
+            "sentiment": "3 stars",
+            "score": 0.3126199245452881
+          },
+          {
+            "begin_char": 2107,
+            "end_char": 2138,
+            "sentiment": "5 stars",
+            "score": 0.3411974310874939
+          },
+          {
+            "begin_char": 2138,
+            "end_char": 2346,
+            "sentiment": "5 stars",
+            "score": 0.40412333607673645
+          },
+          {
+            "begin_char": 2347,
+            "end_char": 2544,
+            "sentiment": "5 stars",
+            "score": 0.558154821395874
+          },
+          {
+            "begin_char": 2545,
+            "end_char": 2771,
+            "sentiment": "4 stars",
+            "score": 0.35826241970062256
+          },
+          {
+            "begin_char": 2771,
+            "end_char": 2805,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2806,
+            "end_char": 3149,
+            "sentiment": "4 stars",
+            "score": 0.33198049664497375
+          },
+          {
+            "begin_char": 3150,
+            "end_char": 3154,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3154,
+            "end_char": 3240,
+            "sentiment": "3 stars",
+            "score": 0.3324069678783417
+          },
+          {
+            "begin_char": 3241,
+            "end_char": 3428,
+            "sentiment": "5 stars",
+            "score": 0.5275927782058716
+          },
+          {
+            "begin_char": 3429,
+            "end_char": 3552,
+            "sentiment": "5 stars",
+            "score": 0.36764708161354065
+          },
+          {
+            "begin_char": 3553,
+            "end_char": 3721,
+            "sentiment": "2 stars",
+            "score": 0.2796928584575653
+          },
+          {
+            "begin_char": 3722,
+            "end_char": 3883,
+            "sentiment": "3 stars",
+            "score": 0.2839520573616028
+          },
+          {
+            "begin_char": 3884,
+            "end_char": 4009,
+            "sentiment": "5 stars",
+            "score": 0.4023875296115875
+          },
+          {
+            "begin_char": 4010,
+            "end_char": 4167,
+            "sentiment": "5 stars",
+            "score": 0.430792897939682
+          },
+          {
+            "begin_char": 4168,
+            "end_char": 4414,
+            "sentiment": "5 stars",
+            "score": 0.4108571410179138
+          },
+          {
+            "begin_char": 4415,
+            "end_char": 4555,
+            "sentiment": "5 stars",
+            "score": 0.3713610768318176
+          },
+          {
+            "begin_char": 4556,
+            "end_char": 4598,
+            "sentiment": "5 stars",
+            "score": 0.39138853549957275
+          },
+          {
+            "begin_char": 4598,
+            "end_char": 4720,
+            "sentiment": "4 stars",
+            "score": 0.4285958707332611
+          },
+          {
+            "begin_char": 4721,
+            "end_char": 4827,
+            "sentiment": "5 stars",
+            "score": 0.39085689187049866
+          },
+          {
+            "begin_char": 4828,
+            "end_char": 4888,
+            "sentiment": "5 stars",
+            "score": 0.2987512946128845
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-27",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-27",
+        "pageJO": "3105",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

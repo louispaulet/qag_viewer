@@ -1,0 +1,695 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG407",
+    "identifiant": {
+      "numero": "407",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "emploi et activité",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "EXPÉRIMENTATION FRANCE TRAVAIL"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793500",
+        "mandatRef": "PM796365"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> EXPÉRIMENTATION FRANCE TRAVAIL <a name=PG21></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Benoît Bordat.<br><br><strong>M. Benoît Bordat. </strong>Monsieur le ministre du travail, du plein emploi et de l'insertion, sous cette législature, notre majorité s'est fixé pour objectif d'atteindre le plein emploi.<br><br><strong>M. Fabien Di Filippo.</strong> Ce n'est pas en augmentant les aides sociales que vous allez y arriver !<br><br><strong>M. Benoît Bordat. </strong>Moins de chômage, c'est la promesse de redonner de l'espoir aux personnes en situation de précarité. C'est également une réponse aux entreprises touchées par la pénurie de main-d'œuvre. <br><br>En Côte d'Or, depuis le début de l'année, nous connaissons un taux de chômage historiquement faible de 5,5 %. C'est le résultat de la politique ambitieuse de notre majorité et des acteurs locaux.<br><br><strong>M. Pierre Cordier.</strong> N'importe quoi !<br><br><strong>M. Benoît Bordat. </strong>Mais de nombreuses personnes restent encore au bord du chemin.<br><br>Cela veut dire qu'il faut agir avec force et vigueur, en coordination avec l'ensemble des acteurs. La réforme France Travail vise à donner plus de visibilité aux demandeurs d'emploi, parfois perdus face à la multiplicité des acteurs qui peuvent les accompagner. Je tiens d'ailleurs à remercier les acteurs de l'emploi et de l'insertion, comme le groupe ID'EES 21 en Côte d'Or, qui réalisent un travail formidable pour la réinsertion.<br><br>Cette expérimentation, qui s'inscrit dans la lignée du Conseil national de la refondation, repose sur la conviction forte que nul n'est inemployable.<br><br><strong>M. Pierre Cordier.</strong> Allô ?<br><br><strong>M. Benoît Bordat. </strong>Il s'agit de proposer de nouvelles solutions pour favoriser la réinsertion des personnes éloignées de l'emploi.<br><br><strong>M. Pierre Cordier.</strong> Allô ?<br><br><strong>M. Benoît Bordat. </strong>C'est bien là notre objectif : accompagner, expérimenter, innover, pour sortir d'une situation qui perdure pour un trop grand nombre de nos concitoyens. Avec tous les acteurs de l'emploi, les collectivités et les services de l'État, nous sommes prêts à mener ces expérimentations en Côte d'Or.<br><br><strong>M. Pierre Cordier.</strong> Allô ?<br><br><strong>M. Benoît Bordat. </strong>J'entends cependant la gauche radicale et l'extrême droite répandre de fausses informations sur nos intentions. Aussi, monsieur le ministre, pourriez-vous nous préciser les modalités de mise en œuvre de la réforme France Travail visant à aider l'insertion des Françaises et des Français les plus éloignés de l'emploi ? <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Pierre Cordier.</strong> Et de la rédaction des questions !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Les chiffres de l'emploi sont bons depuis maintenant plusieurs années. Le taux de chômage atteint 7,3 %, soit le taux le plus bas depuis plus de quinze ans. Selon les chiffres publiés ce matin par l'Insee, au troisième trimestre de l'année 2022, l'économie française a créé 120 000 emplois. D'ores et déjà, nous avons créé plus de 900 000 emplois par rapport au début de la crise du covid. Si l'on nous avait dit cela au mois de décembre 2019, personne ne l'aurait cru.<br><br>Ces créations sont également le fruit du plan France relance et des mesures d'urgence. Il nous faut aller vers le plein emploi en accompagnant vers l'emploi celles et ceux qui en sont le plus éloignés. Nous le ferons avec la réforme France Travail, laquelle ne consiste pas en une fusion des différentes structures mais en une meilleure coordination de tous les acteurs de l'emploi autour de l'usager, demandeur d'emploi ou chef d'entreprise qui recrute, afin de lui proposer des parcours sans couture et l'accès, le plus souvent possible, à un guichet unique. Notre système de l'emploi s'en trouvera bien plus lisible et plus efficace.<br><br>Nous devons également accompagner le retour à l'emploi de ceux qui en sont les plus éloignés, notamment les allocataires des minima sociaux et du RSA, ainsi que le Président de la République s'y est engagé.<br><br>Se croire quitte de son devoir de solidarité parce qu'on verse une allocation est une forme d'hypocrisie : nous devons accompagner le retour à l'emploi et permettre à ces personnes d'être à nouveau émancipées et de retrouver leur dignité. Il s'agit non pas de travail gratuit ou de bénévolat obligatoire, mais d'insertion et de formation, grâce à la mobilisation de tous les acteurs. Nous élaborerons cette démarche avec les acteurs locaux.<br><br>J'ai sollicité les départements de France, et quarante-cinq d'entre eux se sont dits prêts à s'engager dans l'expérimentation. Ce soir, nous annoncerons les dix-neuf départements retenus, parmi lesquels figure le département de la Côte d'Or, où les acteurs sont prêts. Nous étions ensemble dans les locaux d'ID'EES 21. Ils ont démontré que faire travailler tout le monde ensemble est plus efficace pour que celles et ceux qui sont les plus éloignés de l'emploi puissent être réinsérés et accompagnés dans tous les domaines de la vie quotidienne – logement, mobilité, santé et formation – pour retrouver un emploi, leur dignité et être à nouveau émancipés. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 46,
+            "end_char": 53,
+            "label": "ORG",
+            "text": "TRAVAIL"
+          },
+          {
+            "start_char": 88,
+            "end_char": 91,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 132,
+            "end_char": 134,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 135,
+            "end_char": 141,
+            "label": "PER",
+            "text": "Benoît"
+          },
+          {
+            "start_char": 168,
+            "end_char": 181,
+            "label": "PER",
+            "text": "Benoît Bordat"
+          },
+          {
+            "start_char": 192,
+            "end_char": 200,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 368,
+            "end_char": 377,
+            "label": "PER",
+            "text": "M. Fabien"
+          },
+          {
+            "start_char": 378,
+            "end_char": 397,
+            "label": "PER",
+            "text": "Di Filippo.</strong"
+          },
+          {
+            "start_char": 490,
+            "end_char": 503,
+            "label": "PER",
+            "text": "Benoît Bordat"
+          },
+          {
+            "start_char": 711,
+            "end_char": 720,
+            "label": "LOC",
+            "text": "Côte d'Or"
+          },
+          {
+            "start_char": 922,
+            "end_char": 945,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 982,
+            "end_char": 995,
+            "label": "PER",
+            "text": "Benoît Bordat"
+          },
+          {
+            "start_char": 1061,
+            "end_char": 1075,
+            "label": "MISC",
+            "text": "chemin.<br><br"
+          },
+          {
+            "start_char": 1186,
+            "end_char": 1192,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1429,
+            "end_char": 1435,
+            "label": "ORG",
+            "text": "ID'EES"
+          },
+          {
+            "start_char": 1442,
+            "end_char": 1451,
+            "label": "LOC",
+            "text": "Côte d'Or"
+          },
+          {
+            "start_char": 1497,
+            "end_char": 1516,
+            "label": "MISC",
+            "text": "réinsertion.<br><br"
+          },
+          {
+            "start_char": 1572,
+            "end_char": 1606,
+            "label": "ORG",
+            "text": "Conseil national de la refondation"
+          },
+          {
+            "start_char": 1685,
+            "end_char": 1714,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong> Allô"
+          },
+          {
+            "start_char": 1735,
+            "end_char": 1748,
+            "label": "PER",
+            "text": "Benoît Bordat"
+          },
+          {
+            "start_char": 1889,
+            "end_char": 1918,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong> Allô"
+          },
+          {
+            "start_char": 1939,
+            "end_char": 1952,
+            "label": "PER",
+            "text": "Benoît Bordat"
+          },
+          {
+            "start_char": 2190,
+            "end_char": 2194,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2246,
+            "end_char": 2271,
+            "label": "LOC",
+            "text": "Côte d'Or.<br><br><strong"
+          },
+          {
+            "start_char": 2275,
+            "end_char": 2304,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong> Allô"
+          },
+          {
+            "start_char": 2325,
+            "end_char": 2338,
+            "label": "PER",
+            "text": "Benoît Bordat"
+          },
+          {
+            "start_char": 2563,
+            "end_char": 2569,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 2609,
+            "end_char": 2619,
+            "label": "LOC",
+            "text": "Françaises"
+          },
+          {
+            "start_char": 2627,
+            "end_char": 2635,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2719,
+            "end_char": 2742,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2743,
+            "end_char": 2746,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2787,
+            "end_char": 2789,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2836,
+            "end_char": 2838,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2867,
+            "end_char": 2890,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 2942,
+            "end_char": 2952,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3017,
+            "end_char": 3028,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 3233,
+            "end_char": 3238,
+            "label": "ORG",
+            "text": "Insee"
+          },
+          {
+            "start_char": 3552,
+            "end_char": 3563,
+            "label": "ORG",
+            "text": "plan France"
+          },
+          {
+            "start_char": 3744,
+            "end_char": 3750,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 4319,
+            "end_char": 4345,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4802,
+            "end_char": 4817,
+            "label": "MISC",
+            "text": "locaux.<br><br>"
+          },
+          {
+            "start_char": 4852,
+            "end_char": 4858,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 5030,
+            "end_char": 5057,
+            "label": "LOC",
+            "text": "département de la Côte d'Or"
+          },
+          {
+            "start_char": 5125,
+            "end_char": 5128,
+            "label": "LOC",
+            "text": "ID'"
+          },
+          {
+            "start_char": 5128,
+            "end_char": 5131,
+            "label": "ORG",
+            "text": "EES"
+          },
+          {
+            "start_char": 5525,
+            "end_char": 5527,
+            "label": "MISC",
+            "text": "RE"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 45,
+            "sentiment": "5 stars",
+            "score": 0.2883353531360626
+          },
+          {
+            "begin_char": 46,
+            "end_char": 53,
+            "sentiment": "5 stars",
+            "score": 0.7409816980361938
+          },
+          {
+            "begin_char": 54,
+            "end_char": 106,
+            "sentiment": "3 stars",
+            "score": 0.2973717749118805
+          },
+          {
+            "begin_char": 107,
+            "end_char": 182,
+            "sentiment": "4 stars",
+            "score": 0.27482298016548157
+          },
+          {
+            "begin_char": 183,
+            "end_char": 192,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 192,
+            "end_char": 377,
+            "sentiment": "4 stars",
+            "score": 0.36549630761146545
+          },
+          {
+            "begin_char": 378,
+            "end_char": 398,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 399,
+            "end_char": 471,
+            "sentiment": "2 stars",
+            "score": 0.2440744936466217
+          },
+          {
+            "begin_char": 471,
+            "end_char": 504,
+            "sentiment": "3 stars",
+            "score": 0.2914420962333679
+          },
+          {
+            "begin_char": 505,
+            "end_char": 614,
+            "sentiment": "5 stars",
+            "score": 0.337128221988678
+          },
+          {
+            "begin_char": 615,
+            "end_char": 699,
+            "sentiment": "4 stars",
+            "score": 0.4181858003139496
+          },
+          {
+            "begin_char": 700,
+            "end_char": 708,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 708,
+            "end_char": 785,
+            "sentiment": "3 stars",
+            "score": 0.266745924949646
+          },
+          {
+            "begin_char": 786,
+            "end_char": 817,
+            "sentiment": "3 stars",
+            "score": 0.4512372612953186
+          },
+          {
+            "begin_char": 818,
+            "end_char": 946,
+            "sentiment": "4 stars",
+            "score": 0.37659603357315063
+          },
+          {
+            "begin_char": 947,
+            "end_char": 963,
+            "sentiment": "1 star",
+            "score": 0.8737018704414368
+          },
+          {
+            "begin_char": 963,
+            "end_char": 996,
+            "sentiment": "3 stars",
+            "score": 0.2914420962333679
+          },
+          {
+            "begin_char": 997,
+            "end_char": 1174,
+            "sentiment": "4 stars",
+            "score": 0.3921831548213959
+          },
+          {
+            "begin_char": 1175,
+            "end_char": 1192,
+            "sentiment": "4 stars",
+            "score": 0.33185550570487976
+          },
+          {
+            "begin_char": 1193,
+            "end_char": 1337,
+            "sentiment": "4 stars",
+            "score": 0.46023881435394287
+          },
+          {
+            "begin_char": 1338,
+            "end_char": 1749,
+            "sentiment": "5 stars",
+            "score": 0.706735372543335
+          },
+          {
+            "begin_char": 1750,
+            "end_char": 1759,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1759,
+            "end_char": 1920,
+            "sentiment": "3 stars",
+            "score": 0.29775285720825195
+          },
+          {
+            "begin_char": 1920,
+            "end_char": 1953,
+            "sentiment": "3 stars",
+            "score": 0.2914420962333679
+          },
+          {
+            "begin_char": 1954,
+            "end_char": 1963,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1963,
+            "end_char": 2115,
+            "sentiment": "5 stars",
+            "score": 0.5735309720039368
+          },
+          {
+            "begin_char": 2116,
+            "end_char": 2306,
+            "sentiment": "5 stars",
+            "score": 0.4165489673614502
+          },
+          {
+            "begin_char": 2306,
+            "end_char": 2339,
+            "sentiment": "3 stars",
+            "score": 0.2914420962333679
+          },
+          {
+            "begin_char": 2340,
+            "end_char": 2349,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2349,
+            "end_char": 2460,
+            "sentiment": "1 star",
+            "score": 0.28016847372055054
+          },
+          {
+            "begin_char": 2461,
+            "end_char": 2569,
+            "sentiment": "4 stars",
+            "score": 0.37065941095352173
+          },
+          {
+            "begin_char": 2570,
+            "end_char": 2667,
+            "sentiment": "3 stars",
+            "score": 0.3041872978210449
+          },
+          {
+            "begin_char": 2668,
+            "end_char": 2761,
+            "sentiment": "3 stars",
+            "score": 0.3051096200942993
+          },
+          {
+            "begin_char": 2762,
+            "end_char": 2926,
+            "sentiment": "5 stars",
+            "score": 0.2590649724006653
+          },
+          {
+            "begin_char": 2926,
+            "end_char": 3029,
+            "sentiment": "4 stars",
+            "score": 0.30193448066711426
+          },
+          {
+            "begin_char": 3030,
+            "end_char": 3104,
+            "sentiment": "4 stars",
+            "score": 0.34856435656547546
+          },
+          {
+            "begin_char": 3105,
+            "end_char": 3190,
+            "sentiment": "3 stars",
+            "score": 0.24330677092075348
+          },
+          {
+            "begin_char": 3191,
+            "end_char": 3324,
+            "sentiment": "5 stars",
+            "score": 0.34082233905792236
+          },
+          {
+            "begin_char": 3325,
+            "end_char": 3423,
+            "sentiment": "5 stars",
+            "score": 0.6052917242050171
+          },
+          {
+            "begin_char": 3424,
+            "end_char": 3597,
+            "sentiment": "5 stars",
+            "score": 0.46116214990615845
+          },
+          {
+            "begin_char": 3598,
+            "end_char": 3712,
+            "sentiment": "5 stars",
+            "score": 0.5514001846313477
+          },
+          {
+            "begin_char": 3713,
+            "end_char": 3750,
+            "sentiment": "5 stars",
+            "score": 0.375883013010025
+          },
+          {
+            "begin_char": 3751,
+            "end_char": 3758,
+            "sentiment": "4 stars",
+            "score": 0.36543527245521545
+          },
+          {
+            "begin_char": 3758,
+            "end_char": 4071,
+            "sentiment": "5 stars",
+            "score": 0.4970588684082031
+          },
+          {
+            "begin_char": 4072,
+            "end_char": 4155,
+            "sentiment": "5 stars",
+            "score": 0.40281176567077637
+          },
+          {
+            "begin_char": 4155,
+            "end_char": 4607,
+            "sentiment": "5 stars",
+            "score": 0.5657012462615967
+          },
+          {
+            "begin_char": 4608,
+            "end_char": 4752,
+            "sentiment": "5 stars",
+            "score": 0.5552904009819031
+          },
+          {
+            "begin_char": 4753,
+            "end_char": 4817,
+            "sentiment": "4 stars",
+            "score": 0.3888954520225525
+          },
+          {
+            "begin_char": 4817,
+            "end_char": 4943,
+            "sentiment": "5 stars",
+            "score": 0.4143010079860687
+          },
+          {
+            "begin_char": 4944,
+            "end_char": 5085,
+            "sentiment": "5 stars",
+            "score": 0.3368879556655884
+          },
+          {
+            "begin_char": 5086,
+            "end_char": 5135,
+            "sentiment": "5 stars",
+            "score": 0.34534692764282227
+          },
+          {
+            "begin_char": 5136,
+            "end_char": 5472,
+            "sentiment": "5 stars",
+            "score": 0.7573317885398865
+          },
+          {
+            "begin_char": 5473,
+            "end_char": 5548,
+            "sentiment": "3 stars",
+            "score": 0.34096047282218933
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-15",
+        "pageJO": "7024",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

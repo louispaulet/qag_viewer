@@ -1,0 +1,623 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG132",
+    "identifiant": {
+      "numero": "132",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enseignement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Situation des accompagnants d'élèves en situation de handicap"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795794",
+        "mandatRef": "PM797688"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Éducation nationale et jeunesse",
+      "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-05",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Éducation nationale et jeunesse",
+          "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-05",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION DES ACCOMPAGNANTS D’ÉLÈVES EN SITUATION DE HANDICAP <a name=PG23></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Francesca Pasquini.<br><br><strong>Mme Francesca Pasquini. </strong>Monsieur le ministre de l'éducation nationale et de la jeunesse, cette assemblée a accueilli aujourd'hui la première réunion de la délégation aux droits des enfants. Après une rentrée scolaire placée sous le signe de la pénurie, il était temps que cette délégation voit le jour car, quotidiennement, les droits des enfants en situation de handicap sont bafoués en France.<br><br>Lequel de mes collègues ici présents n'a pas été interpellé pour défendre le cas d'un ou de plusieurs élèves qui n'ont pas d'AESH – accompagnant d'élèves en situation de handicap – afin de les aider dans leur scolarité ? Nous le sommes tous, de façon quotidienne. Chaque jour, l'accès à l'école de ces élèves est mis à mal par le manque d'AESH. Il n'y a, selon les chiffres du ministère de l'éducation nationale et de la jeunesse, qu'un accompagnant pour quatre élèves en situation de handicap et 97 % des accompagnants effectuent un temps partiel forcé.<br><br>Chaque jour, la France contrevient au droit à l'éducation pour tous, ce droit fondamental scellé par notre Constitution et par la Convention internationale des droits de l'enfant. La Défenseure des droits est fréquemment saisie de cette question et décrit « une situation de bricolage ».<br><br>Chaque jour, ce manque d'AESH fait grandir la souffrance et le sentiment d'abandon que ressentent 430 000 familles en détresse, 430 000 enfants dans le besoin et 119 000 AESH exerçant dans des conditions inacceptables. Cette injustice cache aussi une inégalité de genre. Je ne vous apprends rien en vous disant que 92 % des AESH sont des femmes, mais sachez aussi que quand l'école est défaillante, ce sont les mères de ces enfants qui sacrifient leur carrière professionnelle, leur vie sociale, parfois même les autres enfants de la fratrie. C'est indigne pour notre pays.<br><br>Ma question est donc simple, monsieur le ministre : que prévoyez-vous à court terme pour mettre fin à cette situation d'urgence absolue ? Pensez-vous que la création de 4 000 postes sans le statut pérenne de la fonction publique et avec un salaire au lance-pierres suffira à rétablir les droits de l'enfant dans notre pays ? <i>(Applaudissements sur les bancs des groupes Écolo-NUPES et GDR-NUPES, ainsi que sur plusieurs bancs des groupes LFI-NUPES et SOC.)</i><br><br><strong>Mme la présidente. </strong>Madame la députée, je vous remercie d'avoir rappelé la création de la délégation aux droits de l’enfant dont la réunion constitutive a eu lieu aujourd’hui. Je remercie l'ensemble des présidents de groupe qui s'étaient tous prononcés en faveur de la création de cette délégation en conférence des présidents, et je salue sa nouvelle présidente fraîchement élue, Mme Perrine Goulet. <i>(Applaudissements sur les bancs du groupe Dem et sur plusieurs bancs du groupe RE.)</i><br><br>La parole est à M. le ministre de l’éducation nationale et de la jeunesse.<br><br><strong>M. Pap Ndiaye,</strong><i> ministre de l’éducation nationale et de la jeunesse. </i>Le système scolaire français accueille plus de 430 000 élèves en situation de handicap ; c'est un motif de satisfaction et de fierté pour celles et ceux qui s'occupent de ces enfants. Leur prise en charge connaît une croissance de 6 à 10 % par an, ce qui est considérable. En outre, nous mobilisons des moyens importants pour employer plus de 130 000 AESH. Notons que 4 000 ont été recrutés à la rentrée, et que 4 000 le seront peut-être l'année prochaine, si toutefois vous approuvez cette mesure. C'est considérable.<br><br>Il faut néanmoins reconnaître que la croissance continue du nombre d'AESH ne peut pas être la seule réponse aux besoins des élèves en situation de handicap.<br><br><strong>M. Pierre Cordier.</strong> Vous le direz aux parents !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>On ne peut pas imaginer un AESH pour chaque élève en situation de handicap. Il y a des situations variables qui nécessitent des réponses variées. C'est pour cela que nous voulons entamer, ma collègue Geneviève Darrieussecq et moi-même, une phase de concertation et de réflexion avec les acteurs de l'école inclusive.<br><br><strong>M. Sébastien Jumel.</strong> Il y a déjà un rapport de commission d'enquête sur le sujet !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>Elle se tiendra dans la foulée de la conférence interministérielle sur le handicap qui va avoir lieu dans deux jours.<br><br><strong>M. Pierre Cordier.</strong> Encore une commission qui ne servira à rien !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>Les critères de notification, l'évaluation des besoins des élèves, les relations avec les maisons départementales des personnes handicapées (MDPH) ou encore la diversité des formes d'accompagnement sont autant de leviers sur lesquels nous devons agir.<br><br>Un grand pas va vous être proposé dès le projet de loi de finances pour 2023 pour mieux prendre en compte les situations de travail des AESH. En attendant, notre objectif est bien de poursuivre les avancées de l'inclusion des enfants en situation de handicap et d'assurer le meilleur accompagnement possible au sein de l'école de la République.<br> <p>",
+        "entities": [
+          {
+            "start_char": 33,
+            "end_char": 36,
+            "label": "MISC",
+            "text": "DES"
+          },
+          {
+            "start_char": 53,
+            "end_char": 59,
+            "label": "ORG",
+            "text": "ÉLÈVES"
+          },
+          {
+            "start_char": 76,
+            "end_char": 84,
+            "label": "LOC",
+            "text": "HANDICAP"
+          },
+          {
+            "start_char": 119,
+            "end_char": 122,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 163,
+            "end_char": 201,
+            "label": "PER",
+            "text": "Mme Francesca Pasquini.<br><br><strong"
+          },
+          {
+            "start_char": 202,
+            "end_char": 224,
+            "label": "PER",
+            "text": "Mme Francesca Pasquini"
+          },
+          {
+            "start_char": 235,
+            "end_char": 243,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 599,
+            "end_char": 613,
+            "label": "LOC",
+            "text": "France.<br><br"
+          },
+          {
+            "start_char": 739,
+            "end_char": 743,
+            "label": "MISC",
+            "text": "AESH"
+          },
+          {
+            "start_char": 953,
+            "end_char": 957,
+            "label": "MISC",
+            "text": "AESH"
+          },
+          {
+            "start_char": 1162,
+            "end_char": 1175,
+            "label": "MISC",
+            "text": "forcé.<br><br"
+          },
+          {
+            "start_char": 1189,
+            "end_char": 1198,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1283,
+            "end_char": 1295,
+            "label": "MISC",
+            "text": "Constitution"
+          },
+          {
+            "start_char": 1306,
+            "end_char": 1354,
+            "label": "ORG",
+            "text": "Convention internationale des droits de l'enfant"
+          },
+          {
+            "start_char": 1359,
+            "end_char": 1369,
+            "label": "PER",
+            "text": "Défenseure"
+          },
+          {
+            "start_char": 1496,
+            "end_char": 1500,
+            "label": "MISC",
+            "text": "AESH"
+          },
+          {
+            "start_char": 1641,
+            "end_char": 1645,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 1795,
+            "end_char": 1799,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 2039,
+            "end_char": 2051,
+            "label": "MISC",
+            "text": "pays.<br><br"
+          },
+          {
+            "start_char": 2424,
+            "end_char": 2435,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2439,
+            "end_char": 2448,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2492,
+            "end_char": 2501,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2505,
+            "end_char": 2529,
+            "label": "MISC",
+            "text": "SOC.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2530,
+            "end_char": 2533,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2558,
+            "end_char": 2564,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 2653,
+            "end_char": 2655,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2919,
+            "end_char": 2937,
+            "label": "PER",
+            "text": "Mme Perrine Goulet"
+          },
+          {
+            "start_char": 2984,
+            "end_char": 2987,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 3021,
+            "end_char": 3036,
+            "label": "ORG",
+            "text": "RE.)</i><br><br"
+          },
+          {
+            "start_char": 3053,
+            "end_char": 3055,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3071,
+            "end_char": 3073,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3127,
+            "end_char": 3133,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 3166,
+            "end_char": 3168,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3562,
+            "end_char": 3566,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 3716,
+            "end_char": 3736,
+            "label": "MISC",
+            "text": "considérable.<br><br"
+          },
+          {
+            "start_char": 3806,
+            "end_char": 3810,
+            "label": "MISC",
+            "text": "AESH"
+          },
+          {
+            "start_char": 3912,
+            "end_char": 3935,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 3983,
+            "end_char": 3986,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 4049,
+            "end_char": 4053,
+            "label": "MISC",
+            "text": "AESH"
+          },
+          {
+            "start_char": 4222,
+            "end_char": 4244,
+            "label": "PER",
+            "text": "Geneviève Darrieussecq"
+          },
+          {
+            "start_char": 4357,
+            "end_char": 4381,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong"
+          },
+          {
+            "start_char": 4463,
+            "end_char": 4466,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 4638,
+            "end_char": 4661,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 4727,
+            "end_char": 4730,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 5161,
+            "end_char": 5165,
+            "label": "ORG",
+            "text": "AESH"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 50,
+            "sentiment": "4 stars",
+            "score": 0.3053836524486542
+          },
+          {
+            "begin_char": 51,
+            "end_char": 137,
+            "sentiment": "3 stars",
+            "score": 0.33481019735336304
+          },
+          {
+            "begin_char": 138,
+            "end_char": 225,
+            "sentiment": "3 stars",
+            "score": 0.26018086075782776
+          },
+          {
+            "begin_char": 226,
+            "end_char": 235,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 235,
+            "end_char": 400,
+            "sentiment": "4 stars",
+            "score": 0.35378578305244446
+          },
+          {
+            "begin_char": 401,
+            "end_char": 834,
+            "sentiment": "5 stars",
+            "score": 0.30979517102241516
+          },
+          {
+            "begin_char": 835,
+            "end_char": 877,
+            "sentiment": "5 stars",
+            "score": 0.515539824962616
+          },
+          {
+            "begin_char": 878,
+            "end_char": 958,
+            "sentiment": "3 stars",
+            "score": 0.37221747636795044
+          },
+          {
+            "begin_char": 959,
+            "end_char": 1355,
+            "sentiment": "5 stars",
+            "score": 0.3970290720462799
+          },
+          {
+            "begin_char": 1356,
+            "end_char": 1471,
+            "sentiment": "3 stars",
+            "score": 0.3560822010040283
+          },
+          {
+            "begin_char": 1471,
+            "end_char": 1689,
+            "sentiment": "5 stars",
+            "score": 0.44196170568466187
+          },
+          {
+            "begin_char": 1690,
+            "end_char": 1741,
+            "sentiment": "4 stars",
+            "score": 0.3059687614440918
+          },
+          {
+            "begin_char": 1742,
+            "end_char": 2013,
+            "sentiment": "2 stars",
+            "score": 0.27863839268684387
+          },
+          {
+            "begin_char": 2014,
+            "end_char": 2189,
+            "sentiment": "1 star",
+            "score": 0.49314114451408386
+          },
+          {
+            "begin_char": 2190,
+            "end_char": 2376,
+            "sentiment": "5 stars",
+            "score": 0.347581684589386
+          },
+          {
+            "begin_char": 2377,
+            "end_char": 2548,
+            "sentiment": "4 stars",
+            "score": 0.3402359187602997
+          },
+          {
+            "begin_char": 2549,
+            "end_char": 2713,
+            "sentiment": "5 stars",
+            "score": 0.3970710039138794
+          },
+          {
+            "begin_char": 2714,
+            "end_char": 2938,
+            "sentiment": "5 stars",
+            "score": 0.5362826585769653
+          },
+          {
+            "begin_char": 2939,
+            "end_char": 3037,
+            "sentiment": "3 stars",
+            "score": 0.31615149974823
+          },
+          {
+            "begin_char": 3037,
+            "end_char": 3153,
+            "sentiment": "3 stars",
+            "score": 0.2794502079486847
+          },
+          {
+            "begin_char": 3154,
+            "end_char": 3206,
+            "sentiment": "4 stars",
+            "score": 0.30159011483192444
+          },
+          {
+            "begin_char": 3207,
+            "end_char": 3299,
+            "sentiment": "3 stars",
+            "score": 0.3146006464958191
+          },
+          {
+            "begin_char": 3300,
+            "end_char": 3394,
+            "sentiment": "5 stars",
+            "score": 0.5867207050323486
+          },
+          {
+            "begin_char": 3395,
+            "end_char": 3483,
+            "sentiment": "4 stars",
+            "score": 0.42856013774871826
+          },
+          {
+            "begin_char": 3484,
+            "end_char": 3567,
+            "sentiment": "5 stars",
+            "score": 0.4737730622291565
+          },
+          {
+            "begin_char": 3568,
+            "end_char": 3709,
+            "sentiment": "3 stars",
+            "score": 0.2530349791049957
+          },
+          {
+            "begin_char": 3710,
+            "end_char": 3737,
+            "sentiment": "5 stars",
+            "score": 0.4135422706604004
+          },
+          {
+            "begin_char": 3737,
+            "end_char": 3909,
+            "sentiment": "3 stars",
+            "score": 0.37090131640434265
+          },
+          {
+            "begin_char": 3909,
+            "end_char": 3936,
+            "sentiment": "3 stars",
+            "score": 0.29677677154541016
+          },
+          {
+            "begin_char": 3937,
+            "end_char": 3964,
+            "sentiment": "5 stars",
+            "score": 0.3800223469734192
+          },
+          {
+            "begin_char": 3964,
+            "end_char": 4017,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 4018,
+            "end_char": 4022,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4022,
+            "end_char": 4097,
+            "sentiment": "3 stars",
+            "score": 0.28615930676460266
+          },
+          {
+            "begin_char": 4098,
+            "end_char": 4167,
+            "sentiment": "4 stars",
+            "score": 0.4191329777240753
+          },
+          {
+            "begin_char": 4168,
+            "end_char": 4382,
+            "sentiment": "5 stars",
+            "score": 0.40513959527015686
+          },
+          {
+            "begin_char": 4383,
+            "end_char": 4444,
+            "sentiment": "2 stars",
+            "score": 0.255804181098938
+          },
+          {
+            "begin_char": 4444,
+            "end_char": 4497,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 4498,
+            "end_char": 4708,
+            "sentiment": "1 star",
+            "score": 0.4456161856651306
+          },
+          {
+            "begin_char": 4708,
+            "end_char": 4761,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 4762,
+            "end_char": 5025,
+            "sentiment": "4 stars",
+            "score": 0.42001867294311523
+          },
+          {
+            "begin_char": 5025,
+            "end_char": 5166,
+            "sentiment": "5 stars",
+            "score": 0.5989086627960205
+          },
+          {
+            "begin_char": 5167,
+            "end_char": 5377,
+            "sentiment": "5 stars",
+            "score": 0.5188643932342529
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-05",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-05",
+        "pageJO": "3542",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

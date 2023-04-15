@@ -1,0 +1,983 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG2",
+    "identifiant": {
+      "numero": "2",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "sécurité des biens et des personnes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Politique du gouvernement en matière de sécurité"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795958",
+        "mandatRef": "PM797778"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Intérieur et outre-mer",
+      "developpe": "Ministère de l’intérieur et des outre-mer"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Intérieur et outre-mer",
+          "developpe": "Ministère de l’intérieur et des outre-mer"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> POLITIQUE DU GOUVERNEMENT EN MATIÈRE DE SÉCURITÉ <a name=PG2></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Benjamin Haddad.<br><br><strong>M. Benjamin Haddad. </strong>Ma question s'adresse à M. Gérald Darmanin, ministre de l'intérieur… <br><br><strong>M. Maxime Minot.</strong> Bientôt à l'extérieur !<br><br><strong>M. Benjamin Haddad. </strong>…et des outre-mer. Avant toute chose, je tiens à saluer l'action du Gouvernement contre l'insécurité au cours des cinq dernières années. <i>(Vives protestations sur les bancs des groupes RN et LR. – Applaudissements sur les bancs des groupes RE, Dem et HOR.)</i> En effet, notre pays a connu une baisse historique de la délinquance, une baisse des cambriolages, une baisse des vols de véhicules et une baisse des vols avec arme et des vols violents. (Mêmes mouvements.)<br><br>Cependant, nos concitoyens sont toujours nombreux à nous interpeller face à la violence…<br><br><strong>M. Emeric Salmon.</strong> Qu'ils subissent !<br><br><strong>M. Benjamin Haddad. </strong>…qui frappe au quotidien,…<br><br><strong>Un député du groupe RN .</strong> Au Stade de France !<br><br><strong>M. Benjamin Haddad. </strong>…avec le sentiment que la délinquance reste encore trop souvent impunie. <i>(Exclamations sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente.</strong> Mes chers collègues, veuillez écouter la question.<br><br><strong>M. Benjamin Haddad. </strong>Nos forces de l'ordre sont aussi prises pour cible, et je veux ici rendre hommage aux femmes et aux hommes qui œuvrent au quotidien en risquant leur vie pour notre sécurité. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br>La lutte contre l'insécurité dans la défense de nos valeurs républicaines et de notre État de droit doit continuer d'être une priorité majeure de notre action.<br><br><strong>Un député .</strong> Un peu d'audace !<br><br><strong>M. Jocelyn Dessigny.</strong> Et pendant cinq ans, vous avez fait quoi ?<br><br><strong>M. Benjamin Haddad. </strong>Monsieur le ministre, vous présenterez prochainement la loi d'orientation et de programmation du ministère de l'intérieur. Celle-ci prévoit de renforcer les moyens des policiers et des gendarmes pour atteindre l'objectif fixé par le Président de la République : le doublement de la présence des forces de l'ordre sur le terrain.<br><br>Vous avez aussi indiqué vouloir permettre l'expulsion de tout étranger reconnu par la justice coupable d'un acte grave <i>(« Ah ! » sur les bancs du groupe RN)</i>, quelle que soit sa condition de présence sur le territoire national ; c'est une décision courageuse et de bon sens.<br><br>Envisagez-vous également de nouvelles mesures pour l'intégration dans notre modèle républicain ? Enfin, pouvez-vous nous en dire plus sur les dispositifs que vous prévoyez dans la loi de programmation pour renforcer les moyens de nos forces de l'ordre et continuer de protéger les Français ? <i>(Applaudissements sur les bancs du groupe RE. – « Allô ! » sur les bancs du groupe LR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’intérieur et des outre-mer.<br><br><strong>M. Gérald Darmanin,</strong><i> ministre de l’intérieur et des outre-mer. </i>Je vous confirme qu’à la demande de la Première ministre et du Président de la République, le Parlement aura bientôt à connaître de la loi de modernisation du ministère de l'intérieur qui prévoit 15 milliards d'euros supplémentaires à l’échelle du quinquennat, dont 1,25 milliard rien que pour l'année prochaine,…<br><br><strong>M. Thibault Bazin.</strong> Ça ne fait même pas un cinquième !<br><br><strong>M. Gérald Darmanin,</strong><i> ministre. </i>…notamment pour aboutir au doublement de la présence des forces de l'ordre sur le territoire mais aussi pour transformer en profondeur le ministère de l'intérieur qui fait face à des défis technologiques énormes, du fait d'une délinquance qui migre notamment sur internet. Sur les 15 milliards, 7 seront consacrés à la lutte contre la cyberdélinquance…<br><br><strong>Mme Sophia Chikirou.</strong> Et contre la délinquance financière ?<br><br><strong>M. Gérald Darmanin,</strong><i> ministre. </i>…et à la transformation numérique de nos forces de l'ordre. Ces moyens permettront d'accueillir l'ensemble des nouvelles forces de l'ordre dans de bonnes conditions, et je sais pouvoir compter sur le Parlement, notamment sur la majorité, pour voter ces crédits. Je tiens d’ailleurs à remercier les membres de l’ancienne majorité,…<br><br><strong>M. Pierre Cordier.</strong> Ils sont minoritaires maintenant !<br><br><strong>M. Gérald Darmanin,</strong><i> ministre . </i>…car ils ont été les seuls à voter les crédits budgétaires qui nous ont permis de doubler le nombre de policiers et de gendarmes. <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR. - M. Éric Ciotti s’exclame.)</i><br><br><strong>M. Fabien Di Filippo.</strong> Ils ne changeront jamais !<br><br><strong>M. Gérald Darmanin,</strong><i> ministre. </i>À la demande de la Première ministre, et afin d’appliquer le programme du Président de la République, j’ai proposé de procéder à des expulsions qui sont déjà prévues par le code pénal - par exemple en cas de radicalisation, ou lorsqu’une peine a définitivement été prononcée par la justice -, mais auxquelles un certain nombre de règles sans doute un peu datées font malheureusement obstacle.<i> (M. Ugo Bernalicis s'exclame.)</i><br><br><strong>M. Patrick Hetzel.</strong> Dommage que vous n'ayez pas été ministre plus tôt…<br><br><strong>M. Gérald Darmanin,</strong><i> ministre . </i>Je tiens à dire qu’en un peu plus d’un an, depuis la fin de la période liée au covid-19, nous avons expulsé 2 650 étrangers en application directe de décisions de l'autorité judiciaire.<br><br><strong>M. Jocelyn Dessigny.</strong> Mais qu’avez-vous fait pendant cinq ans ?<br><br><strong>M. Gérald Darmanin,</strong><i> ministre. </i>L'intégration est également un point très important : à la demande de la Première ministre, nous doublerons les crédits qui y sont consacrés. Nous subordonnerons notamment la délivrance de la carte de séjour pluriannuelle, destinée aux étrangers qui passent plusieurs années sur le territoire national, à l'apprentissage du français. Surtout, pour devenir Français par naturalisation ou dans le cadre d'un examen de régularisation, il faudra maîtriser la langue française. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>M. Jocelyn Dessigny.</strong> Pourquoi ne pas l'avoir fait plus tôt ?<br> <p>",
+        "entities": [
+          {
+            "start_char": 52,
+            "end_char": 59,
+            "label": "ORG",
+            "text": "MATIÈRE"
+          },
+          {
+            "start_char": 63,
+            "end_char": 71,
+            "label": "ORG",
+            "text": "SÉCURITÉ"
+          },
+          {
+            "start_char": 80,
+            "end_char": 87,
+            "label": "PER",
+            "text": "PG2></a"
+          },
+          {
+            "start_char": 105,
+            "end_char": 108,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 149,
+            "end_char": 183,
+            "label": "PER",
+            "text": "M. Benjamin Haddad.<br><br><strong"
+          },
+          {
+            "start_char": 187,
+            "end_char": 202,
+            "label": "PER",
+            "text": "Benjamin Haddad"
+          },
+          {
+            "start_char": 237,
+            "end_char": 239,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 240,
+            "end_char": 255,
+            "label": "PER",
+            "text": "Gérald Darmanin"
+          },
+          {
+            "start_char": 301,
+            "end_char": 322,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 366,
+            "end_char": 381,
+            "label": "PER",
+            "text": "Benjamin Haddad"
+          },
+          {
+            "start_char": 460,
+            "end_char": 472,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 579,
+            "end_char": 581,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 585,
+            "end_char": 587,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 591,
+            "end_char": 607,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 634,
+            "end_char": 636,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 638,
+            "end_char": 653,
+            "label": "MISC",
+            "text": "Dem et HOR.)</i"
+          },
+          {
+            "start_char": 843,
+            "end_char": 848,
+            "label": "LOC",
+            "text": "Mêmes"
+          },
+          {
+            "start_char": 976,
+            "end_char": 982,
+            "label": "PER",
+            "text": "Emeric"
+          },
+          {
+            "start_char": 1037,
+            "end_char": 1052,
+            "label": "PER",
+            "text": "Benjamin Haddad"
+          },
+          {
+            "start_char": 1125,
+            "end_char": 1127,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 1142,
+            "end_char": 1157,
+            "label": "LOC",
+            "text": "Stade de France"
+          },
+          {
+            "start_char": 1178,
+            "end_char": 1193,
+            "label": "PER",
+            "text": "Benjamin Haddad"
+          },
+          {
+            "start_char": 1318,
+            "end_char": 1341,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1342,
+            "end_char": 1368,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 1370,
+            "end_char": 1389,
+            "label": "MISC",
+            "text": "Mes chers collègues"
+          },
+          {
+            "start_char": 1439,
+            "end_char": 1454,
+            "label": "PER",
+            "text": "Benjamin Haddad"
+          },
+          {
+            "start_char": 1684,
+            "end_char": 1699,
+            "label": "ORG",
+            "text": "RE.)</i><br><br"
+          },
+          {
+            "start_char": 1786,
+            "end_char": 1790,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1932,
+            "end_char": 1957,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 2020,
+            "end_char": 2035,
+            "label": "PER",
+            "text": "Benjamin Haddad"
+          },
+          {
+            "start_char": 2046,
+            "end_char": 2054,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2279,
+            "end_char": 2305,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 2366,
+            "end_char": 2381,
+            "label": "MISC",
+            "text": "terrain.<br><br"
+          },
+          {
+            "start_char": 2507,
+            "end_char": 2511,
+            "label": "MISC",
+            "text": "Ah !"
+          },
+          {
+            "start_char": 2538,
+            "end_char": 2544,
+            "label": "ORG",
+            "text": "RN)</i"
+          },
+          {
+            "start_char": 2657,
+            "end_char": 2669,
+            "label": "ORG",
+            "text": "sens.<br><br"
+          },
+          {
+            "start_char": 2670,
+            "end_char": 2679,
+            "label": "LOC",
+            "text": "Envisagez"
+          },
+          {
+            "start_char": 2951,
+            "end_char": 2959,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3000,
+            "end_char": 3009,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 3015,
+            "end_char": 3019,
+            "label": "PER",
+            "text": "Allô"
+          },
+          {
+            "start_char": 3048,
+            "end_char": 3071,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3072,
+            "end_char": 3075,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3116,
+            "end_char": 3118,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3134,
+            "end_char": 3136,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3179,
+            "end_char": 3188,
+            "label": "PER",
+            "text": "M. Gérald"
+          },
+          {
+            "start_char": 3223,
+            "end_char": 3225,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3296,
+            "end_char": 3319,
+            "label": "MISC",
+            "text": "Première ministre et du"
+          },
+          {
+            "start_char": 3320,
+            "end_char": 3346,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3351,
+            "end_char": 3360,
+            "label": "ORG",
+            "text": "Parlement"
+          },
+          {
+            "start_char": 3492,
+            "end_char": 3494,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3586,
+            "end_char": 3597,
+            "label": "PER",
+            "text": "M. Thibault"
+          },
+          {
+            "start_char": 3614,
+            "end_char": 3616,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 3667,
+            "end_char": 3673,
+            "label": "PER",
+            "text": "Gérald"
+          },
+          {
+            "start_char": 4078,
+            "end_char": 4106,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong"
+          },
+          {
+            "start_char": 4164,
+            "end_char": 4170,
+            "label": "PER",
+            "text": "Gérald"
+          },
+          {
+            "start_char": 4407,
+            "end_char": 4416,
+            "label": "ORG",
+            "text": "Parlement"
+          },
+          {
+            "start_char": 4516,
+            "end_char": 4518,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 4556,
+            "end_char": 4579,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 4634,
+            "end_char": 4640,
+            "label": "PER",
+            "text": "Gérald"
+          },
+          {
+            "start_char": 4855,
+            "end_char": 4857,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4859,
+            "end_char": 4862,
+            "label": "MISC",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4866,
+            "end_char": 4869,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 4876,
+            "end_char": 4890,
+            "label": "PER",
+            "text": "Éric Ciotti s’"
+          },
+          {
+            "start_char": 4929,
+            "end_char": 4953,
+            "label": "PER",
+            "text": "Di Filippo.</strong> Ils"
+          },
+          {
+            "start_char": 4995,
+            "end_char": 5001,
+            "label": "PER",
+            "text": "Gérald"
+          },
+          {
+            "start_char": 5057,
+            "end_char": 5065,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 5084,
+            "end_char": 5086,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 5112,
+            "end_char": 5138,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 5140,
+            "end_char": 5142,
+            "label": "LOC",
+            "text": "j’"
+          },
+          {
+            "start_char": 5438,
+            "end_char": 5452,
+            "label": "PER",
+            "text": "Ugo Bernalicis"
+          },
+          {
+            "start_char": 5487,
+            "end_char": 5519,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong> Dommage"
+          },
+          {
+            "start_char": 5581,
+            "end_char": 5587,
+            "label": "PER",
+            "text": "Gérald"
+          },
+          {
+            "start_char": 5829,
+            "end_char": 5854,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 5916,
+            "end_char": 5922,
+            "label": "PER",
+            "text": "Gérald"
+          },
+          {
+            "start_char": 6032,
+            "end_char": 6040,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 6315,
+            "end_char": 6323,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 6477,
+            "end_char": 6500,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 6504,
+            "end_char": 6530,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong>"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 123,
+            "sentiment": "4 stars",
+            "score": 0.322846382856369
+          },
+          {
+            "begin_char": 124,
+            "end_char": 203,
+            "sentiment": "4 stars",
+            "score": 0.2655732333660126
+          },
+          {
+            "begin_char": 204,
+            "end_char": 347,
+            "sentiment": "3 stars",
+            "score": 0.2565878927707672
+          },
+          {
+            "begin_char": 347,
+            "end_char": 382,
+            "sentiment": "3 stars",
+            "score": 0.2818904519081116
+          },
+          {
+            "begin_char": 383,
+            "end_char": 410,
+            "sentiment": "3 stars",
+            "score": 0.2560337781906128
+          },
+          {
+            "begin_char": 411,
+            "end_char": 528,
+            "sentiment": "5 stars",
+            "score": 0.5142297744750977
+          },
+          {
+            "begin_char": 529,
+            "end_char": 538,
+            "sentiment": "3 stars",
+            "score": 0.2765619456768036
+          },
+          {
+            "begin_char": 539,
+            "end_char": 591,
+            "sentiment": "4 stars",
+            "score": 0.2999342679977417
+          },
+          {
+            "begin_char": 591,
+            "end_char": 607,
+            "sentiment": "5 stars",
+            "score": 0.48437026143074036
+          },
+          {
+            "begin_char": 608,
+            "end_char": 653,
+            "sentiment": "3 stars",
+            "score": 0.35744184255599976
+          },
+          {
+            "begin_char": 653,
+            "end_char": 654,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 655,
+            "end_char": 841,
+            "sentiment": "4 stars",
+            "score": 0.32405367493629456
+          },
+          {
+            "begin_char": 842,
+            "end_char": 999,
+            "sentiment": "5 stars",
+            "score": 0.3149002194404602
+          },
+          {
+            "begin_char": 1000,
+            "end_char": 1018,
+            "sentiment": "5 stars",
+            "score": 0.31336575746536255
+          },
+          {
+            "begin_char": 1018,
+            "end_char": 1053,
+            "sentiment": "3 stars",
+            "score": 0.2818904519081116
+          },
+          {
+            "begin_char": 1054,
+            "end_char": 1138,
+            "sentiment": "3 stars",
+            "score": 0.32521310448646545
+          },
+          {
+            "begin_char": 1139,
+            "end_char": 1159,
+            "sentiment": "5 stars",
+            "score": 0.4616882801055908
+          },
+          {
+            "begin_char": 1159,
+            "end_char": 1194,
+            "sentiment": "3 stars",
+            "score": 0.2818904519081116
+          },
+          {
+            "begin_char": 1195,
+            "end_char": 1276,
+            "sentiment": "2 stars",
+            "score": 0.3127261698246002
+          },
+          {
+            "begin_char": 1277,
+            "end_char": 1369,
+            "sentiment": "3 stars",
+            "score": 0.3135361969470978
+          },
+          {
+            "begin_char": 1370,
+            "end_char": 1389,
+            "sentiment": "5 stars",
+            "score": 0.3795832395553589
+          },
+          {
+            "begin_char": 1389,
+            "end_char": 1455,
+            "sentiment": "3 stars",
+            "score": 0.2630992829799652
+          },
+          {
+            "begin_char": 1456,
+            "end_char": 1465,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1465,
+            "end_char": 1638,
+            "sentiment": "5 stars",
+            "score": 0.5978296995162964
+          },
+          {
+            "begin_char": 1639,
+            "end_char": 1895,
+            "sentiment": "4 stars",
+            "score": 0.42055967450141907
+          },
+          {
+            "begin_char": 1896,
+            "end_char": 1913,
+            "sentiment": "3 stars",
+            "score": 0.3080187439918518
+          },
+          {
+            "begin_char": 1913,
+            "end_char": 1957,
+            "sentiment": "3 stars",
+            "score": 0.33134615421295166
+          },
+          {
+            "begin_char": 1957,
+            "end_char": 1958,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 1959,
+            "end_char": 2001,
+            "sentiment": "1 star",
+            "score": 0.5624353885650635
+          },
+          {
+            "begin_char": 2001,
+            "end_char": 2036,
+            "sentiment": "3 stars",
+            "score": 0.2818904519081116
+          },
+          {
+            "begin_char": 2037,
+            "end_char": 2046,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2046,
+            "end_char": 2168,
+            "sentiment": "4 stars",
+            "score": 0.38484013080596924
+          },
+          {
+            "begin_char": 2169,
+            "end_char": 2382,
+            "sentiment": "4 stars",
+            "score": 0.4378998279571533
+          },
+          {
+            "begin_char": 2382,
+            "end_char": 2616,
+            "sentiment": "4 stars",
+            "score": 0.30361393094062805
+          },
+          {
+            "begin_char": 2617,
+            "end_char": 2766,
+            "sentiment": "5 stars",
+            "score": 0.5627884864807129
+          },
+          {
+            "begin_char": 2767,
+            "end_char": 2961,
+            "sentiment": "5 stars",
+            "score": 0.39083871245384216
+          },
+          {
+            "begin_char": 2962,
+            "end_char": 3090,
+            "sentiment": "3 stars",
+            "score": 0.2985726296901703
+          },
+          {
+            "begin_char": 3091,
+            "end_char": 3210,
+            "sentiment": "4 stars",
+            "score": 0.3126711845397949
+          },
+          {
+            "begin_char": 3211,
+            "end_char": 3252,
+            "sentiment": "4 stars",
+            "score": 0.31207600235939026
+          },
+          {
+            "begin_char": 3253,
+            "end_char": 3257,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3257,
+            "end_char": 3613,
+            "sentiment": "5 stars",
+            "score": 0.35119977593421936
+          },
+          {
+            "begin_char": 3614,
+            "end_char": 3648,
+            "sentiment": "1 star",
+            "score": 0.740369975566864
+          },
+          {
+            "begin_char": 3648,
+            "end_char": 3705,
+            "sentiment": "4 stars",
+            "score": 0.2830458879470825
+          },
+          {
+            "begin_char": 3706,
+            "end_char": 3982,
+            "sentiment": "4 stars",
+            "score": 0.420894980430603
+          },
+          {
+            "begin_char": 3983,
+            "end_char": 4145,
+            "sentiment": "3 stars",
+            "score": 0.26345589756965637
+          },
+          {
+            "begin_char": 4145,
+            "end_char": 4202,
+            "sentiment": "4 stars",
+            "score": 0.2830458879470825
+          },
+          {
+            "begin_char": 4203,
+            "end_char": 4266,
+            "sentiment": "5 stars",
+            "score": 0.34347543120384216
+          },
+          {
+            "begin_char": 4267,
+            "end_char": 4468,
+            "sentiment": "5 stars",
+            "score": 0.512386679649353
+          },
+          {
+            "begin_char": 4469,
+            "end_char": 4580,
+            "sentiment": "4 stars",
+            "score": 0.29946208000183105
+          },
+          {
+            "begin_char": 4581,
+            "end_char": 4673,
+            "sentiment": "3 stars",
+            "score": 0.2626480162143707
+          },
+          {
+            "begin_char": 4674,
+            "end_char": 4807,
+            "sentiment": "5 stars",
+            "score": 0.2256198227405548
+          },
+          {
+            "begin_char": 4808,
+            "end_char": 4870,
+            "sentiment": "4 stars",
+            "score": 0.31297925114631653
+          },
+          {
+            "begin_char": 4871,
+            "end_char": 4976,
+            "sentiment": "5 stars",
+            "score": 0.23638063669204712
+          },
+          {
+            "begin_char": 4976,
+            "end_char": 5033,
+            "sentiment": "4 stars",
+            "score": 0.2830458879470825
+          },
+          {
+            "begin_char": 5034,
+            "end_char": 5221,
+            "sentiment": "4 stars",
+            "score": 0.2777481973171234
+          },
+          {
+            "begin_char": 5222,
+            "end_char": 5620,
+            "sentiment": "4 stars",
+            "score": 0.3950159549713135
+          },
+          {
+            "begin_char": 5621,
+            "end_char": 5625,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5625,
+            "end_char": 5826,
+            "sentiment": "5 stars",
+            "score": 0.3623914420604706
+          },
+          {
+            "begin_char": 5826,
+            "end_char": 5855,
+            "sentiment": "3 stars",
+            "score": 0.3034113049507141
+          },
+          {
+            "begin_char": 5856,
+            "end_char": 5868,
+            "sentiment": "1 star",
+            "score": 0.31853851675987244
+          },
+          {
+            "begin_char": 5868,
+            "end_char": 5897,
+            "sentiment": "1 star",
+            "score": 0.30777114629745483
+          },
+          {
+            "begin_char": 5897,
+            "end_char": 5954,
+            "sentiment": "4 stars",
+            "score": 0.2830458879470825
+          },
+          {
+            "begin_char": 5955,
+            "end_char": 5959,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5959,
+            "end_char": 6100,
+            "sentiment": "4 stars",
+            "score": 0.44741785526275635
+          },
+          {
+            "begin_char": 6101,
+            "end_char": 6292,
+            "sentiment": "4 stars",
+            "score": 0.4267739951610565
+          },
+          {
+            "begin_char": 6293,
+            "end_char": 6431,
+            "sentiment": "4 stars",
+            "score": 0.3907873034477234
+          },
+          {
+            "begin_char": 6432,
+            "end_char": 6530,
+            "sentiment": "3 stars",
+            "score": 0.35273677110671997
+          },
+          {
+            "begin_char": 6531,
+            "end_char": 6570,
+            "sentiment": "5 stars",
+            "score": 0.2961796820163727
+          },
+          {
+            "begin_char": 6570,
+            "end_char": 6578,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-13",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-13",
+        "pageJO": "2330",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

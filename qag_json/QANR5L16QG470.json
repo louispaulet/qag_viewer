@@ -1,0 +1,593 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG470",
+    "identifiant": {
+      "numero": "470",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "harcèlement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "CYBERHARCÈLEMENT"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793416",
+        "mandatRef": "PM802635"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Justice",
+      "developpe": "Ministère de la justice"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-18",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Justice",
+          "developpe": "Ministère de la justice"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-18",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CYBERHARCÈLEMENT <a name=PG27></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Freddy Sertin.<br><br><strong>M. Freddy Sertin. </strong>Monsieur le garde des sceaux, j'associe mon collègue David Valence à ma question.<br><br>Nous avons tous été bouleversés par la disparition du jeune Lucas le 7 janvier dernier et je veux rendre hommage à ce garçon de 13 ans, victime de harcèlement en raison de son orientation sexuelle. Mes pensées vont à sa famille et à ses proches.<br><br>Bien que l'enquête soit toujours en cours, ce tragique événement nous rappelle combien la lutte contre le harcèlement est une priorité. Petits et grands, hommes et femmes, personnalités publiques ou non, comme l'a rappelé la chanteuse Hoshi, un trop grand nombre de Françaises et de Français, en particulier chez les jeunes, sont confrontés à ce fléau, à l'école ou en ligne. Notre mobilisation doit être totale. Depuis plus de cinq ans, les députés de la majorité ont fait de la lutte contre le harcèlement, en particulier contre le cyberharcèlement, l'un de leurs principaux combats. Je pense notamment à la proposition de loi visant à lutter contre la haine sur internet, au projet de loi confortant le respect des principes de la République, mais aussi aux dispositifs de sensibilisation créés au sein des établissements scolaires.<br><br>Après la sensibilisation vient le temps de l'action. Rappelons que c'est ce gouvernement qui, pour la première fois, a mobilisé une part importante des forces du ministère de la justice autour de la lutte contre le cyberharcèlement. Il nous reste évidemment beaucoup à faire et je sais, monsieur le garde des sceaux, que vous êtes pleinement engagé à nos côtés. Quels sont les moyens mis à disposition de la justice afin de lutter efficacement contre le cyberharcèlement ? <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le garde des sceaux, ministre de la justice.<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux, ministre de la justice. </i>Le suicide de cet enfant de 13 ans nous laisse sans voix. D'ailleurs, les mots sont dérisoires. Comme vous, j'ai une pensée émue pour sa famille. Vous l'avez rappelé, une enquête judiciaire est en cours et je ne peux naturellement pas la commenter. Ce que je peux dire, en revanche, c'est que le harcèlement à raison de l'orientation sexuelle et l'homophobie n'ont strictement rien à faire dans notre République.<br><br><strong>M. François Cormier-Bouligeon.</strong> Très bien !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>Tous ensemble, nous devons lutter contre ces phénomènes.<br><br><strong>M. Maxime Minot.</strong> Exactement !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>Dès mon arrivée au ministère de la justice et dans la foulée de la loi du 24 juin 2020 visant à lutter contre les contenus haineux sur internet, la loi Avia, j'ai créé le pôle national de lutte contre la haine en ligne.<br><br><strong>M. Dino Cinieri.</strong> Très bien !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>Depuis, 1 000 procédures ont été engagées avec succès. Les plus connues d'entre elles concernaient l'affaire Mila, l'affaire Miss Provence, harcelée en raison de son identité juive, et l'affaire Eddy de Pretto. L'affaire Hoshi est toujours en cours : cette chanteuse est poursuivie par je ne sais quelle vindicte du fait de ses prises de position. <br><br>Nous fêterons bientôt les deux ans du pôle national de lutte contre la haine en ligne, qui travaille étroitement avec la plateforme d’harmonisation, d’analyse, de recoupement et d’orientation des signalements (Pharos), ce dont je remercie le ministre de l'intérieur et des outre-mer. Nous avons également fait en sorte que ces affaires soient jugées en comparution immédiate. Je me rendrai prochainement au pôle national de lutte contre la haine en ligne pour savoir quelles améliorations nous pouvons apporter à son fonctionnement.<br><br>À ceux qui nous écoutent, je veux dire qu'il faut déposer plainte en cas de cyberharcèlement. La justice ne peut pas s'autosaisir et, souvent, elle n'est pas au courant des faits. Nous continuerons de renforcer le dispositif de lutte contre la haine en ligne. L'anonymat derrière l'ordinateur, cela suffit ! Les tweets peuvent blesser et tuer. Nous devons faire preuve de la plus grande vigilance pour éviter que le cyberharcèlement ne provoque de nouvelles tragédies. <i>(Applaudissements sur les bancs des groupes Dem, RE et HOR et sur quelques bancs du groupe SOC.)</i><br><br><strong>M. Éric Bothorel.</strong> Il a raison !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 39,
+            "label": "ORG",
+            "text": "CYBERHARCÈLEMENT"
+          },
+          {
+            "start_char": 74,
+            "end_char": 77,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 118,
+            "end_char": 150,
+            "label": "PER",
+            "text": "M. Freddy Sertin.<br><br><strong"
+          },
+          {
+            "start_char": 151,
+            "end_char": 167,
+            "label": "PER",
+            "text": "M. Freddy Sertin"
+          },
+          {
+            "start_char": 178,
+            "end_char": 186,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 231,
+            "end_char": 244,
+            "label": "PER",
+            "text": "David Valence"
+          },
+          {
+            "start_char": 250,
+            "end_char": 266,
+            "label": "MISC",
+            "text": "question.<br><br"
+          },
+          {
+            "start_char": 327,
+            "end_char": 332,
+            "label": "PER",
+            "text": "Lucas"
+          },
+          {
+            "start_char": 465,
+            "end_char": 468,
+            "label": "PER",
+            "text": "Mes"
+          },
+          {
+            "start_char": 504,
+            "end_char": 519,
+            "label": "MISC",
+            "text": "proches.<br><br"
+          },
+          {
+            "start_char": 755,
+            "end_char": 760,
+            "label": "PER",
+            "text": "Hoshi"
+          },
+          {
+            "start_char": 786,
+            "end_char": 796,
+            "label": "LOC",
+            "text": "Françaises"
+          },
+          {
+            "start_char": 803,
+            "end_char": 811,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1254,
+            "end_char": 1264,
+            "label": "MISC",
+            "text": "République"
+          },
+          {
+            "start_char": 1345,
+            "end_char": 1362,
+            "label": "MISC",
+            "text": "scolaires.<br><br"
+          },
+          {
+            "start_char": 1725,
+            "end_char": 1730,
+            "label": "PER",
+            "text": "Quels"
+          },
+          {
+            "start_char": 1881,
+            "end_char": 1904,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1905,
+            "end_char": 1908,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1949,
+            "end_char": 1951,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 1973,
+            "end_char": 2011,
+            "label": "ORG",
+            "text": "ministre de la justice.<br><br><strong"
+          },
+          {
+            "start_char": 2015,
+            "end_char": 2026,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2525,
+            "end_char": 2566,
+            "label": "PER",
+            "text": "François Cormier-Bouligeon.</strong> Très"
+          },
+          {
+            "start_char": 2592,
+            "end_char": 2603,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2723,
+            "end_char": 2744,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 2777,
+            "end_char": 2788,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2981,
+            "end_char": 2989,
+            "label": "MISC",
+            "text": "loi Avia"
+          },
+          {
+            "start_char": 3071,
+            "end_char": 3093,
+            "label": "PER",
+            "text": "Dino Cinieri.</strong>"
+          },
+          {
+            "start_char": 3124,
+            "end_char": 3135,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 3289,
+            "end_char": 3293,
+            "label": "PER",
+            "text": "Mila"
+          },
+          {
+            "start_char": 3305,
+            "end_char": 3318,
+            "label": "ORG",
+            "text": "Miss Provence"
+          },
+          {
+            "start_char": 3375,
+            "end_char": 3389,
+            "label": "PER",
+            "text": "Eddy de Pretto"
+          },
+          {
+            "start_char": 3401,
+            "end_char": 3406,
+            "label": "PER",
+            "text": "Hoshi"
+          },
+          {
+            "start_char": 3714,
+            "end_char": 3716,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 3746,
+            "end_char": 3752,
+            "label": "LOC",
+            "text": "Pharos"
+          },
+          {
+            "start_char": 4053,
+            "end_char": 4100,
+            "label": "MISC",
+            "text": "fonctionnement.<br><br>À ceux qui nous écoutent"
+          },
+          {
+            "start_char": 4592,
+            "end_char": 4595,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4597,
+            "end_char": 4599,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4603,
+            "end_char": 4606,
+            "label": "MISC",
+            "text": "HOR"
+          },
+          {
+            "start_char": 4639,
+            "end_char": 4663,
+            "label": "ORG",
+            "text": "SOC.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4667,
+            "end_char": 4689,
+            "label": "PER",
+            "text": "Éric Bothorel.</strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 92,
+            "sentiment": "3 stars",
+            "score": 0.29675376415252686
+          },
+          {
+            "begin_char": 93,
+            "end_char": 168,
+            "sentiment": "3 stars",
+            "score": 0.2572263777256012
+          },
+          {
+            "begin_char": 169,
+            "end_char": 178,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 178,
+            "end_char": 267,
+            "sentiment": "4 stars",
+            "score": 0.3358213007450104
+          },
+          {
+            "begin_char": 267,
+            "end_char": 464,
+            "sentiment": "5 stars",
+            "score": 0.6662161946296692
+          },
+          {
+            "begin_char": 465,
+            "end_char": 655,
+            "sentiment": "5 stars",
+            "score": 0.5726944804191589
+          },
+          {
+            "begin_char": 656,
+            "end_char": 895,
+            "sentiment": "5 stars",
+            "score": 0.3890891373157501
+          },
+          {
+            "begin_char": 896,
+            "end_char": 932,
+            "sentiment": "5 stars",
+            "score": 0.6334406137466431
+          },
+          {
+            "begin_char": 933,
+            "end_char": 1105,
+            "sentiment": "4 stars",
+            "score": 0.416826069355011
+          },
+          {
+            "begin_char": 1106,
+            "end_char": 1415,
+            "sentiment": "5 stars",
+            "score": 0.4494967460632324
+          },
+          {
+            "begin_char": 1416,
+            "end_char": 1595,
+            "sentiment": "4 stars",
+            "score": 0.40479522943496704
+          },
+          {
+            "begin_char": 1596,
+            "end_char": 1724,
+            "sentiment": "5 stars",
+            "score": 0.46266093850135803
+          },
+          {
+            "begin_char": 1725,
+            "end_char": 1835,
+            "sentiment": "4 stars",
+            "score": 0.4295874238014221
+          },
+          {
+            "begin_char": 1836,
+            "end_char": 1923,
+            "sentiment": "4 stars",
+            "score": 0.3044034242630005
+          },
+          {
+            "begin_char": 1924,
+            "end_char": 2089,
+            "sentiment": "4 stars",
+            "score": 0.31975746154785156
+          },
+          {
+            "begin_char": 2090,
+            "end_char": 2094,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2094,
+            "end_char": 2151,
+            "sentiment": "1 star",
+            "score": 0.551790714263916
+          },
+          {
+            "begin_char": 2152,
+            "end_char": 2189,
+            "sentiment": "1 star",
+            "score": 0.43466734886169434
+          },
+          {
+            "begin_char": 2190,
+            "end_char": 2239,
+            "sentiment": "5 stars",
+            "score": 0.6462448239326477
+          },
+          {
+            "begin_char": 2240,
+            "end_char": 2342,
+            "sentiment": "1 star",
+            "score": 0.2861945629119873
+          },
+          {
+            "begin_char": 2343,
+            "end_char": 2573,
+            "sentiment": "4 stars",
+            "score": 0.4337999224662781
+          },
+          {
+            "begin_char": 2573,
+            "end_char": 2643,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 2644,
+            "end_char": 2758,
+            "sentiment": "5 stars",
+            "score": 0.4448252022266388
+          },
+          {
+            "begin_char": 2758,
+            "end_char": 2828,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 2829,
+            "end_char": 2833,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2833,
+            "end_char": 3093,
+            "sentiment": "5 stars",
+            "score": 0.3841975927352905
+          },
+          {
+            "begin_char": 3094,
+            "end_char": 3105,
+            "sentiment": "5 stars",
+            "score": 0.5586434602737427
+          },
+          {
+            "begin_char": 3105,
+            "end_char": 3175,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 3176,
+            "end_char": 3234,
+            "sentiment": "5 stars",
+            "score": 0.40722569823265076
+          },
+          {
+            "begin_char": 3235,
+            "end_char": 3390,
+            "sentiment": "4 stars",
+            "score": 0.3115551769733429
+          },
+          {
+            "begin_char": 3391,
+            "end_char": 3527,
+            "sentiment": "3 stars",
+            "score": 0.252368688583374
+          },
+          {
+            "begin_char": 3528,
+            "end_char": 3536,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 3536,
+            "end_char": 3819,
+            "sentiment": "5 stars",
+            "score": 0.5360312461853027
+          },
+          {
+            "begin_char": 3820,
+            "end_char": 3911,
+            "sentiment": "4 stars",
+            "score": 0.3678218424320221
+          },
+          {
+            "begin_char": 3912,
+            "end_char": 4169,
+            "sentiment": "5 stars",
+            "score": 0.5210464000701904
+          },
+          {
+            "begin_char": 4170,
+            "end_char": 4255,
+            "sentiment": "1 star",
+            "score": 0.26437413692474365
+          },
+          {
+            "begin_char": 4256,
+            "end_char": 4335,
+            "sentiment": "5 stars",
+            "score": 0.4746246933937073
+          },
+          {
+            "begin_char": 4336,
+            "end_char": 4383,
+            "sentiment": "4 stars",
+            "score": 0.3394346237182617
+          },
+          {
+            "begin_char": 4384,
+            "end_char": 4419,
+            "sentiment": "1 star",
+            "score": 0.44450196623802185
+          },
+          {
+            "begin_char": 4420,
+            "end_char": 4544,
+            "sentiment": "5 stars",
+            "score": 0.601212739944458
+          },
+          {
+            "begin_char": 4545,
+            "end_char": 4690,
+            "sentiment": "3 stars",
+            "score": 0.3490540087223053
+          },
+          {
+            "begin_char": 4691,
+            "end_char": 4704,
+            "sentiment": "5 stars",
+            "score": 0.3322871923446655
+          },
+          {
+            "begin_char": 4704,
+            "end_char": 4712,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-18",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-18",
+        "pageJO": "467",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

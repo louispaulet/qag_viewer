@@ -1,0 +1,845 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG416",
+    "identifiant": {
+      "numero": "416",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "MARCHÉ EUROPÉEN DE L'ÉNERGIE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720704",
+        "mandatRef": "PM797067"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition énergétique",
+      "developpe": "Ministère de la transition énergétique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition énergétique",
+          "developpe": "Ministère de la transition énergétique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> MARCHÉ EUROPÉEN DE L'ÉNERGIE <a name=PG2></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Laurence Vichnievsky.<br><br><strong>Mme Laurence Vichnievsky. </strong>Ma question s'adresse à la fois à M. le ministre de l'économie et à Mme la ministre de la transition écologique. Le 1er février prochain, les factures d'électricité des Français augmenteront de 15 %. Cette hausse déjà considérable est pourtant contenue par le bouclier tarifaire instauré par le Gouvernement. Les Français ne comprennent pas cette explosion des prix alors même que nous disposons de ressources énergétiques stables et pérennes, principalement grâce à nos centrales nucléaires. Le système est opaque et son fonctionnement illisible. <i>(M. Antoine Léaument applaudit.)</i><br><br>Nombre d'artisans et de commerçants risquent de ne pas passer l'hiver.<br><br><strong>M. Sébastien Jumel.</strong> Si même le MODEM le dit !<br><br><strong>M. Jean-Pierre Vigier.</strong> La faute à qui ?<br><br><strong>Mme Laurence Vichnievsky. </strong>Les alertes quotidiennes de nos boulangers en témoignent.<br><br><strong>M. Maxime Minot.</strong> Eh oui !<br><br><strong>Mme Laurence Vichnievsky. </strong>Si nous devons accompagner nos entreprises et les ménages dans l'immédiat, ce soutien ne peut être que temporaire, nos finances publiques l'imposent. Pour contenir ces explosions de prix, c'est bien le fonctionnement structurel du marché européen de l'énergie qui doit être repensé. <i>(M. Antoine Léaument applaudit.) </i>Le prix de notre électricité ne peut plus dépendre de celui du gaz.<br><br><strong>M. Maxime Minot.</strong> Même la majorité le demande !<br><br><strong>M. Sébastien Jumel.</strong> Il faut se réveiller !<br><br><strong>Mme Laurence Vichnievsky. </strong>Madame la ministre, monsieur le ministre, expliquez donc aux Français pourquoi notre pays ne peut pas sortir de ce système européen qui paraît nous pénaliser. Je pense aux dérogations qui ont été accordées à l'Espagne et au Portugal. <i>(M. Antoine Léaument applaudit.) </i>Nous savons que des discussions sont engagées avec nos voisins pour rendre le prix de l'énergie plus juste et plus conforme aux ressources de chacun. Où en sommes-nous ? Quand peut-on espérer aboutir ? Les Français nous attendent avec raison sur ce sujet déterminant pour notre économie et notre climat social. (Applaudissements sur les bancs du groupe Dem.)<br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre de la transition énergétique.<br><br><strong>Plusieurs députés du groupe LR .</strong> Allo ! Allo !<br><br><strong>M. Raphaël Schellenberger.</strong> Elle n'est pas ministre du pétrole !<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre de la transition énergétique. </i>Mesdames, messieurs les députés, tout d'abord, tous mes meilleurs vœux pour cette nouvelle année.<br><br>Madame Vichnievsky, je vous remercie de rappeler tous les efforts faits par le Gouvernement pour protéger les Français contre l'augmentation des prix de l'électricité et du gaz, efforts que M. le ministre de l'économie vient de souligner. La France est le pays qui protège le plus ses ménages et ses entreprises contre cette hausse.<br><br>Merci également de me donner l'occasion de dire que le bouclier tarifaire est en partie financé par une mesure prise au niveau européen qui permet de redistribuer aux consommateurs la rente générée par ces hauts prix du gaz et de l'électricité.<br><br><strong>M. Raphaël Schellenberger.</strong> Belle fiction de considérer cela comme une rente !<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre . </i>C'est très exactement le sens de notre action : faire en sorte que, de manière équilibrée, les consommateurs puissent bénéficier d'une part du produit de l'augmentation des prix de l'électricité. Cela permet de les protéger.<br><br>Vous m'interrogez sur la réforme du marché de l'électricité. Cela fait deux ans que nous avons entamé des discussions pour découpler le marché du gaz de celui de l'électricité. Toutefois, je tiens à rappeler que si nous passons l'hiver dans de bonnes conditions, c'est parce que nous bénéficions, dans le cadre du marché européen, des exportations d'électricité de l'Espagne et de l'Allemagne lorsque notre propre système électrique est en tension. <i>(Exclamations sur quelques bancs du groupe LFI-NUPES.)</i><br><br><strong>M. Thibault Bazin.</strong> C'est surtout parce qu'il fait chaud !<br><br><strong>M. Raphaël Schellenberger.</strong> Vous avouez donc avoir échoué !<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre . </i>Si les prix de l'électricité ont augmenté, ce n'est pas seulement à cause de la hausse des prix du gaz, c'est aussi parce que notre système électrique est sous tension pour des raisons de maintenance de nos centrales nucléaires, problème auquel nous travaillons. <i>(Exclamations sur les bancs des groupes RN et LR.)</i><br><br>La position du Gouvernement est très claire : il agit de manière déterminée pour réformer le marché de l'électricité en Europe comme pour renforcer notre système électrique, ce à quoi vous avez l'occasion de contribuer en votant le projet de loi relatif à l'accélération de la production d'énergies renouvelables. <br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 38,
+            "label": "MISC",
+            "text": "MARCHÉ EUROPÉEN"
+          },
+          {
+            "start_char": 60,
+            "end_char": 67,
+            "label": "PER",
+            "text": "PG2></a"
+          },
+          {
+            "start_char": 85,
+            "end_char": 88,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 129,
+            "end_char": 141,
+            "label": "PER",
+            "text": "Mme Laurence"
+          },
+          {
+            "start_char": 170,
+            "end_char": 194,
+            "label": "PER",
+            "text": "Mme Laurence Vichnievsky"
+          },
+          {
+            "start_char": 239,
+            "end_char": 241,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 273,
+            "end_char": 276,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 374,
+            "end_char": 382,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 500,
+            "end_char": 512,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 518,
+            "end_char": 526,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 760,
+            "end_char": 776,
+            "label": "PER",
+            "text": "Antoine Léaument"
+          },
+          {
+            "start_char": 889,
+            "end_char": 913,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong"
+          },
+          {
+            "start_char": 926,
+            "end_char": 931,
+            "label": "ORG",
+            "text": "MODEM"
+          },
+          {
+            "start_char": 959,
+            "end_char": 986,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier.</strong"
+          },
+          {
+            "start_char": 1020,
+            "end_char": 1044,
+            "label": "PER",
+            "text": "Mme Laurence Vichnievsky"
+          },
+          {
+            "start_char": 1131,
+            "end_char": 1152,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 1178,
+            "end_char": 1202,
+            "label": "PER",
+            "text": "Mme Laurence Vichnievsky"
+          },
+          {
+            "start_char": 1503,
+            "end_char": 1510,
+            "label": "MISC",
+            "text": "Antoine"
+          },
+          {
+            "start_char": 1599,
+            "end_char": 1618,
+            "label": "LOC",
+            "text": "gaz.<br><br><strong"
+          },
+          {
+            "start_char": 1622,
+            "end_char": 1643,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 1693,
+            "end_char": 1717,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong"
+          },
+          {
+            "start_char": 1757,
+            "end_char": 1781,
+            "label": "PER",
+            "text": "Mme Laurence Vichnievsky"
+          },
+          {
+            "start_char": 1792,
+            "end_char": 1798,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 1853,
+            "end_char": 1861,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2000,
+            "end_char": 2009,
+            "label": "LOC",
+            "text": "l'Espagne"
+          },
+          {
+            "start_char": 2016,
+            "end_char": 2024,
+            "label": "LOC",
+            "text": "Portugal"
+          },
+          {
+            "start_char": 2033,
+            "end_char": 2040,
+            "label": "MISC",
+            "text": "Antoine"
+          },
+          {
+            "start_char": 2272,
+            "end_char": 2280,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2378,
+            "end_char": 2394,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 2419,
+            "end_char": 2439,
+            "label": "ORG",
+            "text": "Dem.)<br><br><strong"
+          },
+          {
+            "start_char": 2440,
+            "end_char": 2443,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2484,
+            "end_char": 2487,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2573,
+            "end_char": 2575,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2587,
+            "end_char": 2591,
+            "label": "PER",
+            "text": "Allo"
+          },
+          {
+            "start_char": 2594,
+            "end_char": 2598,
+            "label": "PER",
+            "text": "Allo"
+          },
+          {
+            "start_char": 2619,
+            "end_char": 2651,
+            "label": "PER",
+            "text": "Raphaël Schellenberger.</strong>"
+          },
+          {
+            "start_char": 2704,
+            "end_char": 2721,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 2787,
+            "end_char": 2795,
+            "label": "LOC",
+            "text": "Mesdames"
+          },
+          {
+            "start_char": 2878,
+            "end_char": 2891,
+            "label": "MISC",
+            "text": "année.<br><br"
+          },
+          {
+            "start_char": 2892,
+            "end_char": 2910,
+            "label": "PER",
+            "text": "Madame Vichnievsky"
+          },
+          {
+            "start_char": 2971,
+            "end_char": 2983,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3002,
+            "end_char": 3010,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3082,
+            "end_char": 3084,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3131,
+            "end_char": 3140,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 3217,
+            "end_char": 3232,
+            "label": "MISC",
+            "text": "hausse.<br><br>"
+          },
+          {
+            "start_char": 3232,
+            "end_char": 3237,
+            "label": "MISC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 3495,
+            "end_char": 3526,
+            "label": "PER",
+            "text": "Raphaël Schellenberger.</strong"
+          },
+          {
+            "start_char": 3594,
+            "end_char": 3611,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 3634,
+            "end_char": 3642,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3864,
+            "end_char": 3880,
+            "label": "MISC",
+            "text": "protéger.<br><br"
+          },
+          {
+            "start_char": 4246,
+            "end_char": 4255,
+            "label": "LOC",
+            "text": "l'Espagne"
+          },
+          {
+            "start_char": 4264,
+            "end_char": 4273,
+            "label": "LOC",
+            "text": "Allemagne"
+          },
+          {
+            "start_char": 4376,
+            "end_char": 4406,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4407,
+            "end_char": 4418,
+            "label": "PER",
+            "text": "M. Thibault"
+          },
+          {
+            "start_char": 4492,
+            "end_char": 4523,
+            "label": "PER",
+            "text": "Raphaël Schellenberger.</strong"
+          },
+          {
+            "start_char": 4572,
+            "end_char": 4589,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 4612,
+            "end_char": 4620,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4933,
+            "end_char": 4935,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 4939,
+            "end_char": 4954,
+            "label": "PER",
+            "text": "LR.)</i><br><br"
+          },
+          {
+            "start_char": 4970,
+            "end_char": 4982,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 5075,
+            "end_char": 5081,
+            "label": "LOC",
+            "text": "Europe"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 103,
+            "sentiment": "5 stars",
+            "score": 0.25694796442985535
+          },
+          {
+            "begin_char": 104,
+            "end_char": 195,
+            "sentiment": "3 stars",
+            "score": 0.24403442442417145
+          },
+          {
+            "begin_char": 196,
+            "end_char": 317,
+            "sentiment": "3 stars",
+            "score": 0.26867586374282837
+          },
+          {
+            "begin_char": 318,
+            "end_char": 404,
+            "sentiment": "5 stars",
+            "score": 0.30055615305900574
+          },
+          {
+            "begin_char": 405,
+            "end_char": 513,
+            "sentiment": "3 stars",
+            "score": 0.30483478307724
+          },
+          {
+            "begin_char": 514,
+            "end_char": 697,
+            "sentiment": "5 stars",
+            "score": 0.41949114203453064
+          },
+          {
+            "begin_char": 698,
+            "end_char": 752,
+            "sentiment": "1 star",
+            "score": 0.513344407081604
+          },
+          {
+            "begin_char": 753,
+            "end_char": 800,
+            "sentiment": "4 stars",
+            "score": 0.29641827940940857
+          },
+          {
+            "begin_char": 800,
+            "end_char": 914,
+            "sentiment": "3 stars",
+            "score": 0.3379494249820709
+          },
+          {
+            "begin_char": 915,
+            "end_char": 940,
+            "sentiment": "1 star",
+            "score": 0.23999916017055511
+          },
+          {
+            "begin_char": 940,
+            "end_char": 987,
+            "sentiment": "3 stars",
+            "score": 0.30575230717658997
+          },
+          {
+            "begin_char": 988,
+            "end_char": 1004,
+            "sentiment": "1 star",
+            "score": 0.5257042050361633
+          },
+          {
+            "begin_char": 1004,
+            "end_char": 1045,
+            "sentiment": "3 stars",
+            "score": 0.2666321396827698
+          },
+          {
+            "begin_char": 1046,
+            "end_char": 1055,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1055,
+            "end_char": 1153,
+            "sentiment": "4 stars",
+            "score": 0.344807505607605
+          },
+          {
+            "begin_char": 1154,
+            "end_char": 1162,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 1162,
+            "end_char": 1203,
+            "sentiment": "3 stars",
+            "score": 0.2666321396827698
+          },
+          {
+            "begin_char": 1204,
+            "end_char": 1213,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1213,
+            "end_char": 1362,
+            "sentiment": "3 stars",
+            "score": 0.2755931615829468
+          },
+          {
+            "begin_char": 1363,
+            "end_char": 1495,
+            "sentiment": "4 stars",
+            "score": 0.31752049922943115
+          },
+          {
+            "begin_char": 1496,
+            "end_char": 1503,
+            "sentiment": "3 stars",
+            "score": 0.32702264189720154
+          },
+          {
+            "begin_char": 1503,
+            "end_char": 1510,
+            "sentiment": "4 stars",
+            "score": 0.28196755051612854
+          },
+          {
+            "begin_char": 1511,
+            "end_char": 1530,
+            "sentiment": "5 stars",
+            "score": 0.694496214389801
+          },
+          {
+            "begin_char": 1530,
+            "end_char": 1531,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 1532,
+            "end_char": 1536,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 1536,
+            "end_char": 1674,
+            "sentiment": "5 stars",
+            "score": 0.29301008582115173
+          },
+          {
+            "begin_char": 1674,
+            "end_char": 1718,
+            "sentiment": "3 stars",
+            "score": 0.31285977363586426
+          },
+          {
+            "begin_char": 1719,
+            "end_char": 1741,
+            "sentiment": "5 stars",
+            "score": 0.3250977694988251
+          },
+          {
+            "begin_char": 1741,
+            "end_char": 1782,
+            "sentiment": "3 stars",
+            "score": 0.2666321396827698
+          },
+          {
+            "begin_char": 1783,
+            "end_char": 1792,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1792,
+            "end_char": 1950,
+            "sentiment": "5 stars",
+            "score": 0.44426429271698
+          },
+          {
+            "begin_char": 1951,
+            "end_char": 2025,
+            "sentiment": "4 stars",
+            "score": 0.33402034640312195
+          },
+          {
+            "begin_char": 2026,
+            "end_char": 2033,
+            "sentiment": "3 stars",
+            "score": 0.32702264189720154
+          },
+          {
+            "begin_char": 2033,
+            "end_char": 2040,
+            "sentiment": "4 stars",
+            "score": 0.28196755051612854
+          },
+          {
+            "begin_char": 2041,
+            "end_char": 2060,
+            "sentiment": "5 stars",
+            "score": 0.694496214389801
+          },
+          {
+            "begin_char": 2060,
+            "end_char": 2061,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 2062,
+            "end_char": 2066,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2066,
+            "end_char": 2215,
+            "sentiment": "5 stars",
+            "score": 0.5029394626617432
+          },
+          {
+            "begin_char": 2216,
+            "end_char": 2235,
+            "sentiment": "1 star",
+            "score": 0.25817832350730896
+          },
+          {
+            "begin_char": 2236,
+            "end_char": 2267,
+            "sentiment": "1 star",
+            "score": 0.39607250690460205
+          },
+          {
+            "begin_char": 2268,
+            "end_char": 2458,
+            "sentiment": "5 stars",
+            "score": 0.4387947618961334
+          },
+          {
+            "begin_char": 2459,
+            "end_char": 2545,
+            "sentiment": "4 stars",
+            "score": 0.28617116808891296
+          },
+          {
+            "begin_char": 2545,
+            "end_char": 2586,
+            "sentiment": "3 stars",
+            "score": 0.3448777496814728
+          },
+          {
+            "begin_char": 2587,
+            "end_char": 2593,
+            "sentiment": "5 stars",
+            "score": 0.5109056234359741
+          },
+          {
+            "begin_char": 2594,
+            "end_char": 2600,
+            "sentiment": "5 stars",
+            "score": 0.5109056234359741
+          },
+          {
+            "begin_char": 2600,
+            "end_char": 2651,
+            "sentiment": "3 stars",
+            "score": 0.3069957196712494
+          },
+          {
+            "begin_char": 2652,
+            "end_char": 2688,
+            "sentiment": "1 star",
+            "score": 0.3539177477359772
+          },
+          {
+            "begin_char": 2688,
+            "end_char": 2782,
+            "sentiment": "3 stars",
+            "score": 0.2971096336841583
+          },
+          {
+            "begin_char": 2783,
+            "end_char": 3130,
+            "sentiment": "5 stars",
+            "score": 0.6254411935806274
+          },
+          {
+            "begin_char": 3131,
+            "end_char": 3232,
+            "sentiment": "5 stars",
+            "score": 0.3706704080104828
+          },
+          {
+            "begin_char": 3232,
+            "end_char": 3578,
+            "sentiment": "5 stars",
+            "score": 0.289140909910202
+          },
+          {
+            "begin_char": 3578,
+            "end_char": 3644,
+            "sentiment": "3 stars",
+            "score": 0.31557586789131165
+          },
+          {
+            "begin_char": 3645,
+            "end_char": 3844,
+            "sentiment": "5 stars",
+            "score": 0.5512503385543823
+          },
+          {
+            "begin_char": 3845,
+            "end_char": 3881,
+            "sentiment": "4 stars",
+            "score": 0.43009838461875916
+          },
+          {
+            "begin_char": 3881,
+            "end_char": 3941,
+            "sentiment": "1 star",
+            "score": 0.22126367688179016
+          },
+          {
+            "begin_char": 3942,
+            "end_char": 4057,
+            "sentiment": "4 stars",
+            "score": 0.28952470421791077
+          },
+          {
+            "begin_char": 4058,
+            "end_char": 4329,
+            "sentiment": "5 stars",
+            "score": 0.4445894956588745
+          },
+          {
+            "begin_char": 4330,
+            "end_char": 4434,
+            "sentiment": "3 stars",
+            "score": 0.3490886688232422
+          },
+          {
+            "begin_char": 4435,
+            "end_char": 4524,
+            "sentiment": "3 stars",
+            "score": 0.34114083647727966
+          },
+          {
+            "begin_char": 4525,
+            "end_char": 4556,
+            "sentiment": "1 star",
+            "score": 0.727604329586029
+          },
+          {
+            "begin_char": 4556,
+            "end_char": 4622,
+            "sentiment": "3 stars",
+            "score": 0.31557586789131165
+          },
+          {
+            "begin_char": 4623,
+            "end_char": 4889,
+            "sentiment": "3 stars",
+            "score": 0.3187703788280487
+          },
+          {
+            "begin_char": 4890,
+            "end_char": 5268,
+            "sentiment": "5 stars",
+            "score": 0.5291052460670471
+          },
+          {
+            "begin_char": 5269,
+            "end_char": 5277,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-11",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-11",
+        "pageJO": "99",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

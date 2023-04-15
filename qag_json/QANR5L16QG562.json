@@ -1,0 +1,1169 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG562",
+    "identifiant": {
+      "numero": "562",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "retraites : généralités",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "RÉFORME DES RETRAITES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794786",
+        "mandatRef": "PM797118"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DES RETRAITES <a name=PG7></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Emmanuel Fernandes.<br><br><strong>M. Emmanuel Fernandes. </strong>Madame la Première ministre, dans un tweet, hier, en fin d'après-midi, vous souhaitiez que nous soyons « à la hauteur des Français qui nous ont élus et du débat démocratique qu’ils attendent ».<br><br><strong>M. Jocelyn Dessigny.</strong> C'était surtout destiné à votre groupe !<br><br><strong>M. Emmanuel Fernandes. </strong>Eh bien, voici une occasion de prouver que vous l'êtes : madame Borne, pouvez-vous affirmer ici que votre projet de réforme des retraites propose une pension minimale à 1 200 euros pour tous et, si tel n'est pas le cas, nous dire combien de personnes seraient concernées ? <i>(Applaudissements sur les bancs du groupe LFI-NUPES et sur plusieurs bancs des groupes SOC, Écolo-NUPES et GDR-NUPES.)</i> Il s'agit d'un budget rectificatif de la sécurité sociale, vous devez savoir combien de retraités toucheraient les 1 200 euros. Publiez vos chiffres cachés ! (Applaudissements sur plusieurs bancs du groupe LFI-NUPES.)<br><br>Le 11 janvier dernier, votre porte-parole Olivier Véran, déclarait : « Deux millions de retraités actuels […] verront leur retraite majorée à 1 200 euros brut. » Confirmez-vous ce chiffre ? Le 6 février, votre ministre de l'économie, Bruno Le Maire, annonçait « la retraite minimum à 1 200 euros », y compris pour ceux qui sont déjà à la retraite. Mme Schiappa, MM. Attal et Riester et j'en passe, tous membres de votre gouvernement, tous ont colporté le même mensonge, ainsi que nombre de députés macronistes. <i>(Applaudissements sur les bancs du groupe LFI-NUPES et sur plusieurs bancs du groupe GDR-NUPES.)</i><br><br>Oui, vous mentez ; vous dissimulez ! La vérité, c'est celle qu'a clairement exposée l'économiste Michaël Zemmour : il n'y aura pas de pension minimale garantie à 1 200 euros, même pour les carrières complètes. <i>(Applaudissements sur les bancs du groupe LFI-NUPES et sur quelques bancs du groupe Écolo-NUPES.)</i> La réalité, c'est celle décrite par les économistes de l'Institut des politiques publiques (IPP) : « moins de 10 % des nouveaux retraités sont potentiellement concernés par l'augmentation maximale de 100 euros », somme qui permettrait d'approcher les 1 200 euros. Quant aux retraités actuels, toujours selon l'IPP, les trois quarts ne seraient pas concernés par la revalorisation.<br><br>Cessez donc les mensonges pour faire avaler un projet injuste : publiez vos chiffres cachés et dites-nous combien de personnes toucheront les 1 200 euros. Soyez, comme vous le demandez, à la hauteur du débat démocratique que le pays attend ! <i>(Applaudissements sur les bancs des groupes LFI-NUPES et Écolo-NUPES, ainsi que sur plusieurs bancs du groupe SOC. – Plusieurs députés du groupe LFI-NUPES se lèvent et applaudissent.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Revenons quelques mois en arrière, lors de la campagne pour l'élection présidentielle.<br><br><strong>M. Jocelyn Dessigny.</strong> Vous vous souvenez ? Quand vous avez voté pour Emmanuel Macron !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Aussi bien lors du premier tour, auquel vous avez participé, que du second, qui vous avait moins concernés,…<br><br><strong>M. Ugo Bernalicis.</strong> Répondez à la question !<br><br><strong>Plusieurs députés du groupe LFI-NUPES .</strong> Combien recevront 1 200 euros ?<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>…le Président de la République avait dit… <i>(Exclamations sur les bancs du groupe LFI-NUPES.)</i><br><br>J'ai tout mon temps, vous savez. D'autres questions me seront posées, je pourrai y revenir – et j'ai également la nuit entière pour vous répondre. D'ailleurs, madame Guetté, cela fait huit jours que je vous entends crier, j'ai donc l'habitude. <i>(Applaudissements sur plusieurs bancs des groupes RE, Dem et HOR. – Exclamations sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>M. Ugo Bernalicis.</strong> Répondez à la question !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Je disais donc que le Président de la République avait pris un engagement, que nous tenons. Il avait dit que tout assuré ayant accompli une carrière complète au niveau du Smic bénéficierait d'une pension garantie à 85 % du montant de ce salaire. Un tel principe avait été posé en 2003, mais personne ne l'a jamais concrétisé. C'est ce que nous faisons, en incluant une indexation du montant de la pension minimale sur le Smic, afin de tenir cet engagement dans la durée.<br><br>Combien de personnes seront-elles concernées ?<br><br><strong>Mme Caroline Fiat.</strong> Voilà !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>La réforme concernera 200 000 des 800 000 nouveaux retraités que compte notre pays chaque année. <i>(Exclamations prolongées sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>M. Jérôme Guedj.</strong> C'est faux !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Un retraité sur quatre bénéficiera d'une meilleure pension grâce à notre réforme.<br><br><strong>M. Sylvain Maillard.</strong> Mais oui !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>En votant contre la réforme, vous interdisez donc à un retraité sur quatre, c'est-à-dire aux plus modestes d'entre eux, de voir leur pension revalorisée.<br><br><strong>Plusieurs députés du groupe LFI-NUPES .</strong> Répondez à la question ! Combien toucheront 1 200 euros ?<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Quant aux 17 millions de retraités actuels, 1,8 million d'entre eux bénéficieront d'une revalorisation, mais vous votez contre. <i>(Exclamations sur les bancs des groupes LFI-NUPES et SOC.)</i> Vous refusez que des retraités dont la pension s'élève à 850, 900 ou 950 euros obtiennent une revalorisation allant de 50 ou 60 euros à 100 euros. Peut-être considérez-vous que 60 euros, ce n'est pas grand-chose mais, au contraire, c'est essentiel.<br><br><strong>Mme Raquel Garrido.</strong> Combien ?<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Ceux qui s'occupent des retraités les plus modestes, ils font partie de cette majorité ! C'est cette majorité qui va revaloriser les petites retraites <i>(Applaudissements sur les bancs des groupes RE et Dem. – Exclamations sur les bancs du groupe LFI-NUPES)</i>, comme elle revalorise la pension des retraités actuels – nous l'avons fait avec le minimum vieillesse il y a quelques mois. (Applaudissements sur les bancs des groupes RE et Dem, dont plusieurs se lèvent. – Exclamations sur les bancs du groupe LFI-NUPES.)<br><br><strong>M. Ugo Bernalicis.</strong> Ce n'est pas comme cela que vous vous en sortirez !<br><br><strong>M. Manuel Bompard.</strong> Répondez à la question !<br><br><strong>Mme la présidente. </strong>La parole est à M. Emmanuel Fernandes.<br><br><strong>M. Emmanuel Fernandes. </strong>Monsieur Dussopt, vous ne répondez pas : combien de retraités toucheront 1 200 euros par mois ? <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 34,
+            "label": "MISC",
+            "text": "RÉFORME DES"
+          },
+          {
+            "start_char": 35,
+            "end_char": 44,
+            "label": "MISC",
+            "text": "RETRAITES"
+          },
+          {
+            "start_char": 78,
+            "end_char": 81,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 122,
+            "end_char": 159,
+            "label": "PER",
+            "text": "M. Emmanuel Fernandes.<br><br><strong"
+          },
+          {
+            "start_char": 163,
+            "end_char": 181,
+            "label": "PER",
+            "text": "Emmanuel Fernandes"
+          },
+          {
+            "start_char": 192,
+            "end_char": 210,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 314,
+            "end_char": 322,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 404,
+            "end_char": 429,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 490,
+            "end_char": 508,
+            "label": "PER",
+            "text": "Emmanuel Fernandes"
+          },
+          {
+            "start_char": 576,
+            "end_char": 588,
+            "label": "PER",
+            "text": "madame Borne"
+          },
+          {
+            "start_char": 837,
+            "end_char": 846,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 882,
+            "end_char": 885,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 887,
+            "end_char": 898,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 902,
+            "end_char": 916,
+            "label": "MISC",
+            "text": "GDR-NUPES.)</i"
+          },
+          {
+            "start_char": 1046,
+            "end_char": 1053,
+            "label": "PER",
+            "text": "Publiez"
+          },
+          {
+            "start_char": 1077,
+            "end_char": 1093,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 1124,
+            "end_char": 1142,
+            "label": "ORG",
+            "text": "LFI-NUPES.)<br><br"
+          },
+          {
+            "start_char": 1185,
+            "end_char": 1198,
+            "label": "PER",
+            "text": "Olivier Véran"
+          },
+          {
+            "start_char": 1305,
+            "end_char": 1314,
+            "label": "LOC",
+            "text": "Confirmez"
+          },
+          {
+            "start_char": 1377,
+            "end_char": 1391,
+            "label": "PER",
+            "text": "Bruno Le Maire"
+          },
+          {
+            "start_char": 1491,
+            "end_char": 1503,
+            "label": "PER",
+            "text": "Mme Schiappa"
+          },
+          {
+            "start_char": 1518,
+            "end_char": 1525,
+            "label": "ORG",
+            "text": "Riester"
+          },
+          {
+            "start_char": 1699,
+            "end_char": 1708,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1742,
+            "end_char": 1764,
+            "label": "ORG",
+            "text": "GDR-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 1862,
+            "end_char": 1877,
+            "label": "PER",
+            "text": "Michaël Zemmour"
+          },
+          {
+            "start_char": 2020,
+            "end_char": 2029,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2062,
+            "end_char": 2078,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i"
+          },
+          {
+            "start_char": 2137,
+            "end_char": 2170,
+            "label": "ORG",
+            "text": "Institut des politiques publiques"
+          },
+          {
+            "start_char": 2172,
+            "end_char": 2175,
+            "label": "LOC",
+            "text": "IPP"
+          },
+          {
+            "start_char": 2390,
+            "end_char": 2393,
+            "label": "LOC",
+            "text": "IPP"
+          },
+          {
+            "start_char": 2445,
+            "end_char": 2467,
+            "label": "MISC",
+            "text": "revalorisation.<br><br"
+          },
+          {
+            "start_char": 2468,
+            "end_char": 2474,
+            "label": "MISC",
+            "text": "Cessez"
+          },
+          {
+            "start_char": 2623,
+            "end_char": 2628,
+            "label": "ORG",
+            "text": "Soyez"
+          },
+          {
+            "start_char": 2757,
+            "end_char": 2766,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2770,
+            "end_char": 2781,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2823,
+            "end_char": 2826,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2858,
+            "end_char": 2867,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2916,
+            "end_char": 2919,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2960,
+            "end_char": 2962,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3009,
+            "end_char": 3011,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3037,
+            "end_char": 3047,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3112,
+            "end_char": 3123,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 3234,
+            "end_char": 3259,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 3308,
+            "end_char": 3323,
+            "label": "PER",
+            "text": "Emmanuel Macron"
+          },
+          {
+            "start_char": 3341,
+            "end_char": 3351,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3540,
+            "end_char": 3548,
+            "label": "LOC",
+            "text": "Répondez"
+          },
+          {
+            "start_char": 3608,
+            "end_char": 3617,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3629,
+            "end_char": 3636,
+            "label": "LOC",
+            "text": "Combien"
+          },
+          {
+            "start_char": 3676,
+            "end_char": 3686,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3727,
+            "end_char": 3753,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3806,
+            "end_char": 3828,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 3988,
+            "end_char": 4001,
+            "label": "PER",
+            "text": "madame Guetté"
+          },
+          {
+            "start_char": 4126,
+            "end_char": 4128,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4130,
+            "end_char": 4133,
+            "label": "MISC",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4137,
+            "end_char": 4140,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 4144,
+            "end_char": 4156,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 4181,
+            "end_char": 4211,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4240,
+            "end_char": 4248,
+            "label": "LOC",
+            "text": "Répondez"
+          },
+          {
+            "start_char": 4280,
+            "end_char": 4290,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4349,
+            "end_char": 4375,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4498,
+            "end_char": 4502,
+            "label": "LOC",
+            "text": "Smic"
+          },
+          {
+            "start_char": 4748,
+            "end_char": 4752,
+            "label": "LOC",
+            "text": "Smic"
+          },
+          {
+            "start_char": 4791,
+            "end_char": 4804,
+            "label": "MISC",
+            "text": "durée.<br><br"
+          },
+          {
+            "start_char": 4805,
+            "end_char": 4812,
+            "label": "LOC",
+            "text": "Combien"
+          },
+          {
+            "start_char": 4867,
+            "end_char": 4879,
+            "label": "PER",
+            "text": "Mme Caroline"
+          },
+          {
+            "start_char": 4918,
+            "end_char": 4928,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 5114,
+            "end_char": 5144,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5148,
+            "end_char": 5169,
+            "label": "PER",
+            "text": "Jérôme Guedj.</strong"
+          },
+          {
+            "start_char": 5199,
+            "end_char": 5209,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 5343,
+            "end_char": 5371,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong"
+          },
+          {
+            "start_char": 5399,
+            "end_char": 5409,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 5643,
+            "end_char": 5652,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5664,
+            "end_char": 5672,
+            "label": "PER",
+            "text": "Répondez"
+          },
+          {
+            "start_char": 5689,
+            "end_char": 5696,
+            "label": "LOC",
+            "text": "Combien"
+          },
+          {
+            "start_char": 5737,
+            "end_char": 5747,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 5955,
+            "end_char": 5964,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5968,
+            "end_char": 5976,
+            "label": "ORG",
+            "text": "SOC.)</i"
+          },
+          {
+            "start_char": 6242,
+            "end_char": 6278,
+            "label": "PER",
+            "text": "Mme Raquel Garrido.</strong> Combien"
+          },
+          {
+            "start_char": 6296,
+            "end_char": 6306,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 6541,
+            "end_char": 6543,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 6547,
+            "end_char": 6550,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 6552,
+            "end_char": 6566,
+            "label": "LOC",
+            "text": "– Exclamations"
+          },
+          {
+            "start_char": 6591,
+            "end_char": 6604,
+            "label": "ORG",
+            "text": "LFI-NUPES)</i"
+          },
+          {
+            "start_char": 6732,
+            "end_char": 6748,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 6775,
+            "end_char": 6777,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 6781,
+            "end_char": 6784,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 6814,
+            "end_char": 6826,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 6851,
+            "end_char": 6877,
+            "label": "ORG",
+            "text": "LFI-NUPES.)<br><br><strong"
+          },
+          {
+            "start_char": 6878,
+            "end_char": 6904,
+            "label": "PER",
+            "text": "M. Ugo Bernalicis.</strong"
+          },
+          {
+            "start_char": 6976,
+            "end_char": 7000,
+            "label": "PER",
+            "text": "Manuel Bompard.</strong>"
+          },
+          {
+            "start_char": 7041,
+            "end_char": 7044,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 7085,
+            "end_char": 7122,
+            "label": "PER",
+            "text": "M. Emmanuel Fernandes.<br><br><strong"
+          },
+          {
+            "start_char": 7126,
+            "end_char": 7144,
+            "label": "PER",
+            "text": "Emmanuel Fernandes"
+          },
+          {
+            "start_char": 7155,
+            "end_char": 7171,
+            "label": "PER",
+            "text": "Monsieur Dussopt"
+          },
+          {
+            "start_char": 7296,
+            "end_char": 7314,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 96,
+            "sentiment": "3 stars",
+            "score": 0.29747793078422546
+          },
+          {
+            "begin_char": 97,
+            "end_char": 182,
+            "sentiment": "4 stars",
+            "score": 0.2727644145488739
+          },
+          {
+            "begin_char": 183,
+            "end_char": 192,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 192,
+            "end_char": 430,
+            "sentiment": "5 stars",
+            "score": 0.4605284631252289
+          },
+          {
+            "begin_char": 431,
+            "end_char": 471,
+            "sentiment": "3 stars",
+            "score": 0.27896103262901306
+          },
+          {
+            "begin_char": 471,
+            "end_char": 509,
+            "sentiment": "3 stars",
+            "score": 0.2801313102245331
+          },
+          {
+            "begin_char": 510,
+            "end_char": 519,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 519,
+            "end_char": 791,
+            "sentiment": "1 star",
+            "score": 0.40946000814437866
+          },
+          {
+            "begin_char": 792,
+            "end_char": 917,
+            "sentiment": "4 stars",
+            "score": 0.3370708227157593
+          },
+          {
+            "begin_char": 918,
+            "end_char": 1045,
+            "sentiment": "3 stars",
+            "score": 0.268958181142807
+          },
+          {
+            "begin_char": 1046,
+            "end_char": 1077,
+            "sentiment": "1 star",
+            "score": 0.37280309200286865
+          },
+          {
+            "begin_char": 1077,
+            "end_char": 1143,
+            "sentiment": "4 stars",
+            "score": 0.36620205640792847
+          },
+          {
+            "begin_char": 1143,
+            "end_char": 1250,
+            "sentiment": "5 stars",
+            "score": 0.21706490218639374
+          },
+          {
+            "begin_char": 1250,
+            "end_char": 1304,
+            "sentiment": "3 stars",
+            "score": 0.2657005488872528
+          },
+          {
+            "begin_char": 1305,
+            "end_char": 1332,
+            "sentiment": "1 star",
+            "score": 0.294338196516037
+          },
+          {
+            "begin_char": 1333,
+            "end_char": 1490,
+            "sentiment": "3 stars",
+            "score": 0.23077188432216644
+          },
+          {
+            "begin_char": 1491,
+            "end_char": 1653,
+            "sentiment": "1 star",
+            "score": 0.6318086981773376
+          },
+          {
+            "begin_char": 1654,
+            "end_char": 1783,
+            "sentiment": "1 star",
+            "score": 0.3476455807685852
+          },
+          {
+            "begin_char": 1784,
+            "end_char": 1801,
+            "sentiment": "1 star",
+            "score": 0.38247570395469666
+          },
+          {
+            "begin_char": 1802,
+            "end_char": 1879,
+            "sentiment": "5 stars",
+            "score": 0.35232222080230713
+          },
+          {
+            "begin_char": 1880,
+            "end_char": 1974,
+            "sentiment": "1 star",
+            "score": 0.36772000789642334
+          },
+          {
+            "begin_char": 1975,
+            "end_char": 2079,
+            "sentiment": "4 stars",
+            "score": 0.31477484107017517
+          },
+          {
+            "begin_char": 2080,
+            "end_char": 2343,
+            "sentiment": "2 stars",
+            "score": 0.3335806131362915
+          },
+          {
+            "begin_char": 2344,
+            "end_char": 2622,
+            "sentiment": "1 star",
+            "score": 0.612769365310669
+          },
+          {
+            "begin_char": 2623,
+            "end_char": 2709,
+            "sentiment": "5 stars",
+            "score": 0.691864013671875
+          },
+          {
+            "begin_char": 2710,
+            "end_char": 2827,
+            "sentiment": "4 stars",
+            "score": 0.37107181549072266
+          },
+          {
+            "begin_char": 2828,
+            "end_char": 2934,
+            "sentiment": "4 stars",
+            "score": 0.3165706992149353
+          },
+          {
+            "begin_char": 2935,
+            "end_char": 3068,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 3069,
+            "end_char": 3124,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 3125,
+            "end_char": 3129,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3129,
+            "end_char": 3260,
+            "sentiment": "3 stars",
+            "score": 0.3426360785961151
+          },
+          {
+            "begin_char": 3261,
+            "end_char": 3281,
+            "sentiment": "2 stars",
+            "score": 0.22074264287948608
+          },
+          {
+            "begin_char": 3282,
+            "end_char": 3325,
+            "sentiment": "1 star",
+            "score": 0.35100623965263367
+          },
+          {
+            "begin_char": 3325,
+            "end_char": 3383,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 3384,
+            "end_char": 3564,
+            "sentiment": "3 stars",
+            "score": 0.25438839197158813
+          },
+          {
+            "begin_char": 3564,
+            "end_char": 3628,
+            "sentiment": "3 stars",
+            "score": 0.2866063416004181
+          },
+          {
+            "begin_char": 3629,
+            "end_char": 3660,
+            "sentiment": "1 star",
+            "score": 0.4019862115383148
+          },
+          {
+            "begin_char": 3660,
+            "end_char": 3718,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 3719,
+            "end_char": 3829,
+            "sentiment": "3 stars",
+            "score": 0.27928289771080017
+          },
+          {
+            "begin_char": 3829,
+            "end_char": 3861,
+            "sentiment": "5 stars",
+            "score": 0.4232557415962219
+          },
+          {
+            "begin_char": 3862,
+            "end_char": 3975,
+            "sentiment": "5 stars",
+            "score": 0.37906181812286377
+          },
+          {
+            "begin_char": 3976,
+            "end_char": 4072,
+            "sentiment": "1 star",
+            "score": 0.2611997425556183
+          },
+          {
+            "begin_char": 4073,
+            "end_char": 4141,
+            "sentiment": "4 stars",
+            "score": 0.3086910545825958
+          },
+          {
+            "begin_char": 4142,
+            "end_char": 4239,
+            "sentiment": "3 stars",
+            "score": 0.3323899805545807
+          },
+          {
+            "begin_char": 4240,
+            "end_char": 4264,
+            "sentiment": "5 stars",
+            "score": 0.4616662561893463
+          },
+          {
+            "begin_char": 4264,
+            "end_char": 4322,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 4323,
+            "end_char": 4327,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4327,
+            "end_char": 4418,
+            "sentiment": "5 stars",
+            "score": 0.3913912773132324
+          },
+          {
+            "begin_char": 4419,
+            "end_char": 4572,
+            "sentiment": "3 stars",
+            "score": 0.2620775103569031
+          },
+          {
+            "begin_char": 4573,
+            "end_char": 4652,
+            "sentiment": "1 star",
+            "score": 0.36453625559806824
+          },
+          {
+            "begin_char": 4653,
+            "end_char": 4894,
+            "sentiment": "4 stars",
+            "score": 0.3823871910572052
+          },
+          {
+            "begin_char": 4895,
+            "end_char": 4902,
+            "sentiment": "5 stars",
+            "score": 0.3142954707145691
+          },
+          {
+            "begin_char": 4902,
+            "end_char": 4960,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 4961,
+            "end_char": 5061,
+            "sentiment": "5 stars",
+            "score": 0.3255169689655304
+          },
+          {
+            "begin_char": 5062,
+            "end_char": 5170,
+            "sentiment": "3 stars",
+            "score": 0.32342788577079773
+          },
+          {
+            "begin_char": 5171,
+            "end_char": 5241,
+            "sentiment": "1 star",
+            "score": 0.5040175914764404
+          },
+          {
+            "begin_char": 5242,
+            "end_char": 5383,
+            "sentiment": "3 stars",
+            "score": 0.2603330612182617
+          },
+          {
+            "begin_char": 5383,
+            "end_char": 5441,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 5442,
+            "end_char": 5446,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5446,
+            "end_char": 5663,
+            "sentiment": "3 stars",
+            "score": 0.27030304074287415
+          },
+          {
+            "begin_char": 5664,
+            "end_char": 5688,
+            "sentiment": "5 stars",
+            "score": 0.4616662561893463
+          },
+          {
+            "begin_char": 5689,
+            "end_char": 5779,
+            "sentiment": "2 stars",
+            "score": 0.2601660490036011
+          },
+          {
+            "begin_char": 5780,
+            "end_char": 5911,
+            "sentiment": "3 stars",
+            "score": 0.26399555802345276
+          },
+          {
+            "begin_char": 5912,
+            "end_char": 5977,
+            "sentiment": "4 stars",
+            "score": 0.30711811780929565
+          },
+          {
+            "begin_char": 5978,
+            "end_char": 6124,
+            "sentiment": "1 star",
+            "score": 0.35505956411361694
+          },
+          {
+            "begin_char": 6125,
+            "end_char": 6280,
+            "sentiment": "3 stars",
+            "score": 0.29958412051200867
+          },
+          {
+            "begin_char": 6280,
+            "end_char": 6338,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 6339,
+            "end_char": 6431,
+            "sentiment": "3 stars",
+            "score": 0.24542291462421417
+          },
+          {
+            "begin_char": 6432,
+            "end_char": 6551,
+            "sentiment": "4 stars",
+            "score": 0.32474982738494873
+          },
+          {
+            "begin_char": 6552,
+            "end_char": 6730,
+            "sentiment": "4 stars",
+            "score": 0.2527299225330353
+          },
+          {
+            "begin_char": 6731,
+            "end_char": 6732,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 6732,
+            "end_char": 6811,
+            "sentiment": "4 stars",
+            "score": 0.3168184459209442
+          },
+          {
+            "begin_char": 6812,
+            "end_char": 6814,
+            "sentiment": "3 stars",
+            "score": 0.25771647691726685
+          },
+          {
+            "begin_char": 6814,
+            "end_char": 6826,
+            "sentiment": "5 stars",
+            "score": 0.4309922754764557
+          },
+          {
+            "begin_char": 6827,
+            "end_char": 6904,
+            "sentiment": "3 stars",
+            "score": 0.34650975465774536
+          },
+          {
+            "begin_char": 6904,
+            "end_char": 6905,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 6906,
+            "end_char": 6957,
+            "sentiment": "2 stars",
+            "score": 0.23486046493053436
+          },
+          {
+            "begin_char": 6957,
+            "end_char": 7000,
+            "sentiment": "3 stars",
+            "score": 0.3212944269180298
+          },
+          {
+            "begin_char": 7001,
+            "end_char": 7025,
+            "sentiment": "5 stars",
+            "score": 0.4616662561893463
+          },
+          {
+            "begin_char": 7025,
+            "end_char": 7059,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 7060,
+            "end_char": 7145,
+            "sentiment": "4 stars",
+            "score": 0.2727644145488739
+          },
+          {
+            "begin_char": 7146,
+            "end_char": 7250,
+            "sentiment": "1 star",
+            "score": 0.4666207432746887
+          },
+          {
+            "begin_char": 7251,
+            "end_char": 7319,
+            "sentiment": "4 stars",
+            "score": 0.3106642961502075
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-15",
+        "pageJO": "1371",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

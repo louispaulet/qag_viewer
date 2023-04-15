@@ -1,0 +1,491 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG567",
+    "identifiant": {
+      "numero": "567",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "accidents du travail et maladies professionnelles",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "ACCOMPAGNEMENT DES FAMILLES TOUCHÉES PAR UN CANCER PÉDIATRIQUE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA642868",
+        "mandatRef": "PM796968"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Solidarités, autonomie et personnes handicapées",
+      "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Solidarités, autonomie et personnes handicapées",
+          "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ACCOMPAGNEMENT DES FAMILLES TOUCHÉES PAR UN CANCER PÉDIATRIQUE <a name=PG12></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Paul Christophe.<br><br><strong>M. Paul Christophe. </strong>Ma question s’adresse au ministre des solidarités, de l’autonomie et des personnes handicapées.<br><br>Demain, le 15 février, et pour la vingt-deuxième fois, se tiendra la Journée internationale du cancer de l’enfant. Une journée pour nous rappeler qu’en France, 2 800 enfants et adolescents, soit 1 sur 440, sont concernés chaque année par un cancer. Ces chiffres nous montrent que le cancer pédiatrique est l’affaire de tous. Nous devons renforcer le soin pédiatrique et la prévention, améliorer les financements de la recherche et augmenter les moyens que nous mettons à disposition des familles pour surmonter le choc et la perte de repères que représente un cancer chez un enfant.<br><br>Les cancers pédiatriques font de longue date partie intégrante des plans gouvernementaux et la dernière stratégie en cours de déploiement concerne la période 2021-2030. Elle comprend désormais un volet de prise en charge des enfants malades et de leurs familles. Celle-ci a progressé ces dernières années puisque de nombreux dispositifs ont été améliorés : création du don de congés au profit des aidants, doublement de la durée du congé de présence parentale ou, dernièrement, évolution du complément de mode de garde.<br><br>Nous saluons aussi l'initiative récente de CNP Assurances, qui propose une nouvelle garantie d'aide à la famille, construite avec l'association Eva pour la vie et la fédération Grandir sans cancer, et qui vise à protéger les parents face aux crédits immobiliers. Je profite également de l'occasion pour remercier l'ensemble des associations qui œuvrent chaque jour pour accompagner les familles et les enfants concernés. <i>(Applaudissements sur les bancs des groupes HOR et LR.)</i><br><br>Les besoins des familles sont encore aujourd'hui nombreux et des améliorations sont nécessaires pour protéger et simplifier leur quotidien. La nature exceptionnelle, brutale et urgente de la situation doit donc nous amener à prendre des mesures exceptionnelles et réellement adaptées. Ainsi, à la veille de la Journée internationale du cancer de l’enfant, pourriez-vous nous indiquer comment nous pourrions mieux accompagner les familles dans cette épreuve ? <i>(Applaudissements sur les bancs des groupes HOR et LR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre des solidarités, de l'autonomie et des personnes handicapées.<br><br><strong>M. Marc Le Fur.</strong> Et des assistantes maternelles !<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre des solidarités, de l'autonomie et des personnes handicapées. </i>Vous avez rappelé des chiffres saisissants, mais n'oublions pas que derrière ces données, il y a des familles qui vivent des situations douloureuses, il y a des enfants qui souffrent, il y a des parents qui voient leur quotidien bouleversé, il y a des frères et des sœurs auxquels il faut penser et qu'il faut soutenir. À toutes et tous, nous devons un accompagnement qui soit à la fois le plus humain et le plus sensible possible et le plus adapté à ces situations difficiles.<br><br>Vous l'avez dit, demain se tiendra la Journée internationale du cancer de l'enfant. Elle est l'occasion de rappeler tout ce que nous devons faire et tout ce que nous avons fait en la matière. Nous avons connu ces dernières années de nombreuses avancées. Certaines ont été votées dans cet hémicycle, la plupart à votre initiative – et je tiens à vous en remercier. Je pense notamment à la loi du 15 novembre 2021 qui a permis d'améliorer les conditions de présence parentale auprès des enfants, en permettant un renouvellement immédiat de la durée maximale du congé et de l'allocation spécifique.<br><br>Je souhaite que nous puissions aller plus loin. La proposition de loi que vous avez déposée va nous y aider. Elle tend notamment à encourager les caisses d'allocations familiales (CAF) à fluidifier les parcours des familles et mieux les protéger contre les aléas, notamment financiers. Nous pourrons également y réfléchir dans le cadre de l'élaboration de la nouvelle stratégie en faveur des aidants. Soyez assuré que, avec mon collègue François Braun, nous maintenons un dialogue constant avec les associations, dont je salue l'engagement à faire progresser la reconnaissance des familles qu'elles représentent. <i>(Applaudissements sur les bancs du groupe HOR.)</i><br><br><strong>M. Sylvain Maillard.</strong> Très bien !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 41,
+            "label": "ORG",
+            "text": "ACCOMPAGNEMENT DES"
+          },
+          {
+            "start_char": 51,
+            "end_char": 59,
+            "label": "ORG",
+            "text": "TOUCHÉES"
+          },
+          {
+            "start_char": 74,
+            "end_char": 85,
+            "label": "MISC",
+            "text": "PÉDIATRIQUE"
+          },
+          {
+            "start_char": 120,
+            "end_char": 123,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 164,
+            "end_char": 166,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 167,
+            "end_char": 171,
+            "label": "PER",
+            "text": "Paul"
+          },
+          {
+            "start_char": 202,
+            "end_char": 217,
+            "label": "PER",
+            "text": "Paul Christophe"
+          },
+          {
+            "start_char": 240,
+            "end_char": 242,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 282,
+            "end_char": 284,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 311,
+            "end_char": 330,
+            "label": "MISC",
+            "text": "handicapées.<br><br"
+          },
+          {
+            "start_char": 400,
+            "end_char": 438,
+            "label": "MISC",
+            "text": "Journée internationale du cancer de l’"
+          },
+          {
+            "start_char": 483,
+            "end_char": 489,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 637,
+            "end_char": 639,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 906,
+            "end_char": 920,
+            "label": "MISC",
+            "text": "enfant.<br><br"
+          },
+          {
+            "start_char": 1434,
+            "end_char": 1447,
+            "label": "MISC",
+            "text": "garde.<br><br"
+          },
+          {
+            "start_char": 1491,
+            "end_char": 1505,
+            "label": "ORG",
+            "text": "CNP Assurances"
+          },
+          {
+            "start_char": 1592,
+            "end_char": 1595,
+            "label": "ORG",
+            "text": "Eva"
+          },
+          {
+            "start_char": 1614,
+            "end_char": 1632,
+            "label": "LOC",
+            "text": "fédération Grandir"
+          },
+          {
+            "start_char": 1916,
+            "end_char": 1919,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 1923,
+            "end_char": 1938,
+            "label": "PER",
+            "text": "LR.)</i><br><br"
+          },
+          {
+            "start_char": 2249,
+            "end_char": 2287,
+            "label": "MISC",
+            "text": "Journée internationale du cancer de l’"
+          },
+          {
+            "start_char": 2445,
+            "end_char": 2448,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 2452,
+            "end_char": 2475,
+            "label": "MISC",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2476,
+            "end_char": 2479,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2520,
+            "end_char": 2522,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2615,
+            "end_char": 2619,
+            "label": "PER",
+            "text": "Marc"
+          },
+          {
+            "start_char": 2623,
+            "end_char": 2635,
+            "label": "ORG",
+            "text": "Fur.</strong"
+          },
+          {
+            "start_char": 2685,
+            "end_char": 2703,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 3321,
+            "end_char": 3365,
+            "label": "MISC",
+            "text": "Journée internationale du cancer de l'enfant"
+          },
+          {
+            "start_char": 3867,
+            "end_char": 3885,
+            "label": "MISC",
+            "text": "spécifique.<br><br"
+          },
+          {
+            "start_char": 4066,
+            "end_char": 4069,
+            "label": "ORG",
+            "text": "CAF"
+          },
+          {
+            "start_char": 4287,
+            "end_char": 4292,
+            "label": "ORG",
+            "text": "Soyez"
+          },
+          {
+            "start_char": 4323,
+            "end_char": 4337,
+            "label": "PER",
+            "text": "François Braun"
+          },
+          {
+            "start_char": 4544,
+            "end_char": 4603,
+            "label": "MISC",
+            "text": "HOR.)</i><br><br><strong>M. Sylvain Maillard.</strong> Très"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 73,
+            "sentiment": "1 star",
+            "score": 0.3539632260799408
+          },
+          {
+            "begin_char": 74,
+            "end_char": 138,
+            "sentiment": "1 star",
+            "score": 0.29919785261154175
+          },
+          {
+            "begin_char": 139,
+            "end_char": 218,
+            "sentiment": "4 stars",
+            "score": 0.2426331639289856
+          },
+          {
+            "begin_char": 219,
+            "end_char": 445,
+            "sentiment": "5 stars",
+            "score": 0.315568745136261
+          },
+          {
+            "begin_char": 446,
+            "end_char": 579,
+            "sentiment": "5 stars",
+            "score": 0.3998662531375885
+          },
+          {
+            "begin_char": 580,
+            "end_char": 655,
+            "sentiment": "5 stars",
+            "score": 0.3374011814594269
+          },
+          {
+            "begin_char": 656,
+            "end_char": 921,
+            "sentiment": "5 stars",
+            "score": 0.5247613191604614
+          },
+          {
+            "begin_char": 921,
+            "end_char": 1089,
+            "sentiment": "5 stars",
+            "score": 0.4293493926525116
+          },
+          {
+            "begin_char": 1090,
+            "end_char": 1183,
+            "sentiment": "4 stars",
+            "score": 0.36395204067230225
+          },
+          {
+            "begin_char": 1184,
+            "end_char": 1448,
+            "sentiment": "4 stars",
+            "score": 0.4517858624458313
+          },
+          {
+            "begin_char": 1448,
+            "end_char": 1710,
+            "sentiment": "5 stars",
+            "score": 0.5269259810447693
+          },
+          {
+            "begin_char": 1711,
+            "end_char": 1868,
+            "sentiment": "5 stars",
+            "score": 0.5891045331954956
+          },
+          {
+            "begin_char": 1869,
+            "end_char": 2078,
+            "sentiment": "5 stars",
+            "score": 0.4713890850543976
+          },
+          {
+            "begin_char": 2079,
+            "end_char": 2223,
+            "sentiment": "5 stars",
+            "score": 0.48893722891807556
+          },
+          {
+            "begin_char": 2224,
+            "end_char": 2397,
+            "sentiment": "5 stars",
+            "score": 0.2943478226661682
+          },
+          {
+            "begin_char": 2398,
+            "end_char": 2494,
+            "sentiment": "4 stars",
+            "score": 0.3144453167915344
+          },
+          {
+            "begin_char": 2495,
+            "end_char": 2669,
+            "sentiment": "5 stars",
+            "score": 0.30281177163124084
+          },
+          {
+            "begin_char": 2669,
+            "end_char": 2793,
+            "sentiment": "4 stars",
+            "score": 0.31012681126594543
+          },
+          {
+            "begin_char": 2794,
+            "end_char": 3117,
+            "sentiment": "5 stars",
+            "score": 0.4266720116138458
+          },
+          {
+            "begin_char": 3118,
+            "end_char": 3283,
+            "sentiment": "5 stars",
+            "score": 0.5602116584777832
+          },
+          {
+            "begin_char": 3283,
+            "end_char": 3366,
+            "sentiment": "5 stars",
+            "score": 0.3750573694705963
+          },
+          {
+            "begin_char": 3367,
+            "end_char": 3474,
+            "sentiment": "5 stars",
+            "score": 0.6146638989448547
+          },
+          {
+            "begin_char": 3475,
+            "end_char": 3536,
+            "sentiment": "5 stars",
+            "score": 0.5310410261154175
+          },
+          {
+            "begin_char": 3537,
+            "end_char": 3646,
+            "sentiment": "5 stars",
+            "score": 0.4397912919521332
+          },
+          {
+            "begin_char": 3647,
+            "end_char": 3933,
+            "sentiment": "5 stars",
+            "score": 0.5093709230422974
+          },
+          {
+            "begin_char": 3934,
+            "end_char": 3994,
+            "sentiment": "4 stars",
+            "score": 0.35440170764923096
+          },
+          {
+            "begin_char": 3995,
+            "end_char": 4171,
+            "sentiment": "4 stars",
+            "score": 0.5298526883125305
+          },
+          {
+            "begin_char": 4172,
+            "end_char": 4286,
+            "sentiment": "4 stars",
+            "score": 0.46700140833854675
+          },
+          {
+            "begin_char": 4287,
+            "end_char": 4498,
+            "sentiment": "5 stars",
+            "score": 0.5850179195404053
+          },
+          {
+            "begin_char": 4499,
+            "end_char": 4610,
+            "sentiment": "4 stars",
+            "score": 0.4623723030090332
+          },
+          {
+            "begin_char": 4610,
+            "end_char": 4618,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-15",
+        "pageJO": "1376",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

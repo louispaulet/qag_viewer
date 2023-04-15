@@ -1,0 +1,617 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG325",
+    "identifiant": {
+      "numero": "325",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "urbanisme",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Artificialisation des sols"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795836",
+        "mandatRef": "PM797706"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ARTIFICIALISATION DES SOLS <a name=PG23></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Frédéric Cabrolier.<br><br><strong>M. Frédéric Cabrolier. </strong>Ma question s'adresse à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br>En août 2021, la loi « climat et résilience » a été votée sans concertation avec les élus locaux. Conséquence : ils sont aujourd'hui très inquiets. Cette loi, dite zéro artificialisation nette, est destinée à limiter les surfaces constructibles : dorénavant, et jusqu'en 2030, les autorisations de construction ne pourront être délivrées dans les documents d'urbanisme que dans la limite globale de la moitié des superficies artificialisées durant les dix dernières années. Sont inclus dans ce calcul des grands projets nationaux sur lesquels les élus locaux n'ont aucune prise.<br><br><strong>Mme Émilie Bonnivard.</strong> Exactement !<br><br><strong>M. Erwan Balanant.</strong> C'est compliqué, mais nécessaire !<br><br><strong>M. Frédéric Cabrolier. </strong>Or au cours des dix dernières années, à l'échelle nationale, le rythme d'artificialisation se situe autour de 28 400 hectares par an, mais les taux d'artificialisation varient de 4 % à 20 % selon les régions, et ces différences sont encore plus marquées entre les intercommunalités.<br><br>Vous comprenez aisément que cette règle de réduction de moitié appliquée uniformément à l'ensemble du territoire français est injuste.<br><br><strong>Mme Isabelle Valentin.</strong> C'est vrai !<br><br><strong>M. Frédéric Cabrolier. </strong>Certains territoires ont été peu artificialisés au cours des dix dernières années et l'application stricte de cette loi conduirait à pénaliser le comportement vertueux de certaines collectivités.<br><br>Depuis la crise sanitaire, le monde rural est plébiscité et il faut pouvoir accueillir dans les meilleures conditions ceux qui souhaitent venir s'installer à la campagne. L'application de cette loi aura l'effet inverse à celui souhaité : les campagnes vont continuer de se dépeupler au détriment des grandes métropoles qui ne sont guère des parangons de vertu en matière environnementale. <br><br>Monsieur le ministre, est-il juste que les mauvais élèves du passé consomment dans les dix prochaines années plus de terrains que ceux qui ont été vertueux et qui ont fait des efforts et que les territoires ruraux soient pénalisés ? <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Les éléments de réponse que je peux apporter à votre question vont, je pense, vous convenir. La loi « climat et résilience » existe car, toutes les heures dans notre pays, nous consommons et artificialisons l'équivalent de cinq terrains de football.<br><br><strong>Mme Émilie Bonnivard.</strong> Pas chez nous !<br><br><strong>M. Olivier Marleix.</strong> À Angers peut-être.<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>Ainsi, depuis que nous avons commencé cette séance de questions au Gouvernement, c'est l'équivalent de huit terrains de football qui ont été artificialisés ! Pour certains, ce n'est peut-être pas grave, mais si nous voulons préserver notre agriculture et nos sols et maintenir nos capacités de captation du carbone, il est nécessaire de lutter contre l'artificialisation des sols. La loi à laquelle vous faites référence a été votée par l'Assemblée nationale et par le Sénat à l'issue d'une commission mixte paritaire. Elle a donc réuni tout le monde, y compris sur cet objectif.<br><br><strong>M. Pierre Cordier.</strong> Et alors ?<br><br><strong>Mme Émilie Bonnivard.</strong> Cette loi est une erreur majeure !<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>L'enjeu porte sur ses modalités d'application. Les difficultés liées aux décrets publiés à la fin du mois d'avril m'ont conduit à les suspendre et à les réécrire avec les associations d'élus et avec les agences d'urbanisme.<br><br>Le point que vous soulignez est juste : pour atteindre l'objectif de zéro artificialisation nette, nous ne devons pas prendre ce qui a été fait par le passé pour le diviser par deux de manière automatique. Ce n'est pas ainsi que la loi a été votée.<br><br><strong>M. Jérôme Nury.</strong> Si, c'est la loi !<br><br><strong>M. Erwan Balanant.</strong> Non !<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>La loi prévoit une territorialisation par région afin de prendre en compte, à l'échelle des bassins de territoires, les différences de vertus et de dynamiques passées ainsi que les différences de progression de population.<br><br><strong>Mme Émilie Bonnivard.</strong> Vous privilégiez ainsi des territoires par rapport à d'autres.<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>À la minute où nous nous parlons, avec l'Association des maires de France et des présidents d’intercommunalité (AMF) et son président David Lisnard, avec l'association Régions de France et avec la majorité sénatoriale, nous sommes en train de travailler à des évolutions qui seront présentées dans les tout prochains jours. Elles comportent en particulier des assouplissements, notamment pour les grands projets nationaux comme ceux du canal Seine-Nord Europe ou de la ligne à grande vitesse (LGV) Occitanie. Ainsi, on n'appliquera pas une loi aveugle tout en tenant notre objectif de lutte contre l'artificialisation, lutte que nous ne pouvons pas différer si nous voulons combattre le dérèglement climatique.<br> <p>",
+        "entities": [
+          {
+            "start_char": 84,
+            "end_char": 87,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 128,
+            "end_char": 139,
+            "label": "PER",
+            "text": "M. Frédéric"
+          },
+          {
+            "start_char": 169,
+            "end_char": 187,
+            "label": "PER",
+            "text": "Frédéric Cabrolier"
+          },
+          {
+            "start_char": 222,
+            "end_char": 224,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 287,
+            "end_char": 306,
+            "label": "MISC",
+            "text": "territoires.<br><br"
+          },
+          {
+            "start_char": 901,
+            "end_char": 930,
+            "label": "PER",
+            "text": "Mme Émilie Bonnivard.</strong"
+          },
+          {
+            "start_char": 960,
+            "end_char": 986,
+            "label": "PER",
+            "text": "M. Erwan Balanant.</strong"
+          },
+          {
+            "start_char": 1041,
+            "end_char": 1059,
+            "label": "PER",
+            "text": "Frédéric Cabrolier"
+          },
+          {
+            "start_char": 1334,
+            "end_char": 1359,
+            "label": "MISC",
+            "text": "intercommunalités.<br><br"
+          },
+          {
+            "start_char": 1510,
+            "end_char": 1540,
+            "label": "PER",
+            "text": "Mme Isabelle Valentin.</strong"
+          },
+          {
+            "start_char": 1573,
+            "end_char": 1591,
+            "label": "PER",
+            "text": "Frédéric Cabrolier"
+          },
+          {
+            "start_char": 1783,
+            "end_char": 1804,
+            "label": "MISC",
+            "text": "collectivités.<br><br"
+          },
+          {
+            "start_char": 2195,
+            "end_char": 2202,
+            "label": "MISC",
+            "text": "br><br>"
+          },
+          {
+            "start_char": 2202,
+            "end_char": 2210,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2480,
+            "end_char": 2503,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2504,
+            "end_char": 2507,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2548,
+            "end_char": 2550,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2641,
+            "end_char": 2654,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3015,
+            "end_char": 3044,
+            "label": "PER",
+            "text": "Mme Émilie Bonnivard.</strong"
+          },
+          {
+            "start_char": 3108,
+            "end_char": 3114,
+            "label": "LOC",
+            "text": "Angers"
+          },
+          {
+            "start_char": 3141,
+            "end_char": 3154,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3255,
+            "end_char": 3267,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3627,
+            "end_char": 3646,
+            "label": "ORG",
+            "text": "Assemblée nationale"
+          },
+          {
+            "start_char": 3657,
+            "end_char": 3662,
+            "label": "ORG",
+            "text": "Sénat"
+          },
+          {
+            "start_char": 3786,
+            "end_char": 3809,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 3837,
+            "end_char": 3866,
+            "label": "PER",
+            "text": "Mme Émilie Bonnivard.</strong"
+          },
+          {
+            "start_char": 3918,
+            "end_char": 3931,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4178,
+            "end_char": 4195,
+            "label": "MISC",
+            "text": "urbanisme.<br><br"
+          },
+          {
+            "start_char": 4460,
+            "end_char": 4483,
+            "label": "PER",
+            "text": "M. Jérôme Nury.</strong"
+          },
+          {
+            "start_char": 4519,
+            "end_char": 4550,
+            "label": "PER",
+            "text": "M. Erwan Balanant.</strong> Non"
+          },
+          {
+            "start_char": 4568,
+            "end_char": 4581,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4853,
+            "end_char": 4882,
+            "label": "PER",
+            "text": "Mme Émilie Bonnivard.</strong"
+          },
+          {
+            "start_char": 4962,
+            "end_char": 4975,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 5050,
+            "end_char": 5082,
+            "label": "ORG",
+            "text": "Association des maires de France"
+          },
+          {
+            "start_char": 5121,
+            "end_char": 5124,
+            "label": "ORG",
+            "text": "AMF"
+          },
+          {
+            "start_char": 5143,
+            "end_char": 5156,
+            "label": "PER",
+            "text": "David Lisnard"
+          },
+          {
+            "start_char": 5177,
+            "end_char": 5194,
+            "label": "LOC",
+            "text": "Régions de France"
+          },
+          {
+            "start_char": 5445,
+            "end_char": 5461,
+            "label": "LOC",
+            "text": "canal Seine-Nord"
+          },
+          {
+            "start_char": 5462,
+            "end_char": 5468,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 5502,
+            "end_char": 5505,
+            "label": "LOC",
+            "text": "LGV"
+          },
+          {
+            "start_char": 5507,
+            "end_char": 5516,
+            "label": "LOC",
+            "text": "Occitanie"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 102,
+            "sentiment": "3 stars",
+            "score": 0.3080045282840729
+          },
+          {
+            "begin_char": 103,
+            "end_char": 188,
+            "sentiment": "3 stars",
+            "score": 0.2610739767551422
+          },
+          {
+            "begin_char": 189,
+            "end_char": 307,
+            "sentiment": "4 stars",
+            "score": 0.31989362835884094
+          },
+          {
+            "begin_char": 307,
+            "end_char": 404,
+            "sentiment": "5 stars",
+            "score": 0.31698164343833923
+          },
+          {
+            "begin_char": 405,
+            "end_char": 418,
+            "sentiment": "2 stars",
+            "score": 0.3306487202644348
+          },
+          {
+            "begin_char": 419,
+            "end_char": 454,
+            "sentiment": "5 stars",
+            "score": 0.4127911627292633
+          },
+          {
+            "begin_char": 455,
+            "end_char": 780,
+            "sentiment": "5 stars",
+            "score": 0.33654364943504333
+          },
+          {
+            "begin_char": 781,
+            "end_char": 931,
+            "sentiment": "3 stars",
+            "score": 0.3340438902378082
+          },
+          {
+            "begin_char": 932,
+            "end_char": 944,
+            "sentiment": "5 stars",
+            "score": 0.7158753871917725
+          },
+          {
+            "begin_char": 944,
+            "end_char": 987,
+            "sentiment": "3 stars",
+            "score": 0.3019412159919739
+          },
+          {
+            "begin_char": 988,
+            "end_char": 1022,
+            "sentiment": "4 stars",
+            "score": 0.4402838349342346
+          },
+          {
+            "begin_char": 1022,
+            "end_char": 1060,
+            "sentiment": "3 stars",
+            "score": 0.29180973768234253
+          },
+          {
+            "begin_char": 1061,
+            "end_char": 1592,
+            "sentiment": "4 stars",
+            "score": 0.30354323983192444
+          },
+          {
+            "begin_char": 1593,
+            "end_char": 1602,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1602,
+            "end_char": 1975,
+            "sentiment": "4 stars",
+            "score": 0.4538259208202362
+          },
+          {
+            "begin_char": 1976,
+            "end_char": 2193,
+            "sentiment": "4 stars",
+            "score": 0.26907846331596375
+          },
+          {
+            "begin_char": 2194,
+            "end_char": 2202,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2202,
+            "end_char": 2222,
+            "sentiment": "4 stars",
+            "score": 0.338826984167099
+          },
+          {
+            "begin_char": 2222,
+            "end_char": 2434,
+            "sentiment": "2 stars",
+            "score": 0.35000941157341003
+          },
+          {
+            "begin_char": 2435,
+            "end_char": 2522,
+            "sentiment": "4 stars",
+            "score": 0.3186970353126526
+          },
+          {
+            "begin_char": 2523,
+            "end_char": 2745,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 2746,
+            "end_char": 2842,
+            "sentiment": "4 stars",
+            "score": 0.4078564941883087
+          },
+          {
+            "begin_char": 2843,
+            "end_char": 3045,
+            "sentiment": "5 stars",
+            "score": 0.3688032031059265
+          },
+          {
+            "begin_char": 3046,
+            "end_char": 3061,
+            "sentiment": "1 star",
+            "score": 0.3480432331562042
+          },
+          {
+            "begin_char": 3061,
+            "end_char": 3173,
+            "sentiment": "3 stars",
+            "score": 0.3763555884361267
+          },
+          {
+            "begin_char": 3174,
+            "end_char": 3183,
+            "sentiment": "4 stars",
+            "score": 0.31432053446769714
+          },
+          {
+            "begin_char": 3184,
+            "end_char": 3345,
+            "sentiment": "1 star",
+            "score": 0.46145009994506836
+          },
+          {
+            "begin_char": 3346,
+            "end_char": 3568,
+            "sentiment": "5 stars",
+            "score": 0.48342326283454895
+          },
+          {
+            "begin_char": 3569,
+            "end_char": 3706,
+            "sentiment": "4 stars",
+            "score": 0.33595359325408936
+          },
+          {
+            "begin_char": 3707,
+            "end_char": 3821,
+            "sentiment": "2 stars",
+            "score": 0.27362191677093506
+          },
+          {
+            "begin_char": 3821,
+            "end_char": 3867,
+            "sentiment": "3 stars",
+            "score": 0.3067982792854309
+          },
+          {
+            "begin_char": 3868,
+            "end_char": 3902,
+            "sentiment": "1 star",
+            "score": 0.7749378681182861
+          },
+          {
+            "begin_char": 3902,
+            "end_char": 3960,
+            "sentiment": "3 stars",
+            "score": 0.29623985290527344
+          },
+          {
+            "begin_char": 3961,
+            "end_char": 3965,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3965,
+            "end_char": 4011,
+            "sentiment": "4 stars",
+            "score": 0.41186484694480896
+          },
+          {
+            "begin_char": 4012,
+            "end_char": 4196,
+            "sentiment": "3 stars",
+            "score": 0.35339096188545227
+          },
+          {
+            "begin_char": 4196,
+            "end_char": 4401,
+            "sentiment": "1 star",
+            "score": 0.3031836748123169
+          },
+          {
+            "begin_char": 4402,
+            "end_char": 4484,
+            "sentiment": "3 stars",
+            "score": 0.2748025059700012
+          },
+          {
+            "begin_char": 4485,
+            "end_char": 4503,
+            "sentiment": "5 stars",
+            "score": 0.3666595220565796
+          },
+          {
+            "begin_char": 4503,
+            "end_char": 4552,
+            "sentiment": "1 star",
+            "score": 0.5875517725944519
+          },
+          {
+            "begin_char": 4552,
+            "end_char": 4610,
+            "sentiment": "3 stars",
+            "score": 0.29623985290527344
+          },
+          {
+            "begin_char": 4611,
+            "end_char": 4883,
+            "sentiment": "4 stars",
+            "score": 0.39910683035850525
+          },
+          {
+            "begin_char": 4884,
+            "end_char": 5004,
+            "sentiment": "3 stars",
+            "score": 0.31402018666267395
+          },
+          {
+            "begin_char": 5005,
+            "end_char": 5332,
+            "sentiment": "5 stars",
+            "score": 0.4488639235496521
+          },
+          {
+            "begin_char": 5333,
+            "end_char": 5517,
+            "sentiment": "4 stars",
+            "score": 0.550592303276062
+          },
+          {
+            "begin_char": 5518,
+            "end_char": 5727,
+            "sentiment": "5 stars",
+            "score": 0.5359566807746887
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5909",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

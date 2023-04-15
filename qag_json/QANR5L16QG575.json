@@ -1,0 +1,521 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG575",
+    "identifiant": {
+      "numero": "575",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "chômage",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "CHIFFRES DU CHÔMAGE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719778",
+        "mandatRef": "PM796713"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CHIFFRES DU CHÔMAGE <a name=PG20></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. François Jolivet.<br><br><strong>M. François Jolivet. </strong>Monsieur le ministre du travail, du plein emploi et de l'insertion, l'Insee a publié aujourd'hui une bonne nouvelle : le taux de chômage du quatrième trimestre 2022 enregistre encore une baisse, à 7,2 % de la population active. C'est son plus bas niveau depuis quarante ans. Nous pouvons tous, j'imagine, nous en réjouir, quels que soient les bancs sur lesquels nous siégeons. La courbe du chômage peut donc s'inverser, même après une crise sanitaire, même après une guerre en Ukraine qui a fait flamber le prix de l'énergie. C'est aussi une bonne nouvelle pour le financement de nos retraites.<br><br>Cette nouvelle baisse du chômage est sans doute la preuve que notre économie résiste grâce aux employeurs, publics ou privés, mais c'est également la preuve que la politique de l'emploi que nous menons depuis 2017 commence à porter ses fruits.<br><br>Le groupe Horizons et apparentés est profondément attaché à la valeur travail. Nous sommes convaincus que le travail est la garantie pour chacun de trouver sa place dans la société. Travailler, c'est d'abord être libre. Nous ne pouvons donc faire nôtre la douce et attirante illusion de la paresse qui, en réalité, rend dépendant et enferme socialement.<br><br>Nous nous devons de poursuivre l'effort, notamment en direction de nos concitoyens les plus éloignés du marché du travail. L'objectif est désormais très clair : il faut parvenir au plein emploi d'ici à la fin du quinquennat. Monsieur le ministre, quels sont vos prochains chantiers pour l'atteindre ? <i>(Applaudissements sur quelques bancs du groupe HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Monsieur Jolivet, vous avez raison, l'Insee a livré une bonne nouvelle ce matin puisqu'au quatrième trimestre 2022, le taux de chômage a légèrement baissé, pour passer de 7,3 % à 7,2 %.<br><br><strong>M. Sylvain Maillard.</strong> Eh oui !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>C'est le plus bas taux depuis quarante ans et cela se traduit aussi par une baisse d'un point du taux de chômage des moins de 25 ans, au plus bas depuis le début des années 2000.<br><br>Cela s'ajoute à d'autres bonnes nouvelles. Ainsi, le taux d'activité des Français âgés de 15 à 64 ans n'a jamais été aussi élevé – nous sommes 68,5 % à travailler. En outre, les emplois de plus d'un mois créés au cours du deuxième semestre 2022 sont, pour 52 % d'entre eux, des CDI. C'est la première fois depuis une quarantaine d'années que le taux de CDI dans l'emploi global dépasse les 50 %. Cela signifie que la France crée de l'emploi, beaucoup d'emplois – plus de 1,7 million en six ans – et qu'elle crée de l'emploi de qualité, de moins en moins précaire, de plus en plus stable, le CDI devenant le modèle dominant.<br><br>Comment poursuivre cette tendance ? Trois chantiers nous attendent.<br><br>Il faut d'abord garantir le retour à l'emploi de tous. Personne n'est inemployable et France Travail doit mieux structurer le service public de l'emploi et mieux accompagner les allocataires du RSA par la formation et par l'insertion afin de permettre le retour à l'emploi de tous ceux qui en sont durablement éloignés.<br><br>En outre, nous nous engageons sur la qualité de vie et les conditions de travail. J'ai ouvert les assises du travail au mois de décembre et j'étais, ce matin, devant le Conseil économique, social et environnemental (Cese) pour parler de la santé au travail <i>(M. Ugo Bernalicis s'exclame)</i>. Le travail, que 70 % des Français disent apprécier, doit être non seulement un outil d'émancipation, mais aussi un endroit où l'on s'épanouit et où l'on se sent utile socialement, d'une manière presque citoyenne.<br><br>Enfin, pour donner du sens au travail, il faut partager la valeur. Il y a quelques semaines, j'ai demandé aux partenaires sociaux d'ouvrir la négociation. Elle a abouti aujourd'hui : un accord a été trouvé, il est en cours de signature et nous saurons le transcrire pour revaloriser le travail. <i>(Applaudissements sur quelques bancs des groupes HOR et RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 35,
+            "end_char": 42,
+            "label": "LOC",
+            "text": "CHÔMAGE"
+          },
+          {
+            "start_char": 77,
+            "end_char": 80,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 121,
+            "end_char": 123,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 124,
+            "end_char": 156,
+            "label": "PER",
+            "text": "François Jolivet.<br><br><strong"
+          },
+          {
+            "start_char": 160,
+            "end_char": 176,
+            "label": "PER",
+            "text": "François Jolivet"
+          },
+          {
+            "start_char": 187,
+            "end_char": 195,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 257,
+            "end_char": 262,
+            "label": "ORG",
+            "text": "Insee"
+          },
+          {
+            "start_char": 664,
+            "end_char": 671,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 771,
+            "end_char": 788,
+            "label": "MISC",
+            "text": "retraites.<br><br"
+          },
+          {
+            "start_char": 1025,
+            "end_char": 1039,
+            "label": "MISC",
+            "text": "fruits.<br><br"
+          },
+          {
+            "start_char": 1050,
+            "end_char": 1058,
+            "label": "LOC",
+            "text": "Horizons"
+          },
+          {
+            "start_char": 1222,
+            "end_char": 1232,
+            "label": "PER",
+            "text": "Travailler"
+          },
+          {
+            "start_char": 1381,
+            "end_char": 1400,
+            "label": "MISC",
+            "text": "socialement.<br><br"
+          },
+          {
+            "start_char": 1626,
+            "end_char": 1634,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1752,
+            "end_char": 1776,
+            "label": "ORG",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1777,
+            "end_char": 1780,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1821,
+            "end_char": 1823,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 1870,
+            "end_char": 1872,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1898,
+            "end_char": 1908,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 1973,
+            "end_char": 1984,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 1990,
+            "end_char": 2006,
+            "label": "MISC",
+            "text": "Monsieur Jolivet"
+          },
+          {
+            "start_char": 2028,
+            "end_char": 2033,
+            "label": "ORG",
+            "text": "Insee"
+          },
+          {
+            "start_char": 2245,
+            "end_char": 2255,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2551,
+            "end_char": 2559,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2756,
+            "end_char": 2759,
+            "label": "ORG",
+            "text": "CDI"
+          },
+          {
+            "start_char": 2831,
+            "end_char": 2834,
+            "label": "ORG",
+            "text": "CDI"
+          },
+          {
+            "start_char": 2892,
+            "end_char": 2901,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3069,
+            "end_char": 3072,
+            "label": "ORG",
+            "text": "CDI"
+          },
+          {
+            "start_char": 3166,
+            "end_char": 3183,
+            "label": "MISC",
+            "text": "attendent.<br><br"
+          },
+          {
+            "start_char": 3270,
+            "end_char": 3284,
+            "label": "ORG",
+            "text": "France Travail"
+          },
+          {
+            "start_char": 3680,
+            "end_char": 3725,
+            "label": "ORG",
+            "text": "Conseil économique, social et environnemental"
+          },
+          {
+            "start_char": 3727,
+            "end_char": 3731,
+            "label": "PER",
+            "text": "Cese"
+          },
+          {
+            "start_char": 3775,
+            "end_char": 3789,
+            "label": "PER",
+            "text": "Ugo Bernalicis"
+          },
+          {
+            "start_char": 3831,
+            "end_char": 3839,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4008,
+            "end_char": 4025,
+            "label": "MISC",
+            "text": "citoyenne.<br><br"
+          },
+          {
+            "start_char": 4373,
+            "end_char": 4376,
+            "label": "ORG",
+            "text": "HOR"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 95,
+            "sentiment": "3 stars",
+            "score": 0.32685065269470215
+          },
+          {
+            "begin_char": 96,
+            "end_char": 177,
+            "sentiment": "3 stars",
+            "score": 0.26377490162849426
+          },
+          {
+            "begin_char": 178,
+            "end_char": 187,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 187,
+            "end_char": 414,
+            "sentiment": "4 stars",
+            "score": 0.3665231764316559
+          },
+          {
+            "begin_char": 415,
+            "end_char": 461,
+            "sentiment": "5 stars",
+            "score": 0.2762783467769623
+          },
+          {
+            "begin_char": 462,
+            "end_char": 563,
+            "sentiment": "5 stars",
+            "score": 0.6169188022613525
+          },
+          {
+            "begin_char": 564,
+            "end_char": 712,
+            "sentiment": "4 stars",
+            "score": 0.34433212876319885
+          },
+          {
+            "begin_char": 713,
+            "end_char": 789,
+            "sentiment": "5 stars",
+            "score": 0.46331602334976196
+          },
+          {
+            "begin_char": 789,
+            "end_char": 1040,
+            "sentiment": "5 stars",
+            "score": 0.48367807269096375
+          },
+          {
+            "begin_char": 1040,
+            "end_char": 1118,
+            "sentiment": "5 stars",
+            "score": 0.52410888671875
+          },
+          {
+            "begin_char": 1119,
+            "end_char": 1221,
+            "sentiment": "5 stars",
+            "score": 0.5799606442451477
+          },
+          {
+            "begin_char": 1222,
+            "end_char": 1259,
+            "sentiment": "5 stars",
+            "score": 0.39714673161506653
+          },
+          {
+            "begin_char": 1260,
+            "end_char": 1401,
+            "sentiment": "2 stars",
+            "score": 0.39993709325790405
+          },
+          {
+            "begin_char": 1401,
+            "end_char": 1523,
+            "sentiment": "5 stars",
+            "score": 0.4868542551994324
+          },
+          {
+            "begin_char": 1524,
+            "end_char": 1625,
+            "sentiment": "5 stars",
+            "score": 0.41685158014297485
+          },
+          {
+            "begin_char": 1626,
+            "end_char": 1701,
+            "sentiment": "5 stars",
+            "score": 0.36232370138168335
+          },
+          {
+            "begin_char": 1702,
+            "end_char": 1795,
+            "sentiment": "3 stars",
+            "score": 0.298236221075058
+          },
+          {
+            "begin_char": 1796,
+            "end_char": 1929,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 1930,
+            "end_char": 1985,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 1986,
+            "end_char": 2220,
+            "sentiment": "3 stars",
+            "score": 0.2977679669857025
+          },
+          {
+            "begin_char": 2221,
+            "end_char": 2229,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 2229,
+            "end_char": 2287,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 2288,
+            "end_char": 2520,
+            "sentiment": "4 stars",
+            "score": 0.33392128348350525
+          },
+          {
+            "begin_char": 2521,
+            "end_char": 2641,
+            "sentiment": "5 stars",
+            "score": 0.498441219329834
+          },
+          {
+            "begin_char": 2642,
+            "end_char": 2760,
+            "sentiment": "3 stars",
+            "score": 0.2645038664340973
+          },
+          {
+            "begin_char": 2761,
+            "end_char": 2873,
+            "sentiment": "5 stars",
+            "score": 0.3593802750110626
+          },
+          {
+            "begin_char": 2874,
+            "end_char": 3144,
+            "sentiment": "5 stars",
+            "score": 0.5283342599868774
+          },
+          {
+            "begin_char": 3145,
+            "end_char": 3184,
+            "sentiment": "3 stars",
+            "score": 0.2924189269542694
+          },
+          {
+            "begin_char": 3184,
+            "end_char": 3238,
+            "sentiment": "5 stars",
+            "score": 0.5179193019866943
+          },
+          {
+            "begin_char": 3239,
+            "end_char": 3592,
+            "sentiment": "5 stars",
+            "score": 0.5456532835960388
+          },
+          {
+            "begin_char": 3593,
+            "end_char": 4092,
+            "sentiment": "5 stars",
+            "score": 0.5918077230453491
+          },
+          {
+            "begin_char": 4093,
+            "end_char": 4180,
+            "sentiment": "4 stars",
+            "score": 0.25224313139915466
+          },
+          {
+            "begin_char": 4181,
+            "end_char": 4320,
+            "sentiment": "4 stars",
+            "score": 0.4095020294189453
+          },
+          {
+            "begin_char": 4321,
+            "end_char": 4396,
+            "sentiment": "3 stars",
+            "score": 0.32350262999534607
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-15",
+        "pageJO": "1382",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

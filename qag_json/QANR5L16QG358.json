@@ -1,0 +1,803 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG358",
+    "identifiant": {
+      "numero": "358",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "espace et politique spatiale",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Conférence ministérielle européenne sur l'avenir de l'écosystème spatial"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA722366",
+        "mandatRef": "PM797193"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Industrie",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Industrie",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CONFÉRENCE MINISTÉRIELLE EUROPÉENNE SUR L'AVENIR DE L'ÉCOSYSTÈME SPATIAL <a name=PG28></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Luc Fugit.<br><br><strong>M. Jean-Luc Fugit. </strong>Ma question s'adresse à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br>La semaine dernière, vous avez coprésidé la conférence ministérielle européenne, qui avait pour principal enjeu l'avenir de l'écosystème spatial européen.<br><br>À cette occasion, l'Agence spatiale européenne (ESA) a annoncé la sélection de Sophie Adenot au sein de la nouvelle promotion d'astronautes. <i>(Applaudissements sur les bancs du groupe RE.)</i> Elle sera la deuxième femme astronaute française après Claudie Haigneré. C'est une fierté pour la France.<br><br>Monsieur le ministre, le Parlement suit de près les questions spatiales, notamment grâce aux travaux de l'Office parlementaire d’évaluation des choix scientifiques et technologiques (Opecst). Début novembre, l'Opecst a auditionné les principaux acteurs du secteur spatial français, le Centre national d’études spatiales (Cnes), les grands groupes industriels que sont Ariane, Thales et Airbus, ainsi que plusieurs start-up qui, à leur échelle, aident aussi la France à conserver son statut de puissance spatiale.<br><br>De ces riches échanges, il ressort que, face à la concurrence américaine et chinoise, une Europe souveraine doit conserver un accès autonome à l'espace grâce au centre spatial guyanais et à une nouvelle génération de lanceurs, dont Ariane 6 ouvrira la voie.<br><br>Cette souveraineté a un coût dont nous ne pouvons pas faire l'économie. Une Europe agile et souveraine doit disposer de sa propre constellation de minisatellites pour assurer la vie quotidienne de la collectivité mais aussi pour les applications de défense. Les dernières annonces du commissaire européen Thierry Breton sont rassurantes mais le calendrier doit être précisé. Enfin, face à l'urgence climatique, l'observation de la Terre par satellite se révèle cruciale. L'Europe doit être par exemple capable de mesurer ses propres émissions de gaz à effet de serre ainsi que celles des autres pays pour assurer sa crédibilité dans les négociations internationales.<br><br>Monsieur le ministre, au vu de ces nombreux enjeux, pouvez-vous présenter les décisions majeures prises au niveau européen la semaine dernière et nous indiquer à quelle hauteur se situe l'ambition française pour répondre à ces défis majeurs, face aux différentes crises que traverse le monde ? <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé de l’industrie.<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué chargé de l’industrie. </i>Je vous remercie pour cette question sur un sujet que vous suivez depuis de nombreuses années au sein de l'Opecst. Vous l'avez fait, mais je voudrais à mon tour saluer nos deux spationautes sélectionnés. (<i>Applaudissements sur les bancs des groupes RE, Dem et HOR, ainsi que sur quelques bancs du groupe LFI-NUPES.)</i> Arnaud Prost a été retenu pour la réserve et Sophie Adenot a été nommée pendant la semaine de l'industrie, au cours de laquelle nous avions décidé de promouvoir la place des jeunes filles et des femmes dans l'industrie française. Je suis particulièrement fier, au nom du Gouvernement, de féliciter Sophie Adenot : j'espère que, vingt-cinq ans après Claudie Haigneré, une nouvelle spationaute française partira à la conquête de l'espace. (Applaudissements sur les bancs des groupes RE, Dem et HOR. – Mme Emmanuelle Anthoine applaudit également.) <br><br><strong>M. Rémy Rebeyrotte.</strong> Elle vient de Bourgogne !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué. </i>Une spationaute qui vient de Bourgogne – M. Rebeyrotte en est très heureux !<br><br>Vous l'avez dit, Bruno Le Maire présidait la semaine dernière, avec Sylvie Retailleau, la conférence ministérielle de l'Agence spatiale européenne (ASE), qui a été l'occasion de réaffirmer et de renforcer l'engagement de la France et de l'Europe dans les programmes spatiaux européens.<br><br>C'est un très bel engagement collectif des États européens, qui nous conduit à voter ensemble un budget d'investissement global de 17 milliards d'euros sur trois ans, de 2023 à 2025, dont 3,7 milliards d'euros engagés par la France – je pense que c'était votre question, monsieur Fugit. La contribution française est en hausse de 20 % par rapport à 2019.<br><br>Il est important de rappeler que la France reste le premier contributeur au programme européen spatial de l'ASE, ce qui ne l'empêche pas de mener des projets nationaux, puisque, au total, 9 milliards d'euros seront consacrés au secteur spatial au cours des trois prochaines années, comme Mme la Première ministre l'a annoncé.<br><br>Nous poursuivons deux objectifs principaux : d'abord renforcer l'autonomie européenne dans le secteur spatial, le financement d'Ariane 6 mais aussi la préférence européenne pour le lancement des satellites européens ; ensuite, et c'est tout aussi important, améliorer la connaissance du changement climatique à travers le financement de programmes d'observation. <i>(Applaudissements sur les bancs du groupe RE.)</i><br>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 58,
+            "label": "MISC",
+            "text": "CONFÉRENCE MINISTÉRIELLE EUROPÉENNE"
+          },
+          {
+            "start_char": 65,
+            "end_char": 71,
+            "label": "MISC",
+            "text": "AVENIR"
+          },
+          {
+            "start_char": 130,
+            "end_char": 133,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 174,
+            "end_char": 185,
+            "label": "PER",
+            "text": "M. Jean-Luc"
+          },
+          {
+            "start_char": 211,
+            "end_char": 225,
+            "label": "PER",
+            "text": "Jean-Luc Fugit"
+          },
+          {
+            "start_char": 260,
+            "end_char": 262,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 278,
+            "end_char": 280,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 341,
+            "end_char": 358,
+            "label": "MISC",
+            "text": "numérique.<br><br"
+          },
+          {
+            "start_char": 541,
+            "end_char": 567,
+            "label": "ORG",
+            "text": "Agence spatiale européenne"
+          },
+          {
+            "start_char": 569,
+            "end_char": 572,
+            "label": "ORG",
+            "text": "ESA"
+          },
+          {
+            "start_char": 707,
+            "end_char": 714,
+            "label": "ORG",
+            "text": "RE.)</i"
+          },
+          {
+            "start_char": 771,
+            "end_char": 787,
+            "label": "PER",
+            "text": "Claudie Haigneré"
+          },
+          {
+            "start_char": 814,
+            "end_char": 829,
+            "label": "MISC",
+            "text": "France.<br><br>"
+          },
+          {
+            "start_char": 829,
+            "end_char": 837,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 854,
+            "end_char": 863,
+            "label": "ORG",
+            "text": "Parlement"
+          },
+          {
+            "start_char": 935,
+            "end_char": 941,
+            "label": "MISC",
+            "text": "Office"
+          },
+          {
+            "start_char": 1012,
+            "end_char": 1018,
+            "label": "MISC",
+            "text": "Opecst"
+          },
+          {
+            "start_char": 1039,
+            "end_char": 1045,
+            "label": "MISC",
+            "text": "Opecst"
+          },
+          {
+            "start_char": 1114,
+            "end_char": 1148,
+            "label": "ORG",
+            "text": "Centre national d’études spatiales"
+          },
+          {
+            "start_char": 1150,
+            "end_char": 1154,
+            "label": "ORG",
+            "text": "Cnes"
+          },
+          {
+            "start_char": 1197,
+            "end_char": 1203,
+            "label": "PER",
+            "text": "Ariane"
+          },
+          {
+            "start_char": 1205,
+            "end_char": 1211,
+            "label": "ORG",
+            "text": "Thales"
+          },
+          {
+            "start_char": 1215,
+            "end_char": 1221,
+            "label": "ORG",
+            "text": "Airbus"
+          },
+          {
+            "start_char": 1286,
+            "end_char": 1295,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1332,
+            "end_char": 1348,
+            "label": "MISC",
+            "text": "spatiale.<br><br"
+          },
+          {
+            "start_char": 1439,
+            "end_char": 1445,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 1581,
+            "end_char": 1587,
+            "label": "PER",
+            "text": "Ariane"
+          },
+          {
+            "start_char": 1601,
+            "end_char": 1613,
+            "label": "MISC",
+            "text": "voie.<br><br"
+          },
+          {
+            "start_char": 1690,
+            "end_char": 1696,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 1919,
+            "end_char": 1933,
+            "label": "PER",
+            "text": "Thierry Breton"
+          },
+          {
+            "start_char": 2042,
+            "end_char": 2050,
+            "label": "LOC",
+            "text": "la Terre"
+          },
+          {
+            "start_char": 2085,
+            "end_char": 2093,
+            "label": "LOC",
+            "text": "L'Europe"
+          },
+          {
+            "start_char": 2264,
+            "end_char": 2288,
+            "label": "MISC",
+            "text": "internationales.<br><br>"
+          },
+          {
+            "start_char": 2288,
+            "end_char": 2296,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2627,
+            "end_char": 2650,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2651,
+            "end_char": 2654,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2695,
+            "end_char": 2697,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2728,
+            "end_char": 2730,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2756,
+            "end_char": 2765,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 2814,
+            "end_char": 2816,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2938,
+            "end_char": 2944,
+            "label": "MISC",
+            "text": "Opecst"
+          },
+          {
+            "start_char": 3082,
+            "end_char": 3084,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3086,
+            "end_char": 3089,
+            "label": "MISC",
+            "text": "Dem"
+          },
+          {
+            "start_char": 3093,
+            "end_char": 3096,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 3137,
+            "end_char": 3151,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i"
+          },
+          {
+            "start_char": 3153,
+            "end_char": 3165,
+            "label": "PER",
+            "text": "Arnaud Prost"
+          },
+          {
+            "start_char": 3424,
+            "end_char": 3436,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3451,
+            "end_char": 3464,
+            "label": "PER",
+            "text": "Sophie Adenot"
+          },
+          {
+            "start_char": 3502,
+            "end_char": 3518,
+            "label": "PER",
+            "text": "Claudie Haigneré"
+          },
+          {
+            "start_char": 3591,
+            "end_char": 3607,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 3634,
+            "end_char": 3636,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3638,
+            "end_char": 3641,
+            "label": "MISC",
+            "text": "Dem"
+          },
+          {
+            "start_char": 3645,
+            "end_char": 3648,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 3652,
+            "end_char": 3675,
+            "label": "PER",
+            "text": "Mme Emmanuelle Anthoine"
+          },
+          {
+            "start_char": 3714,
+            "end_char": 3742,
+            "label": "PER",
+            "text": "M. Rémy Rebeyrotte.</strong>"
+          },
+          {
+            "start_char": 3757,
+            "end_char": 3766,
+            "label": "LOC",
+            "text": "Bourgogne"
+          },
+          {
+            "start_char": 3784,
+            "end_char": 3793,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 3866,
+            "end_char": 3875,
+            "label": "LOC",
+            "text": "Bourgogne"
+          },
+          {
+            "start_char": 3878,
+            "end_char": 3891,
+            "label": "PER",
+            "text": "M. Rebeyrotte"
+          },
+          {
+            "start_char": 3938,
+            "end_char": 3952,
+            "label": "PER",
+            "text": "Bruno Le Maire"
+          },
+          {
+            "start_char": 3989,
+            "end_char": 4006,
+            "label": "PER",
+            "text": "Sylvie Retailleau"
+          },
+          {
+            "start_char": 4041,
+            "end_char": 4067,
+            "label": "ORG",
+            "text": "Agence spatiale européenne"
+          },
+          {
+            "start_char": 4069,
+            "end_char": 4072,
+            "label": "ORG",
+            "text": "ASE"
+          },
+          {
+            "start_char": 4142,
+            "end_char": 4151,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 4158,
+            "end_char": 4166,
+            "label": "LOC",
+            "text": "l'Europe"
+          },
+          {
+            "start_char": 4196,
+            "end_char": 4213,
+            "label": "MISC",
+            "text": "européens.<br><br"
+          },
+          {
+            "start_char": 4257,
+            "end_char": 4272,
+            "label": "LOC",
+            "text": "États européens"
+          },
+          {
+            "start_char": 4439,
+            "end_char": 4445,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 4494,
+            "end_char": 4499,
+            "label": "PER",
+            "text": "Fugit"
+          },
+          {
+            "start_char": 4609,
+            "end_char": 4618,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 4684,
+            "end_char": 4687,
+            "label": "ORG",
+            "text": "ASE"
+          },
+          {
+            "start_char": 4864,
+            "end_char": 4879,
+            "label": "MISC",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 4893,
+            "end_char": 4908,
+            "label": "MISC",
+            "text": "annoncé.<br><br"
+          },
+          {
+            "start_char": 5037,
+            "end_char": 5043,
+            "label": "PER",
+            "text": "Ariane"
+          },
+          {
+            "start_char": 5317,
+            "end_char": 5328,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 148,
+            "sentiment": "3 stars",
+            "score": 0.3620242476463318
+          },
+          {
+            "begin_char": 149,
+            "end_char": 226,
+            "sentiment": "3 stars",
+            "score": 0.2616755962371826
+          },
+          {
+            "begin_char": 227,
+            "end_char": 359,
+            "sentiment": "4 stars",
+            "score": 0.3280797302722931
+          },
+          {
+            "begin_char": 359,
+            "end_char": 606,
+            "sentiment": "4 stars",
+            "score": 0.31256309151649475
+          },
+          {
+            "begin_char": 607,
+            "end_char": 613,
+            "sentiment": "4 stars",
+            "score": 0.21292372047901154
+          },
+          {
+            "begin_char": 614,
+            "end_char": 661,
+            "sentiment": "4 stars",
+            "score": 0.2798466980457306
+          },
+          {
+            "begin_char": 662,
+            "end_char": 715,
+            "sentiment": "4 stars",
+            "score": 0.293697714805603
+          },
+          {
+            "begin_char": 716,
+            "end_char": 788,
+            "sentiment": "4 stars",
+            "score": 0.3561958372592926
+          },
+          {
+            "begin_char": 789,
+            "end_char": 829,
+            "sentiment": "5 stars",
+            "score": 0.5590693354606628
+          },
+          {
+            "begin_char": 829,
+            "end_char": 1020,
+            "sentiment": "4 stars",
+            "score": 0.45880866050720215
+          },
+          {
+            "begin_char": 1021,
+            "end_char": 1614,
+            "sentiment": "5 stars",
+            "score": 0.5286746621131897
+          },
+          {
+            "begin_char": 1614,
+            "end_char": 1685,
+            "sentiment": "1 star",
+            "score": 0.26911139488220215
+          },
+          {
+            "begin_char": 1686,
+            "end_char": 1871,
+            "sentiment": "5 stars",
+            "score": 0.5804259181022644
+          },
+          {
+            "begin_char": 1872,
+            "end_char": 1918,
+            "sentiment": "4 stars",
+            "score": 0.35114234685897827
+          },
+          {
+            "begin_char": 1919,
+            "end_char": 1988,
+            "sentiment": "3 stars",
+            "score": 0.38582226634025574
+          },
+          {
+            "begin_char": 1989,
+            "end_char": 2084,
+            "sentiment": "4 stars",
+            "score": 0.4553895890712738
+          },
+          {
+            "begin_char": 2085,
+            "end_char": 2288,
+            "sentiment": "4 stars",
+            "score": 0.3885686695575714
+          },
+          {
+            "begin_char": 2288,
+            "end_char": 2581,
+            "sentiment": "5 stars",
+            "score": 0.6432348489761353
+          },
+          {
+            "begin_char": 2582,
+            "end_char": 2669,
+            "sentiment": "4 stars",
+            "score": 0.3044034242630005
+          },
+          {
+            "begin_char": 2670,
+            "end_char": 2826,
+            "sentiment": "4 stars",
+            "score": 0.29509156942367554
+          },
+          {
+            "begin_char": 2827,
+            "end_char": 2831,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2831,
+            "end_char": 2833,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 2834,
+            "end_char": 2945,
+            "sentiment": "4 stars",
+            "score": 0.37291091680526733
+          },
+          {
+            "begin_char": 2946,
+            "end_char": 3034,
+            "sentiment": "5 stars",
+            "score": 0.3493787348270416
+          },
+          {
+            "begin_char": 3035,
+            "end_char": 3036,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 3036,
+            "end_char": 3152,
+            "sentiment": "4 stars",
+            "score": 0.32362881302833557
+          },
+          {
+            "begin_char": 3153,
+            "end_char": 3204,
+            "sentiment": "3 stars",
+            "score": 0.33330658078193665
+          },
+          {
+            "begin_char": 3205,
+            "end_char": 3382,
+            "sentiment": "5 stars",
+            "score": 0.3824290931224823
+          },
+          {
+            "begin_char": 3383,
+            "end_char": 3589,
+            "sentiment": "5 stars",
+            "score": 0.7184068560600281
+          },
+          {
+            "begin_char": 3590,
+            "end_char": 3697,
+            "sentiment": "4 stars",
+            "score": 0.3844222128391266
+          },
+          {
+            "begin_char": 3698,
+            "end_char": 3742,
+            "sentiment": "3 stars",
+            "score": 0.3241443336009979
+          },
+          {
+            "begin_char": 3743,
+            "end_char": 3768,
+            "sentiment": "5 stars",
+            "score": 0.44486939907073975
+          },
+          {
+            "begin_char": 3768,
+            "end_char": 3832,
+            "sentiment": "3 stars",
+            "score": 0.289395272731781
+          },
+          {
+            "begin_char": 3833,
+            "end_char": 3837,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3837,
+            "end_char": 3913,
+            "sentiment": "5 stars",
+            "score": 0.46139684319496155
+          },
+          {
+            "begin_char": 3913,
+            "end_char": 4214,
+            "sentiment": "4 stars",
+            "score": 0.42154461145401
+          },
+          {
+            "begin_char": 4214,
+            "end_char": 4500,
+            "sentiment": "5 stars",
+            "score": 0.5393766760826111
+          },
+          {
+            "begin_char": 4501,
+            "end_char": 4576,
+            "sentiment": "4 stars",
+            "score": 0.3396616578102112
+          },
+          {
+            "begin_char": 4576,
+            "end_char": 4909,
+            "sentiment": "4 stars",
+            "score": 0.4221375584602356
+          },
+          {
+            "begin_char": 4909,
+            "end_char": 5126,
+            "sentiment": "4 stars",
+            "score": 0.4056397080421448
+          },
+          {
+            "begin_char": 5127,
+            "end_char": 5271,
+            "sentiment": "5 stars",
+            "score": 0.4447302222251892
+          },
+          {
+            "begin_char": 5272,
+            "end_char": 5329,
+            "sentiment": "4 stars",
+            "score": 0.2991805374622345
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-30",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-30",
+        "pageJO": "6153",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

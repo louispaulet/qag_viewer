@@ -1,0 +1,551 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG493",
+    "identifiant": {
+      "numero": "493",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "outre-mer",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "RÉFORME DES RETRAITES EN OUTRE-MER"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA643143",
+        "mandatRef": "PM797646"
+      },
+      "groupe": {
+        "organeRef": "PO800496",
+        "abrege": "SOC",
+        "developpe": "Socialistes et apparentés (membre de l’intergroupe NUPES)"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DES RETRAITES EN OUTRE-MER <a name=PG22></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Christian Baptiste.<br><br><strong>M. Christian Baptiste. </strong>Monsieur le ministre du travail, il y a quelques jours, mon cher collègue Moetai Brotherson vous interrogeait avec raison sur les conséquences qu'aurait la réforme des retraites dans les territoires dits d'outre-mer. La question revêtait une importance particulière puisque, de fait, ce projet, tel que présenté par vos soins, a vocation à s’appliquer non seulement en France hexagonale, mais aussi dans ces territoires. <br><br>Comment concevoir une réforme des retraites qui se voudrait universelle sans prendre en considération les spécificités de ces derniers ?<br><br>Pour rappel – ce n’est pas moi qui l’établis, mais ce sont des études sérieuses, comme les rapports publiés par l’Insee en juillet 2022 ou les données émanant de la Caisse nationale d'assurance vieillesse (Cnav) et de l’Agirc-Arrco –, le chômage systémique et les spécificités structurelles économiques de nos territoires exposent nos travailleurs à des carrières hachées, bien souvent sous-rémunérées, qui ne leur permettent pas, le moment venu, de partir à la retraite avec une pension décente et complète.<br><br>Par ailleurs, 9 à 15 % des retraités des départements et régions d’outre-mer sont considérés comme étant en situation de grande pauvreté, contre 1 % en moyenne en France hexagonale. Un retraité qui réside dans les outre-mer touche en moyenne une pension inférieure de 10 à 17 % à celle que perçoit un senior qui vit en France hexagonale.<br><br>Elle est là, la réalité !<br><br>Compte tenu de ces éléments, pouvez-vous nous garantir que le projet de réforme des retraites est de nature à garantir une équité de traitement entre les retraités de la France hexagonale et ceux des territoires dits d’outre-mer ? Dans l'affirmative, merci de nous indiquer précisément…<br><br><strong>Mme la présidente.</strong> Merci beaucoup, mon cher collègue.<br><br><strong>M. Christian Baptiste. </strong>…les paramètres prenant en considération les spécificités… <i>(Applaudissements sur les bancs du groupe SOC.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>S'agissant de la prise en compte des spécificités de l'outre-mer, je souhaite vous apporter, en complément de ma réponse à la question de M. Rimane, les précisions suivantes.<br><br>Premièrement, la réforme que nous présentons, la Première ministre et moi-même, s'appliquera aux départements d'outre-mer,…<br><br><strong>M. Pierre Cordier.</strong> Elle n'a pas encore été adoptée !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>…les territoires d'outre-mer qui relèvent d'un autre statut ayant un système qui leur est particulier – cela paraît une évidence, mais il est bon de le rappeler.<br><br>Deuxièmement, la situation de Mayotte est singulière. En effet, dans ce territoire, le régime obligatoire de retraite ne date que de 1987, de sorte que les retraités actuels ont généralement une carrière composée, hélas, de seulement neuf années cotisées. Ils perçoivent donc des pensions très basses ; les modalités de calcul de l'accès au minimum contributif sont propres à cette collectivité et adaptées.<br><br>Par ailleurs, j'ai évoqué tout à l'heure le chantier concernant les salariés agricoles de Guadeloupe et de La Réunion. Les partenaires sociaux chargés du régime complémentaire Agirc-Arrco doivent travailler à l'extension de cette couverture aux salariés agricoles de ces deux territoires, ceux qui relèvent du régime général étant déjà couverts par ailleurs.<br><br>Vous me demandez, en définitive, comment cette réforme s'appliquera dans les territoires d'outre-mer et quel sera son impact. Celui-ci sera double.<br><br>D'une part, les carrières seront prolongées mais, dans ces territoires, l'âge effectif de départ est déjà supérieur au prochain âge légal d'ouverture des droits, de sorte que celui-ci aura peut-être un caractère moins mordant.<br><br>D'autre part, le niveau de la pension minimale sera relevé à 85 % du Smic, à condition, nous l'avons dit, que la carrière soit complète. Toutefois, les trois quarts de l'augmentation nécessaire pour atteindre cet objectif correspondent à une hausse du minimum contributif majoré, qui est accessible dès qu'un assuré a cotisé à hauteur de 30 années, soit 120 trimestres, dans sa carrière.<br><br><strong>Mme la présidente.</strong> Merci, monsieur le ministre.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Beaucoup des assurés et des retraités actuels en outre-mer pourront ainsi en bénéficier.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 44,
+            "label": "MISC",
+            "text": "RÉFORME DES RETRAITES"
+          },
+          {
+            "start_char": 92,
+            "end_char": 95,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 136,
+            "end_char": 173,
+            "label": "PER",
+            "text": "M. Christian Baptiste.<br><br><strong"
+          },
+          {
+            "start_char": 177,
+            "end_char": 195,
+            "label": "PER",
+            "text": "Christian Baptiste"
+          },
+          {
+            "start_char": 206,
+            "end_char": 214,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 280,
+            "end_char": 297,
+            "label": "PER",
+            "text": "Moetai Brotherson"
+          },
+          {
+            "start_char": 546,
+            "end_char": 548,
+            "label": "LOC",
+            "text": "s’"
+          },
+          {
+            "start_char": 575,
+            "end_char": 581,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 796,
+            "end_char": 798,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 814,
+            "end_char": 816,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 891,
+            "end_char": 898,
+            "label": "ORG",
+            "text": "l’Insee"
+          },
+          {
+            "start_char": 944,
+            "end_char": 972,
+            "label": "ORG",
+            "text": "Caisse nationale d'assurance"
+          },
+          {
+            "start_char": 985,
+            "end_char": 989,
+            "label": "LOC",
+            "text": "Cnav"
+          },
+          {
+            "start_char": 997,
+            "end_char": 999,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 999,
+            "end_char": 1010,
+            "label": "PER",
+            "text": "Agirc-Arrco"
+          },
+          {
+            "start_char": 1278,
+            "end_char": 1294,
+            "label": "MISC",
+            "text": "complète.<br><br"
+          },
+          {
+            "start_char": 1458,
+            "end_char": 1464,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1614,
+            "end_char": 1620,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1621,
+            "end_char": 1639,
+            "label": "ORG",
+            "text": "hexagonale.<br><br"
+          },
+          {
+            "start_char": 1840,
+            "end_char": 1849,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1975,
+            "end_char": 2001,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 2003,
+            "end_char": 2008,
+            "label": "MISC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 2056,
+            "end_char": 2074,
+            "label": "PER",
+            "text": "Christian Baptiste"
+          },
+          {
+            "start_char": 2189,
+            "end_char": 2213,
+            "label": "ORG",
+            "text": "SOC.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2214,
+            "end_char": 2217,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2258,
+            "end_char": 2260,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2307,
+            "end_char": 2309,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2335,
+            "end_char": 2345,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2410,
+            "end_char": 2421,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 2565,
+            "end_char": 2574,
+            "label": "PER",
+            "text": "M. Rimane"
+          },
+          {
+            "start_char": 2591,
+            "end_char": 2621,
+            "label": "MISC",
+            "text": "suivantes.<br><br>Premièrement"
+          },
+          {
+            "start_char": 2658,
+            "end_char": 2687,
+            "label": "MISC",
+            "text": "Première ministre et moi-même"
+          },
+          {
+            "start_char": 2751,
+            "end_char": 2775,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong>"
+          },
+          {
+            "start_char": 2825,
+            "end_char": 2835,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3024,
+            "end_char": 3053,
+            "label": "MISC",
+            "text": "rappeler.<br><br>Deuxièmement"
+          },
+          {
+            "start_char": 3071,
+            "end_char": 3078,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 3439,
+            "end_char": 3455,
+            "label": "MISC",
+            "text": "adaptées.<br><br"
+          },
+          {
+            "start_char": 3546,
+            "end_char": 3556,
+            "label": "LOC",
+            "text": "Guadeloupe"
+          },
+          {
+            "start_char": 3563,
+            "end_char": 3573,
+            "label": "LOC",
+            "text": "La Réunion"
+          },
+          {
+            "start_char": 3632,
+            "end_char": 3643,
+            "label": "PER",
+            "text": "Agirc-Arrco"
+          },
+          {
+            "start_char": 3805,
+            "end_char": 3821,
+            "label": "MISC",
+            "text": "ailleurs.<br><br"
+          },
+          {
+            "start_char": 4195,
+            "end_char": 4210,
+            "label": "MISC",
+            "text": "mordant.<br><br"
+          },
+          {
+            "start_char": 4280,
+            "end_char": 4284,
+            "label": "LOC",
+            "text": "Smic"
+          },
+          {
+            "start_char": 4614,
+            "end_char": 4640,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 4642,
+            "end_char": 4647,
+            "label": "MISC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 4686,
+            "end_char": 4696,
+            "label": "PER",
+            "text": "M. Olivier"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 110,
+            "sentiment": "4 stars",
+            "score": 0.2884873151779175
+          },
+          {
+            "begin_char": 111,
+            "end_char": 196,
+            "sentiment": "4 stars",
+            "score": 0.26083433628082275
+          },
+          {
+            "begin_char": 197,
+            "end_char": 206,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 206,
+            "end_char": 422,
+            "sentiment": "4 stars",
+            "score": 0.3677491545677185
+          },
+          {
+            "begin_char": 423,
+            "end_char": 626,
+            "sentiment": "5 stars",
+            "score": 0.3858908414840698
+          },
+          {
+            "begin_char": 627,
+            "end_char": 771,
+            "sentiment": "3 stars",
+            "score": 0.33096644282341003
+          },
+          {
+            "begin_char": 771,
+            "end_char": 1476,
+            "sentiment": "3 stars",
+            "score": 0.37479323148727417
+          },
+          {
+            "begin_char": 1477,
+            "end_char": 1665,
+            "sentiment": "5 stars",
+            "score": 0.44463926553726196
+          },
+          {
+            "begin_char": 1665,
+            "end_char": 1673,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1673,
+            "end_char": 1903,
+            "sentiment": "3 stars",
+            "score": 0.3030625879764557
+          },
+          {
+            "begin_char": 1904,
+            "end_char": 2002,
+            "sentiment": "3 stars",
+            "score": 0.2788868546485901
+          },
+          {
+            "begin_char": 2003,
+            "end_char": 2075,
+            "sentiment": "5 stars",
+            "score": 0.5037717819213867
+          },
+          {
+            "begin_char": 2076,
+            "end_char": 2232,
+            "sentiment": "4 stars",
+            "score": 0.36528822779655457
+          },
+          {
+            "begin_char": 2233,
+            "end_char": 2366,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 2367,
+            "end_char": 2422,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 2423,
+            "end_char": 2775,
+            "sentiment": "4 stars",
+            "score": 0.4266899824142456
+          },
+          {
+            "begin_char": 2776,
+            "end_char": 2809,
+            "sentiment": "3 stars",
+            "score": 0.2724451422691345
+          },
+          {
+            "begin_char": 2809,
+            "end_char": 2867,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 2868,
+            "end_char": 3094,
+            "sentiment": "4 stars",
+            "score": 0.37507957220077515
+          },
+          {
+            "begin_char": 3095,
+            "end_char": 3296,
+            "sentiment": "2 stars",
+            "score": 0.3935064375400543
+          },
+          {
+            "begin_char": 3297,
+            "end_char": 3343,
+            "sentiment": "2 stars",
+            "score": 0.36682841181755066
+          },
+          {
+            "begin_char": 3344,
+            "end_char": 3456,
+            "sentiment": "4 stars",
+            "score": 0.4340299963951111
+          },
+          {
+            "begin_char": 3456,
+            "end_char": 3574,
+            "sentiment": "4 stars",
+            "score": 0.31401753425598145
+          },
+          {
+            "begin_char": 3575,
+            "end_char": 3947,
+            "sentiment": "4 stars",
+            "score": 0.33118295669555664
+          },
+          {
+            "begin_char": 3948,
+            "end_char": 3977,
+            "sentiment": "3 stars",
+            "score": 0.3060046136379242
+          },
+          {
+            "begin_char": 3977,
+            "end_char": 4347,
+            "sentiment": "4 stars",
+            "score": 0.4009048342704773
+          },
+          {
+            "begin_char": 4348,
+            "end_char": 4641,
+            "sentiment": "3 stars",
+            "score": 0.39026498794555664
+          },
+          {
+            "begin_char": 4642,
+            "end_char": 4728,
+            "sentiment": "5 stars",
+            "score": 0.32925692200660706
+          },
+          {
+            "begin_char": 4729,
+            "end_char": 4829,
+            "sentiment": "5 stars",
+            "score": 0.3479077219963074
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-25",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-25",
+        "pageJO": "671",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

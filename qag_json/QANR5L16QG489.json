@@ -1,0 +1,713 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG489",
+    "identifiant": {
+      "numero": "489",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PRIX DE L'ÉNERGIE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793298",
+        "mandatRef": "PM796251"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Industrie",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Industrie",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PRIX DE L'ÉNERGIE <a name=PG18></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Lionel Tivoli.<br><br><strong>M. Lionel Tivoli. </strong>Ma question s'adresse à M. le ministre de l'économie, des finances et de la souveraineté industrielle et numérique. Monsieur le ministre, le temps où la France était cette nation puissante et surtout indépendante est désormais révolu.<br><br>Depuis trente ans maintenant, les prétendues élites qui ont gouverné notre pays ont dilapidé l'ensemble de nos intérêts stratégiques majeurs, au profit de la Commission européenne. Les gouvernements successifs n'ont conduit notre pays qu'à la ruine et au désastre, faisant de l'ancienne première nation européenne, un pays désormais sous la tutelle de l'Union européenne.<br><br>Nous sommes asservis à l'Union européenne, lorsque, à l'heure où nous parlons, nous faisons partie du marché européen de l'électricité. Il s'agit d'une aberration économique et écologique puisque nous vendons notre énergie nucléaire décarbonée à 49,50 euros aux pays européens pour, en retour, acheter une énergie produite à partir de gaz et de charbon à des prix exorbitants, en moyenne 125 euros ces derniers jours. <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br>Nous sommes asservis à l'Union européenne, lorsque la semaine dernière encore, la Cour de justice de l'Union européenne, au nom de la primauté du droit communautaire sur les droits nationaux, a annoncé l'interdiction pour les agriculteurs européens d'utiliser les néonicotinoïdes, alors même que des produits agricoles traités avec ces substances interdites viennent de l'autre bout du monde et, du fait des traités de libre-échange entrent dans l'Union, où ils se vendent et se consomment chaque jour. <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br>Comment expliquerez-vous à ceux qui cultivent des betteraves qu'ils ne pourront plus utiliser de néonicotinoïdes parce qu'il ne faut pas tuer des abeilles, alors même que celles-ci ne butinent pas les betteraves ?<br><br><strong>M. Pierre Cordier.</strong> Eh oui !<br><br><strong>M. Benjamin Lucas.</strong> Vous n'aimez pas les abeilles !<br><br><strong>M. Lionel Tivoli. </strong>Tandis que les Français sont inquiets, confrontés à la crise énergétique et à la hausse de l'inflation que la Banque centrale européenne ne maîtrise plus, le Gouvernement a seulement jugé bon de distribuer des chèques énergies, telle une sorte d'aumône.<br><br>Nos boulangers, nos industries, nos très petites entreprises (TPE), nos petites et moyennes entreprises (PME) sont à l'agonie ; les Français peinent à se chauffer ; nos agriculteurs subissent, au fil des décisions, une concurrence de plus en plus déloyale. Quand arrêterez-vous donc de céder aux sirènes de Bruxelles, et quand commencerez-vous à vous soucier des intérêts des Français, seuls maîtres légitimes de leur destin ? <i>(« Bravo ! » et applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé de l’industrie.<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué chargé de l’industrie. </i>Comme souvent, vous avez tout mélangé dans votre question. Vous racontez n'importe quoi sur l'Europe, notamment qu'il faudrait en sortir. <i>(Protestations sur les bancs du groupe RN.)</i><br><br>En réalité, si nous étions sortis du marché de l'énergie, il n'y aurait pas eu suffisamment d'électricité pour éclairer cette salle <i>(« Mais si ! » sur plusieurs bancs du groupe RN)</i>, puisque vous le savez, nous avons importé de l'électricité allemande.<br><br>La réalité, c'est qu'aujourd'hui, en Europe, personne ne paie son électricité 49,50 euros, sauf une partie des industriels et des consommateurs français qui, grâce au dispositif de l'accès régulé à l'électricité nucléaire historique – Arenh – dont vous vous désintéressez <i>(« Mensonge ! » sur les bancs du groupe RN),</i> acquittent une facture d'énergie dont le montant est inférieur à celui des factures d'énergie de la plupart des autres pays européens. (Exclamations sur les bancs du groupe RN.)<br><br>La réalité, c'est que cela fait des années que vous faites votre beurre – si j'ose dire – sur les difficultés économiques et sociales…<br><br><strong>M. Emeric Salmon.</strong> Que vous créez !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué . </i>…des entreprises et des ménages français. <i>(Protestations sur les bancs du groupe RN.) </i>La réalité, c'est que pendant que vous vous nourrissez des difficultés des autres, nous sommes à leurs côtés. Hier, Olivia Grégoire et son équipe ont reçu les boulangers. Le ministre de l'agriculture et de la souveraineté alimentaire…<br><br><strong>M. Grégoire de Fournas.</strong> Que fait-il ?<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué . </i>…est aux côtés des producteurs de betteraves, que nous accompagnons dans ces moments difficiles. Vous ne faites qu'une chose, sauter comme un cabri…<br><br><strong>M. Grégoire de Fournas.</strong> Vous ne faites rien !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué . </i>…en disant : « Sortons de l'Europe, sortons de l'Europe ! » Nous y sommes et nous la changeons. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>M. Laurent Jacobelli.</strong> Fake news</i> sur <i>fake news !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 42,
+            "label": "MISC",
+            "text": "PRIX DE L'ÉNERGIE <"
+          },
+          {
+            "start_char": 75,
+            "end_char": 78,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 119,
+            "end_char": 128,
+            "label": "PER",
+            "text": "M. Lionel"
+          },
+          {
+            "start_char": 155,
+            "end_char": 168,
+            "label": "PER",
+            "text": "Lionel Tivoli"
+          },
+          {
+            "start_char": 203,
+            "end_char": 205,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 295,
+            "end_char": 303,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 329,
+            "end_char": 338,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 406,
+            "end_char": 420,
+            "label": "MISC",
+            "text": "révolu.<br><br"
+          },
+          {
+            "start_char": 579,
+            "end_char": 600,
+            "label": "ORG",
+            "text": "Commission européenne"
+          },
+          {
+            "start_char": 775,
+            "end_char": 799,
+            "label": "MISC",
+            "text": "Union européenne.<br><br"
+          },
+          {
+            "start_char": 825,
+            "end_char": 841,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 1263,
+            "end_char": 1278,
+            "label": "ORG",
+            "text": "RN.)</i><br><br"
+          },
+          {
+            "start_char": 1304,
+            "end_char": 1320,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 1361,
+            "end_char": 1398,
+            "label": "ORG",
+            "text": "Cour de justice de l'Union européenne"
+          },
+          {
+            "start_char": 1727,
+            "end_char": 1732,
+            "label": "LOC",
+            "text": "Union"
+          },
+          {
+            "start_char": 1827,
+            "end_char": 1842,
+            "label": "ORG",
+            "text": "RN.)</i><br><br"
+          },
+          {
+            "start_char": 2075,
+            "end_char": 2098,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 2127,
+            "end_char": 2151,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong>"
+          },
+          {
+            "start_char": 2202,
+            "end_char": 2215,
+            "label": "PER",
+            "text": "Lionel Tivoli"
+          },
+          {
+            "start_char": 2241,
+            "end_char": 2249,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2336,
+            "end_char": 2362,
+            "label": "ORG",
+            "text": "Banque centrale européenne"
+          },
+          {
+            "start_char": 2384,
+            "end_char": 2396,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2472,
+            "end_char": 2487,
+            "label": "MISC",
+            "text": "aumône.<br><br>"
+          },
+          {
+            "start_char": 2549,
+            "end_char": 2552,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 2619,
+            "end_char": 2627,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2794,
+            "end_char": 2803,
+            "label": "LOC",
+            "text": "Bruxelles"
+          },
+          {
+            "start_char": 2863,
+            "end_char": 2871,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2920,
+            "end_char": 2925,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 2974,
+            "end_char": 2997,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2998,
+            "end_char": 3001,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3042,
+            "end_char": 3044,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3075,
+            "end_char": 3077,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3103,
+            "end_char": 3112,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 3161,
+            "end_char": 3163,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3272,
+            "end_char": 3278,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 3358,
+            "end_char": 3373,
+            "label": "ORG",
+            "text": "RN.)</i><br><br"
+          },
+          {
+            "start_char": 3554,
+            "end_char": 3560,
+            "label": "ORG",
+            "text": "RN)</i"
+          },
+          {
+            "start_char": 3622,
+            "end_char": 3639,
+            "label": "MISC",
+            "text": "allemande.<br><br"
+          },
+          {
+            "start_char": 3677,
+            "end_char": 3683,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 3918,
+            "end_char": 3926,
+            "label": "MISC",
+            "text": "Mensonge"
+          },
+          {
+            "start_char": 3955,
+            "end_char": 3962,
+            "label": "ORG",
+            "text": "RN),</i"
+          },
+          {
+            "start_char": 4100,
+            "end_char": 4112,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 4302,
+            "end_char": 4308,
+            "label": "PER",
+            "text": "Emeric"
+          },
+          {
+            "start_char": 4358,
+            "end_char": 4367,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 4496,
+            "end_char": 4498,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 4621,
+            "end_char": 4636,
+            "label": "PER",
+            "text": "Olivia Grégoire"
+          },
+          {
+            "start_char": 4758,
+            "end_char": 4787,
+            "label": "PER",
+            "text": "Grégoire de Fournas.</strong>"
+          },
+          {
+            "start_char": 4817,
+            "end_char": 4826,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 4867,
+            "end_char": 4872,
+            "label": "MISC",
+            "text": "</i>…"
+          },
+          {
+            "start_char": 5038,
+            "end_char": 5067,
+            "label": "PER",
+            "text": "Grégoire de Fournas.</strong>"
+          },
+          {
+            "start_char": 5105,
+            "end_char": 5114,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 5206,
+            "end_char": 5214,
+            "label": "LOC",
+            "text": "l'Europe"
+          },
+          {
+            "start_char": 5305,
+            "end_char": 5328,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5332,
+            "end_char": 5359,
+            "label": "PER",
+            "text": "Laurent Jacobelli.</strong>"
+          },
+          {
+            "start_char": 5360,
+            "end_char": 5372,
+            "label": "LOC",
+            "text": "Fake news</i"
+          },
+          {
+            "start_char": 5386,
+            "end_char": 5390,
+            "label": "MISC",
+            "text": "news"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 93,
+            "sentiment": "3 stars",
+            "score": 0.29934772849082947
+          },
+          {
+            "begin_char": 94,
+            "end_char": 169,
+            "sentiment": "4 stars",
+            "score": 0.26163047552108765
+          },
+          {
+            "begin_char": 170,
+            "end_char": 294,
+            "sentiment": "4 stars",
+            "score": 0.3211067318916321
+          },
+          {
+            "begin_char": 295,
+            "end_char": 421,
+            "sentiment": "5 stars",
+            "score": 0.4883769750595093
+          },
+          {
+            "begin_char": 421,
+            "end_char": 601,
+            "sentiment": "1 star",
+            "score": 0.3283537030220032
+          },
+          {
+            "begin_char": 602,
+            "end_char": 800,
+            "sentiment": "1 star",
+            "score": 0.41928601264953613
+          },
+          {
+            "begin_char": 800,
+            "end_char": 935,
+            "sentiment": "5 stars",
+            "score": 0.35406649112701416
+          },
+          {
+            "begin_char": 936,
+            "end_char": 1217,
+            "sentiment": "1 star",
+            "score": 0.6645380854606628
+          },
+          {
+            "begin_char": 1218,
+            "end_char": 1279,
+            "sentiment": "4 stars",
+            "score": 0.31412309408187866
+          },
+          {
+            "begin_char": 1279,
+            "end_char": 1781,
+            "sentiment": "5 stars",
+            "score": 0.5614784359931946
+          },
+          {
+            "begin_char": 1782,
+            "end_char": 1843,
+            "sentiment": "4 stars",
+            "score": 0.31412309408187866
+          },
+          {
+            "begin_char": 1843,
+            "end_char": 2056,
+            "sentiment": "1 star",
+            "score": 0.40626856684684753
+          },
+          {
+            "begin_char": 2056,
+            "end_char": 2099,
+            "sentiment": "3 stars",
+            "score": 0.323579341173172
+          },
+          {
+            "begin_char": 2100,
+            "end_char": 2108,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 2108,
+            "end_char": 2151,
+            "sentiment": "3 stars",
+            "score": 0.2826099097728729
+          },
+          {
+            "begin_char": 2152,
+            "end_char": 2183,
+            "sentiment": "1 star",
+            "score": 0.4893214702606201
+          },
+          {
+            "begin_char": 2183,
+            "end_char": 2216,
+            "sentiment": "3 stars",
+            "score": 0.2908079922199249
+          },
+          {
+            "begin_char": 2217,
+            "end_char": 2487,
+            "sentiment": "2 stars",
+            "score": 0.2682262659072876
+          },
+          {
+            "begin_char": 2487,
+            "end_char": 2614,
+            "sentiment": "1 star",
+            "score": 0.36109259724617004
+          },
+          {
+            "begin_char": 2615,
+            "end_char": 2651,
+            "sentiment": "3 stars",
+            "score": 0.3456627428531647
+          },
+          {
+            "begin_char": 2652,
+            "end_char": 2743,
+            "sentiment": "4 stars",
+            "score": 0.34970882534980774
+          },
+          {
+            "begin_char": 2744,
+            "end_char": 2913,
+            "sentiment": "5 stars",
+            "score": 0.3881613612174988
+          },
+          {
+            "begin_char": 2914,
+            "end_char": 3016,
+            "sentiment": "5 stars",
+            "score": 0.33804693818092346
+          },
+          {
+            "begin_char": 3017,
+            "end_char": 3173,
+            "sentiment": "4 stars",
+            "score": 0.29509156942367554
+          },
+          {
+            "begin_char": 3174,
+            "end_char": 3236,
+            "sentiment": "2 stars",
+            "score": 0.30152174830436707
+          },
+          {
+            "begin_char": 3237,
+            "end_char": 3315,
+            "sentiment": "1 star",
+            "score": 0.7047726511955261
+          },
+          {
+            "begin_char": 3316,
+            "end_char": 3516,
+            "sentiment": "2 stars",
+            "score": 0.37039583921432495
+          },
+          {
+            "begin_char": 3517,
+            "end_char": 4098,
+            "sentiment": "1 star",
+            "score": 0.29702532291412354
+          },
+          {
+            "begin_char": 4099,
+            "end_char": 4100,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 4100,
+            "end_char": 4149,
+            "sentiment": "4 stars",
+            "score": 0.30842018127441406
+          },
+          {
+            "begin_char": 4149,
+            "end_char": 4325,
+            "sentiment": "2 stars",
+            "score": 0.36984625458717346
+          },
+          {
+            "begin_char": 4326,
+            "end_char": 4342,
+            "sentiment": "5 stars",
+            "score": 0.5655380487442017
+          },
+          {
+            "begin_char": 4342,
+            "end_char": 4407,
+            "sentiment": "3 stars",
+            "score": 0.3078303039073944
+          },
+          {
+            "begin_char": 4408,
+            "end_char": 4453,
+            "sentiment": "3 stars",
+            "score": 0.26820096373558044
+          },
+          {
+            "begin_char": 4454,
+            "end_char": 4614,
+            "sentiment": "5 stars",
+            "score": 0.22917144000530243
+          },
+          {
+            "begin_char": 4615,
+            "end_char": 4675,
+            "sentiment": "5 stars",
+            "score": 0.3004516065120697
+          },
+          {
+            "begin_char": 4676,
+            "end_char": 4787,
+            "sentiment": "3 stars",
+            "score": 0.30339500308036804
+          },
+          {
+            "begin_char": 4788,
+            "end_char": 4801,
+            "sentiment": "1 star",
+            "score": 0.4888284504413605
+          },
+          {
+            "begin_char": 4801,
+            "end_char": 4866,
+            "sentiment": "3 stars",
+            "score": 0.3078303039073944
+          },
+          {
+            "begin_char": 4867,
+            "end_char": 4967,
+            "sentiment": "4 stars",
+            "score": 0.38651537895202637
+          },
+          {
+            "begin_char": 4968,
+            "end_char": 5067,
+            "sentiment": "1 star",
+            "score": 0.617554247379303
+          },
+          {
+            "begin_char": 5068,
+            "end_char": 5089,
+            "sentiment": "1 star",
+            "score": 0.891136109828949
+          },
+          {
+            "begin_char": 5089,
+            "end_char": 5154,
+            "sentiment": "3 stars",
+            "score": 0.3078303039073944
+          },
+          {
+            "begin_char": 5155,
+            "end_char": 5254,
+            "sentiment": "5 stars",
+            "score": 0.41392600536346436
+          },
+          {
+            "begin_char": 5255,
+            "end_char": 5359,
+            "sentiment": "3 stars",
+            "score": 0.36120250821113586
+          },
+          {
+            "begin_char": 5360,
+            "end_char": 5392,
+            "sentiment": "1 star",
+            "score": 0.521597146987915
+          },
+          {
+            "begin_char": 5392,
+            "end_char": 5400,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-25",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-25",
+        "pageJO": "668",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

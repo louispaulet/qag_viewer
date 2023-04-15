@@ -1,0 +1,599 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG302",
+    "identifiant": {
+      "numero": "302",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "mer et littoral",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "France mer 2030"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719632",
+        "mandatRef": "PM796572"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Mer",
+      "developpe": "Secrétariat d’État auprès de la Première ministre, chargé de la mer"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Mer",
+          "developpe": "Secrétariat d’État auprès de la Première ministre, chargé de la mer"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> FRANCE MER 2030 <a name=PG28></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Sophie Panonacle.<br><br><strong>Mme Sophie Panonacle. </strong>Monsieur le secrétaire d'État chargé de la mer, le Président de la République a annoncé à Lisbonne, lors de la conférence des Nations unies sur l'océan, puis à la COP27, l'opposition de la France à l'exploitation des grands fonds océaniques. Notre position est claire : la France veut être à l'avant-garde de la protection de l'océan et de la biodiversité marine en haute mer.<br><br><strong>M. Pierre Cordier.</strong> Le secrétaire d'État s'est déjà exprimé sur le sujet !<br><br><strong>Mme Sophie Panonacle. </strong>Je me réjouis que la représentation nationale ait exprimé son souhait de soutenir et d'encourager notre pays dans cette voie, grâce à l'initiative de Nicolas Thierry à travers la proposition de résolution invitant le Gouvernement à défendre un moratoire sur l'exploitation minière des fonds marins. Je ne doute pas que le prochain débat sur cette proposition de résolution, qui s'inscrira dans le cadre d'une nouvelle niche transpartisane, sera l'occasion de démontrer notre capacité à nous unir pour relever un défi écologique majeur.<br><br>Monsieur le secrétaire d'État, des députés de l'équipe maritime étaient à vos côtés lors de votre intervention d'ouverture des dix-septièmes assises de l'économie de la mer à Lille, temps fort de l'agenda de l'économie bleue. Vous avez fait la démonstration, appréciée par la communauté des gens de la mer, de notre engagement pour une économie maritime compétitive et décarbonée. Le transport maritime est en première ligne et doit impérativement poursuivre sa transition énergétique. <br><br>Vous avez présenté le plan France mer 2030 destiné aux armateurs et aux propriétaires de navires de commerce, de pêche ou encore de plaisance. Il vise à accélérer la décarbonation du transport maritime avec pour objectif le développement du navire zéro émission. Une telle ambition nécessite des investissements dans l'innovation, dans la formation et, surtout, dans la construction par des entreprises françaises de ces nouveaux navires.<br><br>Pouvez-vous nous assurer des intentions du Gouvernement en matière d'abondement du fonds France mer 2030, afin d'assurer le succès de ce dispositif qui concrétise la volonté de la France de respecter l'accord de Paris ? <i>(Applaudissements sur les bancs du groupe RE. – M. Vincent Bru applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le secrétaire d'État chargé de la mer.<br><br><strong>M. Hervé Berville,</strong><i> secrétaire d'État chargé de la mer. </i>Madame la députée, je voudrais d’abord vous remercier pour votre engagement, vous et tous les membres de l’équipe maritime. Comme vous, le Gouvernement a une ambition maritime forte pour notre pays, parce que la mer renvoie à deux impératifs : l'urgence écologique avec la protection des océans, et le renforcement de la souveraineté économique avec le développement de l'économie maritime partout dans le territoire et la décarbonation du transport maritime.<br><br>S’agissant de l'urgence écologique, la France a pris une décision courageuse et décisive. Courageuse, parce que notre pays compte le deuxième espace maritime au monde – nous aurions pu être tentés de bénéficier de cette exploitation des fonds marins. Elle est également décisive, parce que nous allons continuer à convaincre nos partenaires de faire comme nous et d'interdire toute exploitation minière des grands fonds marins. Nous le ferons avec Catherine Colonna et Christophe Béchu dans les différentes instances internationales.<br><br>Concernant le renforcement de la souveraineté économique, j'ai annoncé aux assises de l'économie de la mer, dans la lignée du plan France nation verte présenté par la Première ministre, le lancement de France mer 2030. Cette stratégie maritime pour notre pays, qui résulte de dix mois de concertation, repose sur la définition de dix priorités d'ici à 2030 ; une équipe dédiée au sein du secrétariat d'État de la mer accompagnera les porteurs de projets et les innovations dans tous les territoires, notamment sur la décarbonation.<br><br>C'est également une ambition financière, avec des investissements publics d'au moins 300 millions d'euros d'ici à la fin du quinquennat pour accélérer partout la décarbonation du transport maritime – flotte de pêche, flotte de commerce, plaisance.<br><br>Notre ambition maritime repose bien sur deux piliers : la préservation de la biodiversité marine et la décarbonation de ce magnifique secteur pourvoyeur d'emplois. Nous mènerons une action forte sur la formation et l'attractivité des métiers ; nous sommes en route pour 2030 avec des objectifs très élevés. <i>(Applaudissements sur les bancs des groupes RE et Dem, ainsi que sur quelques bancs du groupe LR.)</i><br>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 29,
+            "label": "LOC",
+            "text": "FRANCE"
+          },
+          {
+            "start_char": 73,
+            "end_char": 76,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 117,
+            "end_char": 153,
+            "label": "PER",
+            "text": "Mme Sophie Panonacle.<br><br><strong"
+          },
+          {
+            "start_char": 154,
+            "end_char": 174,
+            "label": "PER",
+            "text": "Mme Sophie Panonacle"
+          },
+          {
+            "start_char": 185,
+            "end_char": 193,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 210,
+            "end_char": 214,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 236,
+            "end_char": 262,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 275,
+            "end_char": 283,
+            "label": "LOC",
+            "text": "Lisbonne"
+          },
+          {
+            "start_char": 296,
+            "end_char": 336,
+            "label": "MISC",
+            "text": "conférence des Nations unies sur l'océan"
+          },
+          {
+            "start_char": 348,
+            "end_char": 353,
+            "label": "MISC",
+            "text": "COP27"
+          },
+          {
+            "start_char": 371,
+            "end_char": 380,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 455,
+            "end_char": 464,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 580,
+            "end_char": 603,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 621,
+            "end_char": 625,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 675,
+            "end_char": 695,
+            "label": "PER",
+            "text": "Mme Sophie Panonacle"
+          },
+          {
+            "start_char": 856,
+            "end_char": 871,
+            "label": "PER",
+            "text": "Nicolas Thierry"
+          },
+          {
+            "start_char": 923,
+            "end_char": 935,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1234,
+            "end_char": 1248,
+            "label": "MISC",
+            "text": "majeur.<br><br"
+          },
+          {
+            "start_char": 1249,
+            "end_char": 1257,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1274,
+            "end_char": 1278,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1424,
+            "end_char": 1429,
+            "label": "LOC",
+            "text": "Lille"
+          },
+          {
+            "start_char": 1770,
+            "end_char": 1776,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 2173,
+            "end_char": 2188,
+            "label": "MISC",
+            "text": "navires.<br><br"
+          },
+          {
+            "start_char": 2189,
+            "end_char": 2195,
+            "label": "PER",
+            "text": "Pouvez"
+          },
+          {
+            "start_char": 2232,
+            "end_char": 2244,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2278,
+            "end_char": 2284,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 2366,
+            "end_char": 2375,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2401,
+            "end_char": 2406,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 2447,
+            "end_char": 2456,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 2516,
+            "end_char": 2519,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2560,
+            "end_char": 2562,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2579,
+            "end_char": 2583,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2617,
+            "end_char": 2625,
+            "label": "PER",
+            "text": "M. Hervé"
+          },
+          {
+            "start_char": 2661,
+            "end_char": 2665,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2688,
+            "end_char": 2694,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 2793,
+            "end_char": 2795,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 2827,
+            "end_char": 2839,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3138,
+            "end_char": 3154,
+            "label": "MISC",
+            "text": "maritime.<br><br"
+          },
+          {
+            "start_char": 3191,
+            "end_char": 3200,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3603,
+            "end_char": 3620,
+            "label": "PER",
+            "text": "Catherine Colonna"
+          },
+          {
+            "start_char": 3624,
+            "end_char": 3640,
+            "label": "PER",
+            "text": "Christophe Béchu"
+          },
+          {
+            "start_char": 3672,
+            "end_char": 3695,
+            "label": "MISC",
+            "text": "internationales.<br><br"
+          },
+          {
+            "start_char": 3822,
+            "end_char": 3833,
+            "label": "ORG",
+            "text": "plan France"
+          },
+          {
+            "start_char": 3863,
+            "end_char": 3871,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3895,
+            "end_char": 3904,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 4098,
+            "end_char": 4102,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4472,
+            "end_char": 4513,
+            "label": "MISC",
+            "text": "plaisance.<br><br>Notre ambition maritime"
+          },
+          {
+            "start_char": 4844,
+            "end_char": 4846,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4850,
+            "end_char": 4853,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4894,
+            "end_char": 4905,
+            "label": "ORG",
+            "text": "LR.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 33,
+            "sentiment": "4 stars",
+            "score": 0.2192845642566681
+          },
+          {
+            "begin_char": 34,
+            "end_char": 91,
+            "sentiment": "3 stars",
+            "score": 0.2967822253704071
+          },
+          {
+            "begin_char": 92,
+            "end_char": 175,
+            "sentiment": "3 stars",
+            "score": 0.2455027997493744
+          },
+          {
+            "begin_char": 176,
+            "end_char": 426,
+            "sentiment": "4 stars",
+            "score": 0.38953152298927307
+          },
+          {
+            "begin_char": 427,
+            "end_char": 604,
+            "sentiment": "5 stars",
+            "score": 0.3997180759906769
+          },
+          {
+            "begin_char": 605,
+            "end_char": 659,
+            "sentiment": "3 stars",
+            "score": 0.2635025978088379
+          },
+          {
+            "begin_char": 659,
+            "end_char": 696,
+            "sentiment": "3 stars",
+            "score": 0.27336034178733826
+          },
+          {
+            "begin_char": 697,
+            "end_char": 1004,
+            "sentiment": "5 stars",
+            "score": 0.5126678943634033
+          },
+          {
+            "begin_char": 1005,
+            "end_char": 1249,
+            "sentiment": "5 stars",
+            "score": 0.5852382779121399
+          },
+          {
+            "begin_char": 1249,
+            "end_char": 1474,
+            "sentiment": "5 stars",
+            "score": 0.5393603444099426
+          },
+          {
+            "begin_char": 1475,
+            "end_char": 1629,
+            "sentiment": "5 stars",
+            "score": 0.6419764161109924
+          },
+          {
+            "begin_char": 1630,
+            "end_char": 1734,
+            "sentiment": "4 stars",
+            "score": 0.41789868474006653
+          },
+          {
+            "begin_char": 1735,
+            "end_char": 1885,
+            "sentiment": "5 stars",
+            "score": 0.33196085691452026
+          },
+          {
+            "begin_char": 1886,
+            "end_char": 2005,
+            "sentiment": "5 stars",
+            "score": 0.40602201223373413
+          },
+          {
+            "begin_char": 2006,
+            "end_char": 2408,
+            "sentiment": "5 stars",
+            "score": 0.43241196870803833
+          },
+          {
+            "begin_char": 2409,
+            "end_char": 2463,
+            "sentiment": "4 stars",
+            "score": 0.31337422132492065
+          },
+          {
+            "begin_char": 2463,
+            "end_char": 2470,
+            "sentiment": "4 stars",
+            "score": 0.2698196470737457
+          },
+          {
+            "begin_char": 2471,
+            "end_char": 2474,
+            "sentiment": "4 stars",
+            "score": 0.24077539145946503
+          },
+          {
+            "begin_char": 2475,
+            "end_char": 2516,
+            "sentiment": "5 stars",
+            "score": 0.465244323015213
+          },
+          {
+            "begin_char": 2516,
+            "end_char": 2534,
+            "sentiment": "4 stars",
+            "score": 0.3682718873023987
+          },
+          {
+            "begin_char": 2535,
+            "end_char": 2683,
+            "sentiment": "4 stars",
+            "score": 0.31064289808273315
+          },
+          {
+            "begin_char": 2684,
+            "end_char": 2688,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2688,
+            "end_char": 2811,
+            "sentiment": "5 stars",
+            "score": 0.5624521970748901
+          },
+          {
+            "begin_char": 2812,
+            "end_char": 3244,
+            "sentiment": "5 stars",
+            "score": 0.6859289407730103
+          },
+          {
+            "begin_char": 3245,
+            "end_char": 3405,
+            "sentiment": "5 stars",
+            "score": 0.4829011857509613
+          },
+          {
+            "begin_char": 3406,
+            "end_char": 3582,
+            "sentiment": "5 stars",
+            "score": 0.6039400100708008
+          },
+          {
+            "begin_char": 3583,
+            "end_char": 3914,
+            "sentiment": "5 stars",
+            "score": 0.4466670751571655
+          },
+          {
+            "begin_char": 3915,
+            "end_char": 4054,
+            "sentiment": "4 stars",
+            "score": 0.41988396644592285
+          },
+          {
+            "begin_char": 4055,
+            "end_char": 4235,
+            "sentiment": "4 stars",
+            "score": 0.4156847894191742
+          },
+          {
+            "begin_char": 4235,
+            "end_char": 4653,
+            "sentiment": "5 stars",
+            "score": 0.5539663434028625
+          },
+          {
+            "begin_char": 4654,
+            "end_char": 4733,
+            "sentiment": "4 stars",
+            "score": 0.4514816105365753
+          },
+          {
+            "begin_char": 4734,
+            "end_char": 4796,
+            "sentiment": "5 stars",
+            "score": 0.38345664739608765
+          },
+          {
+            "begin_char": 4797,
+            "end_char": 4906,
+            "sentiment": "4 stars",
+            "score": 0.32036086916923523
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-16",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-16",
+        "pageJO": "5433",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

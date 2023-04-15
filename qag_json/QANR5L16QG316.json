@@ -1,0 +1,557 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG316",
+    "identifiant": {
+      "numero": "316",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enseignement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Menaces contre les enseignants"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793166",
+        "mandatRef": "PM796185"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Éducation nationale et jeunesse",
+      "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Éducation nationale et jeunesse",
+          "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> MENACES CONTRE LES ENSEIGNANTS <a name=PG14></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jocelyn Dessigny.<br><br><strong>M. Jocelyn Dessigny. </strong>Monsieur le ministre de l'éducation nationale et de la jeunesse, les investigations de la sous-direction antiterroriste, révélées récemment, indiquent clairement que Samuel Paty se sentait traqué et se trouvait dans un état de grande anxiété. Ses recherches sur Google le montrent : « menaces à l’ordre public », « code pénal », et même son propre nom. Le jour de son assassinat, il demande à un de ses collègues de le raccompagner chez lui. Il dissimulait son visage sous une capuche dès sa sortie de l’établissement. Dans son sac à dos, on a retrouvé un marteau.<br><br>Tous ces signes prouvent, s’il le fallait, l’effroyable et profonde solitude qu’il ressentait face à une menace sérieuse et finalement mortelle. Cela doit nous amener à nous interroger. Le personnel d’accueil du collège témoigne aussi des appels d’alerte qu’il a reçu du Maroc, des États-Unis, du Canada, du monde entier.<br><br>Malgré l’ampleur de la polémique et son caractère alarmant, c’est Samuel Paty qui doit se justifier face à ses collègues en revendiquant son athéisme pour répondre au procès en islamophobie intenté par deux d’entre eux.<br><br>Dans cette histoire tragique, le grand absent, c’est l’État. Comment un enseignant peut-il se trouver menacé de mort, en danger manifeste dans son propre établissement et en dehors, sans que l’État ne lui fournisse l’attention et la protection dont il a besoin ?<br><br>M. Blanquer indiquait que « la doctrine de l’éducation nationale n’est […] plus […] de mettre les problèmes sous le tapis » et ajoutait : « tous les signalements remontent ».<br><br>Que pouvez-vous nous dire du nombre de signalement reçus et des mesures, notamment de protection concrète, prises en conséquence ? <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’éducation nationale et de la jeunesse.<br><br><strong>M. Pap Ndiaye,</strong><i> ministre de l’éducation nationale et de la jeunesse. </i>La commémoration de l'assassinat de Samuel Paty, le 16 octobre dernier, a été l'occasion de réaffirmer les valeurs de la République, qui sont des valeurs de laïcité. La laïcité n'est pas seulement une contrainte : c'est la garantie de l'émancipation par le savoir et par la transmission de savoirs dans les établissements scolaires.<br><br>À cette occasion et à la suite des vacances d'automne, j'ai précisé certaines mesures relatives à la protection des enseignants.<br><br>La première est la protection fonctionnelle, qui est accordée par l'administration aux enseignants qui le demandent.<br><br>La deuxième est le dépôt systématique de plaintes. En lien avec les préfectures, elles sont déposées systématiquement par les enseignants eux-mêmes lorsqu'ils sont menacés, mais aussi par les chefs d'établissement, avec le soutien de l'administration centrale.<br><br>Enfin, nous enjoignons les personnels de l'éducation nationale à faire remonter toute menace ou toute tentative d'intimidation se produisant sur les réseaux sociaux ou dans les enceintes scolaires, de manière à mesurer précisément ces phénomènes et à être en mesure d'agir.<br><br>Nous surveillons les phénomènes que vous avez évoqués et nous protégeons les enseignants afin que les menaces dont ils ont pu faire l'objet ne se reproduisent pas.<br><br><strong>Mme la présidente. </strong>La parole est à M. Jocelyn Dessigny.<br><br><strong>M. Jocelyn Dessigny. </strong>Dans ma circonscription comme dans l'ensemble du territoire, de nombreux enseignants s'autocensurent face à des menaces islamiques croissantes.<br><br><strong>Mme Nathalie Oziol.</strong> N'importe quoi !<br><br><strong>M. Jocelyn Dessigny. </strong>Quand allez-vous sérieusement protéger les professeurs pour qu'ils puissent enseigner sereinement les valeurs de la République ? <i>(Applaudissements sur les bancs du groupe RN.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 30,
+            "label": "ORG",
+            "text": "MENACES"
+          },
+          {
+            "start_char": 42,
+            "end_char": 53,
+            "label": "ORG",
+            "text": "ENSEIGNANTS"
+          },
+          {
+            "start_char": 88,
+            "end_char": 91,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 132,
+            "end_char": 167,
+            "label": "PER",
+            "text": "M. Jocelyn Dessigny.<br><br><strong"
+          },
+          {
+            "start_char": 171,
+            "end_char": 187,
+            "label": "PER",
+            "text": "Jocelyn Dessigny"
+          },
+          {
+            "start_char": 198,
+            "end_char": 206,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 364,
+            "end_char": 375,
+            "label": "PER",
+            "text": "Samuel Paty"
+          },
+          {
+            "start_char": 460,
+            "end_char": 466,
+            "label": "ORG",
+            "text": "Google"
+          },
+          {
+            "start_char": 493,
+            "end_char": 495,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 700,
+            "end_char": 702,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 754,
+            "end_char": 769,
+            "label": "MISC",
+            "text": "marteau.<br><br"
+          },
+          {
+            "start_char": 796,
+            "end_char": 798,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 813,
+            "end_char": 815,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 969,
+            "end_char": 971,
+            "label": "PER",
+            "text": "d’"
+          },
+          {
+            "start_char": 1041,
+            "end_char": 1046,
+            "label": "LOC",
+            "text": "Maroc"
+          },
+          {
+            "start_char": 1052,
+            "end_char": 1062,
+            "label": "LOC",
+            "text": "États-Unis"
+          },
+          {
+            "start_char": 1067,
+            "end_char": 1073,
+            "label": "LOC",
+            "text": "Canada"
+          },
+          {
+            "start_char": 1084,
+            "end_char": 1098,
+            "label": "MISC",
+            "text": "entier.<br><br"
+          },
+          {
+            "start_char": 1106,
+            "end_char": 1108,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1159,
+            "end_char": 1161,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 1165,
+            "end_char": 1176,
+            "label": "PER",
+            "text": "Samuel Paty"
+          },
+          {
+            "start_char": 1306,
+            "end_char": 1308,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1373,
+            "end_char": 1375,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 1381,
+            "end_char": 1385,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1519,
+            "end_char": 1523,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1599,
+            "end_char": 1607,
+            "label": "PER",
+            "text": "Blanquer"
+          },
+          {
+            "start_char": 1639,
+            "end_char": 1641,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1954,
+            "end_char": 1977,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1978,
+            "end_char": 1981,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2022,
+            "end_char": 2024,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2040,
+            "end_char": 2042,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2096,
+            "end_char": 2102,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 2135,
+            "end_char": 2137,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2216,
+            "end_char": 2227,
+            "label": "PER",
+            "text": "Samuel Paty"
+          },
+          {
+            "start_char": 2301,
+            "end_char": 2311,
+            "label": "LOC",
+            "text": "République"
+          },
+          {
+            "start_char": 2502,
+            "end_char": 2519,
+            "label": "MISC",
+            "text": "scolaires.<br><br"
+          },
+          {
+            "start_char": 2636,
+            "end_char": 2655,
+            "label": "MISC",
+            "text": "enseignants.<br><br"
+          },
+          {
+            "start_char": 2762,
+            "end_char": 2779,
+            "label": "MISC",
+            "text": "demandent.<br><br"
+          },
+          {
+            "start_char": 3031,
+            "end_char": 3047,
+            "label": "MISC",
+            "text": "centrale.<br><br"
+          },
+          {
+            "start_char": 3508,
+            "end_char": 3511,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3552,
+            "end_char": 3587,
+            "label": "PER",
+            "text": "M. Jocelyn Dessigny.<br><br><strong"
+          },
+          {
+            "start_char": 3591,
+            "end_char": 3607,
+            "label": "PER",
+            "text": "Jocelyn Dessigny"
+          },
+          {
+            "start_char": 3777,
+            "end_char": 3804,
+            "label": "PER",
+            "text": "Mme Nathalie Oziol.</strong"
+          },
+          {
+            "start_char": 3841,
+            "end_char": 3857,
+            "label": "PER",
+            "text": "Jocelyn Dessigny"
+          },
+          {
+            "start_char": 3984,
+            "end_char": 3994,
+            "label": "LOC",
+            "text": "République"
+          },
+          {
+            "start_char": 4042,
+            "end_char": 4053,
+            "label": "ORG",
+            "text": "RN.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 106,
+            "sentiment": "5 stars",
+            "score": 0.2958999276161194
+          },
+          {
+            "begin_char": 107,
+            "end_char": 188,
+            "sentiment": "3 stars",
+            "score": 0.2630139887332916
+          },
+          {
+            "begin_char": 189,
+            "end_char": 198,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 198,
+            "end_char": 440,
+            "sentiment": "4 stars",
+            "score": 0.4288938045501709
+          },
+          {
+            "begin_char": 441,
+            "end_char": 550,
+            "sentiment": "4 stars",
+            "score": 0.2608380615711212
+          },
+          {
+            "begin_char": 551,
+            "end_char": 639,
+            "sentiment": "4 stars",
+            "score": 0.3316667973995209
+          },
+          {
+            "begin_char": 640,
+            "end_char": 716,
+            "sentiment": "3 stars",
+            "score": 0.2719097137451172
+          },
+          {
+            "begin_char": 717,
+            "end_char": 770,
+            "sentiment": "3 stars",
+            "score": 0.30643996596336365
+          },
+          {
+            "begin_char": 770,
+            "end_char": 914,
+            "sentiment": "5 stars",
+            "score": 0.4050753712654114
+          },
+          {
+            "begin_char": 915,
+            "end_char": 955,
+            "sentiment": "4 stars",
+            "score": 0.3773657977581024
+          },
+          {
+            "begin_char": 956,
+            "end_char": 1386,
+            "sentiment": "4 stars",
+            "score": 0.4172794222831726
+          },
+          {
+            "begin_char": 1387,
+            "end_char": 1588,
+            "sentiment": "1 star",
+            "score": 0.3618139624595642
+          },
+          {
+            "begin_char": 1588,
+            "end_char": 1778,
+            "sentiment": "2 stars",
+            "score": 0.3131422996520996
+          },
+          {
+            "begin_char": 1778,
+            "end_char": 1908,
+            "sentiment": "4 stars",
+            "score": 0.3582705855369568
+          },
+          {
+            "begin_char": 1909,
+            "end_char": 1996,
+            "sentiment": "4 stars",
+            "score": 0.3186970353126526
+          },
+          {
+            "begin_char": 1997,
+            "end_char": 2122,
+            "sentiment": "3 stars",
+            "score": 0.30180537700653076
+          },
+          {
+            "begin_char": 2123,
+            "end_char": 2175,
+            "sentiment": "4 stars",
+            "score": 0.30159011483192444
+          },
+          {
+            "begin_char": 2176,
+            "end_char": 2345,
+            "sentiment": "4 stars",
+            "score": 0.44945719838142395
+          },
+          {
+            "begin_char": 2346,
+            "end_char": 2656,
+            "sentiment": "5 stars",
+            "score": 0.42702922224998474
+          },
+          {
+            "begin_char": 2656,
+            "end_char": 2780,
+            "sentiment": "4 stars",
+            "score": 0.35358893871307373
+          },
+          {
+            "begin_char": 2780,
+            "end_char": 2830,
+            "sentiment": "1 star",
+            "score": 0.3978104889392853
+          },
+          {
+            "begin_char": 2831,
+            "end_char": 3526,
+            "sentiment": "5 stars",
+            "score": 0.556511402130127
+          },
+          {
+            "begin_char": 3527,
+            "end_char": 3608,
+            "sentiment": "3 stars",
+            "score": 0.2630139887332916
+          },
+          {
+            "begin_char": 3609,
+            "end_char": 3805,
+            "sentiment": "4 stars",
+            "score": 0.34005963802337646
+          },
+          {
+            "begin_char": 3806,
+            "end_char": 3822,
+            "sentiment": "1 star",
+            "score": 0.8737018704414368
+          },
+          {
+            "begin_char": 3822,
+            "end_char": 3858,
+            "sentiment": "3 stars",
+            "score": 0.2954932451248169
+          },
+          {
+            "begin_char": 3859,
+            "end_char": 3868,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 3868,
+            "end_char": 3996,
+            "sentiment": "5 stars",
+            "score": 0.45576608180999756
+          },
+          {
+            "begin_char": 3997,
+            "end_char": 4054,
+            "sentiment": "4 stars",
+            "score": 0.31565260887145996
+          },
+          {
+            "begin_char": 4055,
+            "end_char": 4058,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5902",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

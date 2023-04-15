@@ -1,0 +1,701 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG155",
+    "identifiant": {
+      "numero": "155",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "police",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "RÉFORME DE LA POLICE JUDICIAIRE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794778",
+        "mandatRef": "PM797115"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Justice",
+      "developpe": "Ministère de la justice"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Justice",
+          "developpe": "Ministère de la justice"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DE LA POLICE JUDICIAIRE <a name=PG18></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Sandra Regol.<br><br><strong>Mme Sandra Regol. </strong>Ma question concerne le même sujet que celle de mon collègue socialiste. Vous nous dites, madame la ministre déléguée, que la PJ n'est pas fonctionnelle. Tout dépend depuis quel point de vue.<br><br>La réforme de la PJ que défend le Gouvernement risque de « privilégier l’arrestation du petit trafiquant, vite remplacé, plutôt que le démantèlement des réseaux, ou du vendeur à la sauvette, plutôt que de ceux qui l’exploitent. C’est le choix de la lutte contre le sentiment d'insécurité, et non contre l’insécurité elle-même. C’est surtout un coup fatal à la lutte contre la délinquance économique et financière, déjà si mal en point ». Ces mots ne sont pas les miens ; ce sont ceux de magistrats, d’avocats, de policiers et de citoyens. Un tel front contre une réforme est historique, comme il est historique qu’à Strasbourg, ce vendredi, à la suite du mouvement lancé par leurs collègues marseillais, les membres de la PJ se soient presque tous rassemblés devant l’hôtel de police, pour dire non.<br><br>En réalité, ce mouvement spontané n’est que la suite logique de dix années de réformes contre le temps long des enquêtes, au profit du temps court des chiffres et des statistiques, sur lesquelles il est aisé de communiquer politiquement. Il dévoile le recul du devoir républicain et de l’intérêt général face au besoin unique de certains politiques. Voilà ce que nous dénonçons, avec toutes ces personnes.<br><br>La forte critique de la départementalisation totale des services s'accompagne d'une dénonciation de la reprise en main par le politique du travail judiciaire, avec les répercussions que le Conseil national des barreaux, notamment, a signalées. La séparation des pouvoirs est un fondement de la République, qui garantit l’État de droit. Or, c’est vers le ministre que ces critiques se reportent, celui-là même qui, à l’instar de plusieurs de ses collègues, a été mis en cause, pour des affaires, par la justice.<br><br>Monsieur le ministre se dit très attaché à la police française et aux revendications de ses agents. Dès lors, pourquoi persister à démanteler ce métier qu’ils aiment, et qui compte tant pour notre démocratie ? <i>(Applaudissements sur les bancs des groupes Écolo-NUPES, LFI-NUPES, SOC et GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le garde des sceaux, ministre de la justice.<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux, ministre de la justice. </i>Qu'il est doux, madame la députée, de vous entendre défendre la police nationale ! <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.)</i><br><br>Vous savez que cette réforme est dans les tuyaux depuis une trentaine d'années, je devrais même dire dans les tuyaux socialistes, puisque Pierre Joxe avait souhaité la défendre. <i>(Murmures sur les bancs du groupe SOC.)</i><br><br><strong>M. Erwan Balanant.</strong> Eh oui !<br><br><strong>M. Jean-Philippe Tanguy.</strong> Quelle référence…<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>C'est Gérald Darmanin qui a le courage de la faire.<br><br>Attendez que l'expérimentation se termine. Il ne s'agit pas d'une expérimentation au sens courant du terme, mais au sens défini par le Conseil d'État, c'est-à-dire qu'elle sera évaluée dans le cadre d'une inspection, que mèneront l'Inspection générale de l’administration (IGA) et l'Inspection générale de la justice, aidées de l'Inspection générale de la police nationale (IGPN). On ne peut pas faire mieux.<br><br>Les craintes que vous avez exprimées existent. Comme toujours, il y a des contempteurs et des gens qui défendent âprement la réforme. Outre ce qui concerne la réforme structurelle, on entend les inquiétudes des magistrats. J'ai rencontré ce matin les procureurs généraux, qui craignent d'être dépossédés de la prérogative qui est la leur, depuis des temps immémoriaux, qui consiste à pouvoir choisir leur service d'enquête, comme les y autorise l'article 12-1 du code de procédure pénale. Rien ne sera changé.<br><br>Gérald Darmanin et moi-même avons corédigé cette réforme ; nous avançons main dans la main, nos services travaillent ensemble, ils échangent. Bien évidemment, nous connaissons les craintes qu'elle suscite, et le ministre de l'intérieur a tenu hier à rassurer les magistrats qui pouvaient manifester de l'inquiétude, en disant que rien en la matière ne sera changé.<br><br>J'espère vous avoir rassurés. L'expérimentation n'est pas terminée. Au fond, vous criez « aïe » avant d'avoir reçu un coup que personne ne veut vous porter. C'est assez singulier. <i>(Applaudissements sur quelques bancs du groupe RE. - Protestations sur quelques bancs du groupe SOC.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 30,
+            "label": "MISC",
+            "text": "RÉFORME"
+          },
+          {
+            "start_char": 37,
+            "end_char": 43,
+            "label": "ORG",
+            "text": "POLICE"
+          },
+          {
+            "start_char": 89,
+            "end_char": 92,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 133,
+            "end_char": 143,
+            "label": "PER",
+            "text": "Mme Sandra"
+          },
+          {
+            "start_char": 166,
+            "end_char": 182,
+            "label": "PER",
+            "text": "Mme Sandra Regol"
+          },
+          {
+            "start_char": 319,
+            "end_char": 321,
+            "label": "ORG",
+            "text": "PJ"
+          },
+          {
+            "start_char": 409,
+            "end_char": 411,
+            "label": "ORG",
+            "text": "PJ"
+          },
+          {
+            "start_char": 426,
+            "end_char": 438,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 606,
+            "end_char": 608,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 620,
+            "end_char": 622,
+            "label": "MISC",
+            "text": "C’"
+          },
+          {
+            "start_char": 695,
+            "end_char": 697,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 719,
+            "end_char": 721,
+            "label": "MISC",
+            "text": "C’"
+          },
+          {
+            "start_char": 1003,
+            "end_char": 1006,
+            "label": "LOC",
+            "text": "qu’"
+          },
+          {
+            "start_char": 1008,
+            "end_char": 1018,
+            "label": "LOC",
+            "text": "Strasbourg"
+          },
+          {
+            "start_char": 1114,
+            "end_char": 1116,
+            "label": "ORG",
+            "text": "PJ"
+          },
+          {
+            "start_char": 1158,
+            "end_char": 1160,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 1233,
+            "end_char": 1235,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 1485,
+            "end_char": 1487,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1594,
+            "end_char": 1611,
+            "label": "MISC",
+            "text": "personnes.<br><br"
+          },
+          {
+            "start_char": 1801,
+            "end_char": 1830,
+            "label": "ORG",
+            "text": "Conseil national des barreaux"
+          },
+          {
+            "start_char": 1906,
+            "end_char": 1916,
+            "label": "MISC",
+            "text": "République"
+          },
+          {
+            "start_char": 1933,
+            "end_char": 1937,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1952,
+            "end_char": 1954,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 2028,
+            "end_char": 2030,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2114,
+            "end_char": 2129,
+            "label": "MISC",
+            "text": "justice.<br><br"
+          },
+          {
+            "start_char": 2130,
+            "end_char": 2138,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2282,
+            "end_char": 2285,
+            "label": "PER",
+            "text": "qu’"
+          },
+          {
+            "start_char": 2387,
+            "end_char": 2398,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2400,
+            "end_char": 2409,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2411,
+            "end_char": 2414,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2418,
+            "end_char": 2448,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2449,
+            "end_char": 2452,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2493,
+            "end_char": 2495,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2517,
+            "end_char": 2555,
+            "label": "ORG",
+            "text": "ministre de la justice.<br><br><strong"
+          },
+          {
+            "start_char": 2559,
+            "end_char": 2570,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2774,
+            "end_char": 2776,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 2780,
+            "end_char": 2797,
+            "label": "MISC",
+            "text": "Dem.)</i><br><br>"
+          },
+          {
+            "start_char": 2935,
+            "end_char": 2946,
+            "label": "PER",
+            "text": "Pierre Joxe"
+          },
+          {
+            "start_char": 3012,
+            "end_char": 3036,
+            "label": "ORG",
+            "text": "SOC.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3092,
+            "end_char": 3121,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong"
+          },
+          {
+            "start_char": 3159,
+            "end_char": 3170,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 3220,
+            "end_char": 3235,
+            "label": "PER",
+            "text": "Gérald Darmanin"
+          },
+          {
+            "start_char": 3259,
+            "end_char": 3272,
+            "label": "MISC",
+            "text": "faire.<br><br"
+          },
+          {
+            "start_char": 3273,
+            "end_char": 3281,
+            "label": "MISC",
+            "text": "Attendez"
+          },
+          {
+            "start_char": 3408,
+            "end_char": 3422,
+            "label": "ORG",
+            "text": "Conseil d'État"
+          },
+          {
+            "start_char": 3505,
+            "end_char": 3544,
+            "label": "ORG",
+            "text": "Inspection générale de l’administration"
+          },
+          {
+            "start_char": 3546,
+            "end_char": 3549,
+            "label": "ORG",
+            "text": "IGA"
+          },
+          {
+            "start_char": 3556,
+            "end_char": 3589,
+            "label": "ORG",
+            "text": "Inspection générale de la justice"
+          },
+          {
+            "start_char": 3603,
+            "end_char": 3645,
+            "label": "ORG",
+            "text": "Inspection générale de la police nationale"
+          },
+          {
+            "start_char": 3647,
+            "end_char": 3651,
+            "label": "MISC",
+            "text": "IGPN"
+          },
+          {
+            "start_char": 3675,
+            "end_char": 3688,
+            "label": "MISC",
+            "text": "mieux.<br><br"
+          },
+          {
+            "start_char": 4206,
+            "end_char": 4221,
+            "label": "PER",
+            "text": "Gérald Darmanin"
+          },
+          {
+            "start_char": 4801,
+            "end_char": 4810,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4857,
+            "end_char": 4869,
+            "label": "ORG",
+            "text": "SOC.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 43,
+            "sentiment": "4 stars",
+            "score": 0.3282441794872284
+          },
+          {
+            "begin_char": 44,
+            "end_char": 107,
+            "sentiment": "3 stars",
+            "score": 0.29964667558670044
+          },
+          {
+            "begin_char": 108,
+            "end_char": 183,
+            "sentiment": "3 stars",
+            "score": 0.23804813623428345
+          },
+          {
+            "begin_char": 184,
+            "end_char": 265,
+            "sentiment": "3 stars",
+            "score": 0.2770710289478302
+          },
+          {
+            "begin_char": 266,
+            "end_char": 346,
+            "sentiment": "1 star",
+            "score": 0.44859373569488525
+          },
+          {
+            "begin_char": 347,
+            "end_char": 462,
+            "sentiment": "3 stars",
+            "score": 0.3383508324623108
+          },
+          {
+            "begin_char": 463,
+            "end_char": 619,
+            "sentiment": "4 stars",
+            "score": 0.2725354731082916
+          },
+          {
+            "begin_char": 620,
+            "end_char": 718,
+            "sentiment": "5 stars",
+            "score": 0.3905065655708313
+          },
+          {
+            "begin_char": 719,
+            "end_char": 829,
+            "sentiment": "3 stars",
+            "score": 0.2538096606731415
+          },
+          {
+            "begin_char": 830,
+            "end_char": 862,
+            "sentiment": "1 star",
+            "score": 0.5323870182037354
+          },
+          {
+            "begin_char": 863,
+            "end_char": 930,
+            "sentiment": "5 stars",
+            "score": 0.49141353368759155
+          },
+          {
+            "begin_char": 931,
+            "end_char": 1436,
+            "sentiment": "4 stars",
+            "score": 0.35882189869880676
+          },
+          {
+            "begin_char": 1437,
+            "end_char": 1548,
+            "sentiment": "4 stars",
+            "score": 0.37038883566856384
+          },
+          {
+            "begin_char": 1549,
+            "end_char": 1855,
+            "sentiment": "5 stars",
+            "score": 0.5030840635299683
+          },
+          {
+            "begin_char": 1856,
+            "end_char": 1947,
+            "sentiment": "5 stars",
+            "score": 0.5459641218185425
+          },
+          {
+            "begin_char": 1948,
+            "end_char": 2130,
+            "sentiment": "4 stars",
+            "score": 0.2528413236141205
+          },
+          {
+            "begin_char": 2130,
+            "end_char": 2229,
+            "sentiment": "4 stars",
+            "score": 0.45357546210289
+          },
+          {
+            "begin_char": 2230,
+            "end_char": 2339,
+            "sentiment": "5 stars",
+            "score": 0.5207479000091553
+          },
+          {
+            "begin_char": 2340,
+            "end_char": 2467,
+            "sentiment": "4 stars",
+            "score": 0.3363419473171234
+          },
+          {
+            "begin_char": 2468,
+            "end_char": 2633,
+            "sentiment": "4 stars",
+            "score": 0.31975746154785156
+          },
+          {
+            "begin_char": 2634,
+            "end_char": 2720,
+            "sentiment": "5 stars",
+            "score": 0.3138929307460785
+          },
+          {
+            "begin_char": 2721,
+            "end_char": 2797,
+            "sentiment": "3 stars",
+            "score": 0.3369523286819458
+          },
+          {
+            "begin_char": 2797,
+            "end_char": 2974,
+            "sentiment": "5 stars",
+            "score": 0.3095359206199646
+          },
+          {
+            "begin_char": 2975,
+            "end_char": 3064,
+            "sentiment": "3 stars",
+            "score": 0.3388446271419525
+          },
+          {
+            "begin_char": 3065,
+            "end_char": 3073,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 3073,
+            "end_char": 3122,
+            "sentiment": "3 stars",
+            "score": 0.3116627037525177
+          },
+          {
+            "begin_char": 3123,
+            "end_char": 3209,
+            "sentiment": "1 star",
+            "score": 0.3891843259334564
+          },
+          {
+            "begin_char": 3210,
+            "end_char": 3273,
+            "sentiment": "3 stars",
+            "score": 0.30931782722473145
+          },
+          {
+            "begin_char": 3273,
+            "end_char": 3315,
+            "sentiment": "1 star",
+            "score": 0.3846828043460846
+          },
+          {
+            "begin_char": 3316,
+            "end_char": 3653,
+            "sentiment": "4 stars",
+            "score": 0.37982192635536194
+          },
+          {
+            "begin_char": 3654,
+            "end_char": 3689,
+            "sentiment": "2 stars",
+            "score": 0.2794841229915619
+          },
+          {
+            "begin_char": 3689,
+            "end_char": 3735,
+            "sentiment": "5 stars",
+            "score": 0.2966601848602295
+          },
+          {
+            "begin_char": 3736,
+            "end_char": 3822,
+            "sentiment": "5 stars",
+            "score": 0.5534409880638123
+          },
+          {
+            "begin_char": 3823,
+            "end_char": 3911,
+            "sentiment": "4 stars",
+            "score": 0.31778255105018616
+          },
+          {
+            "begin_char": 3912,
+            "end_char": 4177,
+            "sentiment": "5 stars",
+            "score": 0.4725998640060425
+          },
+          {
+            "begin_char": 4178,
+            "end_char": 4206,
+            "sentiment": "5 stars",
+            "score": 0.26512932777404785
+          },
+          {
+            "begin_char": 4206,
+            "end_char": 4228,
+            "sentiment": "5 stars",
+            "score": 0.3013720214366913
+          },
+          {
+            "begin_char": 4228,
+            "end_char": 4264,
+            "sentiment": "3 stars",
+            "score": 0.22397446632385254
+          },
+          {
+            "begin_char": 4265,
+            "end_char": 4347,
+            "sentiment": "5 stars",
+            "score": 0.534490168094635
+          },
+          {
+            "begin_char": 4348,
+            "end_char": 4578,
+            "sentiment": "4 stars",
+            "score": 0.3715139329433441
+          },
+          {
+            "begin_char": 4578,
+            "end_char": 4607,
+            "sentiment": "4 stars",
+            "score": 0.36860132217407227
+          },
+          {
+            "begin_char": 4608,
+            "end_char": 4645,
+            "sentiment": "3 stars",
+            "score": 0.28290337324142456
+          },
+          {
+            "begin_char": 4646,
+            "end_char": 4734,
+            "sentiment": "1 star",
+            "score": 0.7429949045181274
+          },
+          {
+            "begin_char": 4735,
+            "end_char": 4757,
+            "sentiment": "3 stars",
+            "score": 0.40027961134910583
+          },
+          {
+            "begin_char": 4758,
+            "end_char": 4811,
+            "sentiment": "3 stars",
+            "score": 0.2982350289821625
+          },
+          {
+            "begin_char": 4812,
+            "end_char": 4874,
+            "sentiment": "3 stars",
+            "score": 0.34356892108917236
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-12",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-12",
+        "pageJO": "3868",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,785 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG421",
+    "identifiant": {
+      "numero": "421",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "retraites : généralités",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "RÉFORME DES RETRAITES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720614",
+        "mandatRef": "PM797055"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Première ministre",
+      "developpe": "Première ministre"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Première ministre",
+          "developpe": "Première ministre"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DES RETRAITES <a name=PG7></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Marine Le Pen.<br><br><strong>Mme Marine Le Pen. </strong>Ma question s'adresse à Mme la Première ministre. Il y a un an, lorsque vous étiez ministre du travail, de l'emploi et de l'insertion, vous avez commandé à Mme Erhel un rapport sur la reconnaissance des métiers de deuxième ligne – ces métiers qu'on ne peut pas exercer à distance, et sur lesquels la France s'est reposée durant la crise du covid : conducteurs, agents d'entretien, caissiers, ouvriers de manutention, charcutiers, ou encore, bien sûr, boulangers. L'objectif était alors de revaloriser ces métiers absolument essentiels à la vie de la nation. <br><br>Vous voici à Matignon, et, comme le rappelle France Info, 80 % des boulangers risquent la faillite. Vous les laissez désormais en première ligne face aux énergéticiens pour renégocier leurs contrats. C'est vous qui devriez être en première ligne pour stopper la flambée des prix de l'électricité ! C'est vous qui devriez renégocier les clauses du marché européen de l'énergie, en dissociant le prix du gaz de celui de l'électricité. <i>(Applaudissements sur les bancs du groupe RN.)</i> <br><br>À l'image des boulangers, et plus largement des artisans et des commerçants, une grande partie de nos compatriotes sont fatigués en ce début d'année 2023. Un Français sur deux se dit révolté face à la situation économique du pays, et près de huit Français sur dix craignent une explosion sociale – niveau jamais enregistré depuis vingt-quatre ans. <br><br><strong>Un député du groupe RE .</strong> C'est faux !<br><br><strong>Mme Marine Le Pen. </strong>Dans ce contexte, pensez-vous sincèrement qu'il est bon pour le pays de débuter l'année en proposant une réforme des retraites visant à décaler l'âge de départ – réforme à laquelle 70 % des Français sont opposés ? Le Gouvernement parle de courage, mais ce n'est pas du courage que de faire payer aux Français, en particulier à ceux qui ont commencé à travailler tôt, les échecs des politiques de ces dernières années. <i>(Applaudissements sur plusieurs bancs du groupe RN.)</i> <br><br>Pour pérenniser notre modèle de retraite, il faut, d'une part, relancer la natalité, d'autre part, créer des emplois de qualité pour relancer enfin la productivité de notre économie. <i>(Vifs applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la Première ministre.<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre. </i>Je vous confirme, madame la présidente Le Pen, que l'objectif de mon gouvernement est de protéger les Français, en particulier face à la hausse des prix de l'énergie. <br><br><strong>Plusieurs députés du groupe RE .</strong> Eh oui !<br><br><strong>M. Julien Odoul.</strong> C'est raté !<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre . </i>Tel est le sens du bouclier tarifaire et des mesures en faveur des entreprises et des collectivités que nous avons prises dès cet été dans le paquet « pouvoir d'achat », ainsi que dans les textes financiers adoptés à la fin de l'année.<br><br><strong>M. Erwan Balanant.</strong> Le Rassemblement national ne les a pas votés !<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre . </i>Je note que le Rassemblement national a voté contre tous ces textes. (« Eh oui ! » sur quelques bancs des groupes RE et Dem. – Exclamations sur plusieurs bancs du groupe RN.) <br><br>Malgré le Rassemblement national, nous pouvons donc proposer un amortisseur pour réduire la facture d'électricité des Français dans le cadre de la loi de finances ; nous pouvons aussi proposer des aides financées par la marge dégagée par les fournisseurs d'énergie – c'est ce que nous faisons. Le ministre de l'économie, des finances et de la souveraineté industrielle et numérique a eu l'occasion de rappeler l'ensemble des dispositifs qui sont mis en œuvre pour protéger les boulangers, les artisans et les très petites entreprises. <br><br><strong>M. Jean-Philippe Tanguy.</strong> Vous n'avez pas l'air convaincue !<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre . </i>Dès cette semaine, les artisans pourront s'adresser à la préfecture pour accéder à l'ensemble des aides permettant de couvrir jusqu'à 40 % de la hausse de leur facture d'électricité. Tous ceux dont les tarifs sont supérieurs à 280 euros le mégawattheure recevront une nouvelle proposition de leur fournisseur d'électricité.<br><br><strong>M. Laurent Jacobelli.</strong> C'est du Kafka !<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre . </i>Par ailleurs, nous protégeons notre économie : nous protégeons les Français aujourd'hui, mais nous protégeons aussi leur avenir et l'avenir de leur retraite – c'est le sens du projet de justice, d'équilibre et de solidarité que je présenterai dans les prochaines heures. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.) </i><br><br><strong>Mme Caroline Colombier.</strong> Ce n'est pas la solution !<br><br><strong>M. Emeric Salmon.</strong> Ce projet est l'inverse de la justice !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 34,
+            "label": "MISC",
+            "text": "RÉFORME DES"
+          },
+          {
+            "start_char": 35,
+            "end_char": 44,
+            "label": "MISC",
+            "text": "RETRAITES"
+          },
+          {
+            "start_char": 78,
+            "end_char": 81,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 122,
+            "end_char": 132,
+            "label": "PER",
+            "text": "Mme Marine"
+          },
+          {
+            "start_char": 156,
+            "end_char": 166,
+            "label": "PER",
+            "text": "Mme Marine"
+          },
+          {
+            "start_char": 167,
+            "end_char": 173,
+            "label": "PER",
+            "text": "Le Pen"
+          },
+          {
+            "start_char": 208,
+            "end_char": 223,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 340,
+            "end_char": 349,
+            "label": "PER",
+            "text": "Mme Erhel"
+          },
+          {
+            "start_char": 481,
+            "end_char": 490,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 763,
+            "end_char": 771,
+            "label": "LOC",
+            "text": "Matignon"
+          },
+          {
+            "start_char": 795,
+            "end_char": 806,
+            "label": "MISC",
+            "text": "France Info"
+          },
+          {
+            "start_char": 1228,
+            "end_char": 1235,
+            "label": "ORG",
+            "text": "RN.)</i"
+          },
+          {
+            "start_char": 1403,
+            "end_char": 1411,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1492,
+            "end_char": 1500,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1671,
+            "end_char": 1688,
+            "label": "PER",
+            "text": "Mme Marine Le Pen"
+          },
+          {
+            "start_char": 1889,
+            "end_char": 1897,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1916,
+            "end_char": 1928,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1999,
+            "end_char": 2007,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2168,
+            "end_char": 2175,
+            "label": "ORG",
+            "text": "RN.)</i"
+          },
+          {
+            "start_char": 2418,
+            "end_char": 2441,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2442,
+            "end_char": 2445,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2486,
+            "end_char": 2501,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 2527,
+            "end_char": 2540,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 2622,
+            "end_char": 2628,
+            "label": "PER",
+            "text": "Le Pen"
+          },
+          {
+            "start_char": 2685,
+            "end_char": 2693,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2787,
+            "end_char": 2796,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 2835,
+            "end_char": 2856,
+            "label": "PER",
+            "text": "Julien Odoul.</strong"
+          },
+          {
+            "start_char": 2886,
+            "end_char": 2899,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 3194,
+            "end_char": 3220,
+            "label": "PER",
+            "text": "M. Erwan Balanant.</strong"
+          },
+          {
+            "start_char": 3225,
+            "end_char": 3247,
+            "label": "ORG",
+            "text": "Rassemblement national"
+          },
+          {
+            "start_char": 3284,
+            "end_char": 3297,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 3356,
+            "end_char": 3378,
+            "label": "ORG",
+            "text": "Rassemblement national"
+          },
+          {
+            "start_char": 3455,
+            "end_char": 3457,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3461,
+            "end_char": 3464,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 3466,
+            "end_char": 3468,
+            "label": "LOC",
+            "text": "– "
+          },
+          {
+            "start_char": 3468,
+            "end_char": 3480,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 3511,
+            "end_char": 3513,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 3534,
+            "end_char": 3556,
+            "label": "ORG",
+            "text": "Rassemblement national"
+          },
+          {
+            "start_char": 3642,
+            "end_char": 3650,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4078,
+            "end_char": 4107,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong"
+          },
+          {
+            "start_char": 4159,
+            "end_char": 4172,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 4555,
+            "end_char": 4558,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 4558,
+            "end_char": 4584,
+            "label": "PER",
+            "text": "Laurent Jacobelli.</strong"
+          },
+          {
+            "start_char": 4595,
+            "end_char": 4600,
+            "label": "PER",
+            "text": "Kafka"
+          },
+          {
+            "start_char": 4618,
+            "end_char": 4631,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 4742,
+            "end_char": 4750,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4999,
+            "end_char": 5001,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5005,
+            "end_char": 5008,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 5031,
+            "end_char": 5062,
+            "label": "PER",
+            "text": "Mme Caroline Colombier.</strong"
+          },
+          {
+            "start_char": 5109,
+            "end_char": 5115,
+            "label": "PER",
+            "text": "Emeric"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 96,
+            "sentiment": "3 stars",
+            "score": 0.29747793078422546
+          },
+          {
+            "begin_char": 97,
+            "end_char": 132,
+            "sentiment": "5 stars",
+            "score": 0.24591000378131866
+          },
+          {
+            "begin_char": 133,
+            "end_char": 156,
+            "sentiment": "3 stars",
+            "score": 0.2681725323200226
+          },
+          {
+            "begin_char": 156,
+            "end_char": 166,
+            "sentiment": "3 stars",
+            "score": 0.268145352602005
+          },
+          {
+            "begin_char": 167,
+            "end_char": 174,
+            "sentiment": "4 stars",
+            "score": 0.2989981472492218
+          },
+          {
+            "begin_char": 175,
+            "end_char": 233,
+            "sentiment": "3 stars",
+            "score": 0.25775644183158875
+          },
+          {
+            "begin_char": 234,
+            "end_char": 349,
+            "sentiment": "5 stars",
+            "score": 0.2758202850818634
+          },
+          {
+            "begin_char": 350,
+            "end_char": 646,
+            "sentiment": "4 stars",
+            "score": 0.37828952074050903
+          },
+          {
+            "begin_char": 647,
+            "end_char": 741,
+            "sentiment": "5 stars",
+            "score": 0.474992573261261
+          },
+          {
+            "begin_char": 742,
+            "end_char": 750,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 750,
+            "end_char": 849,
+            "sentiment": "1 star",
+            "score": 0.4182204008102417
+          },
+          {
+            "begin_char": 850,
+            "end_char": 948,
+            "sentiment": "2 stars",
+            "score": 0.24104557931423187
+          },
+          {
+            "begin_char": 948,
+            "end_char": 949,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 950,
+            "end_char": 1047,
+            "sentiment": "1 star",
+            "score": 0.31212717294692993
+          },
+          {
+            "begin_char": 1048,
+            "end_char": 1182,
+            "sentiment": "3 stars",
+            "score": 0.2293667197227478
+          },
+          {
+            "begin_char": 1183,
+            "end_char": 1399,
+            "sentiment": "2 stars",
+            "score": 0.32487067580223083
+          },
+          {
+            "begin_char": 1400,
+            "end_char": 1592,
+            "sentiment": "5 stars",
+            "score": 0.32766178250312805
+          },
+          {
+            "begin_char": 1593,
+            "end_char": 1609,
+            "sentiment": "3 stars",
+            "score": 0.27666613459587097
+          },
+          {
+            "begin_char": 1609,
+            "end_char": 1642,
+            "sentiment": "3 stars",
+            "score": 0.31775277853012085
+          },
+          {
+            "begin_char": 1643,
+            "end_char": 1689,
+            "sentiment": "1 star",
+            "score": 0.6904864311218262
+          },
+          {
+            "begin_char": 1690,
+            "end_char": 1715,
+            "sentiment": "4 stars",
+            "score": 0.2975459694862366
+          },
+          {
+            "begin_char": 1715,
+            "end_char": 1912,
+            "sentiment": "1 star",
+            "score": 0.25098955631256104
+          },
+          {
+            "begin_char": 1913,
+            "end_char": 2116,
+            "sentiment": "2 stars",
+            "score": 0.318815678358078
+          },
+          {
+            "begin_char": 2117,
+            "end_char": 2367,
+            "sentiment": "5 stars",
+            "score": 0.40903303027153015
+          },
+          {
+            "begin_char": 2368,
+            "end_char": 2460,
+            "sentiment": "4 stars",
+            "score": 0.30416688323020935
+          },
+          {
+            "begin_char": 2461,
+            "end_char": 2559,
+            "sentiment": "3 stars",
+            "score": 0.28298741579055786
+          },
+          {
+            "begin_char": 2560,
+            "end_char": 2578,
+            "sentiment": "4 stars",
+            "score": 0.3165116310119629
+          },
+          {
+            "begin_char": 2579,
+            "end_char": 2583,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2583,
+            "end_char": 2749,
+            "sentiment": "5 stars",
+            "score": 0.4386839270591736
+          },
+          {
+            "begin_char": 2750,
+            "end_char": 2807,
+            "sentiment": "3 stars",
+            "score": 0.29738110303878784
+          },
+          {
+            "begin_char": 2808,
+            "end_char": 2816,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 2816,
+            "end_char": 2857,
+            "sentiment": "3 stars",
+            "score": 0.30832386016845703
+          },
+          {
+            "begin_char": 2858,
+            "end_char": 2870,
+            "sentiment": "1 star",
+            "score": 0.7874715328216553
+          },
+          {
+            "begin_char": 2870,
+            "end_char": 2938,
+            "sentiment": "3 stars",
+            "score": 0.3141862452030182
+          },
+          {
+            "begin_char": 2939,
+            "end_char": 3221,
+            "sentiment": "4 stars",
+            "score": 0.3322543203830719
+          },
+          {
+            "begin_char": 3222,
+            "end_char": 3268,
+            "sentiment": "1 star",
+            "score": 0.47464242577552795
+          },
+          {
+            "begin_char": 3268,
+            "end_char": 3336,
+            "sentiment": "3 stars",
+            "score": 0.3141862452030182
+          },
+          {
+            "begin_char": 3337,
+            "end_char": 3341,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3341,
+            "end_char": 3409,
+            "sentiment": "5 stars",
+            "score": 0.31842151284217834
+          },
+          {
+            "begin_char": 3410,
+            "end_char": 3465,
+            "sentiment": "3 stars",
+            "score": 0.2670513093471527
+          },
+          {
+            "begin_char": 3466,
+            "end_char": 3468,
+            "sentiment": "3 stars",
+            "score": 0.25771647691726685
+          },
+          {
+            "begin_char": 3468,
+            "end_char": 3480,
+            "sentiment": "5 stars",
+            "score": 0.4309922754764557
+          },
+          {
+            "begin_char": 3481,
+            "end_char": 3513,
+            "sentiment": "4 stars",
+            "score": 0.3508506417274475
+          },
+          {
+            "begin_char": 3513,
+            "end_char": 3514,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 3514,
+            "end_char": 3515,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 3516,
+            "end_char": 3524,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 3524,
+            "end_char": 3688,
+            "sentiment": "4 stars",
+            "score": 0.30047425627708435
+          },
+          {
+            "begin_char": 3689,
+            "end_char": 3817,
+            "sentiment": "5 stars",
+            "score": 0.37892889976501465
+          },
+          {
+            "begin_char": 3818,
+            "end_char": 4058,
+            "sentiment": "5 stars",
+            "score": 0.418533056974411
+          },
+          {
+            "begin_char": 4059,
+            "end_char": 4108,
+            "sentiment": "3 stars",
+            "score": 0.3116627037525177
+          },
+          {
+            "begin_char": 4109,
+            "end_char": 4143,
+            "sentiment": "2 stars",
+            "score": 0.4273015856742859
+          },
+          {
+            "begin_char": 4143,
+            "end_char": 4211,
+            "sentiment": "3 stars",
+            "score": 0.3141862452030182
+          },
+          {
+            "begin_char": 4212,
+            "end_char": 4398,
+            "sentiment": "5 stars",
+            "score": 0.44267186522483826
+          },
+          {
+            "begin_char": 4399,
+            "end_char": 4585,
+            "sentiment": "2 stars",
+            "score": 0.29008951783180237
+          },
+          {
+            "begin_char": 4586,
+            "end_char": 4602,
+            "sentiment": "1 star",
+            "score": 0.4017537236213684
+          },
+          {
+            "begin_char": 4602,
+            "end_char": 4670,
+            "sentiment": "3 stars",
+            "score": 0.3141862452030182
+          },
+          {
+            "begin_char": 4671,
+            "end_char": 4675,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4675,
+            "end_char": 4945,
+            "sentiment": "5 stars",
+            "score": 0.6197816133499146
+          },
+          {
+            "begin_char": 4946,
+            "end_char": 5010,
+            "sentiment": "4 stars",
+            "score": 0.3092931807041168
+          },
+          {
+            "begin_char": 5011,
+            "end_char": 5063,
+            "sentiment": "3 stars",
+            "score": 0.34256964921951294
+          },
+          {
+            "begin_char": 5064,
+            "end_char": 5090,
+            "sentiment": "1 star",
+            "score": 0.5020297765731812
+          },
+          {
+            "begin_char": 5090,
+            "end_char": 5132,
+            "sentiment": "3 stars",
+            "score": 0.3192681074142456
+          },
+          {
+            "begin_char": 5133,
+            "end_char": 5172,
+            "sentiment": "1 star",
+            "score": 0.654605507850647
+          },
+          {
+            "begin_char": 5172,
+            "end_char": 5180,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-11",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-11",
+        "pageJO": "103",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

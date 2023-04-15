@@ -1,0 +1,833 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG324",
+    "identifiant": {
+      "numero": "324",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "industrie",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Semaine de l'industrie"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795652",
+        "mandatRef": "PM797607"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Industrie",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Industrie",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SEMAINE DE L'INDUSTRIE <a name=PG22></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Alexis Izard.<br><br><strong>M. Alexis Izard. </strong>Ma question s'adresse au ministre délégué chargé de l'industrie.<br><br>Hier, lundi 21 novembre, débutait la onzième édition de la Semaine de l’industrie. Elle est l'occasion de valoriser le secteur et ses acteurs en proposant des événements pédagogiques et de découverte des métiers. Chaque année, ce grand rendez-vous contribue à renforcer l’attractivité de l’industrie auprès des jeunes, à promouvoir la mixité des métiers et la place des femmes dans les différentes filières.<br><br>Depuis cinq ans, l’industrie, en France, c’est plus d’emplois, plus d’attractivité et plus d’investissements.<br><br>Depuis 2017, le secteur industriel a recommencé à créer des emplois, ce qui n’était pas arrivé depuis dix ans. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>M. Sylvain Maillard.</strong> Eh oui !<br><br><strong>M. Sébastien Jumel.</strong> C'est la méthode Coué !<br><br><strong>M. Alexis Izard. </strong>Ces résultats ne sont pas le fruit du hasard, mais d'une politique industrielle conséquente, portée par cette majorité depuis cinq ans, avec des réformes de structure et une baisse inédite de la fiscalité. Ce mouvement doit se poursuivre. Nous avons la volonté politique de le faire, et des moyens grâce à France 2030. Il nous faut désormais donner envie d’industrie à toutes et tous car 250 000 postes seront à pourvoir d'ici à 2025.<br><br>Cependant, aujourd’hui encore, l'industrie souffre de contre-vérités : elle serait polluante, difficile et à la chaîne. La réalité est tout autre et vous avez pu le constater, monsieur le ministre, quand vous êtes venu, chez moi, en Essonne, soutenir l’industrie et valoriser son excellence, la diversité de ses profils et sa féminisation.<br><br><strong>M. Thibault Bazin et Mme Marie-Christine Dalloz .</strong> Allô ! Allô !<br><br><strong>M. Alexis Izard. </strong>Nous devons accompagner les jeunes pour rendre ce secteur attractif afin d'élargir le vivier de recrutement, renforcer la diversification de ses talents et anticiper les besoins à l'horizon 2030.<br><br>Ma question est simple : quelles actions comptez-vous mettre en œuvre pour poursuivre le mouvement de réindustrialisation engagé sur notre territoire à l’occasion de la onzième édition de la Semaine de l’industrie ? <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé de l’industrie.<br><br><strong>M. Sébastien Jumel.</strong> Le micro ne marche pas parce qu'ils ont cassé le service public de l'électricité !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué chargé de l’industrie. </i>J'espère que ce micro est <i>made in France</i> !<br><br>Monsieur le député, j'ai une conviction : on ne pourra faire de la France une économie verte et souveraine qu'en passant par l'industrie.<br><br><strong>M. Sébastien Jumel.</strong> Oh que c'est beau !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué. </i>Nous avons un cap : France Nation verte. Nous avons des moyens : France 2030. Un an après son annonce par le Président de la République et son lancement à l'Élysée, ce plan fait déjà l'objet de près de 10 milliards d'euros d'engagement sur les 54 milliards prévus afin d'accélérer la politique industrielle que nous poursuivons depuis cinq ans. Il s'agit de réindustrialiser la France avec ambition en suivant un cap très clair, celui de la décarbonation de l'industrie traditionnelle et du développement de l'industrie de la décarbonation.<br><br><strong>M. Stéphane Peu.</strong> On n'arrive même pas à fabriquer les mascottes des Jeux olympiques !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué. </i>La Semaine de l'industrie doit donner envie aux jeunes et aux moins jeunes, aux hommes et aux femmes de rejoindre les beaux métiers de l'industrie. Les 46 000 événements prévus se tiendront dans tous les territoires. J'engage les députés de tous les bancs à se rendre dans les entreprises pour y rencontrer les industriels…<br><br><strong>M. Sylvain Maillard.</strong> Oui, il faut y aller !<br><br><strong>M. Jean-Paul Lecoq.</strong> On ne vous a pas attendu pour le faire !<br><br><strong>M. Sébastien Jumel.</strong> On le fait toutes les semaines, mais on ne le fera justement pas pour la Semaine de l'industrie !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué . </i>…et à rencontrer les jeunes hommes et les jeunes filles qui souhaitent rejoindre l'industrie. Je suis ainsi allé hier dans un lycée à Créteil, avec Mme la ministre déléguée, chargée de l'égalité entre les femmes et les hommes, où nous avons pu rencontrer des jeunes filles qui souhaitent rejoindre l'industrie grâce à de jeunes ingénieurs qui les en ont convaincues.<br><br>Jeudi, le ministère de l'économie sera ouvert à l'industrie dans le cadre de l'événement « Bercy fait son industrie ». À cette occasion, le ministre de l'éducation nationale et moi-même recevrons 1 000 jeunes lycéens pour leur présenter les métiers de l'industrie et les convaincre que l'industrie, c'est l'avenir !<br><br><strong>M. Louis Boyard.</strong> Ah, la magie de l'industrie !<br><br><strong>M. Guillaume Kasbarian et M. Sylvain Maillard .</strong> Bravo !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué. </i>Nous terminerons cette belle journée par un concours d'éloquence au cours duquel nous ferons le procès de l'industrie. J'espère qu'elle le gagnera avec brio ! L'industrie, c'est l'avenir de la France, c'est l'avenir des jeunes, c'est l'avenir de la planète. Rejoignez l'industrie, célébrez-la ! Je souhaite à toutes et à tous une belle Semaine de l'industrie ! <i>(Applaudissements sur les bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 36,
+            "end_char": 45,
+            "label": "ORG",
+            "text": "INDUSTRIE"
+          },
+          {
+            "start_char": 80,
+            "end_char": 83,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 124,
+            "end_char": 155,
+            "label": "PER",
+            "text": "M. Alexis Izard.<br><br><strong"
+          },
+          {
+            "start_char": 159,
+            "end_char": 171,
+            "label": "PER",
+            "text": "Alexis Izard"
+          },
+          {
+            "start_char": 236,
+            "end_char": 254,
+            "label": "MISC",
+            "text": "industrie.<br><br>"
+          },
+          {
+            "start_char": 313,
+            "end_char": 326,
+            "label": "MISC",
+            "text": "Semaine de l’"
+          },
+          {
+            "start_char": 524,
+            "end_char": 526,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 542,
+            "end_char": 544,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 652,
+            "end_char": 668,
+            "label": "MISC",
+            "text": "filières.<br><br"
+          },
+          {
+            "start_char": 686,
+            "end_char": 688,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 702,
+            "end_char": 708,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 710,
+            "end_char": 712,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 762,
+            "end_char": 785,
+            "label": "MISC",
+            "text": "investissements.<br><br"
+          },
+          {
+            "start_char": 862,
+            "end_char": 864,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 948,
+            "end_char": 971,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1029,
+            "end_char": 1054,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 1072,
+            "end_char": 1078,
+            "label": "MISC",
+            "text": "Coué !"
+          },
+          {
+            "start_char": 1097,
+            "end_char": 1109,
+            "label": "PER",
+            "text": "Alexis Izard"
+          },
+          {
+            "start_char": 1426,
+            "end_char": 1432,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1795,
+            "end_char": 1802,
+            "label": "LOC",
+            "text": "Essonne"
+          },
+          {
+            "start_char": 1813,
+            "end_char": 1815,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1917,
+            "end_char": 1934,
+            "label": "PER",
+            "text": "M. Thibault Bazin"
+          },
+          {
+            "start_char": 1938,
+            "end_char": 1964,
+            "label": "PER",
+            "text": "Mme Marie-Christine Dalloz"
+          },
+          {
+            "start_char": 1976,
+            "end_char": 1980,
+            "label": "PER",
+            "text": "Allô"
+          },
+          {
+            "start_char": 1983,
+            "end_char": 1987,
+            "label": "PER",
+            "text": "Allô"
+          },
+          {
+            "start_char": 2008,
+            "end_char": 2020,
+            "label": "PER",
+            "text": "Alexis Izard"
+          },
+          {
+            "start_char": 2386,
+            "end_char": 2388,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2425,
+            "end_char": 2438,
+            "label": "MISC",
+            "text": "Semaine de l’"
+          },
+          {
+            "start_char": 2501,
+            "end_char": 2524,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2525,
+            "end_char": 2528,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2569,
+            "end_char": 2571,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2602,
+            "end_char": 2604,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2633,
+            "end_char": 2658,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 2757,
+            "end_char": 2766,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 2815,
+            "end_char": 2817,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2882,
+            "end_char": 2889,
+            "label": "MISC",
+            "text": "br><br>"
+          },
+          {
+            "start_char": 2953,
+            "end_char": 2962,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3045,
+            "end_char": 3073,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong> Oh"
+          },
+          {
+            "start_char": 3106,
+            "end_char": 3115,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 3179,
+            "end_char": 3192,
+            "label": "ORG",
+            "text": "France Nation"
+          },
+          {
+            "start_char": 3224,
+            "end_char": 3230,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 3268,
+            "end_char": 3294,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3316,
+            "end_char": 3322,
+            "label": "LOC",
+            "text": "Élysée"
+          },
+          {
+            "start_char": 3534,
+            "end_char": 3543,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3718,
+            "end_char": 3739,
+            "label": "PER",
+            "text": "Stéphane Peu.</strong"
+          },
+          {
+            "start_char": 3792,
+            "end_char": 3809,
+            "label": "MISC",
+            "text": "Jeux olympiques !"
+          },
+          {
+            "start_char": 3825,
+            "end_char": 3834,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 3878,
+            "end_char": 3903,
+            "label": "MISC",
+            "text": "La Semaine de l'industrie"
+          },
+          {
+            "start_char": 4217,
+            "end_char": 4250,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong> Oui"
+          },
+          {
+            "start_char": 4288,
+            "end_char": 4312,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 4373,
+            "end_char": 4398,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 4469,
+            "end_char": 4521,
+            "label": "MISC",
+            "text": "la Semaine de l'industrie !<br><br><strong>M. Roland"
+          },
+          {
+            "start_char": 4700,
+            "end_char": 4707,
+            "label": "LOC",
+            "text": "Créteil"
+          },
+          {
+            "start_char": 4714,
+            "end_char": 4717,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4920,
+            "end_char": 4945,
+            "label": "MISC",
+            "text": "convaincues.<br><br>Jeudi"
+          },
+          {
+            "start_char": 5031,
+            "end_char": 5036,
+            "label": "LOC",
+            "text": "Bercy"
+          },
+          {
+            "start_char": 5274,
+            "end_char": 5296,
+            "label": "PER",
+            "text": "Louis Boyard.</strong>"
+          },
+          {
+            "start_char": 5345,
+            "end_char": 5364,
+            "label": "PER",
+            "text": "Guillaume Kasbarian"
+          },
+          {
+            "start_char": 5368,
+            "end_char": 5387,
+            "label": "PER",
+            "text": "M. Sylvain Maillard"
+          },
+          {
+            "start_char": 5399,
+            "end_char": 5404,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 5422,
+            "end_char": 5431,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 5665,
+            "end_char": 5674,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 5811,
+            "end_char": 5818,
+            "label": "PER",
+            "text": "Semaine"
+          },
+          {
+            "start_char": 5881,
+            "end_char": 5892,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 98,
+            "sentiment": "3 stars",
+            "score": 0.32373273372650146
+          },
+          {
+            "begin_char": 99,
+            "end_char": 172,
+            "sentiment": "3 stars",
+            "score": 0.2491273134946823
+          },
+          {
+            "begin_char": 173,
+            "end_char": 254,
+            "sentiment": "3 stars",
+            "score": 0.31023964285850525
+          },
+          {
+            "begin_char": 254,
+            "end_char": 259,
+            "sentiment": "5 stars",
+            "score": 0.3214181065559387
+          },
+          {
+            "begin_char": 260,
+            "end_char": 277,
+            "sentiment": "5 stars",
+            "score": 0.31418102979660034
+          },
+          {
+            "begin_char": 277,
+            "end_char": 336,
+            "sentiment": "5 stars",
+            "score": 0.2812219262123108
+          },
+          {
+            "begin_char": 337,
+            "end_char": 466,
+            "sentiment": "4 stars",
+            "score": 0.4260418117046356
+          },
+          {
+            "begin_char": 467,
+            "end_char": 896,
+            "sentiment": "5 stars",
+            "score": 0.7669761776924133
+          },
+          {
+            "begin_char": 897,
+            "end_char": 1001,
+            "sentiment": "3 stars",
+            "score": 0.36437898874282837
+          },
+          {
+            "begin_char": 1002,
+            "end_char": 1010,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 1010,
+            "end_char": 1054,
+            "sentiment": "3 stars",
+            "score": 0.31285977363586426
+          },
+          {
+            "begin_char": 1055,
+            "end_char": 1078,
+            "sentiment": "1 star",
+            "score": 0.2436540424823761
+          },
+          {
+            "begin_char": 1078,
+            "end_char": 1110,
+            "sentiment": "3 stars",
+            "score": 0.29314202070236206
+          },
+          {
+            "begin_char": 1111,
+            "end_char": 1120,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1120,
+            "end_char": 1325,
+            "sentiment": "4 stars",
+            "score": 0.4636545181274414
+          },
+          {
+            "begin_char": 1326,
+            "end_char": 1358,
+            "sentiment": "5 stars",
+            "score": 0.36550116539001465
+          },
+          {
+            "begin_char": 1359,
+            "end_char": 1438,
+            "sentiment": "5 stars",
+            "score": 0.5312011241912842
+          },
+          {
+            "begin_char": 1439,
+            "end_char": 1681,
+            "sentiment": "5 stars",
+            "score": 0.526418924331665
+          },
+          {
+            "begin_char": 1682,
+            "end_char": 1982,
+            "sentiment": "5 stars",
+            "score": 0.44723987579345703
+          },
+          {
+            "begin_char": 1983,
+            "end_char": 1989,
+            "sentiment": "1 star",
+            "score": 0.24049995839595795
+          },
+          {
+            "begin_char": 1989,
+            "end_char": 2021,
+            "sentiment": "3 stars",
+            "score": 0.29314202070236206
+          },
+          {
+            "begin_char": 2022,
+            "end_char": 2031,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2031,
+            "end_char": 2449,
+            "sentiment": "5 stars",
+            "score": 0.4493825137615204
+          },
+          {
+            "begin_char": 2450,
+            "end_char": 2543,
+            "sentiment": "3 stars",
+            "score": 0.3051096200942993
+          },
+          {
+            "begin_char": 2544,
+            "end_char": 2658,
+            "sentiment": "3 stars",
+            "score": 0.3000006079673767
+          },
+          {
+            "begin_char": 2659,
+            "end_char": 2741,
+            "sentiment": "1 star",
+            "score": 0.7999134659767151
+          },
+          {
+            "begin_char": 2741,
+            "end_char": 2827,
+            "sentiment": "3 stars",
+            "score": 0.3143836259841919
+          },
+          {
+            "begin_char": 2828,
+            "end_char": 2832,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2832,
+            "end_char": 2881,
+            "sentiment": "5 stars",
+            "score": 0.5207953453063965
+          },
+          {
+            "begin_char": 2881,
+            "end_char": 2889,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2889,
+            "end_char": 3090,
+            "sentiment": "5 stars",
+            "score": 0.6736545562744141
+          },
+          {
+            "begin_char": 3090,
+            "end_char": 3154,
+            "sentiment": "3 stars",
+            "score": 0.289395272731781
+          },
+          {
+            "begin_char": 3155,
+            "end_char": 3199,
+            "sentiment": "5 stars",
+            "score": 0.4425848126411438
+          },
+          {
+            "begin_char": 3200,
+            "end_char": 3236,
+            "sentiment": "5 stars",
+            "score": 0.3798081874847412
+          },
+          {
+            "begin_char": 3237,
+            "end_char": 3503,
+            "sentiment": "5 stars",
+            "score": 0.43103933334350586
+          },
+          {
+            "begin_char": 3504,
+            "end_char": 3740,
+            "sentiment": "5 stars",
+            "score": 0.4339748024940491
+          },
+          {
+            "begin_char": 3741,
+            "end_char": 3809,
+            "sentiment": "1 star",
+            "score": 0.847812831401825
+          },
+          {
+            "begin_char": 3809,
+            "end_char": 3873,
+            "sentiment": "3 stars",
+            "score": 0.289395272731781
+          },
+          {
+            "begin_char": 3874,
+            "end_char": 4025,
+            "sentiment": "5 stars",
+            "score": 0.49265897274017334
+          },
+          {
+            "begin_char": 4026,
+            "end_char": 4094,
+            "sentiment": "5 stars",
+            "score": 0.45847195386886597
+          },
+          {
+            "begin_char": 4095,
+            "end_char": 4269,
+            "sentiment": "5 stars",
+            "score": 0.3516199588775635
+          },
+          {
+            "begin_char": 4269,
+            "end_char": 4313,
+            "sentiment": "3 stars",
+            "score": 0.3206564784049988
+          },
+          {
+            "begin_char": 4314,
+            "end_char": 4354,
+            "sentiment": "1 star",
+            "score": 0.5388785600662231
+          },
+          {
+            "begin_char": 4354,
+            "end_char": 4398,
+            "sentiment": "3 stars",
+            "score": 0.31285977363586426
+          },
+          {
+            "begin_char": 4399,
+            "end_char": 4561,
+            "sentiment": "2 stars",
+            "score": 0.3351215720176697
+          },
+          {
+            "begin_char": 4562,
+            "end_char": 4659,
+            "sentiment": "3 stars",
+            "score": 0.2715950310230255
+          },
+          {
+            "begin_char": 4660,
+            "end_char": 5058,
+            "sentiment": "5 stars",
+            "score": 0.45591211318969727
+          },
+          {
+            "begin_char": 5059,
+            "end_char": 5255,
+            "sentiment": "5 stars",
+            "score": 0.5272152423858643
+          },
+          {
+            "begin_char": 5255,
+            "end_char": 5296,
+            "sentiment": "3 stars",
+            "score": 0.29524874687194824
+          },
+          {
+            "begin_char": 5297,
+            "end_char": 5326,
+            "sentiment": "5 stars",
+            "score": 0.7867774963378906
+          },
+          {
+            "begin_char": 5326,
+            "end_char": 5406,
+            "sentiment": "5 stars",
+            "score": 0.5123785138130188
+          },
+          {
+            "begin_char": 5406,
+            "end_char": 5470,
+            "sentiment": "3 stars",
+            "score": 0.289395272731781
+          },
+          {
+            "begin_char": 5471,
+            "end_char": 5593,
+            "sentiment": "4 stars",
+            "score": 0.3192843198776245
+          },
+          {
+            "begin_char": 5594,
+            "end_char": 5633,
+            "sentiment": "5 stars",
+            "score": 0.5635193586349487
+          },
+          {
+            "begin_char": 5634,
+            "end_char": 5732,
+            "sentiment": "5 stars",
+            "score": 0.42015260457992554
+          },
+          {
+            "begin_char": 5733,
+            "end_char": 5769,
+            "sentiment": "5 stars",
+            "score": 0.6644866466522217
+          },
+          {
+            "begin_char": 5770,
+            "end_char": 5835,
+            "sentiment": "5 stars",
+            "score": 0.5986551642417908
+          },
+          {
+            "begin_char": 5836,
+            "end_char": 5893,
+            "sentiment": "4 stars",
+            "score": 0.2991805374622345
+          },
+          {
+            "begin_char": 5894,
+            "end_char": 5897,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5908",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

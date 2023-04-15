@@ -1,0 +1,407 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG294",
+    "identifiant": {
+      "numero": "294",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "emploi et activité",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Emploi des seniors"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794470",
+        "mandatRef": "PM796947"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> EMPLOI DES SENIORS <a name=PG20></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Félicie Gérard.<br><br><strong>Mme Félicie Gérard. </strong>Monsieur le ministre du travail, du plein emploi et de l'insertion, l'emploi des seniors dans notre pays est un enjeu majeur. Les chiffres parlent d'eux-mêmes : si les seniors sont relativement moins concernés en nombre par le chômage, ils y restent en moyenne 2,5 fois plus longtemps que les autres demandeurs d'emploi. Ce problème se ressent sur le terrain. Comme nombre de mes collègues, j'ai eu l'occasion de rencontrer en circonscription des missions locales et des entreprises de réinsertion qui partagent le même constat. L'emploi des seniors est une préoccupation importante pour les demandeurs d'emploi concernés, pour les organismes de réinsertion et pour les employeurs eux-mêmes. En effet, l'emploi d'un senior est perçu par certaines entreprises comme un investissement moins rentable que celui d'un salarié en début ou en milieu de carrière. Cela s'explique par le coût salarial, par le fait que la dernière entreprise employant le salarié est chargée d'assumer ses maladies professionnelles, mais également par la peur d'investir du temps dans la formation et l'intégration d'un salarié en fin de carrière.<br><br>Par ailleurs, nous faisons face à un important phénomène d'autocensure des seniors vis-à-vis de l'emploi. Certains d'entre eux se considèrent comme inemployables, ne pensent pas avoir les compétences adaptées pour travailler dans un nouveau secteur, ou encore s'inquiètent de leur légitimité à suivre des formations professionnelles parfois nécessaires au retour à l'emploi.<br><br>L'emploi des seniors est essentiel pour notre pays et précieux pour nos entreprises, par les compétences et l'expérience qu'ils apportent. Pourriez-vous indiquer quels dispositifs peuvent être aménagés afin de favoriser la formation des seniors, accompagner leur fin de carrière et inciter les entreprises à les embaucher ? Par ailleurs, dans quelle mesure les concertations que vous menez en ce moment sur la réforme des retraites peuvent-elles apporter des solutions structurelles à ce problème ? <i>(Applaudissements sur les bancs du groupe HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Vous avez raison : l'emploi des seniors en France est moins développé que dans tous les autres pays de l'Union européenne. Le taux d'emploi des plus de 50 ans s'élève à 56 %, alors que le taux moyen de la population est à 68 % – un taux élevé, qui a retrouvé son niveau de 1972. Cette marche vers l'emploi ne doit pas laisser les seniors sur le côté du chemin. Nous devons tout mettre en œuvre pour permettre le retour et le maintien dans l'emploi de ceux qui ont plus de 50, 55 ou 60 ans. Pour cela, nous ouvrons des concertations multiples, car la question de l'emploi des seniors est à la confluence de nombreux dossiers dont j'ai la charge : la réforme des retraites, la modulation des règles d'indemnisation en matière d'assurance chômage et, plus largement, tout ce qui concourt au plein emploi et à l'emploi de tous à l'échelle du pays.<br><br>Nous travaillons actuellement sur quatre pistes.<br><br>Tout d'abord, nous devons investir dans la formation des seniors. Leur expérience est riche, mais il faut parfois les accompagner pour une montée en puissance et en qualification en matière de nouvelles technologies. Les seniors doivent souvent accepter de terminer leur carrière en exerçant d'autres métiers qu'auparavant. C'est une des conditions du maintien dans l'emploi.<br><br>Nous devons travailler sur la prévention de l'usure professionnelle. Bien souvent, la sortie de l'emploi des plus âgés des actifs de notre pays s'explique par des problèmes liés à l'invalidité, aux inaptitudes ou aux troubles musculo-squelettiques, qui caractérisent l'usure professionnelle. La prévention favorisera le maintien dans l'emploi.<br><br>La troisième piste consiste à mettre en place des outils de gestion de l'emploi des seniors. Certaines organisations syndicales ont proposé de créer un index, sur le modèle de ce qui a été fait en matière d'égalité professionnelle entre les femmes et les hommes. J'ignore si l'index est la solution idoine, mais je sais de manière certaine que nous devons disposer d'un outil de gestion et de transparence de l'emploi des seniors.<br><br><strong>Mme la présidente.</strong> Veuillez conclure, monsieur le ministre.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Enfin, nous devons mener un autre chantier majeur… <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 34,
+            "end_char": 41,
+            "label": "ORG",
+            "text": "SENIORS"
+          },
+          {
+            "start_char": 76,
+            "end_char": 79,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 120,
+            "end_char": 154,
+            "label": "PER",
+            "text": "Mme Félicie Gérard.<br><br><strong"
+          },
+          {
+            "start_char": 155,
+            "end_char": 173,
+            "label": "PER",
+            "text": "Mme Félicie Gérard"
+          },
+          {
+            "start_char": 184,
+            "end_char": 192,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1296,
+            "end_char": 1312,
+            "label": "MISC",
+            "text": "carrière.<br><br"
+          },
+          {
+            "start_char": 1680,
+            "end_char": 1694,
+            "label": "MISC",
+            "text": "emploi.<br><br"
+          },
+          {
+            "start_char": 2239,
+            "end_char": 2263,
+            "label": "ORG",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2264,
+            "end_char": 2267,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2308,
+            "end_char": 2310,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2357,
+            "end_char": 2359,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2385,
+            "end_char": 2395,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2460,
+            "end_char": 2471,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 2520,
+            "end_char": 2526,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 2582,
+            "end_char": 2598,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 3315,
+            "end_char": 3327,
+            "label": "ORG",
+            "text": "pays.<br><br"
+          },
+          {
+            "start_char": 3752,
+            "end_char": 3766,
+            "label": "MISC",
+            "text": "emploi.<br><br"
+          },
+          {
+            "start_char": 4103,
+            "end_char": 4117,
+            "label": "MISC",
+            "text": "emploi.<br><br"
+          },
+          {
+            "start_char": 4564,
+            "end_char": 4590,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 4648,
+            "end_char": 4658,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4796,
+            "end_char": 4807,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 94,
+            "sentiment": "3 stars",
+            "score": 0.30611830949783325
+          },
+          {
+            "begin_char": 95,
+            "end_char": 174,
+            "sentiment": "4 stars",
+            "score": 0.24637190997600555
+          },
+          {
+            "begin_char": 175,
+            "end_char": 309,
+            "sentiment": "5 stars",
+            "score": 0.4721073806285858
+          },
+          {
+            "begin_char": 310,
+            "end_char": 504,
+            "sentiment": "3 stars",
+            "score": 0.33275413513183594
+          },
+          {
+            "begin_char": 505,
+            "end_char": 543,
+            "sentiment": "3 stars",
+            "score": 0.4418403208255768
+          },
+          {
+            "begin_char": 544,
+            "end_char": 712,
+            "sentiment": "5 stars",
+            "score": 0.5032504200935364
+          },
+          {
+            "begin_char": 713,
+            "end_char": 875,
+            "sentiment": "5 stars",
+            "score": 0.40684157609939575
+          },
+          {
+            "begin_char": 876,
+            "end_char": 1039,
+            "sentiment": "3 stars",
+            "score": 0.32600656151771545
+          },
+          {
+            "begin_char": 1040,
+            "end_char": 1418,
+            "sentiment": "3 stars",
+            "score": 0.44306719303131104
+          },
+          {
+            "begin_char": 1419,
+            "end_char": 1833,
+            "sentiment": "5 stars",
+            "score": 0.5029131770133972
+          },
+          {
+            "begin_char": 1834,
+            "end_char": 2018,
+            "sentiment": "4 stars",
+            "score": 0.3405819237232208
+          },
+          {
+            "begin_char": 2019,
+            "end_char": 2193,
+            "sentiment": "4 stars",
+            "score": 0.3774006962776184
+          },
+          {
+            "begin_char": 2194,
+            "end_char": 2282,
+            "sentiment": "4 stars",
+            "score": 0.3090986907482147
+          },
+          {
+            "begin_char": 2283,
+            "end_char": 2416,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 2417,
+            "end_char": 2472,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 2473,
+            "end_char": 2599,
+            "sentiment": "3 stars",
+            "score": 0.29899290204048157
+          },
+          {
+            "begin_char": 2600,
+            "end_char": 2755,
+            "sentiment": "3 stars",
+            "score": 0.34123408794403076
+          },
+          {
+            "begin_char": 2756,
+            "end_char": 2837,
+            "sentiment": "2 stars",
+            "score": 0.27177512645721436
+          },
+          {
+            "begin_char": 2838,
+            "end_char": 2966,
+            "sentiment": "5 stars",
+            "score": 0.5669702291488647
+          },
+          {
+            "begin_char": 2967,
+            "end_char": 3328,
+            "sentiment": "5 stars",
+            "score": 0.497568815946579
+          },
+          {
+            "begin_char": 3328,
+            "end_char": 3449,
+            "sentiment": "4 stars",
+            "score": 0.3069280683994293
+          },
+          {
+            "begin_char": 3450,
+            "end_char": 3600,
+            "sentiment": "4 stars",
+            "score": 0.5466621518135071
+          },
+          {
+            "begin_char": 3601,
+            "end_char": 3707,
+            "sentiment": "4 stars",
+            "score": 0.29139000177383423
+          },
+          {
+            "begin_char": 3708,
+            "end_char": 3835,
+            "sentiment": "4 stars",
+            "score": 0.4138183891773224
+          },
+          {
+            "begin_char": 3836,
+            "end_char": 4058,
+            "sentiment": "3 stars",
+            "score": 0.40601298213005066
+          },
+          {
+            "begin_char": 4059,
+            "end_char": 4210,
+            "sentiment": "4 stars",
+            "score": 0.35779091715812683
+          },
+          {
+            "begin_char": 4211,
+            "end_char": 4380,
+            "sentiment": "4 stars",
+            "score": 0.31333357095718384
+          },
+          {
+            "begin_char": 4381,
+            "end_char": 4591,
+            "sentiment": "4 stars",
+            "score": 0.4198331832885742
+          },
+          {
+            "begin_char": 4592,
+            "end_char": 4690,
+            "sentiment": "4 stars",
+            "score": 0.29334136843681335
+          },
+          {
+            "begin_char": 4691,
+            "end_char": 4808,
+            "sentiment": "5 stars",
+            "score": 0.25365152955055237
+          },
+          {
+            "begin_char": 4809,
+            "end_char": 4812,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-16",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-16",
+        "pageJO": "5428",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

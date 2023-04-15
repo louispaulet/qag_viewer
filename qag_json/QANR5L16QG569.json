@@ -1,0 +1,545 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG569",
+    "identifiant": {
+      "numero": "569",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "politique extérieure",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "SITUATION EN IRAN"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720174",
+        "mandatRef": "PM803278"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Europe et affaires étrangères",
+      "developpe": "Ministère de l’Europe et des affaires étrangères"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Europe et affaires étrangères",
+          "developpe": "Ministère de l’Europe et des affaires étrangères"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION EN IRAN <a name=PG14></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Philippe Guillemard.<br><br><strong>M. Philippe Guillemard. </strong>Ma question s'adresse à Mme la ministre de l'Europe et des affaires étrangères.<br><br>Le 5 février, le régime des mollahs a prononcé l'amnistie de milliers de prisonniers à l'occasion du quarante-quatrième anniversaire de la Révolution islamique de février 1979. Cette décision intervient après quatre mois d'arrestations, d'emprisonnements et d'exécutions de nombreux manifestants qui avaient réagi au décès de la jeune Mahsa Amini à la suite de son interpellation violente par la police des mœurs. Est-ce le signe que les manifestations commencent à peser ou est-ce une manœuvre destinée à calmer les esprits ? La conduite adoptée jusqu'ici par le régime nous fait tendre vers la seconde hypothèse. Les condamnations à mort et les exécutions sont évidemment des violations graves des droits fondamentaux face aux aspirations légitimes du peuple iranien à plus de liberté.<br><br>Beaucoup ici, à l'Assemblée nationale, ont choisi de se mobiliser contre le sort réservé aux manifestants en parrainant des Iraniens condamnés à mort. Certains de nos compatriotes sont détenus en Iran de façon arbitraire et nous imaginons l'inquiétude de leurs proches. À cet égard, nous nous réjouissons de la libération, après quatre ans de détention, de la chercheuse franco-iranienne Fariba Adelkhah.<br><br>Près de cinq mois après le début d'une mobilisation inédite de sa population, quel tableau dressez-vous de la situation en Iran ? Comment concilier les mesures à prendre face aux actes d'un régime qui tue sa population et le nécessaire dialogue que nous devons préserver eu égard à la situation de nos ressortissants détenus ?<br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre de l’Europe et des affaires étrangères.<br><br><strong>Mme Catherine Colonna,</strong><i> ministre de l’Europe et des affaires étrangères. </i>Notre action concernant l'Iran vise à concilier deux exigences : faire face à la répression par l'Iran de sa propre population, qui ne demande qu'à vivre libre et dans la dignité ; protéger nos ressortissants, injustement et irrégulièrement détenus par un régime qui cherche des coupables extérieurs pour ses propres échecs.<br><br>Notre réponse à la répression en Iran prend deux formes concrètes.<br><br>Premièrement, elle vise le régime qui l'organise. Au sein de l'ONU, nous avons ainsi obtenu l'exclusion de l'Iran de la Commission de la condition de la femme, mettant fin à une situation aberrante, mais aussi la création d'une mission d'établissement des faits par le Conseil des droits de l'homme ; celle-ci permettra de documenter la répression et constitue un pas fondamental dans la lutte contre l'impunité.<br><br>Deuxièmement, nous visons les responsables de la répression. Nous avons ainsi pris quatre trains de sanctions européennes, visant soixante-dix-huit individus et vingt-sept entités, dont plusieurs responsables du Corps des gardiens de la révolution islamique. Un cinquième train sera très vraisemblablement adopté lundi prochain, lors de la réunion des ministres des affaires étrangères de l'Union européennes.<br><br>S'agissant des détentions arbitraires, oui, nous dialoguons avec l'Iran. À plusieurs reprises, j'ai demandé moi-même à mon homologue iranien, par oral et par écrit, la libération de tous nos otages. Par ailleurs, le 23 janvier, pour la première fois, les conclusions adoptées par le Conseil européen ont mentionné cette politique de détention arbitraire menée par l'Iran – car il s'agit bien d'une politique d'État.<br><br>Notre priorité est la libération de tous nos compatriotes. Je salue à cet égard celle de Fariba Adelkhah – je n'en dirai pas davantage. Soyez assuré que notre combat continuera jusqu'à ce que les six autres otages français soient libérés. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 36,
+            "end_char": 40,
+            "label": "LOC",
+            "text": "IRAN"
+          },
+          {
+            "start_char": 75,
+            "end_char": 78,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 119,
+            "end_char": 121,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 122,
+            "end_char": 157,
+            "label": "PER",
+            "text": "Philippe Guillemard.<br><br><strong"
+          },
+          {
+            "start_char": 161,
+            "end_char": 180,
+            "label": "PER",
+            "text": "Philippe Guillemard"
+          },
+          {
+            "start_char": 215,
+            "end_char": 218,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 222,
+            "end_char": 242,
+            "label": "ORG",
+            "text": "ministre de l'Europe"
+          },
+          {
+            "start_char": 259,
+            "end_char": 277,
+            "label": "MISC",
+            "text": "étrangères.<br><br"
+          },
+          {
+            "start_char": 417,
+            "end_char": 448,
+            "label": "MISC",
+            "text": "Révolution islamique de février"
+          },
+          {
+            "start_char": 613,
+            "end_char": 624,
+            "label": "PER",
+            "text": "Mahsa Amini"
+          },
+          {
+            "start_char": 1091,
+            "end_char": 1110,
+            "label": "ORG",
+            "text": "Assemblée nationale"
+          },
+          {
+            "start_char": 1197,
+            "end_char": 1205,
+            "label": "LOC",
+            "text": "Iraniens"
+          },
+          {
+            "start_char": 1269,
+            "end_char": 1273,
+            "label": "LOC",
+            "text": "Iran"
+          },
+          {
+            "start_char": 1461,
+            "end_char": 1467,
+            "label": "ORG",
+            "text": "Fariba"
+          },
+          {
+            "start_char": 1608,
+            "end_char": 1612,
+            "label": "LOC",
+            "text": "Iran"
+          },
+          {
+            "start_char": 1827,
+            "end_char": 1830,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1871,
+            "end_char": 1874,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1892,
+            "end_char": 1898,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 1942,
+            "end_char": 1955,
+            "label": "PER",
+            "text": "Mme Catherine"
+          },
+          {
+            "start_char": 1991,
+            "end_char": 1997,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2030,
+            "end_char": 2042,
+            "label": "LOC",
+            "text": "Notre action"
+          },
+          {
+            "start_char": 2056,
+            "end_char": 2060,
+            "label": "LOC",
+            "text": "Iran"
+          },
+          {
+            "start_char": 2128,
+            "end_char": 2132,
+            "label": "LOC",
+            "text": "Iran"
+          },
+          {
+            "start_char": 2395,
+            "end_char": 2399,
+            "label": "LOC",
+            "text": "Iran"
+          },
+          {
+            "start_char": 2418,
+            "end_char": 2448,
+            "label": "MISC",
+            "text": "concrètes.<br><br>Premièrement"
+          },
+          {
+            "start_char": 2499,
+            "end_char": 2502,
+            "label": "ORG",
+            "text": "ONU"
+          },
+          {
+            "start_char": 2545,
+            "end_char": 2549,
+            "label": "LOC",
+            "text": "Iran"
+          },
+          {
+            "start_char": 2556,
+            "end_char": 2594,
+            "label": "ORG",
+            "text": "Commission de la condition de la femme"
+          },
+          {
+            "start_char": 2705,
+            "end_char": 2734,
+            "label": "ORG",
+            "text": "Conseil des droits de l'homme"
+          },
+          {
+            "start_char": 2839,
+            "end_char": 2868,
+            "label": "MISC",
+            "text": "impunité.<br><br>Deuxièmement"
+          },
+          {
+            "start_char": 3068,
+            "end_char": 3113,
+            "label": "ORG",
+            "text": "Corps des gardiens de la révolution islamique"
+          },
+          {
+            "start_char": 3247,
+            "end_char": 3252,
+            "label": "LOC",
+            "text": "Union"
+          },
+          {
+            "start_char": 3253,
+            "end_char": 3272,
+            "label": "MISC",
+            "text": "européennes.<br><br"
+          },
+          {
+            "start_char": 3340,
+            "end_char": 3344,
+            "label": "LOC",
+            "text": "Iran"
+          },
+          {
+            "start_char": 3556,
+            "end_char": 3572,
+            "label": "ORG",
+            "text": "Conseil européen"
+          },
+          {
+            "start_char": 3639,
+            "end_char": 3643,
+            "label": "LOC",
+            "text": "Iran"
+          },
+          {
+            "start_char": 3785,
+            "end_char": 3800,
+            "label": "PER",
+            "text": "Fariba Adelkhah"
+          },
+          {
+            "start_char": 3832,
+            "end_char": 3837,
+            "label": "ORG",
+            "text": "Soyez"
+          },
+          {
+            "start_char": 3986,
+            "end_char": 3997,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 93,
+            "sentiment": "3 stars",
+            "score": 0.3159205913543701
+          },
+          {
+            "begin_char": 94,
+            "end_char": 181,
+            "sentiment": "4 stars",
+            "score": 0.2583741843700409
+          },
+          {
+            "begin_char": 182,
+            "end_char": 278,
+            "sentiment": "3 stars",
+            "score": 0.29773998260498047
+          },
+          {
+            "begin_char": 278,
+            "end_char": 454,
+            "sentiment": "4 stars",
+            "score": 0.34730443358421326
+          },
+          {
+            "begin_char": 455,
+            "end_char": 691,
+            "sentiment": "4 stars",
+            "score": 0.4293201267719269
+          },
+          {
+            "begin_char": 692,
+            "end_char": 804,
+            "sentiment": "2 stars",
+            "score": 0.2985357642173767
+          },
+          {
+            "begin_char": 805,
+            "end_char": 892,
+            "sentiment": "3 stars",
+            "score": 0.3931318521499634
+          },
+          {
+            "begin_char": 893,
+            "end_char": 1223,
+            "sentiment": "5 stars",
+            "score": 0.4898965358734131
+          },
+          {
+            "begin_char": 1224,
+            "end_char": 1342,
+            "sentiment": "5 stars",
+            "score": 0.4099422097206116
+          },
+          {
+            "begin_char": 1343,
+            "end_char": 1460,
+            "sentiment": "5 stars",
+            "score": 0.4623764455318451
+          },
+          {
+            "begin_char": 1461,
+            "end_char": 1467,
+            "sentiment": "4 stars",
+            "score": 0.2433972954750061
+          },
+          {
+            "begin_char": 1468,
+            "end_char": 1614,
+            "sentiment": "5 stars",
+            "score": 0.3786472976207733
+          },
+          {
+            "begin_char": 1615,
+            "end_char": 1811,
+            "sentiment": "4 stars",
+            "score": 0.4556021988391876
+          },
+          {
+            "begin_char": 1811,
+            "end_char": 1845,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 1846,
+            "end_char": 2025,
+            "sentiment": "4 stars",
+            "score": 0.283491313457489
+          },
+          {
+            "begin_char": 2026,
+            "end_char": 2030,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2030,
+            "end_char": 2210,
+            "sentiment": "5 stars",
+            "score": 0.5009332895278931
+          },
+          {
+            "begin_char": 2211,
+            "end_char": 2362,
+            "sentiment": "4 stars",
+            "score": 0.3698441684246063
+          },
+          {
+            "begin_char": 2362,
+            "end_char": 2485,
+            "sentiment": "4 stars",
+            "score": 0.40446045994758606
+          },
+          {
+            "begin_char": 2486,
+            "end_char": 2736,
+            "sentiment": "5 stars",
+            "score": 0.37266385555267334
+          },
+          {
+            "begin_char": 2737,
+            "end_char": 2916,
+            "sentiment": "4 stars",
+            "score": 0.46978411078453064
+          },
+          {
+            "begin_char": 2917,
+            "end_char": 3114,
+            "sentiment": "5 stars",
+            "score": 0.28333190083503723
+          },
+          {
+            "begin_char": 3115,
+            "end_char": 3183,
+            "sentiment": "4 stars",
+            "score": 0.3282149136066437
+          },
+          {
+            "begin_char": 3183,
+            "end_char": 3345,
+            "sentiment": "4 stars",
+            "score": 0.3096471428871155
+          },
+          {
+            "begin_char": 3346,
+            "end_char": 3384,
+            "sentiment": "1 star",
+            "score": 0.28294143080711365
+          },
+          {
+            "begin_char": 3384,
+            "end_char": 3385,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 3385,
+            "end_char": 3470,
+            "sentiment": "5 stars",
+            "score": 0.7357116937637329
+          },
+          {
+            "begin_char": 3470,
+            "end_char": 3471,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 3472,
+            "end_char": 3649,
+            "sentiment": "4 stars",
+            "score": 0.34754475951194763
+          },
+          {
+            "begin_char": 3650,
+            "end_char": 3696,
+            "sentiment": "2 stars",
+            "score": 0.255952388048172
+          },
+          {
+            "begin_char": 3696,
+            "end_char": 3754,
+            "sentiment": "5 stars",
+            "score": 0.5875223875045776
+          },
+          {
+            "begin_char": 3755,
+            "end_char": 3831,
+            "sentiment": "5 stars",
+            "score": 0.3815707266330719
+          },
+          {
+            "begin_char": 3832,
+            "end_char": 3934,
+            "sentiment": "5 stars",
+            "score": 0.5292766094207764
+          },
+          {
+            "begin_char": 3935,
+            "end_char": 3998,
+            "sentiment": "3 stars",
+            "score": 0.3112752139568329
+          },
+          {
+            "begin_char": 3999,
+            "end_char": 4002,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-15",
+        "pageJO": "1377",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

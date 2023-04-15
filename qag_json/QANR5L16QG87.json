@@ -1,0 +1,539 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG87",
+    "identifiant": {
+      "numero": "87",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Sécurisation des approvisionnements en gaz"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719822",
+        "mandatRef": "PM796647"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition énergétique",
+      "developpe": "Ministère de la transition énergétique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition énergétique",
+          "developpe": "Ministère de la transition énergétique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SÉCURISATION DES APPROVISIONNEMENTS EN GAZ <a name=PG6></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Sabine Thillaye.<br><br><strong>Mme Sabine Thillaye. </strong>Ma question s'adresse à Mme la ministre de la transition énergétique.<br><br>À l'issue du conseil des ministres européens de l'énergie, les Vingt-Sept, à l'exception de la Hongrie, sont tombés d'accord pour réduire de 15 % leur demande en gaz naturel d'ici mars 2023. Bien que non contraignant, cet accord le deviendra en cas d'alerte sur la sécurité de l'approvisionnement. Cette décision intervient dans un contexte que nous connaissons tous : la crise en Ukraine et les conséquences qu'elle implique pour notre équilibre énergétique. Pour rappel, en 2021, 40 % du gaz consommé en Europe provenait de Russie ; or, nous le savons, vingt-sept pays, ce sont vingt-sept rapports différents au gaz russe, avec parfois des rapports de dépendance –  nous le voyons déjà avec les premières coupures totales de la part de Gazprom en Lettonie.<br><br>En France, nous avons consommé l'année dernière 495 milliards de kilowattheures – imputable pour 30 % aux bâtiments résidentiels et presque autant à l'industrie. Atteindre notre objectif suppose donc de baisser notre consommation à 421 milliards de kilowattheures. Mais si nous devons tous faire preuve de résilience et de solidarité dans cette crise, nos concitoyens ne sauraient porter seuls le poids de la diminution de notre demande de gaz. La politique énergétique de notre pays et celle de l'Union ne peuvent faire fi des enjeux sociaux et sanitaires. Nous devons nous assurer de mener une politique cohérente et coordonnée sur les réserves, sur les exportations et sur les importations à l'intérieur de l'Union, ainsi que sur les achats groupés réalisés par la Commission. La France doit prendre toute sa place dans les dispositifs de long terme.<br><br>Ma question est donc la suivante : comment concilier l'accord de réduction de 15 % avec les impératifs sociaux et sanitaires relatifs aux besoins de nos concitoyens en énergie et, dans ce cadre, quelle stratégie adopter vis-à-vis de nos partenaires européens ? <i>(Applaudissements sur les bancs du groupe Dem.)</i> <br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre de la transition énergétique.<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre de la transition énergétique. </i>La Russie utilise le gaz comme une arme de guerre en réduisant ses fournitures à l'Europe. Dès lors, vous avez raison d'en appeler à une politique cohérente et coordonnée de l'ensemble des pays européens, qu'il s'agisse des réserves, des axes d'exportations ou des axes d'importations intra-européennes de gaz. Telle est l'approche que nous avons choisi de retenir depuis février dernier lorsque notre pays était à la présidence du Conseil de l'Union européenne.<br><br><strong>M. Fabien Di Filippo.</strong> La présidence française n'a pas fait grand-chose !<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre . </i>Tout d'abord, une obligation de stockage du gaz sur le modèle français a été décidée. Ce règlement a été adopté dans des délais extraordinairement brefs et ladite obligation protège dorénavant tous les Européens. Il s'agit également de diversifier l'origine de nos approvisionnements, à l'instar de ce que font nos voisins en Espagne, en Allemagne et aux Pays-Bas, grâce, pour notre part, à un terminal méthanier flottant au Havre. Il s'agit enfin de coordonner tous ensemble, dans le pays mais aussi avec nos voisins européens, nos actions de réduction de la consommation énergétique : c'est le plan de sobriété sur l'ensemble des énergies fossiles qui a été annoncé par le Président de la République et la Première ministre, et qui concerne évidemment le gaz. Dans un contexte où nous dépendons à 70 % de l'Allemagne et de la Belgique pour nos importations d'électricité, c'est grâce à la solidarité européenne que nous serons prêts pour l'hiver et que nous affronterons ensemble cette crise de l'énergie. <i>(Applaudissements sur quelques bancs du groupe RE. – Mme Maud Gatel applaudit également.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 39,
+            "label": "MISC",
+            "text": "SÉCURISATION DES"
+          },
+          {
+            "start_char": 62,
+            "end_char": 65,
+            "label": "ORG",
+            "text": "GAZ"
+          },
+          {
+            "start_char": 74,
+            "end_char": 81,
+            "label": "PER",
+            "text": "PG6></a"
+          },
+          {
+            "start_char": 99,
+            "end_char": 102,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 143,
+            "end_char": 153,
+            "label": "PER",
+            "text": "Mme Sabine"
+          },
+          {
+            "start_char": 179,
+            "end_char": 198,
+            "label": "PER",
+            "text": "Mme Sabine Thillaye"
+          },
+          {
+            "start_char": 233,
+            "end_char": 236,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 266,
+            "end_char": 285,
+            "label": "MISC",
+            "text": "énergétique.<br><br"
+          },
+          {
+            "start_char": 349,
+            "end_char": 359,
+            "label": "LOC",
+            "text": "Vingt-Sept"
+          },
+          {
+            "start_char": 381,
+            "end_char": 388,
+            "label": "LOC",
+            "text": "Hongrie"
+          },
+          {
+            "start_char": 667,
+            "end_char": 674,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 792,
+            "end_char": 798,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 809,
+            "end_char": 818,
+            "label": "LOC",
+            "text": "de Russie"
+          },
+          {
+            "start_char": 1024,
+            "end_char": 1031,
+            "label": "ORG",
+            "text": "Gazprom"
+          },
+          {
+            "start_char": 1035,
+            "end_char": 1051,
+            "label": "LOC",
+            "text": "Lettonie.<br><br"
+          },
+          {
+            "start_char": 1055,
+            "end_char": 1061,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1550,
+            "end_char": 1555,
+            "label": "LOC",
+            "text": "Union"
+          },
+          {
+            "start_char": 1764,
+            "end_char": 1769,
+            "label": "ORG",
+            "text": "Union"
+          },
+          {
+            "start_char": 1820,
+            "end_char": 1830,
+            "label": "ORG",
+            "text": "Commission"
+          },
+          {
+            "start_char": 1832,
+            "end_char": 1841,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 1899,
+            "end_char": 1915,
+            "label": "MISC",
+            "text": "terme.<br><br>Ma"
+          },
+          {
+            "start_char": 2219,
+            "end_char": 2227,
+            "label": "ORG",
+            "text": "Dem.)</i"
+          },
+          {
+            "start_char": 2245,
+            "end_char": 2248,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2289,
+            "end_char": 2292,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2350,
+            "end_char": 2367,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 2436,
+            "end_char": 2442,
+            "label": "LOC",
+            "text": "Russie"
+          },
+          {
+            "start_char": 2514,
+            "end_char": 2522,
+            "label": "LOC",
+            "text": "l'Europe"
+          },
+          {
+            "start_char": 2865,
+            "end_char": 2910,
+            "label": "ORG",
+            "text": "Conseil de l'Union européenne.<br><br><strong"
+          },
+          {
+            "start_char": 2921,
+            "end_char": 2941,
+            "label": "PER",
+            "text": "Di Filippo.</strong>"
+          },
+          {
+            "start_char": 3008,
+            "end_char": 3025,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 3048,
+            "end_char": 3056,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3265,
+            "end_char": 3274,
+            "label": "LOC",
+            "text": "Européens"
+          },
+          {
+            "start_char": 3389,
+            "end_char": 3396,
+            "label": "LOC",
+            "text": "Espagne"
+          },
+          {
+            "start_char": 3401,
+            "end_char": 3410,
+            "label": "LOC",
+            "text": "Allemagne"
+          },
+          {
+            "start_char": 3418,
+            "end_char": 3426,
+            "label": "LOC",
+            "text": "Pays-Bas"
+          },
+          {
+            "start_char": 3485,
+            "end_char": 3493,
+            "label": "LOC",
+            "text": "au Havre"
+          },
+          {
+            "start_char": 3738,
+            "end_char": 3764,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3872,
+            "end_char": 3881,
+            "label": "LOC",
+            "text": "Allemagne"
+          },
+          {
+            "start_char": 3891,
+            "end_char": 3899,
+            "label": "LOC",
+            "text": "Belgique"
+          },
+          {
+            "start_char": 4114,
+            "end_char": 4123,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4127,
+            "end_char": 4131,
+            "label": "PER",
+            "text": "Mme "
+          },
+          {
+            "start_char": 4131,
+            "end_char": 4141,
+            "label": "PER",
+            "text": "Maud Gatel"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 82,
+            "sentiment": "3 stars",
+            "score": 0.26997777819633484
+          },
+          {
+            "begin_char": 83,
+            "end_char": 117,
+            "sentiment": "4 stars",
+            "score": 0.2742326259613037
+          },
+          {
+            "begin_char": 118,
+            "end_char": 199,
+            "sentiment": "3 stars",
+            "score": 0.256939172744751
+          },
+          {
+            "begin_char": 200,
+            "end_char": 344,
+            "sentiment": "4 stars",
+            "score": 0.3225361704826355
+          },
+          {
+            "begin_char": 345,
+            "end_char": 476,
+            "sentiment": "4 stars",
+            "score": 0.30147677659988403
+          },
+          {
+            "begin_char": 477,
+            "end_char": 583,
+            "sentiment": "4 stars",
+            "score": 0.4899958372116089
+          },
+          {
+            "begin_char": 584,
+            "end_char": 745,
+            "sentiment": "5 stars",
+            "score": 0.4464849829673767
+          },
+          {
+            "begin_char": 746,
+            "end_char": 820,
+            "sentiment": "5 stars",
+            "score": 0.25718414783477783
+          },
+          {
+            "begin_char": 821,
+            "end_char": 1213,
+            "sentiment": "5 stars",
+            "score": 0.3722379207611084
+          },
+          {
+            "begin_char": 1214,
+            "end_char": 1223,
+            "sentiment": "4 stars",
+            "score": 0.23473837971687317
+          },
+          {
+            "begin_char": 1224,
+            "end_char": 1316,
+            "sentiment": "5 stars",
+            "score": 0.2944783568382263
+          },
+          {
+            "begin_char": 1317,
+            "end_char": 1496,
+            "sentiment": "5 stars",
+            "score": 0.5339329838752747
+          },
+          {
+            "begin_char": 1497,
+            "end_char": 1609,
+            "sentiment": "5 stars",
+            "score": 0.34617769718170166
+          },
+          {
+            "begin_char": 1610,
+            "end_char": 1831,
+            "sentiment": "5 stars",
+            "score": 0.44669488072395325
+          },
+          {
+            "begin_char": 1832,
+            "end_char": 2173,
+            "sentiment": "4 stars",
+            "score": 0.4249865412712097
+          },
+          {
+            "begin_char": 2174,
+            "end_char": 2228,
+            "sentiment": "4 stars",
+            "score": 0.32467448711395264
+          },
+          {
+            "begin_char": 2229,
+            "end_char": 2263,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2264,
+            "end_char": 2389,
+            "sentiment": "3 stars",
+            "score": 0.28279468417167664
+          },
+          {
+            "begin_char": 2390,
+            "end_char": 2428,
+            "sentiment": "4 stars",
+            "score": 0.3457353115081787
+          },
+          {
+            "begin_char": 2429,
+            "end_char": 2523,
+            "sentiment": "3 stars",
+            "score": 0.2997066378593445
+          },
+          {
+            "begin_char": 2524,
+            "end_char": 2743,
+            "sentiment": "5 stars",
+            "score": 0.593194842338562
+          },
+          {
+            "begin_char": 2744,
+            "end_char": 2920,
+            "sentiment": "4 stars",
+            "score": 0.31774622201919556
+          },
+          {
+            "begin_char": 2921,
+            "end_char": 2941,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 2942,
+            "end_char": 2992,
+            "sentiment": "1 star",
+            "score": 0.6500288844108582
+          },
+          {
+            "begin_char": 2992,
+            "end_char": 3058,
+            "sentiment": "3 stars",
+            "score": 0.31557586789131165
+          },
+          {
+            "begin_char": 3059,
+            "end_char": 3148,
+            "sentiment": "4 stars",
+            "score": 0.3098345994949341
+          },
+          {
+            "begin_char": 3149,
+            "end_char": 3275,
+            "sentiment": "5 stars",
+            "score": 0.7058002948760986
+          },
+          {
+            "begin_char": 3276,
+            "end_char": 3494,
+            "sentiment": "4 stars",
+            "score": 0.45938971638679504
+          },
+          {
+            "begin_char": 3495,
+            "end_char": 3824,
+            "sentiment": "5 stars",
+            "score": 0.624576210975647
+          },
+          {
+            "begin_char": 3825,
+            "end_char": 4070,
+            "sentiment": "5 stars",
+            "score": 0.5705962181091309
+          },
+          {
+            "begin_char": 4071,
+            "end_char": 4131,
+            "sentiment": "3 stars",
+            "score": 0.31670424342155457
+          },
+          {
+            "begin_char": 4131,
+            "end_char": 4175,
+            "sentiment": "4 stars",
+            "score": 0.31937068700790405
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3306",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

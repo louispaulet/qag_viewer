@@ -1,0 +1,527 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG519",
+    "identifiant": {
+      "numero": "519",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "personnes âgées",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Situation dans les EHPAD"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794582",
+        "mandatRef": "PM797004"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Solidarités, autonomie et personnes handicapées",
+      "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Solidarités, autonomie et personnes handicapées",
+          "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION DANS LES EHPAD <a name=PG20></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Kévin Pfeffer.<br><br><strong>M. Kévin Pfeffer. </strong>Il y a un an éclatait le scandale de la gestion des Ehpad, avec Orpea au banc des accusés : maltraitance par négligence, rationnement de la nourriture et des équipements de soin, manque de personnel ou encore détournement de fonds publics.<br><br>Les membres du Gouvernement et les députés de la majorité défilaient alors sur les plateaux, larmes aux yeux et main sur le cœur, promettant qu'il y aurait un avant et un après. Mais, de l'aveu même du président de l'Observatoire du grand âge, en un an « rien n'a changé » et les contrôles sont faits « à la va-vite ». Bref, rien de nouveau en faveur de nos anciens, qui restent en grande difficulté.<br><br>Vous avez annoncé que les inspections autrefois conduites tous les vingt à trente ans devraient couvrir les 7 500 établissements français d'ici à 2024. Mais avec seulement 18 % d'entre eux contrôlés à ce jour, l'objectif ne sera pas tenu. Pire, il n'existe toujours aucun référentiel comme base de contrôle et le syndicat des directeurs d'Ehpad dresse ce terrible constat : « Le plus souvent, on nous demande d'envoyer par e-mail des documents comptables et administratifs ».<br><br>Alors que la maltraitance se poursuit, vous avez refusé, il y a quelques jours, une proposition de loi de bon sens, présentée par notre collègue Laure Lavalette, visant à créer un droit de visite des parlementaires dans les Ehpad notamment.<br><br>Le taux d'encadrement moyen de trois soignants pour dix résidents est au centre du problème. Dans son rapport publié à la mi-janvier, la Défenseure des droits recommande un taux de huit encadrants pour dix résidents, taux en dessous duquel, malgré toute la bonne volonté et la bienveillance des soignants, il n'est pas possible de travailler sans maltraitance. Ce n'est pas la loi de financement de la sécurité sociale (LFSS) pour 2023, qui ouvre 3 000 recrutements alors que 20 000 seraient nécessaires en urgence, qui résoudra le problème !<br><br>Combien de lanceurs d'alerte, de signalements par plateforme numérique et de rapports vous faudra-t-il encore ? La loi sur le grand âge se fait attendre depuis vingt-cinq ans. Ma question est donc simple : quand nos aînés seront-ils enfin mieux considérés ? <i>(Applaudissements sur les bancs du groupe RN.)</i> <br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre des solidarités, de l'autonomie et des personnes handicapées.<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre des solidarités, de l'autonomie et des personnes handicapées. </i>Vous l'avez rappelé, la publication, il y a un an, du livre <i>Les Fossoyeurs</i> a provoqué un choc de conscience chez l'ensemble de nos compatriotes. Ce terrible choc a été suivi d'une réponse puissante de la part des pouvoirs publics, afin d'éradiquer des établissements ainsi que des activités à domicile ces actes scandaleux, qui ont de nouveau été mis en lumière il y a quelques jours dans plusieurs reportages.<br><br>Cette réponse puissante s'est traduite par le contrôle des établissements : 400 Ehpad ont ainsi été contrôlés immédiatement après la publication de l'ouvrage ; plus de 1 400 l'ont été à ce jour et je peux vous confirmer que l'ensemble des 7 500 établissements que compte notre pays le seront d'ici à la fin de l'année 2024. Ces contrôles ont donné lieu à des réponses fortes : plus de 1 800 injonctions et 11 saisines du procureur de la République. Il faut désormais que le processus s'accélère pour que les choses changent concrètement dans l'ensemble des Ehpad.<br><br>J'ai fait de la lutte contre la maltraitance dans les établissements l'une des priorités de mon action. Je lancerai, dans quelques jours, les états généraux de la lutte contre la maltraitance afin de réunir l'ensemble des parties prenantes, ainsi qu'une plateforme de signalement… <i>(Exclamations sur les bancs des groupes RN et LR.)</i><br><br><strong>M. Alexandre Loubet.</strong> Encore un numéro vert ?<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre . </i>…parce qu'il est important, comme l'ont rendu possible les lanceurs d'alerte, que la parole se libère dans les établissements et que les familles puissent signaler l'ensemble de ces maltraitances. C'est ce qui se passe aujourd'hui.<br><br><strong>M. Fabien Di Filippo.</strong> On en a marre des numéros verts !<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre . </i>Pour faire face au vieillissement de la population, notre pays doit s'organiser, grâce notamment aux 9 milliards d'euros inscrits dans la trajectoire de la branche autonomie, au lancement du recrutement de 50 000 professionnels soignants dans les Ehpad pour les cinq ans à venir…<br><br><strong>M. Jérôme Guedj.</strong> Trois mille seulement cette année ! Ce n'est pas assez !<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre . </i>…et grâce à l'augmentation du nombre de places dans les services de soins infirmiers à domicile. (Mme Astrid Panosyan-Bouvet applaudit.)<br> <p>",
+        "entities": [
+          {
+            "start_char": 42,
+            "end_char": 47,
+            "label": "ORG",
+            "text": "EHPAD"
+          },
+          {
+            "start_char": 82,
+            "end_char": 85,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 126,
+            "end_char": 134,
+            "label": "PER",
+            "text": "M. Kévin"
+          },
+          {
+            "start_char": 238,
+            "end_char": 243,
+            "label": "MISC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 250,
+            "end_char": 290,
+            "label": "MISC",
+            "text": "Orpea au banc des accusés : maltraitance"
+          },
+          {
+            "start_char": 417,
+            "end_char": 432,
+            "label": "MISC",
+            "text": "publics.<br><br"
+          },
+          {
+            "start_char": 448,
+            "end_char": 460,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 650,
+            "end_char": 662,
+            "label": "LOC",
+            "text": "Observatoire"
+          },
+          {
+            "start_char": 1180,
+            "end_char": 1185,
+            "label": "MISC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 1469,
+            "end_char": 1484,
+            "label": "PER",
+            "text": "Laure Lavalette"
+          },
+          {
+            "start_char": 1548,
+            "end_char": 1553,
+            "label": "MISC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 1709,
+            "end_char": 1749,
+            "label": "MISC",
+            "text": "Défenseure des droits recommande un taux"
+          },
+          {
+            "start_char": 1992,
+            "end_char": 1996,
+            "label": "ORG",
+            "text": "LFSS"
+          },
+          {
+            "start_char": 2122,
+            "end_char": 2129,
+            "label": "LOC",
+            "text": "Combien"
+          },
+          {
+            "start_char": 2155,
+            "end_char": 2167,
+            "label": "LOC",
+            "text": "signalements"
+          },
+          {
+            "start_char": 2425,
+            "end_char": 2432,
+            "label": "ORG",
+            "text": "RN.)</i"
+          },
+          {
+            "start_char": 2450,
+            "end_char": 2453,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2494,
+            "end_char": 2496,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2586,
+            "end_char": 2604,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 2766,
+            "end_char": 2779,
+            "label": "ORG",
+            "text": "Fossoyeurs</i"
+          },
+          {
+            "start_char": 3105,
+            "end_char": 3123,
+            "label": "MISC",
+            "text": "reportages.<br><br"
+          },
+          {
+            "start_char": 3204,
+            "end_char": 3209,
+            "label": "LOC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 3681,
+            "end_char": 3694,
+            "label": "LOC",
+            "text": "Ehpad.<br><br"
+          },
+          {
+            "start_char": 4019,
+            "end_char": 4021,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 4025,
+            "end_char": 4048,
+            "label": "LOC",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4052,
+            "end_char": 4085,
+            "label": "PER",
+            "text": "Alexandre Loubet.</strong> Encore"
+          },
+          {
+            "start_char": 4118,
+            "end_char": 4136,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 4398,
+            "end_char": 4417,
+            "label": "PER",
+            "text": "hui.<br><br><strong"
+          },
+          {
+            "start_char": 4428,
+            "end_char": 4448,
+            "label": "PER",
+            "text": "Di Filippo.</strong>"
+          },
+          {
+            "start_char": 4498,
+            "end_char": 4516,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 4798,
+            "end_char": 4803,
+            "label": "MISC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 4849,
+            "end_char": 4877,
+            "label": "PER",
+            "text": "Jérôme Guedj.</strong> Trois"
+          },
+          {
+            "start_char": 4944,
+            "end_char": 4962,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 5095,
+            "end_char": 5121,
+            "label": "PER",
+            "text": "Mme Astrid Panosyan-Bouvet"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 100,
+            "sentiment": "3 stars",
+            "score": 0.3238205015659332
+          },
+          {
+            "begin_char": 101,
+            "end_char": 176,
+            "sentiment": "3 stars",
+            "score": 0.24938905239105225
+          },
+          {
+            "begin_char": 177,
+            "end_char": 433,
+            "sentiment": "3 stars",
+            "score": 0.2470974326133728
+          },
+          {
+            "begin_char": 433,
+            "end_char": 610,
+            "sentiment": "5 stars",
+            "score": 0.5393867492675781
+          },
+          {
+            "begin_char": 611,
+            "end_char": 751,
+            "sentiment": "4 stars",
+            "score": 0.2911902368068695
+          },
+          {
+            "begin_char": 752,
+            "end_char": 841,
+            "sentiment": "2 stars",
+            "score": 0.494414359331131
+          },
+          {
+            "begin_char": 841,
+            "end_char": 992,
+            "sentiment": "5 stars",
+            "score": 0.30292603373527527
+          },
+          {
+            "begin_char": 993,
+            "end_char": 1079,
+            "sentiment": "2 stars",
+            "score": 0.46010270714759827
+          },
+          {
+            "begin_char": 1080,
+            "end_char": 1572,
+            "sentiment": "1 star",
+            "score": 0.3878166973590851
+          },
+          {
+            "begin_char": 1572,
+            "end_char": 1664,
+            "sentiment": "3 stars",
+            "score": 0.4017847776412964
+          },
+          {
+            "begin_char": 1665,
+            "end_char": 1932,
+            "sentiment": "3 stars",
+            "score": 0.3681410551071167
+          },
+          {
+            "begin_char": 1933,
+            "end_char": 2114,
+            "sentiment": "2 stars",
+            "score": 0.3436102867126465
+          },
+          {
+            "begin_char": 2114,
+            "end_char": 2122,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2122,
+            "end_char": 2233,
+            "sentiment": "5 stars",
+            "score": 0.31224071979522705
+          },
+          {
+            "begin_char": 2234,
+            "end_char": 2297,
+            "sentiment": "5 stars",
+            "score": 0.2648293673992157
+          },
+          {
+            "begin_char": 2298,
+            "end_char": 2379,
+            "sentiment": "5 stars",
+            "score": 0.4169234037399292
+          },
+          {
+            "begin_char": 2380,
+            "end_char": 2468,
+            "sentiment": "4 stars",
+            "score": 0.31437042355537415
+          },
+          {
+            "begin_char": 2469,
+            "end_char": 2623,
+            "sentiment": "4 stars",
+            "score": 0.31987905502319336
+          },
+          {
+            "begin_char": 2624,
+            "end_char": 2694,
+            "sentiment": "4 stars",
+            "score": 0.35842639207839966
+          },
+          {
+            "begin_char": 2695,
+            "end_char": 2850,
+            "sentiment": "5 stars",
+            "score": 0.47912946343421936
+          },
+          {
+            "begin_char": 2851,
+            "end_char": 3283,
+            "sentiment": "5 stars",
+            "score": 0.6526086330413818
+          },
+          {
+            "begin_char": 3284,
+            "end_char": 3447,
+            "sentiment": "5 stars",
+            "score": 0.6181344985961914
+          },
+          {
+            "begin_char": 3448,
+            "end_char": 3572,
+            "sentiment": "4 stars",
+            "score": 0.41670656204223633
+          },
+          {
+            "begin_char": 3573,
+            "end_char": 3798,
+            "sentiment": "5 stars",
+            "score": 0.5779629945755005
+          },
+          {
+            "begin_char": 3799,
+            "end_char": 4102,
+            "sentiment": "2 stars",
+            "score": 0.30215227603912354
+          },
+          {
+            "begin_char": 4102,
+            "end_char": 4166,
+            "sentiment": "3 stars",
+            "score": 0.3256625831127167
+          },
+          {
+            "begin_char": 4167,
+            "end_char": 4367,
+            "sentiment": "5 stars",
+            "score": 0.5589608550071716
+          },
+          {
+            "begin_char": 4368,
+            "end_char": 4427,
+            "sentiment": "5 stars",
+            "score": 0.2635110020637512
+          },
+          {
+            "begin_char": 4428,
+            "end_char": 4448,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 4449,
+            "end_char": 4482,
+            "sentiment": "1 star",
+            "score": 0.5221526622772217
+          },
+          {
+            "begin_char": 4482,
+            "end_char": 4546,
+            "sentiment": "3 stars",
+            "score": 0.3256625831127167
+          },
+          {
+            "begin_char": 4547,
+            "end_char": 4907,
+            "sentiment": "3 stars",
+            "score": 0.2994607090950012
+          },
+          {
+            "begin_char": 4908,
+            "end_char": 4928,
+            "sentiment": "2 stars",
+            "score": 0.4550178050994873
+          },
+          {
+            "begin_char": 4928,
+            "end_char": 4992,
+            "sentiment": "3 stars",
+            "score": 0.3256625831127167
+          },
+          {
+            "begin_char": 4993,
+            "end_char": 5093,
+            "sentiment": "4 stars",
+            "score": 0.3359481990337372
+          },
+          {
+            "begin_char": 5094,
+            "end_char": 5137,
+            "sentiment": "5 stars",
+            "score": 0.29832717776298523
+          },
+          {
+            "begin_char": 5138,
+            "end_char": 5141,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-01",
+        "pageJO": "772",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

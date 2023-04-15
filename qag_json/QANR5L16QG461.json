@@ -1,0 +1,665 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG461",
+    "identifiant": {
+      "numero": "461",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "justice",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "ÉTATS GÉNÉRAUX DE LA JUSTICE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719202",
+        "mandatRef": "PM796374"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Justice",
+      "developpe": "Ministère de la justice"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-18",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Justice",
+          "developpe": "Ministère de la justice"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-18",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ÉTATS GÉNÉRAUX DE LA JUSTICE <a name=PG18></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Didier Paris.<br><br><strong>M. Didier Paris. </strong>Monsieur le garde des sceaux, la justice souffre d’une crise chronique qui désespère ses acteurs et mine la confiance qui devrait l’unir aux Français. Les citoyens ont le sentiment d’une justice trop lente qui ne prend pas le temps de les écouter, d’une justice laxiste qui ne prend pas le temps de les protéger. Tout comme le Président de la République, vous avez clairement pris la mesure du mal en présentant, il y a quelques jours, le plan d’action issu des états généraux de la justice. Il s’agit non pas d’un énième raccommodage, mais d’une véritable ambition opérationnelle et concrète, qui s’accompagne de moyens largement à la hauteur des enjeux. Les organisations professionnelles et syndicales de magistrats et d’avocats semblent ne pas s’y être trompées : elles saluent ces mesures, avec une vigilance que l’on doit néanmoins admettre.<br><br>Il faut dire que l’effort est tout bonnement historique, puisque la trajectoire budgétaire du ministère de la justice aboutira à une augmentation de 60 % à l’issue des deux quinquennats. Ces montants permettront d’achever la construction des 15 000 places de prison,…<br><br><strong>M. Patrick Hetzel.</strong> On les attend depuis longtemps, les places de prison !<br><br><strong>M. Didier Paris. </strong>…tout en créant 10 000 emplois supplémentaires et en revalorisant tous les métiers de la justice.<br><br>En outre, vous avez compris que le budget n’est pas tout, raison pour laquelle votre plan ratisse large : il prévoit une soixantaine de mesures, une organisation nouvelle du ministère, une révolution culturelle par le développement massif de la médiation en matière civile. Vous vous attaquez aussi à la refonte du code de procédure pénale, quand bien même elle se ferait à droit constant. Votre plan soulève de grands espoirs, que nous ne pourrons nous permettre de trahir. La représentation nationale s’y engagera, en se préservant, du moins je l’espère, des postures maximalistes stériles, pour placer la justice à la hauteur de la mission fondamentale qui est la sienne.<br><br>Pouvez-vous nous apporter les éléments de fond, de méthode et de calendrier qui nous permettront de faire aboutir, avec vous, cette grande ambition pour la France ? <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br><br><strong>M. Patrick Hetzel.</strong> Séquence publicitaire !<br><br><strong>M. Pierre Cordier.</strong> Allô ?<br><br><strong>Mme la présidente. </strong>La parole est à M. le garde des sceaux, ministre de la justice.<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux, ministre de la justice. </i>Monsieur le député, trente ans d'abandon humain, budgétaire et politique, cela laisse des traces.<br><br><strong>M. Patrick Hetzel.</strong> Et les cinq dernières années, vous en faites quoi ?<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>Nos compatriotes ont exprimé leur sentiment qu'en dépit de l'investissement sans faille des magistrats, des greffiers et des personnels administratifs, la justice est trop lente et complexe. Il faut les entendre, et cela nous oblige. Les professionnels de terrain consultés disent, quant à eux, qu'il faut des moyens supplémentaires, une simplification et une organisation nouvelle. Il faut les entendre, et cela nous oblige.<br><br>Commençons par les moyens. Qu'il me soit permis de remercier Mme la Première ministre : dans la feuille de route qu'elle m'a fixée, elle m'a demandé précisément d'être à l'écoute des acteurs de terrain. Le plan d'embauche est effectivement historique : 1 500 magistrats de plus – il s'agit de créations nettes –, 1 500 greffiers, des contractuels que nous allons pérenniser et institutionnaliser. Je le dis, certains ici n'ont pas voté les budgets relatifs à la justice. Je pense au RN et à LFI.<br><br><strong>M. Sylvain Maillard.</strong> Eh oui !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>En cinq ans, nous aurons investi au total 7,5 milliards d'euros supplémentaires et embauché davantage de magistrats qu'au cours des vingt dernières années. Cet engagement historique prendra forme au printemps dans une loi de programmation.<br><br><strong>M. Sébastien Chenu.</strong> Il lit ses fiches !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>En matière civile, nous développerons la médiation, pour que le juge se recentre sur son cœur de métier, que les avocats aient davantage de possibilités d'intervenir dans la médiation et que le citoyen se réapproprie la décision de justice. Toutes ces mesures relèvent du domaine réglementaire. En matière pénale, nous accomplirons un grand effort de simplification.<br><br>Au-delà des soixante mesures concrètes prévues dans le plan d'action…<br><br><strong>Mme la présidente.</strong> Merci, monsieur le ministre.<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>…les délais seront divisés par deux. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 37,
+            "label": "MISC",
+            "text": "ÉTATS GÉNÉRAUX"
+          },
+          {
+            "start_char": 44,
+            "end_char": 51,
+            "label": "MISC",
+            "text": "JUSTICE"
+          },
+          {
+            "start_char": 86,
+            "end_char": 89,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 130,
+            "end_char": 161,
+            "label": "PER",
+            "text": "M. Didier Paris.<br><br><strong"
+          },
+          {
+            "start_char": 172,
+            "end_char": 177,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 188,
+            "end_char": 196,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 318,
+            "end_char": 320,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 329,
+            "end_char": 337,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 515,
+            "end_char": 541,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 683,
+            "end_char": 685,
+            "label": "LOC",
+            "text": "s’"
+          },
+          {
+            "start_char": 786,
+            "end_char": 788,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 936,
+            "end_char": 938,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 1006,
+            "end_char": 1008,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1060,
+            "end_char": 1062,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1199,
+            "end_char": 1201,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1329,
+            "end_char": 1353,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 1434,
+            "end_char": 1439,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 1539,
+            "end_char": 1554,
+            "label": "MISC",
+            "text": "justice.<br><br"
+          },
+          {
+            "start_char": 1597,
+            "end_char": 1599,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 2058,
+            "end_char": 2060,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 2102,
+            "end_char": 2104,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 2222,
+            "end_char": 2236,
+            "label": "MISC",
+            "text": "sienne.<br><br"
+          },
+          {
+            "start_char": 2237,
+            "end_char": 2243,
+            "label": "PER",
+            "text": "Pouvez"
+          },
+          {
+            "start_char": 2390,
+            "end_char": 2399,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2454,
+            "end_char": 2456,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 2488,
+            "end_char": 2512,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 2555,
+            "end_char": 2584,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong> Allô"
+          },
+          {
+            "start_char": 2602,
+            "end_char": 2605,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2646,
+            "end_char": 2648,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2670,
+            "end_char": 2708,
+            "label": "ORG",
+            "text": "ministre de la justice.<br><br><strong"
+          },
+          {
+            "start_char": 2712,
+            "end_char": 2723,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2791,
+            "end_char": 2799,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2907,
+            "end_char": 2938,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong> Et les"
+          },
+          {
+            "start_char": 3002,
+            "end_char": 3013,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 3476,
+            "end_char": 3501,
+            "label": "MISC",
+            "text": "oblige.<br><br>Commençons"
+          },
+          {
+            "start_char": 3552,
+            "end_char": 3567,
+            "label": "MISC",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 3974,
+            "end_char": 3976,
+            "label": "LOC",
+            "text": "RN"
+          },
+          {
+            "start_char": 3982,
+            "end_char": 4001,
+            "label": "LOC",
+            "text": "LFI.<br><br><strong"
+          },
+          {
+            "start_char": 4002,
+            "end_char": 4030,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong"
+          },
+          {
+            "start_char": 4059,
+            "end_char": 4070,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4373,
+            "end_char": 4397,
+            "label": "PER",
+            "text": "Sébastien Chenu.</strong"
+          },
+          {
+            "start_char": 4437,
+            "end_char": 4448,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4844,
+            "end_char": 4870,
+            "label": "MISC",
+            "text": "simplification.<br><br>Au-"
+          },
+          {
+            "start_char": 4952,
+            "end_char": 4979,
+            "label": "PER",
+            "text": "Mme la présidente.</strong>"
+          },
+          {
+            "start_char": 4980,
+            "end_char": 4985,
+            "label": "MISC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 5027,
+            "end_char": 5038,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 5172,
+            "end_char": 5174,
+            "label": "MISC",
+            "text": "RE"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 104,
+            "sentiment": "3 stars",
+            "score": 0.32574570178985596
+          },
+          {
+            "begin_char": 105,
+            "end_char": 178,
+            "sentiment": "3 stars",
+            "score": 0.2526930570602417
+          },
+          {
+            "begin_char": 179,
+            "end_char": 188,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 188,
+            "end_char": 338,
+            "sentiment": "3 stars",
+            "score": 0.3297249674797058
+          },
+          {
+            "begin_char": 339,
+            "end_char": 500,
+            "sentiment": "2 stars",
+            "score": 0.4519495666027069
+          },
+          {
+            "begin_char": 501,
+            "end_char": 679,
+            "sentiment": "5 stars",
+            "score": 0.2475370317697525
+          },
+          {
+            "begin_char": 680,
+            "end_char": 843,
+            "sentiment": "4 stars",
+            "score": 0.5133621096611023
+          },
+          {
+            "begin_char": 844,
+            "end_char": 1229,
+            "sentiment": "4 stars",
+            "score": 0.4721498489379883
+          },
+          {
+            "begin_char": 1230,
+            "end_char": 1353,
+            "sentiment": "3 stars",
+            "score": 0.3154166340827942
+          },
+          {
+            "begin_char": 1354,
+            "end_char": 1440,
+            "sentiment": "1 star",
+            "score": 0.23419472575187683
+          },
+          {
+            "begin_char": 1441,
+            "end_char": 1582,
+            "sentiment": "5 stars",
+            "score": 0.5324008464813232
+          },
+          {
+            "begin_char": 1583,
+            "end_char": 1828,
+            "sentiment": "4 stars",
+            "score": 0.27534863352775574
+          },
+          {
+            "begin_char": 1829,
+            "end_char": 1944,
+            "sentiment": "1 star",
+            "score": 0.25304490327835083
+          },
+          {
+            "begin_char": 1945,
+            "end_char": 2029,
+            "sentiment": "5 stars",
+            "score": 0.7114756107330322
+          },
+          {
+            "begin_char": 2030,
+            "end_char": 2098,
+            "sentiment": "3 stars",
+            "score": 0.3100152909755707
+          },
+          {
+            "begin_char": 2099,
+            "end_char": 2111,
+            "sentiment": "5 stars",
+            "score": 0.4278506338596344
+          },
+          {
+            "begin_char": 2112,
+            "end_char": 2401,
+            "sentiment": "5 stars",
+            "score": 0.3833499550819397
+          },
+          {
+            "begin_char": 2402,
+            "end_char": 2512,
+            "sentiment": "3 stars",
+            "score": 0.38433733582496643
+          },
+          {
+            "begin_char": 2513,
+            "end_char": 2536,
+            "sentiment": "1 star",
+            "score": 0.43319272994995117
+          },
+          {
+            "begin_char": 2536,
+            "end_char": 2586,
+            "sentiment": "2 stars",
+            "score": 0.2939719259738922
+          },
+          {
+            "begin_char": 2586,
+            "end_char": 2620,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2621,
+            "end_char": 2786,
+            "sentiment": "4 stars",
+            "score": 0.31975746154785156
+          },
+          {
+            "begin_char": 2787,
+            "end_char": 2791,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2791,
+            "end_char": 2983,
+            "sentiment": "2 stars",
+            "score": 0.3531624674797058
+          },
+          {
+            "begin_char": 2983,
+            "end_char": 3053,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 3054,
+            "end_char": 3058,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3058,
+            "end_char": 3248,
+            "sentiment": "4 stars",
+            "score": 0.3299817740917206
+          },
+          {
+            "begin_char": 3249,
+            "end_char": 3291,
+            "sentiment": "5 stars",
+            "score": 0.4446927607059479
+          },
+          {
+            "begin_char": 3292,
+            "end_char": 3440,
+            "sentiment": "5 stars",
+            "score": 0.39294499158859253
+          },
+          {
+            "begin_char": 3441,
+            "end_char": 3517,
+            "sentiment": "5 stars",
+            "score": 0.43935275077819824
+          },
+          {
+            "begin_char": 3518,
+            "end_char": 3693,
+            "sentiment": "4 stars",
+            "score": 0.39263883233070374
+          },
+          {
+            "begin_char": 3694,
+            "end_char": 3887,
+            "sentiment": "5 stars",
+            "score": 0.4108947217464447
+          },
+          {
+            "begin_char": 3888,
+            "end_char": 3961,
+            "sentiment": "1 star",
+            "score": 0.30116137862205505
+          },
+          {
+            "begin_char": 3962,
+            "end_char": 4031,
+            "sentiment": "5 stars",
+            "score": 0.26113542914390564
+          },
+          {
+            "begin_char": 4032,
+            "end_char": 4040,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 4040,
+            "end_char": 4110,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 4111,
+            "end_char": 4115,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4115,
+            "end_char": 4270,
+            "sentiment": "5 stars",
+            "score": 0.4277929961681366
+          },
+          {
+            "begin_char": 4271,
+            "end_char": 4398,
+            "sentiment": "4 stars",
+            "score": 0.35171180963516235
+          },
+          {
+            "begin_char": 4399,
+            "end_char": 4418,
+            "sentiment": "4 stars",
+            "score": 0.3277214467525482
+          },
+          {
+            "begin_char": 4418,
+            "end_char": 4488,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 4489,
+            "end_char": 4493,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4493,
+            "end_char": 4733,
+            "sentiment": "5 stars",
+            "score": 0.5367664694786072
+          },
+          {
+            "begin_char": 4734,
+            "end_char": 4787,
+            "sentiment": "4 stars",
+            "score": 0.32507526874542236
+          },
+          {
+            "begin_char": 4788,
+            "end_char": 4979,
+            "sentiment": "5 stars",
+            "score": 0.44939449429512024
+          },
+          {
+            "begin_char": 4980,
+            "end_char": 5078,
+            "sentiment": "5 stars",
+            "score": 0.3389037847518921
+          },
+          {
+            "begin_char": 5079,
+            "end_char": 5119,
+            "sentiment": "2 stars",
+            "score": 0.4028678238391876
+          },
+          {
+            "begin_char": 5120,
+            "end_char": 5195,
+            "sentiment": "3 stars",
+            "score": 0.34096047282218933
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-18",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-18",
+        "pageJO": "460",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

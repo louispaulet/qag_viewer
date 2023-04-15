@@ -1,0 +1,767 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG335",
+    "identifiant": {
+      "numero": "335",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "pauvreté",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Lutte contre la pauvreté et prime de Noël"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA333421",
+        "mandatRef": "PM796881"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Première ministre",
+      "developpe": "Première ministre"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Première ministre",
+          "developpe": "Première ministre"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> LUTTE CONTRE LA PAUVRETÉ ET PRIME DE NOËL <a name=PG5></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Bertrand Pancher.<br><br><strong>M. Bertrand Pancher. </strong>Nos jeunes sont en quête d'espérance et nos aînés sont abandonnés. Les plus riches continuent de s'enrichir et la classe moyenne s'appauvrit. Quant aux pauvres, ce sont les grands oubliés. Je veux vous faire part, madame la Première ministre, de ma grande inquiétude quant aux profondes inégalités qui minent notre pays. Une étude récente de l'Insee montre que votre politique fiscale a surtout profité aux plus riches. <i>(Mmes Ségolène Amiot et Eva Sas, ainsi que MM. Manuel Bompard et Hubert Wulfranc applaudissent.) </i>Et Louis Gallois – qui n'est pas un gauchiste – résume bien ce sentiment d'injustice : « On tape sur les précaires. On ne taxe pas les superprofits mais on taxe les chômeurs. Il y a un problème. » (Applaudissements sur les bancs du groupe LIOT et quelques bancs du groupe LFI-NUPES. – Mme Eva Sas applaudit également.) <br><br>La période de Noël approche. Combien n'auront rien ou si peu à mettre sous le sapin ? Je veux vous parler de la prime de Noël, que seuls 2 millions de Français toucheront : elle ne sera versée ni à ceux qui perçoivent une retraite de misère, ni aux jeunes sans ressources ni aux personnes en situation de handicap ! Ce n'est pas normal, ce n'est pas juste. Je vous demande donc d'élargir son versement à tous les bénéficiaires des minima sociaux. Il faut aussi la revaloriser, car elle ne l'a pas été depuis 2007. Compte tenu de l'inflation, elle devrait atteindre près de 200 euros.<br><br>Cette prime, c'est l'urgence. Qu'allez-vous faire pour le long terme ? Le grand plan de lutte contre la pauvreté de 2019 a été repoussé puis abandonné. Le chèque alimentaire, repoussé puis enterré. Le revenu universel d'activité, promesse du Président, a été patiemment balayé. Votre dispositif de solidarité à la source pour lutter contre le non-recours aux prestations sociales connaîtra-t-il le même sort ? Vous annoncez de premières expérimentations en 2023. Où en sommes-nous ? Faisons très vite, madame la Première ministre, avant que notre pays ne se déchire davantage. Il est temps d'agir enfin pour les Français les plus pauvres.<i> (Applaudissements sur les bancs du groupe LIOT et sur quelques bancs des groupes LFI-NUPES, SOC, Écolo-NUPES et GDR-NUPES. – M. Nicolas Dupont-Aignan applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la Première ministre.<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre. </i>L'une des grandes batailles de mon gouvernement, vous le savez, c'est l'égalité des chances – et la lutte contre la pauvreté est au cœur de l'égalité des chances.<br><br><strong>M. Jean-Yves Bony.</strong> Il n'y a jamais eu autant d'écarts.<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre . </i>C'est pourquoi nous agissons de manière résolue et déterminée, notamment grâce à la stratégie nationale de prévention et de lutte contre la pauvreté 2018-2022. Cette stratégie, ce sont des actions directes et concrètes pour permettre aux familles précaires d'avoir un toit et de se soigner, et pour garantir une alimentation suffisante et équilibrée à leurs enfants. Nous voulons agir directement sur la pauvreté en répondant aux problèmes quotidiens. Notre stratégie, c'est aussi une action pour l'égalité des chances à destination de notre jeunesse. Je pense aux plus de 100 000 élèves qui bénéficient de repas à la cantine pour moins de 1 euro, à la création des centres et maisons participatifs, ou encore au déploiement des accueils sociaux de proximité qui couvrent désormais plus de 90 % du territoire.<br><br>Mesdames et messieurs les députés, le sujet de la pauvreté appelle à l'humilité, toujours, mais nous avançons. En dépit de la crise sanitaire, le taux de pauvreté n'a pas augmenté au cours des trois dernières années et il reste à un niveau bas en comparaison internationale. Le nombre d'allocataires du RSA diminue depuis novembre 2020 ; en juin dernier, il est repassé sous son niveau de janvier 2017.<br><br>Mais aujourd'hui – c'est le sens de votre question, monsieur le président Pancher –, nous devons amplifier nos efforts. La stratégie pauvreté 2018-2022 arrive à son terme et nous avons lancé les travaux avec les collectivités et les associations pour préparer la suite. Ces travaux se concrétiseront par un pacte des solidarités structuré autour de quatre axes : la lutte contre les inégalités à la racine ; le retour à l'activité, clé d'une sortie durable de la pauvreté ; le refus de se résigner à la grande marginalité ; la transition écologique solidaire. Nous préparons l'avenir, vous le voyez, mais il nous faut aussi traiter l'urgence parce que l'inflation appelle une réponse forte et rapide, surtout pour les plus fragiles. C'est pour cela que nous avons décidé, dès cet été, de revaloriser de manière anticipée les prestations sociales à hauteur de 4 %.<br><br><strong>M. Fabien Di Filippo.</strong> Vous feriez mieux d'aider les gens qui travaillent.<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre . </i>Elles seront naturellement revalorisées à nouveau le 1er avril prochain, à hauteur de l'inflation. C'est pour cela également que nous avons pris les mesures les plus protectrices d'Europe pour limiter la hausse des prix du gaz et de l'électricité. C'est pour cela que nous avons revalorisé de 50 %, le 1er novembre, l'allocation de soutien familial pour les parents qui élèvent seuls leurs enfants. C'est pour cela aussi que nous avons mis en place une aide exceptionnelle de solidarité qui a bénéficié à 11 millions de personnes. Le 15 décembre prochain, nous verserons de manière automatique la prime de Noël à plus de 2,3 millions de ménages, notamment aux bénéficiaires du RSA et de l'allocation de solidarité spécifique, pour un montant de 500 millions d'euros. Cette prime traduit l'engagement constant de mon gouvernement à soutenir le pouvoir d'achat des ménages et à accompagner ceux qui en ont le plus besoin. Nous ne laisserons personne au bord du chemin.<i> (Applaudissements sur les bancs du groupe RE et sur quelques bancs du groupe Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 35,
+            "label": "ORG",
+            "text": "LUTTE CONTRE"
+          },
+          {
+            "start_char": 39,
+            "end_char": 47,
+            "label": "ORG",
+            "text": "PAUVRETÉ"
+          },
+          {
+            "start_char": 60,
+            "end_char": 64,
+            "label": "MISC",
+            "text": "NOËL"
+          },
+          {
+            "start_char": 73,
+            "end_char": 80,
+            "label": "PER",
+            "text": "PG5></a"
+          },
+          {
+            "start_char": 98,
+            "end_char": 101,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 142,
+            "end_char": 144,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 145,
+            "end_char": 153,
+            "label": "PER",
+            "text": "Bertrand"
+          },
+          {
+            "start_char": 181,
+            "end_char": 197,
+            "label": "PER",
+            "text": "Bertrand Pancher"
+          },
+          {
+            "start_char": 552,
+            "end_char": 557,
+            "label": "ORG",
+            "text": "Insee"
+          },
+          {
+            "start_char": 646,
+            "end_char": 651,
+            "label": "PER",
+            "text": "Amiot"
+          },
+          {
+            "start_char": 655,
+            "end_char": 662,
+            "label": "PER",
+            "text": "Eva Sas"
+          },
+          {
+            "start_char": 674,
+            "end_char": 677,
+            "label": "MISC",
+            "text": "MM."
+          },
+          {
+            "start_char": 678,
+            "end_char": 692,
+            "label": "PER",
+            "text": "Manuel Bompard"
+          },
+          {
+            "start_char": 696,
+            "end_char": 711,
+            "label": "PER",
+            "text": "Hubert Wulfranc"
+          },
+          {
+            "start_char": 735,
+            "end_char": 750,
+            "label": "PER",
+            "text": "Louis Gallois –"
+          },
+          {
+            "start_char": 930,
+            "end_char": 946,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 971,
+            "end_char": 975,
+            "label": "ORG",
+            "text": "LIOT"
+          },
+          {
+            "start_char": 1004,
+            "end_char": 1013,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1017,
+            "end_char": 1024,
+            "label": "PER",
+            "text": "Mme Eva"
+          },
+          {
+            "start_char": 1073,
+            "end_char": 1077,
+            "label": "MISC",
+            "text": "Noël"
+          },
+          {
+            "start_char": 1088,
+            "end_char": 1095,
+            "label": "LOC",
+            "text": "Combien"
+          },
+          {
+            "start_char": 1180,
+            "end_char": 1184,
+            "label": "MISC",
+            "text": "Noël"
+          },
+          {
+            "start_char": 1210,
+            "end_char": 1218,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1636,
+            "end_char": 1649,
+            "label": "MISC",
+            "text": "euros.<br><br"
+          },
+          {
+            "start_char": 1892,
+            "end_char": 1901,
+            "label": "PER",
+            "text": "Président"
+          },
+          {
+            "start_char": 2152,
+            "end_char": 2161,
+            "label": "PER",
+            "text": "madame la"
+          },
+          {
+            "start_char": 2262,
+            "end_char": 2270,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2293,
+            "end_char": 2309,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 2334,
+            "end_char": 2338,
+            "label": "ORG",
+            "text": "LIOT"
+          },
+          {
+            "start_char": 2373,
+            "end_char": 2382,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2384,
+            "end_char": 2387,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2389,
+            "end_char": 2400,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2404,
+            "end_char": 2413,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2420,
+            "end_char": 2441,
+            "label": "PER",
+            "text": "Nicolas Dupont-Aignan"
+          },
+          {
+            "start_char": 2483,
+            "end_char": 2486,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2527,
+            "end_char": 2542,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 2568,
+            "end_char": 2581,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 2805,
+            "end_char": 2828,
+            "label": "PER",
+            "text": "Jean-Yves Bony.</strong"
+          },
+          {
+            "start_char": 2881,
+            "end_char": 2894,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 3736,
+            "end_char": 3763,
+            "label": "MISC",
+            "text": "territoire.<br><br>Mesdames"
+          },
+          {
+            "start_char": 4239,
+            "end_char": 4248,
+            "label": "PER",
+            "text": "Pancher –"
+          },
+          {
+            "start_char": 5054,
+            "end_char": 5073,
+            "label": "PER",
+            "text": "Di Filippo.</strong"
+          },
+          {
+            "start_char": 5142,
+            "end_char": 5155,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 5380,
+            "end_char": 5386,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 5805,
+            "end_char": 5809,
+            "label": "MISC",
+            "text": "Noël"
+          },
+          {
+            "start_char": 6170,
+            "end_char": 6186,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 6204,
+            "end_char": 6213,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 6246,
+            "end_char": 6258,
+            "label": "ORG",
+            "text": "Dem.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 116,
+            "sentiment": "5 stars",
+            "score": 0.33665892481803894
+          },
+          {
+            "begin_char": 117,
+            "end_char": 198,
+            "sentiment": "3 stars",
+            "score": 0.25390106439590454
+          },
+          {
+            "begin_char": 199,
+            "end_char": 208,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 208,
+            "end_char": 274,
+            "sentiment": "5 stars",
+            "score": 0.26823246479034424
+          },
+          {
+            "begin_char": 275,
+            "end_char": 349,
+            "sentiment": "2 stars",
+            "score": 0.25493988394737244
+          },
+          {
+            "begin_char": 350,
+            "end_char": 396,
+            "sentiment": "5 stars",
+            "score": 0.37321773171424866
+          },
+          {
+            "begin_char": 397,
+            "end_char": 528,
+            "sentiment": "5 stars",
+            "score": 0.5906592011451721
+          },
+          {
+            "begin_char": 529,
+            "end_char": 627,
+            "sentiment": "3 stars",
+            "score": 0.2608838975429535
+          },
+          {
+            "begin_char": 628,
+            "end_char": 645,
+            "sentiment": "3 stars",
+            "score": 0.2725849449634552
+          },
+          {
+            "begin_char": 646,
+            "end_char": 651,
+            "sentiment": "4 stars",
+            "score": 0.26132142543792725
+          },
+          {
+            "begin_char": 652,
+            "end_char": 663,
+            "sentiment": "3 stars",
+            "score": 0.2556637227535248
+          },
+          {
+            "begin_char": 664,
+            "end_char": 847,
+            "sentiment": "3 stars",
+            "score": 0.250701904296875
+          },
+          {
+            "begin_char": 848,
+            "end_char": 906,
+            "sentiment": "1 star",
+            "score": 0.2929609417915344
+          },
+          {
+            "begin_char": 907,
+            "end_char": 1015,
+            "sentiment": "3 stars",
+            "score": 0.3089282512664795
+          },
+          {
+            "begin_char": 1015,
+            "end_char": 1024,
+            "sentiment": "3 stars",
+            "score": 0.27539190649986267
+          },
+          {
+            "begin_char": 1025,
+            "end_char": 1059,
+            "sentiment": "5 stars",
+            "score": 0.4073410928249359
+          },
+          {
+            "begin_char": 1059,
+            "end_char": 1087,
+            "sentiment": "4 stars",
+            "score": 0.31108978390693665
+          },
+          {
+            "begin_char": 1088,
+            "end_char": 1144,
+            "sentiment": "1 star",
+            "score": 0.4759608805179596
+          },
+          {
+            "begin_char": 1145,
+            "end_char": 1374,
+            "sentiment": "1 star",
+            "score": 0.4393659234046936
+          },
+          {
+            "begin_char": 1375,
+            "end_char": 1415,
+            "sentiment": "1 star",
+            "score": 0.36422160267829895
+          },
+          {
+            "begin_char": 1416,
+            "end_char": 1505,
+            "sentiment": "5 stars",
+            "score": 0.2737160921096802
+          },
+          {
+            "begin_char": 1506,
+            "end_char": 1572,
+            "sentiment": "4 stars",
+            "score": 0.29810377955436707
+          },
+          {
+            "begin_char": 1573,
+            "end_char": 1679,
+            "sentiment": "5 stars",
+            "score": 0.261147677898407
+          },
+          {
+            "begin_char": 1680,
+            "end_char": 1720,
+            "sentiment": "3 stars",
+            "score": 0.25477373600006104
+          },
+          {
+            "begin_char": 1721,
+            "end_char": 1801,
+            "sentiment": "2 stars",
+            "score": 0.39873597025871277
+          },
+          {
+            "begin_char": 1802,
+            "end_char": 1847,
+            "sentiment": "1 star",
+            "score": 0.46931853890419006
+          },
+          {
+            "begin_char": 1848,
+            "end_char": 1927,
+            "sentiment": "1 star",
+            "score": 0.3575056493282318
+          },
+          {
+            "begin_char": 1928,
+            "end_char": 2059,
+            "sentiment": "3 stars",
+            "score": 0.32930445671081543
+          },
+          {
+            "begin_char": 2060,
+            "end_char": 2112,
+            "sentiment": "5 stars",
+            "score": 0.30164164304733276
+          },
+          {
+            "begin_char": 2113,
+            "end_char": 2132,
+            "sentiment": "1 star",
+            "score": 0.25817832350730896
+          },
+          {
+            "begin_char": 2133,
+            "end_char": 2226,
+            "sentiment": "5 stars",
+            "score": 0.37681499123573303
+          },
+          {
+            "begin_char": 2227,
+            "end_char": 2414,
+            "sentiment": "5 stars",
+            "score": 0.4497225880622864
+          },
+          {
+            "begin_char": 2415,
+            "end_char": 2501,
+            "sentiment": "4 stars",
+            "score": 0.37237006425857544
+          },
+          {
+            "begin_char": 2502,
+            "end_char": 2600,
+            "sentiment": "3 stars",
+            "score": 0.28298741579055786
+          },
+          {
+            "begin_char": 2601,
+            "end_char": 2619,
+            "sentiment": "4 stars",
+            "score": 0.3165116310119629
+          },
+          {
+            "begin_char": 2620,
+            "end_char": 2624,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2624,
+            "end_char": 2829,
+            "sentiment": "5 stars",
+            "score": 0.41635966300964355
+          },
+          {
+            "begin_char": 2830,
+            "end_char": 2933,
+            "sentiment": "5 stars",
+            "score": 0.29266178607940674
+          },
+          {
+            "begin_char": 2934,
+            "end_char": 3097,
+            "sentiment": "5 stars",
+            "score": 0.43085458874702454
+          },
+          {
+            "begin_char": 3098,
+            "end_char": 3304,
+            "sentiment": "5 stars",
+            "score": 0.6342093348503113
+          },
+          {
+            "begin_char": 3305,
+            "end_char": 3389,
+            "sentiment": "5 stars",
+            "score": 0.5396153926849365
+          },
+          {
+            "begin_char": 3390,
+            "end_char": 3489,
+            "sentiment": "5 stars",
+            "score": 0.4195638597011566
+          },
+          {
+            "begin_char": 3490,
+            "end_char": 3865,
+            "sentiment": "5 stars",
+            "score": 0.44778361916542053
+          },
+          {
+            "begin_char": 3866,
+            "end_char": 4029,
+            "sentiment": "3 stars",
+            "score": 0.3741523325443268
+          },
+          {
+            "begin_char": 4030,
+            "end_char": 4092,
+            "sentiment": "3 stars",
+            "score": 0.3152558207511902
+          },
+          {
+            "begin_char": 4093,
+            "end_char": 4284,
+            "sentiment": "3 stars",
+            "score": 0.28151506185531616
+          },
+          {
+            "begin_char": 4285,
+            "end_char": 4434,
+            "sentiment": "5 stars",
+            "score": 0.44124191999435425
+          },
+          {
+            "begin_char": 4435,
+            "end_char": 4572,
+            "sentiment": "4 stars",
+            "score": 0.4189058542251587
+          },
+          {
+            "begin_char": 4573,
+            "end_char": 4638,
+            "sentiment": "5 stars",
+            "score": 0.5048244595527649
+          },
+          {
+            "begin_char": 4639,
+            "end_char": 4688,
+            "sentiment": "5 stars",
+            "score": 0.3239457905292511
+          },
+          {
+            "begin_char": 4689,
+            "end_char": 4724,
+            "sentiment": "5 stars",
+            "score": 0.36715489625930786
+          },
+          {
+            "begin_char": 4725,
+            "end_char": 4897,
+            "sentiment": "5 stars",
+            "score": 0.5006633996963501
+          },
+          {
+            "begin_char": 4898,
+            "end_char": 5053,
+            "sentiment": "4 stars",
+            "score": 0.34362509846687317
+          },
+          {
+            "begin_char": 5054,
+            "end_char": 5074,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 5075,
+            "end_char": 5194,
+            "sentiment": "3 stars",
+            "score": 0.2727557122707367
+          },
+          {
+            "begin_char": 5195,
+            "end_char": 5297,
+            "sentiment": "3 stars",
+            "score": 0.25744694471359253
+          },
+          {
+            "begin_char": 5298,
+            "end_char": 5446,
+            "sentiment": "5 stars",
+            "score": 0.6242009997367859
+          },
+          {
+            "begin_char": 5447,
+            "end_char": 5597,
+            "sentiment": "5 stars",
+            "score": 0.4033207595348358
+          },
+          {
+            "begin_char": 5598,
+            "end_char": 5729,
+            "sentiment": "5 stars",
+            "score": 0.6345311403274536
+          },
+          {
+            "begin_char": 5730,
+            "end_char": 5965,
+            "sentiment": "5 stars",
+            "score": 0.4796384572982788
+          },
+          {
+            "begin_char": 5966,
+            "end_char": 6118,
+            "sentiment": "5 stars",
+            "score": 0.6386146545410156
+          },
+          {
+            "begin_char": 6119,
+            "end_char": 6259,
+            "sentiment": "3 stars",
+            "score": 0.2701362073421478
+          },
+          {
+            "begin_char": 6260,
+            "end_char": 6263,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-30",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-30",
+        "pageJO": "6134",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

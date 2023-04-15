@@ -1,0 +1,857 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG516",
+    "identifiant": {
+      "numero": "516",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "voirie",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Augmentation des tarifs des péages routiers"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795746",
+        "mandatRef": "PM797661"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> AUGMENTATION DES TARIFS DES PÉAGES ROUTIERS <a name=PG17></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Antoine Léaument.<br><br><strong>M. Antoine Léaument. </strong>Le 1er février, les tarifs des péages d'autoroute vont augmenter de près de 5 %. Face à ce racket, les gilets jaunes de Lyon mènent aujourd'hui une opération « péage gratuit » et je les soutiens. <i>(Applaudissements sur les bancs du groupe LFI-NUPES. – M. Benjamin Lucas applaudit également.) </i>Pour reprendre les mots de la CGT Énergie de Marseille, « c'est illégal, mais c'est moral ».<br><br>Selon <i>Le Canard enchaîné</i>, un rapport remis au ministre de l'économie il y a deux ans préconisait de baisser le prix de péages de 60 % mais vous l'avez gardé secret.<br><br><strong>M. Benjamin Lucas.</strong> C'est scandaleux !<br><br><strong>M. Antoine Léaument. </strong>M. Le Maire a déclaré au Medef : « un superprofit, je ne sais pas ce que c'est ». Eh bien, nous allons vous le dire : en 2021, les sociétés d'autoroutes ont réalisé 3,9 milliards de profits. <i>(Applaudissements sur les bancs du groupe LFI-NUPES. – M. Benjamin Lucas applaudit également.) </i>Et que font-elles fait de ces superprofits ? Augmentent-elles les salaires ? Non, elles donnent tout aux actionnaires : 3,3 milliards en 2023, soit 85 % des bénéfices !<br><br>Jean-Luc Mélenchon a raison : oui, accumuler ces milliards sur le dos des Français est immoral ; oui, ces actionnaires sont des parasites !<br><br><strong>M. Pierre Cordier.</strong> Il est bien placé pour en parler, celui-là !<br><br><strong>M. Antoine Léaument. </strong>Le Gouvernement s'engage-t-il à rendre public le rapport sur les autoroutes jusqu'à maintenant gardé secret ? Le ministre de l'économie et d'autres membres du Gouvernement ont-ils à titre personnel des conflits d'intérêts avec ces entreprises, chose qui pourrait expliquer un tel laxisme ? Le ministre va-t-il faire cesser le racket des automobilistes ? <i>(Applaudissements sur les bancs du groupe LFI-NUPES. - M. Benjamin Lucas applaudit également.)</i><br><br>À ces trois questions, j'ajoute un conseil : comme le proposait Jean-Luc Mélenchon, renationalisez les autoroutes, 77 % des Français y sont favorables ! <i>(Mêmes mouvements.)</i> Faites enfin respecter l'intérêt général et la volonté du peuple afin qu'ils l'emportent sur l'intérêt privé et l'égoïsme des riches. (Applaudissements sur les bancs du groupe LFI-NUPES et sur plusieurs bancs du groupe Écolo-NUPES.)<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>J'ai bien noté que votre question s'adressait à Bruno Le Maire et je vais vous y apporter une réponse.<br><br><strong>M. Maxime Minot.</strong> Quelle polyvalence !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Le 1er février, il y aura une augmentation des tarifs des péages, conformément aux clauses inscrites dans les contrats, qui prévoient une indexation sur l'inflation. Celle-ci n'est toutefois pas entièrement répercutée, selon les souhaits du Gouvernement. En outre, selon une clause spécifique, les véhicules électriques bénéficient d'une réduction de 5 % des prix au titre de la transition écologique.<br><br>L'essentiel de votre question n'est pas là, je l'ai bien compris. Si un rapport a été demandé, c'est pour obtenir davantage des sociétés concessionnaires d'autoroute (SCA) du point de vue fiscal.<br><br><strong>Mme Clémence Guetté.</strong> Pourquoi l'avoir gardé secret ?<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Nous avons en ce moment deux contentieux avec des sociétés d'autoroute. Pour le premier, qui porte sur l'indexation de la taxe d'aménagement du territoire (TAT), nous avons gagné une manche le 13 janvier dernier devant le tribunal administratif.<br><br><strong>Mme Clémence Guetté.</strong> Et vous, vous savez ce que c'est, les superprofits ?<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Le deuxième renvoie, quant à lui, à la contribution exceptionnelle des concessions autoroutières.<br><br><strong>M. Patrick Hetzel.</strong> Comment répondre sans répondre !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Ce rapport a pour but de nourrir l'argumentation du Gouvernement et le fait que des contentieux soient en cours explique qu'il n'a pas été encore publié. L'enjeu pour nous est de chercher l'argent dans ces profits importants, avec une obsession : la fin des concessions.<br><br><strong>Mme Émilie Bonnivard.</strong> Nous l'attendons toujours !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Vous dites que la solution serait de nationaliser les autoroutes mais cela impliquerait de consacrer 40 milliards d'argent public à leur rachat pour ensuite les financer. Ce n'est pas ce que la transition écologique commande de faire. Il faut au contraire prélever de l'argent sur les sociétés d'autoroutes pour être en mesure de financer le report modal, notamment sur le ferroviaire. Les SCA sont à ce titre les premières contributrices de l'AFITF France – Agence de financement des infrastructures de transport de France. <i>(M. David Valence applaudit.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Antoine Léaument.<br><br><strong>M. Antoine Léaument. </strong>Eh bien, monsieur le ministre, vous devriez suivre les recommandations du rapport, alors : récupérez le contrôle des autoroutes dès 2026 ou taxez les sociétés à 63 %, voilà ce qu'il faut faire ! Là, vous ne faites qu'attendre et vous rendez l'État impuissant. Un peu de bonne volonté : les Français se font racketter et ils en ont ras le bol ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES. – M. Benjamin Lucas et M. Jérôme Guedj applaudissent également.) </i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 66,
+            "label": "ORG",
+            "text": "AUGMENTATION DES TARIFS DES PÉAGES ROUTIERS"
+          },
+          {
+            "start_char": 101,
+            "end_char": 104,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 145,
+            "end_char": 148,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 148,
+            "end_char": 183,
+            "label": "PER",
+            "text": "Antoine Léaument.<br><br><strong>M."
+          },
+          {
+            "start_char": 184,
+            "end_char": 200,
+            "label": "PER",
+            "text": "Antoine Léaument"
+          },
+          {
+            "start_char": 331,
+            "end_char": 335,
+            "label": "LOC",
+            "text": "Lyon"
+          },
+          {
+            "start_char": 452,
+            "end_char": 461,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 468,
+            "end_char": 482,
+            "label": "PER",
+            "text": "Benjamin Lucas"
+          },
+          {
+            "start_char": 539,
+            "end_char": 553,
+            "label": "ORG",
+            "text": "CGT Énergie de"
+          },
+          {
+            "start_char": 554,
+            "end_char": 563,
+            "label": "LOC",
+            "text": "Marseille"
+          },
+          {
+            "start_char": 621,
+            "end_char": 639,
+            "label": "MISC",
+            "text": "Canard enchaîné</i"
+          },
+          {
+            "start_char": 799,
+            "end_char": 823,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong>"
+          },
+          {
+            "start_char": 861,
+            "end_char": 877,
+            "label": "PER",
+            "text": "Antoine Léaument"
+          },
+          {
+            "start_char": 913,
+            "end_char": 918,
+            "label": "ORG",
+            "text": "Medef"
+          },
+          {
+            "start_char": 1124,
+            "end_char": 1133,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1140,
+            "end_char": 1154,
+            "label": "PER",
+            "text": "Benjamin Lucas"
+          },
+          {
+            "start_char": 1350,
+            "end_char": 1375,
+            "label": "MISC",
+            "text": "br><br>Jean-Luc Mélenchon"
+          },
+          {
+            "start_char": 1431,
+            "end_char": 1439,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1515,
+            "end_char": 1538,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 1603,
+            "end_char": 1619,
+            "label": "PER",
+            "text": "Antoine Léaument"
+          },
+          {
+            "start_char": 1633,
+            "end_char": 1645,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1789,
+            "end_char": 1801,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2029,
+            "end_char": 2038,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2045,
+            "end_char": 2059,
+            "label": "PER",
+            "text": "Benjamin Lucas"
+          },
+          {
+            "start_char": 2157,
+            "end_char": 2175,
+            "label": "PER",
+            "text": "Jean-Luc Mélenchon"
+          },
+          {
+            "start_char": 2217,
+            "end_char": 2225,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2247,
+            "end_char": 2255,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 2408,
+            "end_char": 2438,
+            "label": "MISC",
+            "text": "Applaudissements sur les bancs"
+          },
+          {
+            "start_char": 2449,
+            "end_char": 2458,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2492,
+            "end_char": 2520,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)<br><br><strong"
+          },
+          {
+            "start_char": 2521,
+            "end_char": 2524,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2565,
+            "end_char": 2567,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2658,
+            "end_char": 2671,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 2815,
+            "end_char": 2829,
+            "label": "PER",
+            "text": "Bruno Le Maire"
+          },
+          {
+            "start_char": 2888,
+            "end_char": 2909,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 2947,
+            "end_char": 2960,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3236,
+            "end_char": 3248,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3571,
+            "end_char": 3574,
+            "label": "LOC",
+            "text": "SCA"
+          },
+          {
+            "start_char": 3615,
+            "end_char": 3627,
+            "label": "PER",
+            "text": "Mme Clémence"
+          },
+          {
+            "start_char": 3692,
+            "end_char": 3705,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3896,
+            "end_char": 3899,
+            "label": "ORG",
+            "text": "TAT"
+          },
+          {
+            "start_char": 4001,
+            "end_char": 4013,
+            "label": "PER",
+            "text": "Mme Clémence"
+          },
+          {
+            "start_char": 4099,
+            "end_char": 4112,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4263,
+            "end_char": 4286,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong"
+          },
+          {
+            "start_char": 4336,
+            "end_char": 4349,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4436,
+            "end_char": 4448,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4670,
+            "end_char": 4699,
+            "label": "PER",
+            "text": "Mme Émilie Bonnivard.</strong"
+          },
+          {
+            "start_char": 4744,
+            "end_char": 4757,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 5182,
+            "end_char": 5185,
+            "label": "LOC",
+            "text": "SCA"
+          },
+          {
+            "start_char": 5236,
+            "end_char": 5248,
+            "label": "ORG",
+            "text": "AFITF France"
+          },
+          {
+            "start_char": 5251,
+            "end_char": 5257,
+            "label": "ORG",
+            "text": "Agence"
+          },
+          {
+            "start_char": 5306,
+            "end_char": 5315,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 5324,
+            "end_char": 5337,
+            "label": "PER",
+            "text": "David Valence"
+          },
+          {
+            "start_char": 5369,
+            "end_char": 5372,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5413,
+            "end_char": 5416,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 5416,
+            "end_char": 5451,
+            "label": "PER",
+            "text": "Antoine Léaument.<br><br><strong>M."
+          },
+          {
+            "start_char": 5452,
+            "end_char": 5468,
+            "label": "PER",
+            "text": "Antoine Léaument"
+          },
+          {
+            "start_char": 5570,
+            "end_char": 5579,
+            "label": "PER",
+            "text": "récupérez"
+          },
+          {
+            "start_char": 5722,
+            "end_char": 5726,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5769,
+            "end_char": 5777,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5868,
+            "end_char": 5877,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5884,
+            "end_char": 5898,
+            "label": "PER",
+            "text": "Benjamin Lucas"
+          },
+          {
+            "start_char": 5902,
+            "end_char": 5917,
+            "label": "PER",
+            "text": "M. Jérôme Guedj"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 119,
+            "sentiment": "3 stars",
+            "score": 0.33397725224494934
+          },
+          {
+            "begin_char": 120,
+            "end_char": 201,
+            "sentiment": "4 stars",
+            "score": 0.28663569688796997
+          },
+          {
+            "begin_char": 202,
+            "end_char": 291,
+            "sentiment": "5 stars",
+            "score": 0.3021770119667053
+          },
+          {
+            "begin_char": 292,
+            "end_char": 406,
+            "sentiment": "5 stars",
+            "score": 0.5067426562309265
+          },
+          {
+            "begin_char": 407,
+            "end_char": 462,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 463,
+            "end_char": 468,
+            "sentiment": "3 stars",
+            "score": 0.28024494647979736
+          },
+          {
+            "begin_char": 468,
+            "end_char": 823,
+            "sentiment": "4 stars",
+            "score": 0.35057300329208374
+          },
+          {
+            "begin_char": 824,
+            "end_char": 842,
+            "sentiment": "1 star",
+            "score": 0.8036848306655884
+          },
+          {
+            "begin_char": 842,
+            "end_char": 878,
+            "sentiment": "4 stars",
+            "score": 0.2687777876853943
+          },
+          {
+            "begin_char": 879,
+            "end_char": 969,
+            "sentiment": "2 stars",
+            "score": 0.24198739230632782
+          },
+          {
+            "begin_char": 970,
+            "end_char": 1078,
+            "sentiment": "5 stars",
+            "score": 0.3655032813549042
+          },
+          {
+            "begin_char": 1079,
+            "end_char": 1134,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 1135,
+            "end_char": 1140,
+            "sentiment": "3 stars",
+            "score": 0.28024494647979736
+          },
+          {
+            "begin_char": 1140,
+            "end_char": 1225,
+            "sentiment": "3 stars",
+            "score": 0.269561767578125
+          },
+          {
+            "begin_char": 1226,
+            "end_char": 1257,
+            "sentiment": "4 stars",
+            "score": 0.3084157407283783
+          },
+          {
+            "begin_char": 1258,
+            "end_char": 1349,
+            "sentiment": "1 star",
+            "score": 0.36899828910827637
+          },
+          {
+            "begin_char": 1349,
+            "end_char": 1453,
+            "sentiment": "1 star",
+            "score": 0.38667789101600647
+          },
+          {
+            "begin_char": 1454,
+            "end_char": 1496,
+            "sentiment": "1 star",
+            "score": 0.6149240136146545
+          },
+          {
+            "begin_char": 1496,
+            "end_char": 1539,
+            "sentiment": "3 stars",
+            "score": 0.323579341173172
+          },
+          {
+            "begin_char": 1540,
+            "end_char": 1584,
+            "sentiment": "5 stars",
+            "score": 0.3473801910877228
+          },
+          {
+            "begin_char": 1584,
+            "end_char": 1620,
+            "sentiment": "4 stars",
+            "score": 0.2687777876853943
+          },
+          {
+            "begin_char": 1621,
+            "end_char": 1739,
+            "sentiment": "3 stars",
+            "score": 0.25675082206726074
+          },
+          {
+            "begin_char": 1740,
+            "end_char": 1919,
+            "sentiment": "3 stars",
+            "score": 0.24705132842063904
+          },
+          {
+            "begin_char": 1920,
+            "end_char": 1983,
+            "sentiment": "1 star",
+            "score": 0.3299958407878876
+          },
+          {
+            "begin_char": 1984,
+            "end_char": 2039,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 2040,
+            "end_char": 2245,
+            "sentiment": "5 stars",
+            "score": 0.370449960231781
+          },
+          {
+            "begin_char": 2246,
+            "end_char": 2272,
+            "sentiment": "3 stars",
+            "score": 0.29162317514419556
+          },
+          {
+            "begin_char": 2273,
+            "end_char": 2408,
+            "sentiment": "5 stars",
+            "score": 0.6021485924720764
+          },
+          {
+            "begin_char": 2408,
+            "end_char": 2539,
+            "sentiment": "4 stars",
+            "score": 0.37786543369293213
+          },
+          {
+            "begin_char": 2540,
+            "end_char": 2762,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 2763,
+            "end_char": 2931,
+            "sentiment": "4 stars",
+            "score": 0.34387803077697754
+          },
+          {
+            "begin_char": 2931,
+            "end_char": 2990,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 2991,
+            "end_char": 3160,
+            "sentiment": "4 stars",
+            "score": 0.32596367597579956
+          },
+          {
+            "begin_char": 3161,
+            "end_char": 3249,
+            "sentiment": "3 stars",
+            "score": 0.39689168334007263
+          },
+          {
+            "begin_char": 3250,
+            "end_char": 3469,
+            "sentiment": "4 stars",
+            "score": 0.25037750601768494
+          },
+          {
+            "begin_char": 3470,
+            "end_char": 3644,
+            "sentiment": "3 stars",
+            "score": 0.3185921013355255
+          },
+          {
+            "begin_char": 3645,
+            "end_char": 3676,
+            "sentiment": "1 star",
+            "score": 0.23281311988830566
+          },
+          {
+            "begin_char": 3676,
+            "end_char": 3735,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 3736,
+            "end_char": 3811,
+            "sentiment": "3 stars",
+            "score": 0.32068726420402527
+          },
+          {
+            "begin_char": 3812,
+            "end_char": 4030,
+            "sentiment": "3 stars",
+            "score": 0.31091293692588806
+          },
+          {
+            "begin_char": 4031,
+            "end_char": 4083,
+            "sentiment": "1 star",
+            "score": 0.3284187614917755
+          },
+          {
+            "begin_char": 4083,
+            "end_char": 4142,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 4143,
+            "end_char": 4287,
+            "sentiment": "3 stars",
+            "score": 0.40722212195396423
+          },
+          {
+            "begin_char": 4288,
+            "end_char": 4320,
+            "sentiment": "1 star",
+            "score": 0.6638360023498535
+          },
+          {
+            "begin_char": 4320,
+            "end_char": 4379,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 4380,
+            "end_char": 4384,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4384,
+            "end_char": 4537,
+            "sentiment": "3 stars",
+            "score": 0.3417186141014099
+          },
+          {
+            "begin_char": 4538,
+            "end_char": 4728,
+            "sentiment": "5 stars",
+            "score": 0.4574681520462036
+          },
+          {
+            "begin_char": 4728,
+            "end_char": 4787,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 4788,
+            "end_char": 4962,
+            "sentiment": "3 stars",
+            "score": 0.2440963089466095
+          },
+          {
+            "begin_char": 4963,
+            "end_char": 5026,
+            "sentiment": "1 star",
+            "score": 0.3344886600971222
+          },
+          {
+            "begin_char": 5027,
+            "end_char": 5177,
+            "sentiment": "2 stars",
+            "score": 0.2867935001850128
+          },
+          {
+            "begin_char": 5178,
+            "end_char": 5251,
+            "sentiment": "5 stars",
+            "score": 0.3946215808391571
+          },
+          {
+            "begin_char": 5251,
+            "end_char": 5316,
+            "sentiment": "4 stars",
+            "score": 0.3722923696041107
+          },
+          {
+            "begin_char": 5317,
+            "end_char": 5324,
+            "sentiment": "3 stars",
+            "score": 0.32702264189720154
+          },
+          {
+            "begin_char": 5324,
+            "end_char": 5387,
+            "sentiment": "4 stars",
+            "score": 0.32671037316322327
+          },
+          {
+            "begin_char": 5388,
+            "end_char": 5469,
+            "sentiment": "4 stars",
+            "score": 0.28663569688796997
+          },
+          {
+            "begin_char": 5470,
+            "end_char": 5479,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5479,
+            "end_char": 5673,
+            "sentiment": "1 star",
+            "score": 0.2919958829879761
+          },
+          {
+            "begin_char": 5674,
+            "end_char": 5738,
+            "sentiment": "1 star",
+            "score": 0.9087097644805908
+          },
+          {
+            "begin_char": 5739,
+            "end_char": 5822,
+            "sentiment": "1 star",
+            "score": 0.5386977195739746
+          },
+          {
+            "begin_char": 5823,
+            "end_char": 5878,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 5879,
+            "end_char": 5952,
+            "sentiment": "3 stars",
+            "score": 0.31261539459228516
+          },
+          {
+            "begin_char": 5953,
+            "end_char": 5956,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-01",
+        "pageJO": "770",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

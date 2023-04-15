@@ -1,0 +1,509 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG88",
+    "identifiant": {
+      "numero": "88",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "climat",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Canicule et sécheresse"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794154",
+        "mandatRef": "PM796743"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CANICULE ET SÉCHERESSE <a name=PG7></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Claude Raux.<br><br><strong>M. Jean-Claude Raux. </strong>Monsieur le ministre de la transition écologique, en déplacement en Isère hier, vous avez annoncé que la présentation de votre feuille de route en matière de lutte contre le réchauffement climatique aurait lieu en septembre. Or dès le 26 juillet, quatre-vingt-sept départements étaient soumis à des mesures de restriction d'eau et d'irrigation. Alors que s'amorce une troisième vague caniculaire, le réchauffement et la sécheresse, c'est ici et maintenant : les stigmates de la canicule sont bien visibles aux yeux de toutes et de tous. On entend souvent parler d'adaptation, mais dans cette séquence, on ressent cruellement l'absence d'anticipation. En juillet, nous n'avons cessé d'enchaîner les records en matière de température, de quasi-absence de pluviométrie et, hélas presque partout sur le territoire, d'incendies qui ont mobilisé les sapeurs-pompiers, dont je salue ici l'engagement. <i>(Applaudissements sur divers bancs.)</i> Comme pour un très grand nombre de rivières et de cours d'eau, le spectacle de la Loire est désolant dans ma circonscription. La Seine a atteint hier un niveau de débit sous le seuil des 81 mètres cubes par seconde. Les impacts de cette sécheresse sont de surcroît préoccupants pour le fonctionnement des centrales nucléaires, dont certaines sont fermées faute de suffisamment d'eau pour en refroidir les réacteurs.<br><br>Sans jouer les Cassandre et sans entrer dans la caricature, je me dois de souligner que l'avenir se joue sous nos yeux. Demain, ce sont bien à des conflits d'usage entre le tourisme, l'agriculture, l'économie et nos besoins personnels qu'il nous faudra faire face. Monsieur le ministre, quelles mesures compte prendre le Gouvernement dans cette période de crise sans précédent et en prévision de ces futurs conflits d'usage, et à quelle échéance ? <i>(Applaudissements sur les bancs du groupe Écolo-NUPES.)</i> <br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Hier, j'ai en effet eu l'occasion de me rendre en Isère, plus précisément à Rovon, à Vinay et à Seyssins, auprès des équipes de l'Office français de la biodiversité qui assure à la fois la fonction d'observatoire et de contrôle des étiages, mais vérifie également que les arrêtés de restriction sont pris si nécessaire. Il nous arrive ici de rendre hommage à certains fonctionnaires de l'État, et en ce moment, croyez-moi, ceux qui travaillent à l'OFB méritent tout particulièrement nos encouragements en raison de la mission complexe qui est la leur, à savoir assurer le respect des mesures environnementales partout sur le territoire.<br><br>À la minute où je vous parle, tous les départements métropolitains sont dans une situation de sécheresse : cinquante-sept ont déjà pris des arrêtés de crise et, dans les autres, les arrêtés de restriction posent la question du partage des usages. Il y a quelques semaines, le Gouvernement a pris la décision d'augmenter de 100 millions d'euros les crédits des agences de l'eau ; le 29 juillet, j'ai signé un décret qui va entraîner un bouleversement : dorénavant, les contrôles auront lieu aussi pendant les périodes de hautes eaux, afin de ne pas attendre la période des basses eaux pour se poser la question du partage.<br><br>Il y a plusieurs sujets sur lesquels il faut se mobiliser : comment anticiper les difficultés, dans la continuité des assises de l'eau et du Varenne agricole de l'eau, pour être capable en amont d'économiser 20 % du contenu des réseaux d'eau potable qui partent en fuites ? Comment, avec moins d'eau, obtenir les niveaux de production agricole souhaitables ? Il faut aussi lutter contre l'artificialisation qui empêche la reconstitution des nappes et nous prive des réserves qui nous permettraient, le moment venu, de faire face à ces crises de sécheresse. C'est sur l'ensemble de ces sujets que nous sommes mobilisés et que j'ai eu l'occasion hier d'échanger avec l'ensemble des acteurs.<br><br>Dès la fin de la saison, Bérangère Couillard, Marc Fesneau et moi-même prendrons le temps, avec tous les comités de bassin, de faire ensemble un retour d'expérience. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Claude Raux. <br><br><strong>M. Jean-Claude Raux. </strong>Nous sommes d'accord, monsieur le ministre, l'urgence est criante. Pourtant, certaines mesures climaticides actuellement défendues par votre gouvernement ne nous rassurent pas pour les années à venir.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 31,
+            "label": "ORG",
+            "text": "CANICULE"
+          },
+          {
+            "start_char": 35,
+            "end_char": 45,
+            "label": "MISC",
+            "text": "SÉCHERESSE"
+          },
+          {
+            "start_char": 79,
+            "end_char": 82,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 123,
+            "end_char": 137,
+            "label": "PER",
+            "text": "M. Jean-Claude"
+          },
+          {
+            "start_char": 162,
+            "end_char": 178,
+            "label": "PER",
+            "text": "Jean-Claude Raux"
+          },
+          {
+            "start_char": 189,
+            "end_char": 197,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 257,
+            "end_char": 262,
+            "label": "LOC",
+            "text": "Isère"
+          },
+          {
+            "start_char": 1206,
+            "end_char": 1214,
+            "label": "LOC",
+            "text": "la Loire"
+          },
+          {
+            "start_char": 1253,
+            "end_char": 1261,
+            "label": "LOC",
+            "text": "La Seine"
+          },
+          {
+            "start_char": 1532,
+            "end_char": 1549,
+            "label": "MISC",
+            "text": "réacteurs.<br><br"
+          },
+          {
+            "start_char": 1565,
+            "end_char": 1574,
+            "label": "PER",
+            "text": "Cassandre"
+          },
+          {
+            "start_char": 1815,
+            "end_char": 1823,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1871,
+            "end_char": 1883,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2043,
+            "end_char": 2059,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i"
+          },
+          {
+            "start_char": 2077,
+            "end_char": 2080,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2121,
+            "end_char": 2123,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2214,
+            "end_char": 2227,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 2323,
+            "end_char": 2327,
+            "label": "LOC",
+            "text": "Hier"
+          },
+          {
+            "start_char": 2373,
+            "end_char": 2378,
+            "label": "LOC",
+            "text": "Isère"
+          },
+          {
+            "start_char": 2399,
+            "end_char": 2404,
+            "label": "LOC",
+            "text": "Rovon"
+          },
+          {
+            "start_char": 2408,
+            "end_char": 2413,
+            "label": "LOC",
+            "text": "Vinay"
+          },
+          {
+            "start_char": 2419,
+            "end_char": 2427,
+            "label": "LOC",
+            "text": "Seyssins"
+          },
+          {
+            "start_char": 2453,
+            "end_char": 2468,
+            "label": "ORG",
+            "text": "Office français"
+          },
+          {
+            "start_char": 2711,
+            "end_char": 2715,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2734,
+            "end_char": 2744,
+            "label": "MISC",
+            "text": "croyez-moi"
+          },
+          {
+            "start_char": 2771,
+            "end_char": 2774,
+            "label": "ORG",
+            "text": "OFB"
+          },
+          {
+            "start_char": 2948,
+            "end_char": 2966,
+            "label": "MISC",
+            "text": "territoire.<br><br"
+          },
+          {
+            "start_char": 3243,
+            "end_char": 3255,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3580,
+            "end_char": 3595,
+            "label": "MISC",
+            "text": "partage.<br><br"
+          },
+          {
+            "start_char": 3737,
+            "end_char": 3744,
+            "label": "LOC",
+            "text": "Varenne"
+          },
+          {
+            "start_char": 4276,
+            "end_char": 4295,
+            "label": "MISC",
+            "text": "acteurs.<br><br>Dès"
+          },
+          {
+            "start_char": 4317,
+            "end_char": 4336,
+            "label": "PER",
+            "text": "Bérangère Couillard"
+          },
+          {
+            "start_char": 4338,
+            "end_char": 4350,
+            "label": "PER",
+            "text": "Marc Fesneau"
+          },
+          {
+            "start_char": 4510,
+            "end_char": 4512,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4541,
+            "end_char": 4544,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4585,
+            "end_char": 4604,
+            "label": "PER",
+            "text": "M. Jean-Claude Raux"
+          },
+          {
+            "start_char": 4625,
+            "end_char": 4641,
+            "label": "PER",
+            "text": "Jean-Claude Raux"
+          },
+          {
+            "start_char": 4846,
+            "end_char": 4855,
+            "label": "LOC",
+            "text": "venir.<br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 97,
+            "sentiment": "1 star",
+            "score": 0.4926290810108185
+          },
+          {
+            "begin_char": 98,
+            "end_char": 179,
+            "sentiment": "3 stars",
+            "score": 0.2587343156337738
+          },
+          {
+            "begin_char": 180,
+            "end_char": 413,
+            "sentiment": "4 stars",
+            "score": 0.29761844873428345
+          },
+          {
+            "begin_char": 414,
+            "end_char": 533,
+            "sentiment": "4 stars",
+            "score": 0.2616153359413147
+          },
+          {
+            "begin_char": 534,
+            "end_char": 725,
+            "sentiment": "5 stars",
+            "score": 0.6471938490867615
+          },
+          {
+            "begin_char": 726,
+            "end_char": 839,
+            "sentiment": "2 stars",
+            "score": 0.5703815221786499
+          },
+          {
+            "begin_char": 840,
+            "end_char": 1082,
+            "sentiment": "5 stars",
+            "score": 0.3774719834327698
+          },
+          {
+            "begin_char": 1083,
+            "end_char": 1126,
+            "sentiment": "3 stars",
+            "score": 0.29646018147468567
+          },
+          {
+            "begin_char": 1127,
+            "end_char": 1252,
+            "sentiment": "1 star",
+            "score": 0.5028280019760132
+          },
+          {
+            "begin_char": 1253,
+            "end_char": 1342,
+            "sentiment": "5 stars",
+            "score": 0.2810616195201874
+          },
+          {
+            "begin_char": 1343,
+            "end_char": 1669,
+            "sentiment": "5 stars",
+            "score": 0.35299062728881836
+          },
+          {
+            "begin_char": 1670,
+            "end_char": 1814,
+            "sentiment": "5 stars",
+            "score": 0.37608787417411804
+          },
+          {
+            "begin_char": 1815,
+            "end_char": 1997,
+            "sentiment": "5 stars",
+            "score": 0.42322641611099243
+          },
+          {
+            "begin_char": 1998,
+            "end_char": 2095,
+            "sentiment": "4 stars",
+            "score": 0.31233227252960205
+          },
+          {
+            "begin_char": 2096,
+            "end_char": 2318,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 2319,
+            "end_char": 2642,
+            "sentiment": "4 stars",
+            "score": 0.5192328095436096
+          },
+          {
+            "begin_char": 2643,
+            "end_char": 3213,
+            "sentiment": "5 stars",
+            "score": 0.5505943894386292
+          },
+          {
+            "begin_char": 3214,
+            "end_char": 3345,
+            "sentiment": "4 stars",
+            "score": 0.30836421251296997
+          },
+          {
+            "begin_char": 3346,
+            "end_char": 3869,
+            "sentiment": "5 stars",
+            "score": 0.4569046199321747
+          },
+          {
+            "begin_char": 3870,
+            "end_char": 3954,
+            "sentiment": "5 stars",
+            "score": 0.31831884384155273
+          },
+          {
+            "begin_char": 3955,
+            "end_char": 4152,
+            "sentiment": "4 stars",
+            "score": 0.42610663175582886
+          },
+          {
+            "begin_char": 4153,
+            "end_char": 4357,
+            "sentiment": "5 stars",
+            "score": 0.3572557270526886
+          },
+          {
+            "begin_char": 4357,
+            "end_char": 4358,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 4358,
+            "end_char": 4457,
+            "sentiment": "4 stars",
+            "score": 0.3803024888038635
+          },
+          {
+            "begin_char": 4458,
+            "end_char": 4559,
+            "sentiment": "3 stars",
+            "score": 0.32598647475242615
+          },
+          {
+            "begin_char": 4560,
+            "end_char": 4605,
+            "sentiment": "4 stars",
+            "score": 0.24786034226417542
+          },
+          {
+            "begin_char": 4606,
+            "end_char": 4642,
+            "sentiment": "3 stars",
+            "score": 0.28964704275131226
+          },
+          {
+            "begin_char": 4643,
+            "end_char": 4652,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 4652,
+            "end_char": 4718,
+            "sentiment": "5 stars",
+            "score": 0.536719024181366
+          },
+          {
+            "begin_char": 4719,
+            "end_char": 4860,
+            "sentiment": "3 stars",
+            "score": 0.3425460159778595
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3306",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

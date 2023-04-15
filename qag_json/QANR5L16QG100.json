@@ -1,0 +1,623 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG100",
+    "identifiant": {
+      "numero": "100",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "chômage",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Chômage partiel en Gironde"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719632",
+        "mandatRef": "PM796572"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CHÔMAGE PARTIEL EN GIRONDE <a name=PG19></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Sophie Panonacle.<br><br><strong>Mme Sophie Panonacle. </strong>Avant d’interroger M. le ministre du travail, du plein emploi et de l’insertion, Olivier Dussopt, je souhaite appeler votre attention, chers collègues, sur la situation dramatique causée par les incendies de forêt qui frappent durement notre pays cet été, et plus particulièrement la Gironde. Nos sapeurs-pompiers professionnels et volontaires font un travail remarquable, au péril de leur vie. Ne l'oublions pas ! Je veux les remercier, au nom de la représentation nationale, et rendre hommage à leur engagement exemplaire. <i>(Mmes et MM. les députés se lèvent et applaudissent longuement.)</i><br><br>Les incendies survenus dans le bassin d’Arcachon, au pied de la dune du Pilat et au bord du lac de Cazaux, ont provoqué la destruction de plusieurs campings et restaurants, ainsi que la fermeture temporaire de nombreuses entreprises. Ces incendies ont entraîné une forte baisse – de 40 % environ – de la fréquentation touristique et affecté l’activité du commerce local, victime collatérale de la catastrophe.<br><br>En visite au poste de commandement opérationnel de La Teste-de-Buch, le Président de la République a promis le soutien de l’État face à ce désastre écologique et économique. Sans attendre, monsieur le ministre, vous avez vous-même annoncé votre intention d'actionner le dispositif d'activité partielle de longue durée (APLD), déjà utilisé dans le cadre de la crise sanitaire. Soyez assuré de la satisfaction des entreprises concernées, ainsi que de la mobilisation, aux côtés des entreprises, de la chambre de commerce et d’industrie (CCI) de Bordeaux Gironde et de la chambre de métiers et de l’artisanat de Nouvelle-Aquitaine Gironde.<br><br>Quelles seront les modalités d’application de l’APLD, c'est-à-dire le montant de l’allocation versée aux salariés, le reste à charge pour les entreprises et la durée du dispositif ? Pouvez-vous nous assurer que les dossiers seront examinés entreprise par entreprise ? <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Permettez-moi tout d'abord, après Mme la Première ministre et M. le ministre de l'intérieur et des outre-mer, d'associer l'ensemble du Gouvernement aux remerciements que vous avez adressés aux sapeurs-pompiers. Leur courage est héroïque et leur engagement majeur. Je peux en témoigner en tant qu'élu de l'Ardèche, car ce département a également été dévasté par les flammes.<br><br>S'agissant du soutien de l'État aux entreprises de Gironde touchées par les incendies, nous appliquerons tout d'abord le dispositif d'activité partielle. Les entreprises incendiées fermées pour une courte durée pourront activer ce dispositif en invoquant le motif de sinistre ou d'intempéries de caractère exceptionnel. Lorsqu'elles n'ont pas été touchées directement par les incendies mais qu'elles subissent une baisse temporaire d'activité, les entreprises pourront recourir au chômage partiel sur la base d'une circonstance de caractère exceptionnel. En accord avec Mme la Première ministre, j'ai également annoncé la mise en œuvre du dispositif d'activité partielle de longue durée. Le concernant, nous réfléchissons à deux solutions.<br><br>La première concerne l'hôtellerie de plein air, particulièrement touchée par les incendies, plusieurs campings ayant été dévastés par les flammes. Sachez que, dans ce secteur, jusqu'à présent, l'accord de branche ne prévoyait pas les sinistres ou les intempéries comme motif de déclenchement de l'APLD. Le Gouvernement a donc proposé une dérogation à cet accord pour rendre le dispositif applicable. Mais d'autres secteurs ont été touchés, non par les incendies, mais par la baisse d'activité. Il s'agit notamment du secteur de l'hôtellerie, des cafés et des restaurants, pour lequel l'accord de branche relatif à l'activité partielle a pris fin le 30 juin dernier. Pour remédier à cette situation, nous travaillons à des accords entreprise par entreprise en matière d'APLD afin que les entreprises concernées bénéficient du dispositif.<br><br>L'avantage de l'APLD est double : d'une part, pour l'employeur, qui assume un reste à charge de 15 %, au lieu de 40 %, ce qui assure la viabilité de l'entreprise le temps des travaux, avant la reprise d'activité à la saison suivante ; d'autre part, pour les salariés, l'indemnisation représentant 84 % du salaire net et 100 % du salaire au niveau du SMIC, contre 76 % en moyenne pour les autres dispositifs d'activité partielle. Tel est l'engagement du Président de la République et du Gouvernement… <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>Mme la présidente.</strong> Merci, monsieur le ministre.<br> <p>",
+        "entities": [
+          {
+            "start_char": 31,
+            "end_char": 38,
+            "label": "ORG",
+            "text": "PARTIEL"
+          },
+          {
+            "start_char": 42,
+            "end_char": 49,
+            "label": "MISC",
+            "text": "GIRONDE"
+          },
+          {
+            "start_char": 84,
+            "end_char": 87,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 128,
+            "end_char": 164,
+            "label": "PER",
+            "text": "Mme Sophie Panonacle.<br><br><strong"
+          },
+          {
+            "start_char": 165,
+            "end_char": 185,
+            "label": "PER",
+            "text": "Mme Sophie Panonacle"
+          },
+          {
+            "start_char": 202,
+            "end_char": 204,
+            "label": "PER",
+            "text": "d’"
+          },
+          {
+            "start_char": 264,
+            "end_char": 275,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 277,
+            "end_char": 292,
+            "label": "PER",
+            "text": "Olivier Dussopt"
+          },
+          {
+            "start_char": 480,
+            "end_char": 487,
+            "label": "LOC",
+            "text": "Gironde"
+          },
+          {
+            "start_char": 840,
+            "end_char": 848,
+            "label": "LOC",
+            "text": "Arcachon"
+          },
+          {
+            "start_char": 872,
+            "end_char": 877,
+            "label": "LOC",
+            "text": "Pilat"
+          },
+          {
+            "start_char": 892,
+            "end_char": 905,
+            "label": "LOC",
+            "text": "lac de Cazaux"
+          },
+          {
+            "start_char": 1141,
+            "end_char": 1143,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1197,
+            "end_char": 1216,
+            "label": "ORG",
+            "text": "catastrophe.<br><br"
+          },
+          {
+            "start_char": 1268,
+            "end_char": 1284,
+            "label": "PER",
+            "text": "La Teste-de-Buch"
+          },
+          {
+            "start_char": 1289,
+            "end_char": 1315,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1339,
+            "end_char": 1341,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 1341,
+            "end_char": 1345,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1536,
+            "end_char": 1540,
+            "label": "ORG",
+            "text": "APLD"
+          },
+          {
+            "start_char": 1593,
+            "end_char": 1598,
+            "label": "ORG",
+            "text": "Soyez"
+          },
+          {
+            "start_char": 1752,
+            "end_char": 1755,
+            "label": "LOC",
+            "text": "CCI"
+          },
+          {
+            "start_char": 1760,
+            "end_char": 1776,
+            "label": "LOC",
+            "text": "Bordeaux Gironde"
+          },
+          {
+            "start_char": 1811,
+            "end_char": 1813,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1826,
+            "end_char": 1844,
+            "label": "LOC",
+            "text": "Nouvelle-Aquitaine"
+          },
+          {
+            "start_char": 1907,
+            "end_char": 1913,
+            "label": "MISC",
+            "text": "l’APLD"
+          },
+          {
+            "start_char": 1942,
+            "end_char": 1944,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2043,
+            "end_char": 2049,
+            "label": "PER",
+            "text": "Pouvez"
+          },
+          {
+            "start_char": 2174,
+            "end_char": 2197,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2198,
+            "end_char": 2201,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2242,
+            "end_char": 2244,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2291,
+            "end_char": 2293,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2319,
+            "end_char": 2329,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2394,
+            "end_char": 2405,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 2411,
+            "end_char": 2420,
+            "label": "LOC",
+            "text": "Permettez"
+          },
+          {
+            "start_char": 2445,
+            "end_char": 2469,
+            "label": "PER",
+            "text": "Mme la Première ministre"
+          },
+          {
+            "start_char": 2473,
+            "end_char": 2475,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2546,
+            "end_char": 2558,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2714,
+            "end_char": 2723,
+            "label": "LOC",
+            "text": "l'Ardèche"
+          },
+          {
+            "start_char": 2776,
+            "end_char": 2791,
+            "label": "MISC",
+            "text": "flammes.<br><br"
+          },
+          {
+            "start_char": 2819,
+            "end_char": 2823,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2843,
+            "end_char": 2850,
+            "label": "LOC",
+            "text": "Gironde"
+          },
+          {
+            "start_char": 3362,
+            "end_char": 3377,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 3521,
+            "end_char": 3538,
+            "label": "MISC",
+            "text": "solutions.<br><br"
+          },
+          {
+            "start_char": 3836,
+            "end_char": 3840,
+            "label": "ORG",
+            "text": "APLD"
+          },
+          {
+            "start_char": 3845,
+            "end_char": 3857,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4308,
+            "end_char": 4312,
+            "label": "ORG",
+            "text": "APLD"
+          },
+          {
+            "start_char": 4399,
+            "end_char": 4403,
+            "label": "ORG",
+            "text": "APLD"
+          },
+          {
+            "start_char": 4733,
+            "end_char": 4737,
+            "label": "MISC",
+            "text": "SMIC"
+          },
+          {
+            "start_char": 4836,
+            "end_char": 4862,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4869,
+            "end_char": 4881,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4928,
+            "end_char": 4951,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4952,
+            "end_char": 4979,
+            "label": "PER",
+            "text": "Mme la présidente.</strong>"
+          },
+          {
+            "start_char": 4980,
+            "end_char": 4985,
+            "label": "MISC",
+            "text": "Merci"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 102,
+            "sentiment": "3 stars",
+            "score": 0.2974090278148651
+          },
+          {
+            "begin_char": 103,
+            "end_char": 186,
+            "sentiment": "3 stars",
+            "score": 0.2455027997493744
+          },
+          {
+            "begin_char": 187,
+            "end_char": 196,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 196,
+            "end_char": 488,
+            "sentiment": "5 stars",
+            "score": 0.43961018323898315
+          },
+          {
+            "begin_char": 489,
+            "end_char": 590,
+            "sentiment": "5 stars",
+            "score": 0.6868883967399597
+          },
+          {
+            "begin_char": 591,
+            "end_char": 610,
+            "sentiment": "5 stars",
+            "score": 0.5711989402770996
+          },
+          {
+            "begin_char": 611,
+            "end_char": 720,
+            "sentiment": "5 stars",
+            "score": 0.7374568581581116
+          },
+          {
+            "begin_char": 721,
+            "end_char": 800,
+            "sentiment": "5 stars",
+            "score": 0.3492417633533478
+          },
+          {
+            "begin_char": 800,
+            "end_char": 1033,
+            "sentiment": "3 stars",
+            "score": 0.2802916169166565
+          },
+          {
+            "begin_char": 1034,
+            "end_char": 1390,
+            "sentiment": "2 stars",
+            "score": 0.2616572380065918
+          },
+          {
+            "begin_char": 1391,
+            "end_char": 1592,
+            "sentiment": "5 stars",
+            "score": 0.3660479187965393
+          },
+          {
+            "begin_char": 1593,
+            "end_char": 2042,
+            "sentiment": "5 stars",
+            "score": 0.444989949464798
+          },
+          {
+            "begin_char": 2043,
+            "end_char": 2128,
+            "sentiment": "1 star",
+            "score": 0.27014362812042236
+          },
+          {
+            "begin_char": 2129,
+            "end_char": 2216,
+            "sentiment": "4 stars",
+            "score": 0.3044034242630005
+          },
+          {
+            "begin_char": 2217,
+            "end_char": 2350,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 2351,
+            "end_char": 2406,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 2407,
+            "end_char": 2621,
+            "sentiment": "5 stars",
+            "score": 0.5013851523399353
+          },
+          {
+            "begin_char": 2622,
+            "end_char": 2674,
+            "sentiment": "5 stars",
+            "score": 0.5811723470687866
+          },
+          {
+            "begin_char": 2675,
+            "end_char": 2945,
+            "sentiment": "4 stars",
+            "score": 0.3535853922367096
+          },
+          {
+            "begin_char": 2946,
+            "end_char": 3111,
+            "sentiment": "4 stars",
+            "score": 0.40950486063957214
+          },
+          {
+            "begin_char": 3112,
+            "end_char": 3346,
+            "sentiment": "4 stars",
+            "score": 0.35327908396720886
+          },
+          {
+            "begin_char": 3347,
+            "end_char": 3479,
+            "sentiment": "4 stars",
+            "score": 0.4297237992286682
+          },
+          {
+            "begin_char": 3480,
+            "end_char": 3539,
+            "sentiment": "3 stars",
+            "score": 0.3296876847743988
+          },
+          {
+            "begin_char": 3539,
+            "end_char": 3685,
+            "sentiment": "3 stars",
+            "score": 0.3489072322845459
+          },
+          {
+            "begin_char": 3686,
+            "end_char": 3841,
+            "sentiment": "3 stars",
+            "score": 0.3212265372276306
+          },
+          {
+            "begin_char": 3842,
+            "end_char": 3938,
+            "sentiment": "4 stars",
+            "score": 0.34877198934555054
+          },
+          {
+            "begin_char": 3939,
+            "end_char": 4032,
+            "sentiment": "3 stars",
+            "score": 0.39370107650756836
+          },
+          {
+            "begin_char": 4033,
+            "end_char": 4204,
+            "sentiment": "4 stars",
+            "score": 0.33410415053367615
+          },
+          {
+            "begin_char": 4205,
+            "end_char": 4312,
+            "sentiment": "4 stars",
+            "score": 0.4124014973640442
+          },
+          {
+            "begin_char": 4313,
+            "end_char": 4383,
+            "sentiment": "4 stars",
+            "score": 0.3529285788536072
+          },
+          {
+            "begin_char": 4383,
+            "end_char": 4617,
+            "sentiment": "4 stars",
+            "score": 0.5150384902954102
+          },
+          {
+            "begin_char": 4618,
+            "end_char": 4811,
+            "sentiment": "3 stars",
+            "score": 0.3487222194671631
+          },
+          {
+            "begin_char": 4812,
+            "end_char": 4979,
+            "sentiment": "5 stars",
+            "score": 0.3562241196632385
+          },
+          {
+            "begin_char": 4980,
+            "end_char": 5012,
+            "sentiment": "5 stars",
+            "score": 0.4536571502685547
+          },
+          {
+            "begin_char": 5013,
+            "end_char": 5016,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3315",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

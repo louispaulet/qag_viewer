@@ -1,0 +1,677 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG464",
+    "identifiant": {
+      "numero": "464",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "postes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "DISPARITION DU TIMBRE ROUGE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793796",
+        "mandatRef": "PM796536"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Petites et moyennes entreprises, commerce, artisanat et tourisme",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-18",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Petites et moyennes entreprises, commerce, artisanat et tourisme",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-18",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> DISPARITION DU TIMBRE ROUGE <a name=PG21></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. David Taupiac.<br><br><strong>M. David Taupiac. </strong>Monsieur le ministre délégué chargé de la transition numérique et des télécommunications, l’annonce par La Poste de la suppression du timbre rouge provoque une grande inquiétude. Si le constat d’une baisse du volume du courrier correspond à la réalité, cette décision, dont la seule motivation est la rentabilité économique, méconnaît toutefois l’impact sur les usagers.<br><br>Avec la dématérialisation des envois, cette réforme inflige en particulier aux territoires ruraux et ultramarins une double peine. Elle ne tient pas compte des centaines de zones blanches dépourvues de réseau mobile ou de débit internet. Elle ne tient pas compte non plus de la fracture numérique qui affecte toute une partie de la population, en premier lieu les personnes âgées et les plus précaires. Selon l’Insee, plus de 13 millions de Français sont concernés.<br><br>Elle pose en outre le problème du secret de la correspondance et rend désormais impossible l’envoi en urgence de chèques ou de feuilles de soins à la sécurité sociale. Numériser et déshumaniser, c’est autant de coups de boutoir qui éloignent petit à petit l'État de citoyens déjà touchés dans leur quotidien par le démantèlement des biens essentiels : l'énergie, La Poste, les services publics en général, la mobilité, la santé. Or, pour maintenir notre cohésion sociale et prévenir la montée de la colère et du désespoir, il est nécessaire de ne pas ajouter de la fracture à la fracture.<br><br><strong>M. Sébastien Jumel.</strong> Il a raison !<br><br><strong>M. Éric Bothorel.</strong> Parce que le timbre est rouge ?<br><br><strong>M. David Taupiac. </strong>La disparition du timbre rouge pose la question de la place de la ruralité et de l’outre-mer dans l’élaboration des politiques publiques. Le 9 septembre dernier, le Gouvernement a attribué 1 million d’euros à 200 chercheurs dans le but d'analyser les grands enjeux auxquels feront face les territoires ruraux. Je peux vous répondre que la préservation des services publics et du lien social ainsi que la réduction de la fracture numérique font partie des priorités.<br><br>Allez-vous enfin prendre en considération les besoins des populations en préservant le double usage dans cette réforme ? <i>(Applaudissements sur les bancs du groupe LIOT et sur quelques bancs du groupe LR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée chargée des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme.<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée chargée des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme. </i>Vous interrogez le Gouvernement sur les évolutions de la politique de distribution de courrier de La Poste. Je souhaite vous apporter quelques précisions. Tout d'abord, les timbres rouges achetés avant le 1er janvier 2023 restent parfaitement utilisables après cette date.<br><br><strong>M. Sébastien Jumel.</strong> Heureusement !<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée . </i>Ensuite, comme vous l'avez mentionné, nous assistons à une évolution importante des usages du courrier. Nos concitoyens ont fait bouger leurs habitudes avec cinq envois prioritaires en moyenne par an et par ménage en 2021 contre quarante-cinq en 2010. Ce constat frappant a entraîné une évolution de l'offre de La Poste avec la mise en place de la e-lettre rouge. Elle ne minimise pas la présence du facteur, six jours sur sept, sur tout le territoire, pour l'ensemble des activités de distribution de La Poste.<br><br><strong>Mme Florence Goulet.</strong> C'est faux !<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée . </i>Par ailleurs, La Poste maintient une offre d'envoi de courrier fiable et rapide avec la Lettre Services Plus et la lettre verte, que nous connaissons tous : elles arrivent à destination respectivement deux et trois jours après l'envoi.<br><br>Vous avez mentionné le fait que la numérisation ne devait pas conduire à une déshumanisation. C'est pour cela que les agents de La Poste continuent d'accompagner, dans chaque bureau, tous les usagers qui auraient besoin d'un envoi prioritaire dans le cas où ils seraient en difficulté avec le numérique et ne pourraient pas envoyer le courrier depuis chez eux. C'est un engagement fort de La Poste. Il s'agit d'une transformation importante, je le conçois, qui s'adapte aux nouvelles habitudes des Français et garantit un service à tous les niveaux, physique comme dématérialisé.<br><br><strong>Mme Anne-Laure Blin.</strong> La France, ce n'est pas que Paris !<br><br><strong>M. Pierre Cordier.</strong> Venez voir sur le terrain comment ça se passe !<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée . </i>Enfin, j'ajoute que le motif économique n'est pas le seul. En effet, grâce à cette mesure et au développement de la e-lettre rouge, La Poste économisera plus de 60 000 tonnes de CO2 par an d'ici à 2030, ce qui représente une économie de carbone de 25 % sur son bilan. <i>(Applaudissements sur quelques bancs du groupe RE. </i>– Exclamations sur quelques bancs du groupe LR.)<br> <p>",
+        "entities": [
+          {
+            "start_char": 85,
+            "end_char": 88,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 129,
+            "end_char": 161,
+            "label": "PER",
+            "text": "M. David Taupiac.<br><br><strong"
+          },
+          {
+            "start_char": 165,
+            "end_char": 178,
+            "label": "PER",
+            "text": "David Taupiac"
+          },
+          {
+            "start_char": 189,
+            "end_char": 197,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 279,
+            "end_char": 281,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 293,
+            "end_char": 301,
+            "label": "ORG",
+            "text": "La Poste"
+          },
+          {
+            "start_char": 534,
+            "end_char": 542,
+            "label": "ORG",
+            "text": "l’impact"
+          },
+          {
+            "start_char": 551,
+            "end_char": 566,
+            "label": "MISC",
+            "text": "usagers.<br><br"
+          },
+          {
+            "start_char": 976,
+            "end_char": 983,
+            "label": "ORG",
+            "text": "l’Insee"
+          },
+          {
+            "start_char": 1008,
+            "end_char": 1016,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1022,
+            "end_char": 1040,
+            "label": "MISC",
+            "text": "concernés.<br><br>"
+          },
+          {
+            "start_char": 1235,
+            "end_char": 1237,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 1298,
+            "end_char": 1302,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1403,
+            "end_char": 1411,
+            "label": "MISC",
+            "text": "La Poste"
+          },
+          {
+            "start_char": 1647,
+            "end_char": 1672,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 1705,
+            "end_char": 1734,
+            "label": "PER",
+            "text": "Éric Bothorel.</strong> Parce"
+          },
+          {
+            "start_char": 1779,
+            "end_char": 1792,
+            "label": "PER",
+            "text": "David Taupiac"
+          },
+          {
+            "start_char": 1884,
+            "end_char": 1886,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1901,
+            "end_char": 1939,
+            "label": "ORG",
+            "text": "l’élaboration des politiques publiques"
+          },
+          {
+            "start_char": 1968,
+            "end_char": 1980,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2258,
+            "end_char": 2275,
+            "label": "MISC",
+            "text": "priorités.<br><br"
+          },
+          {
+            "start_char": 2442,
+            "end_char": 2446,
+            "label": "ORG",
+            "text": "LIOT"
+          },
+          {
+            "start_char": 2479,
+            "end_char": 2502,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2503,
+            "end_char": 2506,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2547,
+            "end_char": 2550,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2633,
+            "end_char": 2635,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2676,
+            "end_char": 2686,
+            "label": "PER",
+            "text": "Mme Olivia"
+          },
+          {
+            "start_char": 2788,
+            "end_char": 2790,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2839,
+            "end_char": 2851,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2918,
+            "end_char": 2926,
+            "label": "MISC",
+            "text": "La Poste"
+          },
+          {
+            "start_char": 3111,
+            "end_char": 3151,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong> Heureusement !"
+          },
+          {
+            "start_char": 3167,
+            "end_char": 3177,
+            "label": "PER",
+            "text": "Mme Olivia"
+          },
+          {
+            "start_char": 3535,
+            "end_char": 3543,
+            "label": "MISC",
+            "text": "La Poste"
+          },
+          {
+            "start_char": 3726,
+            "end_char": 3750,
+            "label": "MISC",
+            "text": "La Poste.<br><br><strong"
+          },
+          {
+            "start_char": 3751,
+            "end_char": 3779,
+            "label": "PER",
+            "text": "Mme Florence Goulet.</strong"
+          },
+          {
+            "start_char": 3809,
+            "end_char": 3819,
+            "label": "PER",
+            "text": "Mme Olivia"
+          },
+          {
+            "start_char": 3880,
+            "end_char": 3888,
+            "label": "ORG",
+            "text": "La Poste"
+          },
+          {
+            "start_char": 3954,
+            "end_char": 3974,
+            "label": "MISC",
+            "text": "Lettre Services Plus"
+          },
+          {
+            "start_char": 4095,
+            "end_char": 4108,
+            "label": "MISC",
+            "text": "envoi.<br><br"
+          },
+          {
+            "start_char": 4237,
+            "end_char": 4245,
+            "label": "MISC",
+            "text": "La Poste"
+          },
+          {
+            "start_char": 4498,
+            "end_char": 4506,
+            "label": "MISC",
+            "text": "La Poste"
+          },
+          {
+            "start_char": 4607,
+            "end_char": 4615,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4704,
+            "end_char": 4743,
+            "label": "PER",
+            "text": "Mme Anne-Laure Blin.</strong> La France"
+          },
+          {
+            "start_char": 4762,
+            "end_char": 4767,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 4788,
+            "end_char": 4811,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 4813,
+            "end_char": 4818,
+            "label": "LOC",
+            "text": "Venez"
+          },
+          {
+            "start_char": 4876,
+            "end_char": 4886,
+            "label": "PER",
+            "text": "Mme Olivia"
+          },
+          {
+            "start_char": 5065,
+            "end_char": 5073,
+            "label": "PER",
+            "text": "La Poste"
+          },
+          {
+            "start_char": 5244,
+            "end_char": 5253,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 5261,
+            "end_char": 5273,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 5303,
+            "end_char": 5310,
+            "label": "ORG",
+            "text": "LR.)<br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 44,
+            "sentiment": "3 stars",
+            "score": 0.28817543387413025
+          },
+          {
+            "begin_char": 45,
+            "end_char": 50,
+            "sentiment": "2 stars",
+            "score": 0.3249315321445465
+          },
+          {
+            "begin_char": 51,
+            "end_char": 103,
+            "sentiment": "3 stars",
+            "score": 0.2973717749118805
+          },
+          {
+            "begin_char": 104,
+            "end_char": 179,
+            "sentiment": "4 stars",
+            "score": 0.2556423544883728
+          },
+          {
+            "begin_char": 180,
+            "end_char": 189,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 189,
+            "end_char": 367,
+            "sentiment": "4 stars",
+            "score": 0.3796020448207855
+          },
+          {
+            "begin_char": 368,
+            "end_char": 567,
+            "sentiment": "3 stars",
+            "score": 0.45728006958961487
+          },
+          {
+            "begin_char": 567,
+            "end_char": 697,
+            "sentiment": "4 stars",
+            "score": 0.3413817882537842
+          },
+          {
+            "begin_char": 698,
+            "end_char": 804,
+            "sentiment": "2 stars",
+            "score": 0.4958876967430115
+          },
+          {
+            "begin_char": 805,
+            "end_char": 969,
+            "sentiment": "2 stars",
+            "score": 0.3886891007423401
+          },
+          {
+            "begin_char": 970,
+            "end_char": 1040,
+            "sentiment": "4 stars",
+            "score": 0.2783668637275696
+          },
+          {
+            "begin_char": 1040,
+            "end_char": 1207,
+            "sentiment": "4 stars",
+            "score": 0.28895890712738037
+          },
+          {
+            "begin_char": 1208,
+            "end_char": 1468,
+            "sentiment": "5 stars",
+            "score": 0.33030539751052856
+          },
+          {
+            "begin_char": 1469,
+            "end_char": 1672,
+            "sentiment": "5 stars",
+            "score": 0.3522292673587799
+          },
+          {
+            "begin_char": 1673,
+            "end_char": 1686,
+            "sentiment": "5 stars",
+            "score": 0.3322871923446655
+          },
+          {
+            "begin_char": 1686,
+            "end_char": 1760,
+            "sentiment": "2 stars",
+            "score": 0.3978235721588135
+          },
+          {
+            "begin_char": 1760,
+            "end_char": 1793,
+            "sentiment": "3 stars",
+            "score": 0.2785540223121643
+          },
+          {
+            "begin_char": 1794,
+            "end_char": 1940,
+            "sentiment": "4 stars",
+            "score": 0.40363389253616333
+          },
+          {
+            "begin_char": 1941,
+            "end_char": 2112,
+            "sentiment": "5 stars",
+            "score": 0.420199990272522
+          },
+          {
+            "begin_char": 2113,
+            "end_char": 2521,
+            "sentiment": "5 stars",
+            "score": 0.5859460830688477
+          },
+          {
+            "begin_char": 2522,
+            "end_char": 2708,
+            "sentiment": "4 stars",
+            "score": 0.31566670536994934
+          },
+          {
+            "begin_char": 2709,
+            "end_char": 2717,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 2718,
+            "end_char": 2815,
+            "sentiment": "4 stars",
+            "score": 0.32129693031311035
+          },
+          {
+            "begin_char": 2816,
+            "end_char": 2927,
+            "sentiment": "4 stars",
+            "score": 0.31988534331321716
+          },
+          {
+            "begin_char": 2928,
+            "end_char": 2974,
+            "sentiment": "4 stars",
+            "score": 0.3526051342487335
+          },
+          {
+            "begin_char": 2975,
+            "end_char": 3199,
+            "sentiment": "5 stars",
+            "score": 0.4092259705066681
+          },
+          {
+            "begin_char": 3200,
+            "end_char": 3219,
+            "sentiment": "4 stars",
+            "score": 0.33328285813331604
+          },
+          {
+            "begin_char": 3220,
+            "end_char": 3327,
+            "sentiment": "5 stars",
+            "score": 0.3487842381000519
+          },
+          {
+            "begin_char": 3328,
+            "end_char": 3475,
+            "sentiment": "5 stars",
+            "score": 0.3620050549507141
+          },
+          {
+            "begin_char": 3476,
+            "end_char": 3587,
+            "sentiment": "4 stars",
+            "score": 0.4297464191913605
+          },
+          {
+            "begin_char": 3588,
+            "end_char": 3780,
+            "sentiment": "4 stars",
+            "score": 0.34869277477264404
+          },
+          {
+            "begin_char": 3781,
+            "end_char": 3841,
+            "sentiment": "1 star",
+            "score": 0.634803831577301
+          },
+          {
+            "begin_char": 3842,
+            "end_char": 3861,
+            "sentiment": "4 stars",
+            "score": 0.33328285813331604
+          },
+          {
+            "begin_char": 3862,
+            "end_char": 3866,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3866,
+            "end_char": 4202,
+            "sentiment": "5 stars",
+            "score": 0.5753467679023743
+          },
+          {
+            "begin_char": 4203,
+            "end_char": 4469,
+            "sentiment": "5 stars",
+            "score": 0.5348824858665466
+          },
+          {
+            "begin_char": 4470,
+            "end_char": 4507,
+            "sentiment": "5 stars",
+            "score": 0.4771970510482788
+          },
+          {
+            "begin_char": 4508,
+            "end_char": 4812,
+            "sentiment": "5 stars",
+            "score": 0.6456747055053711
+          },
+          {
+            "begin_char": 4813,
+            "end_char": 4860,
+            "sentiment": "5 stars",
+            "score": 0.40044718980789185
+          },
+          {
+            "begin_char": 4860,
+            "end_char": 4908,
+            "sentiment": "3 stars",
+            "score": 0.3076053857803345
+          },
+          {
+            "begin_char": 4909,
+            "end_char": 4928,
+            "sentiment": "4 stars",
+            "score": 0.33328285813331604
+          },
+          {
+            "begin_char": 4929,
+            "end_char": 4991,
+            "sentiment": "3 stars",
+            "score": 0.36184147000312805
+          },
+          {
+            "begin_char": 4992,
+            "end_char": 5200,
+            "sentiment": "5 stars",
+            "score": 0.518424928188324
+          },
+          {
+            "begin_char": 5201,
+            "end_char": 5254,
+            "sentiment": "3 stars",
+            "score": 0.2982350289821625
+          },
+          {
+            "begin_char": 5255,
+            "end_char": 5315,
+            "sentiment": "3 stars",
+            "score": 0.33717742562294006
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-18",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-18",
+        "pageJO": "462",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

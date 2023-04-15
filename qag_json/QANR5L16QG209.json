@@ -1,0 +1,845 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG209",
+    "identifiant": {
+      "numero": "209",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "impôts et taxes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "CONTRIBUTION EXCEPTIONNELLE DES ÉNERGÉTICIENS"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795950",
+        "mandatRef": "PM797775"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Économie, finances, souveraineté industrielle et numérique",
+      "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Économie, finances, souveraineté industrielle et numérique",
+          "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CONTRIBUTION EXCEPTIONNELLE DES ÉNERGÉTICIENS <a name=PG16></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. David Amiel.<br><br><strong>M. David Amiel. </strong>Monsieur le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, la loi de finances pour 2023 comportera une supercontribution pour les entreprises productrices d’énergie. Taxer et restituer aux Français ces rentes, qui doivent tout ou presque aux hasards de la crise, c'est une mesure d'efficacité et de justice.<br><br><strong>M. Matthias Tavel.</strong> Oh là là !<br><br><strong>M. David Amiel. </strong>C’est juste, parce que la crise appelle la solidarité de tous. Les citoyens, l’État, les collectivités locales font des efforts considérables. Les entreprises consommatrices d’énergie, qui règlent des factures très élevées, prennent toute leur part. Il était donc urgent que les entreprises productrices d’énergie prennent aussi la leur : grâce à notre majorité, ce sera chose faite. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br>C’est aussi une mesure efficace : nous avons obtenu que la même mesure s'applique dans toute l’Union européenne, et nous éviterons ainsi que certaines entreprises contournent nos règles nationales en délocalisant leurs activités, réduisant ainsi les recettes de l’État.<br><br>Depuis cinq ans, depuis la taxe Gafa jusqu’à la réforme du marché de l’énergie en passant par la réforme fiscale à l’OCDE – Organisation de coopération et de développement économiques –, le Gouvernement s’est engagé pour mieux réguler la mondialisation, pour lutter contre ses excès et ses dérives, parce que c’est la justice. Il s’est engagé au niveau européen et au niveau international, parce que c’est l’efficacité.<br><br><strong>M. Aurélien Pradié.</strong> On sent la question redoutable ! Je ne suis pas sûr que le Gouvernement parvienne à répondre. <i>(Sourires.)</i><br><br><strong>M. David Amiel. </strong>Monsieur le ministre, pouvez-vous nous indiquer quelles seront les prochaines actions du Gouvernement pour continuer à faire mieux respecter les choix de la France dans la mondialisation ? <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>M. Sylvain Maillard.</strong> Excellent !<br><br><strong>M. Aurélien Pradié.</strong> Quelle audace !<br><br><strong>M. Michel Herbillon.</strong> Le ministre a l'air vraiment très surpris de la question ! <i>(Sourires.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br><strong>M. Bruno Le Maire,</strong><i> ministre de l’économie, des finances et de la souveraineté industrielle et numérique. </i>Monsieur Amiel, merci…<br><br><strong>M. Aurélien Pradié.</strong> Vous pouvez le remercier, en effet !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>…de rappeler ce que j'ai assez peu entendu sur les bancs de l'hémicycle et que je crois profondément vrai : vous êtes la majorité de la justice fiscale. <i>(Rires sur plusieurs bancs des groupes LFI-NUPES, Écolo-NUPES et GDR-NUPES.)</i><br><br>Vous êtes la majorité de la justice fiscale parce que vous avez été les premiers à instituer la taxation sur les géants du numérique pour laquelle nous nous sommes battus depuis cinq ans avec le soutien d'un certain nombre de pays européens, dont la Grande-Bretagne du nouveau chancelier Rishi Sunak. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>M. Fabien Di Filippo.</strong> Vous êtes la majorité du record des prélèvements obligatoires !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Nous avons été parmi les premiers en Europe à défendre l'idée d'une taxation minimale à l'impôt sur les sociétés, idée qui s'est désormais imposée partout au sein de l'OCDE. Nous la traduirons dans les faits au niveau national en janvier prochain si nous n'arrivons pas à arracher l'accord de la Hongrie - les partenaires du Rassemblement national qui bloquent cette mesure de justice fiscale depuis maintenant plusieurs mois. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br>Vous avez été la première majorité à créer un prélèvement sur les rentes des énergéticiens, mesure autrement plus efficace et plus juste que la taxation sur les superprofits, et autrement plus rentable pour les comptes de l'État auquel elle va rapporter 26 milliards d'euros en 2023.<br><br><strong>Mme Sophia Chikirou.</strong> Quel humoriste !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>La différence entre vous et l'opposition, c'est que vous ne confondez pas justice fiscale et vengeance fiscale. <i>(Applaudissements sur plusieurs bancs du groupe RE.) </i>Vous avez parfaitement compris que dans un pays qui a déjà un taux de prélèvements obligatoires parmi les plus élevés, il était préférable et plus efficace – plutôt que de taxer pour cinq ans ou indéfiniment toutes les entreprises, pourtant déjà confrontées à des difficultés économiques majeures – de continuer à taxer les Gafa, d'instituer l'imposition minimale sur les sociétés…<br><br><strong>Mme Sophia Chikirou.</strong> N'importe quoi !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>…et d'opérer un prélèvement sur la rente des énergéticiens pour financer la protection des Français contre l'inflation. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>Mme Sophia Chikirou.</strong> Personne ne vous croit !<br> <p>",
+        "entities": [
+          {
+            "start_char": 55,
+            "end_char": 68,
+            "label": "ORG",
+            "text": "ÉNERGÉTICIENS"
+          },
+          {
+            "start_char": 103,
+            "end_char": 106,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 147,
+            "end_char": 155,
+            "label": "PER",
+            "text": "M. David"
+          },
+          {
+            "start_char": 178,
+            "end_char": 192,
+            "label": "PER",
+            "text": "M. David Amiel"
+          },
+          {
+            "start_char": 203,
+            "end_char": 211,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 408,
+            "end_char": 413,
+            "label": "PER",
+            "text": "Taxer"
+          },
+          {
+            "start_char": 431,
+            "end_char": 439,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 541,
+            "end_char": 564,
+            "label": "PER",
+            "text": "justice.<br><br><strong"
+          },
+          {
+            "start_char": 568,
+            "end_char": 592,
+            "label": "PER",
+            "text": "Matthias Tavel.</strong>"
+          },
+          {
+            "start_char": 619,
+            "end_char": 633,
+            "label": "PER",
+            "text": "M. David Amiel"
+          },
+          {
+            "start_char": 721,
+            "end_char": 723,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 723,
+            "end_char": 727,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1078,
+            "end_char": 1094,
+            "label": "MISC",
+            "text": "RE.)</i><br><br>"
+          },
+          {
+            "start_char": 1187,
+            "end_char": 1205,
+            "label": "ORG",
+            "text": "l’Union européenne"
+          },
+          {
+            "start_char": 1356,
+            "end_char": 1358,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1403,
+            "end_char": 1414,
+            "label": "PER",
+            "text": "Gafa jusqu’"
+          },
+          {
+            "start_char": 1440,
+            "end_char": 1442,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1486,
+            "end_char": 1494,
+            "label": "ORG",
+            "text": "l’OCDE –"
+          },
+          {
+            "start_char": 1495,
+            "end_char": 1554,
+            "label": "ORG",
+            "text": "Organisation de coopération et de développement économiques"
+          },
+          {
+            "start_char": 1561,
+            "end_char": 1576,
+            "label": "MISC",
+            "text": "Gouvernement s’"
+          },
+          {
+            "start_char": 1680,
+            "end_char": 1682,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 1701,
+            "end_char": 1703,
+            "label": "LOC",
+            "text": "s’"
+          },
+          {
+            "start_char": 1771,
+            "end_char": 1773,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 1777,
+            "end_char": 1779,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1809,
+            "end_char": 1833,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 1894,
+            "end_char": 1916,
+            "label": "MISC",
+            "text": "Gouvernement parvienne"
+          },
+          {
+            "start_char": 1963,
+            "end_char": 1977,
+            "label": "PER",
+            "text": "M. David Amiel"
+          },
+          {
+            "start_char": 1988,
+            "end_char": 1996,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2077,
+            "end_char": 2089,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2142,
+            "end_char": 2151,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2222,
+            "end_char": 2245,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2306,
+            "end_char": 2330,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 2366,
+            "end_char": 2392,
+            "label": "PER",
+            "text": "Michel Herbillon.</strong>"
+          },
+          {
+            "start_char": 2486,
+            "end_char": 2489,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2530,
+            "end_char": 2532,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2548,
+            "end_char": 2550,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2640,
+            "end_char": 2645,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 2680,
+            "end_char": 2682,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2758,
+            "end_char": 2772,
+            "label": "LOC",
+            "text": "Monsieur Amiel"
+          },
+          {
+            "start_char": 2799,
+            "end_char": 2823,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 2880,
+            "end_char": 2885,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3077,
+            "end_char": 3085,
+            "label": "LOC",
+            "text": "i>(Rires"
+          },
+          {
+            "start_char": 3118,
+            "end_char": 3127,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3129,
+            "end_char": 3140,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 3144,
+            "end_char": 3166,
+            "label": "MISC",
+            "text": "GDR-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 3417,
+            "end_char": 3432,
+            "label": "LOC",
+            "text": "Grande-Bretagne"
+          },
+          {
+            "start_char": 3455,
+            "end_char": 3466,
+            "label": "PER",
+            "text": "Rishi Sunak"
+          },
+          {
+            "start_char": 3513,
+            "end_char": 3536,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3547,
+            "end_char": 3567,
+            "label": "PER",
+            "text": "Di Filippo.</strong>"
+          },
+          {
+            "start_char": 3650,
+            "end_char": 3655,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3730,
+            "end_char": 3736,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 3861,
+            "end_char": 3865,
+            "label": "ORG",
+            "text": "OCDE"
+          },
+          {
+            "start_char": 3989,
+            "end_char": 3996,
+            "label": "LOC",
+            "text": "Hongrie"
+          },
+          {
+            "start_char": 4018,
+            "end_char": 4040,
+            "label": "ORG",
+            "text": "Rassemblement national"
+          },
+          {
+            "start_char": 4165,
+            "end_char": 4180,
+            "label": "ORG",
+            "text": "RE.)</i><br><br"
+          },
+          {
+            "start_char": 4405,
+            "end_char": 4409,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4480,
+            "end_char": 4524,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong> Quel humoriste"
+          },
+          {
+            "start_char": 4545,
+            "end_char": 4550,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4744,
+            "end_char": 4753,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 5084,
+            "end_char": 5088,
+            "label": "MISC",
+            "text": "Gafa"
+          },
+          {
+            "start_char": 5157,
+            "end_char": 5186,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong>"
+          },
+          {
+            "start_char": 5222,
+            "end_char": 5227,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 5356,
+            "end_char": 5364,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5430,
+            "end_char": 5453,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5454,
+            "end_char": 5483,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong>"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 35,
+            "sentiment": "1 star",
+            "score": 0.39062079787254333
+          },
+          {
+            "begin_char": 36,
+            "end_char": 77,
+            "sentiment": "5 stars",
+            "score": 0.7824075222015381
+          },
+          {
+            "begin_char": 77,
+            "end_char": 103,
+            "sentiment": "3 stars",
+            "score": 0.30000680685043335
+          },
+          {
+            "begin_char": 103,
+            "end_char": 121,
+            "sentiment": "4 stars",
+            "score": 0.3682718873023987
+          },
+          {
+            "begin_char": 122,
+            "end_char": 193,
+            "sentiment": "4 stars",
+            "score": 0.2533080279827118
+          },
+          {
+            "begin_char": 194,
+            "end_char": 203,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 203,
+            "end_char": 407,
+            "sentiment": "5 stars",
+            "score": 0.48724082112312317
+          },
+          {
+            "begin_char": 408,
+            "end_char": 503,
+            "sentiment": "5 stars",
+            "score": 0.368169903755188
+          },
+          {
+            "begin_char": 503,
+            "end_char": 565,
+            "sentiment": "5 stars",
+            "score": 0.5112436413764954
+          },
+          {
+            "begin_char": 565,
+            "end_char": 592,
+            "sentiment": "3 stars",
+            "score": 0.2816186845302582
+          },
+          {
+            "begin_char": 593,
+            "end_char": 603,
+            "sentiment": "1 star",
+            "score": 0.3837512731552124
+          },
+          {
+            "begin_char": 603,
+            "end_char": 634,
+            "sentiment": "3 stars",
+            "score": 0.2758697271347046
+          },
+          {
+            "begin_char": 635,
+            "end_char": 706,
+            "sentiment": "5 stars",
+            "score": 0.5125390291213989
+          },
+          {
+            "begin_char": 707,
+            "end_char": 786,
+            "sentiment": "5 stars",
+            "score": 0.5397019982337952
+          },
+          {
+            "begin_char": 787,
+            "end_char": 893,
+            "sentiment": "5 stars",
+            "score": 0.3992396891117096
+          },
+          {
+            "begin_char": 894,
+            "end_char": 1027,
+            "sentiment": "5 stars",
+            "score": 0.6304810047149658
+          },
+          {
+            "begin_char": 1028,
+            "end_char": 1094,
+            "sentiment": "3 stars",
+            "score": 0.326738178730011
+          },
+          {
+            "begin_char": 1094,
+            "end_char": 1697,
+            "sentiment": "5 stars",
+            "score": 0.6736714243888855
+          },
+          {
+            "begin_char": 1698,
+            "end_char": 1834,
+            "sentiment": "4 stars",
+            "score": 0.40181514620780945
+          },
+          {
+            "begin_char": 1835,
+            "end_char": 1867,
+            "sentiment": "5 stars",
+            "score": 0.48281368613243103
+          },
+          {
+            "begin_char": 1868,
+            "end_char": 1928,
+            "sentiment": "1 star",
+            "score": 0.4202611446380615
+          },
+          {
+            "begin_char": 1929,
+            "end_char": 1978,
+            "sentiment": "3 stars",
+            "score": 0.30032920837402344
+          },
+          {
+            "begin_char": 1979,
+            "end_char": 1988,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1988,
+            "end_char": 2176,
+            "sentiment": "5 stars",
+            "score": 0.49674710631370544
+          },
+          {
+            "begin_char": 2177,
+            "end_char": 2275,
+            "sentiment": "3 stars",
+            "score": 0.3531632423400879
+          },
+          {
+            "begin_char": 2276,
+            "end_char": 2287,
+            "sentiment": "5 stars",
+            "score": 0.8453423976898193
+          },
+          {
+            "begin_char": 2287,
+            "end_char": 2347,
+            "sentiment": "5 stars",
+            "score": 0.3984183669090271
+          },
+          {
+            "begin_char": 2347,
+            "end_char": 2392,
+            "sentiment": "3 stars",
+            "score": 0.3152131140232086
+          },
+          {
+            "begin_char": 2393,
+            "end_char": 2451,
+            "sentiment": "5 stars",
+            "score": 0.3927764296531677
+          },
+          {
+            "begin_char": 2452,
+            "end_char": 2504,
+            "sentiment": "3 stars",
+            "score": 0.26852479577064514
+          },
+          {
+            "begin_char": 2505,
+            "end_char": 2667,
+            "sentiment": "4 stars",
+            "score": 0.3296317458152771
+          },
+          {
+            "begin_char": 2668,
+            "end_char": 2753,
+            "sentiment": "5 stars",
+            "score": 0.3489697575569153
+          },
+          {
+            "begin_char": 2754,
+            "end_char": 2824,
+            "sentiment": "3 stars",
+            "score": 0.23264922201633453
+          },
+          {
+            "begin_char": 2825,
+            "end_char": 2861,
+            "sentiment": "5 stars",
+            "score": 0.5343818068504333
+          },
+          {
+            "begin_char": 2861,
+            "end_char": 2918,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 2919,
+            "end_char": 3030,
+            "sentiment": "5 stars",
+            "score": 0.4204973578453064
+          },
+          {
+            "begin_char": 3031,
+            "end_char": 3075,
+            "sentiment": "5 stars",
+            "score": 0.3487648069858551
+          },
+          {
+            "begin_char": 3076,
+            "end_char": 3167,
+            "sentiment": "3 stars",
+            "score": 0.3199194371700287
+          },
+          {
+            "begin_char": 3167,
+            "end_char": 3467,
+            "sentiment": "5 stars",
+            "score": 0.5991372466087341
+          },
+          {
+            "begin_char": 3468,
+            "end_char": 3546,
+            "sentiment": "3 stars",
+            "score": 0.33557388186454773
+          },
+          {
+            "begin_char": 3547,
+            "end_char": 3567,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 3568,
+            "end_char": 3577,
+            "sentiment": "5 stars",
+            "score": 0.24601420760154724
+          },
+          {
+            "begin_char": 3578,
+            "end_char": 3631,
+            "sentiment": "5 stars",
+            "score": 0.5665588974952698
+          },
+          {
+            "begin_char": 3631,
+            "end_char": 3688,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3689,
+            "end_char": 3866,
+            "sentiment": "5 stars",
+            "score": 0.4779422879219055
+          },
+          {
+            "begin_char": 3867,
+            "end_char": 3996,
+            "sentiment": "4 stars",
+            "score": 0.2770799696445465
+          },
+          {
+            "begin_char": 3997,
+            "end_char": 4119,
+            "sentiment": "4 stars",
+            "score": 0.3226805031299591
+          },
+          {
+            "begin_char": 4120,
+            "end_char": 4181,
+            "sentiment": "3 stars",
+            "score": 0.3026253879070282
+          },
+          {
+            "begin_char": 4181,
+            "end_char": 4526,
+            "sentiment": "5 stars",
+            "score": 0.6585671305656433
+          },
+          {
+            "begin_char": 4526,
+            "end_char": 4583,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 4584,
+            "end_char": 4699,
+            "sentiment": "3 stars",
+            "score": 0.26226961612701416
+          },
+          {
+            "begin_char": 4700,
+            "end_char": 4760,
+            "sentiment": "3 stars",
+            "score": 0.3056453466415405
+          },
+          {
+            "begin_char": 4760,
+            "end_char": 5186,
+            "sentiment": "5 stars",
+            "score": 0.3468155562877655
+          },
+          {
+            "begin_char": 5187,
+            "end_char": 5203,
+            "sentiment": "1 star",
+            "score": 0.8737018704414368
+          },
+          {
+            "begin_char": 5203,
+            "end_char": 5260,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 5261,
+            "end_char": 5384,
+            "sentiment": "2 stars",
+            "score": 0.28190672397613525
+          },
+          {
+            "begin_char": 5385,
+            "end_char": 5483,
+            "sentiment": "3 stars",
+            "score": 0.32691943645477295
+          },
+          {
+            "begin_char": 5484,
+            "end_char": 5508,
+            "sentiment": "1 star",
+            "score": 0.46603596210479736
+          },
+          {
+            "begin_char": 5508,
+            "end_char": 5516,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-26",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-26",
+        "pageJO": "4565",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

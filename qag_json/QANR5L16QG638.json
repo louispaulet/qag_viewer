@@ -1,0 +1,791 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG638",
+    "identifiant": {
+      "numero": "638",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "pouvoir d'achat",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "INFLATION EN FRANCE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA335612",
+        "mandatRef": "PM797391"
+      },
+      "groupe": {
+        "organeRef": "PO800502",
+        "abrege": "GDR-NUPES",
+        "developpe": "Gauche démocrate et républicaine - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Économie, finances, souveraineté industrielle et numérique",
+      "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Économie, finances, souveraineté industrielle et numérique",
+          "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> INFLATION EN FRANCE <a name=PG27></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Paul Lecoq.<br><br><strong>M. Jean-Paul Lecoq. </strong>Monsieur le ministre de l’économie, des finances et de la souveraineté industrielle et numérique, avec votre projet de loi visant à reculer brutalement l'âge de départ à la retraite, l’envolée des prix alimentaires et de l’énergie sont les premiers sujets d’inquiétude des Français. Avec 15 % d’augmentation en moyenne en un an, ces deux postes occupent à eux seuls un tiers des dépenses des ménages les plus modestes. Cette situation est intenable. Un chiffre dramatique le prouve : le recours à l’aide alimentaire a triplé en dix ans.<br><br>Mais comme dans votre logiciel ultralibéral périmé on n’exige jamais rien des entreprises et des multinationales, pour répondre à la crise de l’énergie, vous avez créé un bouclier tarifaire qui s’est avéré ruineux pour les finances publiques, sans résoudre le problème pour les Français. Et vous nous ressortez la même rustine pour la crise alimentaire, en demandant gentiment à la grande distribution de faire un effort – qui, au passage, lui permettra d’étouffer un peu plus les petits commerçants et les petits producteurs. Aux riches les demandes polies et inefficaces, aux pauvres l’aide alimentaire et les réformes injustes !<br><br>Pourtant, une seule solution permettrait de sortir de l’ornière : l’augmentation des salaires, des prestations et des pensions. Depuis près de quinze ans, les politiques de modération salariale et vos réformes, qu’elles portent sur l’assurance chômage ou sur les retraites, plombent le pouvoir d’achat de l’immense majorité des Français. Beaucoup ne peuvent plus vivre décemment du fruit de leur travail. Ils ne peuvent envisager de s’offrir des produits locaux issus de circuits courts ou, simplement, de partir en vacances.<br><br>Il est donc temps d’assumer vos choix politiques. Pourquoi refusez-vous d’indexer les salaires du public et du privé sur l’inflation ? Pourquoi refusez-vous d’augmenter le Smic, les prestations et les pensions en conséquence ? <i>(Applaudissements sur les bancs du groupe GDR-NUPES.)</i><br><br><strong>M. André Chassaigne.</strong> Très bien !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br><strong>M. Pierre Cordier.</strong> Et de la dette !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre de l’économie, des finances et de la souveraineté industrielle et numérique. </i>(Le micro de l'orateur ne fonctionne pas.)</i> Je peux m'adresser directement à Jean-Paul Lecoq, puisqu'il est assis juste en face de moi. <i>(Le micro de l'orateur fonctionne à nouveau.) Il sait le respect que j'ai pour lui, l'amitié locale qui nous lie, donc évitons les caricatures.<br><br>Je partage totalement ce que vous dites sur le choc de l'inflation… <i>(Le micro de l'orateur ne fonctionne plus.)</i><br><br><strong>M. André Chassaigne.</strong> Quelle est donc cette censure ?<br><br><strong>M. Bruno Le Maire,</strong><i> ministre. </i>(Le micro de l'orateur fonctionne à nouveau) …et à quel point il pénalise nos compatriotes, en particulier les plus modestes. Les deux postes les plus lourds sont effectivement l'énergie et l'alimentation.<br><br>Sur l'énergie, aucun État européen n'a fait autant que nous. Nous avons mis en place un bouclier sur l’électricité et un bouclier sur le gaz. Alors que les factures auraient dû augmenter de 180 à 200 euros – dans certains pays européens, elles ont connu une hausse de 300 ou 350 euros –, tel n’a pas été le cas pour nos compatriotes français.<br><br><strong>M. André Chassaigne.</strong> Cherchez la cause !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Ce dispositif nous coûte 46 milliards d'euros. Dans le cadre d’une logique qui n'est pas très libérale – vous le reconnaîtrez bien volontiers –, nous sommes allés prélever 26 milliards sur les fournisseurs d'énergie, que nous avons donc lourdement taxés, afin qu'ils financent plus de la moitié du bouclier énergétique.<br><br><strong>M. André Chassaigne.</strong> C'est un bon choix !<br><br><strong>M. Erwan Balanant.</strong> N'est-ce pas, président Chassaigne ?<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Ensuite se pose la question de l'alimentation. Nous ne sommes pas non plus restés les bras croisés, en disant « les prix alimentaires augmentent, nous ne faisons rien ». Nous avons instauré le trimestre anti-inflation, lequel coûtera plusieurs centaines de millions d'euros aux distributeurs. Nous avons également veillé – vous avez parfaitement raison de le souligner – à ce qu'on ne touche pas à la loi pour l’équilibre des relations commerciales dans le secteur agricole et alimentaire et une alimentation saine, durable et accessible à tous, dite loi Egalim, afin que les producteurs agricoles ne soient pas pénalisés et que ce ne soient pas eux qui, au bout du compte, paient les factures, mais les distributeurs.<br><br>Je souhaite que les grands industriels paient également la facture, afin qu’ils compensent en partie les effets de l’inflation. Nous avons ainsi été amenés à demander à renégocier les contrats à la fin du mois de juin, lorsque le trimestre anti-inflation s’achèvera.<br><br>Sur les salaires,…<br><br><strong>M. Jean-Paul Lecoq.</strong> Ah, quand même !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>…je rappelle que le Smic a augmenté de plus de 8 % depuis un an, car il est indexé sur l'inflation. C'est là que réside notre véritable divergence : pour ma part, j'estime qu'indexer tous les salaires sur l'inflation fait courir le risque de l’entretenir, alors que notre objectif premier est bien de la faire disparaître. Elle devrait refluer à la mi-2023.<br> <p>",
+        "entities": [
+          {
+            "start_char": 36,
+            "end_char": 42,
+            "label": "LOC",
+            "text": "FRANCE"
+          },
+          {
+            "start_char": 77,
+            "end_char": 80,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 121,
+            "end_char": 123,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 124,
+            "end_char": 133,
+            "label": "PER",
+            "text": "Jean-Paul"
+          },
+          {
+            "start_char": 159,
+            "end_char": 174,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq"
+          },
+          {
+            "start_char": 185,
+            "end_char": 193,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 209,
+            "end_char": 211,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 368,
+            "end_char": 370,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 406,
+            "end_char": 408,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 458,
+            "end_char": 466,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 682,
+            "end_char": 684,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 783,
+            "end_char": 785,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 862,
+            "end_char": 873,
+            "label": "MISC",
+            "text": "crise de l’"
+          },
+          {
+            "start_char": 923,
+            "end_char": 925,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 1007,
+            "end_char": 1015,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1315,
+            "end_char": 1317,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1361,
+            "end_char": 1376,
+            "label": "PER",
+            "text": "br><br>Pourtant"
+          },
+          {
+            "start_char": 1422,
+            "end_char": 1424,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1579,
+            "end_char": 1582,
+            "label": "PER",
+            "text": "qu’"
+          },
+          {
+            "start_char": 1600,
+            "end_char": 1602,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1673,
+            "end_char": 1682,
+            "label": "ORG",
+            "text": "l’immense"
+          },
+          {
+            "start_char": 1696,
+            "end_char": 1704,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1801,
+            "end_char": 1803,
+            "label": "LOC",
+            "text": "s’"
+          },
+          {
+            "start_char": 1884,
+            "end_char": 1900,
+            "label": "MISC",
+            "text": "vacances.<br><br"
+          },
+          {
+            "start_char": 1973,
+            "end_char": 1975,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 2022,
+            "end_char": 2024,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2058,
+            "end_char": 2060,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 2073,
+            "end_char": 2077,
+            "label": "LOC",
+            "text": "Smic"
+          },
+          {
+            "start_char": 2173,
+            "end_char": 2203,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2207,
+            "end_char": 2233,
+            "label": "PER",
+            "text": "André Chassaigne.</strong>"
+          },
+          {
+            "start_char": 2261,
+            "end_char": 2264,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2305,
+            "end_char": 2307,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2323,
+            "end_char": 2325,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2415,
+            "end_char": 2438,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 2475,
+            "end_char": 2480,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 2515,
+            "end_char": 2517,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2673,
+            "end_char": 2688,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq"
+          },
+          {
+            "start_char": 2732,
+            "end_char": 2744,
+            "label": "MISC",
+            "text": "<i>(Le micro"
+          },
+          {
+            "start_char": 2866,
+            "end_char": 2885,
+            "label": "MISC",
+            "text": "caricatures.<br><br"
+          },
+          {
+            "start_char": 3023,
+            "end_char": 3049,
+            "label": "PER",
+            "text": "André Chassaigne.</strong>"
+          },
+          {
+            "start_char": 3100,
+            "end_char": 3105,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3334,
+            "end_char": 3354,
+            "label": "MISC",
+            "text": "alimentation.<br><br"
+          },
+          {
+            "start_char": 3376,
+            "end_char": 3389,
+            "label": "LOC",
+            "text": "État européen"
+          },
+          {
+            "start_char": 3456,
+            "end_char": 3458,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3647,
+            "end_char": 3649,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 3716,
+            "end_char": 3751,
+            "label": "PER",
+            "text": "André Chassaigne.</strong> Cherchez"
+          },
+          {
+            "start_char": 3781,
+            "end_char": 3786,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4162,
+            "end_char": 4188,
+            "label": "PER",
+            "text": "André Chassaigne.</strong>"
+          },
+          {
+            "start_char": 4225,
+            "end_char": 4251,
+            "label": "PER",
+            "text": "M. Erwan Balanant.</strong"
+          },
+          {
+            "start_char": 4277,
+            "end_char": 4287,
+            "label": "PER",
+            "text": "Chassaigne"
+          },
+          {
+            "start_char": 4308,
+            "end_char": 4313,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4761,
+            "end_char": 4763,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 4906,
+            "end_char": 4912,
+            "label": "MISC",
+            "text": "Egalim"
+          },
+          {
+            "start_char": 5055,
+            "end_char": 5076,
+            "label": "MISC",
+            "text": "distributeurs.<br><br"
+          },
+          {
+            "start_char": 5150,
+            "end_char": 5153,
+            "label": "LOC",
+            "text": "qu’"
+          },
+          {
+            "start_char": 5192,
+            "end_char": 5194,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 5332,
+            "end_char": 5368,
+            "label": "MISC",
+            "text": "s’achèvera.<br><br>Sur les salaires,"
+          },
+          {
+            "start_char": 5388,
+            "end_char": 5413,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong>"
+          },
+          {
+            "start_char": 5449,
+            "end_char": 5454,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 5512,
+            "end_char": 5516,
+            "label": "LOC",
+            "text": "Smic"
+          },
+          {
+            "start_char": 5734,
+            "end_char": 5736,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 5841,
+            "end_char": 5852,
+            "label": "LOC",
+            "text": "mi-2023.<br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 95,
+            "sentiment": "3 stars",
+            "score": 0.2631057798862457
+          },
+          {
+            "begin_char": 96,
+            "end_char": 175,
+            "sentiment": "3 stars",
+            "score": 0.2658112049102783
+          },
+          {
+            "begin_char": 176,
+            "end_char": 185,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 185,
+            "end_char": 467,
+            "sentiment": "5 stars",
+            "score": 0.43564099073410034
+          },
+          {
+            "begin_char": 468,
+            "end_char": 512,
+            "sentiment": "4 stars",
+            "score": 0.3409053683280945
+          },
+          {
+            "begin_char": 512,
+            "end_char": 603,
+            "sentiment": "3 stars",
+            "score": 0.31388258934020996
+          },
+          {
+            "begin_char": 604,
+            "end_char": 634,
+            "sentiment": "1 star",
+            "score": 0.34116098284721375
+          },
+          {
+            "begin_char": 635,
+            "end_char": 1016,
+            "sentiment": "1 star",
+            "score": 0.41033875942230225
+          },
+          {
+            "begin_char": 1017,
+            "end_char": 1255,
+            "sentiment": "1 star",
+            "score": 0.6738618612289429
+          },
+          {
+            "begin_char": 1256,
+            "end_char": 1360,
+            "sentiment": "1 star",
+            "score": 0.5526103973388672
+          },
+          {
+            "begin_char": 1360,
+            "end_char": 1376,
+            "sentiment": "3 stars",
+            "score": 0.309823215007782
+          },
+          {
+            "begin_char": 1376,
+            "end_char": 1495,
+            "sentiment": "1 star",
+            "score": 0.44141554832458496
+          },
+          {
+            "begin_char": 1496,
+            "end_char": 1682,
+            "sentiment": "5 stars",
+            "score": 0.2788451611995697
+          },
+          {
+            "begin_char": 1683,
+            "end_char": 1705,
+            "sentiment": "5 stars",
+            "score": 0.31713879108428955
+          },
+          {
+            "begin_char": 1706,
+            "end_char": 1772,
+            "sentiment": "5 stars",
+            "score": 0.378842294216156
+          },
+          {
+            "begin_char": 1773,
+            "end_char": 1950,
+            "sentiment": "5 stars",
+            "score": 0.3424280881881714
+          },
+          {
+            "begin_char": 1951,
+            "end_char": 2035,
+            "sentiment": "1 star",
+            "score": 0.419707715511322
+          },
+          {
+            "begin_char": 2036,
+            "end_char": 2127,
+            "sentiment": "1 star",
+            "score": 0.3125702440738678
+          },
+          {
+            "begin_char": 2128,
+            "end_char": 2233,
+            "sentiment": "3 stars",
+            "score": 0.3140532672405243
+          },
+          {
+            "begin_char": 2234,
+            "end_char": 2245,
+            "sentiment": "5 stars",
+            "score": 0.5586434602737427
+          },
+          {
+            "begin_char": 2245,
+            "end_char": 2279,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2280,
+            "end_char": 2456,
+            "sentiment": "2 stars",
+            "score": 0.2233516424894333
+          },
+          {
+            "begin_char": 2456,
+            "end_char": 2502,
+            "sentiment": "3 stars",
+            "score": 0.30349332094192505
+          },
+          {
+            "begin_char": 2503,
+            "end_char": 2588,
+            "sentiment": "5 stars",
+            "score": 0.3489697575569153
+          },
+          {
+            "begin_char": 2589,
+            "end_char": 2639,
+            "sentiment": "1 star",
+            "score": 0.43836450576782227
+          },
+          {
+            "begin_char": 2640,
+            "end_char": 2731,
+            "sentiment": "5 stars",
+            "score": 0.2448759526014328
+          },
+          {
+            "begin_char": 2732,
+            "end_char": 2780,
+            "sentiment": "2 stars",
+            "score": 0.35974329710006714
+          },
+          {
+            "begin_char": 2781,
+            "end_char": 3049,
+            "sentiment": "5 stars",
+            "score": 0.3078594207763672
+          },
+          {
+            "begin_char": 3050,
+            "end_char": 3081,
+            "sentiment": "1 star",
+            "score": 0.4412923753261566
+          },
+          {
+            "begin_char": 3081,
+            "end_char": 3137,
+            "sentiment": "4 stars",
+            "score": 0.2820071280002594
+          },
+          {
+            "begin_char": 3138,
+            "end_char": 3186,
+            "sentiment": "2 stars",
+            "score": 0.32565829157829285
+          },
+          {
+            "begin_char": 3187,
+            "end_char": 3267,
+            "sentiment": "5 stars",
+            "score": 0.260885626077652
+          },
+          {
+            "begin_char": 3268,
+            "end_char": 3415,
+            "sentiment": "2 stars",
+            "score": 0.3130311667919159
+          },
+          {
+            "begin_char": 3416,
+            "end_char": 3496,
+            "sentiment": "5 stars",
+            "score": 0.3091237246990204
+          },
+          {
+            "begin_char": 3497,
+            "end_char": 3762,
+            "sentiment": "1 star",
+            "score": 0.3757815957069397
+          },
+          {
+            "begin_char": 3762,
+            "end_char": 3819,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3820,
+            "end_char": 3824,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3824,
+            "end_char": 3870,
+            "sentiment": "1 star",
+            "score": 0.22969010472297668
+          },
+          {
+            "begin_char": 3871,
+            "end_char": 4188,
+            "sentiment": "4 stars",
+            "score": 0.24241264164447784
+          },
+          {
+            "begin_char": 4189,
+            "end_char": 4209,
+            "sentiment": "4 stars",
+            "score": 0.4903641641139984
+          },
+          {
+            "begin_char": 4209,
+            "end_char": 4252,
+            "sentiment": "3 stars",
+            "score": 0.3019412159919739
+          },
+          {
+            "begin_char": 4253,
+            "end_char": 4346,
+            "sentiment": "3 stars",
+            "score": 0.2683432102203369
+          },
+          {
+            "begin_char": 4347,
+            "end_char": 4397,
+            "sentiment": "3 stars",
+            "score": 0.3348904252052307
+          },
+          {
+            "begin_char": 4398,
+            "end_char": 4520,
+            "sentiment": "1 star",
+            "score": 0.459604412317276
+          },
+          {
+            "begin_char": 4521,
+            "end_char": 4643,
+            "sentiment": "5 stars",
+            "score": 0.2741401195526123
+          },
+          {
+            "begin_char": 4644,
+            "end_char": 5204,
+            "sentiment": "5 stars",
+            "score": 0.6668798923492432
+          },
+          {
+            "begin_char": 5205,
+            "end_char": 5413,
+            "sentiment": "3 stars",
+            "score": 0.29669278860092163
+          },
+          {
+            "begin_char": 5414,
+            "end_char": 5423,
+            "sentiment": "2 stars",
+            "score": 0.23553785681724548
+          },
+          {
+            "begin_char": 5424,
+            "end_char": 5430,
+            "sentiment": "5 stars",
+            "score": 0.29185542464256287
+          },
+          {
+            "begin_char": 5430,
+            "end_char": 5487,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 5488,
+            "end_char": 5591,
+            "sentiment": "2 stars",
+            "score": 0.302817165851593
+          },
+          {
+            "begin_char": 5592,
+            "end_char": 5814,
+            "sentiment": "2 stars",
+            "score": 0.31975921988487244
+          },
+          {
+            "begin_char": 5815,
+            "end_char": 5857,
+            "sentiment": "3 stars",
+            "score": 0.3204682767391205
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-03-08",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-03-08",
+        "pageJO": "2243",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

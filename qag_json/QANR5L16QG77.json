@@ -1,0 +1,731 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG77",
+    "identifiant": {
+      "numero": "77",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "politique extérieure",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Déplacement en Afrique du Président de la République"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA722344",
+        "mandatRef": "PM797244"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Europe",
+      "developpe": "Secrétariat d’État auprès de la ministre de l’Europe et des affaires étrangères, chargé de l’Europe"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Europe",
+          "developpe": "Secrétariat d’État auprès de la ministre de l’Europe et des affaires étrangères, chargé de l’Europe"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> DÉPLACEMENT EN AFRIQUE DU PRÉSIDENT DE LA RÉPUBLIQUE <a name=PG23></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Hubert Julien-Laferrière.<br><br><strong>M. Hubert Julien-Laferrière. </strong>À chaque début de mandat, l'exécutif nous promet de rompre avec la Françafrique. Aujourd'hui, le Président de la République entame une tournée dans trois pays africains pour « renouveler la relation de la France avec le continent ». Ces mots, ils les employaient déjà en 2017 à Ouagadougou. Or, depuis, la France a soutenu le troisième mandat inconstitutionnel d'Alassane Ouattara en Côte-d'Ivoire comme d'Alpha Condé en Guinée. Elle a aussi adoubé le nouveau président tchadien Mahamat Déby qui a succédé à son père sans processus électoral.<br><br><strong>M. Jean-Paul Lecoq.</strong> Il a raison !<br><br><strong>M. Hubert Julien-Laferrière. </strong>Demain, le Président Emmanuel Macron sera accueilli par le président Patrice Talon au Bénin, pays autrefois salué pour être le laboratoire de la démocratie en Afrique et dans lequel, désormais, la situation des opposants politiques est devenue alarmante. Reckya Madougou, ex-garde des sceaux, Joël Aïvo, constitutionnaliste reconnu, ont été condamnés en moins de vingt-quatre heures de procès à vingt ans et dix ans de prison et sont détenus depuis un an et demi dans des conditions totalement indignes.<br><br><strong>Mme Valérie Rabault.</strong> Vous avez raison de le rappeler !<br><br><strong>M. Hubert Julien-Laferrière. </strong>Leur tort serait-il d'avoir été candidats à la présidence de la République ? D'autres ont été contraints à l'exil, tel l'ex-maire de Cotonou, Léhady Soglo.<br><br>Avec près de quatre-vingts de mes collègues, nous venons d'adresser un courrier au Président de la République pour l'alerter sur la situation béninoise. Alors que l'influence d'autres puissances grandit sur le continent, comment passer de la parole aux actes pour construire une nouvelle relation avec l'Afrique, à la fois solidaire, exigeante et porteuse d'espoir ? <i>(Applaudissements sur les bancs des groupes Écolo-NUPES et GDR-NUPES et sur quelques sur les bancs du groupe SOC.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État auprès de la ministre de l’Europe et des affaires étrangères, chargée de l’Europe.<br><br><strong>Mme Laurence Boone,</strong><i> secrétaire d'État auprès de la ministre de l’Europe et des affaires étrangères, chargée de l’Europe. </i>Monsieur le député, vous me permettrez de rectifier et de compléter certaines de vos remarques. Jusqu'au 28 juillet prochain, le Président de la République se rendra au Cameroun, au Bénin, puis en Guinée-Bissau. Il s'agit, après sa visite en Roumanie, en Moldavie et en Ukraine, du deuxième grand déplacement international qu'il effectue. Cela confirme la priorité donnée au partenariat euro-africain dans la politique étrangère du chef de l'État : soit on s'engage, soit on regarde.<br><br>Cette visite intervient dans le droit fil de l'agenda présenté en novembre dernier pour renouveler la relation Afrique-France : mettre à l'honneur les liens humains et historiques entre la France et le continent. Ce sera l'occasion pour le chef de l'État de se placer une nouvelle fois à l'écoute des jeunesses africaines et françaises et de mettre à l'honneur l'art, les cultures et le patrimoine du continent.<br><br>Ce déplacement s'inscrit également dans un contexte régional et international difficile. La menace terroriste présente depuis plusieurs années au Sahel continue de se propager dans le golfe de Guinée, ce à quoi la France a réagi en adoptant son dispositif sécuritaire.<br><br>Vous l'avez noté, les conséquences de la guerre en Ukraine se font également fortement ressentir sur le continent africain, très dépendant des importations de produits agricoles. Ne tombons pas dans le piège narratif de la Russie.<br><br>Le déplacement va donc être l'occasion de mettre l'accent sur l'impulsion donnée par l'initiative FARM – Food & Agriculture Resilience Mission – lancée par le Président en mars dernier, pour renforcer notre résilience collective face aux crises alimentaires et favoriser l'investissement de long terme en faveur de l'agriculture dans les pays vulnérables, notamment en Afrique.<br><br><strong>Mme la présidente. </strong>La parole est à M. Hubert Julien-Laferrière.<br><br><strong>M. Hubert Julien-Laferrière. </strong>Les enjeux géopolitiques de cette visite sont importants, bien sûr, mais j'espère que, demain, le Président de la République sera fidèle à cette place singulière qu'occupe la France, patrie des droits humains, sur la scène internationale et qu'il parlera au président Talon de la situation des prisonniers politiques dans son pays, en particulier de Mme Madougou et de M. Aïvo. <i>(Applaudissements sur les bancs du groupe Écolo-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 38,
+            "end_char": 58,
+            "label": "LOC",
+            "text": "AFRIQUE DU PRÉSIDENT"
+          },
+          {
+            "start_char": 65,
+            "end_char": 75,
+            "label": "MISC",
+            "text": "RÉPUBLIQUE"
+          },
+          {
+            "start_char": 110,
+            "end_char": 113,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 154,
+            "end_char": 157,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 157,
+            "end_char": 197,
+            "label": "PER",
+            "text": "Hubert Julien-Laferrière.<br><br><strong"
+          },
+          {
+            "start_char": 201,
+            "end_char": 225,
+            "label": "PER",
+            "text": "Hubert Julien-Laferrière"
+          },
+          {
+            "start_char": 303,
+            "end_char": 315,
+            "label": "MISC",
+            "text": "Françafrique"
+          },
+          {
+            "start_char": 333,
+            "end_char": 359,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 438,
+            "end_char": 447,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 514,
+            "end_char": 525,
+            "label": "LOC",
+            "text": "Ouagadougou"
+          },
+          {
+            "start_char": 539,
+            "end_char": 548,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 599,
+            "end_char": 616,
+            "label": "PER",
+            "text": "Alassane Ouattara"
+          },
+          {
+            "start_char": 620,
+            "end_char": 633,
+            "label": "LOC",
+            "text": "Côte-d'Ivoire"
+          },
+          {
+            "start_char": 642,
+            "end_char": 653,
+            "label": "LOC",
+            "text": "Alpha Condé"
+          },
+          {
+            "start_char": 657,
+            "end_char": 663,
+            "label": "LOC",
+            "text": "Guinée"
+          },
+          {
+            "start_char": 715,
+            "end_char": 727,
+            "label": "PER",
+            "text": "Mahamat Déby"
+          },
+          {
+            "start_char": 797,
+            "end_char": 821,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 855,
+            "end_char": 879,
+            "label": "PER",
+            "text": "Hubert Julien-Laferrière"
+          },
+          {
+            "start_char": 911,
+            "end_char": 926,
+            "label": "PER",
+            "text": "Emmanuel Macron"
+          },
+          {
+            "start_char": 959,
+            "end_char": 972,
+            "label": "PER",
+            "text": "Patrice Talon"
+          },
+          {
+            "start_char": 976,
+            "end_char": 981,
+            "label": "LOC",
+            "text": "Bénin"
+          },
+          {
+            "start_char": 1049,
+            "end_char": 1056,
+            "label": "LOC",
+            "text": "Afrique"
+          },
+          {
+            "start_char": 1145,
+            "end_char": 1160,
+            "label": "PER",
+            "text": "Reckya Madougou"
+          },
+          {
+            "start_char": 1183,
+            "end_char": 1192,
+            "label": "PER",
+            "text": "Joël Aïvo"
+          },
+          {
+            "start_char": 1409,
+            "end_char": 1437,
+            "label": "PER",
+            "text": "Mme Valérie Rabault.</strong"
+          },
+          {
+            "start_char": 1491,
+            "end_char": 1515,
+            "label": "PER",
+            "text": "Hubert Julien-Laferrière"
+          },
+          {
+            "start_char": 1590,
+            "end_char": 1600,
+            "label": "LOC",
+            "text": "République"
+          },
+          {
+            "start_char": 1659,
+            "end_char": 1666,
+            "label": "LOC",
+            "text": "Cotonou"
+          },
+          {
+            "start_char": 1668,
+            "end_char": 1688,
+            "label": "PER",
+            "text": "Léhady Soglo.<br><br"
+          },
+          {
+            "start_char": 1772,
+            "end_char": 1798,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1993,
+            "end_char": 2000,
+            "label": "LOC",
+            "text": "Afrique"
+          },
+          {
+            "start_char": 2103,
+            "end_char": 2114,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2118,
+            "end_char": 2127,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2168,
+            "end_char": 2192,
+            "label": "ORG",
+            "text": "SOC.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2193,
+            "end_char": 2196,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2237,
+            "end_char": 2240,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2257,
+            "end_char": 2261,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2289,
+            "end_char": 2295,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2335,
+            "end_char": 2337,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2360,
+            "end_char": 2372,
+            "label": "PER",
+            "text": "Mme Laurence"
+          },
+          {
+            "start_char": 2405,
+            "end_char": 2409,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2437,
+            "end_char": 2443,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2485,
+            "end_char": 2491,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2497,
+            "end_char": 2505,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2626,
+            "end_char": 2652,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 2666,
+            "end_char": 2674,
+            "label": "LOC",
+            "text": "Cameroun"
+          },
+          {
+            "start_char": 2679,
+            "end_char": 2684,
+            "label": "LOC",
+            "text": "Bénin"
+          },
+          {
+            "start_char": 2694,
+            "end_char": 2707,
+            "label": "LOC",
+            "text": "Guinée-Bissau"
+          },
+          {
+            "start_char": 2739,
+            "end_char": 2747,
+            "label": "LOC",
+            "text": "Roumanie"
+          },
+          {
+            "start_char": 2752,
+            "end_char": 2760,
+            "label": "LOC",
+            "text": "Moldavie"
+          },
+          {
+            "start_char": 2767,
+            "end_char": 2774,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 2939,
+            "end_char": 2943,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3099,
+            "end_char": 3113,
+            "label": "LOC",
+            "text": "Afrique-France"
+          },
+          {
+            "start_char": 3174,
+            "end_char": 3183,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3238,
+            "end_char": 3242,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3389,
+            "end_char": 3406,
+            "label": "MISC",
+            "text": "continent.<br><br"
+          },
+          {
+            "start_char": 3553,
+            "end_char": 3558,
+            "label": "PER",
+            "text": "Sahel"
+          },
+          {
+            "start_char": 3591,
+            "end_char": 3606,
+            "label": "LOC",
+            "text": "golfe de Guinée"
+          },
+          {
+            "start_char": 3618,
+            "end_char": 3627,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3663,
+            "end_char": 3682,
+            "label": "MISC",
+            "text": "sécuritaire.<br><br"
+          },
+          {
+            "start_char": 3734,
+            "end_char": 3741,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 4019,
+            "end_char": 4065,
+            "label": "MISC",
+            "text": "FARM – Food & Agriculture Resilience Mission –"
+          },
+          {
+            "start_char": 4080,
+            "end_char": 4089,
+            "label": "PER",
+            "text": "Président"
+          },
+          {
+            "start_char": 4290,
+            "end_char": 4313,
+            "label": "LOC",
+            "text": "Afrique.<br><br><strong"
+          },
+          {
+            "start_char": 4314,
+            "end_char": 4317,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4358,
+            "end_char": 4361,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 4361,
+            "end_char": 4401,
+            "label": "PER",
+            "text": "Hubert Julien-Laferrière.<br><br><strong"
+          },
+          {
+            "start_char": 4405,
+            "end_char": 4429,
+            "label": "PER",
+            "text": "Hubert Julien-Laferrière"
+          },
+          {
+            "start_char": 4538,
+            "end_char": 4564,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4612,
+            "end_char": 4621,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 4708,
+            "end_char": 4713,
+            "label": "PER",
+            "text": "Talon"
+          },
+          {
+            "start_char": 4790,
+            "end_char": 4802,
+            "label": "PER",
+            "text": "Mme Madougou"
+          },
+          {
+            "start_char": 4809,
+            "end_char": 4816,
+            "label": "PER",
+            "text": "M. Aïvo"
+          },
+          {
+            "start_char": 4863,
+            "end_char": 4883,
+            "label": "MISC",
+            "text": "Écolo-NUPES.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 128,
+            "sentiment": "3 stars",
+            "score": 0.3251316547393799
+          },
+          {
+            "begin_char": 129,
+            "end_char": 226,
+            "sentiment": "3 stars",
+            "score": 0.26162493228912354
+          },
+          {
+            "begin_char": 227,
+            "end_char": 316,
+            "sentiment": "2 stars",
+            "score": 0.2777523994445801
+          },
+          {
+            "begin_char": 317,
+            "end_char": 468,
+            "sentiment": "4 stars",
+            "score": 0.42967715859413147
+          },
+          {
+            "begin_char": 469,
+            "end_char": 526,
+            "sentiment": "3 stars",
+            "score": 0.22261644899845123
+          },
+          {
+            "begin_char": 527,
+            "end_char": 664,
+            "sentiment": "4 stars",
+            "score": 0.32768356800079346
+          },
+          {
+            "begin_char": 665,
+            "end_char": 822,
+            "sentiment": "3 stars",
+            "score": 0.34703487157821655
+          },
+          {
+            "begin_char": 823,
+            "end_char": 836,
+            "sentiment": "5 stars",
+            "score": 0.3322871923446655
+          },
+          {
+            "begin_char": 836,
+            "end_char": 880,
+            "sentiment": "3 stars",
+            "score": 0.2760094106197357
+          },
+          {
+            "begin_char": 881,
+            "end_char": 1144,
+            "sentiment": "5 stars",
+            "score": 0.38963255286216736
+          },
+          {
+            "begin_char": 1145,
+            "end_char": 1438,
+            "sentiment": "1 star",
+            "score": 0.23458412289619446
+          },
+          {
+            "begin_char": 1439,
+            "end_char": 1472,
+            "sentiment": "5 stars",
+            "score": 0.41745617985725403
+          },
+          {
+            "begin_char": 1472,
+            "end_char": 1516,
+            "sentiment": "3 stars",
+            "score": 0.2760094106197357
+          },
+          {
+            "begin_char": 1517,
+            "end_char": 1526,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1526,
+            "end_char": 1602,
+            "sentiment": "1 star",
+            "score": 0.31071189045906067
+          },
+          {
+            "begin_char": 1603,
+            "end_char": 1841,
+            "sentiment": "4 stars",
+            "score": 0.36125648021698
+          },
+          {
+            "begin_char": 1842,
+            "end_char": 2055,
+            "sentiment": "5 stars",
+            "score": 0.6708978414535522
+          },
+          {
+            "begin_char": 2056,
+            "end_char": 2211,
+            "sentiment": "4 stars",
+            "score": 0.3164905309677124
+          },
+          {
+            "begin_char": 2212,
+            "end_char": 2360,
+            "sentiment": "4 stars",
+            "score": 0.33289024233818054
+          },
+          {
+            "begin_char": 2360,
+            "end_char": 2492,
+            "sentiment": "4 stars",
+            "score": 0.34898078441619873
+          },
+          {
+            "begin_char": 2493,
+            "end_char": 2497,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2497,
+            "end_char": 2592,
+            "sentiment": "4 stars",
+            "score": 0.3512269854545593
+          },
+          {
+            "begin_char": 2593,
+            "end_char": 2708,
+            "sentiment": "4 stars",
+            "score": 0.3289308547973633
+          },
+          {
+            "begin_char": 2709,
+            "end_char": 2835,
+            "sentiment": "4 stars",
+            "score": 0.36856889724731445
+          },
+          {
+            "begin_char": 2836,
+            "end_char": 3200,
+            "sentiment": "4 stars",
+            "score": 0.48066309094429016
+          },
+          {
+            "begin_char": 3201,
+            "end_char": 3495,
+            "sentiment": "4 stars",
+            "score": 0.44236648082733154
+          },
+          {
+            "begin_char": 3496,
+            "end_char": 3861,
+            "sentiment": "4 stars",
+            "score": 0.45670801401138306
+          },
+          {
+            "begin_char": 3862,
+            "end_char": 4332,
+            "sentiment": "4 stars",
+            "score": 0.37488409876823425
+          },
+          {
+            "begin_char": 4333,
+            "end_char": 4430,
+            "sentiment": "3 stars",
+            "score": 0.26162493228912354
+          },
+          {
+            "begin_char": 4431,
+            "end_char": 4440,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 4440,
+            "end_char": 4817,
+            "sentiment": "5 stars",
+            "score": 0.49213874340057373
+          },
+          {
+            "begin_char": 4818,
+            "end_char": 4888,
+            "sentiment": "4 stars",
+            "score": 0.2986427843570709
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-27",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-27",
+        "pageJO": "3107",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

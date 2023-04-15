@@ -1,0 +1,599 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG499",
+    "identifiant": {
+      "numero": "499",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "justice",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "POLITIQUE PÉNALE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795644",
+        "mandatRef": "PM797604"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Justice",
+      "developpe": "Ministère de la justice"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Justice",
+          "developpe": "Ministère de la justice"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> POLITIQUE PÉNALE <a name=PG28></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Nathalie Da Conceicao Carvalho.<br><br><strong>Mme Nathalie Da Conceicao Carvalho. </strong>Monsieur le garde des sceaux, vendredi dernier, le meurtrier de la jeune Axelle Dorier a été condamné à douze ans de prison ; si, en vertu de la séparation des pouvoirs, il ne nous appartient, ni à vous ni à nous, de commenter ce verdict, il n'en reste pas moins que bon nombre de nos compatriotes sont choqués, notamment après avoir entendu l'avocat du coupable expliquer qu'il pourra, dès l'année prochaine, « bénéficier d'un bracelet probatoire ».<br><br>Voilà une triste illustration de votre politique pénale. Rappels à la loi, stages de citoyenneté, composition pénale, travaux d'intérêt général – effectués ou non –, peines de prison avec sursis, peines de prison ferme immédiatement transformées en aménagements de peine ou jamais mises à exécution, voilà ce que risquent ceux qui volent, rackettent, insultent, menacent, agressent, blessent, trafiquent. En outre, depuis le 1er janvier 2023, tout condamné à moins de deux ans de détention sort trois mois avant la fin de sa peine. Bien sûr, il y a des exceptions à la règle, mais vous acceptez de laisser sortir des coupables de trafic de stupéfiants, de vol, de violences, avec ou sans armes.<br><br>Si l'actualité politico-judiciaire n'évoquait pas si régulièrement des récidivistes, on pourrait se dire que c'est seulement la notion même de justice qui est mise à mal ; mais, dans les faits, ce sont nos compatriotes qui font les frais de cette politique.<br><br>Je vous le dis clairement, monsieur le garde des sceaux, et je relaie ici les paroles de bon nombre de magistrats : il y aura un jour un raté. Depuis des décennies, la politique des peines repose sur un dogme : éviter de sanctionner et, lorsque des peines sont prononcées, éviter la prison. Ces libérations anticipées inquiètent, à juste titre, les Français. Ma question est donc simple : quand allez-vous changer de politique pénale ? Quand mettrez-vous en place une politique pénale qui protège les Français et leur rend enfin confiance dans la justice ?<br><br><strong>Mme la présidente. </strong>La parole est à M. le garde des sceaux, ministre de la justice.<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux, ministre de la justice. </i>D'un extrême à l'autre, ce sont toujours les mêmes vieilles recettes, les mêmes casseroles et les mêmes produits. Forcément, cela donne de mauvais plats. <i>(Exclamations sur plusieurs bancs du groupe LFI-NUPES.)</i><br><br><strong>M. Benjamin Lucas.</strong> Lamentable !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>Pourquoi changer de politique pénale pour celle que vous proposez ? Vous commencez par critiquer une décision de justice rendue par le peuple souverain – bel hommage de votre part !<br><br>La Constitution n'est pas une vétille, une anecdote, une broutille, un texte superfétatoire… Sachez, madame la députée, qu'elle garantit la totale indépendance de la justice de notre pays. (<i>Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>M. Sébastien Chenu.</strong> Ce n'est pas du tout ce dont a parlé Mme Da Conceicao Carvalho !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>Le jour où nous toucherons, comme vous le souhaitez, à cette indépendance sera celui de notre basculement dans le totalitarisme. (<i>Exclamations </i>sur les bancs du groupe RN.)<br><br>Vous avez parlé de libération sous contrainte, ne retenant que le mot « libération » alors que vous devriez aussi entendre le mot « contrainte ». Ce dispositif, qui vise à empêcher les sorties sèches de prison, est réservé aux détenus en fin de peine. Désormais, ceux qui sont condamnés à une peine d'emprisonnement inférieure à deux ans peuvent en bénéficier lorsqu'il leur reste trois mois à purger.<br><br><strong>M. Sébastien Chenu.</strong> Qu'il est mauvais !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>Dans ce cas, la libération sous contrainte peut être envisagée, sous le contrôle d'un juge de l'ordre judiciaire, sous réserve que la personne dispose d'un hébergement.<br><br><strong>M. Sébastien Chenu.</strong> Vous n'osez même pas regarder la députée qui vous a interrogé ! Grossier personnage.<br><br><strong>M. Jean-Philippe Tanguy.</strong> Aucune éducation.<br><br><strong>Mme la présidente.</strong> Je vous en prie, monsieur Chenu ! Laissez le garde des sceaux répondre !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>D'après les premiers chiffres, 41 % des détenus concernés ont pu bénéficier de la libération sous contrainte, ce qui signifie que près de 60 % n'en ont pas bénéficié.<br><br>Ce dispositif consacre nos efforts en faveur de la réinsertion et notre lutte contre la récidive.<br><br><strong>M. Sébastien Chenu.</strong> Trouillard !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>Vous ne comprenez décidément rien à la procédure pénale si ce n'est la trique ! (<i>Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>M. Jean-Philippe Tanguy.</strong> Il n'a jamais été aussi mauvais.<br>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 32,
+            "label": "ORG",
+            "text": "POLITIQUE"
+          },
+          {
+            "start_char": 74,
+            "end_char": 77,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 118,
+            "end_char": 133,
+            "label": "PER",
+            "text": "Mme Nathalie Da"
+          },
+          {
+            "start_char": 169,
+            "end_char": 184,
+            "label": "PER",
+            "text": "Mme Nathalie Da"
+          },
+          {
+            "start_char": 185,
+            "end_char": 203,
+            "label": "PER",
+            "text": "Conceicao Carvalho"
+          },
+          {
+            "start_char": 214,
+            "end_char": 222,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 287,
+            "end_char": 300,
+            "label": "PER",
+            "text": "Axelle Dorier"
+          },
+          {
+            "start_char": 1360,
+            "end_char": 1373,
+            "label": "MISC",
+            "text": "armes.<br><br"
+          },
+          {
+            "start_char": 1621,
+            "end_char": 1638,
+            "label": "MISC",
+            "text": "politique.<br><br"
+          },
+          {
+            "start_char": 1988,
+            "end_char": 1996,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2140,
+            "end_char": 2148,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2211,
+            "end_char": 2214,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2255,
+            "end_char": 2257,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2279,
+            "end_char": 2317,
+            "label": "ORG",
+            "text": "ministre de la justice.<br><br><strong"
+          },
+          {
+            "start_char": 2321,
+            "end_char": 2332,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2601,
+            "end_char": 2631,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2635,
+            "end_char": 2670,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong> Lamentable"
+          },
+          {
+            "start_char": 2691,
+            "end_char": 2702,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2928,
+            "end_char": 2950,
+            "label": "MISC",
+            "text": "br><br>La Constitution"
+          },
+          {
+            "start_char": 3169,
+            "end_char": 3192,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3196,
+            "end_char": 3220,
+            "label": "PER",
+            "text": "Sébastien Chenu.</strong"
+          },
+          {
+            "start_char": 3259,
+            "end_char": 3284,
+            "label": "PER",
+            "text": "Mme Da Conceicao Carvalho"
+          },
+          {
+            "start_char": 3305,
+            "end_char": 3316,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 3941,
+            "end_char": 3963,
+            "label": "LOC",
+            "text": "purger.<br><br><strong"
+          },
+          {
+            "start_char": 3967,
+            "end_char": 3992,
+            "label": "PER",
+            "text": "Sébastien Chenu.</strong>"
+          },
+          {
+            "start_char": 4031,
+            "end_char": 4042,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4273,
+            "end_char": 4298,
+            "label": "PER",
+            "text": "Sébastien Chenu.</strong>"
+          },
+          {
+            "start_char": 4363,
+            "end_char": 4371,
+            "label": "LOC",
+            "text": "Grossier"
+          },
+          {
+            "start_char": 4402,
+            "end_char": 4432,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong>"
+          },
+          {
+            "start_char": 4466,
+            "end_char": 4492,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 4520,
+            "end_char": 4525,
+            "label": "MISC",
+            "text": "Chenu"
+          },
+          {
+            "start_char": 4585,
+            "end_char": 4596,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4796,
+            "end_char": 4813,
+            "label": "MISC",
+            "text": "bénéficié.<br><br"
+          },
+          {
+            "start_char": 4930,
+            "end_char": 4966,
+            "label": "PER",
+            "text": "Sébastien Chenu.</strong> Trouillard"
+          },
+          {
+            "start_char": 4987,
+            "end_char": 4998,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 5167,
+            "end_char": 5190,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5194,
+            "end_char": 5223,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong"
+          },
+          {
+            "start_char": 5249,
+            "end_char": 5261,
+            "label": "MISC",
+            "text": "mauvais.<br>"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 92,
+            "sentiment": "3 stars",
+            "score": 0.34879663586616516
+          },
+          {
+            "begin_char": 93,
+            "end_char": 204,
+            "sentiment": "3 stars",
+            "score": 0.2561362385749817
+          },
+          {
+            "begin_char": 205,
+            "end_char": 214,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 214,
+            "end_char": 339,
+            "sentiment": "4 stars",
+            "score": 0.3859671652317047
+          },
+          {
+            "begin_char": 340,
+            "end_char": 672,
+            "sentiment": "5 stars",
+            "score": 0.27857711911201477
+          },
+          {
+            "begin_char": 672,
+            "end_char": 728,
+            "sentiment": "1 star",
+            "score": 0.7962910532951355
+          },
+          {
+            "begin_char": 729,
+            "end_char": 1076,
+            "sentiment": "5 stars",
+            "score": 0.5052460432052612
+          },
+          {
+            "begin_char": 1077,
+            "end_char": 1203,
+            "sentiment": "4 stars",
+            "score": 0.250781387090683
+          },
+          {
+            "begin_char": 1204,
+            "end_char": 1374,
+            "sentiment": "5 stars",
+            "score": 0.3787257969379425
+          },
+          {
+            "begin_char": 1374,
+            "end_char": 1545,
+            "sentiment": "3 stars",
+            "score": 0.2869122624397278
+          },
+          {
+            "begin_char": 1546,
+            "end_char": 1639,
+            "sentiment": "2 stars",
+            "score": 0.31460389494895935
+          },
+          {
+            "begin_char": 1639,
+            "end_char": 1781,
+            "sentiment": "1 star",
+            "score": 0.4957340955734253
+          },
+          {
+            "begin_char": 1782,
+            "end_char": 1929,
+            "sentiment": "5 stars",
+            "score": 0.40649929642677307
+          },
+          {
+            "begin_char": 1930,
+            "end_char": 1997,
+            "sentiment": "5 stars",
+            "score": 0.41112715005874634
+          },
+          {
+            "begin_char": 1998,
+            "end_char": 2074,
+            "sentiment": "5 stars",
+            "score": 0.2737736701965332
+          },
+          {
+            "begin_char": 2075,
+            "end_char": 2229,
+            "sentiment": "5 stars",
+            "score": 0.481758713722229
+          },
+          {
+            "begin_char": 2230,
+            "end_char": 2395,
+            "sentiment": "4 stars",
+            "score": 0.31975746154785156
+          },
+          {
+            "begin_char": 2396,
+            "end_char": 2513,
+            "sentiment": "2 stars",
+            "score": 0.43032851815223694
+          },
+          {
+            "begin_char": 2514,
+            "end_char": 2553,
+            "sentiment": "2 stars",
+            "score": 0.4535558521747589
+          },
+          {
+            "begin_char": 2554,
+            "end_char": 2672,
+            "sentiment": "1 star",
+            "score": 0.7746583819389343
+          },
+          {
+            "begin_char": 2672,
+            "end_char": 2741,
+            "sentiment": "4 stars",
+            "score": 0.28637129068374634
+          },
+          {
+            "begin_char": 2742,
+            "end_char": 2746,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2746,
+            "end_char": 2813,
+            "sentiment": "1 star",
+            "score": 0.2585858404636383
+          },
+          {
+            "begin_char": 2814,
+            "end_char": 2927,
+            "sentiment": "5 stars",
+            "score": 0.45206964015960693
+          },
+          {
+            "begin_char": 2927,
+            "end_char": 3027,
+            "sentiment": "1 star",
+            "score": 0.43594738841056824
+          },
+          {
+            "begin_char": 3028,
+            "end_char": 3123,
+            "sentiment": "5 stars",
+            "score": 0.6228538155555725
+          },
+          {
+            "begin_char": 3124,
+            "end_char": 3125,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 3125,
+            "end_char": 3221,
+            "sentiment": "3 stars",
+            "score": 0.36554545164108276
+          },
+          {
+            "begin_char": 3222,
+            "end_char": 3286,
+            "sentiment": "1 star",
+            "score": 0.8163154721260071
+          },
+          {
+            "begin_char": 3286,
+            "end_char": 3356,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 3357,
+            "end_char": 3547,
+            "sentiment": "5 stars",
+            "score": 0.5900015234947205
+          },
+          {
+            "begin_char": 3547,
+            "end_char": 3692,
+            "sentiment": "1 star",
+            "score": 0.42416566610336304
+          },
+          {
+            "begin_char": 3693,
+            "end_char": 3798,
+            "sentiment": "4 stars",
+            "score": 0.2970760464668274
+          },
+          {
+            "begin_char": 3799,
+            "end_char": 3992,
+            "sentiment": "4 stars",
+            "score": 0.3420601189136505
+          },
+          {
+            "begin_char": 3993,
+            "end_char": 4012,
+            "sentiment": "1 star",
+            "score": 0.6811355352401733
+          },
+          {
+            "begin_char": 4012,
+            "end_char": 4081,
+            "sentiment": "4 stars",
+            "score": 0.28637129068374634
+          },
+          {
+            "begin_char": 4082,
+            "end_char": 4298,
+            "sentiment": "4 stars",
+            "score": 0.37248045206069946
+          },
+          {
+            "begin_char": 4299,
+            "end_char": 4362,
+            "sentiment": "1 star",
+            "score": 0.898973822593689
+          },
+          {
+            "begin_char": 4363,
+            "end_char": 4432,
+            "sentiment": "2 stars",
+            "score": 0.4243919253349304
+          },
+          {
+            "begin_char": 4433,
+            "end_char": 4493,
+            "sentiment": "1 star",
+            "score": 0.5793744325637817
+          },
+          {
+            "begin_char": 4494,
+            "end_char": 4527,
+            "sentiment": "1 star",
+            "score": 0.31226253509521484
+          },
+          {
+            "begin_char": 4528,
+            "end_char": 4566,
+            "sentiment": "1 star",
+            "score": 0.3887692987918854
+          },
+          {
+            "begin_char": 4566,
+            "end_char": 4635,
+            "sentiment": "4 stars",
+            "score": 0.28637129068374634
+          },
+          {
+            "begin_char": 4636,
+            "end_char": 4968,
+            "sentiment": "3 stars",
+            "score": 0.2936158776283264
+          },
+          {
+            "begin_char": 4968,
+            "end_char": 5037,
+            "sentiment": "4 stars",
+            "score": 0.28637129068374634
+          },
+          {
+            "begin_char": 5038,
+            "end_char": 5224,
+            "sentiment": "1 star",
+            "score": 0.3708958029747009
+          },
+          {
+            "begin_char": 5225,
+            "end_char": 5261,
+            "sentiment": "1 star",
+            "score": 0.5479223132133484
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-25",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-25",
+        "pageJO": "676",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

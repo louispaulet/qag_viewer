@@ -1,0 +1,527 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG424",
+    "identifiant": {
+      "numero": "424",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "RÉFORME DU SYSTÈME DE SANTÉ"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795350",
+        "mandatRef": "PM797436"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DU SYSTÈME DE SANTÉ <a name=PG10></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Frédéric Valletoux.<br><br><strong>M. Frédéric Valletoux. </strong>Ma question s'adresse à M. le ministre de la santé et de la prévention. Vendredi dernier, le Président de la République a lancé le grand chantier de la réforme du système de santé – chantier aux multiples facettes mais dont l'urgence et la nécessité ne sont plus à démontrer ; nous le constatons tous les jours sur le terrain. Dans la difficulté, les hospitaliers sont aux premières loges : je leur adresse toute ma solidarité et mon plein soutien.<br><br>Après un effort inédit en matière de rémunération – formalisé dans les accords du Ségur de la santé – et une relance de l'investissement hospitalier, il s'agit désormais de refonder totalement un système de santé en crise profonde. Parmi les principaux enjeux figure une question difficile : la remise à plat du financement du système de santé, à la fois pour sortir de la tarification à l'activité et pour valoriser la pertinence des soins. <br><br>En septembre 2018 déjà, le Président de la République avait rappelé, en lançant la réforme Ma santé 2022, que 30 % des dépenses de santé étaient inutiles, indues ou non pertinentes, et qu'une régulation plus ferme était nécessaire. Je partage ce constat depuis longtemps. Le modèle du financement à l'activité, perçu comme l'alpha et l'oméga du financement du système hospitalier et des soins de ville, a abouti à des excès. <i>(MM. Jean-Paul Mattei et Philippe Vigier applaudissent.) </i>Ceci vaut autant à l'hôpital, où la tarification à l'activité représente la moitié des financements, que dans le secteur privé, où sa part est beaucoup plus élevée. Rappelons-le : la France consacre 270 milliards d'euros aux dépenses de santé. Si l'on considère que 30 % d'entre elles ne sont pas pertinentes, il y a largement de quoi mieux financer la consultation à 25 euros des généralistes et les rémunérations des hospitaliers, comme celles de l'ensemble des professionnels.<br><br>Percutée par la crise sanitaire et la nécessité de se concentrer sur l'accompagnement des hospitaliers pendant cette période, cette réforme du financement a été différée, mais elle arrive enfin, et tant mieux !<br><br>Aussi ai-je deux questions. En remplacement de la tarification à l'activité, quel modèle de financement envisagez-vous pour garantir la pérennité des établissements de santé ? Par ailleurs, comment répondrez-vous concrètement à l'urgente nécessité de mieux réguler, par des dépenses plus pertinentes, les sommes que l'État consacre aux dépenses de santé ? <i>(Applaudissements sur quelques bancs des groupes HOR, RE et Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>Le discours tenu le 6 janvier par le Président de la République devant les soignants concrétise un changement d'analyse et de méthode quant aux problèmes que rencontre notre système de santé. Celui-ci a été construit sur l'offre de soins, concurrentielle par définition, qui s'appuie sur un financement à l'acte. Notre changement de cap consiste à le refonder sur le principe de la réponse aux besoins de santé de la population.<br><br><strong>M. Frédéric Mathieu.</strong> Il était temps !<br><br><strong>M. François Braun,</strong><i> ministre. </i>Pour cela, nous nous donnons trois mots d'ordre : simplifier, décloisonner, valoriser la réalisation des missions de santé publique de chaque partenaire.<br><br>Voici quelques éléments clés en ce qui concerne l'hôpital. D'abord, les services qui le souhaitent pourront retrouver un fonctionnement à taille humaine, quittant la logique des pôles et des mégapôles pour revenir à l'échelle du service. Ensuite, la pénibilité du travail de nuit doit être partagée entre tous les partenaires : il n'est pas normal qu'un des partenaires supporte seul la charge des gardes et des astreintes. De plus, nous mettrons en place un suivi de la carrière de l'ensemble des soignants, afin qu'une personne entrée dans un hôpital en tant qu'infirmier voie reconnaître ses compétences et se voie proposer des perspectives d'évolution, par exemple en occupant un poste à responsabilités ou un nouveau poste d'infirmier en pratique avancée. Cette logique est valable pour l'ensemble des praticiens hospitaliers dans leurs missions diverses.<br><br>La coopération territoriale sera le pilier de cette refonte du système de santé, qui s'appuiera sur le partage des compétences et des missions entre les différents partenaires. Ce principe s'applique également au financement du système de santé, puisque nous passons d'un financement à l'offre, la tarification à l'activité (T2A), à un financement de réponse aux besoins.<br><br><strong>M. Pierre Cordier.</strong> C'est Mme Bachelot qui va être contente !<br><br><strong>M. François Braun,</strong><i> ministre. </i>Ce nouveau financement sera fondé sur la population des territoires, sur la pertinence des soins et sur leur qualité. Pour améliorer la qualité des soins, il importe de réintroduire de l'humain et du bon sens dans les organisations et dans leur financement, qu'elles soient publiques ou privées ; nous aurons l'occasion d'en débattre en examinant le projet de loi de financement de la sécurité sociale (PLFSS) pour 2024.<br> <p>",
+        "entities": [
+          {
+            "start_char": 45,
+            "end_char": 50,
+            "label": "ORG",
+            "text": "SANTÉ"
+          },
+          {
+            "start_char": 85,
+            "end_char": 88,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 129,
+            "end_char": 166,
+            "label": "PER",
+            "text": "M. Frédéric Valletoux.<br><br><strong"
+          },
+          {
+            "start_char": 170,
+            "end_char": 188,
+            "label": "PER",
+            "text": "Frédéric Valletoux"
+          },
+          {
+            "start_char": 223,
+            "end_char": 225,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 271,
+            "end_char": 287,
+            "label": "MISC",
+            "text": "Vendredi dernier"
+          },
+          {
+            "start_char": 292,
+            "end_char": 318,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 639,
+            "end_char": 654,
+            "label": "MISC",
+            "text": "soutien.<br><br"
+          },
+          {
+            "start_char": 737,
+            "end_char": 756,
+            "label": "ORG",
+            "text": "Ségur de la santé –"
+          },
+          {
+            "start_char": 1132,
+            "end_char": 1158,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1196,
+            "end_char": 1198,
+            "label": "PER",
+            "text": "Ma"
+          },
+          {
+            "start_char": 1530,
+            "end_char": 1536,
+            "label": "PER",
+            "text": "<i>(MM"
+          },
+          {
+            "start_char": 1538,
+            "end_char": 1554,
+            "label": "PER",
+            "text": "Jean-Paul Mattei"
+          },
+          {
+            "start_char": 1558,
+            "end_char": 1573,
+            "label": "PER",
+            "text": "Philippe Vigier"
+          },
+          {
+            "start_char": 1774,
+            "end_char": 1783,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2058,
+            "end_char": 2089,
+            "label": "MISC",
+            "text": "professionnels.<br><br>Percutée"
+          },
+          {
+            "start_char": 2497,
+            "end_char": 2506,
+            "label": "LOC",
+            "text": "répondrez"
+          },
+          {
+            "start_char": 2617,
+            "end_char": 2621,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2707,
+            "end_char": 2710,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 2712,
+            "end_char": 2714,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 2743,
+            "end_char": 2746,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2787,
+            "end_char": 2789,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2853,
+            "end_char": 2861,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 2964,
+            "end_char": 2990,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3374,
+            "end_char": 3399,
+            "label": "PER",
+            "text": "Frédéric Mathieu.</strong"
+          },
+          {
+            "start_char": 3436,
+            "end_char": 3444,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3464,
+            "end_char": 3472,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4832,
+            "end_char": 4835,
+            "label": "ORG",
+            "text": "T2A"
+          },
+          {
+            "start_char": 4897,
+            "end_char": 4920,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 4928,
+            "end_char": 4940,
+            "label": "PER",
+            "text": "Mme Bachelot"
+          },
+          {
+            "start_char": 4982,
+            "end_char": 4990,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 5010,
+            "end_char": 5018,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 5427,
+            "end_char": 5432,
+            "label": "ORG",
+            "text": "PLFSS"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 103,
+            "sentiment": "4 stars",
+            "score": 0.3648301959037781
+          },
+          {
+            "begin_char": 104,
+            "end_char": 189,
+            "sentiment": "3 stars",
+            "score": 0.26299819350242615
+          },
+          {
+            "begin_char": 190,
+            "end_char": 270,
+            "sentiment": "4 stars",
+            "score": 0.31629982590675354
+          },
+          {
+            "begin_char": 271,
+            "end_char": 475,
+            "sentiment": "5 stars",
+            "score": 0.6347491145133972
+          },
+          {
+            "begin_char": 476,
+            "end_char": 525,
+            "sentiment": "4 stars",
+            "score": 0.3864032030105591
+          },
+          {
+            "begin_char": 526,
+            "end_char": 655,
+            "sentiment": "5 stars",
+            "score": 0.6414586901664734
+          },
+          {
+            "begin_char": 655,
+            "end_char": 886,
+            "sentiment": "5 stars",
+            "score": 0.6014619469642639
+          },
+          {
+            "begin_char": 887,
+            "end_char": 1096,
+            "sentiment": "4 stars",
+            "score": 0.4277775287628174
+          },
+          {
+            "begin_char": 1097,
+            "end_char": 1336,
+            "sentiment": "5 stars",
+            "score": 0.2800626754760742
+          },
+          {
+            "begin_char": 1337,
+            "end_char": 1376,
+            "sentiment": "5 stars",
+            "score": 0.46163806319236755
+          },
+          {
+            "begin_char": 1377,
+            "end_char": 1529,
+            "sentiment": "2 stars",
+            "score": 0.4515220522880554
+          },
+          {
+            "begin_char": 1530,
+            "end_char": 1538,
+            "sentiment": "3 stars",
+            "score": 0.30280810594558716
+          },
+          {
+            "begin_char": 1538,
+            "end_char": 1589,
+            "sentiment": "4 stars",
+            "score": 0.34938591718673706
+          },
+          {
+            "begin_char": 1590,
+            "end_char": 1758,
+            "sentiment": "3 stars",
+            "score": 0.38195469975471497
+          },
+          {
+            "begin_char": 1759,
+            "end_char": 1837,
+            "sentiment": "4 stars",
+            "score": 0.3032195568084717
+          },
+          {
+            "begin_char": 1838,
+            "end_char": 2291,
+            "sentiment": "5 stars",
+            "score": 0.4606783390045166
+          },
+          {
+            "begin_char": 2291,
+            "end_char": 2326,
+            "sentiment": "3 stars",
+            "score": 0.2999245822429657
+          },
+          {
+            "begin_char": 2327,
+            "end_char": 2474,
+            "sentiment": "4 stars",
+            "score": 0.361815482378006
+          },
+          {
+            "begin_char": 2475,
+            "end_char": 2654,
+            "sentiment": "5 stars",
+            "score": 0.46233755350112915
+          },
+          {
+            "begin_char": 2655,
+            "end_char": 2761,
+            "sentiment": "3 stars",
+            "score": 0.30994805693626404
+          },
+          {
+            "begin_char": 2762,
+            "end_char": 2880,
+            "sentiment": "4 stars",
+            "score": 0.3129529356956482
+          },
+          {
+            "begin_char": 2881,
+            "end_char": 2922,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 2923,
+            "end_char": 3118,
+            "sentiment": "5 stars",
+            "score": 0.518974781036377
+          },
+          {
+            "begin_char": 3119,
+            "end_char": 3239,
+            "sentiment": "4 stars",
+            "score": 0.3430657684803009
+          },
+          {
+            "begin_char": 3240,
+            "end_char": 3400,
+            "sentiment": "5 stars",
+            "score": 0.4818279445171356
+          },
+          {
+            "begin_char": 3401,
+            "end_char": 3417,
+            "sentiment": "5 stars",
+            "score": 0.3912208676338196
+          },
+          {
+            "begin_char": 3417,
+            "end_char": 3473,
+            "sentiment": "3 stars",
+            "score": 0.2982189357280731
+          },
+          {
+            "begin_char": 3474,
+            "end_char": 3697,
+            "sentiment": "4 stars",
+            "score": 0.3955562114715576
+          },
+          {
+            "begin_char": 3698,
+            "end_char": 3876,
+            "sentiment": "5 stars",
+            "score": 0.5767700672149658
+          },
+          {
+            "begin_char": 3877,
+            "end_char": 4062,
+            "sentiment": "3 stars",
+            "score": 0.35950571298599243
+          },
+          {
+            "begin_char": 4063,
+            "end_char": 4399,
+            "sentiment": "4 stars",
+            "score": 0.448322057723999
+          },
+          {
+            "begin_char": 4400,
+            "end_char": 4507,
+            "sentiment": "4 stars",
+            "score": 0.3374658226966858
+          },
+          {
+            "begin_char": 4507,
+            "end_char": 4683,
+            "sentiment": "4 stars",
+            "score": 0.47464606165885925
+          },
+          {
+            "begin_char": 4684,
+            "end_char": 4963,
+            "sentiment": "4 stars",
+            "score": 0.3658888041973114
+          },
+          {
+            "begin_char": 4963,
+            "end_char": 5019,
+            "sentiment": "3 stars",
+            "score": 0.2982189357280731
+          },
+          {
+            "begin_char": 5020,
+            "end_char": 5141,
+            "sentiment": "5 stars",
+            "score": 0.44265326857566833
+          },
+          {
+            "begin_char": 5142,
+            "end_char": 5320,
+            "sentiment": "5 stars",
+            "score": 0.6241899728775024
+          },
+          {
+            "begin_char": 5321,
+            "end_char": 5452,
+            "sentiment": "4 stars",
+            "score": 0.3874932527542114
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-11",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-11",
+        "pageJO": "106",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

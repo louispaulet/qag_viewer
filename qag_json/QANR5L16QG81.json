@@ -1,0 +1,893 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG81",
+    "identifiant": {
+      "numero": "81",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "transports ferroviaires",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Tarification ferroviaire"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793872",
+        "mandatRef": "PM796581"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Transports",
+      "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transports",
+          "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> TARIFICATION FERROVIAIRE <a name=PG27></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Nathalie Oziol.<br><br><strong>Mme Nathalie Oziol. </strong>Pour effectuer un trajet en train depuis Montpellier vers Paris, il faut compter entre 50 euros, pour les trains les plus matinaux, et 150 euros, voire 180 euros en période estivale. Selon les saisons, les horaires et les compagnies, effectuer le même trajet en avion revient souvent moins cher.<br><br>L'Allemagne a instauré un ticket unique à 9 euros par mois, qui permet d'emprunter indifféremment les trains régionaux, les trams, les bus, les métros et les ferrys. L'Espagne a décidé, quant à elle, de rendre des billets de train gratuits, à partir du 1er septembre. Dans ces deux pays, cette gratuité, ou quasi-gratuité, est présentée avant tout comme une mesure de lutte contre l’inflation.<br><br>Face à l'explosion du prix de l'essence, nombreuses sont les personnes qui rencontrent des difficultés pour se rendre sur leur lieu de travail ; nombreuses sont les familles, notamment dans les milieux les plus défavorisés, qui ne partent pas en vacances.<br><br>Le deuxième argument est celui de la lutte contre le réchauffement climatique. Alors que les températures sont de plus en plus élevées, inciter les gens à prendre le train, dont l'empreinte carbone est la plus basse, relève du simple bon sens ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>M. Antoine Léaument.</strong> Tout à fait !<br><br><strong>Mme Nathalie Oziol. </strong>Pourtant, le coût des billets de train ne cesse de croître : l'INSEE relevait en mai dernier une augmentation de plus de 15 % par rapport à 2021. L'Autorité de régulation des transports (ART) a estimé que le prix moyen du TGV au kilomètre est deux fois supérieur à celui d'un avion low-cost. Nos voisins ont compris, eux, que l'investissement dans le transport ferroviaire est une solution efficace pour tout le monde, où qu'on habite et quel que soit son revenu.<br><br>Comment se fait-il alors qu'en France, pays du ferroviaire, du service public et inventeur du TGV <i>(Un député du groupe LR s'exclame)</i>, nous ne soyons pas en mesure de mettre en place un tel plan d’envergure ?<br><br><strong>M. Alexis Corbière.</strong> Bonne question !<br><br><strong>M. Jean-Yves Bony.</strong> Encore faudrait-il qu'il reste des trains !<br><br><strong>Mme Nathalie Oziol. </strong>À quand la gratuité des transports en commun ? <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>M. Jean-Paul Lecoq.</strong> Transports gratuits, nuitées payantes !<br><br><strong>Mme Nathalie Oziol. </strong>Emmanuel Macron a promis de mener la planification écologique. Nous l'attendons. <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports.<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports. </i>Vous avez raison de souligner l'importance du transport ferroviaire et la qualité de notre service public ; j'en suis très fier et je le défendrai toujours. Mais ne faites pas de démagogie en la matière. <i>(« Oh ! »</i> sur plusieurs bancs du groupe LFI-NUPES.) La France investit très fortement dans ce domaine, et elle est le pays d'Europe où l'usager paie le moins par rapport au coût total du transport ferroviaire. (Protestations sur plusieurs bancs du groupe LFI-NUPES.)<br><br><strong>M. Sylvain Maillard.</strong> Il a raison !<br><br><strong>M. Jean-Paul Lecoq.</strong> Dites-le à vos collègues allemands et espagnols !<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué . </i>Vous avez évoqué à juste titre le coût élevé des billets de TGV, en particulier lors du pic des vacances ; mais notre priorité, que j'assume devant vous, est de consacrer l'essentiel de l'investissement public dans les années à venir aux trains et aux déplacements du quotidien.<br><br><strong>M. Loïc Prud'homme.</strong> Vous ne mettez pas les moyens !<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué . </i>Vous avez souligné très justement la nécessité de réinvestir dans le réseau ferroviaire : nous devrons identifier les priorités et réinvestir notamment dans les transports des grandes métropoles – je peux vous assurer que nous le ferons.<br><br>Nous devrons réfléchir à une question qui concerne non seulement l'État mais également les collectivités locales : celle des politiques de gratuité instaurées par certains de vos amis politiques, que vous ne manquerez pas de vérifier, lieu par lieu, ville par ville.<br><br><strong>M. Jean-Paul Lecoq.</strong> Dunkerque, Calais. Calais, c'est la droite ! Châteauroux !<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué . </i>Elles ne sont pas systématiques, loin de là, et je pense d'ailleurs que l'usager doit participer, même modestement, au coût des transports.<br><br>Nous avons besoin de réinvestir dans les transports du quotidien. Nous travaillerons aussi, bien sûr, avec la SNCF sur la tarification. Je précise que trois quarts des billets font l'objet actuellement d'une réduction, même lors des périodes estivales ou chargées, même sur les lignes à grande vitesse. Nous pouvons faire mieux, mais j'assume de fixer des priorités et de choisir d'investir dans le réseau, dans les trains du quotidien et dans les services publics métropolitains. Nous le ferons, dans les années à venir, en concertation avec les collectivités locales. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>M. Sylvain Maillard.</strong> Très bien.<br><br><strong>M. Jean-Paul Lecoq.</strong> Toujours un train de retard !<br><br><strong>Mme la présidente. </strong>La parole est à Mme Nathalie Oziol.<br><br><strong>Mme Nathalie Oziol. </strong>Jusqu'en 2007, la tarification de la SNCF reposait sur la distance kilométrique ; aujourd'hui, c'est la politique des prix qui fluctuent en fonction de la demande. C'est l'inverse de ce qu'il faut faire, alors qu'il faut rendre les trains accessibles ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i><br>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 35,
+            "label": "ORG",
+            "text": "TARIFICATION"
+          },
+          {
+            "start_char": 36,
+            "end_char": 47,
+            "label": "MISC",
+            "text": "FERROVIAIRE"
+          },
+          {
+            "start_char": 82,
+            "end_char": 85,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 126,
+            "end_char": 138,
+            "label": "PER",
+            "text": "Mme Nathalie"
+          },
+          {
+            "start_char": 161,
+            "end_char": 179,
+            "label": "PER",
+            "text": "Mme Nathalie Oziol"
+          },
+          {
+            "start_char": 231,
+            "end_char": 242,
+            "label": "LOC",
+            "text": "Montpellier"
+          },
+          {
+            "start_char": 248,
+            "end_char": 253,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 480,
+            "end_char": 492,
+            "label": "MISC",
+            "text": "cher.<br><br"
+          },
+          {
+            "start_char": 495,
+            "end_char": 504,
+            "label": "LOC",
+            "text": "Allemagne"
+          },
+          {
+            "start_char": 659,
+            "end_char": 668,
+            "label": "LOC",
+            "text": "L'Espagne"
+          },
+          {
+            "start_char": 874,
+            "end_char": 876,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 876,
+            "end_char": 894,
+            "label": "MISC",
+            "text": "inflation.<br><br>"
+          },
+          {
+            "start_char": 1140,
+            "end_char": 1156,
+            "label": "MISC",
+            "text": "vacances.<br><br"
+          },
+          {
+            "start_char": 1447,
+            "end_char": 1477,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1481,
+            "end_char": 1506,
+            "label": "PER",
+            "text": "Antoine Léaument.</strong"
+          },
+          {
+            "start_char": 1537,
+            "end_char": 1555,
+            "label": "PER",
+            "text": "Mme Nathalie Oziol"
+          },
+          {
+            "start_char": 1629,
+            "end_char": 1634,
+            "label": "ORG",
+            "text": "INSEE"
+          },
+          {
+            "start_char": 1714,
+            "end_char": 1751,
+            "label": "ORG",
+            "text": "Autorité de régulation des transports"
+          },
+          {
+            "start_char": 1788,
+            "end_char": 1791,
+            "label": "MISC",
+            "text": "TGV"
+          },
+          {
+            "start_char": 2022,
+            "end_char": 2036,
+            "label": "MISC",
+            "text": "revenu.<br><br"
+          },
+          {
+            "start_char": 2068,
+            "end_char": 2074,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 2131,
+            "end_char": 2134,
+            "label": "MISC",
+            "text": "TGV"
+          },
+          {
+            "start_char": 2159,
+            "end_char": 2161,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2270,
+            "end_char": 2301,
+            "label": "PER",
+            "text": "Alexis Corbière.</strong> Bonne"
+          },
+          {
+            "start_char": 2331,
+            "end_char": 2362,
+            "label": "PER",
+            "text": "Jean-Yves Bony.</strong> Encore"
+          },
+          {
+            "start_char": 2415,
+            "end_char": 2433,
+            "label": "PER",
+            "text": "Mme Nathalie Oziol"
+          },
+          {
+            "start_char": 2536,
+            "end_char": 2566,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2570,
+            "end_char": 2594,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 2596,
+            "end_char": 2615,
+            "label": "ORG",
+            "text": "Transports gratuits"
+          },
+          {
+            "start_char": 2651,
+            "end_char": 2669,
+            "label": "PER",
+            "text": "Mme Nathalie Oziol"
+          },
+          {
+            "start_char": 2680,
+            "end_char": 2695,
+            "label": "PER",
+            "text": "Emmanuel Macron"
+          },
+          {
+            "start_char": 2806,
+            "end_char": 2836,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2837,
+            "end_char": 2840,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2881,
+            "end_char": 2883,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3024,
+            "end_char": 3027,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 3027,
+            "end_char": 3053,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 3432,
+            "end_char": 3441,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3444,
+            "end_char": 3453,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 3517,
+            "end_char": 3523,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 3603,
+            "end_char": 3616,
+            "label": "MISC",
+            "text": "Protestations"
+          },
+          {
+            "start_char": 3647,
+            "end_char": 3673,
+            "label": "ORG",
+            "text": "LFI-NUPES.)<br><br><strong"
+          },
+          {
+            "start_char": 3674,
+            "end_char": 3702,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong"
+          },
+          {
+            "start_char": 3736,
+            "end_char": 3770,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong> Dites-le"
+          },
+          {
+            "start_char": 3830,
+            "end_char": 3856,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 3858,
+            "end_char": 3874,
+            "label": "ORG",
+            "text": "ministre délégué"
+          },
+          {
+            "start_char": 3941,
+            "end_char": 3944,
+            "label": "MISC",
+            "text": "TGV"
+          },
+          {
+            "start_char": 4254,
+            "end_char": 4280,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 4282,
+            "end_char": 4298,
+            "label": "ORG",
+            "text": "ministre délégué"
+          },
+          {
+            "start_char": 4535,
+            "end_char": 4549,
+            "label": "MISC",
+            "text": "ferons.<br><br"
+          },
+          {
+            "start_char": 4617,
+            "end_char": 4621,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4835,
+            "end_char": 4870,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong> Dunkerque"
+          },
+          {
+            "start_char": 4872,
+            "end_char": 4878,
+            "label": "LOC",
+            "text": "Calais"
+          },
+          {
+            "start_char": 4880,
+            "end_char": 4886,
+            "label": "LOC",
+            "text": "Calais"
+          },
+          {
+            "start_char": 4906,
+            "end_char": 4917,
+            "label": "PER",
+            "text": "Châteauroux"
+          },
+          {
+            "start_char": 4938,
+            "end_char": 4964,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 4966,
+            "end_char": 4982,
+            "label": "ORG",
+            "text": "ministre délégué"
+          },
+          {
+            "start_char": 5246,
+            "end_char": 5250,
+            "label": "ORG",
+            "text": "SNCF"
+          },
+          {
+            "start_char": 5751,
+            "end_char": 5774,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5834,
+            "end_char": 5858,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 5905,
+            "end_char": 5908,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5949,
+            "end_char": 5961,
+            "label": "PER",
+            "text": "Mme Nathalie"
+          },
+          {
+            "start_char": 5984,
+            "end_char": 6002,
+            "label": "PER",
+            "text": "Mme Nathalie Oziol"
+          },
+          {
+            "start_char": 6050,
+            "end_char": 6054,
+            "label": "ORG",
+            "text": "SNCF"
+          },
+          {
+            "start_char": 6311,
+            "end_char": 6329,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 35,
+            "sentiment": "4 stars",
+            "score": 0.33709025382995605
+          },
+          {
+            "begin_char": 36,
+            "end_char": 100,
+            "sentiment": "3 stars",
+            "score": 0.2511303424835205
+          },
+          {
+            "begin_char": 101,
+            "end_char": 180,
+            "sentiment": "3 stars",
+            "score": 0.26000452041625977
+          },
+          {
+            "begin_char": 181,
+            "end_char": 190,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 190,
+            "end_char": 372,
+            "sentiment": "3 stars",
+            "score": 0.31141483783721924
+          },
+          {
+            "begin_char": 373,
+            "end_char": 658,
+            "sentiment": "4 stars",
+            "score": 0.3280865550041199
+          },
+          {
+            "begin_char": 659,
+            "end_char": 760,
+            "sentiment": "5 stars",
+            "score": 0.2826942205429077
+          },
+          {
+            "begin_char": 761,
+            "end_char": 894,
+            "sentiment": "5 stars",
+            "score": 0.3407943546772003
+          },
+          {
+            "begin_char": 894,
+            "end_char": 1038,
+            "sentiment": "4 stars",
+            "score": 0.363099068403244
+          },
+          {
+            "begin_char": 1039,
+            "end_char": 1157,
+            "sentiment": "4 stars",
+            "score": 0.30032896995544434
+          },
+          {
+            "begin_char": 1157,
+            "end_char": 1235,
+            "sentiment": "3 stars",
+            "score": 0.27120140194892883
+          },
+          {
+            "begin_char": 1236,
+            "end_char": 1401,
+            "sentiment": "5 stars",
+            "score": 0.27138906717300415
+          },
+          {
+            "begin_char": 1402,
+            "end_char": 1521,
+            "sentiment": "5 stars",
+            "score": 0.4946690797805786
+          },
+          {
+            "begin_char": 1521,
+            "end_char": 1556,
+            "sentiment": "3 stars",
+            "score": 0.2771012783050537
+          },
+          {
+            "begin_char": 1557,
+            "end_char": 1711,
+            "sentiment": "3 stars",
+            "score": 0.3241124749183655
+          },
+          {
+            "begin_char": 1712,
+            "end_char": 1857,
+            "sentiment": "3 stars",
+            "score": 0.35481756925582886
+          },
+          {
+            "begin_char": 1858,
+            "end_char": 2037,
+            "sentiment": "5 stars",
+            "score": 0.46235567331314087
+          },
+          {
+            "begin_char": 2037,
+            "end_char": 2141,
+            "sentiment": "2 stars",
+            "score": 0.22398217022418976
+          },
+          {
+            "begin_char": 2142,
+            "end_char": 2176,
+            "sentiment": "3 stars",
+            "score": 0.318541020154953
+          },
+          {
+            "begin_char": 2176,
+            "end_char": 2251,
+            "sentiment": "1 star",
+            "score": 0.3201847970485687
+          },
+          {
+            "begin_char": 2251,
+            "end_char": 2312,
+            "sentiment": "3 stars",
+            "score": 0.2776108980178833
+          },
+          {
+            "begin_char": 2312,
+            "end_char": 2399,
+            "sentiment": "2 stars",
+            "score": 0.34644344449043274
+          },
+          {
+            "begin_char": 2399,
+            "end_char": 2434,
+            "sentiment": "3 stars",
+            "score": 0.2771012783050537
+          },
+          {
+            "begin_char": 2435,
+            "end_char": 2444,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2444,
+            "end_char": 2490,
+            "sentiment": "5 stars",
+            "score": 0.3193662464618683
+          },
+          {
+            "begin_char": 2491,
+            "end_char": 2635,
+            "sentiment": "3 stars",
+            "score": 0.27085041999816895
+          },
+          {
+            "begin_char": 2635,
+            "end_char": 2670,
+            "sentiment": "3 stars",
+            "score": 0.2771012783050537
+          },
+          {
+            "begin_char": 2671,
+            "end_char": 2680,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2680,
+            "end_char": 2742,
+            "sentiment": "4 stars",
+            "score": 0.26088422536849976
+          },
+          {
+            "begin_char": 2743,
+            "end_char": 2760,
+            "sentiment": "5 stars",
+            "score": 0.27461686730384827
+          },
+          {
+            "begin_char": 2761,
+            "end_char": 2855,
+            "sentiment": "4 stars",
+            "score": 0.3290668725967407
+          },
+          {
+            "begin_char": 2856,
+            "end_char": 3054,
+            "sentiment": "4 stars",
+            "score": 0.3516586422920227
+          },
+          {
+            "begin_char": 3055,
+            "end_char": 3063,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 3064,
+            "end_char": 3071,
+            "sentiment": "4 stars",
+            "score": 0.3199934959411621
+          },
+          {
+            "begin_char": 3072,
+            "end_char": 3176,
+            "sentiment": "4 stars",
+            "score": 0.37332937121391296
+          },
+          {
+            "begin_char": 3177,
+            "end_char": 3288,
+            "sentiment": "5 stars",
+            "score": 0.44458529353141785
+          },
+          {
+            "begin_char": 3289,
+            "end_char": 3337,
+            "sentiment": "5 stars",
+            "score": 0.7379040122032166
+          },
+          {
+            "begin_char": 3338,
+            "end_char": 3384,
+            "sentiment": "1 star",
+            "score": 0.6696219444274902
+          },
+          {
+            "begin_char": 3385,
+            "end_char": 3443,
+            "sentiment": "5 stars",
+            "score": 0.2356729805469513
+          },
+          {
+            "begin_char": 3444,
+            "end_char": 3601,
+            "sentiment": "4 stars",
+            "score": 0.4002382457256317
+          },
+          {
+            "begin_char": 3602,
+            "end_char": 3603,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 3603,
+            "end_char": 3703,
+            "sentiment": "3 stars",
+            "score": 0.3578330874443054
+          },
+          {
+            "begin_char": 3704,
+            "end_char": 3717,
+            "sentiment": "5 stars",
+            "score": 0.3322871923446655
+          },
+          {
+            "begin_char": 3717,
+            "end_char": 3811,
+            "sentiment": "5 stars",
+            "score": 0.3739318549633026
+          },
+          {
+            "begin_char": 3811,
+            "end_char": 3876,
+            "sentiment": "3 stars",
+            "score": 0.3126049041748047
+          },
+          {
+            "begin_char": 3877,
+            "end_char": 3987,
+            "sentiment": "3 stars",
+            "score": 0.37115928530693054
+          },
+          {
+            "begin_char": 3988,
+            "end_char": 4203,
+            "sentiment": "4 stars",
+            "score": 0.37692147493362427
+          },
+          {
+            "begin_char": 4204,
+            "end_char": 4235,
+            "sentiment": "1 star",
+            "score": 0.6001184582710266
+          },
+          {
+            "begin_char": 4235,
+            "end_char": 4300,
+            "sentiment": "3 stars",
+            "score": 0.3126049041748047
+          },
+          {
+            "begin_char": 4301,
+            "end_char": 4502,
+            "sentiment": "5 stars",
+            "score": 0.4084940254688263
+          },
+          {
+            "begin_char": 4502,
+            "end_char": 4550,
+            "sentiment": "5 stars",
+            "score": 0.40833503007888794
+          },
+          {
+            "begin_char": 4550,
+            "end_char": 4879,
+            "sentiment": "5 stars",
+            "score": 0.3281829357147217
+          },
+          {
+            "begin_char": 4880,
+            "end_char": 4905,
+            "sentiment": "1 star",
+            "score": 0.21487508714199066
+          },
+          {
+            "begin_char": 4906,
+            "end_char": 4919,
+            "sentiment": "5 stars",
+            "score": 0.30817100405693054
+          },
+          {
+            "begin_char": 4919,
+            "end_char": 4984,
+            "sentiment": "3 stars",
+            "score": 0.3126049041748047
+          },
+          {
+            "begin_char": 4985,
+            "end_char": 5136,
+            "sentiment": "3 stars",
+            "score": 0.35701876878738403
+          },
+          {
+            "begin_char": 5136,
+            "end_char": 5201,
+            "sentiment": "5 stars",
+            "score": 0.4135016202926636
+          },
+          {
+            "begin_char": 5202,
+            "end_char": 5271,
+            "sentiment": "4 stars",
+            "score": 0.43056246638298035
+          },
+          {
+            "begin_char": 5272,
+            "end_char": 5438,
+            "sentiment": "3 stars",
+            "score": 0.28881725668907166
+          },
+          {
+            "begin_char": 5439,
+            "end_char": 5616,
+            "sentiment": "4 stars",
+            "score": 0.3658316731452942
+          },
+          {
+            "begin_char": 5617,
+            "end_char": 5705,
+            "sentiment": "4 stars",
+            "score": 0.42042315006256104
+          },
+          {
+            "begin_char": 5706,
+            "end_char": 5889,
+            "sentiment": "3 stars",
+            "score": 0.3091256618499756
+          },
+          {
+            "begin_char": 5889,
+            "end_char": 5923,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 5924,
+            "end_char": 6003,
+            "sentiment": "3 stars",
+            "score": 0.26000452041625977
+          },
+          {
+            "begin_char": 6004,
+            "end_char": 6094,
+            "sentiment": "3 stars",
+            "score": 0.3381076455116272
+          },
+          {
+            "begin_char": 6095,
+            "end_char": 6176,
+            "sentiment": "4 stars",
+            "score": 0.286284476518631
+          },
+          {
+            "begin_char": 6177,
+            "end_char": 6265,
+            "sentiment": "1 star",
+            "score": 0.585956871509552
+          },
+          {
+            "begin_char": 6266,
+            "end_char": 6330,
+            "sentiment": "4 stars",
+            "score": 0.32584118843078613
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-27",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-27",
+        "pageJO": "3110",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG439",
+    "identifiant": {
+      "numero": "439",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "MODALITÉS DE RÉSILIATION DES CONTRATS ÉNERGÉTIQUES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719382",
+        "mandatRef": "PM796452"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Industrie",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Industrie",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> MODALITÉS DE RÉSILIATION DES CONTRATS ÉNERGÉTIQUES <a name=PG25></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Luc Lamirault.<br><br><strong>M. Luc Lamirault. </strong>Ma question s'adressait au ministre de l'économie, des finances et de la souveraineté industrielle et numérique. Vous le savez, avec le groupe Horizons et apparentés nous défendons depuis plusieurs mois le principe d'une résiliation, à tout moment et sans frais, des contrats de fourniture de gaz et d'électricité pour les entreprises et les collectivités territoriales. Nombre d'entre elles ont effectivement été contraintes de souscrire à l'automne des contrats sur la base de prix exceptionnellement élevés, qui les placent aujourd'hui dans une situation intenable.<br><br>Avec le Président de la République, Bruno Le Maire a annoncé la semaine dernière des mesures fortes, qui vont dans le bon sens et que je tiens à saluer : d'abord, la possibilité donnée aux artisans boulangers de résilier sans frais et à tout moment leurs contrats ; puis l'extension du bouclier tarifaire à 600 000 très petites entreprises, afin que leur facture n'excède pas un tarif de 280 euros le mégawattheure en moyenne sur l'année. S'il est certain que ces mesures d'urgence, que nous appelions de nos vœux, sont bienvenues, envisagez-vous, monsieur le ministre délégué chargé de l'industrie, un mécanisme plus pérenne permettant qu'à l'avenir, les petites entreprises ne soient plus captives dans la durée de prix anormalement excessifs ?<br><br>Quant aux collectivités territoriales, le filet de sécurité défendu par le groupe Horizons leur offre un premier soutien. Elles restent néanmoins contraintes, dans le contexte actuel, de fermer l'accès à des équipements et services publics essentiels et de réduire leurs investissements. Aussi, envisagez-vous d'étendre aux collectivités la portée des récentes annonces ?<i> (Applaudissements sur quelques bancs du groupe HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé de l’industrie.<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué chargé de l’industrie. </i>Je vous remercie pour votre question, monsieur le député, et surtout pour vos alertes. Nous avons eu l'occasion tous les deux, dans le cadre d'un déplacement à Agen il y a une quinzaine de jours, d'évoquer de nouveau ce sujet. Vous faites partie des membres de la majorité qui nous ont signalé très tôt que les dispositifs que nous avions d'ores et déjà annoncés devaient sans doute faire l'objet d'un élargissement et d'un renforcement, notamment pour les très petites entreprises (TPE) – dont font partie les boulangers, entre autres. Certaines d'entre elles, qui devaient renégocier leurs contrats à l'automne dernier, se sont retrouvées avec des tarifs beaucoup plus élevés en raison de la très forte hausse des prix de l'énergie observée au même moment.<br><br>Vous l'avez dit : alertés par certains d'entre vous, et sous l'impulsion du Président de la République, nous avons annoncé vendredi dernier des mesures très fortes grâce auxquelles aucune TPE de France, quel que soit le contrat qu'elle a signé, bénéficiera d'un bouclier tarifaire plafonnant son tarif moyen de l'électricité à 280 euros par MWh pour l'année 2023. Cela se fera sans renégociation des contrats, ce qui était important : compte tenu du nombre de TPE concernées, une renégociation aurait pu provoquer une embolie des TPE elles-mêmes – renégocier un contrat, cela prend du temps – et des fournisseurs d'énergie dont nous souhaitons qu'ils soient avant tout au service de leurs clients. Cette révision généralisée des contrats va permettre de baisser les factures de manière extrêmement forte et de retrouver des prix beaucoup plus viables.<br><br>Je le répète, l'économie française résiste très bien au choc énergétique auquel l'ensemble de l'Europe fait face. C'est en grande partie grâce aux mesures annoncées et adoptées par le Gouvernement. C'est aussi en grande partie lié à la résilience de notre tissu industriel et commercial, qui résiste très bien. Remercions nos entreprises et continuons à suivre la situation. Vous avez évoqué, monsieur le député, l'opportunité de mettre en place quelques dispositifs adaptés. Voyons comme la situation évolue mais, pour l'instant, l'économie française résiste bien. Félicitons-nous-en et continuons à suivre le dispositif. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 32,
+            "label": "ORG",
+            "text": "MODALITÉS"
+          },
+          {
+            "start_char": 36,
+            "end_char": 51,
+            "label": "ORG",
+            "text": "RÉSILIATION DES"
+          },
+          {
+            "start_char": 61,
+            "end_char": 73,
+            "label": "ORG",
+            "text": "ÉNERGÉTIQUES"
+          },
+          {
+            "start_char": 82,
+            "end_char": 90,
+            "label": "PER",
+            "text": "PG25></a"
+          },
+          {
+            "start_char": 108,
+            "end_char": 111,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 152,
+            "end_char": 184,
+            "label": "PER",
+            "text": "M. Luc Lamirault.<br><br><strong"
+          },
+          {
+            "start_char": 188,
+            "end_char": 201,
+            "label": "PER",
+            "text": "Luc Lamirault"
+          },
+          {
+            "start_char": 355,
+            "end_char": 363,
+            "label": "LOC",
+            "text": "Horizons"
+          },
+          {
+            "start_char": 770,
+            "end_char": 787,
+            "label": "MISC",
+            "text": "intenable.<br><br"
+          },
+          {
+            "start_char": 796,
+            "end_char": 822,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 824,
+            "end_char": 838,
+            "label": "PER",
+            "text": "Bruno Le Maire"
+          },
+          {
+            "start_char": 1624,
+            "end_char": 1632,
+            "label": "LOC",
+            "text": "Horizons"
+          },
+          {
+            "start_char": 1918,
+            "end_char": 1934,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 1964,
+            "end_char": 1988,
+            "label": "ORG",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1989,
+            "end_char": 1992,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2033,
+            "end_char": 2035,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2066,
+            "end_char": 2068,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2094,
+            "end_char": 2103,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 2152,
+            "end_char": 2154,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2329,
+            "end_char": 2333,
+            "label": "LOC",
+            "text": "Agen"
+          },
+          {
+            "start_char": 2652,
+            "end_char": 2655,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 2920,
+            "end_char": 2935,
+            "label": "MISC",
+            "text": "moment.<br><br>"
+          },
+          {
+            "start_char": 3011,
+            "end_char": 3037,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3123,
+            "end_char": 3126,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 3127,
+            "end_char": 3136,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 3276,
+            "end_char": 3279,
+            "label": "MISC",
+            "text": "MWh"
+          },
+          {
+            "start_char": 3395,
+            "end_char": 3398,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 3465,
+            "end_char": 3468,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 3778,
+            "end_char": 3793,
+            "label": "MISC",
+            "text": "viables.<br><br"
+          },
+          {
+            "start_char": 3888,
+            "end_char": 3896,
+            "label": "LOC",
+            "text": "l'Europe"
+          },
+          {
+            "start_char": 3978,
+            "end_char": 3990,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4105,
+            "end_char": 4115,
+            "label": "MISC",
+            "text": "Remercions"
+          },
+          {
+            "start_char": 4360,
+            "end_char": 4370,
+            "label": "LOC",
+            "text": "Félicitons"
+          },
+          {
+            "start_char": 4467,
+            "end_char": 4478,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 126,
+            "sentiment": "4 stars",
+            "score": 0.35435664653778076
+          },
+          {
+            "begin_char": 127,
+            "end_char": 202,
+            "sentiment": "4 stars",
+            "score": 0.2605762183666229
+          },
+          {
+            "begin_char": 203,
+            "end_char": 324,
+            "sentiment": "4 stars",
+            "score": 0.2626548409461975
+          },
+          {
+            "begin_char": 325,
+            "end_char": 582,
+            "sentiment": "5 stars",
+            "score": 0.516403079032898
+          },
+          {
+            "begin_char": 583,
+            "end_char": 1053,
+            "sentiment": "4 stars",
+            "score": 0.4476659297943115
+          },
+          {
+            "begin_char": 1054,
+            "end_char": 1226,
+            "sentiment": "4 stars",
+            "score": 0.3082595765590668
+          },
+          {
+            "begin_char": 1227,
+            "end_char": 1534,
+            "sentiment": "4 stars",
+            "score": 0.3276333808898926
+          },
+          {
+            "begin_char": 1534,
+            "end_char": 1579,
+            "sentiment": "3 stars",
+            "score": 0.25806528329849243
+          },
+          {
+            "begin_char": 1579,
+            "end_char": 1663,
+            "sentiment": "4 stars",
+            "score": 0.44616952538490295
+          },
+          {
+            "begin_char": 1664,
+            "end_char": 1829,
+            "sentiment": "4 stars",
+            "score": 0.3831993639469147
+          },
+          {
+            "begin_char": 1830,
+            "end_char": 1913,
+            "sentiment": "5 stars",
+            "score": 0.2924923598766327
+          },
+          {
+            "begin_char": 1913,
+            "end_char": 1918,
+            "sentiment": "3 stars",
+            "score": 0.30101048946380615
+          },
+          {
+            "begin_char": 1918,
+            "end_char": 2007,
+            "sentiment": "4 stars",
+            "score": 0.3357951045036316
+          },
+          {
+            "begin_char": 2008,
+            "end_char": 2164,
+            "sentiment": "4 stars",
+            "score": 0.29509156942367554
+          },
+          {
+            "begin_char": 2165,
+            "end_char": 2169,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2169,
+            "end_char": 2171,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 2172,
+            "end_char": 2255,
+            "sentiment": "5 stars",
+            "score": 0.5103779435157776
+          },
+          {
+            "begin_char": 2256,
+            "end_char": 2395,
+            "sentiment": "4 stars",
+            "score": 0.38113388419151306
+          },
+          {
+            "begin_char": 2396,
+            "end_char": 2705,
+            "sentiment": "5 stars",
+            "score": 0.3873344957828522
+          },
+          {
+            "begin_char": 2706,
+            "end_char": 2935,
+            "sentiment": "3 stars",
+            "score": 0.39812251925468445
+          },
+          {
+            "begin_char": 2935,
+            "end_char": 3098,
+            "sentiment": "5 stars",
+            "score": 0.5444028377532959
+          },
+          {
+            "begin_char": 3099,
+            "end_char": 3298,
+            "sentiment": "5 stars",
+            "score": 0.4465295672416687
+          },
+          {
+            "begin_char": 3299,
+            "end_char": 3632,
+            "sentiment": "4 stars",
+            "score": 0.42751866579055786
+          },
+          {
+            "begin_char": 3633,
+            "end_char": 3907,
+            "sentiment": "5 stars",
+            "score": 0.6841502785682678
+          },
+          {
+            "begin_char": 3908,
+            "end_char": 3930,
+            "sentiment": "3 stars",
+            "score": 0.27072492241859436
+          },
+          {
+            "begin_char": 3931,
+            "end_char": 3991,
+            "sentiment": "5 stars",
+            "score": 0.519071638584137
+          },
+          {
+            "begin_char": 3992,
+            "end_char": 4104,
+            "sentiment": "4 stars",
+            "score": 0.4834060072898865
+          },
+          {
+            "begin_char": 4105,
+            "end_char": 4168,
+            "sentiment": "5 stars",
+            "score": 0.624564528465271
+          },
+          {
+            "begin_char": 4169,
+            "end_char": 4269,
+            "sentiment": "4 stars",
+            "score": 0.3439132869243622
+          },
+          {
+            "begin_char": 4270,
+            "end_char": 4359,
+            "sentiment": "3 stars",
+            "score": 0.43568626046180725
+          },
+          {
+            "begin_char": 4360,
+            "end_char": 4416,
+            "sentiment": "5 stars",
+            "score": 0.5929375886917114
+          },
+          {
+            "begin_char": 4417,
+            "end_char": 4479,
+            "sentiment": "3 stars",
+            "score": 0.3159869611263275
+          },
+          {
+            "begin_char": 4480,
+            "end_char": 4483,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-11",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-11",
+        "pageJO": "116",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

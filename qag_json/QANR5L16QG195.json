@@ -1,0 +1,803 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG195",
+    "identifiant": {
+      "numero": "195",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "sécurité des biens et des personnes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "LUTTE CONTRE L'INSÉCURITÉ"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793330",
+        "mandatRef": "PM796263"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Justice",
+      "developpe": "Ministère de la justice"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Justice",
+          "developpe": "Ministère de la justice"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> LUTTE CONTRE L'INSÉCURITÉ <a name=PG2></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Bryan Masson.<br><br><strong>M. Bryan Masson. </strong>Monsieur le garde des sceaux, pas un jour ne se passe sans qu'une atrocité ne soit commise sur le territoire national, sans que les défaillances de votre politique ne soient pointées du doigt. Quoi que vous en disiez, l'insécurité est grandissante.<br><br>Dans mon département des Alpes-Maritimes, le procureur de la République de Nice a déclaré être très inquiet de l'évolution des violences et de leur particulière gravité. À Angers, il y a quelques jours, un violeur déjà condamné et libéré avant le terme de sa peine, a tenté à nouveau de violer une jeune femme. À Grenoble, un homme déjà condamné pour avoir tiré sur des policiers, a recommencé après un refus d'obtempérer. Je pense à Marin, tabassé et rendu handicapé à vie en 2016 par une racaille…<br><br><strong>M. Benjamin Lucas.</strong> C'est vous, la racaille !<br><br><strong>M. Bryan Masson. </strong>…qui voit son agresseur libéré bien avant le terme de sa peine initiale. Ces faits confirment l'ensauvagement progressif de notre société, qui fait vivre des millions de Français dans la peur de sortir dans la rue, au risque de se voir molestés, violentés, violés ou tués.<br><br>Ils confirment aussi la réalité d'un laxisme judiciaire dangereux. Il convient de rappeler que le dogme selon lequel la fermeté des peines favoriserait la récidive, est une aberration. Concernant la justice de notre pays, tous les voyants sont au rouge. Surpopulation carcérale, laxisme judiciaire, surreprésentation des étrangers en prison : tous ces éléments prouvent que votre politique est inefficace.<br><br>Il y a quelques jours, vous avez déclaré que les élus du Rassemblement national étaient des extrémistes et que vous aviez des comptes à régler avec eux. <i>(Applaudissements sur plusieurs bancs du groupe LFI-NUPES. – MM. Arthur Delaporte et Benjamin Lucas applaudissent également.)</i> Vous n'avez décidément honte de rien !<br><br>Contrairement à vous, monsieur le garde des sceaux, les membres de cette assemblée ont été élus démocratiquement par les Français. De ce fait, c'est vous qui avez des comptes à nous rendre, et pas l'inverse ! <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br>Monsieur le garde des sceaux, quand allez-vous cesser d'être aveuglé par votre dogmatisme dangereux et enfin donner les instructions nécessaires aux parquets pour en finir avec ce laxisme ? <i>(Les députés du groupe Rassemblement national se lèvent et applaudissent.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le garde des sceaux, ministre de la justice.<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux, ministre de la justice. </i>Monsieur le député, vous tournez finalement toujours autour du même thème. Toujours !<br><br><strong>M. Laurent Jacobelli et M. Thomas Ménagé .</strong> Vous ne le traitez pas !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>En ce qui concerne le « laxisme » de la justice, je vais vous donner les chiffres puisque les mots ne vous conviennent pas. En quinze ans, la moyenne des peines prononcées en correctionnelle est passée de six à neuf mois de prison ferme et, en matière criminelle, de quatorze à seize ans – je rappelle que ce sont nos compatriotes qui rendent la justice aux assises. Voilà la réalité.<br><br><strong>M. Erwan Balanant.</strong> Eh oui !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>Mais vous ne voulez pas de la réalité. Comme sur certains plateaux de chaînes d'information en continu, vous avez une présentation « faits-diversière » de la justice. Vous ne voulez pas l'entendre, mais personne ne peut croire à la rémission des crimes. Elle n'adviendrait pas et, même si par malheur vous arriviez au pouvoir, je ne vous donnerais pas une semaine sans que vous ayez à connaître les crimes et les infractions qui sont consubstantielles à notre humanité. <i>(Exclamations sur les bancs du groupe RN.</i>) Cela ne signifie pas qu'il faille être fataliste. Je demande aux parquets d'être extrêmement sévères. (Mêmes mouvements.)<br><br>Comme je l'ai déjà dit, vous avez la matraque magique. Vous répétez la même chose. Il flotte sur notre époque un parfum qui n'a pas le goût sucré des alizés, mesdames et messieurs les députés du Rassemblement national, mais l'odeur nauséabonde de 1938. <i>(Vives protestations sur les bancs du groupe RN.) </i>Voilà ce que vous nous faites. (Applaudissements sur les bancs du groupe RE et sur quelques bancs des groupes Dem et GDR-NUPES.)<br><br><strong>Mme la présidente. </strong>Monsieur Masson, il vous reste neuf secondes.<br><br><strong>M. Bryan Masson. </strong>Je modifie ma question. Compte tenu de vos échecs, monsieur le garde des sceaux, quand comptez-vous enfin démissionner ? <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>M. Erwan Balanant.</strong> Et vous, monsieur Masson, quand comptez-vous avoir de vraies idées ? <i>(Exclamations sur les bancs du groupe RN.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 35,
+            "label": "ORG",
+            "text": "LUTTE CONTRE"
+          },
+          {
+            "start_char": 57,
+            "end_char": 64,
+            "label": "PER",
+            "text": "PG2></a"
+          },
+          {
+            "start_char": 82,
+            "end_char": 85,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 126,
+            "end_char": 157,
+            "label": "PER",
+            "text": "M. Bryan Masson.<br><br><strong"
+          },
+          {
+            "start_char": 161,
+            "end_char": 173,
+            "label": "PER",
+            "text": "Bryan Masson"
+          },
+          {
+            "start_char": 184,
+            "end_char": 192,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 419,
+            "end_char": 439,
+            "label": "MISC",
+            "text": "grandissante.<br><br"
+          },
+          {
+            "start_char": 465,
+            "end_char": 480,
+            "label": "LOC",
+            "text": "Alpes-Maritimes"
+          },
+          {
+            "start_char": 501,
+            "end_char": 519,
+            "label": "LOC",
+            "text": "République de Nice"
+          },
+          {
+            "start_char": 612,
+            "end_char": 618,
+            "label": "LOC",
+            "text": "Angers"
+          },
+          {
+            "start_char": 753,
+            "end_char": 761,
+            "label": "LOC",
+            "text": "Grenoble"
+          },
+          {
+            "start_char": 874,
+            "end_char": 879,
+            "label": "MISC",
+            "text": "Marin"
+          },
+          {
+            "start_char": 958,
+            "end_char": 982,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong>"
+          },
+          {
+            "start_char": 1027,
+            "end_char": 1039,
+            "label": "PER",
+            "text": "Bryan Masson"
+          },
+          {
+            "start_char": 1220,
+            "end_char": 1228,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1317,
+            "end_char": 1329,
+            "label": "MISC",
+            "text": "tués.<br><br"
+          },
+          {
+            "start_char": 1724,
+            "end_char": 1742,
+            "label": "MISC",
+            "text": "inefficace.<br><br"
+          },
+          {
+            "start_char": 1800,
+            "end_char": 1822,
+            "label": "ORG",
+            "text": "Rassemblement national"
+          },
+          {
+            "start_char": 1947,
+            "end_char": 1956,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1984,
+            "end_char": 1992,
+            "label": "MISC",
+            "text": "Benjamin"
+          },
+          {
+            "start_char": 2068,
+            "end_char": 2075,
+            "label": "PER",
+            "text": "br><br>"
+          },
+          {
+            "start_char": 2196,
+            "end_char": 2204,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2329,
+            "end_char": 2345,
+            "label": "PER",
+            "text": "RN.)</i><br><br>"
+          },
+          {
+            "start_char": 2345,
+            "end_char": 2353,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2561,
+            "end_char": 2583,
+            "label": "ORG",
+            "text": "Rassemblement national"
+          },
+          {
+            "start_char": 2632,
+            "end_char": 2635,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2676,
+            "end_char": 2678,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2700,
+            "end_char": 2738,
+            "label": "ORG",
+            "text": "ministre de la justice.<br><br><strong"
+          },
+          {
+            "start_char": 2742,
+            "end_char": 2753,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2821,
+            "end_char": 2829,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2925,
+            "end_char": 2942,
+            "label": "PER",
+            "text": "Laurent Jacobelli"
+          },
+          {
+            "start_char": 2946,
+            "end_char": 2948,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2949,
+            "end_char": 2962,
+            "label": "PER",
+            "text": "Thomas Ménagé"
+          },
+          {
+            "start_char": 3017,
+            "end_char": 3028,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 3473,
+            "end_char": 3499,
+            "label": "PER",
+            "text": "M. Erwan Balanant.</strong"
+          },
+          {
+            "start_char": 3528,
+            "end_char": 3539,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4095,
+            "end_char": 4101,
+            "label": "ORG",
+            "text": "RN.</i"
+          },
+          {
+            "start_char": 4207,
+            "end_char": 4212,
+            "label": "LOC",
+            "text": "Mêmes"
+          },
+          {
+            "start_char": 4428,
+            "end_char": 4450,
+            "label": "ORG",
+            "text": "Rassemblement national"
+          },
+          {
+            "start_char": 4487,
+            "end_char": 4495,
+            "label": "LOC",
+            "text": "i>(Vives"
+          },
+          {
+            "start_char": 4534,
+            "end_char": 4536,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 4575,
+            "end_char": 4608,
+            "label": "MISC",
+            "text": "Applaudissements sur les bancs du"
+          },
+          {
+            "start_char": 4609,
+            "end_char": 4618,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4653,
+            "end_char": 4656,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4660,
+            "end_char": 4686,
+            "label": "LOC",
+            "text": "GDR-NUPES.)<br><br><strong"
+          },
+          {
+            "start_char": 4687,
+            "end_char": 4690,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4715,
+            "end_char": 4730,
+            "label": "PER",
+            "text": "Monsieur Masson"
+          },
+          {
+            "start_char": 4779,
+            "end_char": 4791,
+            "label": "PER",
+            "text": "Bryan Masson"
+          },
+          {
+            "start_char": 4968,
+            "end_char": 4991,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5038,
+            "end_char": 5044,
+            "label": "PER",
+            "text": "Masson"
+          },
+          {
+            "start_char": 5130,
+            "end_char": 5141,
+            "label": "ORG",
+            "text": "RN.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 100,
+            "sentiment": "4 stars",
+            "score": 0.28738826513290405
+          },
+          {
+            "begin_char": 101,
+            "end_char": 174,
+            "sentiment": "3 stars",
+            "score": 0.2386663854122162
+          },
+          {
+            "begin_char": 175,
+            "end_char": 376,
+            "sentiment": "1 star",
+            "score": 0.4133371114730835
+          },
+          {
+            "begin_char": 377,
+            "end_char": 440,
+            "sentiment": "4 stars",
+            "score": 0.2518310546875
+          },
+          {
+            "begin_char": 440,
+            "end_char": 609,
+            "sentiment": "4 stars",
+            "score": 0.4355560839176178
+          },
+          {
+            "begin_char": 610,
+            "end_char": 750,
+            "sentiment": "4 stars",
+            "score": 0.2386067807674408
+          },
+          {
+            "begin_char": 751,
+            "end_char": 862,
+            "sentiment": "1 star",
+            "score": 0.37389710545539856
+          },
+          {
+            "begin_char": 863,
+            "end_char": 982,
+            "sentiment": "1 star",
+            "score": 0.24840064346790314
+          },
+          {
+            "begin_char": 983,
+            "end_char": 1008,
+            "sentiment": "1 star",
+            "score": 0.7255358695983887
+          },
+          {
+            "begin_char": 1008,
+            "end_char": 1040,
+            "sentiment": "3 stars",
+            "score": 0.2841830253601074
+          },
+          {
+            "begin_char": 1041,
+            "end_char": 1122,
+            "sentiment": "3 stars",
+            "score": 0.2559598386287689
+          },
+          {
+            "begin_char": 1123,
+            "end_char": 1396,
+            "sentiment": "4 stars",
+            "score": 0.40475520491600037
+          },
+          {
+            "begin_char": 1397,
+            "end_char": 1514,
+            "sentiment": "1 star",
+            "score": 0.5732592940330505
+          },
+          {
+            "begin_char": 1515,
+            "end_char": 1583,
+            "sentiment": "1 star",
+            "score": 0.321267694234848
+          },
+          {
+            "begin_char": 1584,
+            "end_char": 1743,
+            "sentiment": "1 star",
+            "score": 0.7476791739463806
+          },
+          {
+            "begin_char": 1743,
+            "end_char": 1895,
+            "sentiment": "1 star",
+            "score": 0.3746107816696167
+          },
+          {
+            "begin_char": 1896,
+            "end_char": 1957,
+            "sentiment": "4 stars",
+            "score": 0.3430134356021881
+          },
+          {
+            "begin_char": 1958,
+            "end_char": 1964,
+            "sentiment": "3 stars",
+            "score": 0.26447394490242004
+          },
+          {
+            "begin_char": 1964,
+            "end_char": 1970,
+            "sentiment": "4 stars",
+            "score": 0.2665770351886749
+          },
+          {
+            "begin_char": 1971,
+            "end_char": 1992,
+            "sentiment": "3 stars",
+            "score": 0.2585064768791199
+          },
+          {
+            "begin_char": 1993,
+            "end_char": 2028,
+            "sentiment": "5 stars",
+            "score": 0.4003955125808716
+          },
+          {
+            "begin_char": 2029,
+            "end_char": 2067,
+            "sentiment": "1 star",
+            "score": 0.3986944258213043
+          },
+          {
+            "begin_char": 2067,
+            "end_char": 2075,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2075,
+            "end_char": 2088,
+            "sentiment": "5 stars",
+            "score": 0.22885572910308838
+          },
+          {
+            "begin_char": 2089,
+            "end_char": 2205,
+            "sentiment": "5 stars",
+            "score": 0.4972012937068939
+          },
+          {
+            "begin_char": 2206,
+            "end_char": 2283,
+            "sentiment": "1 star",
+            "score": 0.5333541035652161
+          },
+          {
+            "begin_char": 2284,
+            "end_char": 2345,
+            "sentiment": "4 stars",
+            "score": 0.31412309408187866
+          },
+          {
+            "begin_char": 2345,
+            "end_char": 2374,
+            "sentiment": "4 stars",
+            "score": 0.3749711215496063
+          },
+          {
+            "begin_char": 2375,
+            "end_char": 2534,
+            "sentiment": "1 star",
+            "score": 0.6251624226570129
+          },
+          {
+            "begin_char": 2535,
+            "end_char": 2542,
+            "sentiment": "3 stars",
+            "score": 0.29896679520606995
+          },
+          {
+            "begin_char": 2543,
+            "end_char": 2650,
+            "sentiment": "4 stars",
+            "score": 0.3481657803058624
+          },
+          {
+            "begin_char": 2651,
+            "end_char": 2816,
+            "sentiment": "4 stars",
+            "score": 0.31975746154785156
+          },
+          {
+            "begin_char": 2817,
+            "end_char": 2821,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2821,
+            "end_char": 2895,
+            "sentiment": "1 star",
+            "score": 0.38629546761512756
+          },
+          {
+            "begin_char": 2896,
+            "end_char": 2906,
+            "sentiment": "5 stars",
+            "score": 0.4118063151836395
+          },
+          {
+            "begin_char": 2906,
+            "end_char": 2973,
+            "sentiment": "3 stars",
+            "score": 0.33592572808265686
+          },
+          {
+            "begin_char": 2974,
+            "end_char": 2998,
+            "sentiment": "1 star",
+            "score": 0.8472704887390137
+          },
+          {
+            "begin_char": 2998,
+            "end_char": 3068,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 3069,
+            "end_char": 3196,
+            "sentiment": "1 star",
+            "score": 0.449398934841156
+          },
+          {
+            "begin_char": 3197,
+            "end_char": 3439,
+            "sentiment": "4 stars",
+            "score": 0.36135736107826233
+          },
+          {
+            "begin_char": 3440,
+            "end_char": 3500,
+            "sentiment": "1 star",
+            "score": 0.27126821875572205
+          },
+          {
+            "begin_char": 3501,
+            "end_char": 3509,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 3509,
+            "end_char": 3579,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 3580,
+            "end_char": 3584,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3584,
+            "end_char": 3622,
+            "sentiment": "1 star",
+            "score": 0.4968896806240082
+          },
+          {
+            "begin_char": 3623,
+            "end_char": 3750,
+            "sentiment": "5 stars",
+            "score": 0.23084793984889984
+          },
+          {
+            "begin_char": 3751,
+            "end_char": 3837,
+            "sentiment": "1 star",
+            "score": 0.45551225543022156
+          },
+          {
+            "begin_char": 3838,
+            "end_char": 4053,
+            "sentiment": "1 star",
+            "score": 0.5304889678955078
+          },
+          {
+            "begin_char": 4054,
+            "end_char": 4103,
+            "sentiment": "4 stars",
+            "score": 0.2736799120903015
+          },
+          {
+            "begin_char": 4104,
+            "end_char": 4153,
+            "sentiment": "3 stars",
+            "score": 0.283165842294693
+          },
+          {
+            "begin_char": 4154,
+            "end_char": 4205,
+            "sentiment": "5 stars",
+            "score": 0.45704397559165955
+          },
+          {
+            "begin_char": 4206,
+            "end_char": 4287,
+            "sentiment": "5 stars",
+            "score": 0.323239803314209
+          },
+          {
+            "begin_char": 4288,
+            "end_char": 4315,
+            "sentiment": "1 star",
+            "score": 0.5518583655357361
+          },
+          {
+            "begin_char": 4316,
+            "end_char": 4485,
+            "sentiment": "2 stars",
+            "score": 0.319864422082901
+          },
+          {
+            "begin_char": 4486,
+            "end_char": 4495,
+            "sentiment": "3 stars",
+            "score": 0.2765619456768036
+          },
+          {
+            "begin_char": 4496,
+            "end_char": 4537,
+            "sentiment": "4 stars",
+            "score": 0.35629355907440186
+          },
+          {
+            "begin_char": 4537,
+            "end_char": 4538,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 4539,
+            "end_char": 4543,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4543,
+            "end_char": 4573,
+            "sentiment": "1 star",
+            "score": 0.44114458560943604
+          },
+          {
+            "begin_char": 4574,
+            "end_char": 4575,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 4575,
+            "end_char": 4705,
+            "sentiment": "4 stars",
+            "score": 0.36354994773864746
+          },
+          {
+            "begin_char": 4706,
+            "end_char": 4792,
+            "sentiment": "1 star",
+            "score": 0.6702442169189453
+          },
+          {
+            "begin_char": 4793,
+            "end_char": 4825,
+            "sentiment": "4 stars",
+            "score": 0.29970547556877136
+          },
+          {
+            "begin_char": 4826,
+            "end_char": 4922,
+            "sentiment": "1 star",
+            "score": 0.3848925232887268
+          },
+          {
+            "begin_char": 4923,
+            "end_char": 5088,
+            "sentiment": "3 stars",
+            "score": 0.2603836953639984
+          },
+          {
+            "begin_char": 5089,
+            "end_char": 5146,
+            "sentiment": "3 stars",
+            "score": 0.30325934290885925
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-26",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-26",
+        "pageJO": "4554",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

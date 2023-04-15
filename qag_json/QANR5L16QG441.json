@@ -1,0 +1,497 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG441",
+    "identifiant": {
+      "numero": "441",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "établissements de santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "CRISE DE L'HÔPITAL"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793844",
+        "mandatRef": "PM796563"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-11",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CRISE DE L'HÔPITAL <a name=PG27></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Pascale Bordes.<br><br><strong>Mme Pascale Bordes. </strong>Ma question s’adresse à M. le ministre de la santé et de la prévention. Je me suis rendue il y a quelques jours dans un hôpital de ma circonscription, à Bagnols-sur-Cèze dans le Gard, aux côtés de soignants qui font un travail extraordinaire avec des moyens matériels et humains indigents. Les urgences de cet hôpital sont saturées. L’hôpital est en pénurie de professionnels dans tous les secteurs, ce qui a conduit à la fermeture de lits. Alors que cet établissement souffre d’un manque cruel de lits, les brancards s’accumulent dans les couloirs, laissant les patients côte à côte, dans une promiscuité peu compatible avec leur état médical. J’ai ainsi pu croiser un patient âgé de 78 ans qui était allongé sur un brancard depuis 36 heures, sans aucune intimité, faute d’un lit en gériatrie. Cette situation qui confine à de la maltraitance, voire à de l'inhumanité, compromet les chances de guérison des patients, <i>a fortiori</i> de ceux qui sont âgés. La situation est d’autant plus critique que la population est vieillissante et que les personnes âgées sont de plus en plus nombreuses à venir aux urgences.<br><br>« Nous ne pouvons, nous ne devons plus accepter la maltraitance des patients, la surcharge des urgences étant, et ceci est largement prouvé, responsable d'une augmentation de la morbi-mortalité. » Ces mots sont les vôtres, monsieur le ministre, lorsque vous étiez président du syndicat Samu-Urgences de France. Notre système de soins est à bout de souffle, vous en avez fait le constat, et il faut sans attendre prendre des mesures afin de rétablir des conditions de soins décentes et garantissant la sécurité, avant qu’il ne soit trop tard et que ne se multiplient des événements que nous redoutons tous : le décès de patients n'ayant pu être soignés à temps ou dans de bonnes conditions. Il y va de votre responsabilité en tant que ministre, il y va de la responsabilité du Gouvernement, il y va de notre responsabilité de parlementaires, il y va de l’honneur de la France. <br><br>Je souhaiterais donc savoir, monsieur le ministre, si vous comptez prendre enfin, dans un avenir très proche, des mesures permettant de mettre un terme à la maltraitance des patients et des soignants dès à présent, sans attendre une refondation du système.<i> (« Bravo ! » et applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>Je vous remercie de votre diagnostic qui est malheureusement connu, madame la députée, et face auquel nous avons beaucoup d'actions à mener. Vous auriez pu également reconnaître les actions qui sont engagées depuis six mois.<br><br><strong>M. Sébastien Chenu.</strong> Quelles actions ?<br><br><strong>M. François Braun,</strong><i> ministre . </i>Alors que tout le monde nous annonçait un été cataclysmique, nous avons réussi à le passer avec, bien sûr, l'appui des professionnels de santé sur le terrain.<br><br>Je l'ai dit : mon objectif, c'est bien sûr de prendre soin des Françaises et des Français, mais c'est aussi de prendre soin des soignants qui sont auprès de nos concitoyens tous les jours. Notre action s'articule selon trois axes : simplifier, collaborer et valoriser, dans le cadre des missions de santé publique. Plusieurs pistes ont été dessinées par le Président de la République le 6 janvier dernier. La première vise à gagner du temps de soins ; je n'y reviens pas. La deuxième vise à travailler sur l'organisation collective, à échelle humaine et à l'échelle des territoires. C'est ce que nous faisons depuis quelques mois avec le Conseil national de la refondation en santé, qui nous a permis d'identifier des pistes spécifiques pour chaque territoire. Nous devons également travailler sur l'organisation au sein de l'hôpital, à l'échelle des services, pour redonner du sens, et agir au plus près des individus afin d'améliorer le suivi des carrières et la qualité de vie. Je souhaite également passer un pacte avec les élus des territoires pour améliorer la qualité de vie des soignants s'agissant des transports, du logement et des aides qui peuvent leur être apportées. Cela correspond au guichet unique qui figure dans le projet de loi de financement de la sécurité sociale.<br><br>La troisième piste est celle qui doit nous conduire à assurer la permanence et l’universalité des soins en analysant les besoins, en reconnaissant la pénibilité, en faisant tomber les barrières entre ville et hôpital, entre hôpitaux et les cliniques, entre les différents professionnels de santé – c’est, du reste, ce qui nous a permis de traverser la crise du covid.<br><br>Il faut aussi reconnaître le rôle du médecin traitant généraliste, mettre en place le guichet unique, faire de la permanence des soins une responsabilité territoriale. Enfin, il convient de poursuivre le déploiement du service d’accès aux soins, de travailler sur les rendez-vous non honorés et de réduire le nombre de Français qui n'ont pas de médecin traitant.<br> <p>",
+        "entities": [
+          {
+            "start_char": 76,
+            "end_char": 79,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 120,
+            "end_char": 154,
+            "label": "PER",
+            "text": "Mme Pascale Bordes.<br><br><strong"
+          },
+          {
+            "start_char": 155,
+            "end_char": 173,
+            "label": "PER",
+            "text": "Mme Pascale Bordes"
+          },
+          {
+            "start_char": 196,
+            "end_char": 198,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 208,
+            "end_char": 210,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 337,
+            "end_char": 353,
+            "label": "LOC",
+            "text": "Bagnols-sur-Cèze"
+          },
+          {
+            "start_char": 362,
+            "end_char": 366,
+            "label": "LOC",
+            "text": "Gard"
+          },
+          {
+            "start_char": 517,
+            "end_char": 526,
+            "label": "PER",
+            "text": "L’hôpital"
+          },
+          {
+            "start_char": 702,
+            "end_char": 704,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 956,
+            "end_char": 958,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1290,
+            "end_char": 1306,
+            "label": "MISC",
+            "text": "urgences.<br><br"
+          },
+          {
+            "start_char": 1593,
+            "end_char": 1616,
+            "label": "ORG",
+            "text": "Samu-Urgences de France"
+          },
+          {
+            "start_char": 1824,
+            "end_char": 1827,
+            "label": "LOC",
+            "text": "qu’"
+          },
+          {
+            "start_char": 2083,
+            "end_char": 2095,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2159,
+            "end_char": 2161,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2172,
+            "end_char": 2181,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2454,
+            "end_char": 2459,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 2508,
+            "end_char": 2531,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2532,
+            "end_char": 2535,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2576,
+            "end_char": 2578,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2642,
+            "end_char": 2650,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 2959,
+            "end_char": 2992,
+            "label": "PER",
+            "text": "Sébastien Chenu.</strong> Quelles"
+          },
+          {
+            "start_char": 3021,
+            "end_char": 3029,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3049,
+            "end_char": 3057,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3214,
+            "end_char": 3229,
+            "label": "MISC",
+            "text": "terrain.<br><br"
+          },
+          {
+            "start_char": 3293,
+            "end_char": 3303,
+            "label": "LOC",
+            "text": "Françaises"
+          },
+          {
+            "start_char": 3311,
+            "end_char": 3319,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3587,
+            "end_char": 3613,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3868,
+            "end_char": 3902,
+            "label": "ORG",
+            "text": "Conseil national de la refondation"
+          },
+          {
+            "start_char": 4508,
+            "end_char": 4523,
+            "label": "MISC",
+            "text": "sociale.<br><br"
+          },
+          {
+            "start_char": 4603,
+            "end_char": 4605,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 4822,
+            "end_char": 4824,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 5126,
+            "end_char": 5128,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 5218,
+            "end_char": 5226,
+            "label": "LOC",
+            "text": "Français"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 94,
+            "sentiment": "3 stars",
+            "score": 0.28110963106155396
+          },
+          {
+            "begin_char": 95,
+            "end_char": 174,
+            "sentiment": "3 stars",
+            "score": 0.24745751917362213
+          },
+          {
+            "begin_char": 175,
+            "end_char": 255,
+            "sentiment": "4 stars",
+            "score": 0.3114390969276428
+          },
+          {
+            "begin_char": 256,
+            "end_char": 473,
+            "sentiment": "5 stars",
+            "score": 0.6305158138275146
+          },
+          {
+            "begin_char": 474,
+            "end_char": 516,
+            "sentiment": "2 stars",
+            "score": 0.26673632860183716
+          },
+          {
+            "begin_char": 517,
+            "end_char": 624,
+            "sentiment": "2 stars",
+            "score": 0.3204655945301056
+          },
+          {
+            "begin_char": 625,
+            "end_char": 828,
+            "sentiment": "2 stars",
+            "score": 0.5194560885429382
+          },
+          {
+            "begin_char": 829,
+            "end_char": 978,
+            "sentiment": "1 star",
+            "score": 0.2724667489528656
+          },
+          {
+            "begin_char": 979,
+            "end_char": 1142,
+            "sentiment": "1 star",
+            "score": 0.45388394594192505
+          },
+          {
+            "begin_char": 1143,
+            "end_char": 1309,
+            "sentiment": "4 stars",
+            "score": 0.26379942893981934
+          },
+          {
+            "begin_char": 1309,
+            "end_char": 1503,
+            "sentiment": "5 stars",
+            "score": 0.4092375934123993
+          },
+          {
+            "begin_char": 1504,
+            "end_char": 1617,
+            "sentiment": "5 stars",
+            "score": 0.46757209300994873
+          },
+          {
+            "begin_char": 1618,
+            "end_char": 1996,
+            "sentiment": "5 stars",
+            "score": 0.6141626238822937
+          },
+          {
+            "begin_char": 1997,
+            "end_char": 2182,
+            "sentiment": "5 stars",
+            "score": 0.5688790678977966
+          },
+          {
+            "begin_char": 2183,
+            "end_char": 2550,
+            "sentiment": "5 stars",
+            "score": 0.6152364611625671
+          },
+          {
+            "begin_char": 2551,
+            "end_char": 2669,
+            "sentiment": "4 stars",
+            "score": 0.3129529356956482
+          },
+          {
+            "begin_char": 2670,
+            "end_char": 2711,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 2712,
+            "end_char": 2716,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2716,
+            "end_char": 2718,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 2719,
+            "end_char": 2856,
+            "sentiment": "5 stars",
+            "score": 0.45531514286994934
+          },
+          {
+            "begin_char": 2857,
+            "end_char": 3002,
+            "sentiment": "3 stars",
+            "score": 0.2799326777458191
+          },
+          {
+            "begin_char": 3002,
+            "end_char": 3059,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 3060,
+            "end_char": 3418,
+            "sentiment": "5 stars",
+            "score": 0.44145864248275757
+          },
+          {
+            "begin_char": 3419,
+            "end_char": 3544,
+            "sentiment": "5 stars",
+            "score": 0.42135152220726013
+          },
+          {
+            "begin_char": 3545,
+            "end_char": 3635,
+            "sentiment": "4 stars",
+            "score": 0.2873978912830353
+          },
+          {
+            "begin_char": 3636,
+            "end_char": 3681,
+            "sentiment": "4 stars",
+            "score": 0.32505181431770325
+          },
+          {
+            "begin_char": 3682,
+            "end_char": 3701,
+            "sentiment": "1 star",
+            "score": 0.3257353603839874
+          },
+          {
+            "begin_char": 3702,
+            "end_char": 3812,
+            "sentiment": "4 stars",
+            "score": 0.34803780913352966
+          },
+          {
+            "begin_char": 3813,
+            "end_char": 3990,
+            "sentiment": "4 stars",
+            "score": 0.40679696202278137
+          },
+          {
+            "begin_char": 3991,
+            "end_char": 4210,
+            "sentiment": "5 stars",
+            "score": 0.4984947144985199
+          },
+          {
+            "begin_char": 4211,
+            "end_char": 4410,
+            "sentiment": "5 stars",
+            "score": 0.4740566611289978
+          },
+          {
+            "begin_char": 4411,
+            "end_char": 4899,
+            "sentiment": "5 stars",
+            "score": 0.6191835999488831
+          },
+          {
+            "begin_char": 4899,
+            "end_char": 5066,
+            "sentiment": "5 stars",
+            "score": 0.46894514560699463
+          },
+          {
+            "begin_char": 5067,
+            "end_char": 5269,
+            "sentiment": "5 stars",
+            "score": 0.4727730453014374
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-11",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-11",
+        "pageJO": "118",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

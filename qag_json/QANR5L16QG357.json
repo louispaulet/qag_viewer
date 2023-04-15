@@ -1,0 +1,1097 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG357",
+    "identifiant": {
+      "numero": "357",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "transports urbains",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Transports publics en Ile-de-France"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795588",
+        "mandatRef": "PM797577"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> TRANSPORTS PUBLICS EN ÎLE-DE-FRANCE <a name=PG27></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Farida Amrani.<br><br><strong>Mme Farida Amrani. </strong>Ma question s'adresse au ministre délégué auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports.<br><br>À l’heure où le Président de la République annonce des projets de RER dans dix métropoles françaises et où Île-de-France Mobilités s’apprête à augmenter le prix du passe Navigo à 90 euros par mois, le service public francilien n’a jamais été aussi dégradé.<br><br>Les conditions de transport sont insupportables : trains supprimés, surchargés, retardés, pénuries de conducteurs, matériel défectueux et j’en passe. <i>(Applaudissements sur les bancs du groupe LFI-NUPES et sur quelques bancs du groupe GDR-NUPES.)</i> Chaque jour en Île-de-France, près de 10 millions de déplacements sont affectés par ces dysfonctionnements.<br><br>La faute à qui ? Au désengagement financier de l’État et à l’irresponsabilité de la région Île-de-France. <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i> Du transport express régional (TER) au RER, des régions aux métropoles, le service public est bradé depuis plusieurs années.<br><br>Pas un jour sans incidents sur la ligne du RER D emprunté par des milliers d’habitants de ma circonscription – et c’est pareil sur l’ensemble du réseau. <i>(Applaudissements sur les bancs du groupe LFI-NUPES et sur quelques bancs du groupe GDR-NUPES.)</i><br><br><strong>Un député du groupe LFI-NUPES .</strong> Tous les jours !<br><br><strong>Mme Farida Amrani. </strong>« Le RER, ce n’est pas qu’à Paris » a dit le président Macron, mais pour le moment il reste bloqué en gare.<br><br>Il est temps de garantir un service public digne de ce nom, un service public qui réponde aux attentes ainsi qu'aux enjeux climatiques et économiques de notre pays.<br><br><strong>M. Matthias Tavel.</strong> Exactement !<br><br><strong>Mme Farida Amrani. </strong>Plutôt que de vous renvoyer la balle avec Mme Pécresse, espérons que vous réussirez au moins à convaincre le ministre délégué chargé des comptes publics de financer les annonces du Président. Pour rappel, plus de 3 milliards d'euros en faveur des transports ont été supprimés par 49.3 dans le cadre du projet de loi de finances (PLF). <i>(Applaudissements sur les bancs du groupe LFI-NUPES et sur quelques bancs du groupe GDR-NUPES.)</i><br><br>Monsieur le ministre chargé des transports, comment comptez-vous concrètement agir pour que les transports soient enfin à la hauteur des besoins ? Quand M. Beaune, qui est absent, montrera-t-il autant d’ambition pour nos transports publics que pour sa carrière ? <i>(Applaudissements sur les bancs des groupes LFI-NUPES et GDR-NUPES. – M. Jérôme Guedj applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Soyons humbles :…<br><br><strong>Un député du groupe LFI-NUPES .</strong> Vous n'avez pas le choix !<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>…notre réseau nécessite effectivement davantage de crédits en régénération.<br><br>Cependant, on devrait faire preuve d'humilité sur tous les bancs. En effet, la situation actuelle n'est pas le fruit de quelques mois de sous-investissement.<br><br><strong>Mme Danièle Obono.</strong> Ça fait cinq ans que vous êtes au pouvoir !<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>Dès le début des années 1980, les crédits consacrés à la régénération du réseau ont cessé d'être à la hauteur des 29 000 kilomètres de réseau.<br><br><strong>Mme Sophia Chikirou.</strong> Ça remonte au siècle dernier, à Gambetta, à Louis XVI…<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>Le choix de développer des lignes à grande vitesse (LGV) et de les financer en minorant les crédits d'entretien nous a conduits à la situation actuelle. Sous le dernier quinquennat, les gouvernements dont nous sommes les continuateurs, ont augmenté les crédits consacrés à la régénération du réseau. Dans le budget pour 2023, 6,3 milliards d'euros sont consacrés au ferroviaire.<br><br><strong>Un député du groupe LFI-NUPES .</strong> Ce n'est pas suffisant !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>C'est bien plus que la moyenne de la décennie précédente et c'est nécessaire avant de réaliser les investissements complémentaires que vous proposez. Vous plaidez pour que nous présentions un plan ferroviaire ambitieux. Je viens de répondre par deux fois à cette question, en affirmant que ce plan doit s'inscrire dans le cadre de la planification écologique.<br><br>Toutefois, lorsque nous en débattrons, vous trouverez des choses à redire car, en vérité, vous ne supportez pas que d'autres mettent en œuvre la planification écologique dont vous aimeriez avoir le monopole. <i>(Applaudissements sur les bancs du groupe RE. - Exclamations sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>M. Loïc Prud'homme.</strong> Nous sommes les derniers en Europe !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Au sujet du RER, nous avançons, en instaurant le nouveau système d'exploitation des trains Est-Ouest (Nexteo) et en procédant à des investissements pour le RER B et pour le RER D.<br><br><strong>Mme Mathilde Panot.</strong> Vous ne prenez pas le RER, monsieur le ministre !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Mais, là aussi, vous préférez pointer la galère,…<br><br><strong>Un député du groupe LFI-NUPES .</strong> …parce que c'est la galère !<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>…entretenir le mécontentement, renvoyer la balle et ne pas prendre vos responsabilités, en continuant sur un sujet comme celui-là à être dans l'incantation plutôt que dans l'action. <i>(Exclamations sur les bancs du groupe LFI-NUPES.)</i><br><br>L'action, c'est le plan que nous bâtissons. <i>(M. Matthias Tavel mime un joueur de violon.)</i> L'action, ce sont les milliards d'euros qui vous seront bientôt présentés, c'est la planification écologique que nous instaurons. Mais, évidemment, pour ne pas déprécier votre fonds de commerce, vous préférez l'outrance et l'incantation. (Exclamations sur les bancs du groupe LFI-NUPES.)<br><br><strong>Mme la présidente. </strong>La parole est à Mme Farida Amrani.<br><br><strong>Mme Farida Amrani. </strong>Monsieur le ministre, je vous invite à emprunter à mes côtés, dès demain, le RER, puis j'aurai grand plaisir à en parler de nouveau avec vous. <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 41,
+            "label": "ORG",
+            "text": "TRANSPORTS PUBLICS"
+          },
+          {
+            "start_char": 45,
+            "end_char": 58,
+            "label": "LOC",
+            "text": "ÎLE-DE-FRANCE"
+          },
+          {
+            "start_char": 93,
+            "end_char": 96,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 137,
+            "end_char": 170,
+            "label": "PER",
+            "text": "Mme Farida Amrani.<br><br><strong"
+          },
+          {
+            "start_char": 171,
+            "end_char": 188,
+            "label": "PER",
+            "text": "Mme Farida Amrani"
+          },
+          {
+            "start_char": 355,
+            "end_char": 357,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 369,
+            "end_char": 395,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 419,
+            "end_char": 422,
+            "label": "LOC",
+            "text": "RER"
+          },
+          {
+            "start_char": 460,
+            "end_char": 486,
+            "label": "PER",
+            "text": "Île-de-France Mobilités s’"
+          },
+          {
+            "start_char": 523,
+            "end_char": 529,
+            "label": "LOC",
+            "text": "Navigo"
+          },
+          {
+            "start_char": 580,
+            "end_char": 582,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 601,
+            "end_char": 616,
+            "label": "MISC",
+            "text": "dégradé.<br><br"
+          },
+          {
+            "start_char": 755,
+            "end_char": 757,
+            "label": "MISC",
+            "text": "j’"
+          },
+          {
+            "start_char": 812,
+            "end_char": 821,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 854,
+            "end_char": 868,
+            "label": "ORG",
+            "text": "GDR-NUPES.)</i"
+          },
+          {
+            "start_char": 885,
+            "end_char": 898,
+            "label": "LOC",
+            "text": "Île-de-France"
+          },
+          {
+            "start_char": 958,
+            "end_char": 984,
+            "label": "MISC",
+            "text": "dysfonctionnements.<br><br"
+          },
+          {
+            "start_char": 1032,
+            "end_char": 1034,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 1034,
+            "end_char": 1038,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1044,
+            "end_char": 1046,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1076,
+            "end_char": 1089,
+            "label": "LOC",
+            "text": "Île-de-France"
+          },
+          {
+            "start_char": 1136,
+            "end_char": 1150,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i"
+          },
+          {
+            "start_char": 1183,
+            "end_char": 1186,
+            "label": "ORG",
+            "text": "TER"
+          },
+          {
+            "start_char": 1191,
+            "end_char": 1194,
+            "label": "LOC",
+            "text": "RER"
+          },
+          {
+            "start_char": 1269,
+            "end_char": 1284,
+            "label": "MISC",
+            "text": "années.<br><br>"
+          },
+          {
+            "start_char": 1327,
+            "end_char": 1332,
+            "label": "LOC",
+            "text": "RER D"
+          },
+          {
+            "start_char": 1398,
+            "end_char": 1400,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 1415,
+            "end_char": 1417,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1482,
+            "end_char": 1491,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1524,
+            "end_char": 1554,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1575,
+            "end_char": 1584,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1628,
+            "end_char": 1645,
+            "label": "PER",
+            "text": "Mme Farida Amrani"
+          },
+          {
+            "start_char": 1661,
+            "end_char": 1664,
+            "label": "LOC",
+            "text": "RER"
+          },
+          {
+            "start_char": 1669,
+            "end_char": 1671,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 1679,
+            "end_char": 1682,
+            "label": "LOC",
+            "text": "qu’"
+          },
+          {
+            "start_char": 1684,
+            "end_char": 1689,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 1711,
+            "end_char": 1717,
+            "label": "PER",
+            "text": "Macron"
+          },
+          {
+            "start_char": 1758,
+            "end_char": 1770,
+            "label": "MISC",
+            "text": "gare.<br><br"
+          },
+          {
+            "start_char": 1951,
+            "end_char": 1977,
+            "label": "PER",
+            "text": "M. Matthias Tavel.</strong"
+          },
+          {
+            "start_char": 2007,
+            "end_char": 2024,
+            "label": "PER",
+            "text": "Mme Farida Amrani"
+          },
+          {
+            "start_char": 2077,
+            "end_char": 2089,
+            "label": "PER",
+            "text": "Mme Pécresse"
+          },
+          {
+            "start_char": 2216,
+            "end_char": 2225,
+            "label": "PER",
+            "text": "Président"
+          },
+          {
+            "start_char": 2364,
+            "end_char": 2367,
+            "label": "ORG",
+            "text": "PLF"
+          },
+          {
+            "start_char": 2415,
+            "end_char": 2424,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2457,
+            "end_char": 2479,
+            "label": "ORG",
+            "text": "GDR-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 2480,
+            "end_char": 2488,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2633,
+            "end_char": 2642,
+            "label": "PER",
+            "text": "M. Beaune"
+          },
+          {
+            "start_char": 2790,
+            "end_char": 2799,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2803,
+            "end_char": 2812,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2819,
+            "end_char": 2831,
+            "label": "PER",
+            "text": "Jérôme Guedj"
+          },
+          {
+            "start_char": 2873,
+            "end_char": 2876,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2917,
+            "end_char": 2919,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3010,
+            "end_char": 3023,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3119,
+            "end_char": 3125,
+            "label": "LOC",
+            "text": "Soyons"
+          },
+          {
+            "start_char": 3172,
+            "end_char": 3181,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3235,
+            "end_char": 3248,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3344,
+            "end_char": 3364,
+            "label": "MISC",
+            "text": "régénération.<br><br"
+          },
+          {
+            "start_char": 3538,
+            "end_char": 3564,
+            "label": "PER",
+            "text": "Mme Danièle Obono.</strong"
+          },
+          {
+            "start_char": 3566,
+            "end_char": 3568,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 3625,
+            "end_char": 3638,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3830,
+            "end_char": 3859,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong>"
+          },
+          {
+            "start_char": 3860,
+            "end_char": 3862,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 3892,
+            "end_char": 3900,
+            "label": "PER",
+            "text": "Gambetta"
+          },
+          {
+            "start_char": 3904,
+            "end_char": 3913,
+            "label": "PER",
+            "text": "Louis XVI"
+          },
+          {
+            "start_char": 3930,
+            "end_char": 3943,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4029,
+            "end_char": 4032,
+            "label": "LOC",
+            "text": "LGV"
+          },
+          {
+            "start_char": 4391,
+            "end_char": 4400,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 4452,
+            "end_char": 4465,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 5113,
+            "end_char": 5122,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 5163,
+            "end_char": 5193,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5207,
+            "end_char": 5221,
+            "label": "PER",
+            "text": "homme.</strong"
+          },
+          {
+            "start_char": 5251,
+            "end_char": 5257,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 5275,
+            "end_char": 5288,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 5335,
+            "end_char": 5338,
+            "label": "LOC",
+            "text": "RER"
+          },
+          {
+            "start_char": 5414,
+            "end_char": 5423,
+            "label": "MISC",
+            "text": "Est-Ouest"
+          },
+          {
+            "start_char": 5425,
+            "end_char": 5431,
+            "label": "MISC",
+            "text": "Nexteo"
+          },
+          {
+            "start_char": 5479,
+            "end_char": 5484,
+            "label": "LOC",
+            "text": "RER B"
+          },
+          {
+            "start_char": 5496,
+            "end_char": 5499,
+            "label": "LOC",
+            "text": "RER"
+          },
+          {
+            "start_char": 5518,
+            "end_char": 5545,
+            "label": "PER",
+            "text": "Mme Mathilde Panot.</strong"
+          },
+          {
+            "start_char": 5569,
+            "end_char": 5572,
+            "label": "LOC",
+            "text": "RER"
+          },
+          {
+            "start_char": 5612,
+            "end_char": 5625,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 5745,
+            "end_char": 5754,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5810,
+            "end_char": 5823,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 6080,
+            "end_char": 6102,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 6154,
+            "end_char": 6162,
+            "label": "PER",
+            "text": "Matthias"
+          },
+          {
+            "start_char": 6187,
+            "end_char": 6198,
+            "label": "ORG",
+            "text": "violon.)</i"
+          },
+          {
+            "start_char": 6439,
+            "end_char": 6451,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 6476,
+            "end_char": 6502,
+            "label": "ORG",
+            "text": "LFI-NUPES.)<br><br><strong"
+          },
+          {
+            "start_char": 6503,
+            "end_char": 6506,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 6547,
+            "end_char": 6580,
+            "label": "PER",
+            "text": "Mme Farida Amrani.<br><br><strong"
+          },
+          {
+            "start_char": 6581,
+            "end_char": 6598,
+            "label": "PER",
+            "text": "Mme Farida Amrani"
+          },
+          {
+            "start_char": 6609,
+            "end_char": 6617,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 6686,
+            "end_char": 6689,
+            "label": "LOC",
+            "text": "RER"
+          },
+          {
+            "start_char": 6797,
+            "end_char": 6815,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 41,
+            "sentiment": "3 stars",
+            "score": 0.3150308132171631
+          },
+          {
+            "begin_char": 42,
+            "end_char": 75,
+            "sentiment": "3 stars",
+            "score": 0.30181196331977844
+          },
+          {
+            "begin_char": 75,
+            "end_char": 76,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 77,
+            "end_char": 111,
+            "sentiment": "4 stars",
+            "score": 0.2742326259613037
+          },
+          {
+            "begin_char": 112,
+            "end_char": 189,
+            "sentiment": "3 stars",
+            "score": 0.22572803497314453
+          },
+          {
+            "begin_char": 190,
+            "end_char": 617,
+            "sentiment": "5 stars",
+            "score": 0.28924280405044556
+          },
+          {
+            "begin_char": 617,
+            "end_char": 766,
+            "sentiment": "1 star",
+            "score": 0.6472958326339722
+          },
+          {
+            "begin_char": 767,
+            "end_char": 869,
+            "sentiment": "4 stars",
+            "score": 0.3087097704410553
+          },
+          {
+            "begin_char": 870,
+            "end_char": 1001,
+            "sentiment": "2 stars",
+            "score": 0.2976008653640747
+          },
+          {
+            "begin_char": 1002,
+            "end_char": 1090,
+            "sentiment": "1 star",
+            "score": 0.28612568974494934
+          },
+          {
+            "begin_char": 1091,
+            "end_char": 1151,
+            "sentiment": "4 stars",
+            "score": 0.32597967982292175
+          },
+          {
+            "begin_char": 1152,
+            "end_char": 1284,
+            "sentiment": "3 stars",
+            "score": 0.2812618315219879
+          },
+          {
+            "begin_char": 1284,
+            "end_char": 1436,
+            "sentiment": "5 stars",
+            "score": 0.3226281404495239
+          },
+          {
+            "begin_char": 1437,
+            "end_char": 1555,
+            "sentiment": "3 stars",
+            "score": 0.3173472583293915
+          },
+          {
+            "begin_char": 1555,
+            "end_char": 1612,
+            "sentiment": "1 star",
+            "score": 0.23815315961837769
+          },
+          {
+            "begin_char": 1612,
+            "end_char": 1646,
+            "sentiment": "3 stars",
+            "score": 0.2570960819721222
+          },
+          {
+            "begin_char": 1647,
+            "end_char": 1664,
+            "sentiment": "3 stars",
+            "score": 0.2778475880622864
+          },
+          {
+            "begin_char": 1664,
+            "end_char": 1771,
+            "sentiment": "3 stars",
+            "score": 0.3442409634590149
+          },
+          {
+            "begin_char": 1771,
+            "end_char": 1991,
+            "sentiment": "5 stars",
+            "score": 0.6973493099212646
+          },
+          {
+            "begin_char": 1991,
+            "end_char": 2025,
+            "sentiment": "3 stars",
+            "score": 0.2570960819721222
+          },
+          {
+            "begin_char": 2026,
+            "end_char": 2226,
+            "sentiment": "1 star",
+            "score": 0.5344619154930115
+          },
+          {
+            "begin_char": 2227,
+            "end_char": 2369,
+            "sentiment": "3 stars",
+            "score": 0.33135706186294556
+          },
+          {
+            "begin_char": 2370,
+            "end_char": 2480,
+            "sentiment": "4 stars",
+            "score": 0.31259885430336
+          },
+          {
+            "begin_char": 2480,
+            "end_char": 2626,
+            "sentiment": "5 stars",
+            "score": 0.45633018016815186
+          },
+          {
+            "begin_char": 2627,
+            "end_char": 2742,
+            "sentiment": "2 stars",
+            "score": 0.24149920046329498
+          },
+          {
+            "begin_char": 2743,
+            "end_char": 2813,
+            "sentiment": "4 stars",
+            "score": 0.33193010091781616
+          },
+          {
+            "begin_char": 2814,
+            "end_char": 2891,
+            "sentiment": "4 stars",
+            "score": 0.37169963121414185
+          },
+          {
+            "begin_char": 2892,
+            "end_char": 3114,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 3115,
+            "end_char": 3152,
+            "sentiment": "3 stars",
+            "score": 0.27167433500289917
+          },
+          {
+            "begin_char": 3152,
+            "end_char": 3192,
+            "sentiment": "3 stars",
+            "score": 0.3071180284023285
+          },
+          {
+            "begin_char": 3193,
+            "end_char": 3219,
+            "sentiment": "5 stars",
+            "score": 0.2898235619068146
+          },
+          {
+            "begin_char": 3219,
+            "end_char": 3277,
+            "sentiment": "3 stars",
+            "score": 0.29623985290527344
+          },
+          {
+            "begin_char": 3278,
+            "end_char": 3430,
+            "sentiment": "3 stars",
+            "score": 0.3410995900630951
+          },
+          {
+            "begin_char": 3431,
+            "end_char": 3565,
+            "sentiment": "2 stars",
+            "score": 0.44379863142967224
+          },
+          {
+            "begin_char": 3566,
+            "end_char": 3609,
+            "sentiment": "5 stars",
+            "score": 0.4973154664039612
+          },
+          {
+            "begin_char": 3609,
+            "end_char": 3667,
+            "sentiment": "3 stars",
+            "score": 0.29623985290527344
+          },
+          {
+            "begin_char": 3668,
+            "end_char": 3859,
+            "sentiment": "2 stars",
+            "score": 0.36467427015304565
+          },
+          {
+            "begin_char": 3860,
+            "end_char": 3972,
+            "sentiment": "2 stars",
+            "score": 0.2809622883796692
+          },
+          {
+            "begin_char": 3973,
+            "end_char": 4129,
+            "sentiment": "2 stars",
+            "score": 0.3618210554122925
+          },
+          {
+            "begin_char": 4130,
+            "end_char": 4276,
+            "sentiment": "5 stars",
+            "score": 0.44832801818847656
+          },
+          {
+            "begin_char": 4277,
+            "end_char": 4411,
+            "sentiment": "3 stars",
+            "score": 0.33699822425842285
+          },
+          {
+            "begin_char": 4412,
+            "end_char": 4436,
+            "sentiment": "2 stars",
+            "score": 0.426852822303772
+          },
+          {
+            "begin_char": 4436,
+            "end_char": 4495,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 4496,
+            "end_char": 4649,
+            "sentiment": "4 stars",
+            "score": 0.39980143308639526
+          },
+          {
+            "begin_char": 4650,
+            "end_char": 4719,
+            "sentiment": "5 stars",
+            "score": 0.2931498885154724
+          },
+          {
+            "begin_char": 4720,
+            "end_char": 5074,
+            "sentiment": "5 stars",
+            "score": 0.3586729168891907
+          },
+          {
+            "begin_char": 5075,
+            "end_char": 5123,
+            "sentiment": "4 stars",
+            "score": 0.3196922838687897
+          },
+          {
+            "begin_char": 5124,
+            "end_char": 5197,
+            "sentiment": "3 stars",
+            "score": 0.32511964440345764
+          },
+          {
+            "begin_char": 5197,
+            "end_char": 5222,
+            "sentiment": "3 stars",
+            "score": 0.32504406571388245
+          },
+          {
+            "begin_char": 5223,
+            "end_char": 5259,
+            "sentiment": "5 stars",
+            "score": 0.5084218978881836
+          },
+          {
+            "begin_char": 5259,
+            "end_char": 5318,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 5319,
+            "end_char": 5323,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5323,
+            "end_char": 5546,
+            "sentiment": "4 stars",
+            "score": 0.30210942029953003
+          },
+          {
+            "begin_char": 5547,
+            "end_char": 5596,
+            "sentiment": "1 star",
+            "score": 0.5194736123085022
+          },
+          {
+            "begin_char": 5596,
+            "end_char": 5655,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 5656,
+            "end_char": 5660,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5660,
+            "end_char": 5794,
+            "sentiment": "1 star",
+            "score": 0.5431273579597473
+          },
+          {
+            "begin_char": 5794,
+            "end_char": 5852,
+            "sentiment": "3 stars",
+            "score": 0.29623985290527344
+          },
+          {
+            "begin_char": 5853,
+            "end_char": 6038,
+            "sentiment": "1 star",
+            "score": 0.5570811629295349
+          },
+          {
+            "begin_char": 6039,
+            "end_char": 6103,
+            "sentiment": "4 stars",
+            "score": 0.3037535548210144
+          },
+          {
+            "begin_char": 6103,
+            "end_char": 6146,
+            "sentiment": "5 stars",
+            "score": 0.3765903413295746
+          },
+          {
+            "begin_char": 6147,
+            "end_char": 6162,
+            "sentiment": "3 stars",
+            "score": 0.30866390466690063
+          },
+          {
+            "begin_char": 6163,
+            "end_char": 6168,
+            "sentiment": "4 stars",
+            "score": 0.25301307439804077
+          },
+          {
+            "begin_char": 6169,
+            "end_char": 6199,
+            "sentiment": "3 stars",
+            "score": 0.37131166458129883
+          },
+          {
+            "begin_char": 6200,
+            "end_char": 6329,
+            "sentiment": "5 stars",
+            "score": 0.45907658338546753
+          },
+          {
+            "begin_char": 6330,
+            "end_char": 6437,
+            "sentiment": "2 stars",
+            "score": 0.2837010324001312
+          },
+          {
+            "begin_char": 6438,
+            "end_char": 6439,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 6439,
+            "end_char": 6521,
+            "sentiment": "4 stars",
+            "score": 0.35366201400756836
+          },
+          {
+            "begin_char": 6522,
+            "end_char": 6599,
+            "sentiment": "3 stars",
+            "score": 0.22572803497314453
+          },
+          {
+            "begin_char": 6600,
+            "end_char": 6609,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 6609,
+            "end_char": 6751,
+            "sentiment": "5 stars",
+            "score": 0.5158663392066956
+          },
+          {
+            "begin_char": 6752,
+            "end_char": 6820,
+            "sentiment": "4 stars",
+            "score": 0.3106642961502075
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-30",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-30",
+        "pageJO": "6152",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

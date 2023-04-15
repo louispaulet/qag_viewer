@@ -1,0 +1,875 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG344",
+    "identifiant": {
+      "numero": "344",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "pharmacie et médicaments",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Pénurie de médicaments"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795422",
+        "mandatRef": "PM797478"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Industrie",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Industrie",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PÉNURIE DE MÉDICAMENTS <a name=PG14></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Damien Maudet.<br><br><strong>M. Damien Maudet. </strong>Monsieur le ministre de la santé et de la prévention, peut-on encore soigner nos enfants en France ? Il devient impossible de consulter un pédiatre, puisqu'il n'y en a plus, impossible de se rendre aux urgences, faute de places, et même impossible de soigner une angine, puisqu'il n'y a plus de médicaments !<br><br><strong>M. Loïc Prud'homme.</strong> Eh oui !<br><br><strong>M. Damien Maudet. </strong>Pourtant, en mars 2020, le président Macron déclarait : « Ce que révèle cette pandémie, c'est qu'il est des biens et des services qui doivent être placés en dehors des lois du marché. Déléguer notre alimentation, notre protection, notre capacité à soigner […] est une folie. » Deux ans après ces belles paroles, où en sommes-nous en matière de médicaments ? À Limoges, comme ailleurs, les pharmaciens l'affirment : « Si on a, sur la même ordonnance, Amoxicilline et Doliprane en sachet, on ne peut rien donner. »<br><br>En vérité, avec votre Gouvernement, la situation ne fait que se dégrader : nous sommes ainsi passés de 400 pénuries de médicaments en 2016, à 2 200 en 2021. <i>(Applaudissements sur plusieurs bancs du groupe LFI-NUPES.)</i> La vérité, c'est que deux ans après les promesses, notre pays est à poil ! La vérité, c'est qu'aujourd'hui 80 % des molécules nécessaires à la fabrication de ces médicaments sont produites en Chine et en Inde. (« Il a raison ! » sur les bancs du groupe LFI-NUPES.)<br><br>La vérité, c'est que les productions s'arrêtent parce que les multinationales jugent ces médicaments peu rentables. La vérité, c'est qu'après avoir regardé partir ces mêmes multinationales, vous les gavez d'argent public en espérant les faire revenir. <i>(Mêmes mouvement.) </i><br><br>Il n'y a plus de médecins, plus de soignants et maintenant plus de médicaments. Monsieur le ministre, quand reprendrez-vous la main pour sauver nos vies et notre industrie ? Comme le déclarait Emmanuel Macron, la logique que vous perpétuez est une folie. Comment se fait-il que la septième puissance mondiale ne soit plus capable de produire une simple boîte d'Amoxicilline comme celle-ci ?<br><br><strong>M. Pierre Cordier.</strong> Il est interdit de brandir un objet dans l'hémicycle !<br><br><strong>M. Damien Maudet. </strong>La septième puissance mondiale a besoin d'un ministre de la santé et non d'un ministre des pénuries ! <i>(Applaudissements sur les bancs des groupes LFI-NUPES et GDR-NUPES, ainsi que sur quelques bancs du groupe Écolo-NUPES.)</i><br><br><strong>M. Fabien Di Filippo.</strong> C'est un vrai problème de souveraineté industrielle !<br><br><strong>Mme la présidente. </strong>Je rappelle que nous n'avons pas le droit de brandir des objets dans l'hémicycle, et vous le savez très bien, mon cher collègue ! La parole est à M. le ministre délégué chargé de l’industrie.<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué chargé de l’industrie. </i>Par votre question, vous cherchez à inquiéter les Françaises et les Français : cela ne me surprend pas, puisque c'est votre fonds de commerce ! <i>(Protestations sur les bancs du groupe LFI-NUPES.)</i><br><br>Je commencerai donc par les rassurer : si nos concitoyens se voient prescrire du paracétamol ou de l'Amoxicilline, il leur sera bien délivré du paracétamol ou de l'Amoxicilline.<br><br><strong>Mme Sophia Chikirou.</strong> C'est faux !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué. </i>Existe-t-il pour autant des tensions sur le marché ? La réponse est oui. Dans le monde entier, depuis quatre ans, la consommation de médicaments a en effet été très volatile et nous savons toutes et tous pourquoi.<br><br><strong>Un député du groupe LFI-NUPES .</strong> Pourquoi ?<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué. </i>Le Gouvernement a réagi très vite à ces situations de tension, en grande partie parce que la France bénéficie d'un dispositif d'alerte unique, Trustmed, qui lui a permis d'être alerté très tôt. Dès le mois de juillet 2022, nous avons contingenté les stocks au niveau des industriels, afin de distribuer équitablement les pharmacies dans l'ensemble du territoire. Depuis octobre 2022, les grossistes-répartiteurs ne peuvent plus exporter les médicaments en question. Nous avons également augmenté la production de paracétamol en France, grâce à des usines qui travaillent vingt-quatre heures sur vingt-quatre et sept jours sur sept. Nous nous sommes assurés que la distribution dans les officines serait calée sur le besoin médical.<br><br><strong>M. Loïc Prud'homme.</strong> C'est une formule ! Dans la vraie vie, cela ne se passe pas comme ça !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué . </i>Nous travaillons actuellement à améliorer l'usage des antibiotiques. Pour reprendre un slogan célèbre : « Les antibiotiques, ce n'est pas automatique ! »<br><br>Néanmoins, nous sommes d'accord avec vous sur un point : nous devons renforcer la souveraineté industrielle française…<br><br><strong>Mme Danièle Obono.</strong> Cela fait quinze ans que l'on répète la même chose !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué. </i>…et, contrairement à vous qui restez dans l'invective, nous agissons, vous le savez. <i>(Exclamations sur les bancs du groupe LFI-NUPES.) </i>Nous avons annoncé la réinstallation de la production de principes actifs en Isère, non loin de Grenoble, par l'entreprise Seqens. Ce projet est en cours et nous devrions obtenir les premières livraisons en 2025.<br><br><strong>Mme la présidente. </strong>La parole est à M. Damien Maudet.<br><br><strong>M. Damien Maudet. </strong>En vérité, c'est vous qui inquiétez les Français aujourd'hui, parce que vous leur promettez de continuer comme avant. La production que vous prévoyez de relocaliser représente à peine 5 % de l'ensemble des médicaments essentiels ; à ce rythme, il nous faudra 200 ans pour tous les relocaliser ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES et sur quelques bancs du groupe GDR-NUPES. – M. Olivier Faure applaudit également.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 30,
+            "label": "ORG",
+            "text": "PÉNURIE"
+          },
+          {
+            "start_char": 80,
+            "end_char": 83,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 124,
+            "end_char": 133,
+            "label": "PER",
+            "text": "M. Damien"
+          },
+          {
+            "start_char": 160,
+            "end_char": 173,
+            "label": "PER",
+            "text": "Damien Maudet"
+          },
+          {
+            "start_char": 184,
+            "end_char": 192,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 276,
+            "end_char": 282,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 564,
+            "end_char": 577,
+            "label": "PER",
+            "text": "Damien Maudet"
+          },
+          {
+            "start_char": 625,
+            "end_char": 631,
+            "label": "PER",
+            "text": "Macron"
+          },
+          {
+            "start_char": 772,
+            "end_char": 780,
+            "label": "PER",
+            "text": "Déléguer"
+          },
+          {
+            "start_char": 948,
+            "end_char": 955,
+            "label": "LOC",
+            "text": "Limoges"
+          },
+          {
+            "start_char": 1038,
+            "end_char": 1050,
+            "label": "PER",
+            "text": "Amoxicilline"
+          },
+          {
+            "start_char": 1054,
+            "end_char": 1063,
+            "label": "LOC",
+            "text": "Doliprane"
+          },
+          {
+            "start_char": 1130,
+            "end_char": 1142,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1316,
+            "end_char": 1330,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i"
+          },
+          {
+            "start_char": 1524,
+            "end_char": 1529,
+            "label": "LOC",
+            "text": "Chine"
+          },
+          {
+            "start_char": 1536,
+            "end_char": 1540,
+            "label": "LOC",
+            "text": "Inde"
+          },
+          {
+            "start_char": 1585,
+            "end_char": 1603,
+            "label": "ORG",
+            "text": "LFI-NUPES.)<br><br"
+          },
+          {
+            "start_char": 1857,
+            "end_char": 1865,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 1970,
+            "end_char": 1978,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2083,
+            "end_char": 2098,
+            "label": "PER",
+            "text": "Emmanuel Macron"
+          },
+          {
+            "start_char": 2251,
+            "end_char": 2263,
+            "label": "LOC",
+            "text": "Amoxicilline"
+          },
+          {
+            "start_char": 2299,
+            "end_char": 2322,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 2397,
+            "end_char": 2410,
+            "label": "PER",
+            "text": "Damien Maudet"
+          },
+          {
+            "start_char": 2570,
+            "end_char": 2579,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2583,
+            "end_char": 2592,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2633,
+            "end_char": 2665,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2676,
+            "end_char": 2699,
+            "label": "PER",
+            "text": "Di Filippo.</strong> C'"
+          },
+          {
+            "start_char": 2766,
+            "end_char": 2769,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2940,
+            "end_char": 2942,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2973,
+            "end_char": 2975,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3001,
+            "end_char": 3010,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 3059,
+            "end_char": 3061,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3126,
+            "end_char": 3136,
+            "label": "LOC",
+            "text": "Françaises"
+          },
+          {
+            "start_char": 3144,
+            "end_char": 3152,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3262,
+            "end_char": 3284,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 3386,
+            "end_char": 3398,
+            "label": "LOC",
+            "text": "Amoxicilline"
+          },
+          {
+            "start_char": 3449,
+            "end_char": 3477,
+            "label": "ORG",
+            "text": "Amoxicilline.<br><br><strong"
+          },
+          {
+            "start_char": 3478,
+            "end_char": 3506,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong"
+          },
+          {
+            "start_char": 3536,
+            "end_char": 3545,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 3838,
+            "end_char": 3847,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3885,
+            "end_char": 3894,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 3938,
+            "end_char": 3953,
+            "label": "LOC",
+            "text": "Le Gouvernement"
+          },
+          {
+            "start_char": 4028,
+            "end_char": 4037,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 4081,
+            "end_char": 4089,
+            "label": "PER",
+            "text": "Trustmed"
+          },
+          {
+            "start_char": 4466,
+            "end_char": 4472,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 4685,
+            "end_char": 4712,
+            "label": "PER",
+            "text": "M. Loïc Prud'homme.</strong"
+          },
+          {
+            "start_char": 4800,
+            "end_char": 4809,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 5149,
+            "end_char": 5175,
+            "label": "PER",
+            "text": "Mme Danièle Obono.</strong"
+          },
+          {
+            "start_char": 5245,
+            "end_char": 5254,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 5424,
+            "end_char": 5433,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5517,
+            "end_char": 5522,
+            "label": "LOC",
+            "text": "Isère"
+          },
+          {
+            "start_char": 5536,
+            "end_char": 5544,
+            "label": "LOC",
+            "text": "Grenoble"
+          },
+          {
+            "start_char": 5563,
+            "end_char": 5569,
+            "label": "LOC",
+            "text": "Seqens"
+          },
+          {
+            "start_char": 5668,
+            "end_char": 5671,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5712,
+            "end_char": 5721,
+            "label": "PER",
+            "text": "M. Damien"
+          },
+          {
+            "start_char": 5748,
+            "end_char": 5761,
+            "label": "PER",
+            "text": "Damien Maudet"
+          },
+          {
+            "start_char": 5812,
+            "end_char": 5820,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 6112,
+            "end_char": 6121,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 6154,
+            "end_char": 6163,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 98,
+            "sentiment": "3 stars",
+            "score": 0.3171127140522003
+          },
+          {
+            "begin_char": 99,
+            "end_char": 174,
+            "sentiment": "3 stars",
+            "score": 0.2501373589038849
+          },
+          {
+            "begin_char": 175,
+            "end_char": 184,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 184,
+            "end_char": 236,
+            "sentiment": "4 stars",
+            "score": 0.3706758916378021
+          },
+          {
+            "begin_char": 236,
+            "end_char": 284,
+            "sentiment": "5 stars",
+            "score": 0.3298284709453583
+          },
+          {
+            "begin_char": 285,
+            "end_char": 492,
+            "sentiment": "1 star",
+            "score": 0.763586163520813
+          },
+          {
+            "begin_char": 492,
+            "end_char": 536,
+            "sentiment": "3 stars",
+            "score": 0.31854572892189026
+          },
+          {
+            "begin_char": 537,
+            "end_char": 545,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 545,
+            "end_char": 578,
+            "sentiment": "3 stars",
+            "score": 0.27483072876930237
+          },
+          {
+            "begin_char": 579,
+            "end_char": 771,
+            "sentiment": "5 stars",
+            "score": 0.4033799171447754
+          },
+          {
+            "begin_char": 772,
+            "end_char": 945,
+            "sentiment": "5 stars",
+            "score": 0.6390473246574402
+          },
+          {
+            "begin_char": 946,
+            "end_char": 1108,
+            "sentiment": "2 stars",
+            "score": 0.24750004708766937
+          },
+          {
+            "begin_char": 1108,
+            "end_char": 1264,
+            "sentiment": "1 star",
+            "score": 0.3569905161857605
+          },
+          {
+            "begin_char": 1265,
+            "end_char": 1331,
+            "sentiment": "4 stars",
+            "score": 0.3210528790950775
+          },
+          {
+            "begin_char": 1332,
+            "end_char": 1406,
+            "sentiment": "1 star",
+            "score": 0.4518383741378784
+          },
+          {
+            "begin_char": 1407,
+            "end_char": 1541,
+            "sentiment": "5 stars",
+            "score": 0.3492681384086609
+          },
+          {
+            "begin_char": 1542,
+            "end_char": 1604,
+            "sentiment": "4 stars",
+            "score": 0.2831677794456482
+          },
+          {
+            "begin_char": 1604,
+            "end_char": 1719,
+            "sentiment": "1 star",
+            "score": 0.44545409083366394
+          },
+          {
+            "begin_char": 1720,
+            "end_char": 1855,
+            "sentiment": "1 star",
+            "score": 0.7288255095481873
+          },
+          {
+            "begin_char": 1856,
+            "end_char": 1876,
+            "sentiment": "3 stars",
+            "score": 0.29281508922576904
+          },
+          {
+            "begin_char": 1876,
+            "end_char": 1877,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 1878,
+            "end_char": 1890,
+            "sentiment": "3 stars",
+            "score": 0.3168611526489258
+          },
+          {
+            "begin_char": 1890,
+            "end_char": 1969,
+            "sentiment": "1 star",
+            "score": 0.3670382499694824
+          },
+          {
+            "begin_char": 1970,
+            "end_char": 2063,
+            "sentiment": "5 stars",
+            "score": 0.500805675983429
+          },
+          {
+            "begin_char": 2064,
+            "end_char": 2144,
+            "sentiment": "1 star",
+            "score": 0.3331564664840698
+          },
+          {
+            "begin_char": 2145,
+            "end_char": 2280,
+            "sentiment": "1 star",
+            "score": 0.5235847234725952
+          },
+          {
+            "begin_char": 2280,
+            "end_char": 2323,
+            "sentiment": "3 stars",
+            "score": 0.323579341173172
+          },
+          {
+            "begin_char": 2324,
+            "end_char": 2378,
+            "sentiment": "1 star",
+            "score": 0.37083181738853455
+          },
+          {
+            "begin_char": 2378,
+            "end_char": 2411,
+            "sentiment": "3 stars",
+            "score": 0.27483072876930237
+          },
+          {
+            "begin_char": 2412,
+            "end_char": 2522,
+            "sentiment": "1 star",
+            "score": 0.24039049446582794
+          },
+          {
+            "begin_char": 2523,
+            "end_char": 2675,
+            "sentiment": "3 stars",
+            "score": 0.3246728181838989
+          },
+          {
+            "begin_char": 2676,
+            "end_char": 2750,
+            "sentiment": "5 stars",
+            "score": 0.22163599729537964
+          },
+          {
+            "begin_char": 2750,
+            "end_char": 2784,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2785,
+            "end_char": 2794,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2794,
+            "end_char": 2923,
+            "sentiment": "5 stars",
+            "score": 0.31851640343666077
+          },
+          {
+            "begin_char": 2924,
+            "end_char": 3071,
+            "sentiment": "4 stars",
+            "score": 0.30042967200279236
+          },
+          {
+            "begin_char": 3072,
+            "end_char": 3076,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3076,
+            "end_char": 3219,
+            "sentiment": "1 star",
+            "score": 0.526200532913208
+          },
+          {
+            "begin_char": 3220,
+            "end_char": 3285,
+            "sentiment": "3 stars",
+            "score": 0.2994793653488159
+          },
+          {
+            "begin_char": 3285,
+            "end_char": 3507,
+            "sentiment": "5 stars",
+            "score": 0.24894647300243378
+          },
+          {
+            "begin_char": 3508,
+            "end_char": 3584,
+            "sentiment": "1 star",
+            "score": 0.5453425645828247
+          },
+          {
+            "begin_char": 3585,
+            "end_char": 3641,
+            "sentiment": "3 stars",
+            "score": 0.3853014409542084
+          },
+          {
+            "begin_char": 3642,
+            "end_char": 3661,
+            "sentiment": "3 stars",
+            "score": 0.22776080667972565
+          },
+          {
+            "begin_char": 3662,
+            "end_char": 3869,
+            "sentiment": "5 stars",
+            "score": 0.35058069229125977
+          },
+          {
+            "begin_char": 3869,
+            "end_char": 3933,
+            "sentiment": "3 stars",
+            "score": 0.289395272731781
+          },
+          {
+            "begin_char": 3934,
+            "end_char": 4131,
+            "sentiment": "4 stars",
+            "score": 0.4710032343864441
+          },
+          {
+            "begin_char": 4132,
+            "end_char": 4300,
+            "sentiment": "5 stars",
+            "score": 0.4569758176803589
+          },
+          {
+            "begin_char": 4301,
+            "end_char": 4403,
+            "sentiment": "5 stars",
+            "score": 0.261567085981369
+          },
+          {
+            "begin_char": 4404,
+            "end_char": 4569,
+            "sentiment": "5 stars",
+            "score": 0.5913777351379395
+          },
+          {
+            "begin_char": 4570,
+            "end_char": 4713,
+            "sentiment": "4 stars",
+            "score": 0.30611515045166016
+          },
+          {
+            "begin_char": 4714,
+            "end_char": 4733,
+            "sentiment": "1 star",
+            "score": 0.27457618713378906
+          },
+          {
+            "begin_char": 4734,
+            "end_char": 4784,
+            "sentiment": "2 stars",
+            "score": 0.30371636152267456
+          },
+          {
+            "begin_char": 4784,
+            "end_char": 4849,
+            "sentiment": "3 stars",
+            "score": 0.3078303039073944
+          },
+          {
+            "begin_char": 4850,
+            "end_char": 4854,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4854,
+            "end_char": 4922,
+            "sentiment": "5 stars",
+            "score": 0.4186233878135681
+          },
+          {
+            "begin_char": 4923,
+            "end_char": 5176,
+            "sentiment": "5 stars",
+            "score": 0.2682335674762726
+          },
+          {
+            "begin_char": 5177,
+            "end_char": 5229,
+            "sentiment": "1 star",
+            "score": 0.532274067401886
+          },
+          {
+            "begin_char": 5229,
+            "end_char": 5293,
+            "sentiment": "3 stars",
+            "score": 0.289395272731781
+          },
+          {
+            "begin_char": 5294,
+            "end_char": 5382,
+            "sentiment": "1 star",
+            "score": 0.32536160945892334
+          },
+          {
+            "begin_char": 5383,
+            "end_char": 5434,
+            "sentiment": "4 stars",
+            "score": 0.3075145184993744
+          },
+          {
+            "begin_char": 5434,
+            "end_char": 5435,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 5436,
+            "end_char": 5570,
+            "sentiment": "5 stars",
+            "score": 0.3002466857433319
+          },
+          {
+            "begin_char": 5571,
+            "end_char": 5686,
+            "sentiment": "5 stars",
+            "score": 0.3300519287586212
+          },
+          {
+            "begin_char": 5687,
+            "end_char": 5762,
+            "sentiment": "3 stars",
+            "score": 0.2501373589038849
+          },
+          {
+            "begin_char": 5763,
+            "end_char": 5772,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5772,
+            "end_char": 5889,
+            "sentiment": "1 star",
+            "score": 0.3548365533351898
+          },
+          {
+            "begin_char": 5890,
+            "end_char": 6002,
+            "sentiment": "2 stars",
+            "score": 0.31960365176200867
+          },
+          {
+            "begin_char": 6003,
+            "end_char": 6066,
+            "sentiment": "5 stars",
+            "score": 0.3146224915981293
+          },
+          {
+            "begin_char": 6067,
+            "end_char": 6177,
+            "sentiment": "4 stars",
+            "score": 0.3461408317089081
+          },
+          {
+            "begin_char": 6178,
+            "end_char": 6213,
+            "sentiment": "5 stars",
+            "score": 0.38499513268470764
+          },
+          {
+            "begin_char": 6214,
+            "end_char": 6217,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-30",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-30",
+        "pageJO": "6141",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

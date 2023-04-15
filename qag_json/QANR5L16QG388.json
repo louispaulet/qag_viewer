@@ -1,0 +1,659 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG388",
+    "identifiant": {
+      "numero": "388",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "médecine",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "LUTTE CONTRE LES DÉSERTS MÉDICAUX"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA642764",
+        "mandatRef": "PM796524"
+      },
+      "groupe": {
+        "organeRef": "PO800496",
+        "abrege": "SOC",
+        "developpe": "Socialistes et apparentés (membre de l’intergroupe NUPES)"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> LUTTE CONTRE LES DÉSERTS MÉDICAUX <a name=PG2></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Joël Aviragnet.<br><br><strong>M. Joël Aviragnet. </strong>Monsieur le ministre de la santé et de la prévention, depuis plusieurs années, nos concitoyens, les professionnels de santé et les élus des territoires tirent la sonnette d'alarme au sujet de la désertification médicale. Chaque jour, des Français doivent renoncer à se soigner, faute de médecin généraliste ou spécialiste à proximité de leur domicile.<br><br><strong>M. Boris Vallaud.</strong> Il a raison !<br><br><strong>M. Joël Aviragnet. </strong>Les raisons de cette situation critique sont multiples ; depuis le temps, nous les connaissons tous. Depuis le début de la législature, des députés de tous bords politiques se sont donné comme objectif de résoudre ce problème concret auquel sont confrontés des millions d'entre nous. Tous les mercredis, nous nous sommes réunis autour de notre collègue Guillaume Garot, d'abord pour écouter les propositions de tous les acteurs concernés, des syndicats de médecins aux associations de patients ou d'élus ; ensuite pour travailler tous ensemble, au-delà de nos divergences politiques, à des solutions concrètes pour mettre fin aux déserts médicaux.<br><br>Le fruit de nos dizaines d'auditions et de ce travail transpartisan a été présenté mercredi dernier lors d’une conférence de presse. Nous ne pouvons plus laisser les Français renoncer à des soins faute de médecin.<br><br><strong>M. Boris Vallaud.</strong> Absolument !<br><br><strong>M. Joël Aviragnet. </strong>À ce titre, il nous semble nécessaire d'instaurer une politique de régulation, au moins temporairement. Il y a cinq ans, nous étions peu nombreux à l'appeler de nos vœux. Aujourd'hui, des députés des oppositions et de la majorité se rassemblent pour travailler ensemble, dans l'intérêt général.<br><br><strong>M. Boris Vallaud.</strong> Prenez-en de la graine !<br><br><strong>M. Joël Aviragnet. </strong>Monsieur le ministre, votre Gouvernement dit depuis six mois qu'il souhaite bâtir des majorités d'idées, au-delà des différences partisanes – Mme la Première ministre l'a redit il y a peu. Comme Mme la présidente de l'Assemblée, vous avez aujourd'hui une possibilité inédite, sur un sujet essentiel pour des dizaines de millions de Français. Êtes-vous disposé à travailler avec nous pour instaurer une politique de régulation, afin de mettre un terme à la désertification médicale ? <i>(Applaudissements sur les bancs du groupe SOC et sur quelques bancs du groupe Écolo-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>Bien évidemment, nous discuterons des différentes propositions issues de ce groupe transpartisan. Je me réjouis d'avoir un débat que j'espère apaisé et non doctrinaire sur le sujet. Je me suis exprimé à plusieurs reprises : je ne suis pas favorable à des méthodes coercitives, non par doctrine, mais parce qu'elles ne fonctionnent pas, comme cela a été montré dans de nombreux pays.<br><br>De plus, elles se heurtent à un refus global de l'ensemble des professionnels, y compris les plus jeunes, représentés au sein du collectif Médecins pour demain, que j'ai rencontrés ce matin. J'aurais donc à cœur de vous démontrer et de vous convaincre que ces propositions coercitives ne fonctionnent pas. <i>(M. Frédéric Mathieu proteste.) </i>J'aurais surtout à cœur de vous en proposer d'autres, issues des travaux des différents volets du Conseil national de la refondation (CNR), auxquelles nous travaillons avec les professionnels. Lutter contre toutes les inégalités d'accès à la santé est un de mes principaux objectifs, non seulement à court terme, mais également à moyen et long termes.<br><br>Il est dangereux d'appliquer des solutions qui semblent adaptées aujourd'hui, mais qui seraient néfastes demain. <i>(M. Boris Vallaud proteste.) </i>Malheureusement, l'instauration du numerus clausus et de certains modes de financement ont montré que des erreurs, qui pouvaient sembler un jour constituer de bonnes solutions, peuvent plomber pour de nombreuses années le système de santé.<br><br>Redonner du temps médical est certainement l'une des solutions les plus rapides et les plus efficaces. Cela passe par le partage de compétences, les simplifications administratives, le maintien en activité d'un tiers des médecins généralistes qui ont aujourd'hui plus de 60 ans. Je tiens également à saluer le travail effectué par la commission des affaires sociales de l'Assemblée nationale, lui aussi transpartisan. Celle-ci n'a d'ailleurs pas retenu la coercition, ni des mesures « brutales » de régulation de l'installation. Quoiqu'il en soit, je ne doute pas que nous aurons l'occasion de discuter et d'échanger sur ces différents sujets.<br><br><strong>M. Jean-Claude Raux.</strong> Le débat s'annonce compliqué !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 35,
+            "label": "MISC",
+            "text": "LUTTE CONTRE"
+          },
+          {
+            "start_char": 40,
+            "end_char": 56,
+            "label": "MISC",
+            "text": "DÉSERTS MÉDICAUX"
+          },
+          {
+            "start_char": 65,
+            "end_char": 72,
+            "label": "PER",
+            "text": "PG2></a"
+          },
+          {
+            "start_char": 90,
+            "end_char": 93,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 134,
+            "end_char": 141,
+            "label": "PER",
+            "text": "M. Joël"
+          },
+          {
+            "start_char": 171,
+            "end_char": 185,
+            "label": "PER",
+            "text": "Joël Aviragnet"
+          },
+          {
+            "start_char": 196,
+            "end_char": 204,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 434,
+            "end_char": 442,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 566,
+            "end_char": 588,
+            "label": "PER",
+            "text": "Boris Vallaud.</strong"
+          },
+          {
+            "start_char": 622,
+            "end_char": 636,
+            "label": "PER",
+            "text": "Joël Aviragnet"
+          },
+          {
+            "start_char": 1000,
+            "end_char": 1015,
+            "label": "PER",
+            "text": "Guillaume Garot"
+          },
+          {
+            "start_char": 1285,
+            "end_char": 1301,
+            "label": "MISC",
+            "text": "médicaux.<br><br"
+          },
+          {
+            "start_char": 1468,
+            "end_char": 1476,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1534,
+            "end_char": 1556,
+            "label": "PER",
+            "text": "Boris Vallaud.</strong"
+          },
+          {
+            "start_char": 1589,
+            "end_char": 1603,
+            "label": "PER",
+            "text": "Joël Aviragnet"
+          },
+          {
+            "start_char": 1927,
+            "end_char": 1949,
+            "label": "PER",
+            "text": "Boris Vallaud.</strong"
+          },
+          {
+            "start_char": 1951,
+            "end_char": 1957,
+            "label": "LOC",
+            "text": "Prenez"
+          },
+          {
+            "start_char": 1994,
+            "end_char": 2008,
+            "label": "PER",
+            "text": "Joël Aviragnet"
+          },
+          {
+            "start_char": 2019,
+            "end_char": 2027,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2047,
+            "end_char": 2059,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2161,
+            "end_char": 2176,
+            "label": "MISC",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 2214,
+            "end_char": 2217,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2237,
+            "end_char": 2246,
+            "label": "ORG",
+            "text": "Assemblée"
+          },
+          {
+            "start_char": 2351,
+            "end_char": 2359,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2547,
+            "end_char": 2550,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2583,
+            "end_char": 2615,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2616,
+            "end_char": 2619,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2660,
+            "end_char": 2662,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2726,
+            "end_char": 2734,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3177,
+            "end_char": 3189,
+            "label": "MISC",
+            "text": "pays.<br><br"
+          },
+          {
+            "start_char": 3329,
+            "end_char": 3349,
+            "label": "ORG",
+            "text": "Médecins pour demain"
+          },
+          {
+            "start_char": 3503,
+            "end_char": 3511,
+            "label": "PER",
+            "text": "Frédéric"
+          },
+          {
+            "start_char": 3512,
+            "end_char": 3519,
+            "label": "PER",
+            "text": "Mathieu"
+          },
+          {
+            "start_char": 3633,
+            "end_char": 3667,
+            "label": "ORG",
+            "text": "Conseil national de la refondation"
+          },
+          {
+            "start_char": 3669,
+            "end_char": 3672,
+            "label": "ORG",
+            "text": "CNR"
+          },
+          {
+            "start_char": 3879,
+            "end_char": 3893,
+            "label": "MISC",
+            "text": "termes.<br><br"
+          },
+          {
+            "start_char": 4020,
+            "end_char": 4027,
+            "label": "PER",
+            "text": "Vallaud"
+          },
+          {
+            "start_char": 4078,
+            "end_char": 4085,
+            "label": "MISC",
+            "text": "numerus"
+          },
+          {
+            "start_char": 4276,
+            "end_char": 4289,
+            "label": "MISC",
+            "text": "santé.<br><br"
+          },
+          {
+            "start_char": 4662,
+            "end_char": 4681,
+            "label": "ORG",
+            "text": "Assemblée nationale"
+          },
+          {
+            "start_char": 4952,
+            "end_char": 4978,
+            "label": "PER",
+            "text": "Jean-Claude Raux.</strong>"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 56,
+            "sentiment": "4 stars",
+            "score": 0.3881359398365021
+          },
+          {
+            "begin_char": 57,
+            "end_char": 108,
+            "sentiment": "3 stars",
+            "score": 0.3093770146369934
+          },
+          {
+            "begin_char": 109,
+            "end_char": 186,
+            "sentiment": "4 stars",
+            "score": 0.2689754068851471
+          },
+          {
+            "begin_char": 187,
+            "end_char": 196,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 196,
+            "end_char": 416,
+            "sentiment": "5 stars",
+            "score": 0.5633838176727295
+          },
+          {
+            "begin_char": 417,
+            "end_char": 589,
+            "sentiment": "3 stars",
+            "score": 0.2641323208808899
+          },
+          {
+            "begin_char": 590,
+            "end_char": 603,
+            "sentiment": "5 stars",
+            "score": 0.3322871923446655
+          },
+          {
+            "begin_char": 603,
+            "end_char": 637,
+            "sentiment": "3 stars",
+            "score": 0.2710316479206085
+          },
+          {
+            "begin_char": 638,
+            "end_char": 647,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 647,
+            "end_char": 703,
+            "sentiment": "4 stars",
+            "score": 0.35508719086647034
+          },
+          {
+            "begin_char": 704,
+            "end_char": 747,
+            "sentiment": "5 stars",
+            "score": 0.5473375916481018
+          },
+          {
+            "begin_char": 748,
+            "end_char": 930,
+            "sentiment": "5 stars",
+            "score": 0.5607552528381348
+          },
+          {
+            "begin_char": 931,
+            "end_char": 1152,
+            "sentiment": "5 stars",
+            "score": 0.46904414892196655
+          },
+          {
+            "begin_char": 1153,
+            "end_char": 1434,
+            "sentiment": "5 stars",
+            "score": 0.5951939225196838
+          },
+          {
+            "begin_char": 1435,
+            "end_char": 1570,
+            "sentiment": "5 stars",
+            "score": 0.7692014575004578
+          },
+          {
+            "begin_char": 1570,
+            "end_char": 1604,
+            "sentiment": "3 stars",
+            "score": 0.2710316479206085
+          },
+          {
+            "begin_char": 1605,
+            "end_char": 1717,
+            "sentiment": "4 stars",
+            "score": 0.3702412247657776
+          },
+          {
+            "begin_char": 1718,
+            "end_char": 1784,
+            "sentiment": "5 stars",
+            "score": 0.4510228931903839
+          },
+          {
+            "begin_char": 1785,
+            "end_char": 1975,
+            "sentiment": "1 star",
+            "score": 0.40868866443634033
+          },
+          {
+            "begin_char": 1975,
+            "end_char": 2009,
+            "sentiment": "3 stars",
+            "score": 0.2710316479206085
+          },
+          {
+            "begin_char": 2010,
+            "end_char": 2207,
+            "sentiment": "5 stars",
+            "score": 0.3942606449127197
+          },
+          {
+            "begin_char": 2208,
+            "end_char": 2360,
+            "sentiment": "5 stars",
+            "score": 0.6702423095703125
+          },
+          {
+            "begin_char": 2361,
+            "end_char": 2501,
+            "sentiment": "5 stars",
+            "score": 0.44966375827789307
+          },
+          {
+            "begin_char": 2502,
+            "end_char": 2634,
+            "sentiment": "4 stars",
+            "score": 0.3213512599468231
+          },
+          {
+            "begin_char": 2635,
+            "end_char": 2753,
+            "sentiment": "4 stars",
+            "score": 0.3129529356956482
+          },
+          {
+            "begin_char": 2754,
+            "end_char": 2795,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 2796,
+            "end_char": 2897,
+            "sentiment": "4 stars",
+            "score": 0.32935863733291626
+          },
+          {
+            "begin_char": 2898,
+            "end_char": 2981,
+            "sentiment": "4 stars",
+            "score": 0.3885199725627899
+          },
+          {
+            "begin_char": 2982,
+            "end_char": 3190,
+            "sentiment": "2 stars",
+            "score": 0.25108036398887634
+          },
+          {
+            "begin_char": 3190,
+            "end_char": 3380,
+            "sentiment": "5 stars",
+            "score": 0.31368932127952576
+          },
+          {
+            "begin_char": 3381,
+            "end_char": 3495,
+            "sentiment": "1 star",
+            "score": 0.7895569801330566
+          },
+          {
+            "begin_char": 3496,
+            "end_char": 3503,
+            "sentiment": "3 stars",
+            "score": 0.32702264189720154
+          },
+          {
+            "begin_char": 3503,
+            "end_char": 3511,
+            "sentiment": "4 stars",
+            "score": 0.2754876911640167
+          },
+          {
+            "begin_char": 3512,
+            "end_char": 3529,
+            "sentiment": "1 star",
+            "score": 0.25758564472198486
+          },
+          {
+            "begin_char": 3529,
+            "end_char": 3530,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 3531,
+            "end_char": 3535,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3535,
+            "end_char": 3727,
+            "sentiment": "4 stars",
+            "score": 0.36698639392852783
+          },
+          {
+            "begin_char": 3728,
+            "end_char": 3894,
+            "sentiment": "5 stars",
+            "score": 0.5703092217445374
+          },
+          {
+            "begin_char": 3894,
+            "end_char": 4006,
+            "sentiment": "2 stars",
+            "score": 0.28729644417762756
+          },
+          {
+            "begin_char": 4007,
+            "end_char": 4019,
+            "sentiment": "3 stars",
+            "score": 0.3079902231693268
+          },
+          {
+            "begin_char": 4020,
+            "end_char": 4036,
+            "sentiment": "4 stars",
+            "score": 0.34572833776474
+          },
+          {
+            "begin_char": 4036,
+            "end_char": 4037,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 4037,
+            "end_char": 4038,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 4039,
+            "end_char": 4058,
+            "sentiment": "3 stars",
+            "score": 0.37264537811279297
+          },
+          {
+            "begin_char": 4058,
+            "end_char": 4290,
+            "sentiment": "5 stars",
+            "score": 0.3772791028022766
+          },
+          {
+            "begin_char": 4290,
+            "end_char": 4392,
+            "sentiment": "5 stars",
+            "score": 0.6504027247428894
+          },
+          {
+            "begin_char": 4393,
+            "end_char": 4568,
+            "sentiment": "4 stars",
+            "score": 0.4008324146270752
+          },
+          {
+            "begin_char": 4569,
+            "end_char": 4707,
+            "sentiment": "5 stars",
+            "score": 0.4290843605995178
+          },
+          {
+            "begin_char": 4708,
+            "end_char": 4818,
+            "sentiment": "3 stars",
+            "score": 0.295513778924942
+          },
+          {
+            "begin_char": 4819,
+            "end_char": 4978,
+            "sentiment": "4 stars",
+            "score": 0.34524524211883545
+          },
+          {
+            "begin_char": 4979,
+            "end_char": 5009,
+            "sentiment": "3 stars",
+            "score": 0.2995065748691559
+          },
+          {
+            "begin_char": 5009,
+            "end_char": 5017,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-15",
+        "pageJO": "7010",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

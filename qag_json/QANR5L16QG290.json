@@ -1,0 +1,395 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG290",
+    "identifiant": {
+      "numero": "290",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Epidémie de bronchiolite en France"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720006",
+        "mandatRef": "PM803286"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ÉPIDÉMIE DE BRONCHIOLITE EN FRANCE <a name=PG16></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Luc Geismar.<br><br><strong>M. Luc Geismar. </strong>Monsieur le ministre de la santé et de la prévention, au centre hospitalier universitaire (CHU) de Nantes comme dans de nombreux établissements hospitaliers de France, les services d'urgences pédiatriques sont débordés ! Cette saturation est principalement due à la forte circulation, depuis la fin du mois d'octobre, de la bronchiolite, cette infection respiratoire virale qui touche surtout les enfants de moins de 2 ans. Si cette épidémie a toujours été fréquente, elle est cette année particulièrement précoce et virulente. Certes, cette pathologie est dans la majorité des cas bénigne, mais cet automne, Santé publique France (SPF) relève un nombre de passages aux urgences et d'hospitalisations pour bronchiolite très élevé et très supérieur à ceux observés aux pics épidémiques depuis plus de dix ans. La situation inquiète profondément et à juste titre les professionnels de santé et les familles.<br><br>Le Gouvernement a rapidement réagi en déclenchant mercredi dernier le plan Orsan – organisation de la réponse du système de santé en situations sanitaires exceptionnelles – et en intensifiant les campagnes d'information rappelant l'importance des gestes barrières pour protéger les enfants de cette infection.<br><br>Ma question s'articulera autour de deux aspects : le préventif et le curatif. Monsieur le ministre, alors que le périmètre de votre ministère comprend désormais la prévention, n'y a-t-il pas un changement de méthode à opérer dans l'anticipation de la survenance des épidémies saisonnières en termes d'éducation et d'information ?<br><br>Et, monsieur le ministre…<br><br><strong>Mme la présidente.</strong> Je vous remercie, mon cher collègue. <i>(Exclamations sur plusieurs bancs du groupe Dem.)</i><br><br>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>Je profite de votre question pour saluer la mobilisation totale des agences régionales de santé (ARS) et des professionnels de santé de la ville comme de l'hôpital pour faire face à cette épidémie dont la précocité et l'intensité sont, vous l'avez dit, particulièrement inhabituelles.<br><br>Vous avez raison, il est temps que nous changions notre logiciel en matière de prévention ; il est temps de transformer notre pays, concentré autour du soin, pour qu'il s'intéresse aussi à la prévention. C'est tout l'enjeu du déploiement de la politique de prévention voulue par ce gouvernement et qui s'articule autour de mon ministère devenu, vous l'avez noté, ministère de la santé et de la prévention.<br><br>Vous avez souligné l'importance des gestes barrières, et je veux rappeler encore ici que la covid, la bronchiolite et la grippe qui arrive sont des virus respiratoires qui rendent indispensables les gestes barrières, le lavage des mains et le port du masque dans les lieux de forte affluence quand on est malade. Je ne reviens pas sur l'utilité de la vaccination contre la grippe et la covid, mais je précise que celle contre la bronchiolite vient d'être validée au niveau européen et arrive donc un peu tard cette année. Elle sera disponible pour l'épidémie de bronchiolite de l'année prochaine.<br><br>Les ARS sont le pivot du plan Orsan. Celui-ci se décline en quatre parties principales : piloter les capacités hospitalières, sachant qu'il y a eu plus de 2 500 hospitalisations depuis le début de cette crise et que le taux d'occupation des services de réanimation est suivi de très près, compte tenu des différences entre les régions ; mobiliser tous les acteurs qui sont sur le terrain, qu'il s'agisse des médecins généralistes, des pédiatres et des masseurs kinésithérapeutes ; organiser l'hospitalisation à domicile car la majorité des cas ne se traitent pas à l'hôpital et accompagner les familles lorsque les enfants sont transférés ; enfin, assurer de très près le suivi de l'épidémie, tâche qui revient aux directions du ministère. (Mme Danielle Brulebois applaudit.)<br> <p>",
+        "entities": [
+          {
+            "start_char": 51,
+            "end_char": 57,
+            "label": "LOC",
+            "text": "FRANCE"
+          },
+          {
+            "start_char": 92,
+            "end_char": 95,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 136,
+            "end_char": 166,
+            "label": "PER",
+            "text": "M. Luc Geismar.<br><br><strong"
+          },
+          {
+            "start_char": 170,
+            "end_char": 181,
+            "label": "PER",
+            "text": "Luc Geismar"
+          },
+          {
+            "start_char": 192,
+            "end_char": 200,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 291,
+            "end_char": 297,
+            "label": "LOC",
+            "text": "Nantes"
+          },
+          {
+            "start_char": 801,
+            "end_char": 822,
+            "label": "MISC",
+            "text": "Santé publique France"
+          },
+          {
+            "start_char": 824,
+            "end_char": 827,
+            "label": "LOC",
+            "text": "SPF"
+          },
+          {
+            "start_char": 1088,
+            "end_char": 1104,
+            "label": "MISC",
+            "text": "familles.<br><br"
+          },
+          {
+            "start_char": 1180,
+            "end_char": 1187,
+            "label": "MISC",
+            "text": "Orsan –"
+          },
+          {
+            "start_char": 1404,
+            "end_char": 1421,
+            "label": "MISC",
+            "text": "infection.<br><br"
+          },
+          {
+            "start_char": 1500,
+            "end_char": 1508,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1800,
+            "end_char": 1826,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 1855,
+            "end_char": 1863,
+            "label": "LOC",
+            "text": "collègue"
+          },
+          {
+            "start_char": 1912,
+            "end_char": 1929,
+            "label": "MISC",
+            "text": "Dem.)</i><br><br>"
+          },
+          {
+            "start_char": 1945,
+            "end_char": 1947,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2011,
+            "end_char": 2019,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 2182,
+            "end_char": 2185,
+            "label": "MISC",
+            "text": "ARS"
+          },
+          {
+            "start_char": 2355,
+            "end_char": 2376,
+            "label": "MISC",
+            "text": "inhabituelles.<br><br"
+          },
+          {
+            "start_char": 2771,
+            "end_char": 2789,
+            "label": "MISC",
+            "text": "prévention.<br><br"
+          },
+          {
+            "start_char": 3376,
+            "end_char": 3394,
+            "label": "MISC",
+            "text": "prochaine.<br><br>"
+          },
+          {
+            "start_char": 3398,
+            "end_char": 3401,
+            "label": "MISC",
+            "text": "ARS"
+          },
+          {
+            "start_char": 3419,
+            "end_char": 3429,
+            "label": "MISC",
+            "text": "plan Orsan"
+          },
+          {
+            "start_char": 4135,
+            "end_char": 4157,
+            "label": "PER",
+            "text": "Mme Danielle Brulebois"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 110,
+            "sentiment": "3 stars",
+            "score": 0.2932942807674408
+          },
+          {
+            "begin_char": 111,
+            "end_char": 182,
+            "sentiment": "4 stars",
+            "score": 0.2752813994884491
+          },
+          {
+            "begin_char": 183,
+            "end_char": 192,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 192,
+            "end_char": 412,
+            "sentiment": "5 stars",
+            "score": 0.2741089463233948
+          },
+          {
+            "begin_char": 413,
+            "end_char": 615,
+            "sentiment": "3 stars",
+            "score": 0.4578385055065155
+          },
+          {
+            "begin_char": 616,
+            "end_char": 719,
+            "sentiment": "4 stars",
+            "score": 0.37460997700691223
+          },
+          {
+            "begin_char": 720,
+            "end_char": 1000,
+            "sentiment": "4 stars",
+            "score": 0.38200488686561584
+          },
+          {
+            "begin_char": 1001,
+            "end_char": 1105,
+            "sentiment": "5 stars",
+            "score": 0.38885554671287537
+          },
+          {
+            "begin_char": 1105,
+            "end_char": 1499,
+            "sentiment": "4 stars",
+            "score": 0.44812649488449097
+          },
+          {
+            "begin_char": 1500,
+            "end_char": 1751,
+            "sentiment": "5 stars",
+            "score": 0.3818790912628174
+          },
+          {
+            "begin_char": 1751,
+            "end_char": 1827,
+            "sentiment": "3 stars",
+            "score": 0.267365038394928
+          },
+          {
+            "begin_char": 1828,
+            "end_char": 1864,
+            "sentiment": "5 stars",
+            "score": 0.40167707204818726
+          },
+          {
+            "begin_char": 1865,
+            "end_char": 1929,
+            "sentiment": "3 stars",
+            "score": 0.31927648186683655
+          },
+          {
+            "begin_char": 1929,
+            "end_char": 2038,
+            "sentiment": "4 stars",
+            "score": 0.32391050457954407
+          },
+          {
+            "begin_char": 2039,
+            "end_char": 2080,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 2081,
+            "end_char": 2468,
+            "sentiment": "5 stars",
+            "score": 0.5381499528884888
+          },
+          {
+            "begin_char": 2469,
+            "end_char": 2580,
+            "sentiment": "5 stars",
+            "score": 0.5935150980949402
+          },
+          {
+            "begin_char": 2581,
+            "end_char": 2790,
+            "sentiment": "5 stars",
+            "score": 0.381661981344223
+          },
+          {
+            "begin_char": 2790,
+            "end_char": 3102,
+            "sentiment": "5 stars",
+            "score": 0.6147627830505371
+          },
+          {
+            "begin_char": 3103,
+            "end_char": 3311,
+            "sentiment": "3 stars",
+            "score": 0.37160369753837585
+          },
+          {
+            "begin_char": 3312,
+            "end_char": 3394,
+            "sentiment": "4 stars",
+            "score": 0.3244209587574005
+          },
+          {
+            "begin_char": 3394,
+            "end_char": 3430,
+            "sentiment": "5 stars",
+            "score": 0.3769436776638031
+          },
+          {
+            "begin_char": 3431,
+            "end_char": 3730,
+            "sentiment": "4 stars",
+            "score": 0.3691098690032959
+          },
+          {
+            "begin_char": 3731,
+            "end_char": 4034,
+            "sentiment": "5 stars",
+            "score": 0.4262942373752594
+          },
+          {
+            "begin_char": 4035,
+            "end_char": 4133,
+            "sentiment": "4 stars",
+            "score": 0.3941879868507385
+          },
+          {
+            "begin_char": 4134,
+            "end_char": 4177,
+            "sentiment": "5 stars",
+            "score": 0.34030041098594666
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-16",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-16",
+        "pageJO": "5424",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

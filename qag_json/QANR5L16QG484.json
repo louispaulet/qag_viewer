@@ -1,0 +1,953 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG484",
+    "identifiant": {
+      "numero": "484",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "TARIFS DE L'ÉLECTRICITÉ"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793884",
+        "mandatRef": "PM796587"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Économie, finances, souveraineté industrielle et numérique",
+      "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Économie, finances, souveraineté industrielle et numérique",
+          "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> TARIFS DE L'ÉLECTRICITÉ <a name=PG13></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Sébastien Rome.<br><br><strong>M. Sébastien Rome. </strong>Monsieur le ministre de l’économie, il y a un instant encore, vous invitiez, sur les réseaux sociaux, les PME – petites et moyennes entreprises –, les TPE – très petites entreprises – et les boulangers, notamment, à télécharger un formulaire pour bénéficier du bouclier tarifaire.<br><br>Pourquoi ? Parce que, entre le producteur et l’interrupteur, c’est un fatras confusément enchevêtré, un marché volatil où les prix sont sans lien avec la production, mais totalement liés à la spéculation. <i>(Applaudissements sur les bancs du groupe LFI-NUPES.) </i>Mais les Français et les Françaises veulent vivre de leur travail, et non de formulaires hochets, de chèques cadeaux ou de boucliers percés ! (Mêmes mouvements.)<br><br>Pourtant, il existe une solution ordonnée et protectrice pour les TPE, les PME, les ETI - entreprises de taille intermédiaire -, les artisans, les commerçants et l’ensemble des Français : les tarifs réglementés de la vente de l’électricité, déconnectés du marché ! <i>(Mêmes mouvements.)</i><br><br><strong>Mme Farida Amrani.</strong> Eh oui !<br><br><strong>M. Sébastien Rome. </strong>En commission des finances, mes collègues et moi vous avons alertés dès l’automne sur les effets de l’inflation pour les commerçants et les artisans, mais vous avez préféré attendre. Cet hiver, en découvrant l'incidence de la volatilité des prix, les citoyens, les collectivités, même la première entreprise de France, ont été convaincus d’une évidence : il faut revenir aux tarifs réglementés ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES. – M. Hubert Wulfranc applaudit également.)</i> Pour cela, il faut sortir du marché européen de l’électricité, comme l’a fait le gouvernement espagnol, qui va continuer dans cette voie.<br><br>En rétablissant des tarifs réglementés, qui couvrent uniquement le coût de la production, du transport et de la commercialisation, on rétablit des prix justes. Combien de temps encore allez-vous attendre ? Quand mettrez-vous enfin un terme à la concurrence du marché de l’énergie, alors que ce bien est une nécessité absolue pour nos concitoyens et nos entreprises ? (Les députés du groupe LFI-NUPES se lèvent et applaudissent vivement. – Quelques députés du groupe SOC applaudissent également, ainsi que MM. Jean-Yves Bony et Aurélien Pradié.)<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br><strong>M. Bruno Le Maire,</strong><i> ministre de l’économie, des finances et de la souveraineté industrielle et numérique. </i>Je veux d'abord vous rassurer : les ménages français restent les mieux protégés d'Europe, grâce au bouclier tarifaire que nous avons instauré il y a deux ans, sur l'électricité et sur le gaz, ce qu'aucun autre pays européen n'a su faire aussi bien. <i>(Applaudissements sur les bancs du groupe RE. – Mme Sophia Chikirou s'exclame.)</i> Depuis deux ans, nous avons protégé massivement nos compatriotes, ce qui nous permet d'avoir un des taux d'inflation les plus bas de tous les pays de la zone euro.<br><br><strong>Mme Sophia Chikirou.</strong> Votre bouclier ne fonctionne pas !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>S'agissant des très petites entreprises, pour une fois – c'est rare –, je vous rejoins : 1,5 million d'entre elles bénéficient des tarifs réglementés de vente (TRV). Toutefois, elles doivent au préalable se déclarer auprès de leur fournisseur d'énergie. La moitié environ d'entre elles ne l'a pas encore fait : je renouvelle mon appel solennel à toutes les très petites entreprises – moins de dix salariés et moins de 2 millions d'euros de chiffre d'affaires –…<br><br><strong>Mme Sophia Chikirou.</strong> Ce ne sont pas des réponses ! <i>(Protestations sur les bancs du groupe RE.)</i><br><br><strong>Mme la présidente.</strong> Madame Chikirou, pouvez-vous écouter le ministre ? C'est insupportable ! Vous n'avez pas à l'invectiver !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Mesdames et messieurs les parlementaires de la NUPES,…<br><br><strong>M. Patrick Hetzel.</strong> Le ministre ne répond pas à la question !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Nous aimerions pouvoir nous adresser aux Français et répondre à leurs questions et à leurs angoisses, sans que vous nous interrompiez sans cesse ! <i>(Applaudissements sur les bancs du groupe RE et sur quelques bancs du groupe Dem.)</i><br><br>Je le répète : à la demande de la Première ministre et du Président de la République, nous avons instauré des tarifs régulés de vente et un bouclier – pas plus de 280 euros par mégawattheure. Pour en bénéficier, le 1,5 million de TPE éligible au TRV, les 2,1 millions de TPE… <br><br><strong>Mme Nathalie Oziol.</strong> Augmentez plutôt les salaires !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Pouvez-vous écouter, une seconde, la réponse que nous donnons à nos compatriotes inquiets à cause des tarifs de l'électricité ? <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br>Les très petites entreprises doivent se déclarer auprès d'EDF, de TotalEnergies, d'Engie – de tous les fournisseurs…<br><br><strong>Mme la présidente.</strong> Merci, monsieur le ministre.<br><br><strong>M. Bruno Le Maire,</strong><i> ministre. </i>Je regrette de ne pas pouvoir donner aux Français des réponses complètes, parce que les députés de la NUPES nous empêchent de nous exprimer dans des conditions correctes ! <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR. – Exclamations sur les bancs des groupes LFI-NUPES, SOC, Écolo-NUPES et GDR-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 29,
+            "label": "MISC",
+            "text": "TARIFS"
+          },
+          {
+            "start_char": 35,
+            "end_char": 46,
+            "label": "ORG",
+            "text": "ÉLECTRICITÉ"
+          },
+          {
+            "start_char": 81,
+            "end_char": 84,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 125,
+            "end_char": 137,
+            "label": "PER",
+            "text": "M. Sébastien"
+          },
+          {
+            "start_char": 172,
+            "end_char": 176,
+            "label": "LOC",
+            "text": "Rome"
+          },
+          {
+            "start_char": 187,
+            "end_char": 195,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 211,
+            "end_char": 213,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 338,
+            "end_char": 341,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 457,
+            "end_char": 474,
+            "label": "MISC",
+            "text": "tarifaire.<br><br"
+          },
+          {
+            "start_char": 520,
+            "end_char": 522,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 536,
+            "end_char": 538,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 725,
+            "end_char": 734,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 750,
+            "end_char": 758,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 766,
+            "end_char": 776,
+            "label": "LOC",
+            "text": "Françaises"
+          },
+          {
+            "start_char": 884,
+            "end_char": 889,
+            "label": "LOC",
+            "text": "Mêmes"
+          },
+          {
+            "start_char": 976,
+            "end_char": 979,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 1072,
+            "end_char": 1082,
+            "label": "ORG",
+            "text": "l’ensemble"
+          },
+          {
+            "start_char": 1087,
+            "end_char": 1095,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1136,
+            "end_char": 1138,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1176,
+            "end_char": 1184,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 1217,
+            "end_char": 1243,
+            "label": "PER",
+            "text": "Mme Farida Amrani.</strong"
+          },
+          {
+            "start_char": 1282,
+            "end_char": 1286,
+            "label": "LOC",
+            "text": "Rome"
+          },
+          {
+            "start_char": 1369,
+            "end_char": 1371,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 1397,
+            "end_char": 1399,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1605,
+            "end_char": 1614,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 1738,
+            "end_char": 1747,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1754,
+            "end_char": 1769,
+            "label": "PER",
+            "text": "Hubert Wulfranc"
+          },
+          {
+            "start_char": 1844,
+            "end_char": 1846,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1865,
+            "end_char": 1867,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1928,
+            "end_char": 1940,
+            "label": "MISC",
+            "text": "voie.<br><br"
+          },
+          {
+            "start_char": 2211,
+            "end_char": 2213,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 2331,
+            "end_char": 2340,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2407,
+            "end_char": 2410,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2446,
+            "end_char": 2449,
+            "label": "MISC",
+            "text": "MM."
+          },
+          {
+            "start_char": 2450,
+            "end_char": 2464,
+            "label": "PER",
+            "text": "Jean-Yves Bony"
+          },
+          {
+            "start_char": 2468,
+            "end_char": 2500,
+            "label": "PER",
+            "text": "Aurélien Pradié.)<br><br><strong"
+          },
+          {
+            "start_char": 2501,
+            "end_char": 2504,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2545,
+            "end_char": 2547,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2563,
+            "end_char": 2565,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2655,
+            "end_char": 2660,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 2695,
+            "end_char": 2697,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2855,
+            "end_char": 2861,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 3060,
+            "end_char": 3069,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 3073,
+            "end_char": 3083,
+            "label": "PER",
+            "text": "Mme Sophia"
+          },
+          {
+            "start_char": 3288,
+            "end_char": 3317,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong>"
+          },
+          {
+            "start_char": 3371,
+            "end_char": 3376,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3574,
+            "end_char": 3577,
+            "label": "ORG",
+            "text": "TRV"
+          },
+          {
+            "start_char": 3891,
+            "end_char": 3919,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong"
+          },
+          {
+            "start_char": 3993,
+            "end_char": 4016,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4017,
+            "end_char": 4043,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 4045,
+            "end_char": 4060,
+            "label": "PER",
+            "text": "Madame Chikirou"
+          },
+          {
+            "start_char": 4169,
+            "end_char": 4174,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4212,
+            "end_char": 4220,
+            "label": "LOC",
+            "text": "Mesdames"
+          },
+          {
+            "start_char": 4285,
+            "end_char": 4309,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 4370,
+            "end_char": 4375,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4454,
+            "end_char": 4462,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4598,
+            "end_char": 4607,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4640,
+            "end_char": 4669,
+            "label": "MISC",
+            "text": "Dem.)</i><br><br>Je le répète"
+          },
+          {
+            "start_char": 4691,
+            "end_char": 4714,
+            "label": "MISC",
+            "text": "Première ministre et du"
+          },
+          {
+            "start_char": 4715,
+            "end_char": 4741,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4887,
+            "end_char": 4890,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 4903,
+            "end_char": 4906,
+            "label": "ORG",
+            "text": "TRV"
+          },
+          {
+            "start_char": 4928,
+            "end_char": 4931,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 4949,
+            "end_char": 4976,
+            "label": "PER",
+            "text": "Mme Nathalie Oziol.</strong"
+          },
+          {
+            "start_char": 4978,
+            "end_char": 4987,
+            "label": "LOC",
+            "text": "Augmentez"
+          },
+          {
+            "start_char": 5028,
+            "end_char": 5033,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 5071,
+            "end_char": 5077,
+            "label": "LOC",
+            "text": "Pouvez"
+          },
+          {
+            "start_char": 5250,
+            "end_char": 5265,
+            "label": "ORG",
+            "text": "RE.)</i><br><br"
+          },
+          {
+            "start_char": 5324,
+            "end_char": 5327,
+            "label": "ORG",
+            "text": "EDF"
+          },
+          {
+            "start_char": 5332,
+            "end_char": 5345,
+            "label": "ORG",
+            "text": "TotalEnergies"
+          },
+          {
+            "start_char": 5349,
+            "end_char": 5356,
+            "label": "MISC",
+            "text": "Engie –"
+          },
+          {
+            "start_char": 5398,
+            "end_char": 5425,
+            "label": "PER",
+            "text": "Mme la présidente.</strong>"
+          },
+          {
+            "start_char": 5426,
+            "end_char": 5431,
+            "label": "MISC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 5473,
+            "end_char": 5478,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 5556,
+            "end_char": 5564,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5617,
+            "end_char": 5622,
+            "label": "ORG",
+            "text": "NUPES"
+          },
+          {
+            "start_char": 5734,
+            "end_char": 5736,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5738,
+            "end_char": 5741,
+            "label": "MISC",
+            "text": "Dem"
+          },
+          {
+            "start_char": 5745,
+            "end_char": 5748,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 5752,
+            "end_char": 5764,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 5791,
+            "end_char": 5800,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5802,
+            "end_char": 5805,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 5807,
+            "end_char": 5818,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 5822,
+            "end_char": 5825,
+            "label": "ORG",
+            "text": "GDR"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 99,
+            "sentiment": "3 stars",
+            "score": 0.3238706588745117
+          },
+          {
+            "begin_char": 100,
+            "end_char": 177,
+            "sentiment": "4 stars",
+            "score": 0.24529653787612915
+          },
+          {
+            "begin_char": 178,
+            "end_char": 485,
+            "sentiment": "3 stars",
+            "score": 0.257712185382843
+          },
+          {
+            "begin_char": 486,
+            "end_char": 679,
+            "sentiment": "2 stars",
+            "score": 0.37060242891311646
+          },
+          {
+            "begin_char": 680,
+            "end_char": 735,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 735,
+            "end_char": 736,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 737,
+            "end_char": 741,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 741,
+            "end_char": 1174,
+            "sentiment": "5 stars",
+            "score": 0.561364471912384
+          },
+          {
+            "begin_char": 1175,
+            "end_char": 1244,
+            "sentiment": "3 stars",
+            "score": 0.3219684064388275
+          },
+          {
+            "begin_char": 1245,
+            "end_char": 1253,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 1253,
+            "end_char": 1287,
+            "sentiment": "3 stars",
+            "score": 0.283939003944397
+          },
+          {
+            "begin_char": 1288,
+            "end_char": 1297,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1297,
+            "end_char": 1479,
+            "sentiment": "2 stars",
+            "score": 0.3620896339416504
+          },
+          {
+            "begin_char": 1480,
+            "end_char": 1692,
+            "sentiment": "5 stars",
+            "score": 0.6002876162528992
+          },
+          {
+            "begin_char": 1693,
+            "end_char": 1748,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 1749,
+            "end_char": 1795,
+            "sentiment": "4 stars",
+            "score": 0.3372705578804016
+          },
+          {
+            "begin_char": 1796,
+            "end_char": 2100,
+            "sentiment": "5 stars",
+            "score": 0.5638808012008667
+          },
+          {
+            "begin_char": 2101,
+            "end_char": 2146,
+            "sentiment": "1 star",
+            "score": 0.40269482135772705
+          },
+          {
+            "begin_char": 2147,
+            "end_char": 2307,
+            "sentiment": "5 stars",
+            "score": 0.7648086547851562
+          },
+          {
+            "begin_char": 2308,
+            "end_char": 2377,
+            "sentiment": "5 stars",
+            "score": 0.5396642088890076
+          },
+          {
+            "begin_char": 2378,
+            "end_char": 2519,
+            "sentiment": "4 stars",
+            "score": 0.3583015501499176
+          },
+          {
+            "begin_char": 2520,
+            "end_char": 2682,
+            "sentiment": "4 stars",
+            "score": 0.3296317458152771
+          },
+          {
+            "begin_char": 2683,
+            "end_char": 2768,
+            "sentiment": "5 stars",
+            "score": 0.3489697575569153
+          },
+          {
+            "begin_char": 2769,
+            "end_char": 3021,
+            "sentiment": "5 stars",
+            "score": 0.6286168694496155
+          },
+          {
+            "begin_char": 3022,
+            "end_char": 3070,
+            "sentiment": "4 stars",
+            "score": 0.3196922838687897
+          },
+          {
+            "begin_char": 3071,
+            "end_char": 3083,
+            "sentiment": "3 stars",
+            "score": 0.256695032119751
+          },
+          {
+            "begin_char": 3084,
+            "end_char": 3092,
+            "sentiment": "3 stars",
+            "score": 0.2415481060743332
+          },
+          {
+            "begin_char": 3093,
+            "end_char": 3108,
+            "sentiment": "3 stars",
+            "score": 0.31647542119026184
+          },
+          {
+            "begin_char": 3109,
+            "end_char": 3317,
+            "sentiment": "5 stars",
+            "score": 0.6607809662818909
+          },
+          {
+            "begin_char": 3318,
+            "end_char": 3352,
+            "sentiment": "1 star",
+            "score": 0.8606172204017639
+          },
+          {
+            "begin_char": 3352,
+            "end_char": 3409,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3410,
+            "end_char": 3579,
+            "sentiment": "5 stars",
+            "score": 0.29457351565361023
+          },
+          {
+            "begin_char": 3580,
+            "end_char": 3667,
+            "sentiment": "4 stars",
+            "score": 0.3680618405342102
+          },
+          {
+            "begin_char": 3668,
+            "end_char": 3920,
+            "sentiment": "5 stars",
+            "score": 0.48376551270484924
+          },
+          {
+            "begin_char": 3921,
+            "end_char": 3950,
+            "sentiment": "1 star",
+            "score": 0.6140440702438354
+          },
+          {
+            "begin_char": 3951,
+            "end_char": 4044,
+            "sentiment": "3 stars",
+            "score": 0.3224807679653168
+          },
+          {
+            "begin_char": 4045,
+            "end_char": 4095,
+            "sentiment": "1 star",
+            "score": 0.36195117235183716
+          },
+          {
+            "begin_char": 4096,
+            "end_char": 4117,
+            "sentiment": "1 star",
+            "score": 0.7743176817893982
+          },
+          {
+            "begin_char": 4118,
+            "end_char": 4150,
+            "sentiment": "1 star",
+            "score": 0.5464663505554199
+          },
+          {
+            "begin_char": 4150,
+            "end_char": 4207,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 4208,
+            "end_char": 4309,
+            "sentiment": "3 stars",
+            "score": 0.29993709921836853
+          },
+          {
+            "begin_char": 4310,
+            "end_char": 4351,
+            "sentiment": "1 star",
+            "score": 0.770379364490509
+          },
+          {
+            "begin_char": 4351,
+            "end_char": 4408,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 4409,
+            "end_char": 4413,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4413,
+            "end_char": 4559,
+            "sentiment": "5 stars",
+            "score": 0.6644544005393982
+          },
+          {
+            "begin_char": 4560,
+            "end_char": 4848,
+            "sentiment": "5 stars",
+            "score": 0.3912269175052643
+          },
+          {
+            "begin_char": 4849,
+            "end_char": 4977,
+            "sentiment": "3 stars",
+            "score": 0.2588953971862793
+          },
+          {
+            "begin_char": 4978,
+            "end_char": 5009,
+            "sentiment": "3 stars",
+            "score": 0.23307648301124573
+          },
+          {
+            "begin_char": 5009,
+            "end_char": 5066,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 5067,
+            "end_char": 5198,
+            "sentiment": "5 stars",
+            "score": 0.22424089908599854
+          },
+          {
+            "begin_char": 5199,
+            "end_char": 5266,
+            "sentiment": "3 stars",
+            "score": 0.3221052289009094
+          },
+          {
+            "begin_char": 5266,
+            "end_char": 5425,
+            "sentiment": "5 stars",
+            "score": 0.31035906076431274
+          },
+          {
+            "begin_char": 5426,
+            "end_char": 5478,
+            "sentiment": "5 stars",
+            "score": 0.39153093099594116
+          },
+          {
+            "begin_char": 5479,
+            "end_char": 5500,
+            "sentiment": "3 stars",
+            "score": 0.2938317358493805
+          },
+          {
+            "begin_char": 5501,
+            "end_char": 5510,
+            "sentiment": "4 stars",
+            "score": 0.31432053446769714
+          },
+          {
+            "begin_char": 5511,
+            "end_char": 5515,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5515,
+            "end_char": 5686,
+            "sentiment": "1 star",
+            "score": 0.32560575008392334
+          },
+          {
+            "begin_char": 5687,
+            "end_char": 5749,
+            "sentiment": "4 stars",
+            "score": 0.31297925114631653
+          },
+          {
+            "begin_char": 5750,
+            "end_char": 5845,
+            "sentiment": "3 stars",
+            "score": 0.30558958649635315
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-25",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-25",
+        "pageJO": "665",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

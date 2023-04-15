@@ -1,0 +1,827 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG24",
+    "identifiant": {
+      "numero": "24",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enseignement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Manque d'enseignants"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795084",
+        "mandatRef": "PM797292"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Éducation nationale et jeunesse",
+      "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Éducation nationale et jeunesse",
+          "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> MANQUE D'ENSEIGNANTS <a name=PG24></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Rodrigo Arenas.<br><br><strong>M. Rodrigo Arenas. </strong>Monsieur le ministre de l’éducation nationale et de la jeunesse, le 7 juillet dernier, sur France Inter, vous avez promis : « Il y aura un professeur devant chaque classe dans toutes les écoles de France » à la rentrée 2022. Alors j'ai un petit problème de mathématiques à vous soumettre. <i>(Exclamations sur divers bancs.) </i>Sachant que sur 23 571 postes offerts aux concours dans l'enseignement public, seuls 83 % ont été pourvus à ce jour ; sachant qu’il manque donc environ 4 000 enseignants dans le pays, en lettres, en langues, en physique-chimie et en mathématiques notamment ; sachant que certaines académies connaissent d’inquiétantes difficultés de recrutement dans ces mêmes matières, en particulier en Île-de-France, qu'allez-vous faire ?<br><br>Comptez-vous laisser se multiplier les opérations de <i>job dating</i> pour recruter des enseignants en moins de temps qu’il n’en faut pour se faire livrer une pizza ? (Applaudissements sur quelques bancs des groupes LFI-NUPES et GDR-NUPES.) Avez-vous des antisèches à nous fournir pour qu’on puisse apporter des réponses aux parents, aux enseignants, aux AESH – accompagnants d’élèves en situation de handicap – et aux chefs d’établissement, qui nous interpellent régulièrement (Applaudissements sur les bancs des groupes LFI-NUPES, SOC, Écolo-NUPES et GDR-NUPES) parce qu’ils sont inquiets et qu'ils craignent que les enfants n’aient pas d’enseignant face à eux à la rentrée ou, pire, qu’ils soient obligés de se résoudre aux classes virtuelles ? N'est pas un hologramme qui veut ! (Sourires sur plusieurs bancs du groupe LFI-NUPES.)<br><br>Monsieur le ministre, comptez-vous, comme nous le préconisons, faire systématiquement et immédiatement appel aux listes complémentaires ? Comptez-vous généraliser au niveau national, en septembre, la réembauche des contractuels dont vous n’avez pas sécurisé les parcours ? Enfin, qu'allez-vous mettre en œuvre cet été pour répondre au problème structurel des absences non remplacées et ainsi sortir de la spirale délétère de la judiciarisation de la relation entre les parents et l'école ? <i>(Vifs applaudissements sur les bancs des groupes LFI-NUPES, SOC, Écolo-NUPES et GDR-NUPES. – Certains députés du groupe LFI-NUPES se lèvent pour applaudir.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’éducation nationale et de la jeunesse.<br><br><strong>M. Pap Ndiaye,</strong><i> ministre de l’éducation nationale et de la jeunesse. </i>La prochaine rentrée interviendra effectivement dans un contexte délicat : le recrutement des professeurs pâtit d'une baisse d'attractivité de certains concours de l'enseignement…<br><br><strong>Mme Sophia Chikirou.</strong> La faute à qui ?<br><br><strong>M. Hubert Wulfranc.</strong> La faute à Blanquer !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>…pour certaines disciplines et pour le premier degré dans certaines académies, particulièrement celles de Créteil et de Versailles. Nous sommes confrontés cette année à une situation particulière en raison de la réforme de la formation initiale et du recrutement des enseignants. <i>(Exclamations prolongées sur les bancs du groupe LFI-NUPES.) </i>Au-delà de cette situation, mon ministère a pris une série de mesures…<br><br><strong>Un député du groupe LFI-NUPES .</strong> Fermez les classes !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>…pour assurer les meilleures conditions possibles de rentrée pour tous les élèves. L'objectif est de faire en sorte que tous les élèves soient accueillis, avec un professeur devant chaque classe.<br><br><strong>M. Stéphane Peu.</strong> D'accord, c'est l'objectif ; mais qu'en est-il de la réalité ?<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>Toutes les académies sont mobilisées depuis plusieurs mois pour recruter, prolonger les contrats des enseignants contractuels et les former. Voilà la réponse à votre problème de mathématiques !<br><br><strong>Mme Sophia Chikirou.</strong> Les classes sont surchargées !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>En outre, une cellule de rentrée, active dès le 22 août dans chaque rectorat, permettra de prévenir et de résoudre les dernières difficultés.<br><br><strong>Un député du groupe LFI-NUPES .</strong> C'est faux !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre. </i>Enfin, conformément aux engagements du Président de la République et de la Première ministre, la revalorisation à venir dans le cadre du pacte avec les enseignants fera l'objet d'une concertation cet automne. Ce pacte permettra de renforcer l'attractivité des métiers de l'enseignement,…<br><br><strong>M. Ugo Bernalicis.</strong> Allez-vous, oui ou non, faire appel aux listes complémentaires ?<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>…de mieux reconnaître l'engagement de chaque professeur, mais aussi de repenser les dynamiques et les évolutions de carrière. <i>(Applaudissements sur quelques bancs du groupe RE. - Exclamations sur les bancs du groupe LFI-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 78,
+            "end_char": 81,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 122,
+            "end_char": 155,
+            "label": "PER",
+            "text": "M. Rodrigo Arenas.<br><br><strong"
+          },
+          {
+            "start_char": 156,
+            "end_char": 173,
+            "label": "PER",
+            "text": "M. Rodrigo Arenas"
+          },
+          {
+            "start_char": 184,
+            "end_char": 192,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 208,
+            "end_char": 210,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 275,
+            "end_char": 287,
+            "label": "ORG",
+            "text": "France Inter"
+          },
+          {
+            "start_char": 378,
+            "end_char": 387,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 816,
+            "end_char": 818,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 901,
+            "end_char": 914,
+            "label": "LOC",
+            "text": "Île-de-France"
+          },
+          {
+            "start_char": 945,
+            "end_char": 952,
+            "label": "LOC",
+            "text": "Comptez"
+          },
+          {
+            "start_char": 1070,
+            "end_char": 1072,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 1114,
+            "end_char": 1130,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 1162,
+            "end_char": 1171,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1175,
+            "end_char": 1184,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 1187,
+            "end_char": 1191,
+            "label": "LOC",
+            "text": "Avez"
+          },
+          {
+            "start_char": 1232,
+            "end_char": 1235,
+            "label": "PER",
+            "text": "qu’"
+          },
+          {
+            "start_char": 1301,
+            "end_char": 1305,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 1425,
+            "end_char": 1441,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 1468,
+            "end_char": 1477,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1479,
+            "end_char": 1482,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 1484,
+            "end_char": 1495,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 1499,
+            "end_char": 1508,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 1516,
+            "end_char": 1519,
+            "label": "LOC",
+            "text": "qu’"
+          },
+          {
+            "start_char": 1573,
+            "end_char": 1575,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 1585,
+            "end_char": 1587,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1632,
+            "end_char": 1635,
+            "label": "LOC",
+            "text": "qu’"
+          },
+          {
+            "start_char": 1730,
+            "end_char": 1738,
+            "label": "LOC",
+            "text": "Sourires"
+          },
+          {
+            "start_char": 1769,
+            "end_char": 1787,
+            "label": "ORG",
+            "text": "LFI-NUPES.)<br><br"
+          },
+          {
+            "start_char": 1788,
+            "end_char": 1796,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1926,
+            "end_char": 1933,
+            "label": "LOC",
+            "text": "Comptez"
+          },
+          {
+            "start_char": 2026,
+            "end_char": 2028,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 2330,
+            "end_char": 2339,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2341,
+            "end_char": 2344,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2346,
+            "end_char": 2357,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2361,
+            "end_char": 2370,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2401,
+            "end_char": 2410,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2457,
+            "end_char": 2460,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2501,
+            "end_char": 2503,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2519,
+            "end_char": 2521,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2575,
+            "end_char": 2581,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 2614,
+            "end_char": 2616,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2854,
+            "end_char": 2882,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong"
+          },
+          {
+            "start_char": 2916,
+            "end_char": 2943,
+            "label": "PER",
+            "text": "M. Hubert Wulfranc.</strong"
+          },
+          {
+            "start_char": 2956,
+            "end_char": 2964,
+            "label": "PER",
+            "text": "Blanquer"
+          },
+          {
+            "start_char": 2985,
+            "end_char": 2988,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 3130,
+            "end_char": 3137,
+            "label": "LOC",
+            "text": "Créteil"
+          },
+          {
+            "start_char": 3144,
+            "end_char": 3154,
+            "label": "LOC",
+            "text": "Versailles"
+          },
+          {
+            "start_char": 3356,
+            "end_char": 3365,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3478,
+            "end_char": 3487,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3499,
+            "end_char": 3505,
+            "label": "PER",
+            "text": "Fermez"
+          },
+          {
+            "start_char": 3538,
+            "end_char": 3541,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 3791,
+            "end_char": 3812,
+            "label": "PER",
+            "text": "Stéphane Peu.</strong"
+          },
+          {
+            "start_char": 3892,
+            "end_char": 3898,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 4143,
+            "end_char": 4171,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong"
+          },
+          {
+            "start_char": 4222,
+            "end_char": 4225,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 4438,
+            "end_char": 4447,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 4490,
+            "end_char": 4493,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 4567,
+            "end_char": 4593,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4603,
+            "end_char": 4611,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4859,
+            "end_char": 4864,
+            "label": "LOC",
+            "text": "Allez"
+          },
+          {
+            "start_char": 4939,
+            "end_char": 4945,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 5150,
+            "end_char": 5159,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 5200,
+            "end_char": 5218,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 96,
+            "sentiment": "3 stars",
+            "score": 0.2741905152797699
+          },
+          {
+            "begin_char": 97,
+            "end_char": 174,
+            "sentiment": "5 stars",
+            "score": 0.27412939071655273
+          },
+          {
+            "begin_char": 175,
+            "end_char": 184,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 184,
+            "end_char": 408,
+            "sentiment": "5 stars",
+            "score": 0.4266371428966522
+          },
+          {
+            "begin_char": 409,
+            "end_char": 472,
+            "sentiment": "3 stars",
+            "score": 0.30921244621276855
+          },
+          {
+            "begin_char": 473,
+            "end_char": 508,
+            "sentiment": "3 stars",
+            "score": 0.2702251076698303
+          },
+          {
+            "begin_char": 509,
+            "end_char": 513,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 513,
+            "end_char": 630,
+            "sentiment": "3 stars",
+            "score": 0.31686487793922424
+          },
+          {
+            "begin_char": 631,
+            "end_char": 771,
+            "sentiment": "2 stars",
+            "score": 0.32677987217903137
+          },
+          {
+            "begin_char": 772,
+            "end_char": 937,
+            "sentiment": "2 stars",
+            "score": 0.27893680334091187
+          },
+          {
+            "begin_char": 937,
+            "end_char": 945,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 945,
+            "end_char": 1112,
+            "sentiment": "1 star",
+            "score": 0.5209835171699524
+          },
+          {
+            "begin_char": 1113,
+            "end_char": 1186,
+            "sentiment": "4 stars",
+            "score": 0.3494454622268677
+          },
+          {
+            "begin_char": 1187,
+            "end_char": 1693,
+            "sentiment": "5 stars",
+            "score": 0.41918596625328064
+          },
+          {
+            "begin_char": 1694,
+            "end_char": 1730,
+            "sentiment": "1 star",
+            "score": 0.4137665927410126
+          },
+          {
+            "begin_char": 1730,
+            "end_char": 1788,
+            "sentiment": "3 stars",
+            "score": 0.29728004336357117
+          },
+          {
+            "begin_char": 1788,
+            "end_char": 1925,
+            "sentiment": "1 star",
+            "score": 0.24869240820407867
+          },
+          {
+            "begin_char": 1926,
+            "end_char": 2060,
+            "sentiment": "2 stars",
+            "score": 0.24243152141571045
+          },
+          {
+            "begin_char": 2061,
+            "end_char": 2277,
+            "sentiment": "5 stars",
+            "score": 0.382651686668396
+          },
+          {
+            "begin_char": 2278,
+            "end_char": 2370,
+            "sentiment": "4 stars",
+            "score": 0.33161407709121704
+          },
+          {
+            "begin_char": 2370,
+            "end_char": 2372,
+            "sentiment": "3 stars",
+            "score": 0.27238816022872925
+          },
+          {
+            "begin_char": 2372,
+            "end_char": 2374,
+            "sentiment": "3 stars",
+            "score": 0.25771647691726685
+          },
+          {
+            "begin_char": 2374,
+            "end_char": 2475,
+            "sentiment": "4 stars",
+            "score": 0.32505086064338684
+          },
+          {
+            "begin_char": 2476,
+            "end_char": 2601,
+            "sentiment": "3 stars",
+            "score": 0.30180537700653076
+          },
+          {
+            "begin_char": 2602,
+            "end_char": 2654,
+            "sentiment": "4 stars",
+            "score": 0.30159011483192444
+          },
+          {
+            "begin_char": 2655,
+            "end_char": 2900,
+            "sentiment": "3 stars",
+            "score": 0.43255725502967834
+          },
+          {
+            "begin_char": 2900,
+            "end_char": 2944,
+            "sentiment": "3 stars",
+            "score": 0.30732962489128113
+          },
+          {
+            "begin_char": 2945,
+            "end_char": 2966,
+            "sentiment": "1 star",
+            "score": 0.6097519993782043
+          },
+          {
+            "begin_char": 2966,
+            "end_char": 3019,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 3020,
+            "end_char": 3155,
+            "sentiment": "3 stars",
+            "score": 0.32306990027427673
+          },
+          {
+            "begin_char": 3156,
+            "end_char": 3303,
+            "sentiment": "4 stars",
+            "score": 0.40363529324531555
+          },
+          {
+            "begin_char": 3304,
+            "end_char": 3366,
+            "sentiment": "4 stars",
+            "score": 0.25766468048095703
+          },
+          {
+            "begin_char": 3366,
+            "end_char": 3367,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 3368,
+            "end_char": 3372,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3372,
+            "end_char": 3374,
+            "sentiment": "5 stars",
+            "score": 0.31276801228523254
+          },
+          {
+            "begin_char": 3374,
+            "end_char": 3375,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 3375,
+            "end_char": 3498,
+            "sentiment": "3 stars",
+            "score": 0.2780956029891968
+          },
+          {
+            "begin_char": 3499,
+            "end_char": 3519,
+            "sentiment": "1 star",
+            "score": 0.3981335163116455
+          },
+          {
+            "begin_char": 3519,
+            "end_char": 3572,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 3573,
+            "end_char": 3659,
+            "sentiment": "5 stars",
+            "score": 0.383309543132782
+          },
+          {
+            "begin_char": 3660,
+            "end_char": 3876,
+            "sentiment": "3 stars",
+            "score": 0.3064717650413513
+          },
+          {
+            "begin_char": 3876,
+            "end_char": 3929,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 3930,
+            "end_char": 4074,
+            "sentiment": "5 stars",
+            "score": 0.4474378228187561
+          },
+          {
+            "begin_char": 4075,
+            "end_char": 4127,
+            "sentiment": "5 stars",
+            "score": 0.561034619808197
+          },
+          {
+            "begin_char": 4127,
+            "end_char": 4172,
+            "sentiment": "3 stars",
+            "score": 0.2862336039543152
+          },
+          {
+            "begin_char": 4173,
+            "end_char": 4203,
+            "sentiment": "2 stars",
+            "score": 0.3554723858833313
+          },
+          {
+            "begin_char": 4203,
+            "end_char": 4256,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 4257,
+            "end_char": 4261,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4261,
+            "end_char": 4418,
+            "sentiment": "4 stars",
+            "score": 0.43532851338386536
+          },
+          {
+            "begin_char": 4418,
+            "end_char": 4458,
+            "sentiment": "3 stars",
+            "score": 0.3071180284023285
+          },
+          {
+            "begin_char": 4459,
+            "end_char": 4523,
+            "sentiment": "1 star",
+            "score": 0.5975725650787354
+          },
+          {
+            "begin_char": 4524,
+            "end_char": 4736,
+            "sentiment": "4 stars",
+            "score": 0.44586843252182007
+          },
+          {
+            "begin_char": 4737,
+            "end_char": 4858,
+            "sentiment": "4 stars",
+            "score": 0.37441620230674744
+          },
+          {
+            "begin_char": 4859,
+            "end_char": 4923,
+            "sentiment": "1 star",
+            "score": 0.26709771156311035
+          },
+          {
+            "begin_char": 4923,
+            "end_char": 4976,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 4977,
+            "end_char": 5106,
+            "sentiment": "4 stars",
+            "score": 0.4154881238937378
+          },
+          {
+            "begin_char": 5107,
+            "end_char": 5160,
+            "sentiment": "3 stars",
+            "score": 0.2982350289821625
+          },
+          {
+            "begin_char": 5161,
+            "end_char": 5223,
+            "sentiment": "3 stars",
+            "score": 0.2917688488960266
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-13",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-13",
+        "pageJO": "2348",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

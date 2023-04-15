@@ -1,0 +1,653 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG306",
+    "identifiant": {
+      "numero": "306",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "femmes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Protection des enfants"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA335054",
+        "mandatRef": "PM797298"
+      },
+      "groupe": {
+        "organeRef": "PO800496",
+        "abrege": "SOC",
+        "developpe": "Socialistes et apparentés (membre de l’intergroupe NUPES)"
+      }
+    },
+    "minInt": {
+      "abrege": "Justice",
+      "developpe": "Ministère de la justice"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Justice",
+          "developpe": "Ministère de la justice"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PROTECTION DES ENFANTS <a name=PG4></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Marietta Karamanli.<br><br><strong>Mme Marietta Karamanli. </strong>Tout d'abord, je rappelle que le 3919 a été créé par les socialistes.<br><br>Le Gouvernement vient d'annoncer un plan pour la protection des enfants et la lutte contre les violences faites aux enfants. Si l'intention est bonne, elle ne doit pas faire oublier la réalité d'une justice sinistrée. Je ne parle pas ici que de la justice pénale ; la justice civile aussi est concernée, en particulier les affaires familiales. Au moment où nous débattons, des magistrats et des avocats manifestent et protestent. Pour reprendre certains titres de journaux, ils sont au bord du burn-out, de l'épuisement, entre colère et amertume.<br><br>La famille est certainement ce qui compte le plus pour les Françaises et les Français. Une séparation, la gestion et la garde des enfants, un changement dans la situation financière des époux et parents : ces événements courants ont des conséquences pénibles.<br><br>Au tribunal judiciaire du Mans, le délai pour obtenir une audience est de douze à quinze mois. Le quotidien est fait de séances à rallonge ; de familles confrontées à des difficultés pour divorcer ou obtenir la garde d'enfants, faute de délais raisonnables, et fragilisées par l'absence de décision de magistrats fatigués ; d'avocats démotivés, devant expliquer pourquoi il ne se passe rien. Il faut certes se préoccuper de la violence, mais aussi se prémunir d'aggraver des situations ordinaires. Sur le plan pénal, bon nombre d'affaires de violences conjugales sont renvoyées d'une année à l'autre.<br><br>Vous me répondrez, monsieur le ministre, que le budget de la justice est en augmentation et que vous avez recruté. Néanmoins, il faut des mesures d'urgence, pertinentes et pensées avec les magistrats. Ma question est simple : que comptez-vous faire d'exceptionnel pour que les familles aient droit à une vraie justice, pour que les magistrats évitent le pire pour leur santé et pour que les avocats retrouvent leur efficacité ? <i>(Applaudissements sur les bancs du groupe SOC et sur quelques bancs du groupe LFI-NUPES.)</i><br><br><strong>M. Philippe Brun.</strong> Bravo !<br><br><strong>Mme la présidente. </strong>La parole est à M. le garde des sceaux, ministre de la justice.<br><br><strong>M. Patrick Hetzel.</strong> Et des postes vacants !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux, ministre de la justice . </i>Madame Karamanli, vous dites que la justice est sinistrée ; je vous entends. Ces murs ont des oreilles, mais aussi de la mémoire. Il fut un temps, pas si lointain – vous étiez au pouvoir – où les augmentations budgétaires s'élevaient à 1 %. À l'époque, personne ne disait rien.<br><br>Vous dites qu'il ne se passe rien, mais je vais tout de même rappeler quelques chiffres : 44 % d'augmentation du budget depuis l'élection du Président de la République ; c'est nous ! <i>(Applaudissements sur plusieurs bancs du groupe RE. - M. Thomas Mesnier applaudit également.)</i><br><br><strong>M. Jean-René Cazeneuve.</strong> Eh oui !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>Une augmentation de 26 % du budget ; c'est nous ! Le plus grand plan d'embauches de l'histoire du ministère de la justice : 750 magistrats, 850 greffiers et 2 000 contractuels ; c'est nous ! <i>(Applaudissements sur plusieurs bancs du groupe RE.) </i>La plus grande promotion de l'École nationale de la magistrature (M. Thomas Mesnier applaudit) : il nous faut des Algeco, car nous ne pouvons pas écarter les murs ! Enfin, une augmentation mensuelle de 1 000 euros nets pour les magistrats : désormais, pas un magistrat ne percevra moins de 3 000 euros en début de carrière.<br><br><strong>M. Stéphane Peu.</strong> On se croirait sur le marché de Saint-Denis !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>Quant à l'urgence, les annonces issues des états généraux de la magistrature seront faites dans quelques jours. Vous verrez les mesures qui seront prises en matières civile, pénale, économique et sociale. Nous, nous ne faisons pas que critiquer, nous agissons. <i>(Applaudissements sur les bancs du groupe RE et sur quelques bancs des groupes Dem et HOR.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 37,
+            "label": "ORG",
+            "text": "PROTECTION DES"
+          },
+          {
+            "start_char": 38,
+            "end_char": 45,
+            "label": "MISC",
+            "text": "ENFANTS"
+          },
+          {
+            "start_char": 54,
+            "end_char": 61,
+            "label": "MISC",
+            "text": "PG4></a"
+          },
+          {
+            "start_char": 79,
+            "end_char": 82,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 123,
+            "end_char": 161,
+            "label": "PER",
+            "text": "Mme Marietta Karamanli.<br><br><strong"
+          },
+          {
+            "start_char": 162,
+            "end_char": 184,
+            "label": "PER",
+            "text": "Mme Marietta Karamanli"
+          },
+          {
+            "start_char": 252,
+            "end_char": 271,
+            "label": "MISC",
+            "text": "socialistes.<br><br"
+          },
+          {
+            "start_char": 275,
+            "end_char": 287,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 885,
+            "end_char": 895,
+            "label": "LOC",
+            "text": "Françaises"
+          },
+          {
+            "start_char": 903,
+            "end_char": 911,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1076,
+            "end_char": 1092,
+            "label": "MISC",
+            "text": "pénibles.<br><br"
+          },
+          {
+            "start_char": 1119,
+            "end_char": 1123,
+            "label": "LOC",
+            "text": "Mans"
+          },
+          {
+            "start_char": 1687,
+            "end_char": 1701,
+            "label": "MISC",
+            "text": "autre.<br><br>"
+          },
+          {
+            "start_char": 2174,
+            "end_char": 2177,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2210,
+            "end_char": 2240,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2244,
+            "end_char": 2266,
+            "label": "PER",
+            "text": "Philippe Brun.</strong"
+          },
+          {
+            "start_char": 2268,
+            "end_char": 2273,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 2291,
+            "end_char": 2294,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2335,
+            "end_char": 2337,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2359,
+            "end_char": 2397,
+            "label": "ORG",
+            "text": "ministre de la justice.<br><br><strong"
+          },
+          {
+            "start_char": 2401,
+            "end_char": 2447,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong> Et des postes vacants"
+          },
+          {
+            "start_char": 2468,
+            "end_char": 2479,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2548,
+            "end_char": 2564,
+            "label": "PER",
+            "text": "Madame Karamanli"
+          },
+          {
+            "start_char": 2820,
+            "end_char": 2832,
+            "label": "MISC",
+            "text": "rien.<br><br"
+          },
+          {
+            "start_char": 2974,
+            "end_char": 3000,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3060,
+            "end_char": 3069,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 3076,
+            "end_char": 3090,
+            "label": "PER",
+            "text": "Thomas Mesnier"
+          },
+          {
+            "start_char": 3135,
+            "end_char": 3163,
+            "label": "PER",
+            "text": "Jean-René Cazeneuve.</strong"
+          },
+          {
+            "start_char": 3192,
+            "end_char": 3203,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 3483,
+            "end_char": 3492,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 3529,
+            "end_char": 3563,
+            "label": "ORG",
+            "text": "École nationale de la magistrature"
+          },
+          {
+            "start_char": 3613,
+            "end_char": 3619,
+            "label": "MISC",
+            "text": "Algeco"
+          },
+          {
+            "start_char": 3841,
+            "end_char": 3862,
+            "label": "PER",
+            "text": "Stéphane Peu.</strong"
+          },
+          {
+            "start_char": 3893,
+            "end_char": 3907,
+            "label": "LOC",
+            "text": "de Saint-Denis"
+          },
+          {
+            "start_char": 3928,
+            "end_char": 3939,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4283,
+            "end_char": 4292,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4327,
+            "end_char": 4330,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4334,
+            "end_char": 4346,
+            "label": "LOC",
+            "text": "HOR.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 45,
+            "sentiment": "4 stars",
+            "score": 0.2889803647994995
+          },
+          {
+            "begin_char": 46,
+            "end_char": 97,
+            "sentiment": "3 stars",
+            "score": 0.3040364980697632
+          },
+          {
+            "begin_char": 98,
+            "end_char": 185,
+            "sentiment": "3 stars",
+            "score": 0.2583996653556824
+          },
+          {
+            "begin_char": 186,
+            "end_char": 272,
+            "sentiment": "5 stars",
+            "score": 0.29431188106536865
+          },
+          {
+            "begin_char": 272,
+            "end_char": 396,
+            "sentiment": "4 stars",
+            "score": 0.3841412663459778
+          },
+          {
+            "begin_char": 397,
+            "end_char": 489,
+            "sentiment": "1 star",
+            "score": 0.33874136209487915
+          },
+          {
+            "begin_char": 490,
+            "end_char": 536,
+            "sentiment": "3 stars",
+            "score": 0.255565881729126
+          },
+          {
+            "begin_char": 537,
+            "end_char": 615,
+            "sentiment": "4 stars",
+            "score": 0.41919004917144775
+          },
+          {
+            "begin_char": 616,
+            "end_char": 701,
+            "sentiment": "5 stars",
+            "score": 0.5061734914779663
+          },
+          {
+            "begin_char": 702,
+            "end_char": 912,
+            "sentiment": "4 stars",
+            "score": 0.31400588154792786
+          },
+          {
+            "begin_char": 913,
+            "end_char": 1093,
+            "sentiment": "3 stars",
+            "score": 0.41641178727149963
+          },
+          {
+            "begin_char": 1093,
+            "end_char": 1187,
+            "sentiment": "4 stars",
+            "score": 0.3331148326396942
+          },
+          {
+            "begin_char": 1188,
+            "end_char": 1233,
+            "sentiment": "2 stars",
+            "score": 0.36283907294273376
+          },
+          {
+            "begin_char": 1234,
+            "end_char": 1416,
+            "sentiment": "3 stars",
+            "score": 0.4422896206378937
+          },
+          {
+            "begin_char": 1417,
+            "end_char": 1484,
+            "sentiment": "1 star",
+            "score": 0.613372266292572
+          },
+          {
+            "begin_char": 1485,
+            "end_char": 1590,
+            "sentiment": "4 stars",
+            "score": 0.4453358054161072
+          },
+          {
+            "begin_char": 1591,
+            "end_char": 1701,
+            "sentiment": "3 stars",
+            "score": 0.28630051016807556
+          },
+          {
+            "begin_char": 1701,
+            "end_char": 1815,
+            "sentiment": "1 star",
+            "score": 0.2563329339027405
+          },
+          {
+            "begin_char": 1816,
+            "end_char": 1901,
+            "sentiment": "4 stars",
+            "score": 0.44540470838546753
+          },
+          {
+            "begin_char": 1902,
+            "end_char": 2128,
+            "sentiment": "5 stars",
+            "score": 0.4157370626926422
+          },
+          {
+            "begin_char": 2129,
+            "end_char": 2275,
+            "sentiment": "5 stars",
+            "score": 0.4934723675251007
+          },
+          {
+            "begin_char": 2275,
+            "end_char": 2309,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2310,
+            "end_char": 2449,
+            "sentiment": "3 stars",
+            "score": 0.22755970060825348
+          },
+          {
+            "begin_char": 2449,
+            "end_char": 2543,
+            "sentiment": "4 stars",
+            "score": 0.3232072591781616
+          },
+          {
+            "begin_char": 2544,
+            "end_char": 2607,
+            "sentiment": "1 star",
+            "score": 0.4310869872570038
+          },
+          {
+            "begin_char": 2608,
+            "end_char": 2624,
+            "sentiment": "1 star",
+            "score": 0.23082853853702545
+          },
+          {
+            "begin_char": 2625,
+            "end_char": 2677,
+            "sentiment": "5 stars",
+            "score": 0.33085763454437256
+          },
+          {
+            "begin_char": 2678,
+            "end_char": 2788,
+            "sentiment": "2 stars",
+            "score": 0.26581987738609314
+          },
+          {
+            "begin_char": 2789,
+            "end_char": 2833,
+            "sentiment": "2 stars",
+            "score": 0.23644380271434784
+          },
+          {
+            "begin_char": 2833,
+            "end_char": 3002,
+            "sentiment": "2 stars",
+            "score": 0.31302839517593384
+          },
+          {
+            "begin_char": 3003,
+            "end_char": 3015,
+            "sentiment": "5 stars",
+            "score": 0.39927157759666443
+          },
+          {
+            "begin_char": 3016,
+            "end_char": 3070,
+            "sentiment": "4 stars",
+            "score": 0.31308692693710327
+          },
+          {
+            "begin_char": 3071,
+            "end_char": 3164,
+            "sentiment": "3 stars",
+            "score": 0.3444000780582428
+          },
+          {
+            "begin_char": 3165,
+            "end_char": 3173,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 3173,
+            "end_char": 3243,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 3244,
+            "end_char": 3248,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3248,
+            "end_char": 3284,
+            "sentiment": "4 stars",
+            "score": 0.3795512616634369
+          },
+          {
+            "begin_char": 3285,
+            "end_char": 3297,
+            "sentiment": "5 stars",
+            "score": 0.39927157759666443
+          },
+          {
+            "begin_char": 3298,
+            "end_char": 3425,
+            "sentiment": "5 stars",
+            "score": 0.664498507976532
+          },
+          {
+            "begin_char": 3426,
+            "end_char": 3438,
+            "sentiment": "5 stars",
+            "score": 0.39927157759666443
+          },
+          {
+            "begin_char": 3439,
+            "end_char": 3574,
+            "sentiment": "5 stars",
+            "score": 0.5150103569030762
+          },
+          {
+            "begin_char": 3575,
+            "end_char": 3594,
+            "sentiment": "5 stars",
+            "score": 0.43205326795578003
+          },
+          {
+            "begin_char": 3594,
+            "end_char": 3595,
+            "sentiment": "4 stars",
+            "score": 0.279130220413208
+          },
+          {
+            "begin_char": 3596,
+            "end_char": 3663,
+            "sentiment": "2 stars",
+            "score": 0.3064986765384674
+          },
+          {
+            "begin_char": 3664,
+            "end_char": 3863,
+            "sentiment": "3 stars",
+            "score": 0.28603294491767883
+          },
+          {
+            "begin_char": 3864,
+            "end_char": 3909,
+            "sentiment": "1 star",
+            "score": 0.3519666790962219
+          },
+          {
+            "begin_char": 3909,
+            "end_char": 3979,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 3980,
+            "end_char": 4074,
+            "sentiment": "5 stars",
+            "score": 0.4785362780094147
+          },
+          {
+            "begin_char": 4075,
+            "end_char": 4094,
+            "sentiment": "4 stars",
+            "score": 0.34205740690231323
+          },
+          {
+            "begin_char": 4094,
+            "end_char": 4095,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 4096,
+            "end_char": 4188,
+            "sentiment": "4 stars",
+            "score": 0.39328914880752563
+          },
+          {
+            "begin_char": 4189,
+            "end_char": 4244,
+            "sentiment": "5 stars",
+            "score": 0.46511831879615784
+          },
+          {
+            "begin_char": 4245,
+            "end_char": 4347,
+            "sentiment": "3 stars",
+            "score": 0.3090531826019287
+          },
+          {
+            "begin_char": 4348,
+            "end_char": 4351,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5894",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

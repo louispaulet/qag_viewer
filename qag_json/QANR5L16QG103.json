@@ -1,0 +1,599 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG103",
+    "identifiant": {
+      "numero": "103",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "outre-mer",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Rentrée scolaire à la Réunion"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA796010",
+        "mandatRef": "PM797802"
+      },
+      "groupe": {
+        "organeRef": "PO800502",
+        "abrege": "GDR-NUPES",
+        "developpe": "Gauche démocrate et républicaine - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Éducation nationale et jeunesse",
+      "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Éducation nationale et jeunesse",
+          "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RENTRÉE SCOLAIRE À LA RÉUNION <a name=PG22></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Frédéric Maillot.<br><br><strong>M. Frédéric Maillot. </strong>Monsieur le ministre de l'éducation nationale et de la jeunesse, dans quinze jours, les élèves réunionnais reprendront le chemin de l’école. C’est donc à La Réunion que vous effectuerez votre première rentrée scolaire en tant que ministre – votre baptême du feu.<br><br>Après deux années chahutées par la covid-19, la rentrée 2022 est percutée par la flambée des prix des fournitures scolaires : chez nous, le prix des cahiers a augmenté de 18 % et celui des calculatrices de 40 %. Ces augmentations vont bien au-delà de la revalorisation de l'allocation de rentrée scolaire et mettent à mal le principe républicain d’égalité des chances, auquel je vous sais attaché.<br><br>Cette rentrée n’est pas non plus épargnée par la question récurrente de l’affectation des néotitulaires. Supérieure à la moyenne nationale, l’attractivité des académies situées au soleil coûte cher – très cher ! – à nos frères et à nos sœurs qui réussissent les concours de recrutement de personnels enseignants du second degré. Les centres des intérêts matériels et moraux (CIMM) ne parvenant pas à inverser la situation, de nombreux lauréats doivent s'exiler à des milliers de kilomètres, avec les conséquences familiales, financières et psychologiques que l’on peut imaginer. <br><br>Répondre au cas par cas n'est plus tenable et leur message est clair : ils veulent vivre et travailler dans leur pays. S'ajoute à cela, cette année, la surprise des lauréats stagiaires auxquels on demande d'effectuer leur stage dans l'Hexagone – c'est l'exil, une fois de plus –, à l'encontre des pratiques consacrées en 2022 – selon le <i>Bulletin officiel de l'éducation nationale, de la jeunesse et des sports</i>, l'année de stage doit avoir lieu dans l'académie d'inscription au concours. Ils ont un mois pour organiser leur exil, un mois pour bousculer leur vie ! Confrontés à tant d'obstacles, certains renoncent au bénéfice du concours pour se faire recruter sur place en tant que contractuels. En outre, l’arrivée de professeurs ne maîtrisant pas la langue maternelle des élèves peut favoriser l'illettrisme et le décrochage scolaires, déjà très élevés chez nous.<br><br>Monsieur le ministre, continuons à dire à nos enfants que l’avenir se joue à l’école, mais donnons-leur les moyens de réussir, dès le jour de la rentrée, dès le 16 août prochain. Pouvons-nous compter sur vous ? <i>(Applaudissements sur les bancs des groupes GDR-NUPES et LFI-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’éducation nationale et de la jeunesse.<br><br><strong>M. Pap Ndiaye,</strong><i> ministre de l’éducation nationale et de la jeunesse. </i>Sur la question du pouvoir d'achat, le ministre délégué aux outre-mer promeut des mesures spécifiques aux territoires ultramarins, en particulier la limitation de la hausse des loyers et une aide alimentaire destinée aux foyers ne bénéficiant pas des minima sociaux. S'agissant de la rentrée scolaire, la loi portant mesures d’urgence pour la protection du pouvoir d’achat, en cours de discussion, revalorise l'allocation de rentrée scolaire de 4 %, de même que les bourses scolaires de collège et de lycée, qui seront revalorisées à compter du 1er septembre.<br><br>En ce qui concerne le coût des fournitures scolaires, j'ai envoyé une circulaire aux directeurs d'école et aux chefs d'établissement demandant que cette charge soit limitée au maximum pour les familles : une liste modèle de fournitures a notamment été publiée. Enfin, nous avons élargi le périmètre des fonds sociaux déjà existants qui étaient jusque-là réservés au second degré : une circulaire vient d'être envoyée pour que ces aides soient étendues au premier degré.<br><br>Pour ce qui est des affectations, nous entendons pleinement les aspirations des professeurs qui souhaitent pouvoir revenir ou demeurer dans les territoires ultramarins. Mais cette aspiration doit être conciliée avec l'obligation qui est nôtre de répartir les enseignants équitablement sur le territoire national. Pour l'année scolaire 2021-2022, à La Réunion, la bonification CIMM a permis que la moitié des demandes soient satisfaites. Cependant, et je suis d'accord avec vous sur ce point, nous devons et nous allons faire mieux. Nous comprenons la spécificité des outre-mer, notamment en ce qui concerne l'éloignement géographique de certains enseignants. En attendant, j'ai demandé que toutes les situations individuelles, notamment celles qui sont liées à des considérations familiales, soient étudiées avec soin. C'est l'une de mes priorités. <i>(Applaudissements sur les bancs du groupe RE et quelques bancs du groupe Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Frédéric Maillot. Il vous reste douze secondes pour répondre, si vous le souhaitez.<br><br><strong>M. André Chassaigne.</strong> On ne va pas nous les voler !<br><br><strong>Mme la présidente. </strong>Non ! Allez-y.<br><br><strong>M. Frédéric Maillot. </strong>Au pouvoir d'achat, nous préférons le pouvoir de vivre et celui de réussir, afin que l'égalité des chances ne reste pas un concept ministériel. <i>(Applaudissements sur les bancs des groupes GDR-NUPES et LFI-NUPES.)</i><br><br><strong>M. Sébastien Jumel.</strong> Il aurait été dommage de ne pas entendre ces quelques mots !<br> <p>",
+        "entities": [
+          {
+            "start_char": 87,
+            "end_char": 90,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 131,
+            "end_char": 142,
+            "label": "PER",
+            "text": "M. Frédéric"
+          },
+          {
+            "start_char": 170,
+            "end_char": 186,
+            "label": "PER",
+            "text": "Frédéric Maillot"
+          },
+          {
+            "start_char": 197,
+            "end_char": 205,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 329,
+            "end_char": 331,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 338,
+            "end_char": 340,
+            "label": "MISC",
+            "text": "C’"
+          },
+          {
+            "start_char": 351,
+            "end_char": 361,
+            "label": "LOC",
+            "text": "La Réunion"
+          },
+          {
+            "start_char": 856,
+            "end_char": 871,
+            "label": "MISC",
+            "text": "attaché.<br><br"
+          },
+          {
+            "start_char": 886,
+            "end_char": 888,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 944,
+            "end_char": 946,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 977,
+            "end_char": 987,
+            "label": "PER",
+            "text": "Supérieure"
+          },
+          {
+            "start_char": 1012,
+            "end_char": 1014,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1247,
+            "end_char": 1251,
+            "label": "ORG",
+            "text": "CIMM"
+          },
+          {
+            "start_char": 1431,
+            "end_char": 1433,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1694,
+            "end_char": 1702,
+            "label": "LOC",
+            "text": "Hexagone"
+          },
+          {
+            "start_char": 2029,
+            "end_char": 2039,
+            "label": "PER",
+            "text": "Confrontés"
+          },
+          {
+            "start_char": 2172,
+            "end_char": 2174,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 2326,
+            "end_char": 2339,
+            "label": "MISC",
+            "text": "nous.<br><br>"
+          },
+          {
+            "start_char": 2339,
+            "end_char": 2347,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2397,
+            "end_char": 2399,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 2416,
+            "end_char": 2418,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2597,
+            "end_char": 2606,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2610,
+            "end_char": 2640,
+            "label": "MISC",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2641,
+            "end_char": 2644,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2685,
+            "end_char": 2687,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2703,
+            "end_char": 2705,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2759,
+            "end_char": 2765,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 2798,
+            "end_char": 2800,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3873,
+            "end_char": 3886,
+            "label": "MISC",
+            "text": "degré.<br><br"
+          },
+          {
+            "start_char": 4235,
+            "end_char": 4245,
+            "label": "LOC",
+            "text": "La Réunion"
+          },
+          {
+            "start_char": 4263,
+            "end_char": 4267,
+            "label": "MISC",
+            "text": "CIMM"
+          },
+          {
+            "start_char": 4774,
+            "end_char": 4783,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4812,
+            "end_char": 4836,
+            "label": "ORG",
+            "text": "Dem.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4837,
+            "end_char": 4840,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4881,
+            "end_char": 4900,
+            "label": "PER",
+            "text": "M. Frédéric Maillot"
+          },
+          {
+            "start_char": 4986,
+            "end_char": 5012,
+            "label": "PER",
+            "text": "André Chassaigne.</strong>"
+          },
+          {
+            "start_char": 5058,
+            "end_char": 5061,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5092,
+            "end_char": 5115,
+            "label": "LOC",
+            "text": "Allez-y.<br><br><strong"
+          },
+          {
+            "start_char": 5119,
+            "end_char": 5135,
+            "label": "PER",
+            "text": "Frédéric Maillot"
+          },
+          {
+            "start_char": 5337,
+            "end_char": 5346,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 5350,
+            "end_char": 5380,
+            "label": "MISC",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5384,
+            "end_char": 5408,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 105,
+            "sentiment": "3 stars",
+            "score": 0.3004050552845001
+          },
+          {
+            "begin_char": 106,
+            "end_char": 187,
+            "sentiment": "3 stars",
+            "score": 0.24289673566818237
+          },
+          {
+            "begin_char": 188,
+            "end_char": 337,
+            "sentiment": "5 stars",
+            "score": 0.300421804189682
+          },
+          {
+            "begin_char": 338,
+            "end_char": 678,
+            "sentiment": "5 stars",
+            "score": 0.3467368483543396
+          },
+          {
+            "begin_char": 679,
+            "end_char": 976,
+            "sentiment": "4 stars",
+            "score": 0.28090617060661316
+          },
+          {
+            "begin_char": 977,
+            "end_char": 1084,
+            "sentiment": "3 stars",
+            "score": 0.39730075001716614
+          },
+          {
+            "begin_char": 1084,
+            "end_char": 1200,
+            "sentiment": "5 stars",
+            "score": 0.4760327935218811
+          },
+          {
+            "begin_char": 1201,
+            "end_char": 1450,
+            "sentiment": "2 stars",
+            "score": 0.3268984258174896
+          },
+          {
+            "begin_char": 1451,
+            "end_char": 1459,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1459,
+            "end_char": 1577,
+            "sentiment": "1 star",
+            "score": 0.33051928877830505
+          },
+          {
+            "begin_char": 1578,
+            "end_char": 1952,
+            "sentiment": "4 stars",
+            "score": 0.28406408429145813
+          },
+          {
+            "begin_char": 1953,
+            "end_char": 2028,
+            "sentiment": "1 star",
+            "score": 0.30667683482170105
+          },
+          {
+            "begin_char": 2029,
+            "end_char": 2161,
+            "sentiment": "3 stars",
+            "score": 0.2658005654811859
+          },
+          {
+            "begin_char": 2162,
+            "end_char": 2339,
+            "sentiment": "3 stars",
+            "score": 0.39834803342819214
+          },
+          {
+            "begin_char": 2339,
+            "end_char": 2517,
+            "sentiment": "5 stars",
+            "score": 0.6012139916419983
+          },
+          {
+            "begin_char": 2518,
+            "end_char": 2549,
+            "sentiment": "5 stars",
+            "score": 0.29552534222602844
+          },
+          {
+            "begin_char": 2550,
+            "end_char": 2659,
+            "sentiment": "4 stars",
+            "score": 0.32885822653770447
+          },
+          {
+            "begin_char": 2660,
+            "end_char": 2785,
+            "sentiment": "3 stars",
+            "score": 0.30180537700653076
+          },
+          {
+            "begin_char": 2786,
+            "end_char": 2838,
+            "sentiment": "4 stars",
+            "score": 0.30159011483192444
+          },
+          {
+            "begin_char": 2839,
+            "end_char": 3109,
+            "sentiment": "4 stars",
+            "score": 0.42330503463745117
+          },
+          {
+            "begin_char": 3110,
+            "end_char": 3410,
+            "sentiment": "4 stars",
+            "score": 0.38139960169792175
+          },
+          {
+            "begin_char": 3410,
+            "end_char": 3670,
+            "sentiment": "3 stars",
+            "score": 0.33034515380859375
+          },
+          {
+            "begin_char": 3671,
+            "end_char": 4055,
+            "sentiment": "5 stars",
+            "score": 0.5492332577705383
+          },
+          {
+            "begin_char": 4056,
+            "end_char": 4199,
+            "sentiment": "4 stars",
+            "score": 0.422179639339447
+          },
+          {
+            "begin_char": 4200,
+            "end_char": 4323,
+            "sentiment": "4 stars",
+            "score": 0.359129399061203
+          },
+          {
+            "begin_char": 4324,
+            "end_char": 4418,
+            "sentiment": "3 stars",
+            "score": 0.2878327965736389
+          },
+          {
+            "begin_char": 4419,
+            "end_char": 4545,
+            "sentiment": "4 stars",
+            "score": 0.3952914774417877
+          },
+          {
+            "begin_char": 4546,
+            "end_char": 4705,
+            "sentiment": "5 stars",
+            "score": 0.4158572852611542
+          },
+          {
+            "begin_char": 4706,
+            "end_char": 4735,
+            "sentiment": "5 stars",
+            "score": 0.5155129432678223
+          },
+          {
+            "begin_char": 4736,
+            "end_char": 4855,
+            "sentiment": "3 stars",
+            "score": 0.3109932839870453
+          },
+          {
+            "begin_char": 4856,
+            "end_char": 4901,
+            "sentiment": "4 stars",
+            "score": 0.23501187562942505
+          },
+          {
+            "begin_char": 4902,
+            "end_char": 5012,
+            "sentiment": "1 star",
+            "score": 0.3157968521118164
+          },
+          {
+            "begin_char": 5013,
+            "end_char": 5042,
+            "sentiment": "1 star",
+            "score": 0.4888559579849243
+          },
+          {
+            "begin_char": 5042,
+            "end_char": 5076,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 5077,
+            "end_char": 5091,
+            "sentiment": "1 star",
+            "score": 0.43435806035995483
+          },
+          {
+            "begin_char": 5092,
+            "end_char": 5116,
+            "sentiment": "5 stars",
+            "score": 0.565008819103241
+          },
+          {
+            "begin_char": 5116,
+            "end_char": 5136,
+            "sentiment": "4 stars",
+            "score": 0.2741239070892334
+          },
+          {
+            "begin_char": 5137,
+            "end_char": 5146,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5146,
+            "end_char": 5289,
+            "sentiment": "5 stars",
+            "score": 0.33466848731040955
+          },
+          {
+            "begin_char": 5290,
+            "end_char": 5409,
+            "sentiment": "3 stars",
+            "score": 0.34558600187301636
+          },
+          {
+            "begin_char": 5410,
+            "end_char": 5470,
+            "sentiment": "3 stars",
+            "score": 0.25215408205986023
+          },
+          {
+            "begin_char": 5470,
+            "end_char": 5478,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3317",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

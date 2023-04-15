@@ -1,0 +1,689 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG476",
+    "identifiant": {
+      "numero": "476",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "retraites : généralités",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "RÉFORME DES RETRAITES ET RACHAT DE TRIMESTRES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720222",
+        "mandatRef": "PM796830"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DES RETRAITES ET RACHAT DE TRIMESTRES <a name=PG5></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Éric Girardin.<br><br><strong>M. Éric Girardin. </strong>Monsieur le ministre du travail, du plein emploi et de l’insertion, en France, nous disposons d’un formidable système de solidarité intergénérationnelle,…<br><br><strong>M. Sébastien Jumel.</strong> C'est pour ça que vous voulez le casser !<br><br><strong>M. Éric Girardin. </strong>…dans lequel les actifs cotisent et mettent à disposition leur force de travail pour financer le repos de nos aînés. Or, la démographie et les réalités économiques ont fortement changé depuis l’après-guerre.<br><br><strong>Un député du groupe LR .</strong> Sans blague !<br><br><strong>M. Éric Girardin. </strong>Si le solde du système de retraite est positif en 2023, le Conseil d’orientation des retraites, organisme indépendant, prévoit un déficit durable de notre système de retraite allant jusqu’à 21 milliards d’euros en 2035,…<br><br><strong>M. Pierre Cordier.</strong> Ce n'est pas ce qu'a dit le Président de la République hier !<br><br><strong>M. Éric Girardin. </strong>…avec un déficit cumulé d’ici dix ans de près de 150 milliards d’euros, vous l'avez précisé à l'instant.<br><br>Je tiens à rappeler devant tous nos collègues cette réalité économique et budgétaire : gouverner, c’est prévoir. Notre responsabilité collective est donc de garantir une retraite à nos enfants et à nos petits-enfants, en s'assurant de la pérennité de notre système et de son équilibre financier.<br><br>Pour ce faire, nous proposons une réforme progressive qui rendra notre système plus juste <i>(Protestations sur plusieurs bancs des groupes LFI-NUPES et GDR-NUPES)</i> en protégeant les salariés qui ont eu une carrière longue et difficile, ainsi que les travailleurs handicapés et en augmentant le minimum de pension de 100 euros par mois pour une carrière complète. Nous créerons également un index senior afin que les actifs les plus âgés retrouvent toute leur place dans l’entreprise – c'est capital. (Mêmes mouvements.)<br><br>Monsieur le ministre, en complément de tous ces progrès, vous avez indiqué en commission vouloir améliorer l'information sur le rachat de trimestres et simplifier ses modalités pour ceux qui ont été étudiant ou stagiaire.<br><br>Alors que nous prolongeons la durée de cotisation et repoussons l’âge de départ à la retraite, ne pensez-vous pas qu'une simplification de ce mécanisme – actuellement soumis à des conditions relativement restrictives – permettrait aux jeunes de mieux s'impliquer dans la construction de leur propre retraite ? <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Je ne reviens pas sur l'équilibre général de la réforme,…<br><br><strong>M. Benjamin Lucas.</strong> Il vaut mieux, car vous vous y prenez mal !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>…que vous avez rappelé avec justesse. Vous l'avez dit, le rachat de trimestres consacrés aux études est possible.<br><br><strong>M. Pierre Cordier.</strong> Tout le monde n'a pas les moyens !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Nous devons à la fois améliorer l'information des assurés et desserrer les délais de recours à ce mécanisme, afin que les rachats soient possibles quand les assurés peuvent les assumer le plus facilement.<br><br>Je rappelle en outre la possibilité, très peu connue, de racheter les trimestres des stages effectués durant un cursus d'étude ou à la fin de celui-ci.<br><br><strong>M. Pierre Cordier.</strong> Quels ouvriers auront les moyens ?<br><br><strong>M. Olivier Dussopt,</strong><i> ministre. </i>C'est très avantageux, car cela permet de racheter un trimestre pour 440 euros. La loi garantissant l'avenir et la justice du système de retraites, adoptée en 2013, qui a créé ce mécanisme, a toutefois restreint le recours à celui-ci aux deux années suivant la fin du stage.<br><br><strong>M. Louis Boyard.</strong> Merci ! Quelle bonté !<br><br><strong>Mme Nadia Hai.</strong> Écoutez le ministre, au moins !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Ce délai est trop court, car deux ans après un stage, certains poursuivent leurs études, ou ne sont pas dans une situation professionnelle leur permettant un rachat, même aux tarifs fixés.<br><br><strong>M. Sébastien Jumel.</strong> Une mesure pour les enfants gâtés !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Je l'ai indiqué hier en commission des affaires sociales, en réponse à une question de M. Maillard, le Gouvernement est entièrement ouvert à un aménagement, à une amélioration de ce dispositif, d'ici à l'examen de la réforme en séance publique. Nous pourrions ainsi étendre le délai de rachat et déterminer un âge jusqu'auquel un assuré peut racheter ses trimestres de stage et reconstituer sa carrière à un coût abordable pour l'ensemble des actifs. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 54,
+            "label": "MISC",
+            "text": "RÉFORME DES RETRAITES ET RACHAT"
+          },
+          {
+            "start_char": 58,
+            "end_char": 68,
+            "label": "ORG",
+            "text": "TRIMESTRES"
+          },
+          {
+            "start_char": 77,
+            "end_char": 84,
+            "label": "PER",
+            "text": "PG5></a"
+          },
+          {
+            "start_char": 102,
+            "end_char": 105,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 146,
+            "end_char": 153,
+            "label": "PER",
+            "text": "M. Éric"
+          },
+          {
+            "start_char": 182,
+            "end_char": 195,
+            "label": "PER",
+            "text": "Éric Girardin"
+          },
+          {
+            "start_char": 206,
+            "end_char": 214,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 261,
+            "end_char": 272,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 277,
+            "end_char": 283,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 379,
+            "end_char": 404,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 465,
+            "end_char": 478,
+            "label": "PER",
+            "text": "Éric Girardin"
+          },
+          {
+            "start_char": 681,
+            "end_char": 683,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 732,
+            "end_char": 734,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 778,
+            "end_char": 791,
+            "label": "PER",
+            "text": "Éric Girardin"
+          },
+          {
+            "start_char": 861,
+            "end_char": 868,
+            "label": "ORG",
+            "text": "Conseil"
+          },
+          {
+            "start_char": 984,
+            "end_char": 990,
+            "label": "PER",
+            "text": "jusqu’"
+          },
+          {
+            "start_char": 1041,
+            "end_char": 1064,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 1094,
+            "end_char": 1120,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1146,
+            "end_char": 1159,
+            "label": "PER",
+            "text": "Éric Girardin"
+          },
+          {
+            "start_char": 1194,
+            "end_char": 1196,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1266,
+            "end_char": 1281,
+            "label": "MISC",
+            "text": "instant.<br><br"
+          },
+          {
+            "start_char": 1380,
+            "end_char": 1382,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 1725,
+            "end_char": 1734,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1738,
+            "end_char": 1751,
+            "label": "LOC",
+            "text": "GDR-NUPES)</i"
+          },
+          {
+            "start_char": 2059,
+            "end_char": 2071,
+            "label": "MISC",
+            "text": "l’entreprise"
+          },
+          {
+            "start_char": 2090,
+            "end_char": 2095,
+            "label": "LOC",
+            "text": "Mêmes"
+          },
+          {
+            "start_char": 2116,
+            "end_char": 2124,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2327,
+            "end_char": 2344,
+            "label": "MISC",
+            "text": "stagiaire.<br><br"
+          },
+          {
+            "start_char": 2409,
+            "end_char": 2411,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2705,
+            "end_char": 2728,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2729,
+            "end_char": 2732,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2773,
+            "end_char": 2775,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2822,
+            "end_char": 2824,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2850,
+            "end_char": 2860,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2925,
+            "end_char": 2936,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 3018,
+            "end_char": 3041,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong"
+          },
+          {
+            "start_char": 3102,
+            "end_char": 3112,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3281,
+            "end_char": 3304,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 3356,
+            "end_char": 3366,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3785,
+            "end_char": 3815,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong> Quels"
+          },
+          {
+            "start_char": 3860,
+            "end_char": 3870,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4199,
+            "end_char": 4229,
+            "label": "PER",
+            "text": "Louis Boyard.</strong> Merci !"
+          },
+          {
+            "start_char": 4260,
+            "end_char": 4283,
+            "label": "PER",
+            "text": "Mme Nadia Hai.</strong>"
+          },
+          {
+            "start_char": 4331,
+            "end_char": 4341,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4585,
+            "end_char": 4609,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong"
+          },
+          {
+            "start_char": 4662,
+            "end_char": 4672,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4796,
+            "end_char": 4807,
+            "label": "PER",
+            "text": "M. Maillard"
+          },
+          {
+            "start_char": 4812,
+            "end_char": 4824,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 5210,
+            "end_char": 5221,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 68,
+            "sentiment": "4 stars",
+            "score": 0.4725070297718048
+          },
+          {
+            "begin_char": 69,
+            "end_char": 120,
+            "sentiment": "3 stars",
+            "score": 0.30178302526474
+          },
+          {
+            "begin_char": 121,
+            "end_char": 196,
+            "sentiment": "3 stars",
+            "score": 0.254621297121048
+          },
+          {
+            "begin_char": 197,
+            "end_char": 206,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 206,
+            "end_char": 404,
+            "sentiment": "5 stars",
+            "score": 0.5362531542778015
+          },
+          {
+            "begin_char": 405,
+            "end_char": 479,
+            "sentiment": "1 star",
+            "score": 0.7327725291252136
+          },
+          {
+            "begin_char": 480,
+            "end_char": 605,
+            "sentiment": "5 stars",
+            "score": 0.3153076767921448
+          },
+          {
+            "begin_char": 606,
+            "end_char": 759,
+            "sentiment": "5 stars",
+            "score": 0.233572319149971
+          },
+          {
+            "begin_char": 759,
+            "end_char": 792,
+            "sentiment": "3 stars",
+            "score": 0.2759149372577667
+          },
+          {
+            "begin_char": 793,
+            "end_char": 802,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 802,
+            "end_char": 1065,
+            "sentiment": "3 stars",
+            "score": 0.32862502336502075
+          },
+          {
+            "begin_char": 1066,
+            "end_char": 1127,
+            "sentiment": "1 star",
+            "score": 0.4903942048549652
+          },
+          {
+            "begin_char": 1127,
+            "end_char": 1160,
+            "sentiment": "3 stars",
+            "score": 0.2759149372577667
+          },
+          {
+            "begin_char": 1161,
+            "end_char": 1282,
+            "sentiment": "2 stars",
+            "score": 0.3370022177696228
+          },
+          {
+            "begin_char": 1282,
+            "end_char": 1394,
+            "sentiment": "5 stars",
+            "score": 0.5862517356872559
+          },
+          {
+            "begin_char": 1395,
+            "end_char": 1585,
+            "sentiment": "5 stars",
+            "score": 0.5392211079597473
+          },
+          {
+            "begin_char": 1585,
+            "end_char": 1951,
+            "sentiment": "5 stars",
+            "score": 0.5228469967842102
+          },
+          {
+            "begin_char": 1952,
+            "end_char": 2088,
+            "sentiment": "5 stars",
+            "score": 0.6028717756271362
+          },
+          {
+            "begin_char": 2089,
+            "end_char": 2116,
+            "sentiment": "3 stars",
+            "score": 0.26917794346809387
+          },
+          {
+            "begin_char": 2116,
+            "end_char": 2654,
+            "sentiment": "4 stars",
+            "score": 0.4044497013092041
+          },
+          {
+            "begin_char": 2655,
+            "end_char": 2747,
+            "sentiment": "3 stars",
+            "score": 0.30941691994667053
+          },
+          {
+            "begin_char": 2748,
+            "end_char": 2881,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 2882,
+            "end_char": 2937,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 2938,
+            "end_char": 2942,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2942,
+            "end_char": 3042,
+            "sentiment": "3 stars",
+            "score": 0.3220888674259186
+          },
+          {
+            "begin_char": 3043,
+            "end_char": 3086,
+            "sentiment": "2 stars",
+            "score": 0.355736643075943
+          },
+          {
+            "begin_char": 3086,
+            "end_char": 3144,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 3145,
+            "end_char": 3186,
+            "sentiment": "5 stars",
+            "score": 0.3510498106479645
+          },
+          {
+            "begin_char": 3187,
+            "end_char": 3340,
+            "sentiment": "2 stars",
+            "score": 0.35738351941108704
+          },
+          {
+            "begin_char": 3340,
+            "end_char": 3398,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 3399,
+            "end_char": 3403,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3403,
+            "end_char": 3615,
+            "sentiment": "5 stars",
+            "score": 0.45992040634155273
+          },
+          {
+            "begin_char": 3615,
+            "end_char": 3844,
+            "sentiment": "3 stars",
+            "score": 0.31885895133018494
+          },
+          {
+            "begin_char": 3844,
+            "end_char": 3901,
+            "sentiment": "3 stars",
+            "score": 0.29729530215263367
+          },
+          {
+            "begin_char": 3902,
+            "end_char": 3985,
+            "sentiment": "5 stars",
+            "score": 0.4871751666069031
+          },
+          {
+            "begin_char": 3986,
+            "end_char": 4229,
+            "sentiment": "4 stars",
+            "score": 0.38662078976631165
+          },
+          {
+            "begin_char": 4230,
+            "end_char": 4244,
+            "sentiment": "5 stars",
+            "score": 0.6806042790412903
+          },
+          {
+            "begin_char": 4244,
+            "end_char": 4283,
+            "sentiment": "3 stars",
+            "score": 0.3018344044685364
+          },
+          {
+            "begin_char": 4284,
+            "end_char": 4315,
+            "sentiment": "5 stars",
+            "score": 0.29617807269096375
+          },
+          {
+            "begin_char": 4315,
+            "end_char": 4373,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 4374,
+            "end_char": 4378,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4378,
+            "end_char": 4610,
+            "sentiment": "2 stars",
+            "score": 0.4751283824443817
+          },
+          {
+            "begin_char": 4611,
+            "end_char": 4646,
+            "sentiment": "5 stars",
+            "score": 0.3694772720336914
+          },
+          {
+            "begin_char": 4646,
+            "end_char": 4704,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 4705,
+            "end_char": 4709,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4709,
+            "end_char": 4953,
+            "sentiment": "5 stars",
+            "score": 0.4425484538078308
+          },
+          {
+            "begin_char": 4954,
+            "end_char": 5159,
+            "sentiment": "4 stars",
+            "score": 0.432701051235199
+          },
+          {
+            "begin_char": 5160,
+            "end_char": 5222,
+            "sentiment": "3 stars",
+            "score": 0.3159869611263275
+          },
+          {
+            "begin_char": 5223,
+            "end_char": 5226,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-25",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-25",
+        "pageJO": "658",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

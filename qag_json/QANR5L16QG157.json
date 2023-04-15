@@ -1,0 +1,731 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG157",
+    "identifiant": {
+      "numero": "157",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "numérique",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "CYBERATTAQUES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719024",
+        "mandatRef": "PM796305"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition numérique et télécommunications",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de la transition numérique et des télécommunications"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition numérique et télécommunications",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de la transition numérique et des télécommunications"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CYBERATTAQUES <a name=PG20></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Christophe Blanchet.<br><br><strong>M. Christophe Blanchet. </strong>Monsieur le ministre délégué Barrot, permettez-moi de vous féliciter, au nom du groupe Démocrate (MODEM et indépendants), pour votre brillante réélection ce week-end dans la deuxième circonscription des Yvelines. <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</i><br><br>Avec 173 000 dossiers ouverts en 2021, notre pays a subi une augmentation de 65 % des attaques cybercriminelles. Auparavant, les assaillants s'en prenaient aux grandes entreprises, qui depuis se protègent mieux. Ils se sont ensuite mis à attaquer les PME et désormais, les collectivités. À chaque fois, on constate le même procédé : le vol des fichiers des clients, des patients ou de la comptabilité et la réclamation d'une rançon en échange de leur éventuelle restitution. Ces attaques entraînent une interruption d'activité, la détérioration du matériel informatique, la fuite de données et un impact négatif en matière de notoriété.<br><br>Pour les entreprises, les sommes dérobées s'établissent entre 5 000 euros et plus de 100 000 euros, représentant une perte moyenne de 27 % du chiffre d'affaires en 2021. Mais combien cela représente-t-il pour les collectivités et pour les hôpitaux comme ceux de Dax, Corbeil-Essonnes, Paris et Rouen ? Il y a deux semaines, ce fut le tour de la mairie de Caen, où de nombreux services ont été arrêtés, dont l'accès aux offres d'emploi publiques et aux fichiers correspondants. Hier, le département de Seine-Maritime a été attaqué : là encore, de nombreux services et fichiers ont été affectés. L'accès aux démarches relatives aux allocations pour l'autonomie et le handicap est totalement indisponible.<br><br>Nous avons des soupçons quant aux pays d'où proviennent ces attaques. À l'heure de la guerre en Ukraine, nous savons que le cyber fait partie des armes modernes de déstabilisation. Des organisations criminelles se structurent en industrie du cyber. Comment mieux protéger le tissu économique, les hôpitaux et les collectivités contre ces attaques massives de plus en plus récurrentes, qui fournissent à ces organisations un butin conséquent et précieux ? <i>(Applaudissements sur plusieurs bancs des groupes Dem, RE et HOR.)</i> <br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé de la transition numérique et des télécommunications.<br><br><strong>M. Erwan Balanant.</strong> Monsieur 72 % !<br><br><strong>M. Jean-Noël Barrot,</strong><i> ministre délégué chargé de la transition numérique et des télécommunications. </i>Merci pour vos félicitations : ce résultat sonne comme un encouragement à poursuivre le travail engagé sous l'autorité du Président de la République et de la Première ministre…<br><br><strong>M. Hadrien Clouet.</strong> Il ne faut pas exagérer !<br><br><strong>M. Jean-Noël Barrot,</strong><i> ministre délégué. </i>…dans le dialogue, le compromis et le respect des institutions – cela va sans dire mais, semble-t-il, encore mieux en le disant –, toujours au service de l'intérêt général. <i>(Applaudissements sur quelques bancs des groupes Dem et RE.)</i><br><br><strong>M. Erwan Balanant.</strong> Très bien !<br><br><strong>M. Jean-Noël Barrot,</strong><i> ministre délégué . </i>Vous m'interrogez au sujet de l'attaque brutale qui a frappé le département de Seine-Maritime dimanche. J'ai pu m'entretenir avec le président du conseil départemental, Bertrand Bellanger ; je tiens à saluer la réponse exemplaire apportée par les équipes du département, qui ont sollicité les autorités compétentes dans les minutes suivant le début de l'attaque. Comme 700 autres collectivités, la Seine-Maritime était entrée dans un parcours de sécurisation dispensé par l'Anssi (Agence nationale de la sécurité des systèmes d’information) dans le cadre du plan de relance ; cela a certainement contribué à limiter les conséquences dramatiques de cette attaque.<br><br>Ce qui s'est passé dans les hôpitaux de Dax et de Corbeil-Essonnes, à la mairie de Caen et dimanche, au département de Seine-Maritime, nous rappelle que la cybercriminalité est une grande menace de notre temps. La criminalité et la délinquance migrent dans l'espace numérique ; nous devons tout mettre en œuvre et redoubler d'efforts pour y faire face. Prévention, répression et remédiation : c'est ainsi que nous voulons, avec Bruno Le Maire, répondre à cette nouvelle menace.<br><br>L'Anssi accomplit un travail remarquable d'accompagnement et de remédiation. La Première ministre a décidé de renforcer ses effectifs dans le cadre du projet de loi de finances pour 2023. Chaque jour, le site internet cybermalveillance.gouv.fr accompagne des dizaines de milliers de victimes – collectivités, entreprises, particuliers. Parlez-en autour de vous, mesdames et messieurs les députés : en cas de doute, il faut le consulter. Enfin, le projet de loi d'orientation et de programmation du ministère de l'intérieur, présenté aujourd'hui au Sénat par le ministre et prochainement examiné par l'Assemblée, prévoit des investissements en matière de cybersécurité. Vous l'avez compris, nous sommes pleinement mobilisés pour apporter des réponses à cette menace. <i>(Applaudissements sur les bancs des groupes Dem, RE et HOR.)</i><br><br><strong>M. Bruno Millienne.</strong> Bravo !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 36,
+            "label": "ORG",
+            "text": "CYBERATTAQUES"
+          },
+          {
+            "start_char": 71,
+            "end_char": 74,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 115,
+            "end_char": 128,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 157,
+            "end_char": 176,
+            "label": "PER",
+            "text": "Christophe Blanchet"
+          },
+          {
+            "start_char": 187,
+            "end_char": 195,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 216,
+            "end_char": 222,
+            "label": "PER",
+            "text": "Barrot"
+          },
+          {
+            "start_char": 274,
+            "end_char": 283,
+            "label": "ORG",
+            "text": "Démocrate"
+          },
+          {
+            "start_char": 285,
+            "end_char": 290,
+            "label": "ORG",
+            "text": "MODEM"
+          },
+          {
+            "start_char": 361,
+            "end_char": 398,
+            "label": "LOC",
+            "text": "deuxième circonscription des Yvelines"
+          },
+          {
+            "start_char": 447,
+            "end_char": 449,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 451,
+            "end_char": 454,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 458,
+            "end_char": 474,
+            "label": "PER",
+            "text": "HOR.)</i><br><br"
+          },
+          {
+            "start_char": 1101,
+            "end_char": 1118,
+            "label": "MISC",
+            "text": "notoriété.<br><br"
+          },
+          {
+            "start_char": 1381,
+            "end_char": 1384,
+            "label": "LOC",
+            "text": "Dax"
+          },
+          {
+            "start_char": 1386,
+            "end_char": 1402,
+            "label": "LOC",
+            "text": "Corbeil-Essonnes"
+          },
+          {
+            "start_char": 1404,
+            "end_char": 1409,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 1413,
+            "end_char": 1418,
+            "label": "LOC",
+            "text": "Rouen"
+          },
+          {
+            "start_char": 1474,
+            "end_char": 1478,
+            "label": "LOC",
+            "text": "Caen"
+          },
+          {
+            "start_char": 1605,
+            "end_char": 1619,
+            "label": "LOC",
+            "text": "département de"
+          },
+          {
+            "start_char": 1620,
+            "end_char": 1634,
+            "label": "LOC",
+            "text": "Seine-Maritime"
+          },
+          {
+            "start_char": 1808,
+            "end_char": 1828,
+            "label": "MISC",
+            "text": "indisponible.<br><br"
+          },
+          {
+            "start_char": 1925,
+            "end_char": 1932,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 2337,
+            "end_char": 2340,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 2342,
+            "end_char": 2344,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 2348,
+            "end_char": 2356,
+            "label": "LOC",
+            "text": "HOR.)</i"
+          },
+          {
+            "start_char": 2374,
+            "end_char": 2377,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2418,
+            "end_char": 2420,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2517,
+            "end_char": 2553,
+            "label": "PER",
+            "text": "M. Erwan Balanant.</strong> Monsieur"
+          },
+          {
+            "start_char": 2691,
+            "end_char": 2696,
+            "label": "LOC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 2813,
+            "end_char": 2839,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 2849,
+            "end_char": 2866,
+            "label": "MISC",
+            "text": "Première ministre"
+          },
+          {
+            "start_char": 2886,
+            "end_char": 2893,
+            "label": "PER",
+            "text": "Hadrien"
+          },
+          {
+            "start_char": 3232,
+            "end_char": 3235,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 3239,
+            "end_char": 3262,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3438,
+            "end_char": 3452,
+            "label": "LOC",
+            "text": "département de"
+          },
+          {
+            "start_char": 3453,
+            "end_char": 3467,
+            "label": "LOC",
+            "text": "Seine-Maritime"
+          },
+          {
+            "start_char": 3543,
+            "end_char": 3561,
+            "label": "PER",
+            "text": "Bertrand Bellanger"
+          },
+          {
+            "start_char": 3772,
+            "end_char": 3786,
+            "label": "LOC",
+            "text": "Seine-Maritime"
+          },
+          {
+            "start_char": 3848,
+            "end_char": 3853,
+            "label": "LOC",
+            "text": "Anssi"
+          },
+          {
+            "start_char": 3855,
+            "end_char": 3913,
+            "label": "ORG",
+            "text": "Agence nationale de la sécurité des systèmes d’information"
+          },
+          {
+            "start_char": 4028,
+            "end_char": 4043,
+            "label": "MISC",
+            "text": "attaque.<br><br"
+          },
+          {
+            "start_char": 4084,
+            "end_char": 4087,
+            "label": "LOC",
+            "text": "Dax"
+          },
+          {
+            "start_char": 4094,
+            "end_char": 4110,
+            "label": "LOC",
+            "text": "Corbeil-Essonnes"
+          },
+          {
+            "start_char": 4127,
+            "end_char": 4131,
+            "label": "LOC",
+            "text": "Caen"
+          },
+          {
+            "start_char": 4148,
+            "end_char": 4162,
+            "label": "LOC",
+            "text": "département de"
+          },
+          {
+            "start_char": 4163,
+            "end_char": 4177,
+            "label": "LOC",
+            "text": "Seine-Maritime"
+          },
+          {
+            "start_char": 4472,
+            "end_char": 4486,
+            "label": "PER",
+            "text": "Bruno Le Maire"
+          },
+          {
+            "start_char": 4514,
+            "end_char": 4528,
+            "label": "MISC",
+            "text": "menace.<br><br"
+          },
+          {
+            "start_char": 4531,
+            "end_char": 4536,
+            "label": "LOC",
+            "text": "Anssi"
+          },
+          {
+            "start_char": 4609,
+            "end_char": 4617,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4865,
+            "end_char": 4871,
+            "label": "LOC",
+            "text": "Parlez"
+          },
+          {
+            "start_char": 5077,
+            "end_char": 5082,
+            "label": "ORG",
+            "text": "Sénat"
+          },
+          {
+            "start_char": 5130,
+            "end_char": 5139,
+            "label": "ORG",
+            "text": "Assemblée"
+          },
+          {
+            "start_char": 5342,
+            "end_char": 5345,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 5347,
+            "end_char": 5349,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5353,
+            "end_char": 5405,
+            "label": "MISC",
+            "text": "HOR.)</i><br><br><strong>M. Bruno Millienne.</strong"
+          },
+          {
+            "start_char": 5407,
+            "end_char": 5412,
+            "label": "PER",
+            "text": "Bravo"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 89,
+            "sentiment": "3 stars",
+            "score": 0.26061201095581055
+          },
+          {
+            "begin_char": 90,
+            "end_char": 154,
+            "sentiment": "3 stars",
+            "score": 0.2621370255947113
+          },
+          {
+            "begin_char": 154,
+            "end_char": 177,
+            "sentiment": "4 stars",
+            "score": 0.30316779017448425
+          },
+          {
+            "begin_char": 178,
+            "end_char": 187,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 187,
+            "end_char": 399,
+            "sentiment": "5 stars",
+            "score": 0.4226919412612915
+          },
+          {
+            "begin_char": 400,
+            "end_char": 587,
+            "sentiment": "4 stars",
+            "score": 0.37311306595802307
+          },
+          {
+            "begin_char": 588,
+            "end_char": 686,
+            "sentiment": "4 stars",
+            "score": 0.33474457263946533
+          },
+          {
+            "begin_char": 687,
+            "end_char": 762,
+            "sentiment": "5 stars",
+            "score": 0.2727406322956085
+          },
+          {
+            "begin_char": 763,
+            "end_char": 949,
+            "sentiment": "1 star",
+            "score": 0.573095440864563
+          },
+          {
+            "begin_char": 950,
+            "end_char": 1288,
+            "sentiment": "2 stars",
+            "score": 0.3392164707183838
+          },
+          {
+            "begin_char": 1289,
+            "end_char": 1420,
+            "sentiment": "3 stars",
+            "score": 0.3293556571006775
+          },
+          {
+            "begin_char": 1421,
+            "end_char": 1595,
+            "sentiment": "3 stars",
+            "score": 0.235259011387825
+          },
+          {
+            "begin_char": 1596,
+            "end_char": 1712,
+            "sentiment": "1 star",
+            "score": 0.37540024518966675
+          },
+          {
+            "begin_char": 1713,
+            "end_char": 1829,
+            "sentiment": "2 stars",
+            "score": 0.28560253977775574
+          },
+          {
+            "begin_char": 1829,
+            "end_char": 1898,
+            "sentiment": "4 stars",
+            "score": 0.303836464881897
+          },
+          {
+            "begin_char": 1899,
+            "end_char": 2009,
+            "sentiment": "5 stars",
+            "score": 0.4896186590194702
+          },
+          {
+            "begin_char": 2010,
+            "end_char": 2077,
+            "sentiment": "4 stars",
+            "score": 0.29015684127807617
+          },
+          {
+            "begin_char": 2078,
+            "end_char": 2283,
+            "sentiment": "5 stars",
+            "score": 0.6224943399429321
+          },
+          {
+            "begin_char": 2284,
+            "end_char": 2357,
+            "sentiment": "3 stars",
+            "score": 0.30345872044563293
+          },
+          {
+            "begin_char": 2358,
+            "end_char": 2392,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2393,
+            "end_char": 2560,
+            "sentiment": "4 stars",
+            "score": 0.26773005723953247
+          },
+          {
+            "begin_char": 2560,
+            "end_char": 2608,
+            "sentiment": "3 stars",
+            "score": 0.3268654942512512
+          },
+          {
+            "begin_char": 2609,
+            "end_char": 2686,
+            "sentiment": "4 stars",
+            "score": 0.35812908411026
+          },
+          {
+            "begin_char": 2687,
+            "end_char": 2691,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2691,
+            "end_char": 2910,
+            "sentiment": "5 stars",
+            "score": 0.6358977556228638
+          },
+          {
+            "begin_char": 2911,
+            "end_char": 2936,
+            "sentiment": "4 stars",
+            "score": 0.23222361505031586
+          },
+          {
+            "begin_char": 2936,
+            "end_char": 2984,
+            "sentiment": "3 stars",
+            "score": 0.3268654942512512
+          },
+          {
+            "begin_char": 2985,
+            "end_char": 3002,
+            "sentiment": "4 stars",
+            "score": 0.3341301381587982
+          },
+          {
+            "begin_char": 3003,
+            "end_char": 3179,
+            "sentiment": "5 stars",
+            "score": 0.47263815999031067
+          },
+          {
+            "begin_char": 3180,
+            "end_char": 3302,
+            "sentiment": "4 stars",
+            "score": 0.4992562234401703
+          },
+          {
+            "begin_char": 3302,
+            "end_char": 3350,
+            "sentiment": "3 stars",
+            "score": 0.3268654942512512
+          },
+          {
+            "begin_char": 3351,
+            "end_char": 3369,
+            "sentiment": "4 stars",
+            "score": 0.33653131127357483
+          },
+          {
+            "begin_char": 3370,
+            "end_char": 3477,
+            "sentiment": "3 stars",
+            "score": 0.24769911170005798
+          },
+          {
+            "begin_char": 3478,
+            "end_char": 3563,
+            "sentiment": "4 stars",
+            "score": 0.38247817754745483
+          },
+          {
+            "begin_char": 3564,
+            "end_char": 3736,
+            "sentiment": "5 stars",
+            "score": 0.4975290298461914
+          },
+          {
+            "begin_char": 3737,
+            "end_char": 3949,
+            "sentiment": "4 stars",
+            "score": 0.39417213201522827
+          },
+          {
+            "begin_char": 3950,
+            "end_char": 4254,
+            "sentiment": "4 stars",
+            "score": 0.41462263464927673
+          },
+          {
+            "begin_char": 4255,
+            "end_char": 4321,
+            "sentiment": "5 stars",
+            "score": 0.2570817172527313
+          },
+          {
+            "begin_char": 4322,
+            "end_char": 4396,
+            "sentiment": "5 stars",
+            "score": 0.5148738622665405
+          },
+          {
+            "begin_char": 4397,
+            "end_char": 4529,
+            "sentiment": "5 stars",
+            "score": 0.5038844347000122
+          },
+          {
+            "begin_char": 4529,
+            "end_char": 4605,
+            "sentiment": "5 stars",
+            "score": 0.5916420221328735
+          },
+          {
+            "begin_char": 4606,
+            "end_char": 4716,
+            "sentiment": "4 stars",
+            "score": 0.40053775906562805
+          },
+          {
+            "begin_char": 4717,
+            "end_char": 4864,
+            "sentiment": "5 stars",
+            "score": 0.5570700168609619
+          },
+          {
+            "begin_char": 4865,
+            "end_char": 4965,
+            "sentiment": "5 stars",
+            "score": 0.41680237650871277
+          },
+          {
+            "begin_char": 4966,
+            "end_char": 5197,
+            "sentiment": "4 stars",
+            "score": 0.46203598380088806
+          },
+          {
+            "begin_char": 5198,
+            "end_char": 5294,
+            "sentiment": "5 stars",
+            "score": 0.6186840534210205
+          },
+          {
+            "begin_char": 5295,
+            "end_char": 5414,
+            "sentiment": "5 stars",
+            "score": 0.5143259763717651
+          },
+          {
+            "begin_char": 5414,
+            "end_char": 5422,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-12",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-12",
+        "pageJO": "3870",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

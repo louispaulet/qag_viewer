@@ -1,0 +1,647 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG98",
+    "identifiant": {
+      "numero": "98",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "maladies",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Variole du singe"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795076",
+        "mandatRef": "PM797289"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> VARIOLE DU SINGE <a name=PG17></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Sandrine Rousseau.<br><br><strong>Mme Sandrine Rousseau. </strong>Avant de poser ma question, je voudrais dire à Mme la Première ministre qu’il est indigne de qualifier les députés de La France insoumise d'antisémites, que l'antisémitisme se règle dans les tribunaux et que sa banalisation contribue à sa diffusion. <i>(Applaudissements sur les bancs des groupes Écolo-NUPES et LFI-NUPES et sur plusieurs bancs des groupes SOC et GDR-NUPES.)</i><br><br>Hier, je me suis rendue au grand centre de vaccination, le vaccinodrome, contre la variole dite du singe, terme que je n'emploierai plus puisqu'il contribue à la honte que peuvent ressentir les personnes infectées qui hésitent à se faire dépister.<br><br><strong>M. Aurélien Pradié.</strong> C'est surtout une honte pour les singes !<br><br><strong>Mme Sandrine Rousseau. </strong>Je mets le terme « grand » entre guillemets, tellement il est usurpé. Hier, nous étions le 1er août et il y avait en tout et pour tout, dans le seul centre parisien dédié à cette maladie et qui est situé dans ma circonscription, trois cabines où les vaccinations sont effectuées toutes les dix minutes. Cela représente une capacité de vaccination de 150 personnes par jour, alors que 150 000 devraient être vaccinées dans Paris pour contenir l'épidémie. Dès que de nouveaux créneaux sont ouverts, les soignants sur place nous disent qu'ils sont pris en moins d'une heure.<br><br>Après les campagnes de vaccination contre la covid-19, nous savons comment mobiliser les moyens pour vacciner en grand nombre. L'Organisation mondiale de la santé (OMS) a décrété son niveau d'alerte maximal depuis plusieurs semaines. D'après la Première ministre, les doses ne manquent pas – bien –, mais l'ampleur des stocks est couverte par le secret défense. <br><br>Si nous avons des doses et si nous disposons des moyens logistiques, force est de constater que seule la volonté politique manque au déploiement d'un plan d'ampleur de lutte contre cette maladie. Je n'ose imaginer que cela soit en raison de la proportion inédite de ministres ayant eu des propos ou attitudes homophobes dans ce gouvernement. <i>(Applaudissements sur les bancs des groupes LFI-NUPES, SOC, Écolo-NUPES et GDR-NUPES.)</i> Je tiens d'ailleurs à saluer le rassemblement qui a eu lieu ce midi devant l'Assemblée. Quoi qu'il en soit, les mesures à prendre sont assez simples et peuvent l’être rapidement… (Applaudissements sur les bancs du groupe LFI-NUPES. – Mme Ségolène Amiot et M. Jean-François Coulomme se lèvent et applaudissent.)<br><br><strong>Mme la présidente.</strong> Merci, chère collègue…<br><br>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>Nous faisons en effet face à des contaminations et à une diffusion du virus Monkeypox. En France, 2 171 cas sont recensés ; 79 pays sont touchés pour 22 400 cas déclarés. Je veux d'abord avoir une pensée pour les personnes qui souffrent ou qui ont souffert de cette maladie. Si, dans l'écrasante majorité des cas, on observe en deux à trois semaines la rémission de la maladie sans séquelles durables, cette dernière peut être très douloureuse.<br><br>Dès les premières alertes sanitaires, nous avons répondu pour prévenir le plus possible la diffusion du virus. La France a été un des premiers pays du monde à ouvrir la vaccination préventive, dès l’avis de la Haute Autorité de santé (HAS), avant même que l'Organisation mondiale de la santé ne donne l'alerte sur cette maladie. Cette vaccination est gratuite et nous la déployons sur tout le territoire : 136 centres de vaccination sont actuellement ouverts et 42 000 doses de vaccins ont été livrées. Je tiens à vous le dire : nous avons suffisamment de doses pour vacciner l'ensemble de la population cible, estimée à 250 000 personnes par la HAS.<br><br>Madame Rousseau, nous avons notamment ouvert dans votre circonscription, avenue Edison, un centre de vaccination de grande capacité et un centre similaire ouvrira très prochainement à Marseille. Nous avons également permis aux étudiants en médecine de procéder aux vaccinations afin de disposer de plus de bras car vous avez raison : c'est de bras qu'on a besoin pour cette vaccination.<br><br>Plus de 14 000 personnes ont été vaccinées et nous vaccinerons toutes celles qui le souhaitent. Nous cherchons également toutes les voies et tous les moyens pour diminuer le délai d'accès au vaccin, notamment dans les zones où la demande est élevée comme en région PACA – Provence-Alpes-Côte-d'Azur – et en Île-de-France. Je travaille à la mise en place d'une expérimentation avec les pharmaciens, mais nous devons prendre en considération les conditions spécifiques de stockage et de distribution de ce vaccin vivant atténué. Nous mettons aussi en avant la prévention, notamment en lien avec les associations avec lesquelles je m'entretiens très régulièrement. Nous avons fait en sorte que les tests de dépistage…<br><br><strong>Mme la présidente.</strong> Merci, monsieur le ministre.<br> <p>",
+        "entities": [
+          {
+            "start_char": 34,
+            "end_char": 39,
+            "label": "ORG",
+            "text": "SINGE"
+          },
+          {
+            "start_char": 74,
+            "end_char": 77,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 118,
+            "end_char": 130,
+            "label": "PER",
+            "text": "Mme Sandrine"
+          },
+          {
+            "start_char": 156,
+            "end_char": 177,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau"
+          },
+          {
+            "start_char": 235,
+            "end_char": 250,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 306,
+            "end_char": 315,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 485,
+            "end_char": 496,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 500,
+            "end_char": 509,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 545,
+            "end_char": 548,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 552,
+            "end_char": 574,
+            "label": "MISC",
+            "text": "GDR-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 841,
+            "end_char": 865,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 924,
+            "end_char": 945,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau"
+          },
+          {
+            "start_char": 1378,
+            "end_char": 1383,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 1521,
+            "end_char": 1534,
+            "label": "MISC",
+            "text": "heure.<br><br"
+          },
+          {
+            "start_char": 1664,
+            "end_char": 1697,
+            "label": "ORG",
+            "text": "Organisation mondiale de la santé"
+          },
+          {
+            "start_char": 1699,
+            "end_char": 1702,
+            "label": "ORG",
+            "text": "OMS"
+          },
+          {
+            "start_char": 1780,
+            "end_char": 1788,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 2294,
+            "end_char": 2303,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2305,
+            "end_char": 2308,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2310,
+            "end_char": 2321,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2325,
+            "end_char": 2339,
+            "label": "MISC",
+            "text": "GDR-NUPES.)</i"
+          },
+          {
+            "start_char": 2418,
+            "end_char": 2427,
+            "label": "ORG",
+            "text": "Assemblée"
+          },
+          {
+            "start_char": 2501,
+            "end_char": 2503,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2521,
+            "end_char": 2551,
+            "label": "MISC",
+            "text": "Applaudissements sur les bancs"
+          },
+          {
+            "start_char": 2562,
+            "end_char": 2571,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2575,
+            "end_char": 2587,
+            "label": "PER",
+            "text": "Mme Ségolène"
+          },
+          {
+            "start_char": 2597,
+            "end_char": 2622,
+            "label": "PER",
+            "text": "M. Jean-François Coulomme"
+          },
+          {
+            "start_char": 2667,
+            "end_char": 2694,
+            "label": "PER",
+            "text": "Mme la présidente.</strong>"
+          },
+          {
+            "start_char": 2741,
+            "end_char": 2743,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2807,
+            "end_char": 2815,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 2951,
+            "end_char": 2966,
+            "label": "MISC",
+            "text": "virus Monkeypox"
+          },
+          {
+            "start_char": 2971,
+            "end_char": 2977,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 3313,
+            "end_char": 3333,
+            "label": "MISC",
+            "text": "douloureuse.<br><br>"
+          },
+          {
+            "start_char": 3444,
+            "end_char": 3453,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 3530,
+            "end_char": 3532,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 3543,
+            "end_char": 3566,
+            "label": "ORG",
+            "text": "Haute Autorité de santé"
+          },
+          {
+            "start_char": 3568,
+            "end_char": 3571,
+            "label": "MISC",
+            "text": "HAS"
+          },
+          {
+            "start_char": 3591,
+            "end_char": 3624,
+            "label": "ORG",
+            "text": "Organisation mondiale de la santé"
+          },
+          {
+            "start_char": 3979,
+            "end_char": 3990,
+            "label": "LOC",
+            "text": "HAS.<br><br"
+          },
+          {
+            "start_char": 3991,
+            "end_char": 4006,
+            "label": "PER",
+            "text": "Madame Rousseau"
+          },
+          {
+            "start_char": 4064,
+            "end_char": 4077,
+            "label": "LOC",
+            "text": "avenue Edison"
+          },
+          {
+            "start_char": 4175,
+            "end_char": 4184,
+            "label": "LOC",
+            "text": "Marseille"
+          },
+          {
+            "start_char": 4365,
+            "end_char": 4384,
+            "label": "MISC",
+            "text": "vaccination.<br><br"
+          },
+          {
+            "start_char": 4650,
+            "end_char": 4683,
+            "label": "LOC",
+            "text": "PACA – Provence-Alpes-Côte-d'Azur"
+          },
+          {
+            "start_char": 4692,
+            "end_char": 4705,
+            "label": "LOC",
+            "text": "Île-de-France"
+          },
+          {
+            "start_char": 5115,
+            "end_char": 5142,
+            "label": "PER",
+            "text": "Mme la présidente.</strong>"
+          },
+          {
+            "start_char": 5143,
+            "end_char": 5148,
+            "label": "MISC",
+            "text": "Merci"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 92,
+            "sentiment": "1 star",
+            "score": 0.33184757828712463
+          },
+          {
+            "begin_char": 93,
+            "end_char": 178,
+            "sentiment": "3 stars",
+            "score": 0.25244197249412537
+          },
+          {
+            "begin_char": 179,
+            "end_char": 188,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 188,
+            "end_char": 437,
+            "sentiment": "5 stars",
+            "score": 0.5735310316085815
+          },
+          {
+            "begin_char": 438,
+            "end_char": 866,
+            "sentiment": "5 stars",
+            "score": 0.3204070031642914
+          },
+          {
+            "begin_char": 867,
+            "end_char": 908,
+            "sentiment": "1 star",
+            "score": 0.9050850868225098
+          },
+          {
+            "begin_char": 908,
+            "end_char": 946,
+            "sentiment": "3 stars",
+            "score": 0.28439125418663025
+          },
+          {
+            "begin_char": 947,
+            "end_char": 956,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 956,
+            "end_char": 1025,
+            "sentiment": "1 star",
+            "score": 0.5164932608604431
+          },
+          {
+            "begin_char": 1026,
+            "end_char": 1258,
+            "sentiment": "5 stars",
+            "score": 0.31138014793395996
+          },
+          {
+            "begin_char": 1259,
+            "end_char": 1409,
+            "sentiment": "3 stars",
+            "score": 0.24514883756637573
+          },
+          {
+            "begin_char": 1410,
+            "end_char": 1535,
+            "sentiment": "5 stars",
+            "score": 0.36312150955200195
+          },
+          {
+            "begin_char": 1535,
+            "end_char": 1661,
+            "sentiment": "5 stars",
+            "score": 0.4600019156932831
+          },
+          {
+            "begin_char": 1662,
+            "end_char": 1768,
+            "sentiment": "5 stars",
+            "score": 0.4069788157939911
+          },
+          {
+            "begin_char": 1769,
+            "end_char": 1896,
+            "sentiment": "3 stars",
+            "score": 0.3854644000530243
+          },
+          {
+            "begin_char": 1897,
+            "end_char": 1905,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1905,
+            "end_char": 2100,
+            "sentiment": "4 stars",
+            "score": 0.29311299324035645
+          },
+          {
+            "begin_char": 2101,
+            "end_char": 2246,
+            "sentiment": "1 star",
+            "score": 0.27489855885505676
+          },
+          {
+            "begin_char": 2247,
+            "end_char": 2340,
+            "sentiment": "4 stars",
+            "score": 0.33081525564193726
+          },
+          {
+            "begin_char": 2341,
+            "end_char": 2428,
+            "sentiment": "5 stars",
+            "score": 0.44914934039115906
+          },
+          {
+            "begin_char": 2429,
+            "end_char": 2587,
+            "sentiment": "4 stars",
+            "score": 0.46062153577804565
+          },
+          {
+            "begin_char": 2588,
+            "end_char": 2593,
+            "sentiment": "4 stars",
+            "score": 0.26132142543792725
+          },
+          {
+            "begin_char": 2594,
+            "end_char": 2694,
+            "sentiment": "4 stars",
+            "score": 0.3221299350261688
+          },
+          {
+            "begin_char": 2695,
+            "end_char": 2725,
+            "sentiment": "5 stars",
+            "score": 0.3569890558719635
+          },
+          {
+            "begin_char": 2725,
+            "end_char": 2834,
+            "sentiment": "4 stars",
+            "score": 0.32391050457954407
+          },
+          {
+            "begin_char": 2835,
+            "end_char": 2876,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 2877,
+            "end_char": 2881,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2881,
+            "end_char": 2967,
+            "sentiment": "1 star",
+            "score": 0.22584636509418488
+          },
+          {
+            "begin_char": 2968,
+            "end_char": 3004,
+            "sentiment": "3 stars",
+            "score": 0.23959338665008545
+          },
+          {
+            "begin_char": 3005,
+            "end_char": 3051,
+            "sentiment": "4 stars",
+            "score": 0.25321102142333984
+          },
+          {
+            "begin_char": 3052,
+            "end_char": 3155,
+            "sentiment": "5 stars",
+            "score": 0.5921262502670288
+          },
+          {
+            "begin_char": 3156,
+            "end_char": 3333,
+            "sentiment": "4 stars",
+            "score": 0.37138688564300537
+          },
+          {
+            "begin_char": 3333,
+            "end_char": 3443,
+            "sentiment": "5 stars",
+            "score": 0.4656350910663605
+          },
+          {
+            "begin_char": 3444,
+            "end_char": 3661,
+            "sentiment": "5 stars",
+            "score": 0.4443727731704712
+          },
+          {
+            "begin_char": 3662,
+            "end_char": 3835,
+            "sentiment": "5 stars",
+            "score": 0.7243967652320862
+          },
+          {
+            "begin_char": 3836,
+            "end_char": 3991,
+            "sentiment": "5 stars",
+            "score": 0.4684399962425232
+          },
+          {
+            "begin_char": 3991,
+            "end_char": 4145,
+            "sentiment": "5 stars",
+            "score": 0.3524825870990753
+          },
+          {
+            "begin_char": 4146,
+            "end_char": 4185,
+            "sentiment": "4 stars",
+            "score": 0.3946598470211029
+          },
+          {
+            "begin_char": 4186,
+            "end_char": 4480,
+            "sentiment": "5 stars",
+            "score": 0.5654729008674622
+          },
+          {
+            "begin_char": 4481,
+            "end_char": 4706,
+            "sentiment": "5 stars",
+            "score": 0.5632410645484924
+          },
+          {
+            "begin_char": 4707,
+            "end_char": 4911,
+            "sentiment": "4 stars",
+            "score": 0.42724692821502686
+          },
+          {
+            "begin_char": 4912,
+            "end_char": 5046,
+            "sentiment": "4 stars",
+            "score": 0.4784887433052063
+          },
+          {
+            "begin_char": 5047,
+            "end_char": 5175,
+            "sentiment": "5 stars",
+            "score": 0.36044859886169434
+          },
+          {
+            "begin_char": 5176,
+            "end_char": 5179,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3313",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

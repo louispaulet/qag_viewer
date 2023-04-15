@@ -1,0 +1,737 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG623",
+    "identifiant": {
+      "numero": "623",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "femmes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "RÉFORME DES RETRAITES ET ÉGALITÉ ENTRE FEMMES ET HOMMES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720480",
+        "mandatRef": "PM796944"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DES RETRAITES ET ÉGALITÉ ENTRE FEMMES ET HOMMES <a name=PG12></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Charlotte Parmentier-Lecocq.<br><br><strong>Mme Charlotte Parmentier-Lecocq. </strong>Monsieur le ministre du travail, du plein emploi et de l'insertion, les travaux sur le projet de réforme des retraites, qui se poursuivent au Sénat, permettront, je l'espère, de démontrer que cette réforme comporte des mesures favorables aux femmes même si nous n'avons malheureusement pas pu les aborder à cause de la regrettable obstruction menée par le groupe La France Insoumise. Je veux parler de la revalorisation des petites retraites, qui bénéficiera très majoritairement aux femmes. Je veux parler de la prise en compte des congés parentaux, qui bénéficiera très majoritairement aux femmes.<br><br><strong>M. Paul Vannier.</strong> Quelle blague !<br><br><strong>Mme Charlotte Parmentier-Lecocq. </strong>Je veux parler de la prise en compte des congés de proches aidants, qui bénéficiera très majoritairement aux femmes. De plus, la majorité, à travers plusieurs amendements défendus notamment par Véronique Riotton et Marie-Pierre Rixain, ainsi que par les groupes MODEM et Horizons, souhaite enrichir le texte…<br><br><strong>M. Ugo Bernalicis.</strong> À cause de l'article 47-1, c'est fichu !<br><br><strong>Mme Charlotte Parmentier-Lecocq. </strong>…et nous espérons que les débats au Sénat permettront de concrétiser ces avancées.<br><br><strong>M. Julien Dive.</strong> Ça sent la sincérité, comme question.<br><br><strong>Mme Charlotte Parmentier-Lecocq. </strong>De nouvelles pistes sont également à l'étude, notamment celle d'une surcote pour les femmes ayant eu au moins un enfant et atteint un nombre suffisant de trimestres avant l'âge de départ à la retraite. Pouvez-vous nous donner l'avis du Gouvernement sur ce point ?<br><br>Nous le savons, le montant des retraites des femmes est moins élevé tout simplement parce qu'il reflète des carrières moins bien rémunérées…<br><br><strong>M. Ugo Bernalicis.</strong> Brillant ! Et pourquoi sont-elles moins bien rémunérées ?<br><br><strong>Mme Charlotte Parmentier-Lecocq. </strong>…et souvent affectées par leur vie familiale. Quelles mesures envisagez-vous pour poursuivre le combat contre les inégalités salariales entre les hommes et les femmes et permettre aux femmes d'accéder aux mêmes carrières que les hommes ? <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>M. Ugo Bernalicis.</strong> Je parie qu'ils vont faire un index !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Vous m'interrogez sur la situation des femmes au moment du départ à la retraite et notre action en faveur de l'égalité professionnelle et de la réduction des inégalités de pension. Le texte que nous vous présentons, tel que nous l'avons élaboré avec Mme la Première ministre, prévoit plusieurs mesures en la matière, que vous avez évoquées. Je regrette moi aussi que votre assemblée n'ait pu les examiner.<br><br><strong>M. Ugo Bernalicis.</strong> Quelle forme ! Ce n'était pas un tartare, mais du lion qu'il a mangé ce matin !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre. </i>Mentionnons l'intégration de trimestres cotisés au titre de l'assurance vieillesse du parent au foyer, donc du congé parental, à la fois dans le calcul de l'éligibilité à la pension minimum et dans celui de l'éligibilité à un départ anticipé au titre du dispositif dit des carrières longues ;…<br><br><strong>M. Ugo Bernalicis.</strong> Les mensonges restent des mensonges !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>…le projet de création d'une assurance vieillesse pour les aidants – car nous savons que ce sont souvent des aidantes et que c'est une manière forte d'aider les femmes ; les amendements défendus par les députés, notamment ceux de la majorité…<br><br><strong>M. Ugo Bernalicis.</strong> Et les nôtres ? C'est sûr qu'en neuf jours de débats… Il en aurait fallu le triple !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>…– je pense notamment à celui déposé par M. Philippe Vigier, au nom du groupe MODEM, sur l'intégration des indemnités journalières touchées avant 2012 dans le calcul des pensions de retraite, afin de revaloriser celles-ci, ou aux amendements du groupe Horizons et du groupe communiste visant à mieux tenir compte des difficultés liées à la perte et au deuil d'un enfant en bas âge lors de la décision d'octroyer ou de maintenir la majoration de pension de 10 % pour le troisième enfant. J'espère la concrétisation de ces avancées par le Sénat et leur confirmation par votre assemblée.<br><br><strong>M. Paul Vannier.</strong> Pas de référence aux amendements LR ?<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>La majorité sénatoriale a en outre proposé un dispositif que nous étudions avec beaucoup de bienveillance.<br><br><strong>M. Ugo Bernalicis.</strong> La retraite par capitalisation ?<br><br><strong>M. Olivier Dussopt,</strong><i> ministre. </i>Lors de leur départ à la retraite, les femmes font valoir des trimestres au titre de leur carrière professionnelle, mais aussi au titre de leur maternité. Or, avec la réforme, lorsque leur carrière professionnelle sera complète, ces trimestres pourront sembler moins utiles. La majorité sénatoriale propose donc que, d'une part, les femmes ayant eu une carrière hachée – nous savons qu'elles sont plus nombreuses que les hommes – puissent continuer à bénéficier des majorations de durée en vigueur pour éviter la décote lors de la reconstitution de leur carrière, d'autre part que les femmes qui auraient atteint la durée de cotisation requise grâce aux trimestres de maternité puissent bénéficier d'une surcote à partir de 63 ans. Ce qui est perdu en matière d'âge de départ à la retraite pourra ainsi être gagné en surcote de la pension. Nous sommes favorables à un tel principe et continuerons à travailler avec la majorité sénatoriale. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 44,
+            "label": "MISC",
+            "text": "RÉFORME DES RETRAITES"
+          },
+          {
+            "start_char": 62,
+            "end_char": 68,
+            "label": "ORG",
+            "text": "FEMMES"
+          },
+          {
+            "start_char": 72,
+            "end_char": 78,
+            "label": "ORG",
+            "text": "HOMMES"
+          },
+          {
+            "start_char": 113,
+            "end_char": 116,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 157,
+            "end_char": 204,
+            "label": "PER",
+            "text": "Mme Charlotte Parmentier-Lecocq.<br><br><strong"
+          },
+          {
+            "start_char": 205,
+            "end_char": 236,
+            "label": "PER",
+            "text": "Mme Charlotte Parmentier-Lecocq"
+          },
+          {
+            "start_char": 247,
+            "end_char": 255,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 389,
+            "end_char": 394,
+            "label": "ORG",
+            "text": "Sénat"
+          },
+          {
+            "start_char": 610,
+            "end_char": 629,
+            "label": "ORG",
+            "text": "La France Insoumise"
+          },
+          {
+            "start_char": 865,
+            "end_char": 886,
+            "label": "PER",
+            "text": "Paul Vannier.</strong"
+          },
+          {
+            "start_char": 919,
+            "end_char": 950,
+            "label": "PER",
+            "text": "Mme Charlotte Parmentier-Lecocq"
+          },
+          {
+            "start_char": 1155,
+            "end_char": 1172,
+            "label": "PER",
+            "text": "Véronique Riotton"
+          },
+          {
+            "start_char": 1176,
+            "end_char": 1195,
+            "label": "PER",
+            "text": "Marie-Pierre Rixain"
+          },
+          {
+            "start_char": 1223,
+            "end_char": 1228,
+            "label": "ORG",
+            "text": "MODEM"
+          },
+          {
+            "start_char": 1232,
+            "end_char": 1240,
+            "label": "LOC",
+            "text": "Horizons"
+          },
+          {
+            "start_char": 1369,
+            "end_char": 1400,
+            "label": "PER",
+            "text": "Mme Charlotte Parmentier-Lecocq"
+          },
+          {
+            "start_char": 1447,
+            "end_char": 1452,
+            "label": "ORG",
+            "text": "Sénat"
+          },
+          {
+            "start_char": 1509,
+            "end_char": 1512,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 1512,
+            "end_char": 1533,
+            "label": "PER",
+            "text": "Julien Dive.</strong>"
+          },
+          {
+            "start_char": 1534,
+            "end_char": 1536,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 1587,
+            "end_char": 1618,
+            "label": "PER",
+            "text": "Mme Charlotte Parmentier-Lecocq"
+          },
+          {
+            "start_char": 1831,
+            "end_char": 1837,
+            "label": "PER",
+            "text": "Pouvez"
+          },
+          {
+            "start_char": 1865,
+            "end_char": 1877,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2157,
+            "end_char": 2188,
+            "label": "PER",
+            "text": "Mme Charlotte Parmentier-Lecocq"
+          },
+          {
+            "start_char": 2482,
+            "end_char": 2505,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2587,
+            "end_char": 2590,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2631,
+            "end_char": 2633,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2680,
+            "end_char": 2682,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2708,
+            "end_char": 2718,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2783,
+            "end_char": 2794,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 3050,
+            "end_char": 3065,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 3221,
+            "end_char": 3247,
+            "label": "PER",
+            "text": "M. Ugo Bernalicis.</strong"
+          },
+          {
+            "start_char": 3344,
+            "end_char": 3354,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3390,
+            "end_char": 3401,
+            "label": "LOC",
+            "text": "Mentionnons"
+          },
+          {
+            "start_char": 3780,
+            "end_char": 3790,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4213,
+            "end_char": 4223,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4301,
+            "end_char": 4303,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 4304,
+            "end_char": 4319,
+            "label": "PER",
+            "text": "Philippe Vigier"
+          },
+          {
+            "start_char": 4338,
+            "end_char": 4343,
+            "label": "ORG",
+            "text": "MODEM"
+          },
+          {
+            "start_char": 4512,
+            "end_char": 4520,
+            "label": "LOC",
+            "text": "Horizons"
+          },
+          {
+            "start_char": 4797,
+            "end_char": 4802,
+            "label": "ORG",
+            "text": "Sénat"
+          },
+          {
+            "start_char": 4863,
+            "end_char": 4884,
+            "label": "PER",
+            "text": "Paul Vannier.</strong"
+          },
+          {
+            "start_char": 4919,
+            "end_char": 4921,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 4939,
+            "end_char": 4949,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 5108,
+            "end_char": 5134,
+            "label": "PER",
+            "text": "M. Ugo Bernalicis.</strong"
+          },
+          {
+            "start_char": 5184,
+            "end_char": 5194,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 6221,
+            "end_char": 6232,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 96,
+            "sentiment": "4 stars",
+            "score": 0.3768213391304016
+          },
+          {
+            "begin_char": 97,
+            "end_char": 131,
+            "sentiment": "4 stars",
+            "score": 0.2742326259613037
+          },
+          {
+            "begin_char": 132,
+            "end_char": 237,
+            "sentiment": "3 stars",
+            "score": 0.26680001616477966
+          },
+          {
+            "begin_char": 238,
+            "end_char": 247,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 247,
+            "end_char": 630,
+            "sentiment": "4 stars",
+            "score": 0.44397154450416565
+          },
+          {
+            "begin_char": 631,
+            "end_char": 738,
+            "sentiment": "5 stars",
+            "score": 0.317192018032074
+          },
+          {
+            "begin_char": 739,
+            "end_char": 887,
+            "sentiment": "3 stars",
+            "score": 0.32295021414756775
+          },
+          {
+            "begin_char": 888,
+            "end_char": 903,
+            "sentiment": "1 star",
+            "score": 0.7894724607467651
+          },
+          {
+            "begin_char": 903,
+            "end_char": 951,
+            "sentiment": "3 stars",
+            "score": 0.28542912006378174
+          },
+          {
+            "begin_char": 952,
+            "end_char": 1077,
+            "sentiment": "4 stars",
+            "score": 0.2872200906276703
+          },
+          {
+            "begin_char": 1078,
+            "end_char": 1312,
+            "sentiment": "3 stars",
+            "score": 0.3338063955307007
+          },
+          {
+            "begin_char": 1313,
+            "end_char": 1353,
+            "sentiment": "1 star",
+            "score": 0.6316332221031189
+          },
+          {
+            "begin_char": 1353,
+            "end_char": 1401,
+            "sentiment": "3 stars",
+            "score": 0.28542912006378174
+          },
+          {
+            "begin_char": 1402,
+            "end_char": 1533,
+            "sentiment": "4 stars",
+            "score": 0.3545753061771393
+          },
+          {
+            "begin_char": 1534,
+            "end_char": 1619,
+            "sentiment": "3 stars",
+            "score": 0.34016525745391846
+          },
+          {
+            "begin_char": 1620,
+            "end_char": 1629,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1629,
+            "end_char": 1830,
+            "sentiment": "4 stars",
+            "score": 0.42020630836486816
+          },
+          {
+            "begin_char": 1831,
+            "end_char": 1892,
+            "sentiment": "3 stars",
+            "score": 0.319523423910141
+          },
+          {
+            "begin_char": 1892,
+            "end_char": 1900,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1900,
+            "end_char": 2094,
+            "sentiment": "5 stars",
+            "score": 0.7204076051712036
+          },
+          {
+            "begin_char": 2095,
+            "end_char": 2141,
+            "sentiment": "3 stars",
+            "score": 0.2603204548358917
+          },
+          {
+            "begin_char": 2141,
+            "end_char": 2189,
+            "sentiment": "3 stars",
+            "score": 0.28542912006378174
+          },
+          {
+            "begin_char": 2190,
+            "end_char": 2244,
+            "sentiment": "3 stars",
+            "score": 0.3483577072620392
+          },
+          {
+            "begin_char": 2245,
+            "end_char": 2436,
+            "sentiment": "5 stars",
+            "score": 0.4566406309604645
+          },
+          {
+            "begin_char": 2437,
+            "end_char": 2533,
+            "sentiment": "3 stars",
+            "score": 0.3443451523780823
+          },
+          {
+            "begin_char": 2534,
+            "end_char": 2571,
+            "sentiment": "1 star",
+            "score": 0.3895514905452728
+          },
+          {
+            "begin_char": 2571,
+            "end_char": 2605,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2606,
+            "end_char": 2739,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 2740,
+            "end_char": 2795,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 2796,
+            "end_char": 2980,
+            "sentiment": "5 stars",
+            "score": 0.44131577014923096
+          },
+          {
+            "begin_char": 2981,
+            "end_char": 3140,
+            "sentiment": "4 stars",
+            "score": 0.3921792507171631
+          },
+          {
+            "begin_char": 3141,
+            "end_char": 3263,
+            "sentiment": "1 star",
+            "score": 0.36139658093452454
+          },
+          {
+            "begin_char": 3264,
+            "end_char": 3328,
+            "sentiment": "1 star",
+            "score": 0.23786477744579315
+          },
+          {
+            "begin_char": 3328,
+            "end_char": 3385,
+            "sentiment": "3 stars",
+            "score": 0.29729530215263367
+          },
+          {
+            "begin_char": 3386,
+            "end_char": 3682,
+            "sentiment": "4 stars",
+            "score": 0.41566193103790283
+          },
+          {
+            "begin_char": 3682,
+            "end_char": 3726,
+            "sentiment": "3 stars",
+            "score": 0.29238444566726685
+          },
+          {
+            "begin_char": 3727,
+            "end_char": 3764,
+            "sentiment": "1 star",
+            "score": 0.6359815001487732
+          },
+          {
+            "begin_char": 3764,
+            "end_char": 3822,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 3823,
+            "end_char": 3996,
+            "sentiment": "5 stars",
+            "score": 0.292998343706131
+          },
+          {
+            "begin_char": 3997,
+            "end_char": 4112,
+            "sentiment": "3 stars",
+            "score": 0.318520724773407
+          },
+          {
+            "begin_char": 4113,
+            "end_char": 4128,
+            "sentiment": "5 stars",
+            "score": 0.334716260433197
+          },
+          {
+            "begin_char": 4129,
+            "end_char": 4166,
+            "sentiment": "2 stars",
+            "score": 0.35759392380714417
+          },
+          {
+            "begin_char": 4167,
+            "end_char": 4197,
+            "sentiment": "3 stars",
+            "score": 0.31817561388015747
+          },
+          {
+            "begin_char": 4197,
+            "end_char": 4255,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 4256,
+            "end_char": 4263,
+            "sentiment": "2 stars",
+            "score": 0.32034367322921753
+          },
+          {
+            "begin_char": 4263,
+            "end_char": 4271,
+            "sentiment": "4 stars",
+            "score": 0.2946825921535492
+          },
+          {
+            "begin_char": 4272,
+            "end_char": 4746,
+            "sentiment": "4 stars",
+            "score": 0.44534361362457275
+          },
+          {
+            "begin_char": 4747,
+            "end_char": 4885,
+            "sentiment": "5 stars",
+            "score": 0.4787810146808624
+          },
+          {
+            "begin_char": 4886,
+            "end_char": 4923,
+            "sentiment": "2 stars",
+            "score": 0.30179405212402344
+          },
+          {
+            "begin_char": 4923,
+            "end_char": 4981,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 4982,
+            "end_char": 5168,
+            "sentiment": "4 stars",
+            "score": 0.4089081287384033
+          },
+          {
+            "begin_char": 5168,
+            "end_char": 5225,
+            "sentiment": "3 stars",
+            "score": 0.29729530215263367
+          },
+          {
+            "begin_char": 5226,
+            "end_char": 5384,
+            "sentiment": "3 stars",
+            "score": 0.338918536901474
+          },
+          {
+            "begin_char": 5385,
+            "end_char": 5504,
+            "sentiment": "3 stars",
+            "score": 0.3302919566631317
+          },
+          {
+            "begin_char": 5505,
+            "end_char": 5961,
+            "sentiment": "4 stars",
+            "score": 0.35231953859329224
+          },
+          {
+            "begin_char": 5962,
+            "end_char": 6069,
+            "sentiment": "3 stars",
+            "score": 0.30243584513664246
+          },
+          {
+            "begin_char": 6070,
+            "end_char": 6169,
+            "sentiment": "5 stars",
+            "score": 0.5036583542823792
+          },
+          {
+            "begin_char": 6170,
+            "end_char": 6233,
+            "sentiment": "3 stars",
+            "score": 0.3112752139568329
+          },
+          {
+            "begin_char": 6234,
+            "end_char": 6237,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-03-08",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-03-08",
+        "pageJO": "2231",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

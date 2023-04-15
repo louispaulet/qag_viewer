@@ -1,0 +1,785 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG327",
+    "identifiant": {
+      "numero": "327",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "automobiles",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Limitation de vitesse sur les autoroutes"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793780",
+        "mandatRef": "PM796527"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Transports",
+      "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transports",
+          "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> LIMITATION DE VITESSE SUR LES AUTOROUTES <a name=PG25></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Christine Arrighi.<br><br><strong>Mme Christine Arrighi. </strong>Ma question s'adressait à Mme la Première ministre ; malheureusement, elle n'est pas là, mais j'imagine que d'autres pourront répondre à sa place. La ristourne gouvernementale sur le carburant coûtera plus de 8 milliards d’euros aux finances publiques. Nous vous proposons, comme nous l'avons déjà fait, l’adoption d’une mesure beaucoup plus efficace et très peu coûteuse : la limitation de la vitesse à 110 kilomètres par heure sur l’autoroute.<br><br><strong>M. Éric Bothorel.</strong> Oh là là !<br><br><strong>Mme Christine Arrighi. </strong>Rouler à 110 kilomètres par heure au lieu de 130 permet de réduire de 25 % la quantité de carburant consommée et de 20 % les émissions de gaz à effet de serre. C’est donc une mesure de sobriété et de préservation du pouvoir d’achat ; une manière de réduire notre dépendance aux énergies fossiles et d’améliorer la balance des paiements. Enfin – c’est primordial –, cela permettrait de préserver des vies humaines.<br><br>Actuellement, 63 % des Français y sont favorables. Mme la Première ministre a exprimé la semaine dernière son désaccord, en déclarant : « On ne peut pas fonctionner à coups d’interdictions. »<br><br><strong>M. Sylvain Maillard.</strong> Elle a raison !<br><br><strong>Mme Christine Arrighi. </strong>Je vous propose donc d'inscrire ma proposition dans une perspective plus large en faveur de l’écologie et du pouvoir d’achat, pour la rendre acceptable par la société : il serait mis fin à moyen terme à la privatisation des autoroutes (Applaudissements sur plusieurs bancs du groupe LFI-NUPES)</i>. En attendant, il faudrait négocier la baisse des tarifs de péages qui sont excessivement élevés et pèsent sur le pouvoir d’achat des Françaises et des Français car « si on n’est pas attentif à embarquer tout le monde, à un moment donné, on n’avancera pas », pour citer encore Mme la Première ministre. Que pensez-vous d’une telle proposition de coconstruction ? <i>(Applaudissements sur les bancs des groupes Écolo-NUPES et LFI-NUPES.)<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé des transports.<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué chargé des transports. </i>Madame Arrighi, vous excuserez sans doute l'absence de la Première ministre. J'espère que ma réponse vous éclairera néanmoins. Nos avis convergent sur un point : il est nécessaire de changer les comportements pour la transition écologique. Pour le reste, ils divergent fortement : alors que vous voulez tout faire reposer sur la contrainte, l'instauration d'une règle unique et d'obligations systématiques, nous non, car ce n'est pas l'approche la plus efficace pour réussir la transition écologique.<br><br>Pardonnez-moi d'y revenir, puisque nous avons déjà eu l'occasion d'en parler à plusieurs reprises, mais je note des contradictions dans votre propos. Outre que la privatisation des autoroutes n'a pas grand-chose à voir avec cette histoire, n'est-il pas contradictoire de vouloir à la fois baisser le tarif des péages et limiter le recours à la voiture ?<br><br><strong>Mme Christine Arrighi.</strong> Non !<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué . </i>Je croyais que vous souhaitiez au contraire augmenter le coût de l'usage de la voiture et je ne comprends donc pas bien votre raisonnement d'ensemble.<br><br><strong>M. Sylvain Maillard.</strong> Aïe, aïe, aïe !<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué . </i>Je serai très clair concernant la limitation de vitesse à 110 kilomètres par heure. Vous avez raison sur un point : celle-ci est bonne à la fois pour le climat et le pouvoir d'achat, parce qu'elle permet jusqu'à 20 % d'économie sur le carburant et 20 % d'économie d'émissions de gaz à effet de serre. Rendre cette limitation obligatoire, systématique, ne serait pourtant pas une bonne idée car il est très différent de prendre l'autoroute une fois par an pour les vacances et de l'emprunter tous les jours pour se rendre au travail. Toujours est-il qu'en tant qu'employeur, l'État se montre exemplaire et recommande à ses agents de réduire la vitesse de leur voiture de service sur l'autoroute. Faisons confiance au sens des responsabilités, à la capacité de chacun à changer son comportement ; n'instaurons pas systématiquement des contraintes et des règles qui rendraient la transition écologique moins efficace et durable. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme Christine Arrighi.<br><br><strong>Mme Christine Arrighi. </strong>Monsieur le ministre délégué, je suppose qu'en 1974, vous auriez voté contre l'abaissement de la vitesse maximale sur les autoroutes de 140 à 130 kilomètres par heure ? C'était bien une interdiction !<br><br><strong>M. Pierre Cordier.</strong> Il n'était pas né à cette date !<br><br><strong>Mme Christine Arrighi. </strong>Par ailleurs, le total des dividendes versés par les concessionnaires d'autoroutes devrait atteindre 40 milliards d'euros, dont 32 pour Vinci et Eiffage,…<br><br><strong>Mme la présidente.</strong> Merci, madame la députée.<br><br><strong>Mme Christine Arrighi. </strong>…alors que la privatisation de 2006 n'a rapporté que 14 milliards d'euros à l'État donc il y a des choses à … <i>(Applaudissements sur plusieurs bancs des groupes Écolo-NUPES et LFI-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 33,
+            "label": "MISC",
+            "text": "LIMITATION"
+          },
+          {
+            "start_char": 37,
+            "end_char": 44,
+            "label": "MISC",
+            "text": "VITESSE"
+          },
+          {
+            "start_char": 53,
+            "end_char": 63,
+            "label": "MISC",
+            "text": "AUTOROUTES"
+          },
+          {
+            "start_char": 72,
+            "end_char": 80,
+            "label": "PER",
+            "text": "PG25></a"
+          },
+          {
+            "start_char": 98,
+            "end_char": 101,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 142,
+            "end_char": 179,
+            "label": "PER",
+            "text": "Mme Christine Arrighi.<br><br><strong"
+          },
+          {
+            "start_char": 180,
+            "end_char": 201,
+            "label": "PER",
+            "text": "Mme Christine Arrighi"
+          },
+          {
+            "start_char": 238,
+            "end_char": 253,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 516,
+            "end_char": 526,
+            "label": "MISC",
+            "text": "l’adoption"
+          },
+          {
+            "start_char": 645,
+            "end_char": 647,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 676,
+            "end_char": 702,
+            "label": "PER",
+            "text": "Éric Bothorel.</strong> Oh"
+          },
+          {
+            "start_char": 726,
+            "end_char": 747,
+            "label": "PER",
+            "text": "Mme Christine Arrighi"
+          },
+          {
+            "start_char": 758,
+            "end_char": 764,
+            "label": "PER",
+            "text": "Rouler"
+          },
+          {
+            "start_char": 918,
+            "end_char": 920,
+            "label": "MISC",
+            "text": "C’"
+          },
+          {
+            "start_char": 1057,
+            "end_char": 1059,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1103,
+            "end_char": 1105,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 1162,
+            "end_char": 1178,
+            "label": "MISC",
+            "text": "humaines.<br><br"
+          },
+          {
+            "start_char": 1202,
+            "end_char": 1210,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1230,
+            "end_char": 1245,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 1447,
+            "end_char": 1468,
+            "label": "PER",
+            "text": "Mme Christine Arrighi"
+          },
+          {
+            "start_char": 1571,
+            "end_char": 1581,
+            "label": "ORG",
+            "text": "l’écologie"
+          },
+          {
+            "start_char": 1715,
+            "end_char": 1731,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 1762,
+            "end_char": 1777,
+            "label": "ORG",
+            "text": "LFI-NUPES)</i>."
+          },
+          {
+            "start_char": 1901,
+            "end_char": 1921,
+            "label": "MISC",
+            "text": "achat des Françaises"
+          },
+          {
+            "start_char": 1929,
+            "end_char": 1937,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1950,
+            "end_char": 1952,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 2018,
+            "end_char": 2020,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 2054,
+            "end_char": 2069,
+            "label": "MISC",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 2187,
+            "end_char": 2198,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2202,
+            "end_char": 2228,
+            "label": "MISC",
+            "text": "LFI-NUPES.)<br><br><strong"
+          },
+          {
+            "start_char": 2229,
+            "end_char": 2232,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2273,
+            "end_char": 2275,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2334,
+            "end_char": 2337,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 2337,
+            "end_char": 2363,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 2409,
+            "end_char": 2423,
+            "label": "PER",
+            "text": "Madame Arrighi"
+          },
+          {
+            "start_char": 2467,
+            "end_char": 2475,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 2898,
+            "end_char": 2942,
+            "label": "MISC",
+            "text": "écologique.<br><br>Pardonnez-moi d'y revenir"
+          },
+          {
+            "start_char": 3286,
+            "end_char": 3317,
+            "label": "PER",
+            "text": "Mme Christine Arrighi.</strong>"
+          },
+          {
+            "start_char": 3342,
+            "end_char": 3368,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 3370,
+            "end_char": 3386,
+            "label": "ORG",
+            "text": "ministre délégué"
+          },
+          {
+            "start_char": 3559,
+            "end_char": 3587,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong"
+          },
+          {
+            "start_char": 3589,
+            "end_char": 3592,
+            "label": "MISC",
+            "text": "Aïe"
+          },
+          {
+            "start_char": 3623,
+            "end_char": 3649,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 3651,
+            "end_char": 3667,
+            "label": "ORG",
+            "text": "ministre délégué"
+          },
+          {
+            "start_char": 4250,
+            "end_char": 4254,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4652,
+            "end_char": 4654,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4683,
+            "end_char": 4686,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4727,
+            "end_char": 4764,
+            "label": "PER",
+            "text": "Mme Christine Arrighi.<br><br><strong"
+          },
+          {
+            "start_char": 4765,
+            "end_char": 4786,
+            "label": "PER",
+            "text": "Mme Christine Arrighi"
+          },
+          {
+            "start_char": 4797,
+            "end_char": 4805,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 5016,
+            "end_char": 5039,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 5089,
+            "end_char": 5110,
+            "label": "PER",
+            "text": "Mme Christine Arrighi"
+          },
+          {
+            "start_char": 5257,
+            "end_char": 5262,
+            "label": "PER",
+            "text": "Vinci"
+          },
+          {
+            "start_char": 5266,
+            "end_char": 5274,
+            "label": "MISC",
+            "text": "Eiffage,"
+          },
+          {
+            "start_char": 5291,
+            "end_char": 5318,
+            "label": "PER",
+            "text": "Mme la présidente.</strong>"
+          },
+          {
+            "start_char": 5319,
+            "end_char": 5324,
+            "label": "PER",
+            "text": "Merci"
+          },
+          {
+            "start_char": 5360,
+            "end_char": 5381,
+            "label": "PER",
+            "text": "Mme Christine Arrighi"
+          },
+          {
+            "start_char": 5470,
+            "end_char": 5474,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5555,
+            "end_char": 5566,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 5570,
+            "end_char": 5588,
+            "label": "MISC",
+            "text": "LFI-NUPES.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 116,
+            "sentiment": "3 stars",
+            "score": 0.32175666093826294
+          },
+          {
+            "begin_char": 117,
+            "end_char": 202,
+            "sentiment": "3 stars",
+            "score": 0.24048954248428345
+          },
+          {
+            "begin_char": 203,
+            "end_char": 264,
+            "sentiment": "3 stars",
+            "score": 0.2996705174446106
+          },
+          {
+            "begin_char": 265,
+            "end_char": 358,
+            "sentiment": "3 stars",
+            "score": 0.33847180008888245
+          },
+          {
+            "begin_char": 359,
+            "end_char": 464,
+            "sentiment": "4 stars",
+            "score": 0.21678638458251953
+          },
+          {
+            "begin_char": 465,
+            "end_char": 710,
+            "sentiment": "5 stars",
+            "score": 0.3483025133609772
+          },
+          {
+            "begin_char": 710,
+            "end_char": 748,
+            "sentiment": "3 stars",
+            "score": 0.273453950881958
+          },
+          {
+            "begin_char": 749,
+            "end_char": 758,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 758,
+            "end_char": 781,
+            "sentiment": "2 stars",
+            "score": 0.28895896673202515
+          },
+          {
+            "begin_char": 782,
+            "end_char": 916,
+            "sentiment": "5 stars",
+            "score": 0.4621894955635071
+          },
+          {
+            "begin_char": 916,
+            "end_char": 917,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 918,
+            "end_char": 991,
+            "sentiment": "5 stars",
+            "score": 0.4347022771835327
+          },
+          {
+            "begin_char": 992,
+            "end_char": 1094,
+            "sentiment": "5 stars",
+            "score": 0.5653684735298157
+          },
+          {
+            "begin_char": 1095,
+            "end_char": 1179,
+            "sentiment": "5 stars",
+            "score": 0.5002205967903137
+          },
+          {
+            "begin_char": 1179,
+            "end_char": 1191,
+            "sentiment": "4 stars",
+            "score": 0.31095191836357117
+          },
+          {
+            "begin_char": 1191,
+            "end_char": 1229,
+            "sentiment": "4 stars",
+            "score": 0.36502721905708313
+          },
+          {
+            "begin_char": 1230,
+            "end_char": 1317,
+            "sentiment": "4 stars",
+            "score": 0.3394618332386017
+          },
+          {
+            "begin_char": 1317,
+            "end_char": 1415,
+            "sentiment": "1 star",
+            "score": 0.2546175420284271
+          },
+          {
+            "begin_char": 1416,
+            "end_char": 1431,
+            "sentiment": "5 stars",
+            "score": 0.34754881262779236
+          },
+          {
+            "begin_char": 1431,
+            "end_char": 1469,
+            "sentiment": "3 stars",
+            "score": 0.273453950881958
+          },
+          {
+            "begin_char": 1470,
+            "end_char": 1777,
+            "sentiment": "5 stars",
+            "score": 0.4220421314239502
+          },
+          {
+            "begin_char": 1778,
+            "end_char": 2079,
+            "sentiment": "3 stars",
+            "score": 0.2681480944156647
+          },
+          {
+            "begin_char": 2080,
+            "end_char": 2139,
+            "sentiment": "3 stars",
+            "score": 0.2484866827726364
+          },
+          {
+            "begin_char": 2140,
+            "end_char": 2247,
+            "sentiment": "4 stars",
+            "score": 0.3340587019920349
+          },
+          {
+            "begin_char": 2248,
+            "end_char": 2404,
+            "sentiment": "4 stars",
+            "score": 0.3048226237297058
+          },
+          {
+            "begin_char": 2405,
+            "end_char": 2485,
+            "sentiment": "3 stars",
+            "score": 0.23043641448020935
+          },
+          {
+            "begin_char": 2486,
+            "end_char": 2535,
+            "sentiment": "3 stars",
+            "score": 0.35889819264411926
+          },
+          {
+            "begin_char": 2536,
+            "end_char": 2648,
+            "sentiment": "4 stars",
+            "score": 0.4451056122779846
+          },
+          {
+            "begin_char": 2649,
+            "end_char": 3066,
+            "sentiment": "3 stars",
+            "score": 0.37332868576049805
+          },
+          {
+            "begin_char": 3067,
+            "end_char": 3270,
+            "sentiment": "2 stars",
+            "score": 0.38048335909843445
+          },
+          {
+            "begin_char": 3270,
+            "end_char": 3317,
+            "sentiment": "3 stars",
+            "score": 0.3015128970146179
+          },
+          {
+            "begin_char": 3318,
+            "end_char": 3323,
+            "sentiment": "1 star",
+            "score": 0.6278671026229858
+          },
+          {
+            "begin_char": 3323,
+            "end_char": 3388,
+            "sentiment": "3 stars",
+            "score": 0.3126049041748047
+          },
+          {
+            "begin_char": 3389,
+            "end_char": 3604,
+            "sentiment": "2 stars",
+            "score": 0.47591444849967957
+          },
+          {
+            "begin_char": 3604,
+            "end_char": 3669,
+            "sentiment": "3 stars",
+            "score": 0.3126049041748047
+          },
+          {
+            "begin_char": 3670,
+            "end_char": 3674,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3674,
+            "end_char": 3757,
+            "sentiment": "3 stars",
+            "score": 0.29510578513145447
+          },
+          {
+            "begin_char": 3758,
+            "end_char": 3974,
+            "sentiment": "5 stars",
+            "score": 0.6479673981666565
+          },
+          {
+            "begin_char": 3975,
+            "end_char": 4206,
+            "sentiment": "3 stars",
+            "score": 0.26012343168258667
+          },
+          {
+            "begin_char": 4207,
+            "end_char": 4368,
+            "sentiment": "4 stars",
+            "score": 0.4429859519004822
+          },
+          {
+            "begin_char": 4369,
+            "end_char": 4468,
+            "sentiment": "5 stars",
+            "score": 0.5240800380706787
+          },
+          {
+            "begin_char": 4469,
+            "end_char": 4599,
+            "sentiment": "4 stars",
+            "score": 0.2731102406978607
+          },
+          {
+            "begin_char": 4600,
+            "end_char": 4701,
+            "sentiment": "3 stars",
+            "score": 0.32598647475242615
+          },
+          {
+            "begin_char": 4702,
+            "end_char": 4787,
+            "sentiment": "3 stars",
+            "score": 0.24048954248428345
+          },
+          {
+            "begin_char": 4788,
+            "end_char": 4797,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 4797,
+            "end_char": 4965,
+            "sentiment": "4 stars",
+            "score": 0.25154903531074524
+          },
+          {
+            "begin_char": 4966,
+            "end_char": 4997,
+            "sentiment": "1 star",
+            "score": 0.42108353972435
+          },
+          {
+            "begin_char": 4997,
+            "end_char": 5040,
+            "sentiment": "3 stars",
+            "score": 0.323579341173172
+          },
+          {
+            "begin_char": 5041,
+            "end_char": 5073,
+            "sentiment": "1 star",
+            "score": 0.36739030480384827
+          },
+          {
+            "begin_char": 5073,
+            "end_char": 5111,
+            "sentiment": "3 stars",
+            "score": 0.273453950881958
+          },
+          {
+            "begin_char": 5112,
+            "end_char": 5121,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5121,
+            "end_char": 5318,
+            "sentiment": "4 stars",
+            "score": 0.3052990138530731
+          },
+          {
+            "begin_char": 5319,
+            "end_char": 5382,
+            "sentiment": "5 stars",
+            "score": 0.40129008889198303
+          },
+          {
+            "begin_char": 5383,
+            "end_char": 5593,
+            "sentiment": "3 stars",
+            "score": 0.31839993596076965
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5910",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

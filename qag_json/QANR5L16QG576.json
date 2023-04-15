@@ -1,0 +1,899 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG576",
+    "identifiant": {
+      "numero": "576",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enseignement maternel et primaire",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "FERMETURES DE CLASSES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793174",
+        "mandatRef": "PM796188"
+      },
+      "groupe": {
+        "organeRef": "PO800502",
+        "abrege": "GDR-NUPES",
+        "developpe": "Gauche démocrate et républicaine - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Éducation nationale et jeunesse",
+      "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Éducation nationale et jeunesse",
+          "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> FERMETURES DE CLASSES <a name=PG21></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Yannick Monnet.<br><br><strong>M. Yannick Monnet. </strong>Monsieur le ministre de l'éducation nationale et de la jeunesse, comme de nombreux parents d'élèves, enseignants et élus locaux, nous avons appris avec stupeur l'ampleur des suppressions de postes prévues pour la rentrée 2023. <i>(Applaudissements sur les bancs des groupes GDR-NUPES, LFI-NUPES et SOC.) </i>Sur le territoire national, ce ne sont pas moins de 1 117 postes du premier degré que vous prévoyez de supprimer, à peine compensés par les 450 postes d'enseignants stagiaires, ce qui conduit à 667 suppressions de moyens d'enseignement.<br><br><strong>M. Patrick Hetzel.</strong> Alors que c'était l'occasion de renforcer les équipes de remplaçants…<br><br><strong>Un député .</strong> Scandaleux !<br><br><strong>M. Yannick Monnet. </strong>De plus, ces suppressions sont brutales, bien souvent sans concertation avec les élus locaux. Dans mon seul département de l'Allier, on compte vingt-neuf suppressions ; en Seine-Saint-Denis, vingt-deux fermetures de classe sont prévues dans la seule ville de Saint-Denis ; dans le Pas-de-Calais, il y en aura soixante-treize.<br><br><strong>M. Sébastien Jumel.</strong> Et je ne vous parle pas de Dieppe !<br><br><strong>M. Yannick Monnet. </strong>Les conséquences de ce désengagement de l'État sont désastreuses pour les familles, pour les enfants, pour la communauté éducative, tout comme pour l'éducation prioritaire. Il s'agit d'un choix purement politique : vous contraignez les moyens dédiés à l'enseignement alors que, dans le même temps, votre gouvernement n'hésite pas à augmenter de 50 % le budget de l'armée !<br><br>Nos campagnes et nos quartiers ont déjà connu le départ de nombre de services publics. Votre rôle n'est pas d'organiser le déclin de certains territoires, mais de garantir leur attractivité. De plus, ces fermetures sonnent comme une trahison faite aux communes et aux élus locaux, que vous étiez bien content de trouver pour gérer la crise liée au covid.<br><br><strong>M. Benjamin Lucas.</strong> Exactement !<br><br><strong>M. Yannick Monnet. </strong>J'ajoute qu'il s'agit d'un gaspillage considérable d'argent public, puisque bon nombre des suppressions interviennent après que les collectivités et l'État lui-même ont financé des réhabilitations d'école. La baisse du nombre d'enfants ne peut justifier cette gabegie ! D'ailleurs, la France est le pays de l'Union européenne où il y a le plus d'enfants par classe.<br><br><strong>M. Benjamin Lucas.</strong> Tout à fait !<br><br><strong>M. Yannick Monnet. </strong>Monsieur le ministre, il est urgent de remettre l'école au milieu du village et du quartier ! <i>(Applaudissements sur les bancs des groupes GDR-NUPES et SOC.)</i><br><br><strong>M. Jérôme Nury.</strong> L'église ! L'église au milieu du village !<br><br><strong>M. Yannick Monnet. </strong>Êtes-vous prêt à décréter un moratoire immédiat sur la carte scolaire 2023 ? <i>(Applaudissements sur les bancs des groupes GDR-NUPES et Écolo-NUPES ainsi que sur plusieurs bancs des groupes LFI-NUPES et SOC.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’éducation nationale et de la jeunesse.<br><br><strong>M. Pap Ndiaye,</strong><i> ministre de l’éducation nationale et de la jeunesse. </i>Le contexte démographique que j'évoquais il y a moins d'une heure n'a pas changé depuis : sur la durée du quinquennat, on comptera 500 000 élèves de moins.<br><br><strong>M. Benjamin Lucas.</strong> Mais non !<br><br><strong>Plusieurs députés du groupe GDR-NUPES .</strong> Ce n'est pas vrai !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>Dans votre département de l'Allier, nous accueillerons 532 élèves de moins à la rentrée 2023. Des modifications de la carte scolaire sont donc prévues, qui sont en cours de discussion avec les élus, en particulier avec les parlementaires : vous avez ainsi été reçu par la directrice académique des services de l'éducation nationale (Dasen).<br><br>Dans ce contexte, nous faisons également en sorte d'améliorer le taux d'encadrement dans le premier degré, c'est-à-dire le ratio entre nombre de professeurs et celui d'élèves, y compris dans l'Allier. <i>(Exclamations sur les bancs des groupes LFI-NUPES, Écolo-NUPES et GDR-NUPES.)</i><br><br><strong>Mme Danielle Brulebois.</strong> Exactement !<br><br><strong>M. Patrick Hetzel.</strong> L'amélioration est marginale, monsieur le ministre, et vous le savez !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>Des ajustements seront encore apportés d'ici au mois de juin, puis en août, quelques jours avant la rentrée scolaire. Le schéma présenté n'est donc pas définitif. Je regarderai de près les cas les plus problématiques, notamment dans les départements ruraux, comme le vôtre, et je serai particulièrement attentif aux situations d'éloignement.<br><br>Le Gouvernement veille aux difficultés rurales. Vous n'avez pas le monopole de cette préoccupation, nous y sommes aussi attentifs que vous.<br><br><strong>M. Benjamin Lucas.</strong> Mais vous fermez des classes !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>Bien entendu, nous fermons des classes, parce que nous tenons compte de la baisse des effectifs scolaires, mais nous le faisons avec discernement et en collaborant avec les élus locaux <i>(Exclamations et protestations sur divers bancs)</i>,…<br><br><strong>M. André Chassaigne.</strong> Non, ce n'est pas vrai !<br><br><strong>M. Jean-Yves Bony.</strong> C'est faux !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>…avec lesquels, je vous garantis, j'échange très régulièrement. <i>(Protestations sur les bancs des groupes SOC et Écolo-NUPES.) </i>Ce sera le cas d'ici à juin.<br><br><strong>Mme la présidente. </strong>La parole est à M. Yannick Monnet.<br><br><strong>M. Yannick Monnet. </strong>S'agissant des élus locaux, le compte n'y est pas ! En outre, quand on veut assurer un enseignement de qualité, monsieur le ministre, on ne gère pas l'école avec des chiffres et des ratios ! <i>(Applaudissements sur les bancs des groupes GDR-NUPES, LFI-NUPES, SOC et Écolo-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 33,
+            "label": "MISC",
+            "text": "FERMETURES"
+          },
+          {
+            "start_char": 79,
+            "end_char": 82,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 123,
+            "end_char": 125,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 126,
+            "end_char": 156,
+            "label": "PER",
+            "text": "Yannick Monnet.<br><br><strong"
+          },
+          {
+            "start_char": 160,
+            "end_char": 174,
+            "label": "PER",
+            "text": "Yannick Monnet"
+          },
+          {
+            "start_char": 185,
+            "end_char": 193,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 459,
+            "end_char": 468,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 470,
+            "end_char": 479,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 483,
+            "end_char": 486,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 748,
+            "end_char": 771,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong"
+          },
+          {
+            "start_char": 879,
+            "end_char": 891,
+            "label": "MISC",
+            "text": "Scandaleux !"
+          },
+          {
+            "start_char": 910,
+            "end_char": 924,
+            "label": "PER",
+            "text": "Yannick Monnet"
+          },
+          {
+            "start_char": 1107,
+            "end_char": 1124,
+            "label": "LOC",
+            "text": "Seine-Saint-Denis"
+          },
+          {
+            "start_char": 1191,
+            "end_char": 1205,
+            "label": "LOC",
+            "text": "de Saint-Denis"
+          },
+          {
+            "start_char": 1216,
+            "end_char": 1229,
+            "label": "LOC",
+            "text": "Pas-de-Calais"
+          },
+          {
+            "start_char": 1279,
+            "end_char": 1304,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 1332,
+            "end_char": 1338,
+            "label": "LOC",
+            "text": "Dieppe"
+          },
+          {
+            "start_char": 1359,
+            "end_char": 1373,
+            "label": "PER",
+            "text": "Yannick Monnet"
+          },
+          {
+            "start_char": 1426,
+            "end_char": 1430,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1757,
+            "end_char": 1764,
+            "label": "MISC",
+            "text": "br><br>"
+          },
+          {
+            "start_char": 2137,
+            "end_char": 2174,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong> Exactement !"
+          },
+          {
+            "start_char": 2193,
+            "end_char": 2207,
+            "label": "PER",
+            "text": "Yannick Monnet"
+          },
+          {
+            "start_char": 2369,
+            "end_char": 2373,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2500,
+            "end_char": 2509,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2527,
+            "end_char": 2543,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 2602,
+            "end_char": 2625,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong"
+          },
+          {
+            "start_char": 2659,
+            "end_char": 2673,
+            "label": "PER",
+            "text": "Yannick Monnet"
+          },
+          {
+            "start_char": 2684,
+            "end_char": 2692,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2825,
+            "end_char": 2834,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2838,
+            "end_char": 2886,
+            "label": "MISC",
+            "text": "SOC.)</i><br><br><strong>M. Jérôme Nury.</strong"
+          },
+          {
+            "start_char": 2949,
+            "end_char": 2963,
+            "label": "PER",
+            "text": "Yannick Monnet"
+          },
+          {
+            "start_char": 2974,
+            "end_char": 2978,
+            "label": "LOC",
+            "text": "Êtes"
+          },
+          {
+            "start_char": 3098,
+            "end_char": 3107,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 3111,
+            "end_char": 3122,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 3165,
+            "end_char": 3174,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3178,
+            "end_char": 3202,
+            "label": "MISC",
+            "text": "SOC.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3203,
+            "end_char": 3206,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3247,
+            "end_char": 3249,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3265,
+            "end_char": 3267,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3321,
+            "end_char": 3327,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 3360,
+            "end_char": 3362,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3576,
+            "end_char": 3579,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 3579,
+            "end_char": 3603,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong>"
+          },
+          {
+            "start_char": 3658,
+            "end_char": 3667,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 3717,
+            "end_char": 3720,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 3767,
+            "end_char": 3790,
+            "label": "LOC",
+            "text": "département de l'Allier"
+          },
+          {
+            "start_char": 4297,
+            "end_char": 4303,
+            "label": "LOC",
+            "text": "Allier"
+          },
+          {
+            "start_char": 4348,
+            "end_char": 4357,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 4359,
+            "end_char": 4370,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 4374,
+            "end_char": 4404,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4405,
+            "end_char": 4436,
+            "label": "PER",
+            "text": "Mme Danielle Brulebois.</strong"
+          },
+          {
+            "start_char": 4469,
+            "end_char": 4492,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong"
+          },
+          {
+            "start_char": 4583,
+            "end_char": 4586,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 4951,
+            "end_char": 4986,
+            "label": "MISC",
+            "text": "éloignement.<br><br>Le Gouvernement"
+          },
+          {
+            "start_char": 5126,
+            "end_char": 5129,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 5129,
+            "end_char": 5153,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong>"
+          },
+          {
+            "start_char": 5203,
+            "end_char": 5206,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 5503,
+            "end_char": 5533,
+            "label": "PER",
+            "text": "André Chassaigne.</strong> Non"
+          },
+          {
+            "start_char": 5573,
+            "end_char": 5596,
+            "label": "PER",
+            "text": "Jean-Yves Bony.</strong"
+          },
+          {
+            "start_char": 5629,
+            "end_char": 5632,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 5776,
+            "end_char": 5779,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 5783,
+            "end_char": 5794,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 5845,
+            "end_char": 5848,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5889,
+            "end_char": 5891,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 5892,
+            "end_char": 5922,
+            "label": "PER",
+            "text": "Yannick Monnet.<br><br><strong"
+          },
+          {
+            "start_char": 5926,
+            "end_char": 5940,
+            "label": "PER",
+            "text": "Yannick Monnet"
+          },
+          {
+            "start_char": 6189,
+            "end_char": 6198,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 6200,
+            "end_char": 6209,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 6211,
+            "end_char": 6214,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 6218,
+            "end_char": 6238,
+            "label": "MISC",
+            "text": "Écolo-NUPES.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 97,
+            "sentiment": "3 stars",
+            "score": 0.29162198305130005
+          },
+          {
+            "begin_char": 98,
+            "end_char": 175,
+            "sentiment": "4 stars",
+            "score": 0.25406089425086975
+          },
+          {
+            "begin_char": 176,
+            "end_char": 411,
+            "sentiment": "5 stars",
+            "score": 0.3745351731777191
+          },
+          {
+            "begin_char": 412,
+            "end_char": 772,
+            "sentiment": "3 stars",
+            "score": 0.3299143314361572
+          },
+          {
+            "begin_char": 773,
+            "end_char": 891,
+            "sentiment": "1 star",
+            "score": 0.5224208831787109
+          },
+          {
+            "begin_char": 891,
+            "end_char": 925,
+            "sentiment": "3 stars",
+            "score": 0.25812703371047974
+          },
+          {
+            "begin_char": 926,
+            "end_char": 935,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 935,
+            "end_char": 1028,
+            "sentiment": "3 stars",
+            "score": 0.2886139154434204
+          },
+          {
+            "begin_char": 1029,
+            "end_char": 1103,
+            "sentiment": "1 star",
+            "score": 0.3885014057159424
+          },
+          {
+            "begin_char": 1104,
+            "end_char": 1207,
+            "sentiment": "2 stars",
+            "score": 0.28655025362968445
+          },
+          {
+            "begin_char": 1208,
+            "end_char": 1304,
+            "sentiment": "3 stars",
+            "score": 0.30159735679626465
+          },
+          {
+            "begin_char": 1305,
+            "end_char": 1340,
+            "sentiment": "1 star",
+            "score": 0.3258689343929291
+          },
+          {
+            "begin_char": 1340,
+            "end_char": 1374,
+            "sentiment": "3 stars",
+            "score": 0.25812703371047974
+          },
+          {
+            "begin_char": 1375,
+            "end_char": 1384,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1384,
+            "end_char": 1556,
+            "sentiment": "5 stars",
+            "score": 0.22866423428058624
+          },
+          {
+            "begin_char": 1557,
+            "end_char": 1756,
+            "sentiment": "1 star",
+            "score": 0.6032124161720276
+          },
+          {
+            "begin_char": 1756,
+            "end_char": 1764,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1764,
+            "end_char": 1850,
+            "sentiment": "2 stars",
+            "score": 0.219050794839859
+          },
+          {
+            "begin_char": 1851,
+            "end_char": 1954,
+            "sentiment": "4 stars",
+            "score": 0.26012352108955383
+          },
+          {
+            "begin_char": 1955,
+            "end_char": 2208,
+            "sentiment": "1 star",
+            "score": 0.4665956199169159
+          },
+          {
+            "begin_char": 2209,
+            "end_char": 2218,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2218,
+            "end_char": 2423,
+            "sentiment": "1 star",
+            "score": 0.45353829860687256
+          },
+          {
+            "begin_char": 2424,
+            "end_char": 2487,
+            "sentiment": "1 star",
+            "score": 0.6681448221206665
+          },
+          {
+            "begin_char": 2488,
+            "end_char": 2640,
+            "sentiment": "5 stars",
+            "score": 0.5573111772537231
+          },
+          {
+            "begin_char": 2640,
+            "end_char": 2674,
+            "sentiment": "3 stars",
+            "score": 0.25812703371047974
+          },
+          {
+            "begin_char": 2675,
+            "end_char": 2777,
+            "sentiment": "5 stars",
+            "score": 0.43521368503570557
+          },
+          {
+            "begin_char": 2778,
+            "end_char": 2887,
+            "sentiment": "3 stars",
+            "score": 0.3520600497722626
+          },
+          {
+            "begin_char": 2888,
+            "end_char": 2898,
+            "sentiment": "5 stars",
+            "score": 0.344372034072876
+          },
+          {
+            "begin_char": 2899,
+            "end_char": 2930,
+            "sentiment": "5 stars",
+            "score": 0.27510708570480347
+          },
+          {
+            "begin_char": 2930,
+            "end_char": 2964,
+            "sentiment": "3 stars",
+            "score": 0.25812703371047974
+          },
+          {
+            "begin_char": 2965,
+            "end_char": 3050,
+            "sentiment": "1 star",
+            "score": 0.3417249023914337
+          },
+          {
+            "begin_char": 3051,
+            "end_char": 3221,
+            "sentiment": "4 stars",
+            "score": 0.3331334590911865
+          },
+          {
+            "begin_char": 3222,
+            "end_char": 3347,
+            "sentiment": "3 stars",
+            "score": 0.30180537700653076
+          },
+          {
+            "begin_char": 3348,
+            "end_char": 3400,
+            "sentiment": "4 stars",
+            "score": 0.30159011483192444
+          },
+          {
+            "begin_char": 3401,
+            "end_char": 3405,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3405,
+            "end_char": 3678,
+            "sentiment": "2 stars",
+            "score": 0.3812027871608734
+          },
+          {
+            "begin_char": 3679,
+            "end_char": 3698,
+            "sentiment": "1 star",
+            "score": 0.5489705204963684
+          },
+          {
+            "begin_char": 3698,
+            "end_char": 3751,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 3752,
+            "end_char": 3849,
+            "sentiment": "3 stars",
+            "score": 0.30160707235336304
+          },
+          {
+            "begin_char": 3850,
+            "end_char": 4104,
+            "sentiment": "4 stars",
+            "score": 0.3791225552558899
+          },
+          {
+            "begin_char": 4104,
+            "end_char": 4304,
+            "sentiment": "4 stars",
+            "score": 0.4517328143119812
+          },
+          {
+            "begin_char": 4305,
+            "end_char": 4450,
+            "sentiment": "5 stars",
+            "score": 0.5086577534675598
+          },
+          {
+            "begin_char": 4450,
+            "end_char": 4493,
+            "sentiment": "3 stars",
+            "score": 0.319522887468338
+          },
+          {
+            "begin_char": 4494,
+            "end_char": 4564,
+            "sentiment": "5 stars",
+            "score": 0.3071051239967346
+          },
+          {
+            "begin_char": 4564,
+            "end_char": 4617,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 4618,
+            "end_char": 4739,
+            "sentiment": "4 stars",
+            "score": 0.4180087447166443
+          },
+          {
+            "begin_char": 4740,
+            "end_char": 4784,
+            "sentiment": "2 stars",
+            "score": 0.36202511191368103
+          },
+          {
+            "begin_char": 4785,
+            "end_char": 5018,
+            "sentiment": "4 stars",
+            "score": 0.48014935851097107
+          },
+          {
+            "begin_char": 5019,
+            "end_char": 5153,
+            "sentiment": "5 stars",
+            "score": 0.38486629724502563
+          },
+          {
+            "begin_char": 5154,
+            "end_char": 5184,
+            "sentiment": "1 star",
+            "score": 0.5095291137695312
+          },
+          {
+            "begin_char": 5184,
+            "end_char": 5237,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 5238,
+            "end_char": 5554,
+            "sentiment": "5 stars",
+            "score": 0.3186403810977936
+          },
+          {
+            "begin_char": 5554,
+            "end_char": 5597,
+            "sentiment": "3 stars",
+            "score": 0.33054763078689575
+          },
+          {
+            "begin_char": 5598,
+            "end_char": 5663,
+            "sentiment": "1 star",
+            "score": 0.5725010633468628
+          },
+          {
+            "begin_char": 5664,
+            "end_char": 5731,
+            "sentiment": "5 stars",
+            "score": 0.5425880551338196
+          },
+          {
+            "begin_char": 5732,
+            "end_char": 5795,
+            "sentiment": "3 stars",
+            "score": 0.2949514389038086
+          },
+          {
+            "begin_char": 5795,
+            "end_char": 5796,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 5797,
+            "end_char": 5801,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5801,
+            "end_char": 5863,
+            "sentiment": "4 stars",
+            "score": 0.2707382142543793
+          },
+          {
+            "begin_char": 5864,
+            "end_char": 5941,
+            "sentiment": "4 stars",
+            "score": 0.25406089425086975
+          },
+          {
+            "begin_char": 5942,
+            "end_char": 5951,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5951,
+            "end_char": 6002,
+            "sentiment": "1 star",
+            "score": 0.6207590699195862
+          },
+          {
+            "begin_char": 6003,
+            "end_char": 6141,
+            "sentiment": "2 stars",
+            "score": 0.3401525318622589
+          },
+          {
+            "begin_char": 6142,
+            "end_char": 6243,
+            "sentiment": "4 stars",
+            "score": 0.3118647336959839
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-15",
+        "pageJO": "1382",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,809 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG557",
+    "identifiant": {
+      "numero": "557",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "retraites : généralités",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "RÉFORME DES RETRAITES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794322",
+        "mandatRef": "PM796851"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Industrie",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Industrie",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DES RETRAITES <a name=PG2></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Thomas Ménagé.<br><br><strong>M. Thomas Ménagé. </strong>Madame la Première ministre, la semaine dernière, M. le ministre délégué Gabriel Attal a indiqué que nous étions face à un dilemme : la réforme des retraites ou la faillite.<br><br>Votre gouvernement entretient un discours défaitiste, un discours de perdant et, surtout, un discours empreint de contrevérités pour faire peur aux Français.<br><br><strong>M. Erwan Balanant.</strong> C'est l'hôpital qui se fout de la charité !<br><br><strong>M. Thomas Ménagé. </strong>La fausse promesse d'une retraite minimale à 1 200 euros pour tous est un exemple criant de vos nombreux mensonges. Depuis 2017, Emmanuel Macron privilégie les ultrariches, qui ont gagné dix à vingt fois plus que les bas revenus du fait de sa politique d'injustice sociale. En bref, Emmanuel Macron a créé 600 milliards de dettes en cinq ans et demande aujourd'hui aux classes populaires et aux classes moyennes de payer les pots cassés de son incapacité à gérer le pays, en imposant cette réforme des retraites inutile et injuste. <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br>L'argent, pourtant, il y en a ! Il y en a dans les poches des spéculateurs dont vous refusez de taxer les superprofits ; je pense à Total, qui a réalisé un bénéfice net record de 20 milliards d'euros en 2022.<br><br>Il y en a aussi à Bercy, puisqu'entre 2021 et 2022, poussées par une inflation record, les recettes fiscales et sociales ont augmenté de 86 milliards. Eh oui, lorsque les Français paient plus cher leur carburant ou leur caddie de courses – dans les supermarchés d'Amilly, dans ma circonscription, par exemple –, l'État s'enrichit grâce à la TVA. Or vous faites le choix de ne redistribuer que des miettes, par le biais de chèques et de ristournes temporaires et inefficaces.<br><br>Avec Marine Le Pen, nous avons des solutions structurelles pour rendre aux Français leur argent, notamment en baissant la TVA sur l'énergie et sur les carburants ou en sortant du marché européen de l'électricité. Nous devons également remettre de l'ordre dans nos finances publiques en taxant les superprofits et en supprimant le minimum vieillesse pour les étrangers n'ayant jamais cotisé en France.<br><br>Tout cela demande de la volonté politique, mais vous préférez céder à la facilité en demandant aux Français de travailler deux ans de plus !<br><br>Madame la Première ministre, quand comptez-vous rendre aux Français leur argent ? <i>(Vifs applaudissements sur les bancs du groupe RN.)</i><br><br><strong>M. Stéphane Rambaud.</strong> Très bien !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br><strong>M. Bruno Le Maire,</strong><i> ministre de l’économie, des finances et de la souveraineté industrielle et numérique. </i>Votre défense du pouvoir d'achat des classes moyennes serait plus crédible si vous aviez voté pour l'indemnité carburant travailleur qui leur est versée. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>M. Laurent Jacobelli.</strong> Cela ne marche pas !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre. </i>Vous seriez plus crédibles si vous aviez voté pour le plafonnement des prix du gaz.<br><br>Vous seriez plus crédibles si vous aviez voté pour le bouclier qui protège tous les ménages les plus modestes contre l'augmentation des prix de l'électricité.<br><br>Vous seriez plus crédibles si vous aviez lu le rapport de la Cour des comptes qui établit, noir sur blanc, que la baisse de la TVA n'est pas efficace, qu'elle ruine l'État et qu'elle ne bénéficie ni aux classes moyennes ni aux classes populaires. <i>(Applaudissements sur plusieurs bancs du groupe RE. - Exclamations sur les bancs du groupe RN.)</i><br><br><strong>M. Sébastien Chenu.</strong> Avec son bilan ? Il est nul !<br><br><strong>M. Jocelyn Dessigny.</strong> Vous seriez plus crédible si vous aviez baissé la TVA !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Vous commentez, monsieur Ménagé ; nous, nous agissons.<br><br><strong>M. Jean-Philippe Tanguy.</strong> Il faut supprimer la TVA pour les restaurateurs !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Avec le Président de la République, la Première ministre et l'ensemble du Gouvernement, et avec la majorité, nous obtenons des résultats dont nous sommes fiers : nous avons le taux d'emploi le plus élevé depuis cinquante ans dans notre pays. Le travail, c'est du pouvoir d'achat, de la rémunération et de l'activité pour tous ! <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</i><br><br>Nous avons le taux de chômage le plus bas depuis quinze ans dans notre pays. <i>(Applaudissements sur plusieurs bancs des groupes RE, Dem et HOR. – « Tout va bien, alors ! » sur plusieurs bancs du groupe RN.) </i>C'est la véritable avancée sociale ! Nous avons une croissance solide et, que vous le vouliez ou non, monsieur Ménagé, notre taux d'inflation est parmi les plus faibles de la zone euro, grâce à l'action de cette majorité et au bouclier énergétique pour lequel vous n'avez pas voté.<br><br>Votez nos propositions, soutenez notre action, et vous aurez les résultats que nous avons obtenus au service de nos compatriotes ! <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 34,
+            "label": "MISC",
+            "text": "RÉFORME DES"
+          },
+          {
+            "start_char": 35,
+            "end_char": 44,
+            "label": "MISC",
+            "text": "RETRAITES"
+          },
+          {
+            "start_char": 53,
+            "end_char": 60,
+            "label": "PER",
+            "text": "PG2></a"
+          },
+          {
+            "start_char": 78,
+            "end_char": 81,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 122,
+            "end_char": 124,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 125,
+            "end_char": 154,
+            "label": "PER",
+            "text": "Thomas Ménagé.<br><br><strong"
+          },
+          {
+            "start_char": 182,
+            "end_char": 200,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 232,
+            "end_char": 234,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 255,
+            "end_char": 268,
+            "label": "PER",
+            "text": "Gabriel Attal"
+          },
+          {
+            "start_char": 346,
+            "end_char": 362,
+            "label": "MISC",
+            "text": "faillite.<br><br"
+          },
+          {
+            "start_char": 511,
+            "end_char": 535,
+            "label": "ORG",
+            "text": "Français.<br><br><strong"
+          },
+          {
+            "start_char": 536,
+            "end_char": 562,
+            "label": "PER",
+            "text": "M. Erwan Balanant.</strong"
+          },
+          {
+            "start_char": 779,
+            "end_char": 794,
+            "label": "PER",
+            "text": "Emmanuel Macron"
+          },
+          {
+            "start_char": 933,
+            "end_char": 948,
+            "label": "PER",
+            "text": "Emmanuel Macron"
+          },
+          {
+            "start_char": 1227,
+            "end_char": 1242,
+            "label": "ORG",
+            "text": "RN.)</i><br><br"
+          },
+          {
+            "start_char": 1375,
+            "end_char": 1380,
+            "label": "ORG",
+            "text": "Total"
+          },
+          {
+            "start_char": 1477,
+            "end_char": 1482,
+            "label": "LOC",
+            "text": "Bercy"
+          },
+          {
+            "start_char": 1630,
+            "end_char": 1638,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1723,
+            "end_char": 1729,
+            "label": "LOC",
+            "text": "Amilly"
+          },
+          {
+            "start_char": 1773,
+            "end_char": 1777,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1800,
+            "end_char": 1803,
+            "label": "ORG",
+            "text": "TVA"
+          },
+          {
+            "start_char": 1921,
+            "end_char": 1940,
+            "label": "MISC",
+            "text": "inefficaces.<br><br"
+          },
+          {
+            "start_char": 1946,
+            "end_char": 1959,
+            "label": "PER",
+            "text": "Marine Le Pen"
+          },
+          {
+            "start_char": 2016,
+            "end_char": 2024,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2063,
+            "end_char": 2066,
+            "label": "ORG",
+            "text": "TVA"
+          },
+          {
+            "start_char": 2334,
+            "end_char": 2348,
+            "label": "LOC",
+            "text": "France.<br><br"
+          },
+          {
+            "start_char": 2448,
+            "end_char": 2456,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2497,
+            "end_char": 2515,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 2556,
+            "end_char": 2564,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2629,
+            "end_char": 2652,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2656,
+            "end_char": 2687,
+            "label": "PER",
+            "text": "Stéphane Rambaud.</strong> Très"
+          },
+          {
+            "start_char": 2710,
+            "end_char": 2713,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2754,
+            "end_char": 2756,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2772,
+            "end_char": 2774,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2864,
+            "end_char": 2869,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 2904,
+            "end_char": 2906,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3187,
+            "end_char": 3210,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3214,
+            "end_char": 3240,
+            "label": "PER",
+            "text": "Laurent Jacobelli.</strong"
+          },
+          {
+            "start_char": 3281,
+            "end_char": 3286,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3641,
+            "end_char": 3657,
+            "label": "ORG",
+            "text": "Cour des comptes"
+          },
+          {
+            "start_char": 3707,
+            "end_char": 3710,
+            "label": "ORG",
+            "text": "TVA"
+          },
+          {
+            "start_char": 3747,
+            "end_char": 3751,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3871,
+            "end_char": 3880,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 3921,
+            "end_char": 3944,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3948,
+            "end_char": 3973,
+            "label": "PER",
+            "text": "Sébastien Chenu.</strong>"
+          },
+          {
+            "start_char": 4022,
+            "end_char": 4047,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 4099,
+            "end_char": 4102,
+            "label": "ORG",
+            "text": "TVA"
+          },
+          {
+            "start_char": 4123,
+            "end_char": 4128,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4191,
+            "end_char": 4197,
+            "label": "MISC",
+            "text": "Ménagé"
+          },
+          {
+            "start_char": 4239,
+            "end_char": 4268,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong"
+          },
+          {
+            "start_char": 4291,
+            "end_char": 4294,
+            "label": "ORG",
+            "text": "TVA"
+          },
+          {
+            "start_char": 4338,
+            "end_char": 4343,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4389,
+            "end_char": 4415,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4420,
+            "end_char": 4428,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4455,
+            "end_char": 4467,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4756,
+            "end_char": 4758,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4760,
+            "end_char": 4763,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4767,
+            "end_char": 4783,
+            "label": "PER",
+            "text": "HOR.)</i><br><br"
+          },
+          {
+            "start_char": 4914,
+            "end_char": 4916,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4918,
+            "end_char": 4921,
+            "label": "MISC",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4925,
+            "end_char": 4928,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 4988,
+            "end_char": 4990,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 5083,
+            "end_char": 5090,
+            "label": "ORG",
+            "text": "vouliez"
+          },
+          {
+            "start_char": 5108,
+            "end_char": 5114,
+            "label": "MISC",
+            "text": "Ménagé"
+          },
+          {
+            "start_char": 5273,
+            "end_char": 5285,
+            "label": "MISC",
+            "text": "voté.<br><br"
+          },
+          {
+            "start_char": 5286,
+            "end_char": 5291,
+            "label": "LOC",
+            "text": "Votez"
+          },
+          {
+            "start_char": 5464,
+            "end_char": 5466,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5468,
+            "end_char": 5471,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 5475,
+            "end_char": 5487,
+            "label": "LOC",
+            "text": "HOR.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 96,
+            "sentiment": "3 stars",
+            "score": 0.30224519968032837
+          },
+          {
+            "begin_char": 97,
+            "end_char": 164,
+            "sentiment": "3 stars",
+            "score": 0.26318976283073425
+          },
+          {
+            "begin_char": 165,
+            "end_char": 172,
+            "sentiment": "1 star",
+            "score": 0.5371779799461365
+          },
+          {
+            "begin_char": 173,
+            "end_char": 182,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 182,
+            "end_char": 363,
+            "sentiment": "4 stars",
+            "score": 0.2833174169063568
+          },
+          {
+            "begin_char": 363,
+            "end_char": 563,
+            "sentiment": "1 star",
+            "score": 0.5117965936660767
+          },
+          {
+            "begin_char": 564,
+            "end_char": 607,
+            "sentiment": "1 star",
+            "score": 0.4787266254425049
+          },
+          {
+            "begin_char": 607,
+            "end_char": 632,
+            "sentiment": "3 stars",
+            "score": 0.30872294306755066
+          },
+          {
+            "begin_char": 633,
+            "end_char": 640,
+            "sentiment": "1 star",
+            "score": 0.5371779799461365
+          },
+          {
+            "begin_char": 641,
+            "end_char": 765,
+            "sentiment": "1 star",
+            "score": 0.7802329063415527
+          },
+          {
+            "begin_char": 766,
+            "end_char": 923,
+            "sentiment": "4 stars",
+            "score": 0.30640608072280884
+          },
+          {
+            "begin_char": 924,
+            "end_char": 1181,
+            "sentiment": "1 star",
+            "score": 0.5702911615371704
+          },
+          {
+            "begin_char": 1182,
+            "end_char": 1243,
+            "sentiment": "4 stars",
+            "score": 0.31412309408187866
+          },
+          {
+            "begin_char": 1243,
+            "end_char": 1274,
+            "sentiment": "1 star",
+            "score": 0.3052830696105957
+          },
+          {
+            "begin_char": 1275,
+            "end_char": 1363,
+            "sentiment": "1 star",
+            "score": 0.4854404032230377
+          },
+          {
+            "begin_char": 1364,
+            "end_char": 1609,
+            "sentiment": "5 stars",
+            "score": 0.4487432539463043
+          },
+          {
+            "begin_char": 1610,
+            "end_char": 1804,
+            "sentiment": "5 stars",
+            "score": 0.32125696539878845
+          },
+          {
+            "begin_char": 1805,
+            "end_char": 2153,
+            "sentiment": "1 star",
+            "score": 0.49270743131637573
+          },
+          {
+            "begin_char": 2154,
+            "end_char": 2489,
+            "sentiment": "5 stars",
+            "score": 0.2344532608985901
+          },
+          {
+            "begin_char": 2489,
+            "end_char": 2497,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2497,
+            "end_char": 2578,
+            "sentiment": "1 star",
+            "score": 0.30264124274253845
+          },
+          {
+            "begin_char": 2579,
+            "end_char": 2694,
+            "sentiment": "5 stars",
+            "score": 0.4483721852302551
+          },
+          {
+            "begin_char": 2694,
+            "end_char": 2728,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2729,
+            "end_char": 2891,
+            "sentiment": "4 stars",
+            "score": 0.3296317458152771
+          },
+          {
+            "begin_char": 2892,
+            "end_char": 2977,
+            "sentiment": "5 stars",
+            "score": 0.3489697575569153
+          },
+          {
+            "begin_char": 2978,
+            "end_char": 2982,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2982,
+            "end_char": 3135,
+            "sentiment": "3 stars",
+            "score": 0.23142068088054657
+          },
+          {
+            "begin_char": 3136,
+            "end_char": 3241,
+            "sentiment": "3 stars",
+            "score": 0.358842670917511
+          },
+          {
+            "begin_char": 3242,
+            "end_char": 3262,
+            "sentiment": "1 star",
+            "score": 0.8768296241760254
+          },
+          {
+            "begin_char": 3262,
+            "end_char": 3318,
+            "sentiment": "4 stars",
+            "score": 0.2820071280002594
+          },
+          {
+            "begin_char": 3319,
+            "end_char": 3826,
+            "sentiment": "1 star",
+            "score": 0.38322320580482483
+          },
+          {
+            "begin_char": 3827,
+            "end_char": 3881,
+            "sentiment": "4 stars",
+            "score": 0.31308692693710327
+          },
+          {
+            "begin_char": 3882,
+            "end_char": 3990,
+            "sentiment": "3 stars",
+            "score": 0.3964349031448364
+          },
+          {
+            "begin_char": 3991,
+            "end_char": 4048,
+            "sentiment": "1 star",
+            "score": 0.9030080437660217
+          },
+          {
+            "begin_char": 4049,
+            "end_char": 4161,
+            "sentiment": "2 stars",
+            "score": 0.2699431777000427
+          },
+          {
+            "begin_char": 4162,
+            "end_char": 4199,
+            "sentiment": "1 star",
+            "score": 0.30213749408721924
+          },
+          {
+            "begin_char": 4200,
+            "end_char": 4269,
+            "sentiment": "4 stars",
+            "score": 0.2828567922115326
+          },
+          {
+            "begin_char": 4270,
+            "end_char": 4319,
+            "sentiment": "1 star",
+            "score": 0.29206469655036926
+          },
+          {
+            "begin_char": 4319,
+            "end_char": 4376,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 4377,
+            "end_char": 4622,
+            "sentiment": "5 stars",
+            "score": 0.6942976117134094
+          },
+          {
+            "begin_char": 4623,
+            "end_char": 4708,
+            "sentiment": "5 stars",
+            "score": 0.6060314774513245
+          },
+          {
+            "begin_char": 4709,
+            "end_char": 4784,
+            "sentiment": "3 stars",
+            "score": 0.30613473057746887
+          },
+          {
+            "begin_char": 4784,
+            "end_char": 4860,
+            "sentiment": "1 star",
+            "score": 0.3445451855659485
+          },
+          {
+            "begin_char": 4861,
+            "end_char": 4929,
+            "sentiment": "4 stars",
+            "score": 0.3086910545825958
+          },
+          {
+            "begin_char": 4930,
+            "end_char": 4997,
+            "sentiment": "3 stars",
+            "score": 0.3430465757846832
+          },
+          {
+            "begin_char": 4997,
+            "end_char": 5033,
+            "sentiment": "5 stars",
+            "score": 0.7393537163734436
+          },
+          {
+            "begin_char": 5034,
+            "end_char": 5416,
+            "sentiment": "5 stars",
+            "score": 0.7445163726806641
+          },
+          {
+            "begin_char": 5417,
+            "end_char": 5488,
+            "sentiment": "3 stars",
+            "score": 0.2984829246997833
+          },
+          {
+            "begin_char": 5489,
+            "end_char": 5492,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-15",
+        "pageJO": "1367",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

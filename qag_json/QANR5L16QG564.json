@@ -1,0 +1,683 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG564",
+    "identifiant": {
+      "numero": "564",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enseignement maternel et primaire",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "CARTE SCOLAIRE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793190",
+        "mandatRef": "PM802633"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Éducation nationale et jeunesse",
+      "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Éducation nationale et jeunesse",
+          "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CARTE SCOLAIRE <a name=PG9></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Laurence Heydel Grillere.<br><br><strong>Mme Laurence Heydel Grillere. </strong>Monsieur le ministre de l'éducation nationale et de la jeunesse, au moment où la nouvelle carte scolaire est publiée, la question du comptage des effectifs demeure, une fois de plus, un sujet d'inquiétude majeure s'agissant du maintien des postes ou des classes en zone rurale.<br><br>Dans ma circonscription, en Ardèche, des postes vont être supprimés dans les communes de Désaignes et de Saint-Jeure-d'Ay, car l'académie a jugé que leurs très petites sections ne devaient pas entrer en compte dans le recensement des effectifs globaux, au motif que ces communes ne se situent pas en zone de montagne – alors qu'elles se trouvent en zone rurale, et même de revitalisation rurale.<br><br><strong>M. Sébastien Jumel.</strong> Elle a raison ! Écoutez le terrain !<br><br><strong>Mme Laurence Heydel Grillere. </strong>Pourtant, lors d'une intervention au Sénat en février 2022, votre prédécesseur a tranché en faveur de l'intégration des très petites sections dans le comptage des effectifs.<br><br>La situation actuelle déstabilise grandement nos communes rurales.<br><br><strong>M. Jean-Paul Lecoq et M. Jean-Pierre Vigier .</strong> C'est vrai !<br><br><strong>Mme Laurence Heydel Grillere. </strong>Combien de fois encore faudra-t-il reprendre la question des critères de comptage des effectifs ? Combien d'enseignants, de parents d'élèves, de maires de communes rurales faudra-t-il encore rassurer chaque année ?<br><br><strong>M. Jean-Paul Lecoq.</strong> Excellent !<br><br><strong>M. Patrick Hetzel.</strong> Très juste !<br><br><strong>M. Sébastien Chenu.</strong> Vous êtes une députée de l'opposition ?<br><br><strong>Mme Laurence Heydel Grillere. </strong>La fermeture de classes pénalise les familles et les enfants des territoires ruraux : ce n'est pas acceptable. <i>(M. Jean-Yves Bony applaudit.)</i> C'est dans ces territoires que l'éducation nationale doit mobiliser et encourager les partenariats avec tous les acteurs locaux. L'avenir de notre jeunesse est primordial : donnons aux enfants des territoires ruraux les mêmes chances qu'aux autres.<br><br><strong>M. Sébastien Jumel.</strong> Elle a raison !<br><br><strong>Mme Laurence Heydel Grillere. </strong>L'égalité des chances, partout, et pour tous, c'est le combat de notre majorité.<br><br><strong>M. Julien Odoul.</strong> Ouvrez des classes dans la ruralité !<br><br><strong>Mme Laurence Heydel Grillere. </strong>Quelles actions allez-vous donc entreprendre pour garantir le maintien des classes, pérenniser nos écoles et réaffirmer les directives du ministère sur la prise en compte des très petites sections ? <i>(Applaudissements sur les bancs du groupe RE et sur quelques bancs du groupe LR.)</i><br><br><strong>M. Jean-Paul Lecoq.</strong> Voilà une bonne suppléante !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’éducation nationale et de la jeunesse.<br><br><strong>M. Pap Ndiaye,</strong><i> ministre de l’éducation nationale et de la jeunesse. </i>Votre question s'inscrit évidemment dans un contexte général de baisse des effectifs scolaires. C'est une réalité à l'échelle nationale, mais également en ce qui concerne votre département de l'Ardèche, qui comptera 239 élèves en moins dans le premier degré lors de la rentrée 2023.<br><br>S'agissant de la prise en compte des élèves de moins de 3 ans dans l'élaboration de la carte scolaire, la politique du ministère n'a pas changé.<br><br><strong>Un député du groupe LR .</strong> Il faut peut-être changer de ministre !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>En effet, les enfants de moins de 3 ans peuvent être accueillis à l'école maternelle, au sein des très petites sections : c'est particulièrement le cas dans les zones d'éducation prioritaire (ZEP) et dans les territoires ruraux. Toutefois, nous ne prenons en compte les enfants de moins de 3 ans que s'ils sont scolarisés. Nous ne prenons pas en compte l'ensemble des enfants de moins de 3 ans pour élaborer la carte scolaire. Nous ne nous appuyons donc pas sur un recensement général, mais sur le comptage des très petites sections des écoles maternelles.<br><br>Quant à la carte scolaire en elle-même, elle est en train d'être élaborée, avec les élus locaux et les directions académiques.<br><br><strong>M. Jérôme Nury.</strong> Ils subissent, les élus locaux !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>Des classes seront ouvertes et fermées suivant les réalités locales, et nous procéderons d'ici au mois de juin aux ajustements nécessaires. Car il y a aura bien des ajustements, en fonction, je le répète, des réalités locales et des échanges que nous avons avec les élus locaux, notamment des zones rurales – et j'en profite pour les en remercier. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>M. Jérôme Nury.</strong> Arrêtez avec les élus locaux, ils sont informés en dernier !<br><br><strong>M. Sébastien Jumel.</strong> Vous les respectez peu, les élus locaux !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 37,
+            "label": "MISC",
+            "text": "CARTE SCOLAIRE"
+          },
+          {
+            "start_char": 46,
+            "end_char": 53,
+            "label": "LOC",
+            "text": "PG9></a"
+          },
+          {
+            "start_char": 71,
+            "end_char": 74,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 115,
+            "end_char": 134,
+            "label": "PER",
+            "text": "Mme Laurence Heydel"
+          },
+          {
+            "start_char": 160,
+            "end_char": 188,
+            "label": "PER",
+            "text": "Mme Laurence Heydel Grillere"
+          },
+          {
+            "start_char": 199,
+            "end_char": 207,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 512,
+            "end_char": 519,
+            "label": "LOC",
+            "text": "Ardèche"
+          },
+          {
+            "start_char": 573,
+            "end_char": 582,
+            "label": "LOC",
+            "text": "Désaignes"
+          },
+          {
+            "start_char": 589,
+            "end_char": 605,
+            "label": "LOC",
+            "text": "Saint-Jeure-d'Ay"
+          },
+          {
+            "start_char": 898,
+            "end_char": 928,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong> Elle"
+          },
+          {
+            "start_char": 940,
+            "end_char": 947,
+            "label": "PER",
+            "text": "Écoutez"
+          },
+          {
+            "start_char": 976,
+            "end_char": 1004,
+            "label": "PER",
+            "text": "Mme Laurence Heydel Grillere"
+          },
+          {
+            "start_char": 1052,
+            "end_char": 1057,
+            "label": "ORG",
+            "text": "Sénat"
+          },
+          {
+            "start_char": 1178,
+            "end_char": 1195,
+            "label": "MISC",
+            "text": "effectifs.<br><br"
+          },
+          {
+            "start_char": 1281,
+            "end_char": 1296,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq"
+          },
+          {
+            "start_char": 1300,
+            "end_char": 1303,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 1303,
+            "end_char": 1321,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier"
+          },
+          {
+            "start_char": 1361,
+            "end_char": 1389,
+            "label": "PER",
+            "text": "Mme Laurence Heydel Grillere"
+          },
+          {
+            "start_char": 1400,
+            "end_char": 1407,
+            "label": "LOC",
+            "text": "Combien"
+          },
+          {
+            "start_char": 1498,
+            "end_char": 1505,
+            "label": "LOC",
+            "text": "Combien"
+          },
+          {
+            "start_char": 1633,
+            "end_char": 1668,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong> Excellent"
+          },
+          {
+            "start_char": 1689,
+            "end_char": 1718,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong> Très"
+          },
+          {
+            "start_char": 1745,
+            "end_char": 1770,
+            "label": "PER",
+            "text": "Sébastien Chenu.</strong>"
+          },
+          {
+            "start_char": 1826,
+            "end_char": 1854,
+            "label": "PER",
+            "text": "Mme Laurence Heydel Grillere"
+          },
+          {
+            "start_char": 1983,
+            "end_char": 1997,
+            "label": "PER",
+            "text": "Jean-Yves Bony"
+          },
+          {
+            "start_char": 2281,
+            "end_char": 2311,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong> Elle"
+          },
+          {
+            "start_char": 2338,
+            "end_char": 2366,
+            "label": "PER",
+            "text": "Mme Laurence Heydel Grillere"
+          },
+          {
+            "start_char": 2476,
+            "end_char": 2505,
+            "label": "PER",
+            "text": "Julien Odoul.</strong> Ouvrez"
+          },
+          {
+            "start_char": 2552,
+            "end_char": 2580,
+            "label": "PER",
+            "text": "Mme Laurence Heydel Grillere"
+          },
+          {
+            "start_char": 2828,
+            "end_char": 2837,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 2870,
+            "end_char": 2893,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2897,
+            "end_char": 2921,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 2967,
+            "end_char": 2970,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3011,
+            "end_char": 3013,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3029,
+            "end_char": 3031,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3085,
+            "end_char": 3091,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 3124,
+            "end_char": 3126,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3639,
+            "end_char": 3641,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 3711,
+            "end_char": 3714,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 3942,
+            "end_char": 3945,
+            "label": "ORG",
+            "text": "ZEP"
+          },
+          {
+            "start_char": 4294,
+            "end_char": 4313,
+            "label": "ORG",
+            "text": "maternelles.<br><br"
+          },
+          {
+            "start_char": 4456,
+            "end_char": 4465,
+            "label": "PER",
+            "text": "M. Jérôme"
+          },
+          {
+            "start_char": 4532,
+            "end_char": 4535,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 4969,
+            "end_char": 4992,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5018,
+            "end_char": 5025,
+            "label": "LOC",
+            "text": "Arrêtez"
+          },
+          {
+            "start_char": 5097,
+            "end_char": 5122,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 89,
+            "sentiment": "3 stars",
+            "score": 0.3328418433666229
+          },
+          {
+            "begin_char": 90,
+            "end_char": 189,
+            "sentiment": "3 stars",
+            "score": 0.24978210031986237
+          },
+          {
+            "begin_char": 190,
+            "end_char": 199,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 199,
+            "end_char": 484,
+            "sentiment": "4 stars",
+            "score": 0.39146652817726135
+          },
+          {
+            "begin_char": 484,
+            "end_char": 939,
+            "sentiment": "3 stars",
+            "score": 0.30616357922554016
+          },
+          {
+            "begin_char": 940,
+            "end_char": 960,
+            "sentiment": "5 stars",
+            "score": 0.5567020177841187
+          },
+          {
+            "begin_char": 960,
+            "end_char": 1005,
+            "sentiment": "3 stars",
+            "score": 0.27135971188545227
+          },
+          {
+            "begin_char": 1006,
+            "end_char": 1332,
+            "sentiment": "3 stars",
+            "score": 0.3621010184288025
+          },
+          {
+            "begin_char": 1333,
+            "end_char": 1345,
+            "sentiment": "5 stars",
+            "score": 0.29584935307502747
+          },
+          {
+            "begin_char": 1345,
+            "end_char": 1390,
+            "sentiment": "3 stars",
+            "score": 0.27135971188545227
+          },
+          {
+            "begin_char": 1391,
+            "end_char": 1400,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1400,
+            "end_char": 1497,
+            "sentiment": "2 stars",
+            "score": 0.407982736825943
+          },
+          {
+            "begin_char": 1498,
+            "end_char": 1614,
+            "sentiment": "5 stars",
+            "score": 0.293085515499115
+          },
+          {
+            "begin_char": 1614,
+            "end_char": 1670,
+            "sentiment": "5 stars",
+            "score": 0.7036634683609009
+          },
+          {
+            "begin_char": 1670,
+            "end_char": 1726,
+            "sentiment": "5 stars",
+            "score": 0.5713126063346863
+          },
+          {
+            "begin_char": 1726,
+            "end_char": 1770,
+            "sentiment": "3 stars",
+            "score": 0.3260832130908966
+          },
+          {
+            "begin_char": 1771,
+            "end_char": 1810,
+            "sentiment": "3 stars",
+            "score": 0.2318788766860962
+          },
+          {
+            "begin_char": 1810,
+            "end_char": 1855,
+            "sentiment": "3 stars",
+            "score": 0.27135971188545227
+          },
+          {
+            "begin_char": 1856,
+            "end_char": 1950,
+            "sentiment": "3 stars",
+            "score": 0.3174329698085785
+          },
+          {
+            "begin_char": 1951,
+            "end_char": 1975,
+            "sentiment": "1 star",
+            "score": 0.5158164501190186
+          },
+          {
+            "begin_char": 1976,
+            "end_char": 2013,
+            "sentiment": "3 stars",
+            "score": 0.2888523042201996
+          },
+          {
+            "begin_char": 2014,
+            "end_char": 2142,
+            "sentiment": "4 stars",
+            "score": 0.3793487250804901
+          },
+          {
+            "begin_char": 2143,
+            "end_char": 2322,
+            "sentiment": "5 stars",
+            "score": 0.39770039916038513
+          },
+          {
+            "begin_char": 2322,
+            "end_char": 2367,
+            "sentiment": "3 stars",
+            "score": 0.27135971188545227
+          },
+          {
+            "begin_char": 2368,
+            "end_char": 2377,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2377,
+            "end_char": 2581,
+            "sentiment": "5 stars",
+            "score": 0.4198175072669983
+          },
+          {
+            "begin_char": 2582,
+            "end_char": 2789,
+            "sentiment": "5 stars",
+            "score": 0.49614056944847107
+          },
+          {
+            "begin_char": 2790,
+            "end_char": 2922,
+            "sentiment": "3 stars",
+            "score": 0.3553333878517151
+          },
+          {
+            "begin_char": 2923,
+            "end_char": 2951,
+            "sentiment": "2 stars",
+            "score": 0.25996312499046326
+          },
+          {
+            "begin_char": 2951,
+            "end_char": 2985,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2986,
+            "end_char": 3111,
+            "sentiment": "3 stars",
+            "score": 0.30180537700653076
+          },
+          {
+            "begin_char": 3112,
+            "end_char": 3164,
+            "sentiment": "4 stars",
+            "score": 0.30159011483192444
+          },
+          {
+            "begin_char": 3165,
+            "end_char": 3169,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3169,
+            "end_char": 3264,
+            "sentiment": "4 stars",
+            "score": 0.31084364652633667
+          },
+          {
+            "begin_char": 3265,
+            "end_char": 3652,
+            "sentiment": "4 stars",
+            "score": 0.3853943645954132
+          },
+          {
+            "begin_char": 3653,
+            "end_char": 3692,
+            "sentiment": "4 stars",
+            "score": 0.24954304099082947
+          },
+          {
+            "begin_char": 3692,
+            "end_char": 3745,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 3746,
+            "end_char": 3750,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3750,
+            "end_char": 3978,
+            "sentiment": "4 stars",
+            "score": 0.3320905566215515
+          },
+          {
+            "begin_char": 3979,
+            "end_char": 4072,
+            "sentiment": "3 stars",
+            "score": 0.38767093420028687
+          },
+          {
+            "begin_char": 4073,
+            "end_char": 4176,
+            "sentiment": "2 stars",
+            "score": 0.3896158039569855
+          },
+          {
+            "begin_char": 4177,
+            "end_char": 4480,
+            "sentiment": "4 stars",
+            "score": 0.3374060392379761
+          },
+          {
+            "begin_char": 4481,
+            "end_char": 4513,
+            "sentiment": "5 stars",
+            "score": 0.27729547023773193
+          },
+          {
+            "begin_char": 4513,
+            "end_char": 4566,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 4567,
+            "end_char": 4598,
+            "sentiment": "4 stars",
+            "score": 0.3179534673690796
+          },
+          {
+            "begin_char": 4599,
+            "end_char": 4710,
+            "sentiment": "4 stars",
+            "score": 0.46785449981689453
+          },
+          {
+            "begin_char": 4711,
+            "end_char": 4918,
+            "sentiment": "5 stars",
+            "score": 0.5166078805923462
+          },
+          {
+            "begin_char": 4919,
+            "end_char": 5017,
+            "sentiment": "3 stars",
+            "score": 0.3621528446674347
+          },
+          {
+            "begin_char": 5018,
+            "end_char": 5078,
+            "sentiment": "1 star",
+            "score": 0.6033417582511902
+          },
+          {
+            "begin_char": 5078,
+            "end_char": 5122,
+            "sentiment": "3 stars",
+            "score": 0.31285977363586426
+          },
+          {
+            "begin_char": 5123,
+            "end_char": 5164,
+            "sentiment": "1 star",
+            "score": 0.4516583979129791
+          },
+          {
+            "begin_char": 5164,
+            "end_char": 5172,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-15",
+        "pageJO": "1373",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

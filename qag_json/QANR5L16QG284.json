@@ -1,0 +1,443 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG284",
+    "identifiant": {
+      "numero": "284",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Crise énergétique"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793146",
+        "mandatRef": "PM796173"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition énergétique",
+      "developpe": "Ministère de la transition énergétique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition énergétique",
+          "developpe": "Ministère de la transition énergétique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CRISE ÉNERGÉTIQUE <a name=PG10></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Nicolas Dragon.<br><br><strong>M. Nicolas Dragon. </strong>Madame la ministre de la transition énergétique, vous avez appelé les Français et les TPE-PME – très petites entreprises et petites et moyennes entreprises – à la sobriété énergétique. Sachez que certains fournisseurs ont décidé de la leur imposer d'office.<br><br>À titre d'exemple, j'ai inauguré il y a quelques jours une boulangerie-pâtisserie dans le village de Bourg-et-Comin, dans l'Aisne. Lorsque la direction de cet établissement, qui utilise un compteur provisoire à la puissance limitée, a sollicité tout naturellement auprès du distributeur un contrat en offre de marché, comme la loi le lui impose depuis le 1er janvier 2016, elle s'est vu répondre qu'aucun fournisseur d'électricité, y compris EDF, ne souhaitait engager de nouveaux contrats.<br><br>Ces pratiques deviennent de plus en plus courantes. Après avoir pris attache avec les fournisseurs, il semblerait, pour les citer, « que le contexte de crise, les risques de pénurie, l'instabilité du marché de l'électricité incitent les fournisseurs à réduire leur exposition financière en limitant le nombre de nouveaux clients entrant dans leur portefeuille ». Le Médiateur national de l'énergie est certes compétent pour résoudre les litiges concernant les entreprises de moins de neuf salariés dans le cadre de l'exécution des contrats souscrits, mais qu'en est-il si, précisément, aucun contrat n'est signé ?<br><br>Bon nombre d'entreprises se voient ainsi refuser de nouveaux contrats ou supportent, dans le cadre de contrats existants, de nouveaux tarifs inacceptables. Des entreprises et des particuliers se déconnectent ainsi du réseau électrique et s'équipent, contraints et forcés, de groupes électrogènes polluants.<br><br>La libéralisation du marché, que vous chérissez tant, avec la complicité de la Commission européenne, n'a absolument pas aidé les Français, bien au contraire. Que comptez-vous faire, au vu de l'urgence, pour résoudre ce problème ? <i>(Applaudissements sur les bancs du groupe RN.)</i> <br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre de la transition énergétique.<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre de la transition énergétique. </i>Vous le savez, nous vivons la plus grave crise énergétique depuis près de cinquante ans. Elle a un impact important sur le prix de l'énergie, ce qui atteint les Français, les entreprises et les collectivités locales. Vous le savez également, nous sommes un des gouvernements qui ont le plus agi pour protéger le pouvoir d'achat, la compétitivité des entreprises et les services publics des collectivités locales.<br><br><strong>Un député du groupe RN .</strong> Mais bien sûr !<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre. </i>Vous mentionnez la situation d'un boulanger qui ne dispose pas de contrat. Vous avez raison de souligner que le Médiateur de l'énergie a pour missions de s'adresser aux ménages et aux très petites entreprises et de jouer un rôle d'intermédiaire en cas de conflit entre le fournisseur d'énergie et le client.<br><br>Si l'entreprise que vous évoquez relève de la catégorie des très petites entreprises et si elle utilise de l'énergie sans dépasser une certaine puissance, elle a le droit d'avoir un contrat au tarif réglementé chez EDF.<br><br>Si elle ne remplit pas ces conditions – ce qui est possible car un boulanger a souvent besoin d'une puissance importante pour faire fonctionner son four à pain –, alors elle a tout de même également droit, au titre de la charte signée par l'ensemble des fournisseurs d'énergie, à un contrat. Certes, elle le paiera – du moins pour une partie – au prix du marché, mais elle bénéficiera de l'amortisseur électrique que nous instaurons actuellement.<br><br>Son interlocuteur est la CRE, la Commission de régulation de l'énergie, qui accompagne les entreprises avec lesquelles les fournisseurs ne joueraient pas le jeu. Vous le savez, tous les fournisseurs se sont engagés à faire au moins une offre à des entreprises, à des collectivités locales ou à des associations qui auraient du mal à trouver un distributeur d'énergie.<br><br>Je me tiens à votre disposition pour faire en sorte que le cas isolé que vous évoquez soit très rapidement réglé.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 40,
+            "label": "MISC",
+            "text": "CRISE ÉNERGÉTIQUE"
+          },
+          {
+            "start_char": 75,
+            "end_char": 78,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 119,
+            "end_char": 121,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 122,
+            "end_char": 129,
+            "label": "MISC",
+            "text": "Nicolas"
+          },
+          {
+            "start_char": 156,
+            "end_char": 170,
+            "label": "PER",
+            "text": "Nicolas Dragon"
+          },
+          {
+            "start_char": 181,
+            "end_char": 187,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 251,
+            "end_char": 259,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 267,
+            "end_char": 270,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 431,
+            "end_char": 445,
+            "label": "MISC",
+            "text": "office.<br><br"
+          },
+          {
+            "start_char": 547,
+            "end_char": 561,
+            "label": "LOC",
+            "text": "Bourg-et-Comin"
+          },
+          {
+            "start_char": 570,
+            "end_char": 575,
+            "label": "LOC",
+            "text": "Aisne"
+          },
+          {
+            "start_char": 888,
+            "end_char": 891,
+            "label": "ORG",
+            "text": "EDF"
+          },
+          {
+            "start_char": 927,
+            "end_char": 943,
+            "label": "MISC",
+            "text": "contrats.<br><br"
+          },
+          {
+            "start_char": 1310,
+            "end_char": 1362,
+            "label": "ORG",
+            "text": "Médiateur national de l'énergie est certes compétent"
+          },
+          {
+            "start_char": 1558,
+            "end_char": 1565,
+            "label": "MISC",
+            "text": "br><br>"
+          },
+          {
+            "start_char": 1958,
+            "end_char": 1979,
+            "label": "ORG",
+            "text": "Commission européenne"
+          },
+          {
+            "start_char": 2009,
+            "end_char": 2017,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2155,
+            "end_char": 2162,
+            "label": "ORG",
+            "text": "RN.)</i"
+          },
+          {
+            "start_char": 2180,
+            "end_char": 2183,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2224,
+            "end_char": 2227,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2285,
+            "end_char": 2302,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 2529,
+            "end_char": 2537,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2816,
+            "end_char": 2818,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 2861,
+            "end_char": 2878,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 2901,
+            "end_char": 2909,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3027,
+            "end_char": 3036,
+            "label": "PER",
+            "text": "Médiateur"
+          },
+          {
+            "start_char": 3215,
+            "end_char": 3229,
+            "label": "MISC",
+            "text": "client.<br><br"
+          },
+          {
+            "start_char": 3445,
+            "end_char": 3459,
+            "label": "MISC",
+            "text": "EDF.<br><br>Si"
+          },
+          {
+            "start_char": 3890,
+            "end_char": 3910,
+            "label": "MISC",
+            "text": "actuellement.<br><br"
+          },
+          {
+            "start_char": 3936,
+            "end_char": 3939,
+            "label": "ORG",
+            "text": "CRE"
+          },
+          {
+            "start_char": 3944,
+            "end_char": 3981,
+            "label": "ORG",
+            "text": "Commission de régulation de l'énergie"
+          },
+          {
+            "start_char": 4270,
+            "end_char": 4285,
+            "label": "MISC",
+            "text": "énergie.<br><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 93,
+            "sentiment": "3 stars",
+            "score": 0.31557440757751465
+          },
+          {
+            "begin_char": 94,
+            "end_char": 171,
+            "sentiment": "4 stars",
+            "score": 0.22596275806427002
+          },
+          {
+            "begin_char": 172,
+            "end_char": 181,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 181,
+            "end_char": 365,
+            "sentiment": "5 stars",
+            "score": 0.5528483986854553
+          },
+          {
+            "begin_char": 366,
+            "end_char": 576,
+            "sentiment": "4 stars",
+            "score": 0.30727696418762207
+          },
+          {
+            "begin_char": 577,
+            "end_char": 995,
+            "sentiment": "4 stars",
+            "score": 0.28772661089897156
+          },
+          {
+            "begin_char": 996,
+            "end_char": 1306,
+            "sentiment": "4 stars",
+            "score": 0.3619602620601654
+          },
+          {
+            "begin_char": 1307,
+            "end_char": 1557,
+            "sentiment": "3 stars",
+            "score": 0.35232141613960266
+          },
+          {
+            "begin_char": 1557,
+            "end_char": 1565,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1565,
+            "end_char": 1720,
+            "sentiment": "2 stars",
+            "score": 0.3176613748073578
+          },
+          {
+            "begin_char": 1721,
+            "end_char": 1879,
+            "sentiment": "3 stars",
+            "score": 0.25416210293769836
+          },
+          {
+            "begin_char": 1879,
+            "end_char": 2037,
+            "sentiment": "1 star",
+            "score": 0.6017329692840576
+          },
+          {
+            "begin_char": 2038,
+            "end_char": 2109,
+            "sentiment": "1 star",
+            "score": 0.31963324546813965
+          },
+          {
+            "begin_char": 2110,
+            "end_char": 2198,
+            "sentiment": "4 stars",
+            "score": 0.31437042355537415
+          },
+          {
+            "begin_char": 2199,
+            "end_char": 2324,
+            "sentiment": "3 stars",
+            "score": 0.28279468417167664
+          },
+          {
+            "begin_char": 2325,
+            "end_char": 2363,
+            "sentiment": "4 stars",
+            "score": 0.3457353115081787
+          },
+          {
+            "begin_char": 2364,
+            "end_char": 2456,
+            "sentiment": "5 stars",
+            "score": 0.36635977029800415
+          },
+          {
+            "begin_char": 2457,
+            "end_char": 2584,
+            "sentiment": "5 stars",
+            "score": 0.44354477524757385
+          },
+          {
+            "begin_char": 2585,
+            "end_char": 2796,
+            "sentiment": "5 stars",
+            "score": 0.6519017815589905
+          },
+          {
+            "begin_char": 2796,
+            "end_char": 2845,
+            "sentiment": "2 stars",
+            "score": 0.2662085294723511
+          },
+          {
+            "begin_char": 2845,
+            "end_char": 2910,
+            "sentiment": "3 stars",
+            "score": 0.29715052247047424
+          },
+          {
+            "begin_char": 2911,
+            "end_char": 2989,
+            "sentiment": "3 stars",
+            "score": 0.26989489793777466
+          },
+          {
+            "begin_char": 2990,
+            "end_char": 3748,
+            "sentiment": "4 stars",
+            "score": 0.374895304441452
+          },
+          {
+            "begin_char": 3749,
+            "end_char": 3911,
+            "sentiment": "4 stars",
+            "score": 0.43057307600975037
+          },
+          {
+            "begin_char": 3911,
+            "end_char": 4072,
+            "sentiment": "4 stars",
+            "score": 0.36777615547180176
+          },
+          {
+            "begin_char": 4073,
+            "end_char": 4407,
+            "sentiment": "5 stars",
+            "score": 0.46901336312294006
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-16",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-16",
+        "pageJO": "5420",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

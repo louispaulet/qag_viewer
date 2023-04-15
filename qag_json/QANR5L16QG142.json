@@ -1,0 +1,725 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG142",
+    "identifiant": {
+      "numero": "142",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "industrie",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "COÛT DE L'ÉNERGIE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA344201",
+        "mandatRef": "PM797085"
+      },
+      "groupe": {
+        "organeRef": "PO800496",
+        "abrege": "SOC",
+        "developpe": "Socialistes et apparentés (membre de l’intergroupe NUPES)"
+      }
+    },
+    "minInt": {
+      "abrege": "Économie, finances, souveraineté industrielle et numérique",
+      "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Économie, finances, souveraineté industrielle et numérique",
+          "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> COÛT DE L'ÉNERGIE <a name=PG5></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Bertrand Petit.<br><br><strong>M. Bertrand Petit. </strong>Monsieur le ministre délégué chargé de l'industrie, la huitième circonscription du Pas-de-Calais, que j'ai l'honneur de représenter, est historiquement une terre d'industrie. Je citerai Arc France, leader mondial des arts de la table qui emploie encore 5 000 personnes, les nombreuses papeteries de Blendecques, Wizernes, Wardrecques, ou Aire-sur-la-Lys, l'entreprise Aperam Stainless, à Isbergues, dans le secteur de la métallurgie, ou encore la société Faurecia Intérieur Industrie, à Auchel, dans le secteur de l'automobile. Toutes ces belles entreprises emploient plusieurs milliers de salariés, générant autant d'emplois indirects, et faisant vivre tout un bassin de vie.<br><br>Toutes ces entreprises, parce qu'elles sont de grandes consommatrices de gaz et d'électricité, sont directement touchées et fragilisées par l'explosion des coûts de l'énergie. La trésorerie de ces sociétés est telle qu'elles n'ont malheureusement, pour la plupart, d'autre choix que de recourir au chômage partiel, suscitant une forte et légitime inquiétude chez les salariés. Ceux-ci et leurs familles subissent clairement une double peine, entre salaires rognés de 15 à 20 % et pouvoir d'achat en berne en raison de l'inflation galopante.<br><br>Mes questions sont donc simples. Afin de sauvegarder ces savoir-faire industriels et surtout les milliers d'emplois qui y sont attachés, quelles mesures très concrètes entendez-vous prendre pour répondre à l'urgence de la situation et permettre à ces entreprises d'honorer leurs factures de gaz et d'électricité, qui ont littéralement explosé ?<br><br>L'inquiétude est particulièrement palpable chez Arc France, où vous vous êtes récemment rendu, et où vous avez clairement réaffirmé le total soutien de l'État – ce dont je vous remercie une nouvelle fois. Lorsque j'ai rencontré les représentants des syndicats, le 13 septembre dernier, ils ont exprimé leurs vives interrogations quant à l'avenir du groupe. Ils réclament une prise de participation financière de l'État, le temps de passer cette période de fortes tensions et de grandes turbulences. Y êtes-vous disposé ? Enfin, s'agissant des salariés doublement touchés car contraints de cesser leur activité, envisagez-vous une prise en charge du chômage partiel à 100 % par l'État ? <i>(Applaudissements sur les bancs du groupe SOC.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br><strong>M. Bruno Le Maire,</strong><i> ministre de l’économie, des finances et de la souveraineté industrielle et numérique. </i>Sachez d'abord que je partage totalement votre inquiétude. Le ministre délégué chargé de l'industrie, la Première ministre et moi-même avons parfaitement conscience de la menace que constitue l'explosion des factures énergétiques pour tout notre tissu industriel, qu'il s'agisse des grandes entreprises ou des petites, des PME ou des entreprises de taille industrielle. Nous sommes pleinement mobilisés…<br><br><strong>M. Jean-Philippe Tanguy.</strong> On est foutus alors !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>…pour éviter que la crise inflationniste affaiblisse notre tissu industriel, que nous avons protégé pendant la crise du covid-19.<br><br><strong>M. Sébastien Jumel.</strong> Comment ?<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Nous avons trois réponses très concrètes.<br><br>La première est de constituer, à partir du 1er novembre, un fonds de soutien pour les PME industrielles, qui sera simplifié et doté d'aides plus massives.<br><br><strong>M. Sébastien Jumel.</strong> Une usine à gaz !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Il sera simplifié, car il faut que le rapport entre le montant de l'énergie consommée et le chiffre d'affaires de l'entreprise ne soit plus calculé sur la base de l'année 2021, mais de l'année 2022. Il ne faut plus calculer les bénéfices sur plusieurs mois, mais soutenir les entreprises dès que leur bénéfice commence à baisser. Et il sera massifié, parce que 2 millions d'euros peuvent ne pas suffire à certaines entreprises. Nous avons donc demandé le doublement des aides à 4, 50 et 100 millions d'euros, afin de soutenir tout notre tissu industriel.<br><br>Je le répète, ce guichet unique, simple et massif sera ouvert le 1er novembre et j'invite toutes les PME industrielles qui auraient du mal à régler leurs factures à s'inscrire et à toucher les aides auxquelles elles ont droit. <i>(M. Philippe Vigier applaudit.)</i><br><br>La deuxième réponse est celle qu'apportera Roland Lescure. Certaines entreprises énergo-intensives, comme, entre autres, Arc International, feront l'objet d'une réponse spécifique, taillée sur mesure. La facture énergétique de certaines entreprises industrielles se chiffre en millions : il faut un traitement individualisé, que fournira donc Roland Lescure.<br><br>Enfin, je rappelle que la vraie réponse de long terme, pour laquelle nous nous battons depuis maintenant quatorze mois avec le Président de la République, vise à obtenir enfin le découplage du prix du gaz et du prix de l'électricité,… <i>(Exclamations sur les bancs des groupes RN, LFI-NUPES, LR et GDR-NUPES.)</i><br><br><strong>Plusieurs députés .</strong> Quand ?<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>…afin que nous ayons un prix de l'électricité moins élevé et que tout notre tissu industriel, en France et en Europe, soit protégé. Nous avançons dans la bonne direction, nous avons fait bouger les lignes, et nous irons au bout de ce combat. <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 27,
+            "label": "LOC",
+            "text": "COÛT"
+          },
+          {
+            "start_char": 33,
+            "end_char": 40,
+            "label": "ORG",
+            "text": "ÉNERGIE"
+          },
+          {
+            "start_char": 49,
+            "end_char": 56,
+            "label": "PER",
+            "text": "PG5></a"
+          },
+          {
+            "start_char": 74,
+            "end_char": 77,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 118,
+            "end_char": 120,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 121,
+            "end_char": 151,
+            "label": "PER",
+            "text": "Bertrand Petit.<br><br><strong"
+          },
+          {
+            "start_char": 155,
+            "end_char": 169,
+            "label": "PER",
+            "text": "Bertrand Petit"
+          },
+          {
+            "start_char": 180,
+            "end_char": 188,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 235,
+            "end_char": 262,
+            "label": "LOC",
+            "text": "huitième circonscription du"
+          },
+          {
+            "start_char": 263,
+            "end_char": 276,
+            "label": "LOC",
+            "text": "Pas-de-Calais"
+          },
+          {
+            "start_char": 366,
+            "end_char": 376,
+            "label": "LOC",
+            "text": "Arc France"
+          },
+          {
+            "start_char": 479,
+            "end_char": 490,
+            "label": "LOC",
+            "text": "Blendecques"
+          },
+          {
+            "start_char": 492,
+            "end_char": 500,
+            "label": "LOC",
+            "text": "Wizernes"
+          },
+          {
+            "start_char": 502,
+            "end_char": 513,
+            "label": "LOC",
+            "text": "Wardrecques"
+          },
+          {
+            "start_char": 518,
+            "end_char": 533,
+            "label": "LOC",
+            "text": "Aire-sur-la-Lys"
+          },
+          {
+            "start_char": 548,
+            "end_char": 564,
+            "label": "MISC",
+            "text": "Aperam Stainless"
+          },
+          {
+            "start_char": 568,
+            "end_char": 577,
+            "label": "LOC",
+            "text": "Isbergues"
+          },
+          {
+            "start_char": 635,
+            "end_char": 663,
+            "label": "ORG",
+            "text": "Faurecia Intérieur Industrie"
+          },
+          {
+            "start_char": 667,
+            "end_char": 673,
+            "label": "LOC",
+            "text": "Auchel"
+          },
+          {
+            "start_char": 1394,
+            "end_char": 1411,
+            "label": "MISC",
+            "text": "galopante.<br><br"
+          },
+          {
+            "start_char": 1412,
+            "end_char": 1425,
+            "label": "MISC",
+            "text": "Mes questions"
+          },
+          {
+            "start_char": 1812,
+            "end_char": 1822,
+            "label": "LOC",
+            "text": "Arc France"
+          },
+          {
+            "start_char": 1918,
+            "end_char": 1922,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2178,
+            "end_char": 2182,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2443,
+            "end_char": 2447,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2495,
+            "end_char": 2519,
+            "label": "ORG",
+            "text": "SOC.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2520,
+            "end_char": 2523,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2564,
+            "end_char": 2566,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2582,
+            "end_char": 2584,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2674,
+            "end_char": 2679,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 2714,
+            "end_char": 2716,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2897,
+            "end_char": 2922,
+            "label": "MISC",
+            "text": "Première ministre et moi-"
+          },
+          {
+            "start_char": 3214,
+            "end_char": 3243,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong"
+          },
+          {
+            "start_char": 3285,
+            "end_char": 3290,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3476,
+            "end_char": 3500,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong"
+          },
+          {
+            "start_char": 3530,
+            "end_char": 3535,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3795,
+            "end_char": 3819,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong"
+          },
+          {
+            "start_char": 3857,
+            "end_char": 3862,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4443,
+            "end_char": 4461,
+            "label": "MISC",
+            "text": "industriel.<br><br"
+          },
+          {
+            "start_char": 4696,
+            "end_char": 4711,
+            "label": "PER",
+            "text": "Philippe Vigier"
+          },
+          {
+            "start_char": 4778,
+            "end_char": 4792,
+            "label": "PER",
+            "text": "Roland Lescure"
+          },
+          {
+            "start_char": 4856,
+            "end_char": 4873,
+            "label": "ORG",
+            "text": "Arc International"
+          },
+          {
+            "start_char": 5078,
+            "end_char": 5084,
+            "label": "PER",
+            "text": "Roland"
+          },
+          {
+            "start_char": 5228,
+            "end_char": 5254,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 5379,
+            "end_char": 5381,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 5383,
+            "end_char": 5392,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5394,
+            "end_char": 5396,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 5486,
+            "end_char": 5491,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 5626,
+            "end_char": 5632,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 5639,
+            "end_char": 5645,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 5818,
+            "end_char": 5820,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5822,
+            "end_char": 5825,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 5829,
+            "end_char": 5841,
+            "label": "LOC",
+            "text": "HOR.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 92,
+            "sentiment": "3 stars",
+            "score": 0.32700663805007935
+          },
+          {
+            "begin_char": 93,
+            "end_char": 170,
+            "sentiment": "4 stars",
+            "score": 0.25773194432258606
+          },
+          {
+            "begin_char": 171,
+            "end_char": 180,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 180,
+            "end_char": 354,
+            "sentiment": "4 stars",
+            "score": 0.4026881158351898
+          },
+          {
+            "begin_char": 355,
+            "end_char": 707,
+            "sentiment": "5 stars",
+            "score": 0.4880105257034302
+          },
+          {
+            "begin_char": 708,
+            "end_char": 1039,
+            "sentiment": "5 stars",
+            "score": 0.5049849152565002
+          },
+          {
+            "begin_char": 1040,
+            "end_char": 1240,
+            "sentiment": "2 stars",
+            "score": 0.32001611590385437
+          },
+          {
+            "begin_char": 1241,
+            "end_char": 1412,
+            "sentiment": "3 stars",
+            "score": 0.27935540676116943
+          },
+          {
+            "begin_char": 1412,
+            "end_char": 1444,
+            "sentiment": "4 stars",
+            "score": 0.31919556856155396
+          },
+          {
+            "begin_char": 1445,
+            "end_char": 1756,
+            "sentiment": "5 stars",
+            "score": 0.6534689664840698
+          },
+          {
+            "begin_char": 1756,
+            "end_char": 1764,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1764,
+            "end_char": 1968,
+            "sentiment": "5 stars",
+            "score": 0.7110311985015869
+          },
+          {
+            "begin_char": 1969,
+            "end_char": 2120,
+            "sentiment": "5 stars",
+            "score": 0.3584158420562744
+          },
+          {
+            "begin_char": 2121,
+            "end_char": 2262,
+            "sentiment": "4 stars",
+            "score": 0.37214887142181396
+          },
+          {
+            "begin_char": 2263,
+            "end_char": 2284,
+            "sentiment": "4 stars",
+            "score": 0.2630261778831482
+          },
+          {
+            "begin_char": 2285,
+            "end_char": 2449,
+            "sentiment": "3 stars",
+            "score": 0.28926199674606323
+          },
+          {
+            "begin_char": 2450,
+            "end_char": 2538,
+            "sentiment": "4 stars",
+            "score": 0.3210729956626892
+          },
+          {
+            "begin_char": 2539,
+            "end_char": 2701,
+            "sentiment": "4 stars",
+            "score": 0.3296317458152771
+          },
+          {
+            "begin_char": 2702,
+            "end_char": 2787,
+            "sentiment": "5 stars",
+            "score": 0.3489697575569153
+          },
+          {
+            "begin_char": 2788,
+            "end_char": 2850,
+            "sentiment": "5 stars",
+            "score": 0.3925144374370575
+          },
+          {
+            "begin_char": 2851,
+            "end_char": 3161,
+            "sentiment": "5 stars",
+            "score": 0.6101952195167542
+          },
+          {
+            "begin_char": 3162,
+            "end_char": 3244,
+            "sentiment": "5 stars",
+            "score": 0.3796117603778839
+          },
+          {
+            "begin_char": 3245,
+            "end_char": 3266,
+            "sentiment": "1 star",
+            "score": 0.510849118232727
+          },
+          {
+            "begin_char": 3266,
+            "end_char": 3323,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3324,
+            "end_char": 3403,
+            "sentiment": "3 stars",
+            "score": 0.26899340748786926
+          },
+          {
+            "begin_char": 3403,
+            "end_char": 3511,
+            "sentiment": "3 stars",
+            "score": 0.3083277940750122
+          },
+          {
+            "begin_char": 3511,
+            "end_char": 3568,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3569,
+            "end_char": 3622,
+            "sentiment": "4 stars",
+            "score": 0.38002607226371765
+          },
+          {
+            "begin_char": 3622,
+            "end_char": 3820,
+            "sentiment": "4 stars",
+            "score": 0.3305342197418213
+          },
+          {
+            "begin_char": 3821,
+            "end_char": 3838,
+            "sentiment": "1 star",
+            "score": 0.5822516083717346
+          },
+          {
+            "begin_char": 3838,
+            "end_char": 3895,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3896,
+            "end_char": 3900,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3900,
+            "end_char": 4098,
+            "sentiment": "4 stars",
+            "score": 0.3630482256412506
+          },
+          {
+            "begin_char": 4099,
+            "end_char": 4229,
+            "sentiment": "4 stars",
+            "score": 0.29125696420669556
+          },
+          {
+            "begin_char": 4230,
+            "end_char": 4327,
+            "sentiment": "3 stars",
+            "score": 0.28181374073028564
+          },
+          {
+            "begin_char": 4328,
+            "end_char": 4462,
+            "sentiment": "5 stars",
+            "score": 0.3819560706615448
+          },
+          {
+            "begin_char": 4462,
+            "end_char": 4688,
+            "sentiment": "5 stars",
+            "score": 0.702305793762207
+          },
+          {
+            "begin_char": 4689,
+            "end_char": 4793,
+            "sentiment": "3 stars",
+            "score": 0.3116801977157593
+          },
+          {
+            "begin_char": 4794,
+            "end_char": 4833,
+            "sentiment": "3 stars",
+            "score": 0.3212965130805969
+          },
+          {
+            "begin_char": 4833,
+            "end_char": 4935,
+            "sentiment": "5 stars",
+            "score": 0.4094698429107666
+          },
+          {
+            "begin_char": 4936,
+            "end_char": 5403,
+            "sentiment": "5 stars",
+            "score": 0.4191318452358246
+          },
+          {
+            "begin_char": 5403,
+            "end_char": 5404,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 5404,
+            "end_char": 5430,
+            "sentiment": "3 stars",
+            "score": 0.27975907921791077
+          },
+          {
+            "begin_char": 5430,
+            "end_char": 5431,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 5431,
+            "end_char": 5459,
+            "sentiment": "3 stars",
+            "score": 0.3500288128852844
+          },
+          {
+            "begin_char": 5460,
+            "end_char": 5467,
+            "sentiment": "4 stars",
+            "score": 0.30145949125289917
+          },
+          {
+            "begin_char": 5467,
+            "end_char": 5524,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 5525,
+            "end_char": 5660,
+            "sentiment": "5 stars",
+            "score": 0.4168987274169922
+          },
+          {
+            "begin_char": 5661,
+            "end_char": 5770,
+            "sentiment": "5 stars",
+            "score": 0.5544541478157043
+          },
+          {
+            "begin_char": 5771,
+            "end_char": 5842,
+            "sentiment": "3 stars",
+            "score": 0.2984829246997833
+          },
+          {
+            "begin_char": 5843,
+            "end_char": 5846,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-12",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-12",
+        "pageJO": "3859",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

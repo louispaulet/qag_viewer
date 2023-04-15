@@ -1,0 +1,737 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG570",
+    "identifiant": {
+      "numero": "570",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "retraites : généralités",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "RÉFORME DES RETRAITES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA942",
+        "mandatRef": "PM796836"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DES RETRAITES <a name=PG15></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Charles de Courson.<br><br><strong>M. Charles de Courson. </strong>Madame la Première ministre, la situation du Président de la République au regard des droits à la retraite est très particulière. En effet, il n'est affilié à aucun des quarante-deux régimes de retraite existants et ne paie donc pas de cotisation de retraite. <i>(Exclamations sur divers bancs.)</i><br><br><strong>Mme Danielle Brulebois.</strong> Et alors ?<br><br><strong>M. Charles de Courson. </strong>C'est pourquoi l'article 19 de la loi du 3 avril 1955 a attribué aux anciens présidents de la République une allocation mensuelle ; celle-ci s'élève actuellement à 6 000 euros. Cette situation n'est pas satisfaisante.<br><br>Lors du débat en commission sur le projet de loi organique relatif au système universel de retraite, le mercredi 12 février 2020, j'avais défendu un amendement cosigné par mes collègues Bertrand Pancher, Philippe Vigier, Michel Castellani, Paul Molac, et soutenu par Thierry Benoit, pour affilier le Président de la République au régime universel dans une perspective d'exemplarité.<br><br><strong>M. Thierry Benoit.</strong> On s'est aussi battus pour en faire autant pour la retraite des parlementaires !<br><br><strong>M. Charles de Courson. </strong>Le rapporteur, M. Olivier Véran, avait alors déclaré : « Monsieur de Courson, vous avez parfaitement raison […]. […] Mais le chef de l'État s'est engagé à prendre un décret visant à intégrer les régimes de retraite des présidents de la République dans le régime universel. […] La parole du Président l'engage et nous pouvons lui faire confiance. » Le secrétaire d'État chargé des retraites d'alors, M. Laurent Pietraszewski, appuyait les propos du rapporteur en déclarant : « Le but est de montrer l'exemple […]. Nous souhaitons […] que l'exemple vienne d'en haut : c'est ce que fera le Président de la République. » Il affirmait : « Le Gouvernement prendra donc un décret. »<br><br>Trois années plus tard, ce décret n'a toujours pas été publié. Ma question est simple : le Gouvernement envisage-t-il toujours de publier un décret affiliant le Président de la République au régime général ? <i>(Applaudissements sur les bancs du groupe LIOT ainsi que sur plusieurs bancs des groupes LFI-NUPES, Écolo-NUPES et GDR-NUPES. – M. Pierre Vatin applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Vous le savez, outre les quarante-deux régimes concernés par la réforme des retraites que nous examinons actuellement, il existe des régimes particuliers. Certains sont régis par le bureau des assemblées – ce sont ceux des fonctionnaires parlementaires et des parlementaires.<br><br><strong>M. Aurélien Pradié.</strong> Ne touchez pas à la retraite des sénateurs, ils sont irascibles !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Certains sont régis par des lois organiques – par exemple, celui des membres du Conseil constitutionnel. Enfin, certains ne sont pas à proprement parler des régimes de retraite – nous pourrions parler de régimes de pension, prévus par la République. C'est le cas de celui destiné à assurer une indemnité minimale et une forme d'allocation à d'anciens présidents de la République, qui est défini par un décret, comme vous l'avez évoqué. Celui-ci ne relève pas du Gouvernement mais du seul Président de la République.<br><br>Je peux vous assurer que même si nous ne suivons plus une logique de création d'un système universel – ce qui est une autre question –, le Président de la République a signifié à plusieurs reprises qu'il veillera à être exemplaire, à l'issue de son mandat, dans quatre ans. Comptez sur lui, il a toujours été au rendez-vous de ses engagements. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Charles de Courson.<br><br><strong>M. Charles de Courson. </strong>J'ai invoqué un devoir d'exemplarité. Vous me répondez en citant divers régimes particuliers, outre celui du Président de la République, dont celui des parlementaires.<br><br><strong>M. Sylvain Maillard.</strong> Non, il n'a pas dit ça !<br><br><strong>M. Charles de Courson. </strong>Je rappellerai que le projet de loi instituant un système universel de retraite s'accompagnait d'un projet de loi organique.<br><br><strong>Mme la présidente.</strong> Merci, cher collègue.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 34,
+            "label": "MISC",
+            "text": "RÉFORME DES"
+          },
+          {
+            "start_char": 35,
+            "end_char": 44,
+            "label": "MISC",
+            "text": "RETRAITES"
+          },
+          {
+            "start_char": 79,
+            "end_char": 82,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 123,
+            "end_char": 125,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 126,
+            "end_char": 160,
+            "label": "PER",
+            "text": "Charles de Courson.<br><br><strong"
+          },
+          {
+            "start_char": 164,
+            "end_char": 182,
+            "label": "PER",
+            "text": "Charles de Courson"
+          },
+          {
+            "start_char": 193,
+            "end_char": 211,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 238,
+            "end_char": 264,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 508,
+            "end_char": 539,
+            "label": "PER",
+            "text": "Mme Danielle Brulebois.</strong"
+          },
+          {
+            "start_char": 570,
+            "end_char": 588,
+            "label": "PER",
+            "text": "Charles de Courson"
+          },
+          {
+            "start_char": 693,
+            "end_char": 703,
+            "label": "MISC",
+            "text": "République"
+          },
+          {
+            "start_char": 802,
+            "end_char": 823,
+            "label": "MISC",
+            "text": "satisfaisante.<br><br"
+          },
+          {
+            "start_char": 1010,
+            "end_char": 1026,
+            "label": "PER",
+            "text": "Bertrand Pancher"
+          },
+          {
+            "start_char": 1028,
+            "end_char": 1043,
+            "label": "PER",
+            "text": "Philippe Vigier"
+          },
+          {
+            "start_char": 1045,
+            "end_char": 1062,
+            "label": "PER",
+            "text": "Michel Castellani"
+          },
+          {
+            "start_char": 1064,
+            "end_char": 1074,
+            "label": "PER",
+            "text": "Paul Molac"
+          },
+          {
+            "start_char": 1091,
+            "end_char": 1105,
+            "label": "PER",
+            "text": "Thierry Benoit"
+          },
+          {
+            "start_char": 1124,
+            "end_char": 1150,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1225,
+            "end_char": 1248,
+            "label": "PER",
+            "text": "Thierry Benoit.</strong"
+          },
+          {
+            "start_char": 1349,
+            "end_char": 1367,
+            "label": "PER",
+            "text": "Charles de Courson"
+          },
+          {
+            "start_char": 1393,
+            "end_char": 1409,
+            "label": "PER",
+            "text": "M. Olivier Véran"
+          },
+          {
+            "start_char": 1435,
+            "end_char": 1443,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1447,
+            "end_char": 1454,
+            "label": "LOC",
+            "text": "Courson"
+          },
+          {
+            "start_char": 1513,
+            "end_char": 1517,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1614,
+            "end_char": 1624,
+            "label": "MISC",
+            "text": "République"
+          },
+          {
+            "start_char": 1668,
+            "end_char": 1677,
+            "label": "ORG",
+            "text": "Président"
+          },
+          {
+            "start_char": 1742,
+            "end_char": 1746,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1777,
+            "end_char": 1801,
+            "label": "PER",
+            "text": "M. Laurent Pietraszewski"
+          },
+          {
+            "start_char": 1965,
+            "end_char": 1991,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 2015,
+            "end_char": 2027,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2152,
+            "end_char": 2164,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2222,
+            "end_char": 2248,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 2361,
+            "end_char": 2370,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2372,
+            "end_char": 2383,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2387,
+            "end_char": 2396,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2457,
+            "end_char": 2460,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2501,
+            "end_char": 2503,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2550,
+            "end_char": 2552,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2578,
+            "end_char": 2588,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2653,
+            "end_char": 2664,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 2964,
+            "end_char": 2988,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 3071,
+            "end_char": 3081,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3198,
+            "end_char": 3221,
+            "label": "ORG",
+            "text": "Conseil constitutionnel"
+          },
+          {
+            "start_char": 3356,
+            "end_char": 3366,
+            "label": "LOC",
+            "text": "République"
+          },
+          {
+            "start_char": 3486,
+            "end_char": 3496,
+            "label": "MISC",
+            "text": "République"
+          },
+          {
+            "start_char": 3580,
+            "end_char": 3592,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3780,
+            "end_char": 3806,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3915,
+            "end_char": 3922,
+            "label": "LOC",
+            "text": "Comptez"
+          },
+          {
+            "start_char": 4036,
+            "end_char": 4059,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4060,
+            "end_char": 4063,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4104,
+            "end_char": 4106,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 4107,
+            "end_char": 4141,
+            "label": "PER",
+            "text": "Charles de Courson.<br><br><strong"
+          },
+          {
+            "start_char": 4145,
+            "end_char": 4163,
+            "label": "PER",
+            "text": "Charles de Courson"
+          },
+          {
+            "start_char": 4283,
+            "end_char": 4309,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4357,
+            "end_char": 4386,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong>"
+          },
+          {
+            "start_char": 4430,
+            "end_char": 4448,
+            "label": "PER",
+            "text": "Charles de Courson"
+          },
+          {
+            "start_char": 4599,
+            "end_char": 4626,
+            "label": "PER",
+            "text": "Mme la présidente.</strong>"
+          },
+          {
+            "start_char": 4627,
+            "end_char": 4632,
+            "label": "LOC",
+            "text": "Merci"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 97,
+            "sentiment": "3 stars",
+            "score": 0.298191100358963
+          },
+          {
+            "begin_char": 98,
+            "end_char": 183,
+            "sentiment": "4 stars",
+            "score": 0.2514706552028656
+          },
+          {
+            "begin_char": 184,
+            "end_char": 322,
+            "sentiment": "4 stars",
+            "score": 0.38773342967033386
+          },
+          {
+            "begin_char": 323,
+            "end_char": 452,
+            "sentiment": "1 star",
+            "score": 0.3167385160923004
+          },
+          {
+            "begin_char": 453,
+            "end_char": 551,
+            "sentiment": "3 stars",
+            "score": 0.30412667989730835
+          },
+          {
+            "begin_char": 551,
+            "end_char": 589,
+            "sentiment": "3 stars",
+            "score": 0.2867467403411865
+          },
+          {
+            "begin_char": 590,
+            "end_char": 730,
+            "sentiment": "4 stars",
+            "score": 0.3042086064815521
+          },
+          {
+            "begin_char": 731,
+            "end_char": 775,
+            "sentiment": "3 stars",
+            "score": 0.2755142152309418
+          },
+          {
+            "begin_char": 776,
+            "end_char": 1249,
+            "sentiment": "2 stars",
+            "score": 0.4753374457359314
+          },
+          {
+            "begin_char": 1250,
+            "end_char": 1330,
+            "sentiment": "1 star",
+            "score": 0.25923120975494385
+          },
+          {
+            "begin_char": 1330,
+            "end_char": 1368,
+            "sentiment": "3 stars",
+            "score": 0.2867467403411865
+          },
+          {
+            "begin_char": 1369,
+            "end_char": 1378,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1378,
+            "end_char": 1487,
+            "sentiment": "5 stars",
+            "score": 0.39537447690963745
+          },
+          {
+            "begin_char": 1487,
+            "end_char": 1490,
+            "sentiment": "3 stars",
+            "score": 0.24996277689933777
+          },
+          {
+            "begin_char": 1491,
+            "end_char": 1650,
+            "sentiment": "4 stars",
+            "score": 0.3502008020877838
+          },
+          {
+            "begin_char": 1651,
+            "end_char": 1725,
+            "sentiment": "5 stars",
+            "score": 0.5460748076438904
+          },
+          {
+            "begin_char": 1726,
+            "end_char": 1854,
+            "sentiment": "3 stars",
+            "score": 0.29146066308021545
+          },
+          {
+            "begin_char": 1854,
+            "end_char": 1887,
+            "sentiment": "3 stars",
+            "score": 0.24070166051387787
+          },
+          {
+            "begin_char": 1887,
+            "end_char": 1890,
+            "sentiment": "3 stars",
+            "score": 0.24996277689933777
+          },
+          {
+            "begin_char": 1891,
+            "end_char": 1994,
+            "sentiment": "5 stars",
+            "score": 0.5140295624732971
+          },
+          {
+            "begin_char": 1995,
+            "end_char": 2061,
+            "sentiment": "4 stars",
+            "score": 0.28814616799354553
+          },
+          {
+            "begin_char": 2061,
+            "end_char": 2123,
+            "sentiment": "1 star",
+            "score": 0.38865429162979126
+          },
+          {
+            "begin_char": 2124,
+            "end_char": 2268,
+            "sentiment": "3 stars",
+            "score": 0.2568433880805969
+          },
+          {
+            "begin_char": 2269,
+            "end_char": 2409,
+            "sentiment": "4 stars",
+            "score": 0.34924957156181335
+          },
+          {
+            "begin_char": 2410,
+            "end_char": 2415,
+            "sentiment": "1 star",
+            "score": 0.31640616059303284
+          },
+          {
+            "begin_char": 2416,
+            "end_char": 2475,
+            "sentiment": "5 stars",
+            "score": 0.43430471420288086
+          },
+          {
+            "begin_char": 2476,
+            "end_char": 2609,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 2610,
+            "end_char": 2665,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 2666,
+            "end_char": 2824,
+            "sentiment": "4 stars",
+            "score": 0.32437416911125183
+          },
+          {
+            "begin_char": 2825,
+            "end_char": 2989,
+            "sentiment": "3 stars",
+            "score": 0.3340822756290436
+          },
+          {
+            "begin_char": 2990,
+            "end_char": 3055,
+            "sentiment": "1 star",
+            "score": 0.5396751761436462
+          },
+          {
+            "begin_char": 3055,
+            "end_char": 3113,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 3114,
+            "end_char": 3222,
+            "sentiment": "4 stars",
+            "score": 0.35227733850479126
+          },
+          {
+            "begin_char": 3223,
+            "end_char": 3367,
+            "sentiment": "3 stars",
+            "score": 0.2584287226200104
+          },
+          {
+            "begin_char": 3368,
+            "end_char": 3553,
+            "sentiment": "4 stars",
+            "score": 0.3206839859485626
+          },
+          {
+            "begin_char": 3554,
+            "end_char": 3641,
+            "sentiment": "1 star",
+            "score": 0.23434072732925415
+          },
+          {
+            "begin_char": 3641,
+            "end_char": 3914,
+            "sentiment": "5 stars",
+            "score": 0.6113162636756897
+          },
+          {
+            "begin_char": 3915,
+            "end_char": 3930,
+            "sentiment": "5 stars",
+            "score": 0.5021383762359619
+          },
+          {
+            "begin_char": 3930,
+            "end_char": 3984,
+            "sentiment": "5 stars",
+            "score": 0.5345413684844971
+          },
+          {
+            "begin_char": 3985,
+            "end_char": 4078,
+            "sentiment": "3 stars",
+            "score": 0.3051096200942993
+          },
+          {
+            "begin_char": 4079,
+            "end_char": 4164,
+            "sentiment": "4 stars",
+            "score": 0.2514706552028656
+          },
+          {
+            "begin_char": 4165,
+            "end_char": 4211,
+            "sentiment": "1 star",
+            "score": 0.24980810284614563
+          },
+          {
+            "begin_char": 4212,
+            "end_char": 4386,
+            "sentiment": "3 stars",
+            "score": 0.29180631041526794
+          },
+          {
+            "begin_char": 4387,
+            "end_char": 4411,
+            "sentiment": "1 star",
+            "score": 0.7113785743713379
+          },
+          {
+            "begin_char": 4411,
+            "end_char": 4449,
+            "sentiment": "3 stars",
+            "score": 0.2867467403411865
+          },
+          {
+            "begin_char": 4450,
+            "end_char": 4626,
+            "sentiment": "4 stars",
+            "score": 0.2987244427204132
+          },
+          {
+            "begin_char": 4627,
+            "end_char": 4652,
+            "sentiment": "5 stars",
+            "score": 0.4099787473678589
+          },
+          {
+            "begin_char": 4653,
+            "end_char": 4656,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-15",
+        "pageJO": "1378",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

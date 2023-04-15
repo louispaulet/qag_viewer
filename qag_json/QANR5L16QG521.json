@@ -1,0 +1,569 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG521",
+    "identifiant": {
+      "numero": "521",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "outre-mer",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Réforme des retraites"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA267901",
+        "mandatRef": "PM797841"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DES RETRAITES <a name=PG22></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Mansour Kamardine.<br><br><strong>M. Mansour Kamardine. </strong>Les présidents Ciotti et Marleix ont exprimé leur volonté d'accompagner le Gouvernement dans une réforme des retraites qui soit juste, en particulier pour les plus petites d'entre elles. Si, pour le Gouvernement, la réforme juste concerne le territoire métropolitain, pour le groupe Les Républicains elle doit concerner aussi les territoires ultramarins.<br><br><strong>M. Patrick Hetzel.</strong> Bien sûr ! C'est essentiel.<br><br><strong>M. Mansour Kamardine. </strong>Or les ultramarins partent, en moyenne, plus tard à la retraite, perçoivent des pensions plus faibles et meurent plus jeunes ! En outre-mer, la retraite moyenne pour une carrière complète est de 20 % inférieure à la moyenne nationale et le taux de grande pauvreté des retraités est treize fois supérieur à celui de métropole. Pire encore, à Mayotte, la pension moyenne est de 276 euros alors que l'allocation de solidarité aux personnes âgées (Aspa) est plafonnée, pour des raisons que j'ignore, à 50 % de celle de droit commun !<br><br>La réforme des retraites est donc une occasion à saisir afin d'améliorer deux situations spécifiques : le système de retraite à Mayotte et les petites retraites agricoles en outre-mer, notamment aux Antilles. C'est pourquoi le groupe Les Républicains vous propose de mettre en place dans les territoires ultramarins un dispositif de rachat de trimestres à un prix raisonnable pour les agriculteurs et les travailleurs agricoles, de supprimer sans délai la discrimination de la décote de 50 % de l'Aspa à Mayotte et de porter la pension moyenne à Mayotte à 400 euros au moins, au lieu des 276 euros actuels.<br><br>Aussi pouvez-vous, madame la Première ministre, préciser les initiatives que vous envisagez de prendre pour répondre à nos propositions et améliorer le sort des retraités ultramarins ? <i>(Applaudissements sur les bancs du groupe LR.)</i><br><br><strong>M. Patrick Hetzel.</strong> Très bien !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Vous évoquez les retraites en outre-mer, et vous avez raison de souligner que le régime qui y est appliqué crée des différences. Votre question revêt plusieurs aspects, à commencer par celui des salariés de l'agriculture. Comme j'ai déjà eu l'occasion de le dire, nous devons relever un défi : au-delà du régime général, la mise en place du régime complémentaire Agirc-Arrco doit être une priorité pour les salariés de l'agriculture. Cela relève toutefois d'une discussion entre les partenaires sociaux, puisque ce sont eux qui assurent la gouvernance de l'Agirc et de l'Arrco. Nous pouvons y œuvrer ensemble, à la fois pour mener un travail de conviction…<br><br><strong>M. Benjamin Lucas.</strong> Un travail de conviction, vous ?<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>…et pour faire en sorte que les salariés de l'agriculture des territoires d'outre-mer soient mieux couverts, et de façon plus juste.<br><br>Vous avez aussi évoqué les retraités à Mayotte. Vous le savez mieux que personne, la situation de ce territoire est très spécifique : le régime obligatoire ne s'y applique que depuis 1987, il n'y a pas de régime complémentaire obligatoire, et la durée de cotisation constatée est particulièrement basse. On n'y compte que 2 500 bénéficiaires du système de retraite, pour des pensions de 287 euros – niveau très faible. Plusieurs dispositifs ont été adaptés, que ce soit par le biais d'une minoration – vous avez évoqué l'allocation de solidarité aux personnes âgées – ou d'un mode de calcul parfois un peu plus favorable pour l'accès à certaines prestations – je pense notamment à la validation d'office d'un certain nombre de trimestres entre 1997 et 2002.<br><br>Une période de convergence s'applique également en ce qui concerne les cotisations et le nombre de trimestres requis, pour partie jusqu'en 2023 et pour partie jusqu'en 2036.<br><br>La situation de Mayotte n'est pas spécifiquement traitée dans le projet de loi que nous avons présenté avec Mme la Première ministre ; ce territoire n'y apparaît pas, car nous avons fait le choix de ne pas appliquer la réforme à Mayotte. Cela ne signifie pas pour autant que nous ne devons pas travailler la question. D'ici à l'examen du texte, je propose que nous réfléchissions, avec tous les parlementaires de Mayotte, à la façon dont nous pouvons améliorer la situation, la rendre plus juste, mieux protéger les retraités et accélérer la convergence à l'occasion d'une revalorisation et d'une amélioration des conditions de gestion des retraites à Mayotte.<br><br><strong>Mme la présidente. </strong>La parole est à M. Mansour Kamardine.<br><br><strong>M. Mansour Kamardine. </strong>Nous sommes à votre disposition pour y travailler pendant le débat qui a cours actuellement, et pas après : on nous a fait beaucoup de promesses, mais elles n'ont jamais été tenues depuis au moins quinze ans. <i>(Applaudissements sur les bancs du groupe LR.)</i><br><br><strong>M. Jean-Yves Bony.</strong> Les promesses n'engagent que ceux qui les écoutent !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 34,
+            "label": "MISC",
+            "text": "RÉFORME DES"
+          },
+          {
+            "start_char": 35,
+            "end_char": 44,
+            "label": "MISC",
+            "text": "RETRAITES"
+          },
+          {
+            "start_char": 79,
+            "end_char": 82,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 123,
+            "end_char": 159,
+            "label": "PER",
+            "text": "M. Mansour Kamardine.<br><br><strong"
+          },
+          {
+            "start_char": 206,
+            "end_char": 212,
+            "label": "PER",
+            "text": "Ciotti"
+          },
+          {
+            "start_char": 216,
+            "end_char": 223,
+            "label": "MISC",
+            "text": "Marleix"
+          },
+          {
+            "start_char": 266,
+            "end_char": 278,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 390,
+            "end_char": 402,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 474,
+            "end_char": 490,
+            "label": "ORG",
+            "text": "Les Républicains"
+          },
+          {
+            "start_char": 564,
+            "end_char": 593,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong> Bien"
+          },
+          {
+            "start_char": 632,
+            "end_char": 652,
+            "label": "PER",
+            "text": "M. Mansour Kamardine"
+          },
+          {
+            "start_char": 1004,
+            "end_char": 1011,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 1107,
+            "end_char": 1111,
+            "label": "LOC",
+            "text": "Aspa"
+          },
+          {
+            "start_char": 1328,
+            "end_char": 1335,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 1399,
+            "end_char": 1407,
+            "label": "LOC",
+            "text": "Antilles"
+          },
+          {
+            "start_char": 1434,
+            "end_char": 1450,
+            "label": "ORG",
+            "text": "Les Républicains"
+          },
+          {
+            "start_char": 1697,
+            "end_char": 1701,
+            "label": "LOC",
+            "text": "Aspa"
+          },
+          {
+            "start_char": 1704,
+            "end_char": 1711,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 1746,
+            "end_char": 1753,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 2044,
+            "end_char": 2067,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2071,
+            "end_char": 2095,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 2123,
+            "end_char": 2126,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2167,
+            "end_char": 2169,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2216,
+            "end_char": 2218,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2244,
+            "end_char": 2254,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2319,
+            "end_char": 2330,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 2699,
+            "end_char": 2710,
+            "label": "PER",
+            "text": "Agirc-Arrco"
+          },
+          {
+            "start_char": 2893,
+            "end_char": 2898,
+            "label": "LOC",
+            "text": "Agirc"
+          },
+          {
+            "start_char": 2907,
+            "end_char": 2912,
+            "label": "LOC",
+            "text": "Arrco"
+          },
+          {
+            "start_char": 3011,
+            "end_char": 3035,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong>"
+          },
+          {
+            "start_char": 3084,
+            "end_char": 3094,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3310,
+            "end_char": 3317,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 4233,
+            "end_char": 4240,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 4325,
+            "end_char": 4340,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 4446,
+            "end_char": 4453,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 4630,
+            "end_char": 4637,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 4869,
+            "end_char": 4892,
+            "label": "ORG",
+            "text": "Mayotte.<br><br><strong"
+          },
+          {
+            "start_char": 4893,
+            "end_char": 4896,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4937,
+            "end_char": 4973,
+            "label": "PER",
+            "text": "M. Mansour Kamardine.<br><br><strong"
+          },
+          {
+            "start_char": 5259,
+            "end_char": 5282,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5286,
+            "end_char": 5309,
+            "label": "PER",
+            "text": "Jean-Yves Bony.</strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 97,
+            "sentiment": "3 stars",
+            "score": 0.2961014211177826
+          },
+          {
+            "begin_char": 98,
+            "end_char": 181,
+            "sentiment": "4 stars",
+            "score": 0.22674080729484558
+          },
+          {
+            "begin_char": 182,
+            "end_char": 191,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 191,
+            "end_char": 377,
+            "sentiment": "5 stars",
+            "score": 0.4119427502155304
+          },
+          {
+            "begin_char": 378,
+            "end_char": 599,
+            "sentiment": "3 stars",
+            "score": 0.2840481102466583
+          },
+          {
+            "begin_char": 600,
+            "end_char": 653,
+            "sentiment": "5 stars",
+            "score": 0.47367382049560547
+          },
+          {
+            "begin_char": 654,
+            "end_char": 789,
+            "sentiment": "2 stars",
+            "score": 0.2810303568840027
+          },
+          {
+            "begin_char": 790,
+            "end_char": 988,
+            "sentiment": "3 stars",
+            "score": 0.33941733837127686
+          },
+          {
+            "begin_char": 989,
+            "end_char": 1192,
+            "sentiment": "2 stars",
+            "score": 0.36034923791885376
+          },
+          {
+            "begin_char": 1192,
+            "end_char": 1408,
+            "sentiment": "4 stars",
+            "score": 0.46250420808792114
+          },
+          {
+            "begin_char": 1409,
+            "end_char": 1814,
+            "sentiment": "5 stars",
+            "score": 0.49745360016822815
+          },
+          {
+            "begin_char": 1814,
+            "end_char": 1998,
+            "sentiment": "5 stars",
+            "score": 0.38966983556747437
+          },
+          {
+            "begin_char": 1999,
+            "end_char": 2095,
+            "sentiment": "3 stars",
+            "score": 0.34260571002960205
+          },
+          {
+            "begin_char": 2096,
+            "end_char": 2107,
+            "sentiment": "5 stars",
+            "score": 0.5586434602737427
+          },
+          {
+            "begin_char": 2107,
+            "end_char": 2141,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2142,
+            "end_char": 2275,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 2276,
+            "end_char": 2331,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 2332,
+            "end_char": 2464,
+            "sentiment": "3 stars",
+            "score": 0.33736899495124817
+          },
+          {
+            "begin_char": 2465,
+            "end_char": 2557,
+            "sentiment": "4 stars",
+            "score": 0.3142320513725281
+          },
+          {
+            "begin_char": 2558,
+            "end_char": 2769,
+            "sentiment": "5 stars",
+            "score": 0.476527601480484
+          },
+          {
+            "begin_char": 2770,
+            "end_char": 2913,
+            "sentiment": "3 stars",
+            "score": 0.42587339878082275
+          },
+          {
+            "begin_char": 2914,
+            "end_char": 3035,
+            "sentiment": "4 stars",
+            "score": 0.37893563508987427
+          },
+          {
+            "begin_char": 3036,
+            "end_char": 3068,
+            "sentiment": "4 stars",
+            "score": 0.29622960090637207
+          },
+          {
+            "begin_char": 3068,
+            "end_char": 3126,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 3127,
+            "end_char": 3318,
+            "sentiment": "3 stars",
+            "score": 0.28782370686531067
+          },
+          {
+            "begin_char": 3319,
+            "end_char": 3574,
+            "sentiment": "3 stars",
+            "score": 0.4321538805961609
+          },
+          {
+            "begin_char": 3575,
+            "end_char": 3689,
+            "sentiment": "2 stars",
+            "score": 0.5130555629730225
+          },
+          {
+            "begin_char": 3690,
+            "end_char": 4036,
+            "sentiment": "4 stars",
+            "score": 0.38421785831451416
+          },
+          {
+            "begin_char": 4036,
+            "end_char": 4351,
+            "sentiment": "4 stars",
+            "score": 0.41894832253456116
+          },
+          {
+            "begin_char": 4352,
+            "end_char": 4454,
+            "sentiment": "2 stars",
+            "score": 0.28140851855278015
+          },
+          {
+            "begin_char": 4455,
+            "end_char": 4534,
+            "sentiment": "2 stars",
+            "score": 0.33662649989128113
+          },
+          {
+            "begin_char": 4535,
+            "end_char": 4911,
+            "sentiment": "5 stars",
+            "score": 0.5034918189048767
+          },
+          {
+            "begin_char": 4912,
+            "end_char": 4995,
+            "sentiment": "4 stars",
+            "score": 0.22674080729484558
+          },
+          {
+            "begin_char": 4996,
+            "end_char": 5213,
+            "sentiment": "1 star",
+            "score": 0.38573771715164185
+          },
+          {
+            "begin_char": 5214,
+            "end_char": 5310,
+            "sentiment": "3 stars",
+            "score": 0.3496885597705841
+          },
+          {
+            "begin_char": 5311,
+            "end_char": 5363,
+            "sentiment": "1 star",
+            "score": 0.3160165548324585
+          },
+          {
+            "begin_char": 5363,
+            "end_char": 5371,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-01",
+        "pageJO": "774",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

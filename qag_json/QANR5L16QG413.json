@@ -1,0 +1,827 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG413",
+    "identifiant": {
+      "numero": "413",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "pharmacie et médicaments",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PÉNURIES DE MÉDICAMENTS"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA783457",
+        "mandatRef": "PM796992"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PÉNURIES DE MÉDICAMENTS <a name=PG27></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Victor Habert-Dassault.<br><br><strong>M. Victor Habert-Dassault. </strong>Ma question s’adresse à M. le ministre des solidarités et de la santé. Ce week-end, j’étais à Breteuil, une charmante petite ville de ma circonscription. Il y a là-bas une maison de santé qui fait partie du patrimoine local. Comme souvent, les élus locaux se démènent pour trouver une solution de proximité afin de pallier le problème des déserts médicaux – un mal de l’Oise, pour ne pas dire un mal français. Une pharmacienne de Breteuil est venue me trouver et m'a dit d’une voix tremblante mais sûre, où l’inquiétude se mêlait à la colère, qu'elle n’avait pas reçu ses cartons de médicaments, pourtant commandés il y a quelques semaines. Elle m'a annoncé, avec du désespoir dans la voix, qu’elle n’avait plus de Gaviscon, d’amoxicilline, de sirop pour la toux ni de Doliprane pédiatrique. Cela se passe en ce moment même dans le pays de Pasteur. Ce matin, elle m’a encore affirmé que son fournisseur n’avait plus d’antibiotiques pédiatriques ni d’insuline. Si je prends cet exemple concret, c’est pour illustrer la réalité du quotidien dans nos territoires. <i>(« Eh oui ! » sur plusieurs bancs du groupe LR.)</i><br><br>La France souffre d’une maladie chronique qui se répand partout et touche de nombreux produits essentiels : cette maladie s’appelle la pénurie.<br><br><strong>M. Maxime Minot.</strong> Eh oui !<br><br><strong>M. Victor Habert-Dassault. </strong>Comment expliquer cette absence de médicaments très largement utilisés pour combattre les maladies de l’hiver ? Nos lignes industrielles sont-elles en train de nous lâcher ? Est-ce un manque d’anticipation ? Aux pénuries de médicaments s’ajoute l’abondance des rhumes, des angines et des grippes, sans parler de la bronchiolite ni du covid, qui revient. Les pulls ne suffiront pas.<br><br>Les tensions sur les stocks auront des conséquences durables sur la santé de nos concitoyens. Vous dites que le problème sera réglé dans quelques semaines ou quelques mois. Pouvez-vous nous donner, monsieur le ministre, des précisions sur l’état des lieux des pénuries ? Faudra-t-il patienter jusqu’en mars 2023 pour soigner le système d’approvisionnement, comme l’indique l’Agence nationale de sécurité du médicament et des produits de santé (ANSM) ? Et en attendant, que répondez-vous à cette pharmacienne désemparée de Breteuil ? À l’heure des fêtes de Noël, il est incongru de penser que le plus beau cadeau que l’on puisse faire à des parents est une boîte de Doliprane pour enfants. <i>(« Bravo » et applaudissements sur les bancs du groupe LR et sur plusieurs bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>Je vous remercie de me permettre de compléter mon propos sur la pénurie de médicaments. Je l'ai dit tout à l'heure, la mobilisation du Gouvernement est totale. Elle l'est aujourd'hui, au travers de différentes mesures que je rappellerai en partie, mais aussi dans la perspective du plan France 2030…<br><br><strong>M. Olivier Marleix.</strong> C'est loin, 2030 !<br><br><strong>Mme Véronique Louwagie.</strong> On est en 2022 !<br><br><strong>M. François Braun,</strong><i> ministre . </i>…qui nous permettra de rapatrier en France la production de principes actifs – ce sera par exemple le cas du paracétamol l'année prochaine.<br><br>Notre système d'alerte, conduit par l'ANSM, est très intéressant : non seulement il nous informe avant les pénuries sèches, mais il nous permet aussi d'avoir un diagnostic. Les causes, malheureusement, sont en effet multiples. La pénurie de paracétamol que nous avons subie il y a deux mois était liée à un manque de principes actifs et à une augmentation de 13 % de la consommation. Nos discussions avec les industriels ont permis de corriger la situation en quelques semaines, et il n'y a désormais plus de problème avec le paracétamol pour adultes.<br><br>S'agissant du paracétamol pédiatrique, comme j'ai eu l'occasion de l'expliquer tout à l'heure à votre collègue, le problème est lié à un mouvement social au sein du groupe Sanofi, qui a à la fois réduit la production et entravé la distribution du produit. Nous avons donné aux pharmaciens la possibilité de se fournir auprès des grossistes, qui disposent de stocks, et non plus directement auprès des usines afin de mieux répartir les produits sur le territoire national.<br><br><strong>M. Maxime Minot.</strong> Donc tout va bien, madame la marquise !<br><br><strong>M. François Braun,</strong><i> ministre . </i>Quant à l'amoxicilline, la problématique, mondiale, est liée à un défaut de production. Mais il convient aussi de souligner que, d'après les sociétés savantes, les antibiotiques font l'objet de prescriptions excessives – à hauteur de 50 % environ –, particulièrement en France, et qu'une solution alternative existe pour l'ensemble des produits que vous avez mentionnés.<br><br>Les travaux en cours visent à renforcer les liens existants avec les industriels du médicament, comme je l'ai dit tout à l'heure. Dans le cadre de nos discussions sur le prix des médicaments, nous leur demandons aussi un engagement quant au niveau de stock qu'ils doivent avoir pour certains produits – c'est technique, mais particulièrement utile. Enfin, les travaux portent également sur un meilleur usage des antibiotiques. Dans une logique de santé globale, <i>One Heath</i>, nous devons en effet résoudre le problème de l'antibiorésistance, qui tue plusieurs centaines de milliers de personnes par an.<br><br>Enfin, si les pulls ne résoudront certes pas le problème des épidémies, les masques, eux, le peuvent, et je vous invite à en porter un dans les transports. <i>(Protestations sur les bancs du groupe LR et sur plusieurs bancs du groupe RN.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 35,
+            "end_char": 46,
+            "label": "MISC",
+            "text": "MÉDICAMENTS"
+          },
+          {
+            "start_char": 81,
+            "end_char": 84,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 125,
+            "end_char": 127,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 128,
+            "end_char": 166,
+            "label": "PER",
+            "text": "Victor Habert-Dassault.<br><br><strong"
+          },
+          {
+            "start_char": 170,
+            "end_char": 192,
+            "label": "PER",
+            "text": "Victor Habert-Dassault"
+          },
+          {
+            "start_char": 215,
+            "end_char": 217,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 227,
+            "end_char": 229,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 287,
+            "end_char": 289,
+            "label": "LOC",
+            "text": "j’"
+          },
+          {
+            "start_char": 297,
+            "end_char": 305,
+            "label": "LOC",
+            "text": "Breteuil"
+          },
+          {
+            "start_char": 571,
+            "end_char": 577,
+            "label": "LOC",
+            "text": "l’Oise"
+          },
+          {
+            "start_char": 710,
+            "end_char": 722,
+            "label": "PER",
+            "text": "l’inquiétude"
+          },
+          {
+            "start_char": 754,
+            "end_char": 756,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 894,
+            "end_char": 897,
+            "label": "PER",
+            "text": "qu’"
+          },
+          {
+            "start_char": 902,
+            "end_char": 904,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 918,
+            "end_char": 926,
+            "label": "LOC",
+            "text": "Gaviscon"
+          },
+          {
+            "start_char": 928,
+            "end_char": 942,
+            "label": "PER",
+            "text": "d’amoxicilline"
+          },
+          {
+            "start_char": 947,
+            "end_char": 952,
+            "label": "LOC",
+            "text": "sirop"
+          },
+          {
+            "start_char": 972,
+            "end_char": 993,
+            "label": "MISC",
+            "text": "Doliprane pédiatrique"
+          },
+          {
+            "start_char": 1043,
+            "end_char": 1050,
+            "label": "PER",
+            "text": "Pasteur"
+          },
+          {
+            "start_char": 1067,
+            "end_char": 1069,
+            "label": "PER",
+            "text": "m’"
+          },
+          {
+            "start_char": 1106,
+            "end_char": 1108,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 1151,
+            "end_char": 1153,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1197,
+            "end_char": 1199,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 1327,
+            "end_char": 1336,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 1449,
+            "end_char": 1485,
+            "label": "MISC",
+            "text": "s’appelle la pénurie.<br><br><strong"
+          },
+          {
+            "start_char": 1489,
+            "end_char": 1510,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 1539,
+            "end_char": 1561,
+            "label": "PER",
+            "text": "Victor Habert-Dassault"
+          },
+          {
+            "start_char": 1674,
+            "end_char": 1676,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1808,
+            "end_char": 1816,
+            "label": "PER",
+            "text": "s’ajoute"
+          },
+          {
+            "start_char": 1817,
+            "end_char": 1819,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2134,
+            "end_char": 2140,
+            "label": "PER",
+            "text": "Pouvez"
+          },
+          {
+            "start_char": 2200,
+            "end_char": 2202,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2232,
+            "end_char": 2238,
+            "label": "PER",
+            "text": "Faudra"
+          },
+          {
+            "start_char": 2254,
+            "end_char": 2260,
+            "label": "PER",
+            "text": "jusqu’"
+          },
+          {
+            "start_char": 2297,
+            "end_char": 2299,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 2324,
+            "end_char": 2326,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2334,
+            "end_char": 2378,
+            "label": "ORG",
+            "text": "l’Agence nationale de sécurité du médicament"
+          },
+          {
+            "start_char": 2405,
+            "end_char": 2409,
+            "label": "ORG",
+            "text": "ANSM"
+          },
+          {
+            "start_char": 2483,
+            "end_char": 2491,
+            "label": "PER",
+            "text": "Breteuil"
+          },
+          {
+            "start_char": 2496,
+            "end_char": 2498,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2517,
+            "end_char": 2521,
+            "label": "MISC",
+            "text": "Noël"
+          },
+          {
+            "start_char": 2577,
+            "end_char": 2579,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2626,
+            "end_char": 2635,
+            "label": "PER",
+            "text": "Doliprane"
+          },
+          {
+            "start_char": 2656,
+            "end_char": 2661,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 2708,
+            "end_char": 2710,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2744,
+            "end_char": 2767,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2768,
+            "end_char": 2771,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2812,
+            "end_char": 2814,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2878,
+            "end_char": 2886,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3087,
+            "end_char": 3099,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3234,
+            "end_char": 3245,
+            "label": "LOC",
+            "text": "plan France"
+          },
+          {
+            "start_char": 3330,
+            "end_char": 3361,
+            "label": "PER",
+            "text": "Mme Véronique Louwagie.</strong"
+          },
+          {
+            "start_char": 3398,
+            "end_char": 3406,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3426,
+            "end_char": 3434,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3477,
+            "end_char": 3483,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 3570,
+            "end_char": 3588,
+            "label": "MISC",
+            "text": "prochaine.<br><br>"
+          },
+          {
+            "start_char": 3626,
+            "end_char": 3630,
+            "label": "ORG",
+            "text": "ANSM"
+          },
+          {
+            "start_char": 4131,
+            "end_char": 4146,
+            "label": "MISC",
+            "text": "adultes.<br><br"
+          },
+          {
+            "start_char": 4319,
+            "end_char": 4325,
+            "label": "ORG",
+            "text": "Sanofi"
+          },
+          {
+            "start_char": 4637,
+            "end_char": 4658,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 4718,
+            "end_char": 4726,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 4746,
+            "end_char": 4754,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 5031,
+            "end_char": 5037,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 5120,
+            "end_char": 5138,
+            "label": "MISC",
+            "text": "mentionnés.<br><br"
+          },
+          {
+            "start_char": 5604,
+            "end_char": 5616,
+            "label": "MISC",
+            "text": "One Heath</i"
+          },
+          {
+            "start_char": 5951,
+            "end_char": 5953,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 5987,
+            "end_char": 5998,
+            "label": "ORG",
+            "text": "RN.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 99,
+            "sentiment": "3 stars",
+            "score": 0.30833855271339417
+          },
+          {
+            "begin_char": 100,
+            "end_char": 193,
+            "sentiment": "3 stars",
+            "score": 0.26933807134628296
+          },
+          {
+            "begin_char": 194,
+            "end_char": 273,
+            "sentiment": "4 stars",
+            "score": 0.3139655292034149
+          },
+          {
+            "begin_char": 274,
+            "end_char": 356,
+            "sentiment": "4 stars",
+            "score": 0.297946572303772
+          },
+          {
+            "begin_char": 357,
+            "end_char": 427,
+            "sentiment": "5 stars",
+            "score": 0.39047539234161377
+          },
+          {
+            "begin_char": 428,
+            "end_char": 612,
+            "sentiment": "3 stars",
+            "score": 0.28959140181541443
+          },
+          {
+            "begin_char": 613,
+            "end_char": 843,
+            "sentiment": "4 stars",
+            "score": 0.3577398359775543
+          },
+          {
+            "begin_char": 844,
+            "end_char": 994,
+            "sentiment": "1 star",
+            "score": 0.34024712443351746
+          },
+          {
+            "begin_char": 995,
+            "end_char": 1051,
+            "sentiment": "5 stars",
+            "score": 0.3095417618751526
+          },
+          {
+            "begin_char": 1052,
+            "end_char": 1162,
+            "sentiment": "1 star",
+            "score": 0.444033682346344
+          },
+          {
+            "begin_char": 1163,
+            "end_char": 1263,
+            "sentiment": "5 stars",
+            "score": 0.3709791302680969
+          },
+          {
+            "begin_char": 1264,
+            "end_char": 1511,
+            "sentiment": "3 stars",
+            "score": 0.2795588970184326
+          },
+          {
+            "begin_char": 1512,
+            "end_char": 1520,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 1520,
+            "end_char": 1562,
+            "sentiment": "3 stars",
+            "score": 0.2951163649559021
+          },
+          {
+            "begin_char": 1563,
+            "end_char": 1572,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1572,
+            "end_char": 1683,
+            "sentiment": "3 stars",
+            "score": 0.26481056213378906
+          },
+          {
+            "begin_char": 1684,
+            "end_char": 1745,
+            "sentiment": "1 star",
+            "score": 0.27808448672294617
+          },
+          {
+            "begin_char": 1746,
+            "end_char": 1779,
+            "sentiment": "3 stars",
+            "score": 0.4005962014198303
+          },
+          {
+            "begin_char": 1780,
+            "end_char": 1816,
+            "sentiment": "4 stars",
+            "score": 0.26264429092407227
+          },
+          {
+            "begin_char": 1817,
+            "end_char": 1819,
+            "sentiment": "4 stars",
+            "score": 0.3047587275505066
+          },
+          {
+            "begin_char": 1819,
+            "end_char": 1925,
+            "sentiment": "3 stars",
+            "score": 0.2788892090320587
+          },
+          {
+            "begin_char": 1926,
+            "end_char": 1961,
+            "sentiment": "2 stars",
+            "score": 0.408924400806427
+          },
+          {
+            "begin_char": 1961,
+            "end_char": 2054,
+            "sentiment": "4 stars",
+            "score": 0.4062248468399048
+          },
+          {
+            "begin_char": 2055,
+            "end_char": 2133,
+            "sentiment": "2 stars",
+            "score": 0.38484421372413635
+          },
+          {
+            "begin_char": 2134,
+            "end_char": 2231,
+            "sentiment": "4 stars",
+            "score": 0.24975264072418213
+          },
+          {
+            "begin_char": 2232,
+            "end_char": 2412,
+            "sentiment": "2 stars",
+            "score": 0.24121171236038208
+          },
+          {
+            "begin_char": 2413,
+            "end_char": 2493,
+            "sentiment": "1 star",
+            "score": 0.5554640889167786
+          },
+          {
+            "begin_char": 2494,
+            "end_char": 2649,
+            "sentiment": "1 star",
+            "score": 0.29213619232177734
+          },
+          {
+            "begin_char": 2650,
+            "end_char": 2786,
+            "sentiment": "5 stars",
+            "score": 0.405422180891037
+          },
+          {
+            "begin_char": 2787,
+            "end_char": 2905,
+            "sentiment": "4 stars",
+            "score": 0.3129529356956482
+          },
+          {
+            "begin_char": 2906,
+            "end_char": 2947,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 2948,
+            "end_char": 2952,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2952,
+            "end_char": 2954,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 2955,
+            "end_char": 3039,
+            "sentiment": "5 stars",
+            "score": 0.2670316994190216
+          },
+          {
+            "begin_char": 3040,
+            "end_char": 3111,
+            "sentiment": "5 stars",
+            "score": 0.6432245969772339
+          },
+          {
+            "begin_char": 3112,
+            "end_char": 3116,
+            "sentiment": "4 stars",
+            "score": 0.2995372414588928
+          },
+          {
+            "begin_char": 3117,
+            "end_char": 3295,
+            "sentiment": "4 stars",
+            "score": 0.4025780260562897
+          },
+          {
+            "begin_char": 3296,
+            "end_char": 3314,
+            "sentiment": "5 stars",
+            "score": 0.2848711609840393
+          },
+          {
+            "begin_char": 3314,
+            "end_char": 3362,
+            "sentiment": "3 stars",
+            "score": 0.3019118905067444
+          },
+          {
+            "begin_char": 3363,
+            "end_char": 3379,
+            "sentiment": "5 stars",
+            "score": 0.37517255544662476
+          },
+          {
+            "begin_char": 3379,
+            "end_char": 3436,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 3437,
+            "end_char": 3588,
+            "sentiment": "3 stars",
+            "score": 0.2993607819080353
+          },
+          {
+            "begin_char": 3588,
+            "end_char": 3760,
+            "sentiment": "5 stars",
+            "score": 0.6209260821342468
+          },
+          {
+            "begin_char": 3761,
+            "end_char": 3814,
+            "sentiment": "3 stars",
+            "score": 0.34726840257644653
+          },
+          {
+            "begin_char": 3815,
+            "end_char": 3971,
+            "sentiment": "2 stars",
+            "score": 0.3781827390193939
+          },
+          {
+            "begin_char": 3972,
+            "end_char": 4402,
+            "sentiment": "5 stars",
+            "score": 0.36307021975517273
+          },
+          {
+            "begin_char": 4403,
+            "end_char": 4659,
+            "sentiment": "5 stars",
+            "score": 0.3617020845413208
+          },
+          {
+            "begin_char": 4660,
+            "end_char": 4699,
+            "sentiment": "5 stars",
+            "score": 0.5018120408058167
+          },
+          {
+            "begin_char": 4699,
+            "end_char": 4756,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 4757,
+            "end_char": 4848,
+            "sentiment": "3 stars",
+            "score": 0.3501240015029907
+          },
+          {
+            "begin_char": 4849,
+            "end_char": 5268,
+            "sentiment": "4 stars",
+            "score": 0.3895433843135834
+          },
+          {
+            "begin_char": 5269,
+            "end_char": 5487,
+            "sentiment": "4 stars",
+            "score": 0.5158098340034485
+          },
+          {
+            "begin_char": 5488,
+            "end_char": 5565,
+            "sentiment": "4 stars",
+            "score": 0.4764513373374939
+          },
+          {
+            "begin_char": 5566,
+            "end_char": 5908,
+            "sentiment": "5 stars",
+            "score": 0.403460830450058
+          },
+          {
+            "begin_char": 5909,
+            "end_char": 5999,
+            "sentiment": "3 stars",
+            "score": 0.31783199310302734
+          },
+          {
+            "begin_char": 6000,
+            "end_char": 6003,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-15",
+        "pageJO": "7029",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

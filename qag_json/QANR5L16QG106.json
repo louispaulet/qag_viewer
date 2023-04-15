@@ -1,0 +1,755 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG106",
+    "identifiant": {
+      "numero": "106",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "établissements de santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Services de maternité"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793532",
+        "mandatRef": "PM796386"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SERVICES DE MATERNITÉ <a name=PG25></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Murielle Lepvraud.<br><br><strong>Mme Murielle Lepvraud. </strong>Je tenais d'abord, madame Borne et monsieur Dupond-Moretti, à vous dire que je me sens insultée par vos propos. <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>M. Bruno Millienne.</strong> Les provocations, ça se paie !<br><br><strong>Mme Murielle Lepvraud. </strong>Mais je suis ici pour défendre les maternités et c'est un beau combat. Qui doit décider dans quelles conditions naissent nos bébés ? Dans les quarante dernières années, deux tiers des maternités ont fermé leurs portes et la tendance se poursuit.<br><br><strong>M. Maxime Minot.</strong> C'est vrai !<br><br><strong>Mme Murielle Lepvraud. </strong>Les petites maternités disparaissent. Elles laissent place à des structures plus importantes, concentrées dans les grandes agglomérations : mais même dans ces grands centres, c'est la pagaille ! Ainsi, en Seine-Saint-Denis, les sages-femmes en sont réduites à orienter les parturientes vers d'autres établissements.<br><br><strong>M. Maxime Minot.</strong> Comme dans l'Oise !<br><br><strong>Mme Murielle Lepvraud. </strong>On parle alors de délestage, et ce n'est pas sans risques pour les mères et leurs enfants ! Dans le même temps, dans les territoires ruraux comme celui de ma circonscription de Guingamp, l'agence régionale de santé (ARS) envisage de fermer le service de chirurgie H 24 de l'hôpital : la maternité serait elle aussi affectée, alors que nous sommes déjà qualifiés de désert médical ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i><br><br>Madame Borne, dans votre déclaration de politique générale, vous avez indiqué qu'en matière de santé, « les solutions viendront des professionnels, des élus, des patients et du terrain ». Cela fait justement des années que des professionnels, des élus, des patients et des habitants, sur le terrain, se battent pour sauvegarder cette maternité – sans être entendus. Dernier rebondissement en date, M. Noël Le Graët, président de la Fédération française de football (FFF) et ancien maire de Guingamp, défendant tout naturellement son territoire, a discuté avec M. Macron. Le Président de la République lui a assuré que la maternité ne fermerait pas et qu'il s'en occuperait personnellement.<br><br>Je souhaite donc savoir qui décide de l'avenir de nos services de santé : les professionnels, les élus, les patients et le terrain, comme vous le préconisez, madame Borne, l'ARS et les cabinets de conseil,…<br><br><strong>M. Bruno Millienne.</strong> Ah !<br><br><strong>Mme Murielle Lepvraud. </strong>…ou M. Macron tout seul ? Faut-il compter sur le fait du prince et les bonnes grâces du Président de la République <i>(Applaudissements sur les bancs du groupe LFI-NUPES)</i> pour qu'un service de santé publique soit sauvegardé ? Concernant Guingamp,…<br><br><strong>Mme la présidente.</strong> Je vous remercie.<br><br>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>Notre pays connaît depuis plusieurs années une réorganisation continue de ses maternités, sous l'effet – certes – de contraintes liées à la démographie médicale, mais surtout face à des exigences de sécurité et de qualité des soins. Je n'accepterai jamais qu'une femme accouche, qu'un enfant naisse alors que sa sécurité n'est pas garantie. <i>(Applaudissements sur les bancs des groupes RE et Dem.)</i> Des inégalités territoriales persistent et je travaille sur ce sujet.<br><br>Face à ces constats, nous agissons déjà pour mieux prendre en charge, et différemment, les femmes qui veulent accoucher : en témoignent le déploiement en cours des maisons de naissance – les huit déjà en place vont être pérennisées et une vingtaine seront bientôt opérationnelles –, l'extension des missions des centres périnataux de proximité (CPP) dans le champ de la santé de la femme et de l'enfant, l'expérimentation d'équipes mobiles de néonatologie à domicile, ainsi que la prise en charge, pour les femmes issues de territoires isolés, d'un hébergement à proximité de la maternité en amont de l'accouchement, ainsi que des frais de transport vers la maternité et le lieu d'hébergement. Nous nous efforçons également de prendre en charge un fléau mal connu, la dépression post-partum.<br><br>Nous renforçons également l'attractivité des métiers du soin, notamment ceux des maternités. À cet égard, la question de l'exercice mixte ville-hôpital est centrale, car la pénibilité du travail de nuit et de week-end réduit l'attractivité de nos maternités. Les professionnels qui y exercent ont bénéficié de la revalorisation de 12 milliards d'euros du Ségur ; les sages-femmes ont bénéficié d'une revalorisation complémentaire portant la hausse de revenus à 500 euros par mois en moyenne.<br><br>Nous poursuivons aussi des actions pour développer les capacités de formation à ces métiers et spécialités en ouvrant des places supplémentaires, en mettant fin au numerus clausus et en créant une sixième année d'études en maïeutique. <i>(« Concrètement ? » sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>M. François Ruffin.</strong> Et Guingamp ?<br><br><strong>M. François Braun,</strong><i> ministre . </i>Afin de soutenir les personnels des maternités dans l'attente des travaux menés dans le cadre de la conférence des parties prenantes, les mesures de la mission sur les urgences s'appliquent également aux maternités - cela ne vous aura pas échappé. <i>(Exclamations sur les bancs du groupe LFI-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 31,
+            "label": "MISC",
+            "text": "SERVICES"
+          },
+          {
+            "start_char": 35,
+            "end_char": 44,
+            "label": "MISC",
+            "text": "MATERNITÉ"
+          },
+          {
+            "start_char": 53,
+            "end_char": 61,
+            "label": "PER",
+            "text": "PG25></a"
+          },
+          {
+            "start_char": 79,
+            "end_char": 82,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 123,
+            "end_char": 135,
+            "label": "PER",
+            "text": "Mme Murielle"
+          },
+          {
+            "start_char": 161,
+            "end_char": 182,
+            "label": "PER",
+            "text": "Mme Murielle Lepvraud"
+          },
+          {
+            "start_char": 212,
+            "end_char": 224,
+            "label": "PER",
+            "text": "madame Borne"
+          },
+          {
+            "start_char": 237,
+            "end_char": 251,
+            "label": "PER",
+            "text": "Dupond-Moretti"
+          },
+          {
+            "start_char": 350,
+            "end_char": 380,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 384,
+            "end_char": 408,
+            "label": "PER",
+            "text": "Bruno Millienne.</strong"
+          },
+          {
+            "start_char": 456,
+            "end_char": 477,
+            "label": "PER",
+            "text": "Mme Murielle Lepvraud"
+          },
+          {
+            "start_char": 752,
+            "end_char": 773,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 803,
+            "end_char": 824,
+            "label": "PER",
+            "text": "Mme Murielle Lepvraud"
+          },
+          {
+            "start_char": 1040,
+            "end_char": 1057,
+            "label": "LOC",
+            "text": "Seine-Saint-Denis"
+          },
+          {
+            "start_char": 1169,
+            "end_char": 1190,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 1203,
+            "end_char": 1209,
+            "label": "LOC",
+            "text": "l'Oise"
+          },
+          {
+            "start_char": 1227,
+            "end_char": 1248,
+            "label": "PER",
+            "text": "Mme Murielle Lepvraud"
+          },
+          {
+            "start_char": 1475,
+            "end_char": 1478,
+            "label": "MISC",
+            "text": "ARS"
+          },
+          {
+            "start_char": 1523,
+            "end_char": 1524,
+            "label": "PER",
+            "text": "H"
+          },
+          {
+            "start_char": 1686,
+            "end_char": 1708,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 1709,
+            "end_char": 1721,
+            "label": "PER",
+            "text": "Madame Borne"
+          },
+          {
+            "start_char": 2107,
+            "end_char": 2114,
+            "label": "PER",
+            "text": "M. Noël"
+          },
+          {
+            "start_char": 2118,
+            "end_char": 2123,
+            "label": "PER",
+            "text": "Graët"
+          },
+          {
+            "start_char": 2141,
+            "end_char": 2173,
+            "label": "ORG",
+            "text": "Fédération française de football"
+          },
+          {
+            "start_char": 2175,
+            "end_char": 2178,
+            "label": "ORG",
+            "text": "FFF"
+          },
+          {
+            "start_char": 2199,
+            "end_char": 2207,
+            "label": "LOC",
+            "text": "Guingamp"
+          },
+          {
+            "start_char": 2269,
+            "end_char": 2278,
+            "label": "PER",
+            "text": "M. Macron"
+          },
+          {
+            "start_char": 2283,
+            "end_char": 2309,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 2382,
+            "end_char": 2405,
+            "label": "MISC",
+            "text": "personnellement.<br><br"
+          },
+          {
+            "start_char": 2564,
+            "end_char": 2576,
+            "label": "PER",
+            "text": "madame Borne"
+          },
+          {
+            "start_char": 2580,
+            "end_char": 2583,
+            "label": "MISC",
+            "text": "ARS"
+          },
+          {
+            "start_char": 2631,
+            "end_char": 2655,
+            "label": "PER",
+            "text": "Bruno Millienne.</strong"
+          },
+          {
+            "start_char": 2657,
+            "end_char": 2661,
+            "label": "MISC",
+            "text": "Ah !"
+          },
+          {
+            "start_char": 2677,
+            "end_char": 2698,
+            "label": "PER",
+            "text": "Mme Murielle Lepvraud"
+          },
+          {
+            "start_char": 2713,
+            "end_char": 2722,
+            "label": "PER",
+            "text": "M. Macron"
+          },
+          {
+            "start_char": 2735,
+            "end_char": 2739,
+            "label": "LOC",
+            "text": "Faut"
+          },
+          {
+            "start_char": 2797,
+            "end_char": 2844,
+            "label": "PER",
+            "text": "Président de la République <i>(Applaudissements"
+          },
+          {
+            "start_char": 2869,
+            "end_char": 2882,
+            "label": "ORG",
+            "text": "LFI-NUPES)</i"
+          },
+          {
+            "start_char": 2950,
+            "end_char": 2959,
+            "label": "ORG",
+            "text": "Guingamp,"
+          },
+          {
+            "start_char": 2976,
+            "end_char": 3002,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 3012,
+            "end_char": 3028,
+            "label": "MISC",
+            "text": "remercie.<br><br"
+          },
+          {
+            "start_char": 3045,
+            "end_char": 3047,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3111,
+            "end_char": 3119,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3573,
+            "end_char": 3575,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3579,
+            "end_char": 3587,
+            "label": "MISC",
+            "text": "Dem.)</i"
+          },
+          {
+            "start_char": 3652,
+            "end_char": 3665,
+            "label": "MISC",
+            "text": "sujet.<br><br"
+          },
+          {
+            "start_char": 4011,
+            "end_char": 4014,
+            "label": "ORG",
+            "text": "CPP"
+          },
+          {
+            "start_char": 4820,
+            "end_char": 4825,
+            "label": "ORG",
+            "text": "Ségur"
+          },
+          {
+            "start_char": 4948,
+            "end_char": 4963,
+            "label": "MISC",
+            "text": "moyenne.<br><br"
+          },
+          {
+            "start_char": 5128,
+            "end_char": 5135,
+            "label": "MISC",
+            "text": "numerus"
+          },
+          {
+            "start_char": 5246,
+            "end_char": 5276,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5280,
+            "end_char": 5305,
+            "label": "PER",
+            "text": "François Ruffin.</strong>"
+          },
+          {
+            "start_char": 5309,
+            "end_char": 5317,
+            "label": "LOC",
+            "text": "Guingamp"
+          },
+          {
+            "start_char": 5338,
+            "end_char": 5346,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 5366,
+            "end_char": 5374,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 5670,
+            "end_char": 5688,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 97,
+            "sentiment": "3 stars",
+            "score": 0.3237118124961853
+          },
+          {
+            "begin_char": 98,
+            "end_char": 183,
+            "sentiment": "3 stars",
+            "score": 0.24342842400074005
+          },
+          {
+            "begin_char": 184,
+            "end_char": 193,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 193,
+            "end_char": 304,
+            "sentiment": "1 star",
+            "score": 0.7178123593330383
+          },
+          {
+            "begin_char": 305,
+            "end_char": 409,
+            "sentiment": "3 stars",
+            "score": 0.33884015679359436
+          },
+          {
+            "begin_char": 410,
+            "end_char": 440,
+            "sentiment": "1 star",
+            "score": 0.3297707736492157
+          },
+          {
+            "begin_char": 440,
+            "end_char": 478,
+            "sentiment": "3 stars",
+            "score": 0.2708228528499603
+          },
+          {
+            "begin_char": 479,
+            "end_char": 488,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 488,
+            "end_char": 558,
+            "sentiment": "5 stars",
+            "score": 0.43938103318214417
+          },
+          {
+            "begin_char": 559,
+            "end_char": 620,
+            "sentiment": "5 stars",
+            "score": 0.3278685212135315
+          },
+          {
+            "begin_char": 621,
+            "end_char": 774,
+            "sentiment": "3 stars",
+            "score": 0.3586152493953705
+          },
+          {
+            "begin_char": 775,
+            "end_char": 787,
+            "sentiment": "5 stars",
+            "score": 0.29584935307502747
+          },
+          {
+            "begin_char": 787,
+            "end_char": 825,
+            "sentiment": "3 stars",
+            "score": 0.2708228528499603
+          },
+          {
+            "begin_char": 826,
+            "end_char": 835,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 835,
+            "end_char": 872,
+            "sentiment": "5 stars",
+            "score": 0.3026282787322998
+          },
+          {
+            "begin_char": 873,
+            "end_char": 1029,
+            "sentiment": "3 stars",
+            "score": 0.40727776288986206
+          },
+          {
+            "begin_char": 1030,
+            "end_char": 1211,
+            "sentiment": "2 stars",
+            "score": 0.3276399075984955
+          },
+          {
+            "begin_char": 1211,
+            "end_char": 1249,
+            "sentiment": "3 stars",
+            "score": 0.2708228528499603
+          },
+          {
+            "begin_char": 1250,
+            "end_char": 1259,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1259,
+            "end_char": 1350,
+            "sentiment": "3 stars",
+            "score": 0.2762814164161682
+          },
+          {
+            "begin_char": 1351,
+            "end_char": 1640,
+            "sentiment": "1 star",
+            "score": 0.3454243540763855
+          },
+          {
+            "begin_char": 1641,
+            "end_char": 1767,
+            "sentiment": "4 stars",
+            "score": 0.3157748579978943
+          },
+          {
+            "begin_char": 1767,
+            "end_char": 1896,
+            "sentiment": "5 stars",
+            "score": 0.4701571464538574
+          },
+          {
+            "begin_char": 1897,
+            "end_char": 2074,
+            "sentiment": "5 stars",
+            "score": 0.5501911640167236
+          },
+          {
+            "begin_char": 2075,
+            "end_char": 2114,
+            "sentiment": "3 stars",
+            "score": 0.2647940516471863
+          },
+          {
+            "begin_char": 2115,
+            "end_char": 2279,
+            "sentiment": "4 stars",
+            "score": 0.41508743166923523
+          },
+          {
+            "begin_char": 2280,
+            "end_char": 2406,
+            "sentiment": "4 stars",
+            "score": 0.29952287673950195
+          },
+          {
+            "begin_char": 2406,
+            "end_char": 2661,
+            "sentiment": "5 stars",
+            "score": 0.4656946063041687
+          },
+          {
+            "begin_char": 2661,
+            "end_char": 2699,
+            "sentiment": "3 stars",
+            "score": 0.2708228528499603
+          },
+          {
+            "begin_char": 2700,
+            "end_char": 2734,
+            "sentiment": "1 star",
+            "score": 0.34791257977485657
+          },
+          {
+            "begin_char": 2735,
+            "end_char": 2938,
+            "sentiment": "5 stars",
+            "score": 0.4346950054168701
+          },
+          {
+            "begin_char": 2939,
+            "end_char": 3003,
+            "sentiment": "3 stars",
+            "score": 0.30476564168930054
+          },
+          {
+            "begin_char": 3004,
+            "end_char": 3029,
+            "sentiment": "5 stars",
+            "score": 0.4924355447292328
+          },
+          {
+            "begin_char": 3029,
+            "end_char": 3138,
+            "sentiment": "4 stars",
+            "score": 0.32391050457954407
+          },
+          {
+            "begin_char": 3139,
+            "end_char": 3180,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 3181,
+            "end_char": 3185,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3185,
+            "end_char": 3417,
+            "sentiment": "4 stars",
+            "score": 0.4914548695087433
+          },
+          {
+            "begin_char": 3418,
+            "end_char": 3525,
+            "sentiment": "1 star",
+            "score": 0.5472619533538818
+          },
+          {
+            "begin_char": 3526,
+            "end_char": 3588,
+            "sentiment": "4 stars",
+            "score": 0.3047955334186554
+          },
+          {
+            "begin_char": 3589,
+            "end_char": 4359,
+            "sentiment": "4 stars",
+            "score": 0.44838452339172363
+          },
+          {
+            "begin_char": 4360,
+            "end_char": 4465,
+            "sentiment": "4 stars",
+            "score": 0.3956216275691986
+          },
+          {
+            "begin_char": 4465,
+            "end_char": 4557,
+            "sentiment": "4 stars",
+            "score": 0.45184585452079773
+          },
+          {
+            "begin_char": 4558,
+            "end_char": 4723,
+            "sentiment": "3 stars",
+            "score": 0.3880314528942108
+          },
+          {
+            "begin_char": 4724,
+            "end_char": 4827,
+            "sentiment": "4 stars",
+            "score": 0.3220865726470947
+          },
+          {
+            "begin_char": 4828,
+            "end_char": 4964,
+            "sentiment": "3 stars",
+            "score": 0.3381200432777405
+          },
+          {
+            "begin_char": 4964,
+            "end_char": 5198,
+            "sentiment": "5 stars",
+            "score": 0.4767487645149231
+          },
+          {
+            "begin_char": 5199,
+            "end_char": 5204,
+            "sentiment": "3 stars",
+            "score": 0.30726802349090576
+          },
+          {
+            "begin_char": 5205,
+            "end_char": 5219,
+            "sentiment": "2 stars",
+            "score": 0.28535914421081543
+          },
+          {
+            "begin_char": 5220,
+            "end_char": 5305,
+            "sentiment": "3 stars",
+            "score": 0.3706289529800415
+          },
+          {
+            "begin_char": 5306,
+            "end_char": 5319,
+            "sentiment": "3 stars",
+            "score": 0.25656935572624207
+          },
+          {
+            "begin_char": 5319,
+            "end_char": 5376,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 5377,
+            "end_char": 5381,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5381,
+            "end_char": 5595,
+            "sentiment": "4 stars",
+            "score": 0.40303510427474976
+          },
+          {
+            "begin_char": 5596,
+            "end_char": 5628,
+            "sentiment": "1 star",
+            "score": 0.3367865979671478
+          },
+          {
+            "begin_char": 5629,
+            "end_char": 5693,
+            "sentiment": "4 stars",
+            "score": 0.2914128601551056
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3319",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

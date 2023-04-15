@@ -1,0 +1,455 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG459",
+    "identifiant": {
+      "numero": "459",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "industrie",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "ACCIDENT INDUSTRIEL"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795362",
+        "mandatRef": "PM797442"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-18",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-18",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ACCIDENT INDUSTRIEL <a name=PG16></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Lisa Belluco.<br><br><strong>Mme Lisa Belluco. </strong>Monsieur le ministre délégué chargé de l'industrie, hier, lundi 16 janvier, les habitants de Seine-Maritime ont de nouveau connu un accident industriel d'ampleur : un incendie important s’est déclaré dans une cellule d’un entrepôt où étaient stockés 12 250 batteries ou éléments de batteries au lithium, pour ensuite s’étendre à la cellule voisine de l’entrepôt contenant 70 000 pneus. Un incendie, cela arrive, me direz-vous. Alors qu’est-ce qui cloche dans ce cas précis ? Le problème réside dans l’encadrement réglementaire de ce stockage. En effet, le stockage de batteries au lithium ne bénéficie pas d’une rubrique spécifique dans la nomenclature des installations classées pour la protection de l’environnement (ICPE). Autrement dit, un entrepôt de stockage de batteries au lithium est encadré exactement de la même manière qu’un entrepôt de volume similaire stockant plus de 500 tonnes de cartons. En l'espèce, il s'agissait de quelques milliers de batteries au lithium placées dans un entrepôt soumis à enregistrement – un régime d’autorisation très, voire trop simplifié – et sans que soit menée au préalable une étude complète de dangers ou une étude d'impact.<br><br>Monsieur le ministre délégué, vous et vos collègues n’avez que les mots « réindustrialisation de la France » à la bouche. Ne croyez-vous pas qu’il faudrait d’abord prendre au sérieux les enjeux de sécurité industrielle, notamment ceux qui sont liés à la transition énergétique, pour enfin permettre une réindustrialisation sûre pour l'environnement et les populations ? L’agitation législative, c’est bien pour la communication. Mais il faudrait aussi penser à laisser le temps nécessaire à vos services pour rédiger les arrêtés venant préciser la loi. Pour éviter de nouvelles catastrophes industrielles et mieux encadrer la montée en puissance des nouvelles technologies, quand comptez-vous adapter la réglementation des installations classées aux enjeux d’aujourd’hui, notamment au stockage de batteries ?<br><br>D'ailleurs, puisque vous évoquez sans arrêt la réindustrialisation, j'imagine que vous avez prévu une montée en puissance des moyens et des postes dédiés à l'inspection des installations classées, elle qui a justement pour objet d'éviter les accidents industriels ! <i>(Applaudissements sur les bancs des groupes Écolo-NUPES et SOC, ainsi que sur quelques bancs du groupe GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Madame la députée, j'aimerais vous remercier sincèrement de souhaiter la réussite de la réindustrialisation de notre pays. C'est évidemment l'un des enjeux essentiels pour accomplir une transition écologique qui ne soit pas hypocrite, c'est-à-dire une transition qui ne consiste pas seulement à réduire nos émissions ici pour augmenter notre empreinte loin de chez nous.<br><br>La question de la sécurité industrielle est au cœur de nos préoccupations. Vous soulignez à juste titre la nécessité de mieux circonscrire les risques et d'accompagner ces activités économiques de façon adéquate. Nous avons vécu un drame à Lubrizol, en septembre 2019, à l'issue duquel deux trains de mesures ont été pris dans le courant de l'année 2020, en février puis en septembre. Nous avons notamment décidé d'un durcissement des règles qui s'appliquent aux sites classés ICPE – y compris à ceux qui sont seulement soumis à enregistrement –, d'un renforcement des contrôles et de l'augmentation des moyens en matière d'inspection, ce que vous appelez de vos vœux. Après avoir créé cinquante postes ces deux dernières années, nous allons de nouveau en créer vingt-cinq. En 2022, 21 % d'inspections supplémentaires ont été menées par rapport à 2018, et nous comptons bien les porter à plus de 50 %.<br><br>Notez qu'en vertu des règles de transparence, tous les rapports sont accessibles depuis le 1er janvier 2022. Dès la survenance d'un accident, la liste des produits stockés à l'intérieur des entrepôts est rendue publique en des termes intelligibles, de sorte à restaurer la confiance sur ces sujets tellement cruciaux pour assurer notre politique de réindustrialisation.<br><br>Vraiment, merci pour votre question et n'ayez aucun doute sur le fait que nous augmentions les moyens et durcissions les règles.<br><br><strong>Mme Sandrine Rousseau.</strong> Et sur les dangers mêmes du stockage de batteries ?<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 42,
+            "label": "MISC",
+            "text": "ACCIDENT INDUSTRIEL"
+          },
+          {
+            "start_char": 77,
+            "end_char": 80,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 121,
+            "end_char": 153,
+            "label": "PER",
+            "text": "Mme Lisa Belluco.<br><br><strong"
+          },
+          {
+            "start_char": 154,
+            "end_char": 170,
+            "label": "PER",
+            "text": "Mme Lisa Belluco"
+          },
+          {
+            "start_char": 181,
+            "end_char": 189,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 274,
+            "end_char": 288,
+            "label": "LOC",
+            "text": "Seine-Maritime"
+          },
+          {
+            "start_char": 367,
+            "end_char": 369,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 498,
+            "end_char": 500,
+            "label": "LOC",
+            "text": "s’"
+          },
+          {
+            "start_char": 532,
+            "end_char": 534,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 614,
+            "end_char": 617,
+            "label": "LOC",
+            "text": "qu’"
+          },
+          {
+            "start_char": 680,
+            "end_char": 682,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 883,
+            "end_char": 885,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1345,
+            "end_char": 1360,
+            "label": "MISC",
+            "text": "impact.<br><br>"
+          },
+          {
+            "start_char": 1360,
+            "end_char": 1368,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1412,
+            "end_char": 1414,
+            "label": "MISC",
+            "text": "n’"
+          },
+          {
+            "start_char": 1457,
+            "end_char": 1466,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1485,
+            "end_char": 1491,
+            "label": "MISC",
+            "text": "croyez"
+          },
+          {
+            "start_char": 1755,
+            "end_char": 1757,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 2117,
+            "end_char": 2119,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 2489,
+            "end_char": 2500,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2504,
+            "end_char": 2507,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2548,
+            "end_char": 2578,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2579,
+            "end_char": 2582,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2623,
+            "end_char": 2625,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2716,
+            "end_char": 2729,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 2825,
+            "end_char": 2831,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 3190,
+            "end_char": 3202,
+            "label": "MISC",
+            "text": "nous.<br><br"
+          },
+          {
+            "start_char": 3443,
+            "end_char": 3451,
+            "label": "LOC",
+            "text": "Lubrizol"
+          },
+          {
+            "start_char": 4112,
+            "end_char": 4117,
+            "label": "LOC",
+            "text": "Notez"
+          },
+          {
+            "start_char": 4461,
+            "end_char": 4497,
+            "label": "MISC",
+            "text": "réindustrialisation.<br><br>Vraiment"
+          },
+          {
+            "start_char": 4633,
+            "end_char": 4664,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau.</strong>"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 95,
+            "sentiment": "3 stars",
+            "score": 0.2549472153186798
+          },
+          {
+            "begin_char": 96,
+            "end_char": 171,
+            "sentiment": "3 stars",
+            "score": 0.23788204789161682
+          },
+          {
+            "begin_char": 172,
+            "end_char": 181,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 181,
+            "end_char": 566,
+            "sentiment": "4 stars",
+            "score": 0.2505800724029541
+          },
+          {
+            "begin_char": 567,
+            "end_char": 607,
+            "sentiment": "3 stars",
+            "score": 0.24013034999370575
+          },
+          {
+            "begin_char": 608,
+            "end_char": 655,
+            "sentiment": "1 star",
+            "score": 0.4467504322528839
+          },
+          {
+            "begin_char": 656,
+            "end_char": 723,
+            "sentiment": "3 stars",
+            "score": 0.42182013392448425
+          },
+          {
+            "begin_char": 724,
+            "end_char": 906,
+            "sentiment": "3 stars",
+            "score": 0.37448835372924805
+          },
+          {
+            "begin_char": 907,
+            "end_char": 1086,
+            "sentiment": "5 stars",
+            "score": 0.279457688331604
+          },
+          {
+            "begin_char": 1087,
+            "end_char": 1360,
+            "sentiment": "2 stars",
+            "score": 0.36575940251350403
+          },
+          {
+            "begin_char": 1360,
+            "end_char": 1481,
+            "sentiment": "1 star",
+            "score": 0.35731348395347595
+          },
+          {
+            "begin_char": 1482,
+            "end_char": 1729,
+            "sentiment": "5 stars",
+            "score": 0.5395112633705139
+          },
+          {
+            "begin_char": 1730,
+            "end_char": 1788,
+            "sentiment": "3 stars",
+            "score": 0.2896767854690552
+          },
+          {
+            "begin_char": 1789,
+            "end_char": 1912,
+            "sentiment": "4 stars",
+            "score": 0.40451839566230774
+          },
+          {
+            "begin_char": 1913,
+            "end_char": 2168,
+            "sentiment": "5 stars",
+            "score": 0.5733814835548401
+          },
+          {
+            "begin_char": 2168,
+            "end_char": 2186,
+            "sentiment": "4 stars",
+            "score": 0.2941768765449524
+          },
+          {
+            "begin_char": 2186,
+            "end_char": 2441,
+            "sentiment": "5 stars",
+            "score": 0.36085963249206543
+          },
+          {
+            "begin_char": 2442,
+            "end_char": 2597,
+            "sentiment": "4 stars",
+            "score": 0.3315894901752472
+          },
+          {
+            "begin_char": 2598,
+            "end_char": 2820,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 2821,
+            "end_char": 2947,
+            "sentiment": "5 stars",
+            "score": 0.5290791988372803
+          },
+          {
+            "begin_char": 2948,
+            "end_char": 3277,
+            "sentiment": "5 stars",
+            "score": 0.6165845394134521
+          },
+          {
+            "begin_char": 3278,
+            "end_char": 3415,
+            "sentiment": "4 stars",
+            "score": 0.419569194316864
+          },
+          {
+            "begin_char": 3416,
+            "end_char": 3587,
+            "sentiment": "3 stars",
+            "score": 0.24212490022182465
+          },
+          {
+            "begin_char": 3588,
+            "end_char": 3871,
+            "sentiment": "5 stars",
+            "score": 0.50979083776474
+          },
+          {
+            "begin_char": 3872,
+            "end_char": 3976,
+            "sentiment": "5 stars",
+            "score": 0.2521025836467743
+          },
+          {
+            "begin_char": 3977,
+            "end_char": 4112,
+            "sentiment": "4 stars",
+            "score": 0.3437998592853546
+          },
+          {
+            "begin_char": 4112,
+            "end_char": 4117,
+            "sentiment": "4 stars",
+            "score": 0.3006378710269928
+          },
+          {
+            "begin_char": 4118,
+            "end_char": 4220,
+            "sentiment": "5 stars",
+            "score": 0.551310658454895
+          },
+          {
+            "begin_char": 4221,
+            "end_char": 4716,
+            "sentiment": "5 stars",
+            "score": 0.6224952936172485
+          },
+          {
+            "begin_char": 4716,
+            "end_char": 4724,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-18",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-18",
+        "pageJO": "459",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

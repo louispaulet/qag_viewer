@@ -1,0 +1,617 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG386",
+    "identifiant": {
+      "numero": "386",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enseignement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "éventuelles coupures d'électricité dans les établissements scolaires"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794270",
+        "mandatRef": "PM796821"
+      },
+      "groupe": {
+        "organeRef": "PO800496",
+        "abrege": "SOC",
+        "developpe": "Socialistes et apparentés (membre de l’intergroupe NUPES)"
+      }
+    },
+    "minInt": {
+      "abrege": "Éducation nationale et jeunesse",
+      "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Éducation nationale et jeunesse",
+          "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ÉVENTUELLES COUPURES D'ÉLECTRICITÉ DANS LES ÉTABLISSEMENTS SCOLAIRES <a name=PG28></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Anna Pic.<br><br><strong>Mme Anna Pic. </strong>Ma question s'adresse à M. le ministre de l'éducation nationale et de la jeunesse.<br><br>« Je veux vous rassurer. Il n'y a aucun risque de coupure d'électricité parce que, quand il y a des besoins, on s'approvisionne sur le marché européen. » Ces mots ont été prononcés par le Président de la République lui-même, en juin dernier, devant l'ensemble de la presse quotidienne régionale réunie pour l'occasion. Comme une mauvaise habitude qui peine désormais à nous étonner, les faits et décisions prises par l'exécutif viennent contrarier les propos tenus quelques mois plus tôt par ce même exécutif.<br><br>Cette situation pourrait prêter à sourire si elle ne concernait pas directement le quotidien des Françaises et des Français. Hélas, ce que ces derniers redoutaient est désormais une réalité : des délestages pourront avoir lieu au mois de janvier.<br><br>Monsieur le ministre, il y a quelques jours, vous confirmiez que les écoles et établissements scolaires seraient concernés par ces coupures d'électricité et qu'ils seraient amenés à fermer par demi-journée.<br><br>Après les effets désastreux provoqués par la fermeture de ces établissements lors de la crise sanitaire, nous souhaitons aujourd'hui vous alerter sur la nécessité de les maintenir ouverts, au même titre que les structures dites critiques, catégorie dont ils devraient évidemment relever. L’éducation ne peut pas continuellement être la variable d’ajustement des crises successives que nous traversons. <i>(Applaudissements sur les bancs du groupe SOC. – M. Christophe Bex applaudit également.)</i><br><br><strong>M. Inaki Echaniz.</strong> Bravo !<br><br><strong>Mme Anna Pic. </strong>Ces fermetures risquent d'avoir une incidence néfaste sur le rythme scolaire, qui sera déstabilisé, et sur la santé, y compris mentale, des élèves. Elles auront également des conséquences économiques préjudiciables pour les familles, notamment les plus modestes, en matière de garde d'enfant, de surcoût des factures d'énergie ou de restauration en cas de fermeture des cantines.<br><br>De manière sous-jacente, elles remettent aussi en question le travail des femmes puisque, vous le savez, ce sont elles qui, en majorité, resteront à domicile pour garder les enfants.<br><br>Enfin, nous souhaitons également dénoncer la méthode du Gouvernement. Elle est critiquée par des syndicats qui n'ont pas été consultés en amont, et elle place la communauté éducative devant le fait accompli. <i>(Applaudissements sur plusieurs bancs des groupes SOC, LFI-NUPES et Écolo-NUPES.)</i><br><br>Monsieur le ministre, vous l'aurez compris, les inquiétudes et interrogations sont nombreuses, tant pour les familles que pour les collectivités locales qui vont devoir mettre en œuvre ces mesures. Ma question est donc simple : que comptez-vous faire pour apaiser les tensions engendrées par ces délestages ? <i>(Applaudissements sur les bancs du groupe SOC et sur quelques bancs du groupe LFI-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’éducation nationale et de la jeunesse.<br><br><strong>M. Pap Ndiaye,</strong><i> ministre de l’éducation nationale et de la jeunesse. </i>Compte tenu du nombre et de la densité d'écoles et d'établissements scolaires, il est impossible de les préserver <i>a priori</i> d'une éventuelle coupure d'électricité car cela rendrait tout délestage impossible. Une règle nationale a donc été décidée : si la coupure est programmée le matin entre huit et dix heures ou bien entre dix heures et midi, l'établissement scolaire concerné sera effectivement fermé le matin – cela n'est pas lié au chauffage mais à une question de sécurité car les systèmes de sécurité incendie sont électriques. Sans électricité, pas de sécurité. Voilà la raison principale !<br><br>Je le répète, nous ne sommes absolument pas dans la même situation qu'à l'époque du covid : les coupures d'électricité peuvent ne pas arriver – c'est seulement une éventualité qu'il faut raisonnablement envisager ; si elles surviennent, ce sera de manière ponctuelle et dans tous les cas pour une durée limitée à deux heures.<br><br><strong>M. Pierre Cordier.</strong> Et les parents qui doivent aller au travail ? Qui va garder les gamins ?<br><br><strong>M. Pap Ndiaye,</strong><i> ministre. </i>Nous nous tenons prêts, si jamais une coupure d'électricité devait se produire dans des zones spécifiques : cela s'appelle le principe de précaution.<br><br>Si une coupure d'électricité s'avérait nécessaire, nous prendrions le soin, trois jours avant, de prévenir les familles que nous entrons en « zone rouge ».<br><br>La veille, les familles et les élèves seraient tenus informés à dix-sept heures. Nous saurons quelles écoles et quels établissements scolaires seraient privés d'électricité. <i>(Brouhaha sur les bancs des groupes LR et LFI-NUPES.)</i><br><br><strong>Mme la présidente.</strong> Un peu de silence, chers collègues !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>Là encore, cela s'appelle le principe de précaution. Je vous rappelle que, chaque année, des dizaines d'écoles et d'établissements scolaires ferment de manière inopinée, par exemple à la suite d'une chute de neige. C'est ce type d'informations que nous voulons fournir aux familles de manière raisonnable, sans leur faire peur.<br>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 46,
+            "label": "PER",
+            "text": "ÉVENTUELLES COUPURES D'"
+          },
+          {
+            "start_char": 67,
+            "end_char": 81,
+            "label": "MISC",
+            "text": "ÉTABLISSEMENTS"
+          },
+          {
+            "start_char": 126,
+            "end_char": 129,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 170,
+            "end_char": 198,
+            "label": "PER",
+            "text": "Mme Anna Pic.<br><br><strong"
+          },
+          {
+            "start_char": 199,
+            "end_char": 211,
+            "label": "PER",
+            "text": "Mme Anna Pic"
+          },
+          {
+            "start_char": 246,
+            "end_char": 248,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 295,
+            "end_char": 311,
+            "label": "ORG",
+            "text": "jeunesse.<br><br"
+          },
+          {
+            "start_char": 500,
+            "end_char": 526,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 812,
+            "end_char": 828,
+            "label": "MISC",
+            "text": "exécutif.<br><br"
+          },
+          {
+            "start_char": 926,
+            "end_char": 936,
+            "label": "LOC",
+            "text": "Françaises"
+          },
+          {
+            "start_char": 944,
+            "end_char": 952,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1067,
+            "end_char": 1091,
+            "label": "MISC",
+            "text": "janvier.<br><br>Monsieur"
+          },
+          {
+            "start_char": 1276,
+            "end_char": 1296,
+            "label": "PER",
+            "text": "demi-journée.<br><br"
+          },
+          {
+            "start_char": 1585,
+            "end_char": 1596,
+            "label": "PER",
+            "text": "L’éducation"
+          },
+          {
+            "start_char": 1744,
+            "end_char": 1747,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 1754,
+            "end_char": 1768,
+            "label": "PER",
+            "text": "Christophe Bex"
+          },
+          {
+            "start_char": 1813,
+            "end_char": 1835,
+            "label": "PER",
+            "text": "Inaki Echaniz.</strong"
+          },
+          {
+            "start_char": 1837,
+            "end_char": 1842,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 1860,
+            "end_char": 1872,
+            "label": "PER",
+            "text": "Mme Anna Pic"
+          },
+          {
+            "start_char": 2253,
+            "end_char": 2269,
+            "label": "MISC",
+            "text": "cantines.<br><br"
+          },
+          {
+            "start_char": 2444,
+            "end_char": 2459,
+            "label": "MISC",
+            "text": "enfants.<br><br"
+          },
+          {
+            "start_char": 2516,
+            "end_char": 2528,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2721,
+            "end_char": 2724,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2726,
+            "end_char": 2735,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2739,
+            "end_char": 2763,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 2764,
+            "end_char": 2772,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 3118,
+            "end_char": 3121,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 3154,
+            "end_char": 3184,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3185,
+            "end_char": 3188,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3229,
+            "end_char": 3231,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3247,
+            "end_char": 3249,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3303,
+            "end_char": 3309,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 3342,
+            "end_char": 3344,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 4344,
+            "end_char": 4367,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 4457,
+            "end_char": 4463,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 4636,
+            "end_char": 4654,
+            "label": "MISC",
+            "text": "précaution.<br><br"
+          },
+          {
+            "start_char": 4993,
+            "end_char": 5004,
+            "label": "LOC",
+            "text": "i>(Brouhaha"
+          },
+          {
+            "start_char": 5031,
+            "end_char": 5033,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 5037,
+            "end_char": 5067,
+            "label": "LOC",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5068,
+            "end_char": 5094,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 5151,
+            "end_char": 5154,
+            "label": "PER",
+            "text": "Pap"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 144,
+            "sentiment": "3 stars",
+            "score": 0.33123719692230225
+          },
+          {
+            "begin_char": 145,
+            "end_char": 212,
+            "sentiment": "3 stars",
+            "score": 0.24099408090114594
+          },
+          {
+            "begin_char": 213,
+            "end_char": 314,
+            "sentiment": "3 stars",
+            "score": 0.31823527812957764
+          },
+          {
+            "begin_char": 314,
+            "end_char": 336,
+            "sentiment": "5 stars",
+            "score": 0.28463101387023926
+          },
+          {
+            "begin_char": 337,
+            "end_char": 465,
+            "sentiment": "5 stars",
+            "score": 0.5463889837265015
+          },
+          {
+            "begin_char": 466,
+            "end_char": 606,
+            "sentiment": "5 stars",
+            "score": 0.4792073369026184
+          },
+          {
+            "begin_char": 607,
+            "end_char": 613,
+            "sentiment": "5 stars",
+            "score": 0.33902743458747864
+          },
+          {
+            "begin_char": 614,
+            "end_char": 629,
+            "sentiment": "5 stars",
+            "score": 0.3155803084373474
+          },
+          {
+            "begin_char": 629,
+            "end_char": 630,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 631,
+            "end_char": 953,
+            "sentiment": "2 stars",
+            "score": 0.3274323344230652
+          },
+          {
+            "begin_char": 954,
+            "end_char": 1584,
+            "sentiment": "5 stars",
+            "score": 0.37578681111335754
+          },
+          {
+            "begin_char": 1585,
+            "end_char": 1698,
+            "sentiment": "4 stars",
+            "score": 0.28991079330444336
+          },
+          {
+            "begin_char": 1699,
+            "end_char": 1748,
+            "sentiment": "4 stars",
+            "score": 0.3314509689807892
+          },
+          {
+            "begin_char": 1749,
+            "end_char": 1754,
+            "sentiment": "3 stars",
+            "score": 0.28024494647979736
+          },
+          {
+            "begin_char": 1754,
+            "end_char": 1844,
+            "sentiment": "5 stars",
+            "score": 0.49336615204811096
+          },
+          {
+            "begin_char": 1844,
+            "end_char": 1873,
+            "sentiment": "3 stars",
+            "score": 0.29527366161346436
+          },
+          {
+            "begin_char": 1874,
+            "end_char": 1883,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1883,
+            "end_char": 2030,
+            "sentiment": "3 stars",
+            "score": 0.36718833446502686
+          },
+          {
+            "begin_char": 2031,
+            "end_char": 2270,
+            "sentiment": "3 stars",
+            "score": 0.38631707429885864
+          },
+          {
+            "begin_char": 2270,
+            "end_char": 2529,
+            "sentiment": "5 stars",
+            "score": 0.37208351492881775
+          },
+          {
+            "begin_char": 2530,
+            "end_char": 2667,
+            "sentiment": "4 stars",
+            "score": 0.38676556944847107
+          },
+          {
+            "begin_char": 2668,
+            "end_char": 2764,
+            "sentiment": "4 stars",
+            "score": 0.3276800215244293
+          },
+          {
+            "begin_char": 2764,
+            "end_char": 2961,
+            "sentiment": "5 stars",
+            "score": 0.472160279750824
+          },
+          {
+            "begin_char": 2962,
+            "end_char": 3072,
+            "sentiment": "3 stars",
+            "score": 0.3453685939311981
+          },
+          {
+            "begin_char": 3073,
+            "end_char": 3203,
+            "sentiment": "4 stars",
+            "score": 0.3264828622341156
+          },
+          {
+            "begin_char": 3204,
+            "end_char": 3329,
+            "sentiment": "3 stars",
+            "score": 0.30180537700653076
+          },
+          {
+            "begin_char": 3330,
+            "end_char": 3382,
+            "sentiment": "4 stars",
+            "score": 0.30159011483192444
+          },
+          {
+            "begin_char": 3383,
+            "end_char": 3387,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3387,
+            "end_char": 3600,
+            "sentiment": "3 stars",
+            "score": 0.39395672082901
+          },
+          {
+            "begin_char": 3601,
+            "end_char": 3928,
+            "sentiment": "3 stars",
+            "score": 0.36132341623306274
+          },
+          {
+            "begin_char": 3929,
+            "end_char": 3963,
+            "sentiment": "1 star",
+            "score": 0.40626394748687744
+          },
+          {
+            "begin_char": 3964,
+            "end_char": 3992,
+            "sentiment": "3 stars",
+            "score": 0.2781258821487427
+          },
+          {
+            "begin_char": 3992,
+            "end_char": 4214,
+            "sentiment": "2 stars",
+            "score": 0.3301515281200409
+          },
+          {
+            "begin_char": 4215,
+            "end_char": 4414,
+            "sentiment": "2 stars",
+            "score": 0.2967907786369324
+          },
+          {
+            "begin_char": 4415,
+            "end_char": 4441,
+            "sentiment": "2 stars",
+            "score": 0.2750815749168396
+          },
+          {
+            "begin_char": 4441,
+            "end_char": 4493,
+            "sentiment": "3 stars",
+            "score": 0.3062691390514374
+          },
+          {
+            "begin_char": 4494,
+            "end_char": 4498,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4498,
+            "end_char": 4655,
+            "sentiment": "4 stars",
+            "score": 0.3827715218067169
+          },
+          {
+            "begin_char": 4655,
+            "end_char": 4818,
+            "sentiment": "4 stars",
+            "score": 0.32999059557914734
+          },
+          {
+            "begin_char": 4818,
+            "end_char": 4898,
+            "sentiment": "5 stars",
+            "score": 0.28356343507766724
+          },
+          {
+            "begin_char": 4899,
+            "end_char": 4991,
+            "sentiment": "4 stars",
+            "score": 0.2741318941116333
+          },
+          {
+            "begin_char": 4992,
+            "end_char": 5095,
+            "sentiment": "3 stars",
+            "score": 0.2773935794830322
+          },
+          {
+            "begin_char": 5096,
+            "end_char": 5185,
+            "sentiment": "5 stars",
+            "score": 0.27387553453445435
+          },
+          {
+            "begin_char": 5186,
+            "end_char": 5190,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5190,
+            "end_char": 5242,
+            "sentiment": "3 stars",
+            "score": 0.25223851203918457
+          },
+          {
+            "begin_char": 5243,
+            "end_char": 5404,
+            "sentiment": "1 star",
+            "score": 0.36895403265953064
+          },
+          {
+            "begin_char": 5405,
+            "end_char": 5521,
+            "sentiment": "5 stars",
+            "score": 0.3623662292957306
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-07",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-07",
+        "pageJO": "6576",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

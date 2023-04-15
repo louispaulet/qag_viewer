@@ -1,0 +1,515 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG42",
+    "identifiant": {
+      "numero": "42",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Politique énergétique"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA718674",
+        "mandatRef": "PM796164"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition énergétique",
+      "developpe": "Ministère de la transition énergétique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition énergétique",
+          "developpe": "Ministère de la transition énergétique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> POLITIQUE ÉNERGÉTIQUE <a name=PG15></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Olga Givernet.<br><br><strong>Mme Olga Givernet. </strong>À la hausse des prix de l'énergie s'ajoute le risque de pénurie. Il menace notre pays pour l'hiver prochain. Les énergéticiens français, au premier rang desquels EDF, nous alertent. La guerre en Ukraine réduit l'approvisionnement en gaz. La baisse du niveau des cours d'eau ralentit notre production hydroélectrique et affecte notre production nucléaire. Nous subissons depuis de nombreux mois la flambée des cours du pétrole. Les indicateurs sont au rouge.<br><br>Nous devons trouver des solutions immédiates pour protéger les plus modestes d'entre nous. Avec les classes moyennes, ils sont les premiers touchés par cette crise. Le projet de loi portant mesures d’urgence pour la protection du pouvoir d’achat offre dès à présent des réponses concrètes et efficaces aux Français pour qu'ils aient les moyens de se déplacer, puis de se chauffer cet hiver. L'hypothèse d'une coupure nette et totale des livraisons de gaz russe nous impose en effet de nous préparer au scénario du pire. Aussi, pour faire face à la pénurie qui nous guette, la sécurisation de notre production et de notre stockage d'énergie est-elle indispensable.<br><br>Le 14 juillet, le Président de la République a annoncé un plan de sobriété énergétique. Il semble avoir été suivi d'un élan de responsabilité. Ainsi, les grandes enseignes de distribution ont annoncé hier leur plan de sobriété. Il va de soi que les premiers efforts demandés s'adressent à ces grands groupes industriels et commerciaux ainsi qu'aux administrations. Ils disposent des ressources nécessaires pour lutter contre le gaspillage. Au-delà de cette exemplarité essentielle, un plan de sobriété plus large devra être soumis aux Français pour assurer le bon passage de l'hiver. Il nous faut structurer la cohésion nationale.<br><br>Madame la ministre de la transition énergétique, pouvez-vous préciser les grandes lignes et le calendrier de ce plan gouvernemental ? <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre de la transition énergétique.<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre de la transition énergétique. </i>Je vous remercie de présenter en des termes très clairs la situation dans laquelle nous sommes, une situation de responsabilité pour protéger le pouvoir d'achat des Français face à l'envolée des prix de l'énergie. Comme l'a rappelé tout à l'heure le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, nous avons bloqué les prix du gaz et ceux de l'électricité jusqu'à la fin de l'année. Nous prenons par ailleurs des mesures concernant le carburant.<br><br>Pour ce qui est de l'accès à l'énergie, nous sommes confrontés à une crise parmi les plus importantes depuis les années 1970. Aussi nous préparons-nous grâce aux dispositions prévues par le projet de loi portant mesures d’urgence pour la protection du pouvoir d’achat. Nous augmentons les stocks stratégiques de gaz naturel afin d'atteindre un stockage de 100 %. Nous mettons en place un terminal méthanier flottant pour traiter davantage de gaz naturel liquéfié (GNL). Nous sommes également à même de réquisitionner les centrales à gaz afin de mieux piloter notre système gazier et notre système électrique.<br><br>Cependant, il faut aussi diminuer notre consommation d'énergie, notre consommation de carburant, notre consommation de gaz et notre consommation d'électricité. C'est parfaitement possible et c'est dans cette optique que la Première ministre a lancé le 23 juin un plan de sobriété immédiatement relayé auprès des administrations qui doivent se montrer exemplaires, mais aussi auprès des grandes entreprises parce qu'elles en ont les moyens – elles organisent le travail de millions de Français : aussi, qu'il s'agisse des déplacements, de l'usage des bâtiments ou de l'accueil des clients, sont-elles en pointe pour maîtriser les consommations énergétiques.<br><br>Nous allons par ailleurs agir dans le secteur du logement résidentiel, social comme privé, en particulier en ce qui concerne les activités touristiques – et je pense à mes collègues Olivia Grégoire et Stanislas Guerini, tous deux impliqués.<br><br><strong>Mme la présidente.</strong> Merci, madame la ministre.<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre . </i>Notre objectif, c'est 10 % de réduction… <i>(Le micro de Mme la ministre est coupé.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 32,
+            "label": "ORG",
+            "text": "POLITIQUE"
+          },
+          {
+            "start_char": 33,
+            "end_char": 44,
+            "label": "ORG",
+            "text": "ÉNERGÉTIQUE"
+          },
+          {
+            "start_char": 79,
+            "end_char": 82,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 123,
+            "end_char": 131,
+            "label": "PER",
+            "text": "Mme Olga"
+          },
+          {
+            "start_char": 157,
+            "end_char": 174,
+            "label": "PER",
+            "text": "Mme Olga Givernet"
+          },
+          {
+            "start_char": 347,
+            "end_char": 350,
+            "label": "ORG",
+            "text": "EDF"
+          },
+          {
+            "start_char": 367,
+            "end_char": 376,
+            "label": "MISC",
+            "text": "La guerre"
+          },
+          {
+            "start_char": 380,
+            "end_char": 387,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 956,
+            "end_char": 964,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1299,
+            "end_char": 1320,
+            "label": "MISC",
+            "text": "indispensable.<br><br"
+          },
+          {
+            "start_char": 1339,
+            "end_char": 1365,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1856,
+            "end_char": 1864,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1941,
+            "end_char": 1958,
+            "label": "MISC",
+            "text": "nationale.<br><br"
+          },
+          {
+            "start_char": 1959,
+            "end_char": 1965,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 2144,
+            "end_char": 2167,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2168,
+            "end_char": 2171,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2212,
+            "end_char": 2215,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2273,
+            "end_char": 2290,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 2830,
+            "end_char": 2847,
+            "label": "MISC",
+            "text": "carburant.<br><br"
+          },
+          {
+            "start_char": 3312,
+            "end_char": 3315,
+            "label": "ORG",
+            "text": "GNL"
+          },
+          {
+            "start_char": 3445,
+            "end_char": 3463,
+            "label": "MISC",
+            "text": "électrique.<br><br"
+          },
+          {
+            "start_char": 3687,
+            "end_char": 3695,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3948,
+            "end_char": 3956,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4107,
+            "end_char": 4127,
+            "label": "MISC",
+            "text": "énergétiques.<br><br"
+          },
+          {
+            "start_char": 4310,
+            "end_char": 4325,
+            "label": "PER",
+            "text": "Olivia Grégoire"
+          },
+          {
+            "start_char": 4329,
+            "end_char": 4346,
+            "label": "PER",
+            "text": "Stanislas Guerini"
+          },
+          {
+            "start_char": 4384,
+            "end_char": 4410,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 4412,
+            "end_char": 4417,
+            "label": "PER",
+            "text": "Merci"
+          },
+          {
+            "start_char": 4454,
+            "end_char": 4471,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 4494,
+            "end_char": 4502,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4566,
+            "end_char": 4569,
+            "label": "PER",
+            "text": "Mme"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 32,
+            "sentiment": "3 stars",
+            "score": 0.27842873334884644
+          },
+          {
+            "begin_char": 33,
+            "end_char": 97,
+            "sentiment": "3 stars",
+            "score": 0.32654958963394165
+          },
+          {
+            "begin_char": 98,
+            "end_char": 175,
+            "sentiment": "3 stars",
+            "score": 0.24707402288913727
+          },
+          {
+            "begin_char": 176,
+            "end_char": 249,
+            "sentiment": "3 stars",
+            "score": 0.30151110887527466
+          },
+          {
+            "begin_char": 250,
+            "end_char": 293,
+            "sentiment": "3 stars",
+            "score": 0.23182497918605804
+          },
+          {
+            "begin_char": 294,
+            "end_char": 366,
+            "sentiment": "5 stars",
+            "score": 0.41241639852523804
+          },
+          {
+            "begin_char": 367,
+            "end_char": 422,
+            "sentiment": "4 stars",
+            "score": 0.3352544605731964
+          },
+          {
+            "begin_char": 423,
+            "end_char": 539,
+            "sentiment": "3 stars",
+            "score": 0.317222535610199
+          },
+          {
+            "begin_char": 540,
+            "end_char": 611,
+            "sentiment": "4 stars",
+            "score": 0.2951502799987793
+          },
+          {
+            "begin_char": 612,
+            "end_char": 650,
+            "sentiment": "2 stars",
+            "score": 0.42991119623184204
+          },
+          {
+            "begin_char": 650,
+            "end_char": 740,
+            "sentiment": "5 stars",
+            "score": 0.5522050261497498
+          },
+          {
+            "begin_char": 741,
+            "end_char": 814,
+            "sentiment": "3 stars",
+            "score": 0.27587080001831055
+          },
+          {
+            "begin_char": 815,
+            "end_char": 1040,
+            "sentiment": "5 stars",
+            "score": 0.5659320950508118
+          },
+          {
+            "begin_char": 1041,
+            "end_char": 1169,
+            "sentiment": "1 star",
+            "score": 0.42420104146003723
+          },
+          {
+            "begin_char": 1170,
+            "end_char": 1408,
+            "sentiment": "5 stars",
+            "score": 0.527191698551178
+          },
+          {
+            "begin_char": 1409,
+            "end_char": 1463,
+            "sentiment": "3 stars",
+            "score": 0.30769261717796326
+          },
+          {
+            "begin_char": 1464,
+            "end_char": 1548,
+            "sentiment": "5 stars",
+            "score": 0.3823222815990448
+          },
+          {
+            "begin_char": 1549,
+            "end_char": 1685,
+            "sentiment": "5 stars",
+            "score": 0.27277234196662903
+          },
+          {
+            "begin_char": 1686,
+            "end_char": 1760,
+            "sentiment": "5 stars",
+            "score": 0.45350220799446106
+          },
+          {
+            "begin_char": 1761,
+            "end_char": 1904,
+            "sentiment": "4 stars",
+            "score": 0.39466920495033264
+          },
+          {
+            "begin_char": 1905,
+            "end_char": 2092,
+            "sentiment": "5 stars",
+            "score": 0.3523532748222351
+          },
+          {
+            "begin_char": 2093,
+            "end_char": 2186,
+            "sentiment": "3 stars",
+            "score": 0.3051096200942993
+          },
+          {
+            "begin_char": 2187,
+            "end_char": 2312,
+            "sentiment": "3 stars",
+            "score": 0.28279468417167664
+          },
+          {
+            "begin_char": 2313,
+            "end_char": 2351,
+            "sentiment": "4 stars",
+            "score": 0.3457353115081787
+          },
+          {
+            "begin_char": 2352,
+            "end_char": 2356,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2356,
+            "end_char": 2358,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 2359,
+            "end_char": 2569,
+            "sentiment": "5 stars",
+            "score": 0.6131088733673096
+          },
+          {
+            "begin_char": 2570,
+            "end_char": 2777,
+            "sentiment": "5 stars",
+            "score": 0.31173476576805115
+          },
+          {
+            "begin_char": 2778,
+            "end_char": 2973,
+            "sentiment": "4 stars",
+            "score": 0.3789277970790863
+          },
+          {
+            "begin_char": 2974,
+            "end_char": 3116,
+            "sentiment": "5 stars",
+            "score": 0.4960002899169922
+          },
+          {
+            "begin_char": 3117,
+            "end_char": 3210,
+            "sentiment": "5 stars",
+            "score": 0.6282777786254883
+          },
+          {
+            "begin_char": 3211,
+            "end_char": 3317,
+            "sentiment": "4 stars",
+            "score": 0.39866483211517334
+          },
+          {
+            "begin_char": 3318,
+            "end_char": 3623,
+            "sentiment": "5 stars",
+            "score": 0.533291757106781
+          },
+          {
+            "begin_char": 3624,
+            "end_char": 3723,
+            "sentiment": "5 stars",
+            "score": 0.5850186944007874
+          },
+          {
+            "begin_char": 3724,
+            "end_char": 4411,
+            "sentiment": "5 stars",
+            "score": 0.5651852488517761
+          },
+          {
+            "begin_char": 4412,
+            "end_char": 4504,
+            "sentiment": "5 stars",
+            "score": 0.33848392963409424
+          },
+          {
+            "begin_char": 4505,
+            "end_char": 4509,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4509,
+            "end_char": 4605,
+            "sentiment": "1 star",
+            "score": 0.2792789936065674
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-20",
+        "pageJO": "2520",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG102",
+    "identifiant": {
+      "numero": "102",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "sécurité des biens et des personnes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Modernisation de la sécurité civile"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794838",
+        "mandatRef": "PM797148"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Collectivités territoriales",
+      "developpe": "Ministère auprès du ministre de l’intérieur et des outre-mer et du ministre de la transition écologique et de la cohésion des territoires, chargé des collectivités territoriales"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Collectivités territoriales",
+          "developpe": "Ministère auprès du ministre de l’intérieur et des outre-mer et du ministre de la transition écologique et de la cohésion des territoires, chargé des collectivités territoriales"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> MODERNISATION DE LA SÉCURITÉ CIVILE <a name=PG21></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Didier Lemaire.<br><br><strong>M. Didier Lemaire. </strong>Monsieur le ministre de l'intérieur et des outre-mer, cet été, la France s'inquiète de voir non seulement ses forêts décimées par des feux de grande ampleur, mais aussi les toitures de certains quartiers, voire de villages entiers, ravagées par la grêle. La France s'inquiétera probablement bientôt d'autres événements climatiques extrêmes qui la toucheront, tels que des tempêtes ou des inondations. Notre pays a su vacciner massivement ses citoyens contre la covid-19, grâce, à la fois, aux moyens de l'État et à l'implication des collectivités territoriales et, souvent, des bénévoles qu'elles savent mobiliser. Pour faire face à ces situations de crise, la mobilisation générale est salvatrice. Or c'est précisément sur ce point que nous pouvons, et devons, nous améliorer. L'enjeu est d'autant plus important que les phénomènes extrêmes seront de plus en plus nombreux à l'avenir. Si notre pays sait faire preuve de solidarité, il doit s'adapter pour gagner en réactivité. En matière de gestion de crise également, il est nécessaire de voir loin pour faire bien.<br><br>Parce que j'ai été sapeur-pompier volontaire, puis professionnel, pendant trente ans <i>(Applaudissements sur les bancs des groupes RN et LR)</i>, parce que j'ai été adjoint au maire d'une ville-centre de 6 000 habitants, je sais combien ces situations sont déstabilisantes et combien il est difficile de rassurer une population qui a peur. Lorsque les dégâts sont importants, les moyens matériels et humains peuvent rapidement manquer et nos compatriotes exprimer un sentiment d'abandon. Pour nous préparer et prendre rapidement des mesures de sauvegarde et de soutien à la population et aux personnes qui lui portent secours, notre pays doit anticiper les crises et améliorer notre manière d'y faire face. Nous pouvons le faire !<br><br>Monsieur le ministre, face à la menace grandissante du changement climatique, outre l'urgence de définir une trajectoire en matière de transition écologique, la France ne devrait-elle pas aller plus loin et rendre plus fluide sa capacité de mobilisation et d'intervention en s'appuyant sur la solidarité nationale ? Quels sont, selon vous, les moyens à mettre en œuvre afin de moderniser et d'adapter… <i>(Applaudissements sur les bancs du groupe HOR.)</i><br><br><strong>Mme la présidente.</strong> Merci, cher collègue.<br><br>La parole est à Mme la ministre déléguée chargée des collectivités territoriales.<br><br><strong>Mme Caroline Cayeux,</strong><i> ministre déléguée chargée des collectivités territoriales. </i>Permettez-moi de commencer mon propos en témoignant une nouvelle fois toute la reconnaissance du Gouvernement pour le courage et le dévouement dont font preuve nos sapeurs-pompiers, qu'ils soient professionnels ou volontaires. <i>(Applaudissements sur les bancs des groupes RE, LR, Dem et HOR.) </i>C'est ce message que j'ai porté vendredi dernier lors de l'hommage rendu dans la Drôme au lieutenant Martial Morin, tragiquement décédé le 25 juillet. <br><br>Après une saison marquée par des feux de forêt hors norme, le dispositif que nous mettons en œuvre est organisé : il s'appuie à la fois sur les secours locaux, les renforts nationaux et les services d'incendie et de secours. L'ensemble du dispositif fait l'objet d'un ordre national d'opération, qui établit les modalités d'action et d'engagement. C'est ainsi que la capacité des moyens locaux est largement renforcée pour permettre de lutter contre ces feux d'une particulière violence.<br><br>Lors de son déplacement en Gironde, le Président de la République a annoncé qu'une réflexion devait être lancée sur les moyens de la sécurité civile face à des feux désormais plus intenses et plus présents tout au long de l'année et qui se généralisent sur tout le territoire. Cette réflexion sur l'avenir de nos services de secours, que nous devons mener dans la concertation, avec sérénité, doit permettre de les adapter aux risques de demain. Nous devons doter les sapeurs-pompiers, les sapeurs-sauveteurs, les pilotes et les démineurs des moyens et d'une organisation adaptés afin qu'ils puissent continuer de lutter avec l'efficacité et le professionnalisme que nous leur connaissons contre les feux de forêt et contre tous les risques climatiques, naturels ou technologiques auxquels nous serons de plus en plus exposés. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i> <br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 36,
+            "label": "ORG",
+            "text": "MODERNISATION"
+          },
+          {
+            "start_char": 43,
+            "end_char": 58,
+            "label": "ORG",
+            "text": "SÉCURITÉ CIVILE"
+          },
+          {
+            "start_char": 93,
+            "end_char": 96,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 137,
+            "end_char": 170,
+            "label": "PER",
+            "text": "M. Didier Lemaire.<br><br><strong"
+          },
+          {
+            "start_char": 171,
+            "end_char": 188,
+            "label": "PER",
+            "text": "M. Didier Lemaire"
+          },
+          {
+            "start_char": 199,
+            "end_char": 207,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 262,
+            "end_char": 271,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 454,
+            "end_char": 463,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 704,
+            "end_char": 708,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1261,
+            "end_char": 1279,
+            "label": "MISC",
+            "text": "bien.<br><br>Parce"
+          },
+          {
+            "start_char": 1406,
+            "end_char": 1408,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 1412,
+            "end_char": 1418,
+            "label": "LOC",
+            "text": "LR)</i"
+          },
+          {
+            "start_char": 2006,
+            "end_char": 2013,
+            "label": "MISC",
+            "text": "br><br>"
+          },
+          {
+            "start_char": 2013,
+            "end_char": 2021,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2171,
+            "end_char": 2180,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2329,
+            "end_char": 2334,
+            "label": "PER",
+            "text": "Quels"
+          },
+          {
+            "start_char": 2460,
+            "end_char": 2484,
+            "label": "ORG",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2525,
+            "end_char": 2542,
+            "label": "MISC",
+            "text": "collègue.<br><br>"
+          },
+          {
+            "start_char": 2558,
+            "end_char": 2561,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2639,
+            "end_char": 2651,
+            "label": "PER",
+            "text": "Mme Caroline"
+          },
+          {
+            "start_char": 2735,
+            "end_char": 2744,
+            "label": "LOC",
+            "text": "Permettez"
+          },
+          {
+            "start_char": 2832,
+            "end_char": 2844,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3009,
+            "end_char": 3011,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3013,
+            "end_char": 3015,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 3017,
+            "end_char": 3020,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 3024,
+            "end_char": 3027,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 3115,
+            "end_char": 3120,
+            "label": "LOC",
+            "text": "Drôme"
+          },
+          {
+            "start_char": 3135,
+            "end_char": 3148,
+            "label": "PER",
+            "text": "Martial Morin"
+          },
+          {
+            "start_char": 3715,
+            "end_char": 3722,
+            "label": "LOC",
+            "text": "Gironde"
+          },
+          {
+            "start_char": 3727,
+            "end_char": 3753,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4567,
+            "end_char": 4569,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4573,
+            "end_char": 4581,
+            "label": "MISC",
+            "text": "Dem.)</i"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 111,
+            "sentiment": "4 stars",
+            "score": 0.3355177342891693
+          },
+          {
+            "begin_char": 112,
+            "end_char": 189,
+            "sentiment": "3 stars",
+            "score": 0.26409298181533813
+          },
+          {
+            "begin_char": 190,
+            "end_char": 199,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 199,
+            "end_char": 453,
+            "sentiment": "4 stars",
+            "score": 0.36692097783088684
+          },
+          {
+            "begin_char": 454,
+            "end_char": 599,
+            "sentiment": "4 stars",
+            "score": 0.4068930447101593
+          },
+          {
+            "begin_char": 600,
+            "end_char": 813,
+            "sentiment": "5 stars",
+            "score": 0.5518191456794739
+          },
+          {
+            "begin_char": 814,
+            "end_char": 897,
+            "sentiment": "5 stars",
+            "score": 0.4980551302433014
+          },
+          {
+            "begin_char": 898,
+            "end_char": 976,
+            "sentiment": "4 stars",
+            "score": 0.35974016785621643
+          },
+          {
+            "begin_char": 977,
+            "end_char": 1084,
+            "sentiment": "5 stars",
+            "score": 0.4333782494068146
+          },
+          {
+            "begin_char": 1085,
+            "end_char": 1176,
+            "sentiment": "4 stars",
+            "score": 0.45159220695495605
+          },
+          {
+            "begin_char": 1177,
+            "end_char": 1614,
+            "sentiment": "4 stars",
+            "score": 0.33369341492652893
+          },
+          {
+            "begin_char": 1615,
+            "end_char": 1762,
+            "sentiment": "2 stars",
+            "score": 0.27410057187080383
+          },
+          {
+            "begin_char": 1763,
+            "end_char": 1981,
+            "sentiment": "5 stars",
+            "score": 0.5979868173599243
+          },
+          {
+            "begin_char": 1982,
+            "end_char": 2005,
+            "sentiment": "5 stars",
+            "score": 0.3947176933288574
+          },
+          {
+            "begin_char": 2005,
+            "end_char": 2013,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2013,
+            "end_char": 2328,
+            "sentiment": "5 stars",
+            "score": 0.5594319105148315
+          },
+          {
+            "begin_char": 2329,
+            "end_char": 2512,
+            "sentiment": "4 stars",
+            "score": 0.28683507442474365
+          },
+          {
+            "begin_char": 2513,
+            "end_char": 2542,
+            "sentiment": "5 stars",
+            "score": 0.40511786937713623
+          },
+          {
+            "begin_char": 2542,
+            "end_char": 2730,
+            "sentiment": "4 stars",
+            "score": 0.2887706756591797
+          },
+          {
+            "begin_char": 2731,
+            "end_char": 2961,
+            "sentiment": "5 stars",
+            "score": 0.6689186692237854
+          },
+          {
+            "begin_char": 2962,
+            "end_char": 3028,
+            "sentiment": "4 stars",
+            "score": 0.3333004415035248
+          },
+          {
+            "begin_char": 3028,
+            "end_char": 3029,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 3030,
+            "end_char": 3034,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3034,
+            "end_char": 3184,
+            "sentiment": "4 stars",
+            "score": 0.3612360656261444
+          },
+          {
+            "begin_char": 3185,
+            "end_char": 3417,
+            "sentiment": "4 stars",
+            "score": 0.46447429060935974
+          },
+          {
+            "begin_char": 3418,
+            "end_char": 3540,
+            "sentiment": "4 stars",
+            "score": 0.4459855258464813
+          },
+          {
+            "begin_char": 3541,
+            "end_char": 3964,
+            "sentiment": "5 stars",
+            "score": 0.44335508346557617
+          },
+          {
+            "begin_char": 3965,
+            "end_char": 4133,
+            "sentiment": "5 stars",
+            "score": 0.5169566869735718
+          },
+          {
+            "begin_char": 4134,
+            "end_char": 4514,
+            "sentiment": "5 stars",
+            "score": 0.5828222036361694
+          },
+          {
+            "begin_char": 4515,
+            "end_char": 4582,
+            "sentiment": "3 stars",
+            "score": 0.3252647817134857
+          },
+          {
+            "begin_char": 4583,
+            "end_char": 4591,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3316",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

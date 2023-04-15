@@ -1,0 +1,737 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG140",
+    "identifiant": {
+      "numero": "140",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "finances publiques",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PROJET DE LOI DE FINANCES POUR 2023"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795386",
+        "mandatRef": "PM797454"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Économie, finances, souveraineté industrielle et numérique",
+      "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Économie, finances, souveraineté industrielle et numérique",
+          "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PROJET DE LOI DE FINANCES POUR 2023 <a name=PG3></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Mathieu Lefèvre.<br><br><strong>M. Mathieu Lefèvre. </strong>Monsieur le ministre de l'économie, des finances et de la souveraineté numérique et industrielle, hier, notre assemblée a débuté l'examen du budget pour 2023. Enfin, nous pouvons confronter nos visions pour les finances et les priorités de notre pays ; enfin, nous pouvons démontrer qu'entre le laxisme dénoncé par les uns et l'austérité vilipendée par les autres, il y a une autre voie : celle de la responsabilité. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br>Au fond, face aux défis immenses auxquels nous sommes confrontés nous avons quatre types de solutions. Nous pourrions continuer à nous endetter sans limite : nous ne faisons pas ce choix. <i>(Exclamations sur les bancs du groupe RN.) </i>Nous pourrions diminuer le niveau de protection de nos compatriotes face à l'inflation : nous ne faisons pas ce choix. Nous pourrions augmenter les impôts : nous ne faisons pas ce choix. Nous pouvons enfin maîtriser nos dépenses et continuer à baisser les impôts pour encourager le travail et financer nos priorités : c'est le choix que nous faisons, parce qu'il a déjà fait ses preuves, au service d'une promesse que l'on n'avait même jamais osé faire à ma génération, le plein emploi. (Applaudissements sur les bancs du groupe RE.)<br><br>Protection et sérieux, tels sont donc les maîtres-mots de ce budget.<br><br>Nous protégeons les Français face à l'inflation dans un contexte inédit avec la poursuite du bouclier tarifaire, la baisse de plus de 6 milliards d'euros de l'impôt sur le revenu et la protection des plus modestes. Les faits sont têtus : nous sommes le pays de la zone euro où l'inflation est la plus basse, grâce à la majorité. <i>(Applaudissements sur nombreux bancs du groupe RE.) </i>La seule marche contre la vie chère qui vaille, c’est celle qui doit nous mener à l’adoption de ce budget.<br><br>Nous faisons preuve de sérieux, en refusant la double fatalité de l'endettement et des hausses d'impôts quand notre dette va franchir le cap symbolique des 3 000 milliards d'euros et que nous sommes vice-champions du monde des prélèvements obligatoires.<br><br>Ma question est la suivante :…<br><br><strong>M. Fabien Di Filippo.</strong> Enfin, une question !<br><br><strong>M. Mathieu Lefèvre. </strong>…pouvez-vous nous rappeler les priorités de la majorité que finance ce projet de budget tout en poursuivant l'indispensable maîtrise de nos comptes publics ? <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br><strong>M. Bruno Le Maire,</strong><i> ministre de l’économie, des finances et de la souveraineté industrielle et numérique. </i>Hier a commencé l'examen du projet de loi de programmation des finances publiques pour les années 2023 à 2027 et du projet de loi de finances pour 2023. Les débats viennent de démarrer, sont appelés à durer, et se prolongeront le temps nécessaire. Gabriel Attal, ministre délégué chargé des comptes publics, et moi-même sommes patients et ouverts au dialogue : nous prendrons le temps qu'il faudra. <i>(Applaudissements sur les bancs des groupes RE et Dem.)</i><br><br><strong>M. Philippe Vigier.</strong> Très bien !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Au cours de ces premiers débats, j'ai entendu ceux qui disent que notre ambition n'est pas suffisante s'agissant de la réduction de la dépense publique et de la dette.<br><br><strong>M. Éric Pauget.</strong> C'est Édouard Philippe qui le dit !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Je les invite donc à voter le projet de loi de programmation des finances publiques, qui nous permettra de redresser les finances publiques, de revenir à un déficit égal à 3 % du PIB et de réduire la dette. Soyez cohérents, mesdames et messieurs les députés. <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</i><br><br><strong>M. Fabien Di Filippo.</strong> Même les hypothèses sont fausses !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>De l'autre côté de l'hémicycle, d'autres parlementaires nous disent que nous faisons preuve d'austérité. Avec 100 milliards d'euros pour la protection des Français, cela fait cher l'austérité et ce n'est pas ma conception de ce que peut être une politique austéritaire ! <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</i><br><br>Notre politique est très simple et vous l'avez parfaitement définie : elle consiste à trouver un équilibre entre l'indispensable protection de nos compatriotes et le rétablissement des comptes publics.<br><br>Cela passe d'abord par le bouclier contre la vie chère, le bouclier contre l'augmentation du prix du gaz, le bouclier contre l'augmentation du prix de l'électricité. Nous avons fait le choix, avec la Première ministre, de protéger les Français face à l'inflation et à la vie chère. Nous avons le taux d'inflation le plus faible de la zone euro, ce qui nous rendra plus forts. Je précise que nous aiderons aussi les entrepreneurs, afin de les protéger face à la flambée de leur facture énergétique. <i>(Mêmes mouvements.)</i><br><br>Et cela passe donc par le rétablissement des comptes publics et la réduction de la dette, sans lesquels il ne saurait y avoir de souveraineté industrielle et économique. C'est en s'attachant résolument à ces deux ambitions qu'avec votre soutien nous servirons correctement la France. <i>(Mêmes mouvements.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 29,
+            "label": "ORG",
+            "text": "PROJET"
+          },
+          {
+            "start_char": 33,
+            "end_char": 36,
+            "label": "MISC",
+            "text": "LOI"
+          },
+          {
+            "start_char": 40,
+            "end_char": 48,
+            "label": "MISC",
+            "text": "FINANCES"
+          },
+          {
+            "start_char": 67,
+            "end_char": 74,
+            "label": "LOC",
+            "text": "PG3></a"
+          },
+          {
+            "start_char": 92,
+            "end_char": 95,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 136,
+            "end_char": 146,
+            "label": "PER",
+            "text": "M. Mathieu"
+          },
+          {
+            "start_char": 174,
+            "end_char": 189,
+            "label": "PER",
+            "text": "Mathieu Lefèvre"
+          },
+          {
+            "start_char": 200,
+            "end_char": 208,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 662,
+            "end_char": 677,
+            "label": "ORG",
+            "text": "RE.)</i><br><br"
+          },
+          {
+            "start_char": 696,
+            "end_char": 701,
+            "label": "PER",
+            "text": "défis"
+          },
+          {
+            "start_char": 907,
+            "end_char": 909,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 1404,
+            "end_char": 1420,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 1457,
+            "end_char": 1467,
+            "label": "LOC",
+            "text": "Protection"
+          },
+          {
+            "start_char": 1518,
+            "end_char": 1532,
+            "label": "MISC",
+            "text": "budget.<br><br"
+          },
+          {
+            "start_char": 1553,
+            "end_char": 1561,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1905,
+            "end_char": 1914,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 1969,
+            "end_char": 1971,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 2003,
+            "end_char": 2005,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2020,
+            "end_char": 2034,
+            "label": "MISC",
+            "text": "budget.<br><br"
+          },
+          {
+            "start_char": 2275,
+            "end_char": 2298,
+            "label": "MISC",
+            "text": "obligatoires.<br><br>Ma"
+          },
+          {
+            "start_char": 2352,
+            "end_char": 2372,
+            "label": "PER",
+            "text": "Di Filippo.</strong>"
+          },
+          {
+            "start_char": 2413,
+            "end_char": 2428,
+            "label": "PER",
+            "text": "Mathieu Lefèvre"
+          },
+          {
+            "start_char": 2644,
+            "end_char": 2646,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 2648,
+            "end_char": 2651,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 2655,
+            "end_char": 2679,
+            "label": "PER",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2680,
+            "end_char": 2683,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2724,
+            "end_char": 2726,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2742,
+            "end_char": 2744,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2834,
+            "end_char": 2839,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 2874,
+            "end_char": 2876,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2952,
+            "end_char": 2956,
+            "label": "LOC",
+            "text": "Hier"
+          },
+          {
+            "start_char": 3200,
+            "end_char": 3213,
+            "label": "PER",
+            "text": "Gabriel Attal"
+          },
+          {
+            "start_char": 3398,
+            "end_char": 3400,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3432,
+            "end_char": 3462,
+            "label": "PER",
+            "text": "Philippe Vigier.</strong> Très"
+          },
+          {
+            "start_char": 3488,
+            "end_char": 3493,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3717,
+            "end_char": 3737,
+            "label": "PER",
+            "text": "Éric Pauget.</strong"
+          },
+          {
+            "start_char": 3745,
+            "end_char": 3761,
+            "label": "PER",
+            "text": "Édouard Philippe"
+          },
+          {
+            "start_char": 3793,
+            "end_char": 3798,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4043,
+            "end_char": 4048,
+            "label": "MISC",
+            "text": "Soyez"
+          },
+          {
+            "start_char": 4142,
+            "end_char": 4144,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4146,
+            "end_char": 4149,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4153,
+            "end_char": 4187,
+            "label": "PER",
+            "text": "HOR.)</i><br><br><strong>M. Fabien"
+          },
+          {
+            "start_char": 4188,
+            "end_char": 4228,
+            "label": "PER",
+            "text": "Di Filippo.</strong> Même les hypothèses"
+          },
+          {
+            "start_char": 4262,
+            "end_char": 4267,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4460,
+            "end_char": 4468,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4623,
+            "end_char": 4625,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4627,
+            "end_char": 4630,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4634,
+            "end_char": 4651,
+            "label": "PER",
+            "text": "HOR.)</i><br><br>"
+          },
+          {
+            "start_char": 4844,
+            "end_char": 4859,
+            "label": "MISC",
+            "text": "publics.<br><br"
+          },
+          {
+            "start_char": 5060,
+            "end_char": 5068,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 5095,
+            "end_char": 5103,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5359,
+            "end_char": 5367,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 5665,
+            "end_char": 5674,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 5677,
+            "end_char": 5685,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 110,
+            "sentiment": "3 stars",
+            "score": 0.3305555582046509
+          },
+          {
+            "begin_char": 111,
+            "end_char": 190,
+            "sentiment": "3 stars",
+            "score": 0.24797217547893524
+          },
+          {
+            "begin_char": 191,
+            "end_char": 358,
+            "sentiment": "5 stars",
+            "score": 0.327923059463501
+          },
+          {
+            "begin_char": 359,
+            "end_char": 452,
+            "sentiment": "5 stars",
+            "score": 0.5176306962966919
+          },
+          {
+            "begin_char": 453,
+            "end_char": 616,
+            "sentiment": "5 stars",
+            "score": 0.5177156925201416
+          },
+          {
+            "begin_char": 617,
+            "end_char": 678,
+            "sentiment": "3 stars",
+            "score": 0.3026253879070282
+          },
+          {
+            "begin_char": 678,
+            "end_char": 780,
+            "sentiment": "5 stars",
+            "score": 0.4888579547405243
+          },
+          {
+            "begin_char": 781,
+            "end_char": 865,
+            "sentiment": "1 star",
+            "score": 0.6153759360313416
+          },
+          {
+            "begin_char": 866,
+            "end_char": 916,
+            "sentiment": "3 stars",
+            "score": 0.2924981117248535
+          },
+          {
+            "begin_char": 916,
+            "end_char": 1034,
+            "sentiment": "1 star",
+            "score": 0.26423338055610657
+          },
+          {
+            "begin_char": 1035,
+            "end_char": 1102,
+            "sentiment": "1 star",
+            "score": 0.4051226079463959
+          },
+          {
+            "begin_char": 1103,
+            "end_char": 1404,
+            "sentiment": "5 stars",
+            "score": 0.82822185754776
+          },
+          {
+            "begin_char": 1404,
+            "end_char": 1533,
+            "sentiment": "4 stars",
+            "score": 0.35645487904548645
+          },
+          {
+            "begin_char": 1533,
+            "end_char": 1747,
+            "sentiment": "5 stars",
+            "score": 0.5806844234466553
+          },
+          {
+            "begin_char": 1748,
+            "end_char": 1861,
+            "sentiment": "3 stars",
+            "score": 0.2718409597873688
+          },
+          {
+            "begin_char": 1862,
+            "end_char": 2035,
+            "sentiment": "5 stars",
+            "score": 0.32616791129112244
+          },
+          {
+            "begin_char": 2035,
+            "end_char": 2351,
+            "sentiment": "5 stars",
+            "score": 0.4389818608760834
+          },
+          {
+            "begin_char": 2352,
+            "end_char": 2394,
+            "sentiment": "3 stars",
+            "score": 0.22164516150951385
+          },
+          {
+            "begin_char": 2394,
+            "end_char": 2429,
+            "sentiment": "3 stars",
+            "score": 0.26981887221336365
+          },
+          {
+            "begin_char": 2430,
+            "end_char": 2596,
+            "sentiment": "3 stars",
+            "score": 0.2570030093193054
+          },
+          {
+            "begin_char": 2597,
+            "end_char": 2698,
+            "sentiment": "4 stars",
+            "score": 0.31433340907096863
+          },
+          {
+            "begin_char": 2699,
+            "end_char": 2861,
+            "sentiment": "4 stars",
+            "score": 0.3296317458152771
+          },
+          {
+            "begin_char": 2862,
+            "end_char": 2947,
+            "sentiment": "5 stars",
+            "score": 0.3489697575569153
+          },
+          {
+            "begin_char": 2948,
+            "end_char": 2952,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2952,
+            "end_char": 3104,
+            "sentiment": "4 stars",
+            "score": 0.3529978394508362
+          },
+          {
+            "begin_char": 3105,
+            "end_char": 3199,
+            "sentiment": "5 stars",
+            "score": 0.47850948572158813
+          },
+          {
+            "begin_char": 3200,
+            "end_char": 3266,
+            "sentiment": "4 stars",
+            "score": 0.2909327745437622
+          },
+          {
+            "begin_char": 3266,
+            "end_char": 3350,
+            "sentiment": "4 stars",
+            "score": 0.4429956376552582
+          },
+          {
+            "begin_char": 3351,
+            "end_char": 3469,
+            "sentiment": "4 stars",
+            "score": 0.467276930809021
+          },
+          {
+            "begin_char": 3469,
+            "end_char": 3526,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3527,
+            "end_char": 3531,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3531,
+            "end_char": 3738,
+            "sentiment": "3 stars",
+            "score": 0.28065866231918335
+          },
+          {
+            "begin_char": 3739,
+            "end_char": 3774,
+            "sentiment": "1 star",
+            "score": 0.2535136342048645
+          },
+          {
+            "begin_char": 3774,
+            "end_char": 3831,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3832,
+            "end_char": 4042,
+            "sentiment": "5 stars",
+            "score": 0.526199996471405
+          },
+          {
+            "begin_char": 4043,
+            "end_char": 4094,
+            "sentiment": "5 stars",
+            "score": 0.34943217039108276
+          },
+          {
+            "begin_char": 4095,
+            "end_char": 4187,
+            "sentiment": "3 stars",
+            "score": 0.3382515013217926
+          },
+          {
+            "begin_char": 4188,
+            "end_char": 4300,
+            "sentiment": "2 stars",
+            "score": 0.30381062626838684
+          },
+          {
+            "begin_char": 4301,
+            "end_char": 4409,
+            "sentiment": "3 stars",
+            "score": 0.2601386308670044
+          },
+          {
+            "begin_char": 4410,
+            "end_char": 4575,
+            "sentiment": "1 star",
+            "score": 0.41407638788223267
+          },
+          {
+            "begin_char": 4576,
+            "end_char": 4651,
+            "sentiment": "3 stars",
+            "score": 0.30613473057746887
+          },
+          {
+            "begin_char": 4651,
+            "end_char": 4682,
+            "sentiment": "5 stars",
+            "score": 0.45161768794059753
+          },
+          {
+            "begin_char": 4683,
+            "end_char": 4860,
+            "sentiment": "5 stars",
+            "score": 0.45371437072753906
+          },
+          {
+            "begin_char": 4860,
+            "end_char": 5025,
+            "sentiment": "5 stars",
+            "score": 0.32823455333709717
+          },
+          {
+            "begin_char": 5026,
+            "end_char": 5141,
+            "sentiment": "5 stars",
+            "score": 0.44341957569122314
+          },
+          {
+            "begin_char": 5142,
+            "end_char": 5235,
+            "sentiment": "5 stars",
+            "score": 0.5261701941490173
+          },
+          {
+            "begin_char": 5236,
+            "end_char": 5357,
+            "sentiment": "5 stars",
+            "score": 0.41207757592201233
+          },
+          {
+            "begin_char": 5358,
+            "end_char": 5392,
+            "sentiment": "3 stars",
+            "score": 0.30803972482681274
+          },
+          {
+            "begin_char": 5392,
+            "end_char": 5561,
+            "sentiment": "5 stars",
+            "score": 0.5528406500816345
+          },
+          {
+            "begin_char": 5562,
+            "end_char": 5675,
+            "sentiment": "5 stars",
+            "score": 0.5470904111862183
+          },
+          {
+            "begin_char": 5676,
+            "end_char": 5706,
+            "sentiment": "3 stars",
+            "score": 0.29948246479034424
+          },
+          {
+            "begin_char": 5707,
+            "end_char": 5710,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-12",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-12",
+        "pageJO": "3857",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

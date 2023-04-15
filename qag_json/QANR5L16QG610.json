@@ -1,0 +1,695 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG610",
+    "identifiant": {
+      "numero": "610",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "politique extérieure",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "SITUATION AU HAUT-KARABAKH"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719528",
+        "mandatRef": "PM796515"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Europe et affaires étrangères",
+      "developpe": "Ministère de l’Europe et des affaires étrangères"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Europe et affaires étrangères",
+          "developpe": "Ministère de l’Europe et des affaires étrangères"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION AU HAUT-KARABAKH <a name=PG27></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jean-François Portarrieu.<br><br><strong>M. Jean-François Portarrieu. </strong>Ma question s'adresse à Mme la ministre de l'Europe et des affaires étrangères.<br><br>La semaine dernière, Astrid Panosyan-Bouvet, Sophie Devedjian et moi-même avons passé plusieurs jours en Arménie lors du déplacement d'une délégation française conduite par Édouard Philippe. Tous nos interlocuteurs ont manifesté leur reconnaissance à la France pour son soutien constant du gouvernement de Nikol Pachinian, engagé en faveur de la démocratie et de la paix dans son pays. Et tous ont exprimé leurs inquiétudes pour les 120 000 habitants du Haut-Karabakh, qui vivent dans une situation alarmante.<br><br>La forteresse naturelle de l'Artsakh a toujours servi de refuge aux Arméniens pourchassés par les envahisseurs. En bloquant le corridor de Latchine, le pouvoir azerbaïdjanais a mis le Haut-Karabakh sous embargo. Depuis plusieurs mois, la population, majoritairement arménienne, est privée d'approvisionnement en denrées alimentaires, en gaz et en médicaments. Cette pénurie, si elle se prolongeait, pourrait conduire à une crise humanitaire bien plus grave.<br><br>À Erevan, nous avons rencontré les responsables de la mission d'observation de l'Union européenne. Cette mission civile se met en place alors même que mercredi dernier, la Cour internationale de justice a ordonné aux Azerbaïdjanais de mettre fin au blocage du corridor de Latchine vers le Haut-Karabakh et l'Arménie. Cette décision importante revient à reconnaître que la région subit un blocus. Dans ce contexte, on ne peut que regretter que le dialogue entre l'Arménie et l'Azerbaïdjan soit devenu impossible. Le groupe de Minsk, dont la France occupe la vice-présidence, est manifestement au point mort. Une initiative franco-américaine pour faire aboutir une déclaration du Conseil de sécurité des Nations unies a par ailleurs échoué en raison de l'opposition russe.<br><br>Madame la ministre, la France peut-elle et doit-elle prendre à nouveau l'initiative et proposer de nouvelles modalités de discussion ? Nous devons permettre aux Arméniens de poursuivre la transition démocratique qu'ils ont engagée en 2018. <i>(Applaudissements sur les bancs du groupe HOR. – M. Ian Boucard applaudit aussi.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre de l’Europe et des affaires étrangères.<br><br><strong>Mme Catherine Colonna,</strong><i> ministre de l’Europe et des affaires étrangères. </i>Oui, le blocage du corridor de Latchine depuis le 12 décembre est inacceptable, en raison des conséquences humanitaires graves qu'il entraîne pour la population du Haut-Karabakh, mais aussi parce qu'il contribue à alimenter les tensions et à réduire les chances qu'un accord de paix soit conclu entre l'Arménie et l'Azerbaïdjan. <br><br>Nous le redisons, la libre circulation doit être rétablie sans délai. La Cour internationale de justice a rendu une ordonnance le 22 février confirmant qu'il s'agit bien d'une obligation pour l'Azerbaïdjan. La Cour a dit le droit et le droit doit être respecté. <br><br>Depuis le début de cette crise, la France agit avec détermination. Elle a contribué à la création d'une mission d'observation européenne en Arménie, désormais opérationnelle. Elle agit au Conseil de sécurité des Nations unies et entretient des contacts au plus haut niveau avec les deux pays. La France a également redoublé son soutien aux actions du Comité international de la Croix-Rouge pour la distribution de l'aide humanitaire sur place.<br><br>Bien sûr, la priorité immédiate reste le déblocage du corridor de Latchine. Bien qu'elles n'aient pas encore abouti, des discussions sont en cours entre Bakou et Erevan. Nous les soutenons avec nos partenaires de l'Union européenne, le président du Conseil européen notamment, et avec les États-Unis. L'Azerbaïdjan doit comprendre qu'un accord rapide est indispensable. Ce pays doit respecter le droit international et rétablir la libre circulation dans son territoire, comme la Cour internationale de justice le lui demande, et permettre ainsi un meilleur acheminement de l'aide à la population du Haut-Karabakh. <i>(M. Vincent Bru applaudit.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 36,
+            "end_char": 49,
+            "label": "LOC",
+            "text": "HAUT-KARABAKH"
+          },
+          {
+            "start_char": 84,
+            "end_char": 87,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 128,
+            "end_char": 171,
+            "label": "PER",
+            "text": "M. Jean-François Portarrieu.<br><br><strong"
+          },
+          {
+            "start_char": 175,
+            "end_char": 199,
+            "label": "PER",
+            "text": "Jean-François Portarrieu"
+          },
+          {
+            "start_char": 234,
+            "end_char": 237,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 241,
+            "end_char": 261,
+            "label": "ORG",
+            "text": "ministre de l'Europe"
+          },
+          {
+            "start_char": 278,
+            "end_char": 296,
+            "label": "MISC",
+            "text": "étrangères.<br><br"
+          },
+          {
+            "start_char": 318,
+            "end_char": 340,
+            "label": "PER",
+            "text": "Astrid Panosyan-Bouvet"
+          },
+          {
+            "start_char": 342,
+            "end_char": 358,
+            "label": "PER",
+            "text": "Sophie Devedjian"
+          },
+          {
+            "start_char": 402,
+            "end_char": 409,
+            "label": "LOC",
+            "text": "Arménie"
+          },
+          {
+            "start_char": 470,
+            "end_char": 486,
+            "label": "PER",
+            "text": "Édouard Philippe"
+          },
+          {
+            "start_char": 548,
+            "end_char": 557,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 603,
+            "end_char": 618,
+            "label": "PER",
+            "text": "Nikol Pachinian"
+          },
+          {
+            "start_char": 751,
+            "end_char": 764,
+            "label": "LOC",
+            "text": "Haut-Karabakh"
+          },
+          {
+            "start_char": 843,
+            "end_char": 850,
+            "label": "PER",
+            "text": "Artsakh"
+          },
+          {
+            "start_char": 882,
+            "end_char": 891,
+            "label": "LOC",
+            "text": "Arméniens"
+          },
+          {
+            "start_char": 953,
+            "end_char": 961,
+            "label": "PER",
+            "text": "Latchine"
+          },
+          {
+            "start_char": 998,
+            "end_char": 1011,
+            "label": "PER",
+            "text": "Haut-Karabakh"
+          },
+          {
+            "start_char": 1281,
+            "end_char": 1287,
+            "label": "LOC",
+            "text": "Erevan"
+          },
+          {
+            "start_char": 1360,
+            "end_char": 1376,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 1451,
+            "end_char": 1481,
+            "label": "ORG",
+            "text": "Cour internationale de justice"
+          },
+          {
+            "start_char": 1496,
+            "end_char": 1510,
+            "label": "LOC",
+            "text": "Azerbaïdjanais"
+          },
+          {
+            "start_char": 1551,
+            "end_char": 1559,
+            "label": "PER",
+            "text": "Latchine"
+          },
+          {
+            "start_char": 1568,
+            "end_char": 1581,
+            "label": "LOC",
+            "text": "Haut-Karabakh"
+          },
+          {
+            "start_char": 1587,
+            "end_char": 1594,
+            "label": "LOC",
+            "text": "Arménie"
+          },
+          {
+            "start_char": 1740,
+            "end_char": 1749,
+            "label": "LOC",
+            "text": "l'Arménie"
+          },
+          {
+            "start_char": 1755,
+            "end_char": 1766,
+            "label": "LOC",
+            "text": "Azerbaïdjan"
+          },
+          {
+            "start_char": 1804,
+            "end_char": 1809,
+            "label": "LOC",
+            "text": "Minsk"
+          },
+          {
+            "start_char": 1816,
+            "end_char": 1825,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1957,
+            "end_char": 1994,
+            "label": "ORG",
+            "text": "Conseil de sécurité des Nations unies"
+          },
+          {
+            "start_char": 2043,
+            "end_char": 2056,
+            "label": "MISC",
+            "text": "russe.<br><br"
+          },
+          {
+            "start_char": 2057,
+            "end_char": 2063,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 2077,
+            "end_char": 2086,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2218,
+            "end_char": 2227,
+            "label": "MISC",
+            "text": "Arméniens"
+          },
+          {
+            "start_char": 2342,
+            "end_char": 2345,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 2352,
+            "end_char": 2363,
+            "label": "PER",
+            "text": "Ian Boucard"
+          },
+          {
+            "start_char": 2401,
+            "end_char": 2404,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2445,
+            "end_char": 2448,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2466,
+            "end_char": 2472,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2516,
+            "end_char": 2529,
+            "label": "PER",
+            "text": "Mme Catherine"
+          },
+          {
+            "start_char": 2565,
+            "end_char": 2571,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2635,
+            "end_char": 2643,
+            "label": "PER",
+            "text": "Latchine"
+          },
+          {
+            "start_char": 2768,
+            "end_char": 2781,
+            "label": "PER",
+            "text": "Haut-Karabakh"
+          },
+          {
+            "start_char": 2905,
+            "end_char": 2914,
+            "label": "LOC",
+            "text": "l'Arménie"
+          },
+          {
+            "start_char": 2920,
+            "end_char": 2931,
+            "label": "LOC",
+            "text": "Azerbaïdjan"
+          },
+          {
+            "start_char": 3014,
+            "end_char": 3044,
+            "label": "ORG",
+            "text": "Cour internationale de justice"
+          },
+          {
+            "start_char": 3135,
+            "end_char": 3146,
+            "label": "LOC",
+            "text": "Azerbaïdjan"
+          },
+          {
+            "start_char": 3151,
+            "end_char": 3155,
+            "label": "ORG",
+            "text": "Cour"
+          },
+          {
+            "start_char": 3243,
+            "end_char": 3252,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3351,
+            "end_char": 3358,
+            "label": "LOC",
+            "text": "Arménie"
+          },
+          {
+            "start_char": 3399,
+            "end_char": 3436,
+            "label": "ORG",
+            "text": "Conseil de sécurité des Nations unies"
+          },
+          {
+            "start_char": 3504,
+            "end_char": 3513,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 3562,
+            "end_char": 3600,
+            "label": "ORG",
+            "text": "Comité international de la Croix-Rouge"
+          },
+          {
+            "start_char": 3648,
+            "end_char": 3661,
+            "label": "MISC",
+            "text": "place.<br><br"
+          },
+          {
+            "start_char": 3728,
+            "end_char": 3736,
+            "label": "PER",
+            "text": "Latchine"
+          },
+          {
+            "start_char": 3815,
+            "end_char": 3820,
+            "label": "LOC",
+            "text": "Bakou"
+          },
+          {
+            "start_char": 3824,
+            "end_char": 3830,
+            "label": "LOC",
+            "text": "Erevan"
+          },
+          {
+            "start_char": 3877,
+            "end_char": 3893,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 3911,
+            "end_char": 3927,
+            "label": "ORG",
+            "text": "Conseil européen"
+          },
+          {
+            "start_char": 3951,
+            "end_char": 3961,
+            "label": "LOC",
+            "text": "États-Unis"
+          },
+          {
+            "start_char": 3965,
+            "end_char": 3976,
+            "label": "LOC",
+            "text": "Azerbaïdjan"
+          },
+          {
+            "start_char": 4141,
+            "end_char": 4171,
+            "label": "ORG",
+            "text": "Cour internationale de justice"
+          },
+          {
+            "start_char": 4261,
+            "end_char": 4274,
+            "label": "LOC",
+            "text": "Haut-Karabakh"
+          },
+          {
+            "start_char": 4283,
+            "end_char": 4294,
+            "label": "PER",
+            "text": "Vincent Bru"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 102,
+            "sentiment": "3 stars",
+            "score": 0.29940304160118103
+          },
+          {
+            "begin_char": 103,
+            "end_char": 200,
+            "sentiment": "4 stars",
+            "score": 0.2692829966545105
+          },
+          {
+            "begin_char": 201,
+            "end_char": 297,
+            "sentiment": "3 stars",
+            "score": 0.29773998260498047
+          },
+          {
+            "begin_char": 297,
+            "end_char": 365,
+            "sentiment": "5 stars",
+            "score": 0.23917940258979797
+          },
+          {
+            "begin_char": 365,
+            "end_char": 487,
+            "sentiment": "4 stars",
+            "score": 0.32916462421417236
+          },
+          {
+            "begin_char": 488,
+            "end_char": 682,
+            "sentiment": "5 stars",
+            "score": 0.7196304202079773
+          },
+          {
+            "begin_char": 683,
+            "end_char": 814,
+            "sentiment": "5 stars",
+            "score": 0.409453809261322
+          },
+          {
+            "begin_char": 814,
+            "end_char": 925,
+            "sentiment": "4 stars",
+            "score": 0.3555147349834442
+          },
+          {
+            "begin_char": 926,
+            "end_char": 1025,
+            "sentiment": "4 stars",
+            "score": 0.2839803099632263
+          },
+          {
+            "begin_char": 1026,
+            "end_char": 1173,
+            "sentiment": "3 stars",
+            "score": 0.2708737850189209
+          },
+          {
+            "begin_char": 1174,
+            "end_char": 1377,
+            "sentiment": "4 stars",
+            "score": 0.2996920347213745
+          },
+          {
+            "begin_char": 1378,
+            "end_char": 1595,
+            "sentiment": "4 stars",
+            "score": 0.41391950845718384
+          },
+          {
+            "begin_char": 1596,
+            "end_char": 1674,
+            "sentiment": "4 stars",
+            "score": 0.3105480968952179
+          },
+          {
+            "begin_char": 1675,
+            "end_char": 1790,
+            "sentiment": "2 stars",
+            "score": 0.2931990921497345
+          },
+          {
+            "begin_char": 1791,
+            "end_char": 1885,
+            "sentiment": "1 star",
+            "score": 0.3366432785987854
+          },
+          {
+            "begin_char": 1886,
+            "end_char": 2057,
+            "sentiment": "3 stars",
+            "score": 0.38972389698028564
+          },
+          {
+            "begin_char": 2057,
+            "end_char": 2191,
+            "sentiment": "5 stars",
+            "score": 0.37190285325050354
+          },
+          {
+            "begin_char": 2192,
+            "end_char": 2296,
+            "sentiment": "5 stars",
+            "score": 0.5554959177970886
+          },
+          {
+            "begin_char": 2297,
+            "end_char": 2346,
+            "sentiment": "4 stars",
+            "score": 0.31456977128982544
+          },
+          {
+            "begin_char": 2347,
+            "end_char": 2352,
+            "sentiment": "3 stars",
+            "score": 0.28024494647979736
+          },
+          {
+            "begin_char": 2352,
+            "end_char": 2419,
+            "sentiment": "4 stars",
+            "score": 0.32344430685043335
+          },
+          {
+            "begin_char": 2420,
+            "end_char": 2599,
+            "sentiment": "4 stars",
+            "score": 0.283491313457489
+          },
+          {
+            "begin_char": 2600,
+            "end_char": 2932,
+            "sentiment": "4 stars",
+            "score": 0.3223828077316284
+          },
+          {
+            "begin_char": 2933,
+            "end_char": 3010,
+            "sentiment": "5 stars",
+            "score": 0.454302579164505
+          },
+          {
+            "begin_char": 3011,
+            "end_char": 3147,
+            "sentiment": "4 stars",
+            "score": 0.38502293825149536
+          },
+          {
+            "begin_char": 3148,
+            "end_char": 3202,
+            "sentiment": "5 stars",
+            "score": 0.46901562809944153
+          },
+          {
+            "begin_char": 3203,
+            "end_char": 3277,
+            "sentiment": "5 stars",
+            "score": 0.41857612133026123
+          },
+          {
+            "begin_char": 3278,
+            "end_char": 3385,
+            "sentiment": "4 stars",
+            "score": 0.434759259223938
+          },
+          {
+            "begin_char": 3386,
+            "end_char": 3503,
+            "sentiment": "4 stars",
+            "score": 0.4587123692035675
+          },
+          {
+            "begin_char": 3504,
+            "end_char": 3662,
+            "sentiment": "4 stars",
+            "score": 0.43412697315216064
+          },
+          {
+            "begin_char": 3662,
+            "end_char": 3737,
+            "sentiment": "4 stars",
+            "score": 0.330763041973114
+          },
+          {
+            "begin_char": 3738,
+            "end_char": 3831,
+            "sentiment": "4 stars",
+            "score": 0.38808363676071167
+          },
+          {
+            "begin_char": 3832,
+            "end_char": 3962,
+            "sentiment": "5 stars",
+            "score": 0.533330500125885
+          },
+          {
+            "begin_char": 3963,
+            "end_char": 4031,
+            "sentiment": "5 stars",
+            "score": 0.37931981682777405
+          },
+          {
+            "begin_char": 4032,
+            "end_char": 4275,
+            "sentiment": "5 stars",
+            "score": 0.5334778428077698
+          },
+          {
+            "begin_char": 4276,
+            "end_char": 4318,
+            "sentiment": "3 stars",
+            "score": 0.29218360781669617
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-03-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-03-01",
+        "pageJO": "1907",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,527 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG274",
+    "identifiant": {
+      "numero": "274",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "justice",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Encadrement militaire par décision de justice"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721336",
+        "mandatRef": "PM797184"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Justice",
+      "developpe": "Ministère de la justice"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Justice",
+          "developpe": "Ministère de la justice"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "<p> </p><p align=\"CENTER\"> ENCADREMENT MILITAIRE PAR DÉCISION DE JUSTICE <a name=PG28></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Blandine Brocard.<br><br><strong>Mme Blandine Brocard. </strong>« Il faut que vous ayez conscience de la chance qui vous est faite. Il y a autre chose que les conneries. Ce que vous êtes venus faire ici, c'est quelque chose d'utile pour vous. » Ainsi vous exprimiez-vous, monsieur le garde des sceaux, il y a quelques mois, alors que vous étiez en visite au camp militaire de Coëtquidan, où était menée une expérimentation d'encadrement de six mineurs délinquants du centre éducatif renforcé d'Évreux assurée par d'anciens militaires.<br><br>Une « chance », il s'agit bien de cela – ou d'un redressement, que j'entends dans le sens où il permet de retrouver ou de découvrir un droit chemin, autre que celui des « conneries » et de la récidive. Un chemin au cours duquel on martèle les valeurs fièrement défendues par nos militaires : rigueur, abnégation, discipline, dépassement de soi et transmission.<br><br>Durant cinq semaines, les jeunes concernés ont suivi un stage de pratiques intensives d'activités physiques en pleine nature, mêlant marches, initiation au secourisme, formation au génie écologique, découverte du monde militaire et accompagnement à l'insertion professionnelle. Installer un bivouac en plein hiver, par exemple, après avoir effectué une marche de 20 kilomètres – exercice qui fait partie du quotidien de l'entraînement des militaires – ce ne sont pas les travaux forcés à Cayenne, mais c'est une manière de souder les hommes, de se dépasser, de comprendre qu'on est capable de solidarité, d'esprit de groupe et d'entente cordiale.<br><br>J'ai pu lire ici ou là que le résultat du stage avait dépassé les espérances. Qu'en est-il, monsieur le ministre ? Pouvez-vous dresser un bilan de cette expérimentation et des écueils rencontrés ? Sans pour autant ignorer les difficultés qu'il y aurait à solliciter particulièrement nos armées qui sont avant tout, et peut-être plus que jamais, un outil de défense de la nation, pouvez-vous nous confirmer votre volonté d'étendre et de généraliser ce type de dispositif ?<br><br>Je sais, monsieur le garde des sceaux, que vous êtes fondamentalement attaché à trouver de multiples solutions pour les jeunes qui sont en marge de la République : que leur proposez-vous, à eux qui sont aussi les citoyens de demain ? <i>(Applaudissements sur les bancs du groupe Dem.)</i><br><br><strong>M. Richard Ramos.</strong> Excellent !<br><br><strong>Mme la présidente. </strong>La parole est à M. le garde des sceaux, ministre de la justice.<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux, ministre de la justice. </i>Je sais, madame la députée, votre total engagement dans la lutte contre la délinquance des mineurs – c'est également le cas du député Christophe Blanchet. Le Président de la République, lors de la dernière campagne pour l'élection présidentielle, a affirmé sa volonté de renforcer le partenariat entre la protection judiciaire de la jeunesse et l'armée. J'avais lancé une expérience à Coëtquidan, qui a très bien fonctionné. Des jeunes, accueillis dans un centre éducatif renforcé, sont allés chercher auprès des militaires une autorité que je qualifierais de « bienveillante » : il faut se lever le matin,…<br><br><strong>M. Sylvain Maillard.</strong> Très bien !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>…se dépasser, partager des valeurs, de solidarité notamment. Tout cela est important pour des gamins à la dérive.<br><br>Je l'ai dit et le redis : promettre la délinquance zéro, c'est de la flûte !<br><br><strong>M. Pierre Cordier.</strong> Du pipeau, voulez-vous dire !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>En revanche, notre devoir est de faire tout notre possible pour limiter au maximum le risque de récidive et pour que ces jeunes retrouvent le chemin de la vie civile ordinaire. Alors, qu'avons-nous fait précisément ? Je dis bien nous, car ce n'est pas le cas de tout le monde. Nous avons instauré le code de justice pénale des mineurs : et cela fonctionne puisque le jugement est désormais prononcé très rapidement. Nous construisons des centres éducatifs fermés – je viens d'inaugurer le cinquante-troisième : 75 % des jeunes accueillis parviennent à sortir de la délinquance, avec un projet professionnel en perspective et 86 % d'entre eux – 86 %, j'insiste – ne récidivent plus. C'est le fruit du travail que nous avons accompli collectivement, dans un esprit de coconstruction. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.)</i><br><br><strong>M. Sylvain Maillard.</strong> Très bien !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>Il faut désormais aller plus loin et nous signerons, au cours des prochaines semaines, ce partenariat que vous appelez de vos vœux. <i>(Mêmes mouvements.)</i><b",
+        "entities": [
+          {
+            "start_char": 27,
+            "end_char": 48,
+            "label": "ORG",
+            "text": "ENCADREMENT MILITAIRE"
+          },
+          {
+            "start_char": 65,
+            "end_char": 72,
+            "label": "MISC",
+            "text": "JUSTICE"
+          },
+          {
+            "start_char": 107,
+            "end_char": 110,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 151,
+            "end_char": 187,
+            "label": "PER",
+            "text": "Mme Blandine Brocard.<br><br><strong"
+          },
+          {
+            "start_char": 188,
+            "end_char": 208,
+            "label": "PER",
+            "text": "Mme Blandine Brocard"
+          },
+          {
+            "start_char": 531,
+            "end_char": 541,
+            "label": "LOC",
+            "text": "Coëtquidan"
+          },
+          {
+            "start_char": 649,
+            "end_char": 655,
+            "label": "LOC",
+            "text": "Évreux"
+          },
+          {
+            "start_char": 678,
+            "end_char": 696,
+            "label": "MISC",
+            "text": "militaires.<br><br"
+          },
+          {
+            "start_char": 1044,
+            "end_char": 1064,
+            "label": "MISC",
+            "text": "transmission.<br><br"
+          },
+          {
+            "start_char": 1553,
+            "end_char": 1560,
+            "label": "LOC",
+            "text": "Cayenne"
+          },
+          {
+            "start_char": 1702,
+            "end_char": 1718,
+            "label": "MISC",
+            "text": "cordiale.<br><br"
+          },
+          {
+            "start_char": 1834,
+            "end_char": 1840,
+            "label": "PER",
+            "text": "Pouvez"
+          },
+          {
+            "start_char": 2349,
+            "end_char": 2359,
+            "label": "LOC",
+            "text": "République"
+          },
+          {
+            "start_char": 2477,
+            "end_char": 2501,
+            "label": "ORG",
+            "text": "Dem.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2505,
+            "end_char": 2528,
+            "label": "PER",
+            "text": "Richard Ramos.</strong>"
+          },
+          {
+            "start_char": 2556,
+            "end_char": 2559,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2600,
+            "end_char": 2602,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2624,
+            "end_char": 2662,
+            "label": "ORG",
+            "text": "ministre de la justice.<br><br><strong"
+          },
+          {
+            "start_char": 2666,
+            "end_char": 2677,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2879,
+            "end_char": 2898,
+            "label": "PER",
+            "text": "Christophe Blanchet"
+          },
+          {
+            "start_char": 2903,
+            "end_char": 2929,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3130,
+            "end_char": 3140,
+            "label": "LOC",
+            "text": "Coëtquidan"
+          },
+          {
+            "start_char": 3368,
+            "end_char": 3402,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong> Très"
+          },
+          {
+            "start_char": 3428,
+            "end_char": 3439,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 3589,
+            "end_char": 3604,
+            "label": "MISC",
+            "text": "dérive.<br><br>"
+          },
+          {
+            "start_char": 3699,
+            "end_char": 3722,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 3772,
+            "end_char": 3783,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4662,
+            "end_char": 4664,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4693,
+            "end_char": 4727,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong> Très"
+          },
+          {
+            "start_char": 4753,
+            "end_char": 4764,
+            "label": "PER",
+            "text": "Éric Dupond"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 24,
+            "sentiment": "3 stars",
+            "score": 0.27847594022750854
+          },
+          {
+            "begin_char": 24,
+            "end_char": 125,
+            "sentiment": "3 stars",
+            "score": 0.2798658013343811
+          },
+          {
+            "begin_char": 126,
+            "end_char": 209,
+            "sentiment": "3 stars",
+            "score": 0.2539144456386566
+          },
+          {
+            "begin_char": 210,
+            "end_char": 286,
+            "sentiment": "5 stars",
+            "score": 0.36586228013038635
+          },
+          {
+            "begin_char": 287,
+            "end_char": 324,
+            "sentiment": "1 star",
+            "score": 0.7861286997795105
+          },
+          {
+            "begin_char": 325,
+            "end_char": 399,
+            "sentiment": "5 stars",
+            "score": 0.4461807310581207
+          },
+          {
+            "begin_char": 400,
+            "end_char": 697,
+            "sentiment": "4 stars",
+            "score": 0.26647138595581055
+          },
+          {
+            "begin_char": 697,
+            "end_char": 898,
+            "sentiment": "5 stars",
+            "score": 0.4443453848361969
+          },
+          {
+            "begin_char": 899,
+            "end_char": 1065,
+            "sentiment": "5 stars",
+            "score": 0.4531673491001129
+          },
+          {
+            "begin_char": 1065,
+            "end_char": 1342,
+            "sentiment": "4 stars",
+            "score": 0.3949592709541321
+          },
+          {
+            "begin_char": 1343,
+            "end_char": 1719,
+            "sentiment": "4 stars",
+            "score": 0.4751931130886078
+          },
+          {
+            "begin_char": 1719,
+            "end_char": 1796,
+            "sentiment": "2 stars",
+            "score": 0.3792494833469391
+          },
+          {
+            "begin_char": 1797,
+            "end_char": 1833,
+            "sentiment": "3 stars",
+            "score": 0.2325322926044464
+          },
+          {
+            "begin_char": 1834,
+            "end_char": 1915,
+            "sentiment": "3 stars",
+            "score": 0.4348413646221161
+          },
+          {
+            "begin_char": 1916,
+            "end_char": 2190,
+            "sentiment": "5 stars",
+            "score": 0.4109925329685211
+          },
+          {
+            "begin_char": 2190,
+            "end_char": 2198,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2198,
+            "end_char": 2431,
+            "sentiment": "5 stars",
+            "score": 0.6439641714096069
+          },
+          {
+            "begin_char": 2432,
+            "end_char": 2528,
+            "sentiment": "3 stars",
+            "score": 0.3634931147098541
+          },
+          {
+            "begin_char": 2529,
+            "end_char": 2540,
+            "sentiment": "5 stars",
+            "score": 0.8453423976898193
+          },
+          {
+            "begin_char": 2540,
+            "end_char": 2574,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2575,
+            "end_char": 2740,
+            "sentiment": "4 stars",
+            "score": 0.31975746154785156
+          },
+          {
+            "begin_char": 2741,
+            "end_char": 2745,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2745,
+            "end_char": 2899,
+            "sentiment": "5 stars",
+            "score": 0.374041885137558
+          },
+          {
+            "begin_char": 2900,
+            "end_char": 3098,
+            "sentiment": "4 stars",
+            "score": 0.45984870195388794
+          },
+          {
+            "begin_char": 3099,
+            "end_char": 3169,
+            "sentiment": "5 stars",
+            "score": 0.4289969503879547
+          },
+          {
+            "begin_char": 3170,
+            "end_char": 3478,
+            "sentiment": "4 stars",
+            "score": 0.4495930075645447
+          },
+          {
+            "begin_char": 3479,
+            "end_char": 3543,
+            "sentiment": "4 stars",
+            "score": 0.37022194266319275
+          },
+          {
+            "begin_char": 3544,
+            "end_char": 3604,
+            "sentiment": "2 stars",
+            "score": 0.31247881054878235
+          },
+          {
+            "begin_char": 3604,
+            "end_char": 3680,
+            "sentiment": "1 star",
+            "score": 0.7596045136451721
+          },
+          {
+            "begin_char": 3680,
+            "end_char": 3723,
+            "sentiment": "3 stars",
+            "score": 0.323579341173172
+          },
+          {
+            "begin_char": 3724,
+            "end_char": 3733,
+            "sentiment": "1 star",
+            "score": 0.3130166232585907
+          },
+          {
+            "begin_char": 3733,
+            "end_char": 3753,
+            "sentiment": "1 star",
+            "score": 0.3741401433944702
+          },
+          {
+            "begin_char": 3753,
+            "end_char": 3822,
+            "sentiment": "4 stars",
+            "score": 0.28637129068374634
+          },
+          {
+            "begin_char": 3823,
+            "end_char": 4003,
+            "sentiment": "4 stars",
+            "score": 0.36658844351768494
+          },
+          {
+            "begin_char": 4004,
+            "end_char": 4043,
+            "sentiment": "1 star",
+            "score": 0.4599015414714813
+          },
+          {
+            "begin_char": 4044,
+            "end_char": 4103,
+            "sentiment": "5 stars",
+            "score": 0.3572126626968384
+          },
+          {
+            "begin_char": 4104,
+            "end_char": 4242,
+            "sentiment": "5 stars",
+            "score": 0.5728377103805542
+          },
+          {
+            "begin_char": 4243,
+            "end_char": 4508,
+            "sentiment": "5 stars",
+            "score": 0.45783865451812744
+          },
+          {
+            "begin_char": 4509,
+            "end_char": 4608,
+            "sentiment": "5 stars",
+            "score": 0.5316259860992432
+          },
+          {
+            "begin_char": 4609,
+            "end_char": 4734,
+            "sentiment": "4 stars",
+            "score": 0.4736623167991638
+          },
+          {
+            "begin_char": 4734,
+            "end_char": 4804,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 4805,
+            "end_char": 4809,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4809,
+            "end_char": 4940,
+            "sentiment": "5 stars",
+            "score": 0.6101235151290894
+          },
+          {
+            "begin_char": 4941,
+            "end_char": 4969,
+            "sentiment": "3 stars",
+            "score": 0.30970320105552673
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-09",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-09",
+        "pageJO": "5252",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

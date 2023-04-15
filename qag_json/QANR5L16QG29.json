@@ -1,0 +1,851 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG29",
+    "identifiant": {
+      "numero": "29",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "professions de santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Personnels de santé non vaccinés"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794038",
+        "mandatRef": "PM796668"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PERSONNELS DE SANTÉ NON VACCINÉS <a name=PG2></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Yannick Neuder.<br><br><strong>M. Yannick Neuder. </strong>Ma question s'adresse à M. le ministre de la santé et de la prévention. Nous avons déjà évoqué dans l'hémicycle l'éviction des personnels de santé non vaccinés et souligné un paradoxe : en raison de la pénurie de personnel, on fait venir dans les services hospitaliers des personnes atteintes du covid, lorsqu'elles présentent peu de symptômes, tout en refusant que travaillent des membres du personnel, sains mais non vaccinés.<br><br><strong>M. Patrick Hetzel.</strong> Oui, on attend toujours des réponses !<br><br><strong>M. Yannick Neuder. </strong>La situation est pire encore dans les EHPAD. Quant aux sapeurs-pompiers, c'est très bien de les remercier et de les féliciter, mais ce serait encore mieux si les 5 000 pompiers volontaires non vaccinés qui souhaitent participer aux combats contre le feu pouvaient réintégrer leurs unités, en particulier en Gironde et en Bretagne. <i>(Applaudissements sur les bancs des groupes LR et RN et sur plusieurs bancs du groupe LFI-NUPES.)</i><br><br>C'est d'autant plus vrai que leur éviction ne repose pas sur des fondements scientifiques, puisque nous savons que le vaccin ne protège pas de la contamination, et que la couverture vaccinale atteint 95 % sur notre sol.<br><br>En quoi est-il donc cohérent de perdre tout ce temps pour réintégrer des membres des personnels administratifs, soignant, médico-social, dans les EHPAD, dans les hôpitaux et auprès des populations qui souffrent de la canicule et des incendies ? <i>(Applaudissements sur les bancs des groupes LR et RN. – M. François Ruffin applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>Valorisons d'abord le sens civique et éthique des personnes qui sont au contact des Français les plus fragiles. La solidarité a joué un rôle dans cette crise : c'est grâce à la solidarité de chacun que nous l'avons traversée.<br><br><strong>M. Pierre Cordier.</strong> Pas besoin de fiche pour dire ça !<br><br><strong>M. François Braun,</strong><i> ministre . </i>Je pense en particulier aux personnels mobilisés. Ils ont accompli leur devoir avec courage. Il faut aussi leur rendre hommage.<br><br><strong>M. Fabien Di Filippo.</strong> Est-ce sincère ?<br><br><strong>M. François Braun,</strong><i> ministre . </i>Ensuite, je rappelle le sens de l'obligation vaccinale : elle est destinée aux professionnels en contact fréquent avec les publics les plus fragiles.<br><br><strong>M. Grégoire de Fournas.</strong> Pas les pompiers !<br><br><strong>M. François Braun,</strong><i> ministre . </i>Ces professionnels l'ont bien compris : dans leur immense majorité, ils sont vaccinés, afin d'assurer leur protection et celle des plus fragiles. <i>(Murmures sur les bancs des groupes RN et LR.)</i><br><br>En tant que médecin, dans le pays de Pasteur, je souligne l'importance de la vaccination. Elle est notre arme de protection massive, capable de sauver des vies. Elle nous a permis de retrouver une vie normale en levant les mesures d'urgence sanitaire.<br><br>Les non-vaccinés sont peu nombreux. Selon la Fédération hospitalière de France (FHF), moins de 500 infirmières sur les 263 000 du service public hospitalier sont concernées. <i>(Mêmes mouvements.)</i><br><br>Je mets en garde contre ce que certains pourraient prendre pour une solution miracle, capable de résoudre les problèmes liés au manque de personnel. Néanmoins, j'entends les questions que vous êtes nombreux à poser. <i>(Exclamations sur les bancs des groupes RN et LR.)</i> Je souhaite que nous y répondions à l'aide de la science. Ainsi, dans un communiqué paru aujourd'hui, l'Académie nationale de médecine s'est fermement prononcée contre la réintégration des professionnels soumis à l'obligation vaccinale.<br><br><strong>Une députée du groupe RE .</strong> Eh oui !<br><br><strong>M. Maxime Minot.</strong> C'est nous qui faisons la loi !<br><br><strong>M. François Braun,</strong><i> ministre . </i>De plus, comme je vous l'avais annoncé, j'ai saisi la Haute Autorité de santé (HAS). À la lumière de leur avis, nous pourrons objectiver la situation et prendre une décision éclairée, comme je m'y suis engagé. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br><br><strong>M. Fabien Di Filippo.</strong> La majorité n'est pas convaincante !<br><br><strong>Mme la présidente. </strong>La parole est à M. Yannick Neuder.<br><br><strong>M. Yannick Neuder. </strong>Vous nous avez transmis ces chiffres et nous ne les contestons pas. Cependant, la réalité du terrain nous oblige à plus de pragmatisme. <i>(Applaudissements sur quelques bancs du groupe LR.)</i><br><br>Vous avez dirigé une mission flash sur les urgences et soins non programmés. Nous demandons des solutions pragmatiques pour que les EHPAD, les hôpitaux et les pompiers passent l'été dans de meilleures conditions. Les membres des personnels sont épuisés. Les mesures que nous proposons n'exposent pas les patients à des risques supplémentaires et peuvent soulager les personnes en place, elles seraient de bon sens et cohérentes. <i>(Applaudissements sur les bancs des groupes LR et RN et sur quelques bancs des groupes LFI-NUPES et Écolo-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 33,
+            "label": "ORG",
+            "text": "PERSONNELS"
+          },
+          {
+            "start_char": 47,
+            "end_char": 55,
+            "label": "MISC",
+            "text": "VACCINÉS"
+          },
+          {
+            "start_char": 64,
+            "end_char": 71,
+            "label": "PER",
+            "text": "PG2></a"
+          },
+          {
+            "start_char": 89,
+            "end_char": 92,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 133,
+            "end_char": 135,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 136,
+            "end_char": 166,
+            "label": "PER",
+            "text": "Yannick Neuder.<br><br><strong"
+          },
+          {
+            "start_char": 170,
+            "end_char": 184,
+            "label": "PER",
+            "text": "Yannick Neuder"
+          },
+          {
+            "start_char": 219,
+            "end_char": 221,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 642,
+            "end_char": 670,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong> Oui"
+          },
+          {
+            "start_char": 724,
+            "end_char": 738,
+            "label": "PER",
+            "text": "Yannick Neuder"
+          },
+          {
+            "start_char": 787,
+            "end_char": 792,
+            "label": "ORG",
+            "text": "EHPAD"
+          },
+          {
+            "start_char": 1056,
+            "end_char": 1063,
+            "label": "LOC",
+            "text": "Gironde"
+          },
+          {
+            "start_char": 1070,
+            "end_char": 1078,
+            "label": "LOC",
+            "text": "Bretagne"
+          },
+          {
+            "start_char": 1127,
+            "end_char": 1129,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 1133,
+            "end_char": 1135,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 1169,
+            "end_char": 1191,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 1565,
+            "end_char": 1570,
+            "label": "ORG",
+            "text": "EHPAD"
+          },
+          {
+            "start_char": 1711,
+            "end_char": 1713,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 1717,
+            "end_char": 1719,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 1726,
+            "end_char": 1741,
+            "label": "PER",
+            "text": "François Ruffin"
+          },
+          {
+            "start_char": 1783,
+            "end_char": 1786,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1827,
+            "end_char": 1829,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 1893,
+            "end_char": 1901,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 1967,
+            "end_char": 1977,
+            "label": "LOC",
+            "text": "Valorisons"
+          },
+          {
+            "start_char": 2051,
+            "end_char": 2059,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2211,
+            "end_char": 2234,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 2289,
+            "end_char": 2297,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 2317,
+            "end_char": 2325,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 2475,
+            "end_char": 2484,
+            "label": "PER",
+            "text": "M. Fabien"
+          },
+          {
+            "start_char": 2485,
+            "end_char": 2509,
+            "label": "PER",
+            "text": "Di Filippo.</strong> Est"
+          },
+          {
+            "start_char": 2541,
+            "end_char": 2549,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 2569,
+            "end_char": 2577,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 2749,
+            "end_char": 2781,
+            "label": "PER",
+            "text": "M. Grégoire de Fournas.</strong>"
+          },
+          {
+            "start_char": 2819,
+            "end_char": 2827,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 2847,
+            "end_char": 2855,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3047,
+            "end_char": 3049,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 3053,
+            "end_char": 3068,
+            "label": "LOC",
+            "text": "LR.)</i><br><br"
+          },
+          {
+            "start_char": 3106,
+            "end_char": 3113,
+            "label": "PER",
+            "text": "Pasteur"
+          },
+          {
+            "start_char": 3310,
+            "end_char": 3327,
+            "label": "MISC",
+            "text": "sanitaire.<br><br"
+          },
+          {
+            "start_char": 3373,
+            "end_char": 3406,
+            "label": "ORG",
+            "text": "Fédération hospitalière de France"
+          },
+          {
+            "start_char": 3408,
+            "end_char": 3411,
+            "label": "ORG",
+            "text": "FHF"
+          },
+          {
+            "start_char": 3503,
+            "end_char": 3511,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 3795,
+            "end_char": 3797,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 3801,
+            "end_char": 3808,
+            "label": "LOC",
+            "text": "LR.)</i"
+          },
+          {
+            "start_char": 3914,
+            "end_char": 3932,
+            "label": "ORG",
+            "text": "Académie nationale"
+          },
+          {
+            "start_char": 4125,
+            "end_char": 4146,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 4198,
+            "end_char": 4206,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 4226,
+            "end_char": 4234,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4295,
+            "end_char": 4318,
+            "label": "ORG",
+            "text": "Haute Autorité de santé"
+          },
+          {
+            "start_char": 4320,
+            "end_char": 4323,
+            "label": "MISC",
+            "text": "HAS"
+          },
+          {
+            "start_char": 4503,
+            "end_char": 4505,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4534,
+            "end_char": 4543,
+            "label": "PER",
+            "text": "M. Fabien"
+          },
+          {
+            "start_char": 4544,
+            "end_char": 4564,
+            "label": "PER",
+            "text": "Di Filippo.</strong>"
+          },
+          {
+            "start_char": 4617,
+            "end_char": 4620,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4661,
+            "end_char": 4663,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 4664,
+            "end_char": 4694,
+            "label": "PER",
+            "text": "Yannick Neuder.<br><br><strong"
+          },
+          {
+            "start_char": 4698,
+            "end_char": 4712,
+            "label": "PER",
+            "text": "Yannick Neuder"
+          },
+          {
+            "start_char": 4909,
+            "end_char": 4924,
+            "label": "ORG",
+            "text": "LR.)</i><br><br"
+          },
+          {
+            "start_char": 5057,
+            "end_char": 5062,
+            "label": "ORG",
+            "text": "EHPAD"
+          },
+          {
+            "start_char": 5401,
+            "end_char": 5403,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 5407,
+            "end_char": 5409,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 5444,
+            "end_char": 5453,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5457,
+            "end_char": 5477,
+            "label": "MISC",
+            "text": "Écolo-NUPES.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 42,
+            "sentiment": "4 stars",
+            "score": 0.24021518230438232
+          },
+          {
+            "begin_char": 43,
+            "end_char": 107,
+            "sentiment": "1 star",
+            "score": 0.4544949531555176
+          },
+          {
+            "begin_char": 108,
+            "end_char": 185,
+            "sentiment": "4 stars",
+            "score": 0.2569047510623932
+          },
+          {
+            "begin_char": 186,
+            "end_char": 266,
+            "sentiment": "4 stars",
+            "score": 0.31629982590675354
+          },
+          {
+            "begin_char": 267,
+            "end_char": 705,
+            "sentiment": "2 stars",
+            "score": 0.2704194188117981
+          },
+          {
+            "begin_char": 705,
+            "end_char": 739,
+            "sentiment": "3 stars",
+            "score": 0.277818888425827
+          },
+          {
+            "begin_char": 740,
+            "end_char": 793,
+            "sentiment": "2 stars",
+            "score": 0.28220850229263306
+          },
+          {
+            "begin_char": 794,
+            "end_char": 1079,
+            "sentiment": "5 stars",
+            "score": 0.3158297836780548
+          },
+          {
+            "begin_char": 1080,
+            "end_char": 1192,
+            "sentiment": "4 stars",
+            "score": 0.3403843939304352
+          },
+          {
+            "begin_char": 1192,
+            "end_char": 1663,
+            "sentiment": "1 star",
+            "score": 0.4732453525066376
+          },
+          {
+            "begin_char": 1664,
+            "end_char": 1783,
+            "sentiment": "4 stars",
+            "score": 0.35205331444740295
+          },
+          {
+            "begin_char": 1783,
+            "end_char": 1801,
+            "sentiment": "4 stars",
+            "score": 0.3682718873023987
+          },
+          {
+            "begin_char": 1802,
+            "end_char": 1920,
+            "sentiment": "4 stars",
+            "score": 0.3129529356956482
+          },
+          {
+            "begin_char": 1921,
+            "end_char": 1962,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 1963,
+            "end_char": 1967,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 1967,
+            "end_char": 2078,
+            "sentiment": "5 stars",
+            "score": 0.5609931945800781
+          },
+          {
+            "begin_char": 2079,
+            "end_char": 2235,
+            "sentiment": "4 stars",
+            "score": 0.4106351435184479
+          },
+          {
+            "begin_char": 2236,
+            "end_char": 2270,
+            "sentiment": "5 stars",
+            "score": 0.3274780511856079
+          },
+          {
+            "begin_char": 2270,
+            "end_char": 2327,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 2328,
+            "end_char": 2332,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2332,
+            "end_char": 2381,
+            "sentiment": "5 stars",
+            "score": 0.3869273066520691
+          },
+          {
+            "begin_char": 2382,
+            "end_char": 2424,
+            "sentiment": "5 stars",
+            "score": 0.4521806836128235
+          },
+          {
+            "begin_char": 2425,
+            "end_char": 2484,
+            "sentiment": "5 stars",
+            "score": 0.38060298562049866
+          },
+          {
+            "begin_char": 2485,
+            "end_char": 2522,
+            "sentiment": "2 stars",
+            "score": 0.2954617440700531
+          },
+          {
+            "begin_char": 2522,
+            "end_char": 2579,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 2580,
+            "end_char": 2781,
+            "sentiment": "4 stars",
+            "score": 0.31561028957366943
+          },
+          {
+            "begin_char": 2782,
+            "end_char": 2800,
+            "sentiment": "1 star",
+            "score": 0.31768134236335754
+          },
+          {
+            "begin_char": 2800,
+            "end_char": 2857,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 2858,
+            "end_char": 3007,
+            "sentiment": "5 stars",
+            "score": 0.41772425174713135
+          },
+          {
+            "begin_char": 3008,
+            "end_char": 3158,
+            "sentiment": "5 stars",
+            "score": 0.38247665762901306
+          },
+          {
+            "begin_char": 3159,
+            "end_char": 3229,
+            "sentiment": "5 stars",
+            "score": 0.7357109189033508
+          },
+          {
+            "begin_char": 3230,
+            "end_char": 3328,
+            "sentiment": "5 stars",
+            "score": 0.5144773125648499
+          },
+          {
+            "begin_char": 3328,
+            "end_char": 3363,
+            "sentiment": "3 stars",
+            "score": 0.3255963623523712
+          },
+          {
+            "begin_char": 3364,
+            "end_char": 3484,
+            "sentiment": "3 stars",
+            "score": 0.312355101108551
+          },
+          {
+            "begin_char": 3485,
+            "end_char": 3501,
+            "sentiment": "4 stars",
+            "score": 0.28688761591911316
+          },
+          {
+            "begin_char": 3502,
+            "end_char": 3536,
+            "sentiment": "3 stars",
+            "score": 0.30803972482681274
+          },
+          {
+            "begin_char": 3536,
+            "end_char": 3684,
+            "sentiment": "5 stars",
+            "score": 0.36862149834632874
+          },
+          {
+            "begin_char": 3685,
+            "end_char": 3751,
+            "sentiment": "4 stars",
+            "score": 0.315044641494751
+          },
+          {
+            "begin_char": 3752,
+            "end_char": 3809,
+            "sentiment": "4 stars",
+            "score": 0.2994707226753235
+          },
+          {
+            "begin_char": 3810,
+            "end_char": 3867,
+            "sentiment": "5 stars",
+            "score": 0.39589667320251465
+          },
+          {
+            "begin_char": 3868,
+            "end_char": 4062,
+            "sentiment": "4 stars",
+            "score": 0.383960485458374
+          },
+          {
+            "begin_char": 4062,
+            "end_char": 4097,
+            "sentiment": "3 stars",
+            "score": 0.32629862427711487
+          },
+          {
+            "begin_char": 4098,
+            "end_char": 4106,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 4106,
+            "end_char": 4147,
+            "sentiment": "3 stars",
+            "score": 0.3174344599246979
+          },
+          {
+            "begin_char": 4148,
+            "end_char": 4179,
+            "sentiment": "5 stars",
+            "score": 0.3983807861804962
+          },
+          {
+            "begin_char": 4179,
+            "end_char": 4236,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 4237,
+            "end_char": 4241,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4241,
+            "end_char": 4325,
+            "sentiment": "5 stars",
+            "score": 0.3153682053089142
+          },
+          {
+            "begin_char": 4326,
+            "end_char": 4450,
+            "sentiment": "5 stars",
+            "score": 0.46240150928497314
+          },
+          {
+            "begin_char": 4451,
+            "end_char": 4543,
+            "sentiment": "3 stars",
+            "score": 0.37317758798599243
+          },
+          {
+            "begin_char": 4544,
+            "end_char": 4564,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 4565,
+            "end_char": 4635,
+            "sentiment": "1 star",
+            "score": 0.3888280391693115
+          },
+          {
+            "begin_char": 4636,
+            "end_char": 4713,
+            "sentiment": "4 stars",
+            "score": 0.2569047510623932
+          },
+          {
+            "begin_char": 4714,
+            "end_char": 4723,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 4723,
+            "end_char": 4790,
+            "sentiment": "1 star",
+            "score": 0.3991645276546478
+          },
+          {
+            "begin_char": 4791,
+            "end_char": 4858,
+            "sentiment": "4 stars",
+            "score": 0.4375688433647156
+          },
+          {
+            "begin_char": 4859,
+            "end_char": 4925,
+            "sentiment": "3 stars",
+            "score": 0.31621432304382324
+          },
+          {
+            "begin_char": 4925,
+            "end_char": 5001,
+            "sentiment": "2 stars",
+            "score": 0.2774905562400818
+          },
+          {
+            "begin_char": 5002,
+            "end_char": 5137,
+            "sentiment": "5 stars",
+            "score": 0.46924397349357605
+          },
+          {
+            "begin_char": 5138,
+            "end_char": 5178,
+            "sentiment": "2 stars",
+            "score": 0.3598249554634094
+          },
+          {
+            "begin_char": 5179,
+            "end_char": 5353,
+            "sentiment": "4 stars",
+            "score": 0.3137310743331909
+          },
+          {
+            "begin_char": 5354,
+            "end_char": 5482,
+            "sentiment": "3 stars",
+            "score": 0.31550469994544983
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-20",
+        "pageJO": "2511",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

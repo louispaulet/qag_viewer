@@ -1,0 +1,419 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG367",
+    "identifiant": {
+      "numero": "367",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "pédopsychiatrie"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793210",
+        "mandatRef": "PM796212"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PÉDOPSYCHIATRIE <a name=PG9></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Laurent Panifous.<br><br><strong>M. Laurent Panifous. </strong>Ma question s'adresse à M. le ministre de la santé.<br><br><strong>Mme Sophia Chikirou.</strong> Où est-il ? Où est-il ?<br><br><strong>M. Laurent Panifous. </strong>Souvent tabous, les troubles psychiques concernent pourtant 13 millions de Français, soit près d'un sur cinq. La pandémie de covid-19 n'a fait qu'aggraver l'état de santé mentale d’une grande partie de la population française fragile, et notre jeunesse n’a malheureusement pas été épargnée. Parent pauvre de la médecine, aujourd'hui sinistrée, la pédopsychiatrie manque cruellement de moyens et d'effectifs.<br><br>Cette pénurie a ainsi des conséquences dramatiques : allongement des délais d’attente, risque de non-détection des troubles psychiques chez les jeunes, mais aussi augmentation des inégalités territoriales. Dans mon département, l'Ariège, les structures qui gèrent les centres dédiés à l’accompagnement alertent sur le fait que les familles doivent attendre plus d'un an avant de rencontrer un médecin ou un psychologue, et près de quatre mois, après cette première rencontre, pour obtenir des bilans et des propositions de soins et d’accompagnement à l'égard de leur enfant.<br><br>Faute de professionnels spécialisés – médecins, psychomotriciens, orthophonistes, psychologues ou infirmiers –, les orientations et les prises en charge souhaitées sont dégradées, voire impossibles. Il devient difficile de suivre les jeunes, notamment dans les départements où l'on constate la quasi-disparition des pédopsychiatres ; c'est le cas de l'Ariège.<br><br>Les soignants sont en grande difficulté et tirent la sonnette d'alarme. Les enfants souffrant de troubles psychiques et leurs parents, souvent totalement démunis face à la maladie de leur enfant, subissent tous les jours ce manque d'accompagnement, alors que les files d'attente s'allongent dans les centres médico-psychologiques (CMP) et médico-psycho-pédagogiques (CMPP).<br><br>Ma question est donc simple, monsieur le ministre : pouvez-vous nous dire quelle est la stratégie du Gouvernement pour répondre rapidement à la crise profonde que traverse la pédopsychiatrie en France ? <i>(Applaudissements sur les bancs du groupe LIOT et sur plusieurs bancs du groupe LR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>Vous le savez, la pédopsychiatrie et, plus largement, la prise en charge de la santé de l'enfant, est une de mes priorités, d'autant que – vous l'avez signalé – les résultats post-crise covid, ou du moins ceux observés à la suite de sa phase aiguë, montrent une dégradation de la santé mentale des enfants et des adolescents, en particulier des jeunes filles. Les assises de la santé mentale et de la psychiatrie, qui se sont tenues en septembre 2021, nous ont déjà permis d'engager plusieurs actions à destination de ce secteur.<br><br>Le numéro national de prévention du suicide en est une, ainsi que les moyens financiers et humains mis pour développer les centres médico-psychologiques et les maisons des adolescents (MDA) – nous atteindrons à la fin de l'année l'objectif visant à doter chaque département d'au moins une maison des adolescents. Par ailleurs, le dispositif MonPsy a déjà permis de rembourser 95 000 consultations, y compris bien sûr pour des enfants, et le développement des infirmières en pratique avancée (IPA) dans le domaine de la psychiatrie va permettre, là aussi, de répondre un peu mieux aux besoins de cette jeune population.<br><br>Cependant, c'est insuffisant et nous devons continuer à avancer. Comme je m'y suis engagé, je lance demain les assises de la pédiatrie et de la santé de l'enfant ; une réunion de l'ensemble des parties prenantes se tiendra la semaine prochaine, afin de produire une analyse, de trouver des solutions et de les appliquer de façon transversale dans l'ensemble des champs de la santé de l'enfant, dont l'un est spécifiquement consacré à la santé mentale, sur le plan tant préventif que thérapeutique. Comme je l'avais déjà annoncé ici, les résultats seront disponibles à partir du printemps prochain et donneront lieu à une feuille de route pour les années à venir, qui couvrira l'ensemble des domaines touchant à la santé des enfants et des adolescents - et particulièrement, donc, leur santé mentale. <i>(M. Éric Martineau applaudit.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 38,
+            "label": "ORG",
+            "text": "PÉDOPSYCHIATRIE"
+          },
+          {
+            "start_char": 47,
+            "end_char": 54,
+            "label": "LOC",
+            "text": "PG9></a"
+          },
+          {
+            "start_char": 72,
+            "end_char": 75,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 116,
+            "end_char": 151,
+            "label": "PER",
+            "text": "M. Laurent Panifous.<br><br><strong"
+          },
+          {
+            "start_char": 155,
+            "end_char": 171,
+            "label": "PER",
+            "text": "Laurent Panifous"
+          },
+          {
+            "start_char": 206,
+            "end_char": 208,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 249,
+            "end_char": 278,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong>"
+          },
+          {
+            "start_char": 321,
+            "end_char": 337,
+            "label": "PER",
+            "text": "Laurent Panifous"
+          },
+          {
+            "start_char": 423,
+            "end_char": 431,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 601,
+            "end_char": 603,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 745,
+            "end_char": 762,
+            "label": "MISC",
+            "text": "effectifs.<br><br"
+          },
+          {
+            "start_char": 839,
+            "end_char": 841,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 993,
+            "end_char": 999,
+            "label": "LOC",
+            "text": "Ariège"
+          },
+          {
+            "start_char": 1048,
+            "end_char": 1050,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1295,
+            "end_char": 1297,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1697,
+            "end_char": 1711,
+            "label": "LOC",
+            "text": "Ariège.<br><br"
+          },
+          {
+            "start_char": 2043,
+            "end_char": 2046,
+            "label": "MISC",
+            "text": "CMP"
+          },
+          {
+            "start_char": 2194,
+            "end_char": 2206,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2287,
+            "end_char": 2293,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 2341,
+            "end_char": 2345,
+            "label": "ORG",
+            "text": "LIOT"
+          },
+          {
+            "start_char": 2379,
+            "end_char": 2402,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2403,
+            "end_char": 2406,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2447,
+            "end_char": 2449,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2513,
+            "end_char": 2521,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3108,
+            "end_char": 3123,
+            "label": "MISC",
+            "text": "secteur.<br><br"
+          },
+          {
+            "start_char": 3309,
+            "end_char": 3312,
+            "label": "ORG",
+            "text": "MDA"
+          },
+          {
+            "start_char": 3465,
+            "end_char": 3471,
+            "label": "MISC",
+            "text": "MonPsy"
+          },
+          {
+            "start_char": 4557,
+            "end_char": 4571,
+            "label": "PER",
+            "text": "Éric Martineau"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 90,
+            "sentiment": "3 stars",
+            "score": 0.28252676129341125
+          },
+          {
+            "begin_char": 91,
+            "end_char": 172,
+            "sentiment": "3 stars",
+            "score": 0.24410980939865112
+          },
+          {
+            "begin_char": 173,
+            "end_char": 278,
+            "sentiment": "3 stars",
+            "score": 0.32383039593696594
+          },
+          {
+            "begin_char": 279,
+            "end_char": 290,
+            "sentiment": "1 star",
+            "score": 0.3628306984901428
+          },
+          {
+            "begin_char": 291,
+            "end_char": 302,
+            "sentiment": "1 star",
+            "score": 0.3628306984901428
+          },
+          {
+            "begin_char": 302,
+            "end_char": 338,
+            "sentiment": "3 stars",
+            "score": 0.2749023735523224
+          },
+          {
+            "begin_char": 339,
+            "end_char": 348,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 348,
+            "end_char": 362,
+            "sentiment": "4 stars",
+            "score": 0.28575393557548523
+          },
+          {
+            "begin_char": 362,
+            "end_char": 457,
+            "sentiment": "3 stars",
+            "score": 0.2821987271308899
+          },
+          {
+            "begin_char": 458,
+            "end_char": 638,
+            "sentiment": "2 stars",
+            "score": 0.31598278880119324
+          },
+          {
+            "begin_char": 639,
+            "end_char": 968,
+            "sentiment": "3 stars",
+            "score": 0.37926945090293884
+          },
+          {
+            "begin_char": 969,
+            "end_char": 1543,
+            "sentiment": "2 stars",
+            "score": 0.5085582137107849
+          },
+          {
+            "begin_char": 1544,
+            "end_char": 1678,
+            "sentiment": "3 stars",
+            "score": 0.3809225857257843
+          },
+          {
+            "begin_char": 1679,
+            "end_char": 1783,
+            "sentiment": "4 stars",
+            "score": 0.2842056155204773
+          },
+          {
+            "begin_char": 1784,
+            "end_char": 2295,
+            "sentiment": "5 stars",
+            "score": 0.3152570128440857
+          },
+          {
+            "begin_char": 2296,
+            "end_char": 2421,
+            "sentiment": "4 stars",
+            "score": 0.31552854180336
+          },
+          {
+            "begin_char": 2422,
+            "end_char": 2540,
+            "sentiment": "4 stars",
+            "score": 0.3129529356956482
+          },
+          {
+            "begin_char": 2541,
+            "end_char": 2582,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 2583,
+            "end_char": 2946,
+            "sentiment": "4 stars",
+            "score": 0.35865581035614014
+          },
+          {
+            "begin_char": 2947,
+            "end_char": 3124,
+            "sentiment": "5 stars",
+            "score": 0.39039698243141174
+          },
+          {
+            "begin_char": 3124,
+            "end_char": 3436,
+            "sentiment": "5 stars",
+            "score": 0.34491628408432007
+          },
+          {
+            "begin_char": 3437,
+            "end_char": 3814,
+            "sentiment": "3 stars",
+            "score": 0.45836228132247925
+          },
+          {
+            "begin_char": 3815,
+            "end_char": 3913,
+            "sentiment": "5 stars",
+            "score": 0.5335158109664917
+          },
+          {
+            "begin_char": 3914,
+            "end_char": 4247,
+            "sentiment": "5 stars",
+            "score": 0.5450882315635681
+          },
+          {
+            "begin_char": 4248,
+            "end_char": 4500,
+            "sentiment": "5 stars",
+            "score": 0.45163407921791077
+          },
+          {
+            "begin_char": 4501,
+            "end_char": 4549,
+            "sentiment": "4 stars",
+            "score": 0.3888993561267853
+          },
+          {
+            "begin_char": 4550,
+            "end_char": 4595,
+            "sentiment": "3 stars",
+            "score": 0.28407400846481323
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-07",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-07",
+        "pageJO": "6563",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

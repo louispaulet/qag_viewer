@@ -1,0 +1,923 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG307",
+    "identifiant": {
+      "numero": "307",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "immigration",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Politique migratoire"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720386",
+        "mandatRef": "PM796908"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Intérieur et outre-mer",
+      "developpe": "Ministère de l’intérieur et des outre-mer"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Intérieur et outre-mer",
+          "developpe": "Ministère de l’intérieur et des outre-mer"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> POLITIQUE MIGRATOIRE <a name=PG5></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Fabien Di Filippo.<br><br><strong>Mme Marietta Karamanli.</strong> Il me restait trente secondes de temps de parole !<br><br><strong>Mme la présidente.</strong> Non, c'est à M. le ministre qu'il restait trente secondes.<br><br><strong>Mme Marietta Karamanli.</strong> Ce n'est pas grave.<br><br><strong>Mme la présidente.</strong> On remet le compteur à zéro pour M. Di Filippo. <i>(Applaudissements sur plusieurs bancs du groupe LR.)</i><br><br><strong>M. Fabien Di Filippo. </strong>Ma question s'adresse à M. le ministre de l'intérieur. Nous refusons de voir la France devenir chaque jour un peu plus l'eldorado de la clandestinité.<br><br><strong>Plusieurs députés du groupe LFI-NUPES .</strong> Allez !<br><br><strong>M. Fabien Di Filippo. </strong>L'accueil du bateau <i>Ocean Viking</i> et de ses 234 migrants a finalement donné lieu au fiasco judiciaire et sécuritaire inévitable et annoncé. Monsieur le ministre, ce fiasco concerne à la fois votre engagement d'éloignement immédiat des déboutés du droit d'asile, la majorité d'entre eux s'étant évanouis dans la nature faute d'être présentée à un juge dans les délais impartis, et le contrôle des mineurs isolés, dont 60 % ont fugué.<br><br>En 2018, le Président Emmanuel Macron – qui n'est pas à un revirement près – déclarait pourtant à propos de l'<i>Aquarius</i> qu'il serait insoutenable que la France devienne le port d'accueil des bateaux partant d'Afrique et que les bons sentiments faciles feraient basculer le pays vers les extrêmes.<br><br>Il faut un message limpide et plus ferme. Lors de votre prise de fonction, monsieur le ministre, vous aviez entamé une tournée de plusieurs pays pour négocier des laissez-passer consulaires et augmenter l'exécution des expulsions, dont neuf sur dix restent toujours lettre morte. L'octroi des visas réguliers et l'aide au développement doivent désormais être conditionnés à la délivrance systématique des laissez-passer consulaires pour éloigner les clandestins. <i>(Applaudissements sur les bancs du groupe LR.)</i><br><br>Il faut ensuite affirmer sans aucune ambiguïté que les ONG et leurs bateaux sont les complices des organisations criminelles et mafieuses de passeurs <i>(Mme Danielle Simonnet et M. Davy Rimane protestent) </i>qui provoquent de la misère et des drames humains en mer. La France doit soutenir la demande de résolution des quatre pays méditerranéens, qui exigent des pays fournissant leur pavillon aux bateaux privés des ONG qu'ils accueillent les migrants à leur bord et en assurent la prise en charge.<br><br>Mes questions sont donc directes, monsieur le ministre : écouterez-vous enfin les propositions de la droite républicaine…<br><br><strong>Mme Danielle Simonnet.</strong> Ce n'est pas ça, la République !<br><br><strong>M. Fabien Di Filippo. </strong>…pour bâtir une politique migratoire ferme et réaliste, assurant la sécurité de nos concitoyens et l'éloignement de ceux qui violent les lois, et permettant l'intégration des personnes qui méritent réellement d'être accueillies ? <i>(Mme Danielle Simonnet et M. Manuel Bompard protestent.) </i>Ou comme Gérard Collomb, attendrez-vous de quitter le gouvernement pour dénoncer l'hypocrisie laxiste du pouvoir et le dévoiement des procédures migratoires qui affaiblissent la République ? (Applaudissements sur les bancs du groupe LR. – MM. José Beaurain et Roger Chudeau applaudissent également.)<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’intérieur et des outre-mer.<br><br><strong>M. Gérald Darmanin,</strong><i> ministre de l’intérieur et des outre-mer. </i>Monsieur Di Filippo, votre question est importante : elle touche à la politique migratoire. Nous aurons l'occasion, le 6 décembre prochain, d'entendre dans ce même hémicycle les propositions du groupe Les Républicains à ce sujet, puisqu'un débat est souhaité, ici et au Sénat, avant l'examen d'un texte très important que j'ai eu l'honneur de présenter avec Olivier Dussopt, en préfiguration de nos discussions.<br><br><strong>M. Pierre Cordier.</strong> Est-ce qu'on peut répondre à la question ?<br><br><strong>M. Gérald Darmanin,</strong><i> ministre . </i>Le texte sera transmis au Conseil d'État après ces débats parlementaires et les consultations politiques, auxquelles j'ai convié votre groupe, comme tous les groupes. Leur objectif consiste à discuter de ce texte afin que nous puissions le construire ensemble – si nous trouvons des points de compromis.<br><br><strong>M. Patrick Hetzel.</strong> La discussion doit se faire ici !<br><br><strong>M. Gérald Darmanin,</strong><i> ministre . </i>Ce texte sera discuté à partir de janvier au Sénat, puis sans doute en mars ou en avril dans cet hémicycle. Nous tirerons évidemment des conclusions de ce que nous avons vécu avec l'<i>Ocean Viking</i> ; ainsi, nous avons compris que le droit n'est pas forcément très adapté. Nous examinerons également les moyens nécessaires à la lutte contre l'immigration clandestine, mais aussi à l'accompagnement et à l'encouragement d'une immigration de travail souhaitée par beaucoup de Français.<br><br>La dimension européenne est également très importante. Dès le mois de juin prochain, un premier système d'entrée-sortie de Schengen inédit sera instauré dans toute l'Europe, grâce à la présidence française de l'Union européenne et à l'action du Président de la République. Dès vendredi après-midi, à la demande de la France, une réunion extraordinaire des ministres de l'intérieur de l'Union européenne prendra en compte la proposition de la Commission européenne rendue publique hier, qui est en tout point conforme à la position de la France : le droit de la mer doit être respecté par tous les pays ; l'accueil des étrangers sur le sol européen doit se faire dans de bonnes conditions ; les pays de départ doivent être responsabilisés, notamment en conditionnant les aides au développement, comme vous l'avez proposé. <i>(Applaudissements sur les quelques bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Fabien Di Filippo.<br><br><strong>M. Fabien Di Filippo. </strong>En 2018, Gérard Collomb avait balayé toutes nos propositions. Il s'en mord aujourd'hui les doigts. C'est la dernière occasion de faire preuve de fermeté : il faudra la saisir ! <i>(Applaudissements sur les bancs du groupe LR. – MM. José Beaurain et Roger Chudeau applaudissent également.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 32,
+            "label": "MISC",
+            "text": "POLITIQUE"
+          },
+          {
+            "start_char": 33,
+            "end_char": 43,
+            "label": "MISC",
+            "text": "MIGRATOIRE"
+          },
+          {
+            "start_char": 52,
+            "end_char": 59,
+            "label": "PER",
+            "text": "PG5></a"
+          },
+          {
+            "start_char": 77,
+            "end_char": 80,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 121,
+            "end_char": 130,
+            "label": "PER",
+            "text": "M. Fabien"
+          },
+          {
+            "start_char": 131,
+            "end_char": 133,
+            "label": "PER",
+            "text": "Di"
+          },
+          {
+            "start_char": 158,
+            "end_char": 189,
+            "label": "PER",
+            "text": "Mme Marietta Karamanli.</strong"
+          },
+          {
+            "start_char": 257,
+            "end_char": 284,
+            "label": "PER",
+            "text": "Mme la présidente.</strong>"
+          },
+          {
+            "start_char": 298,
+            "end_char": 300,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 359,
+            "end_char": 390,
+            "label": "PER",
+            "text": "Mme Marietta Karamanli.</strong"
+          },
+          {
+            "start_char": 427,
+            "end_char": 453,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 488,
+            "end_char": 501,
+            "label": "PER",
+            "text": "M. Di Filippo"
+          },
+          {
+            "start_char": 554,
+            "end_char": 577,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 588,
+            "end_char": 598,
+            "label": "PER",
+            "text": "Di Filippo"
+          },
+          {
+            "start_char": 633,
+            "end_char": 635,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 686,
+            "end_char": 695,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 803,
+            "end_char": 812,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 857,
+            "end_char": 867,
+            "label": "PER",
+            "text": "Di Filippo"
+          },
+          {
+            "start_char": 899,
+            "end_char": 916,
+            "label": "MISC",
+            "text": "i>Ocean Viking</i"
+          },
+          {
+            "start_char": 1024,
+            "end_char": 1032,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1310,
+            "end_char": 1323,
+            "label": "MISC",
+            "text": "fugué.<br><br"
+          },
+          {
+            "start_char": 1336,
+            "end_char": 1361,
+            "label": "PER",
+            "text": "Président Emmanuel Macron"
+          },
+          {
+            "start_char": 1437,
+            "end_char": 1448,
+            "label": "ORG",
+            "text": "Aquarius</i"
+          },
+          {
+            "start_char": 1480,
+            "end_char": 1489,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1539,
+            "end_char": 1546,
+            "label": "LOC",
+            "text": "Afrique"
+          },
+          {
+            "start_char": 1617,
+            "end_char": 1633,
+            "label": "MISC",
+            "text": "extrêmes.<br><br"
+          },
+          {
+            "start_char": 2142,
+            "end_char": 2157,
+            "label": "ORG",
+            "text": "LR.)</i><br><br"
+          },
+          {
+            "start_char": 2337,
+            "end_char": 2351,
+            "label": "PER",
+            "text": "M. Davy Rimane"
+          },
+          {
+            "start_char": 2426,
+            "end_char": 2435,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 2652,
+            "end_char": 2666,
+            "label": "MISC",
+            "text": "charge.<br><br"
+          },
+          {
+            "start_char": 2667,
+            "end_char": 2680,
+            "label": "MISC",
+            "text": "Mes questions"
+          },
+          {
+            "start_char": 2804,
+            "end_char": 2816,
+            "label": "PER",
+            "text": "Mme Danielle"
+          },
+          {
+            "start_char": 2856,
+            "end_char": 2904,
+            "label": "LOC",
+            "text": "République !<br><br><strong>M. Fabien Di Filippo"
+          },
+          {
+            "start_char": 3174,
+            "end_char": 3191,
+            "label": "PER",
+            "text": "M. Manuel Bompard"
+          },
+          {
+            "start_char": 3218,
+            "end_char": 3232,
+            "label": "PER",
+            "text": "Gérard Collomb"
+          },
+          {
+            "start_char": 3387,
+            "end_char": 3397,
+            "label": "LOC",
+            "text": "République"
+          },
+          {
+            "start_char": 3401,
+            "end_char": 3417,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 3442,
+            "end_char": 3444,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 3448,
+            "end_char": 3451,
+            "label": "ORG",
+            "text": "MM."
+          },
+          {
+            "start_char": 3452,
+            "end_char": 3465,
+            "label": "PER",
+            "text": "José Beaurain"
+          },
+          {
+            "start_char": 3469,
+            "end_char": 3482,
+            "label": "PER",
+            "text": "Roger Chudeau"
+          },
+          {
+            "start_char": 3524,
+            "end_char": 3527,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3568,
+            "end_char": 3570,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3586,
+            "end_char": 3588,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3631,
+            "end_char": 3640,
+            "label": "PER",
+            "text": "M. Gérald"
+          },
+          {
+            "start_char": 3675,
+            "end_char": 3677,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3709,
+            "end_char": 3728,
+            "label": "LOC",
+            "text": "Monsieur Di Filippo"
+          },
+          {
+            "start_char": 3914,
+            "end_char": 3926,
+            "label": "ORG",
+            "text": "Républicains"
+          },
+          {
+            "start_char": 3979,
+            "end_char": 3984,
+            "label": "ORG",
+            "text": "Sénat"
+          },
+          {
+            "start_char": 4067,
+            "end_char": 4082,
+            "label": "PER",
+            "text": "Olivier Dussopt"
+          },
+          {
+            "start_char": 4139,
+            "end_char": 4167,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong> Est"
+          },
+          {
+            "start_char": 4225,
+            "end_char": 4231,
+            "label": "PER",
+            "text": "Gérald"
+          },
+          {
+            "start_char": 4295,
+            "end_char": 4309,
+            "label": "ORG",
+            "text": "Conseil d'État"
+          },
+          {
+            "start_char": 4591,
+            "end_char": 4615,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 4668,
+            "end_char": 4674,
+            "label": "PER",
+            "text": "Gérald"
+          },
+          {
+            "start_char": 4757,
+            "end_char": 4762,
+            "label": "ORG",
+            "text": "Sénat"
+          },
+          {
+            "start_char": 4897,
+            "end_char": 4912,
+            "label": "PER",
+            "text": "Ocean Viking</i"
+          },
+          {
+            "start_char": 5329,
+            "end_char": 5337,
+            "label": "LOC",
+            "text": "Schengen"
+          },
+          {
+            "start_char": 5370,
+            "end_char": 5378,
+            "label": "LOC",
+            "text": "l'Europe"
+          },
+          {
+            "start_char": 5417,
+            "end_char": 5433,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 5451,
+            "end_char": 5477,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 5520,
+            "end_char": 5529,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 5592,
+            "end_char": 5608,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 5648,
+            "end_char": 5669,
+            "label": "ORG",
+            "text": "Commission européenne"
+          },
+          {
+            "start_char": 5740,
+            "end_char": 5749,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 6081,
+            "end_char": 6104,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 6105,
+            "end_char": 6108,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 6149,
+            "end_char": 6158,
+            "label": "PER",
+            "text": "M. Fabien"
+          },
+          {
+            "start_char": 6159,
+            "end_char": 6161,
+            "label": "PER",
+            "text": "Di"
+          },
+          {
+            "start_char": 6186,
+            "end_char": 6195,
+            "label": "PER",
+            "text": "M. Fabien"
+          },
+          {
+            "start_char": 6196,
+            "end_char": 6206,
+            "label": "PER",
+            "text": "Di Filippo"
+          },
+          {
+            "start_char": 6226,
+            "end_char": 6240,
+            "label": "PER",
+            "text": "Gérard Collomb"
+          },
+          {
+            "start_char": 6439,
+            "end_char": 6441,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 6445,
+            "end_char": 6448,
+            "label": "ORG",
+            "text": "MM."
+          },
+          {
+            "start_char": 6449,
+            "end_char": 6462,
+            "label": "PER",
+            "text": "José Beaurain"
+          },
+          {
+            "start_char": 6466,
+            "end_char": 6479,
+            "label": "PER",
+            "text": "Roger Chudeau"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 60,
+            "sentiment": "3 stars",
+            "score": 0.3082655370235443
+          },
+          {
+            "begin_char": 61,
+            "end_char": 95,
+            "sentiment": "4 stars",
+            "score": 0.2742326259613037
+          },
+          {
+            "begin_char": 96,
+            "end_char": 130,
+            "sentiment": "5 stars",
+            "score": 0.25590085983276367
+          },
+          {
+            "begin_char": 131,
+            "end_char": 190,
+            "sentiment": "3 stars",
+            "score": 0.32121363282203674
+          },
+          {
+            "begin_char": 191,
+            "end_char": 241,
+            "sentiment": "1 star",
+            "score": 0.542249858379364
+          },
+          {
+            "begin_char": 241,
+            "end_char": 284,
+            "sentiment": "3 stars",
+            "score": 0.2839324474334717
+          },
+          {
+            "begin_char": 285,
+            "end_char": 391,
+            "sentiment": "1 star",
+            "score": 0.5065921545028687
+          },
+          {
+            "begin_char": 392,
+            "end_char": 454,
+            "sentiment": "3 stars",
+            "score": 0.24124155938625336
+          },
+          {
+            "begin_char": 455,
+            "end_char": 502,
+            "sentiment": "1 star",
+            "score": 0.5365830063819885
+          },
+          {
+            "begin_char": 503,
+            "end_char": 587,
+            "sentiment": "3 stars",
+            "score": 0.34043315052986145
+          },
+          {
+            "begin_char": 588,
+            "end_char": 599,
+            "sentiment": "4 stars",
+            "score": 0.29111889004707336
+          },
+          {
+            "begin_char": 600,
+            "end_char": 663,
+            "sentiment": "4 stars",
+            "score": 0.2870349586009979
+          },
+          {
+            "begin_char": 664,
+            "end_char": 823,
+            "sentiment": "5 stars",
+            "score": 0.3401567339897156
+          },
+          {
+            "begin_char": 824,
+            "end_char": 831,
+            "sentiment": "5 stars",
+            "score": 0.3663704991340637
+          },
+          {
+            "begin_char": 831,
+            "end_char": 856,
+            "sentiment": "3 stars",
+            "score": 0.3095281720161438
+          },
+          {
+            "begin_char": 857,
+            "end_char": 868,
+            "sentiment": "4 stars",
+            "score": 0.29111889004707336
+          },
+          {
+            "begin_char": 869,
+            "end_char": 878,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 878,
+            "end_char": 1023,
+            "sentiment": "3 stars",
+            "score": 0.2468932718038559
+          },
+          {
+            "begin_char": 1024,
+            "end_char": 1675,
+            "sentiment": "1 star",
+            "score": 0.2615068852901459
+          },
+          {
+            "begin_char": 1676,
+            "end_char": 1913,
+            "sentiment": "3 stars",
+            "score": 0.24635417759418488
+          },
+          {
+            "begin_char": 1914,
+            "end_char": 2096,
+            "sentiment": "4 stars",
+            "score": 0.40104129910469055
+          },
+          {
+            "begin_char": 2097,
+            "end_char": 2158,
+            "sentiment": "4 stars",
+            "score": 0.31302621960639954
+          },
+          {
+            "begin_char": 2158,
+            "end_char": 2425,
+            "sentiment": "5 stars",
+            "score": 0.2988488972187042
+          },
+          {
+            "begin_char": 2426,
+            "end_char": 2667,
+            "sentiment": "4 stars",
+            "score": 0.41600504517555237
+          },
+          {
+            "begin_char": 2667,
+            "end_char": 2835,
+            "sentiment": "5 stars",
+            "score": 0.3337891399860382
+          },
+          {
+            "begin_char": 2836,
+            "end_char": 2905,
+            "sentiment": "3 stars",
+            "score": 0.20892590284347534
+          },
+          {
+            "begin_char": 2906,
+            "end_char": 3144,
+            "sentiment": "5 stars",
+            "score": 0.5065988898277283
+          },
+          {
+            "begin_char": 3145,
+            "end_char": 3203,
+            "sentiment": "3 stars",
+            "score": 0.2739081084728241
+          },
+          {
+            "begin_char": 3203,
+            "end_char": 3204,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 3205,
+            "end_char": 3399,
+            "sentiment": "1 star",
+            "score": 0.25946900248527527
+          },
+          {
+            "begin_char": 3400,
+            "end_char": 3401,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 3401,
+            "end_char": 3542,
+            "sentiment": "4 stars",
+            "score": 0.3991866111755371
+          },
+          {
+            "begin_char": 3543,
+            "end_char": 3662,
+            "sentiment": "4 stars",
+            "score": 0.3126711845397949
+          },
+          {
+            "begin_char": 3663,
+            "end_char": 3704,
+            "sentiment": "4 stars",
+            "score": 0.31207600235939026
+          },
+          {
+            "begin_char": 3705,
+            "end_char": 3800,
+            "sentiment": "4 stars",
+            "score": 0.3072423040866852
+          },
+          {
+            "begin_char": 3801,
+            "end_char": 4206,
+            "sentiment": "4 stars",
+            "score": 0.39747071266174316
+          },
+          {
+            "begin_char": 4206,
+            "end_char": 4264,
+            "sentiment": "3 stars",
+            "score": 0.29790592193603516
+          },
+          {
+            "begin_char": 4265,
+            "end_char": 4435,
+            "sentiment": "5 stars",
+            "score": 0.3461141884326935
+          },
+          {
+            "begin_char": 4436,
+            "end_char": 4615,
+            "sentiment": "3 stars",
+            "score": 0.30907562375068665
+          },
+          {
+            "begin_char": 4616,
+            "end_char": 4649,
+            "sentiment": "3 stars",
+            "score": 0.24156512320041656
+          },
+          {
+            "begin_char": 4649,
+            "end_char": 4707,
+            "sentiment": "3 stars",
+            "score": 0.29790592193603516
+          },
+          {
+            "begin_char": 4708,
+            "end_char": 4712,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4712,
+            "end_char": 4819,
+            "sentiment": "4 stars",
+            "score": 0.3409096300601959
+          },
+          {
+            "begin_char": 4820,
+            "end_char": 4915,
+            "sentiment": "4 stars",
+            "score": 0.32602137327194214
+          },
+          {
+            "begin_char": 4916,
+            "end_char": 4987,
+            "sentiment": "3 stars",
+            "score": 0.31947100162506104
+          },
+          {
+            "begin_char": 4988,
+            "end_char": 5206,
+            "sentiment": "4 stars",
+            "score": 0.46739837527275085
+          },
+          {
+            "begin_char": 5206,
+            "end_char": 5260,
+            "sentiment": "4 stars",
+            "score": 0.41637739539146423
+          },
+          {
+            "begin_char": 5261,
+            "end_char": 5478,
+            "sentiment": "5 stars",
+            "score": 0.5920293927192688
+          },
+          {
+            "begin_char": 5479,
+            "end_char": 5809,
+            "sentiment": "5 stars",
+            "score": 0.5575558543205261
+          },
+          {
+            "begin_char": 5810,
+            "end_char": 5895,
+            "sentiment": "4 stars",
+            "score": 0.44657811522483826
+          },
+          {
+            "begin_char": 5896,
+            "end_char": 6026,
+            "sentiment": "5 stars",
+            "score": 0.42011207342147827
+          },
+          {
+            "begin_char": 6027,
+            "end_char": 6123,
+            "sentiment": "3 stars",
+            "score": 0.3047361671924591
+          },
+          {
+            "begin_char": 6124,
+            "end_char": 6158,
+            "sentiment": "5 stars",
+            "score": 0.25590085983276367
+          },
+          {
+            "begin_char": 6159,
+            "end_char": 6195,
+            "sentiment": "3 stars",
+            "score": 0.30719679594039917
+          },
+          {
+            "begin_char": 6196,
+            "end_char": 6207,
+            "sentiment": "4 stars",
+            "score": 0.29111889004707336
+          },
+          {
+            "begin_char": 6208,
+            "end_char": 6217,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 6217,
+            "end_char": 6278,
+            "sentiment": "1 star",
+            "score": 0.298351913690567
+          },
+          {
+            "begin_char": 6279,
+            "end_char": 6315,
+            "sentiment": "1 star",
+            "score": 0.41672295331954956
+          },
+          {
+            "begin_char": 6316,
+            "end_char": 6393,
+            "sentiment": "4 stars",
+            "score": 0.33337000012397766
+          },
+          {
+            "begin_char": 6394,
+            "end_char": 6513,
+            "sentiment": "4 stars",
+            "score": 0.35298916697502136
+          },
+          {
+            "begin_char": 6514,
+            "end_char": 6517,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5895",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

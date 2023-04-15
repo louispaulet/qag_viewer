@@ -1,0 +1,551 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG601",
+    "identifiant": {
+      "numero": "601",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "outre-mer",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "SYSTÈME HOSPITALIER EN GUYANE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795868",
+        "mandatRef": "PM797727"
+      },
+      "groupe": {
+        "organeRef": "PO800502",
+        "abrege": "GDR-NUPES",
+        "developpe": "Gauche démocrate et républicaine - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Organisation territoriale et professions de santé",
+      "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Organisation territoriale et professions de santé",
+          "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SYSTÈME HOSPITALIER EN GUYANE <a name=PG18></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Victor Castor.<br><br><strong>M. Jean-Victor Castor. </strong>Ma question s'adresse à M. François Braun, ministre de la santé et de la prévention.<br><br>Une cuisine centrale fermée depuis près de six mois pour cause de contamination à la listériose ; des seaux pour recueillir l'eau qui s'infiltre des toits des blocs opératoires, ce qui provoque des fermetures régulières ; des soubassements inondés par de l'eau putride… Voilà l'état de l'hôpital de référence à Cayenne ! Or c'est dans cet équipement délabré, qui subit des avaries à répétition, qu'il est prévu d'implanter un centre hospitalier régional universitaire !<br><br>La nécessité d'un CHRU en Guyane ne fait absolument pas débat, et sa mise en place en 2025 ne doit pas être retardée. Toutefois, vous le savez, compte tenu du sous-dimensionnement du site et de l'état de vétusté de l'hôpital actuel, poursuivre dans la voie de la réhabilitation est une impasse ; cela ne permettra jamais de le mettre au niveau d'un hôpital universitaire digne et efficace.<br><br>La Guyane est le plus grand désert médical de France : à peine 150 médecins de ville, dont la moitié approchent de la retraite. Selon l'Insee, notre population passera de 329 000 personnes en 2023 à 574 000 en 2040, sur un territoire totalement isolé. Dans ce contexte, ne pas prévoir dès aujourd'hui la construction d'un nouvel hôpital revient à créer un CHRU mort-né ! Quel professeur des universités-praticien hospitalier (PU-PH) viendra s'installer de façon pérenne dans un hôpital rafistolé ?<br><br>Pour espérer un hôpital neuf en fonctionnement dans moins de dix ans, notre responsabilité à tous est d'en décider dès aujourd'hui la construction. Cette conviction est largement partagée par la population, les professionnels de santé et les élus locaux. Quand prendrez-vous enfin la décision de construire un hôpital neuf en Guyane ? <i>(Applaudissements sur les bancs des groupes GDR-NUPES et Écolo-NUPES, ainsi que sur quelques bancs des groupes LFI-NUPES et SOC.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée chargée de l’organisation territoriale et des professions de santé.<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée chargée de l’organisation territoriale et des professions de santé. </i>Je vous prie d’excuser l'absence de François Braun, en déplacement dans un collège de Jarnac aux côtés du Président de la République et du ministre de l’éducation nationale pour l'annonce de mesures importantes en matière de prévention, notamment de vaccination contre le papillomavirus.<br><br>Vous le savez, monsieur le député, nous suivons avec une grande attention la situation en Guyane et nous œuvrons pour assurer une réponse aux besoins de santé. Cela se fait dans le dialogue avec les collectivités locales, les syndicats et l'ensemble des acteurs de santé. Nous sommes confrontés à plusieurs enjeux de santé publique spécifiques – la santé périnatale, la pollution aux métaux lourds – et à des enjeux de santé environnementale importants.<br><br>Si la situation est complexe – vous l'avez répété –, notre objectif est bel et bien d'améliorer la réponse aux besoins de santé de nos concitoyens guyanais, tout d'abord par la création de trois hôpitaux de proximité d'ici à la fin de l'année 2023, afin de couvrir les zones les plus isolées du territoire, puis par la création du CHRU d'ici à 2025, dont l'objectif sera de structurer l'ensemble de l'offre hospitalière publique, en incluant les sites actuels de Cayenne, de Kourou et de Saint-Laurent-du-Maroni.<br><br>À cette fin, les services de l'État se mobilisent massivement pour accompagner l'ensemble des étapes de la construction du CHRU. La première étape est la construction d'un projet médical commun à ces établissements, dont nous visons la finalisation pour le mois de juin prochain. Sur place, les hôpitaux connaissent des difficultés financières, notamment de trésorerie. C'est l'un des enjeux auxquels nous faisons face, et l'État apporte son soutien aux établissements concernés. Je pense notamment au centre hospitalier de Kourou : l'agence régionale de santé se mobilise pour identifier des solutions pérennes, là encore dans le cadre du projet territorial.<br><br>Vous le voyez, l'État est résolu à agir en lien avec l'ensemble des acteurs locaux pour répondre aux besoins de santé de la population.<br><br><strong>M. Jean-Victor Castor.</strong> Vous n'avez pas répondu à la question !<br> <p>",
+        "entities": [
+          {
+            "start_char": 31,
+            "end_char": 42,
+            "label": "MISC",
+            "text": "HOSPITALIER"
+          },
+          {
+            "start_char": 46,
+            "end_char": 52,
+            "label": "MISC",
+            "text": "GUYANE"
+          },
+          {
+            "start_char": 87,
+            "end_char": 90,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 131,
+            "end_char": 168,
+            "label": "PER",
+            "text": "M. Jean-Victor Castor.<br><br><strong"
+          },
+          {
+            "start_char": 172,
+            "end_char": 190,
+            "label": "PER",
+            "text": "Jean-Victor Castor"
+          },
+          {
+            "start_char": 225,
+            "end_char": 227,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 228,
+            "end_char": 242,
+            "label": "PER",
+            "text": "François Braun"
+          },
+          {
+            "start_char": 274,
+            "end_char": 292,
+            "label": "MISC",
+            "text": "prévention.<br><br"
+          },
+          {
+            "start_char": 604,
+            "end_char": 611,
+            "label": "LOC",
+            "text": "Cayenne"
+          },
+          {
+            "start_char": 796,
+            "end_char": 802,
+            "label": "LOC",
+            "text": "Guyane"
+          },
+          {
+            "start_char": 1170,
+            "end_char": 1176,
+            "label": "LOC",
+            "text": "Guyane"
+          },
+          {
+            "start_char": 1210,
+            "end_char": 1219,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 1303,
+            "end_char": 1308,
+            "label": "ORG",
+            "text": "Insee"
+          },
+          {
+            "start_char": 1593,
+            "end_char": 1598,
+            "label": "MISC",
+            "text": "PU-PH"
+          },
+          {
+            "start_char": 1998,
+            "end_char": 2004,
+            "label": "LOC",
+            "text": "Guyane"
+          },
+          {
+            "start_char": 2054,
+            "end_char": 2063,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2067,
+            "end_char": 2078,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2121,
+            "end_char": 2130,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2134,
+            "end_char": 2158,
+            "label": "MISC",
+            "text": "SOC.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2159,
+            "end_char": 2162,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2203,
+            "end_char": 2206,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2239,
+            "end_char": 2241,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2311,
+            "end_char": 2327,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 2378,
+            "end_char": 2380,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2452,
+            "end_char": 2454,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 2475,
+            "end_char": 2489,
+            "label": "PER",
+            "text": "François Braun"
+          },
+          {
+            "start_char": 2525,
+            "end_char": 2531,
+            "label": "LOC",
+            "text": "Jarnac"
+          },
+          {
+            "start_char": 2545,
+            "end_char": 2571,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 2590,
+            "end_char": 2592,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2711,
+            "end_char": 2733,
+            "label": "MISC",
+            "text": "papillomavirus.<br><br"
+          },
+          {
+            "start_char": 2824,
+            "end_char": 2830,
+            "label": "LOC",
+            "text": "Guyane"
+          },
+          {
+            "start_char": 3176,
+            "end_char": 3194,
+            "label": "MISC",
+            "text": "importants.<br><br"
+          },
+          {
+            "start_char": 3658,
+            "end_char": 3665,
+            "label": "LOC",
+            "text": "Cayenne"
+          },
+          {
+            "start_char": 3670,
+            "end_char": 3676,
+            "label": "LOC",
+            "text": "Kourou"
+          },
+          {
+            "start_char": 3683,
+            "end_char": 3714,
+            "label": "LOC",
+            "text": "Saint-Laurent-du-Maroni.<br><br"
+          },
+          {
+            "start_char": 3746,
+            "end_char": 3750,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4140,
+            "end_char": 4144,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4239,
+            "end_char": 4245,
+            "label": "LOC",
+            "text": "Kourou"
+          },
+          {
+            "start_char": 4362,
+            "end_char": 4381,
+            "label": "MISC",
+            "text": "territorial.<br><br"
+          },
+          {
+            "start_char": 4399,
+            "end_char": 4403,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4536,
+            "end_char": 4563,
+            "label": "PER",
+            "text": "Jean-Victor Castor.</strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 105,
+            "sentiment": "3 stars",
+            "score": 0.35754337906837463
+          },
+          {
+            "begin_char": 106,
+            "end_char": 191,
+            "sentiment": "4 stars",
+            "score": 0.24482813477516174
+          },
+          {
+            "begin_char": 192,
+            "end_char": 293,
+            "sentiment": "3 stars",
+            "score": 0.3119185268878937
+          },
+          {
+            "begin_char": 293,
+            "end_char": 390,
+            "sentiment": "2 stars",
+            "score": 0.33902043104171753
+          },
+          {
+            "begin_char": 391,
+            "end_char": 514,
+            "sentiment": "3 stars",
+            "score": 0.3391328454017639
+          },
+          {
+            "begin_char": 515,
+            "end_char": 562,
+            "sentiment": "1 star",
+            "score": 0.6766918301582336
+          },
+          {
+            "begin_char": 563,
+            "end_char": 613,
+            "sentiment": "1 star",
+            "score": 0.3583851754665375
+          },
+          {
+            "begin_char": 614,
+            "end_char": 762,
+            "sentiment": "2 stars",
+            "score": 0.41099438071250916
+          },
+          {
+            "begin_char": 762,
+            "end_char": 887,
+            "sentiment": "5 stars",
+            "score": 0.28683996200561523
+          },
+          {
+            "begin_char": 888,
+            "end_char": 1065,
+            "sentiment": "3 stars",
+            "score": 0.4061274826526642
+          },
+          {
+            "begin_char": 1066,
+            "end_char": 1294,
+            "sentiment": "2 stars",
+            "score": 0.4050717055797577
+          },
+          {
+            "begin_char": 1295,
+            "end_char": 1418,
+            "sentiment": "4 stars",
+            "score": 0.2652043104171753
+          },
+          {
+            "begin_char": 1419,
+            "end_char": 1537,
+            "sentiment": "1 star",
+            "score": 0.5368291735649109
+          },
+          {
+            "begin_char": 1538,
+            "end_char": 1664,
+            "sentiment": "5 stars",
+            "score": 0.2669406533241272
+          },
+          {
+            "begin_char": 1664,
+            "end_char": 1672,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1672,
+            "end_char": 1819,
+            "sentiment": "5 stars",
+            "score": 0.5440040826797485
+          },
+          {
+            "begin_char": 1820,
+            "end_char": 1926,
+            "sentiment": "5 stars",
+            "score": 0.5428661108016968
+          },
+          {
+            "begin_char": 1927,
+            "end_char": 2006,
+            "sentiment": "5 stars",
+            "score": 0.4802745580673218
+          },
+          {
+            "begin_char": 2007,
+            "end_char": 2177,
+            "sentiment": "4 stars",
+            "score": 0.32762426137924194
+          },
+          {
+            "begin_char": 2178,
+            "end_char": 2348,
+            "sentiment": "3 stars",
+            "score": 0.30307215452194214
+          },
+          {
+            "begin_char": 2349,
+            "end_char": 2357,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 2358,
+            "end_char": 2434,
+            "sentiment": "4 stars",
+            "score": 0.32783234119415283
+          },
+          {
+            "begin_char": 2435,
+            "end_char": 2439,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2439,
+            "end_char": 2441,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 2442,
+            "end_char": 2734,
+            "sentiment": "4 stars",
+            "score": 0.35143953561782837
+          },
+          {
+            "begin_char": 2734,
+            "end_char": 2893,
+            "sentiment": "5 stars",
+            "score": 0.5946354269981384
+          },
+          {
+            "begin_char": 2894,
+            "end_char": 3005,
+            "sentiment": "5 stars",
+            "score": 0.4497651159763336
+          },
+          {
+            "begin_char": 3006,
+            "end_char": 3843,
+            "sentiment": "5 stars",
+            "score": 0.4375247657299042
+          },
+          {
+            "begin_char": 3844,
+            "end_char": 3994,
+            "sentiment": "4 stars",
+            "score": 0.36285969614982605
+          },
+          {
+            "begin_char": 3995,
+            "end_char": 4084,
+            "sentiment": "3 stars",
+            "score": 0.36764711141586304
+          },
+          {
+            "begin_char": 4085,
+            "end_char": 4194,
+            "sentiment": "4 stars",
+            "score": 0.4254090189933777
+          },
+          {
+            "begin_char": 4195,
+            "end_char": 4382,
+            "sentiment": "4 stars",
+            "score": 0.3992450535297394
+          },
+          {
+            "begin_char": 4382,
+            "end_char": 4564,
+            "sentiment": "4 stars",
+            "score": 0.3697182238101959
+          },
+          {
+            "begin_char": 4565,
+            "end_char": 4604,
+            "sentiment": "1 star",
+            "score": 0.7017704248428345
+          },
+          {
+            "begin_char": 4604,
+            "end_char": 4612,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-03-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-03-01",
+        "pageJO": "1900",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

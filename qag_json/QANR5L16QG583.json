@@ -1,0 +1,527 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG583",
+    "identifiant": {
+      "numero": "583",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "entreprises",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "GUICHET UNIQUE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793860",
+        "mandatRef": "PM803290"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Petites et moyennes entreprises, commerce, artisanat et tourisme",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Petites et moyennes entreprises, commerce, artisanat et tourisme",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> GUICHET UNIQUE <a name=PG28></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Frédéric Zgainski.<br><br><strong>M. Frédéric Zgainski. </strong>Madame la ministre déléguée chargée des petites et moyennes entreprises, du commerce, de l'artisanat et du tourisme, les formalités administratives sont des contraintes nécessaires, mais elles pèsent sur l'activité des TPE – très petites entreprises – et des PME – petites et moyennes entreprises. Pour faciliter la création et le développement d'entreprises, la majorité a décidé en 2019, par la loi relative à la croissance et à la transformation des entreprises, dite Pacte, de rassembler les sept réseaux épars de centres de formalités des entreprises (CFE) en un guichet unique. Celui-ci doit permettre à toutes les entreprises, quels que soient leur forme juridique et leur domaine d'activité, de remplir en ligne toutes les formalités, auprès des différents organismes – services fiscaux et sociaux, ou encore l'Insee.<br><br>Création, modification, dépôt des comptes annuels ou cessation d'activité : tout doit se faire en ligne, sur un même site internet. Cette dématérialisation, pilotée par l'Institut national de la propriété industrielle (Inpi), est une bonne chose pour l'économie, au moment où les créations d'entreprise battent des records. Toutefois, les bénéficiaires signalent depuis des semaines de lourds dysfonctionnements : pages vides, fonctionnalités inutilisables et bugs, qui paralysent la plateforme et contraignent de nombreuses PME, TPE et ETI – entreprises de taille intermédiaire – à repousser leurs démarches, provoquant l'embolie de l'économie.<br><br>Il y a quelques semaines, vous avez activé en urgence une procédure de secours, en rouvrant temporairement la plateforme Infogreffe pour accomplir certaines formalités. Certains actes peuvent aussi être réalisés par voie papier auprès des greffes compétents, nous ramenant quinze ans en arrière. La réouverture de cette plateforme est partielle et ne permet pas de remédier complètement à ces défaillances. Près de deux mois après l'ouverture du guichet unique, ces carences ininterrompues sont difficilement compréhensibles.<br><br>Aussi, madame la ministre déléguée, que comptez-vous faire pour rétablir dans les meilleurs délais un service fiable, afin que les entreprises et les usagers puissent effectuer sereinement leurs démarches ? <i>(Applaudissements sur les bancs du groupe Dem et sur quelques bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée chargée des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme.<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée chargée des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme. </i>Et du guichet unique ! <i>(Sourires.)</i> Je me permets de répéter vos propos : la réforme du guichet unique est majeure, ambitieuse et massive puisqu'elle concerne de très nombreux acteurs et opérateurs. Elle a consisté dans la fusion de pas moins de six CFE et dans le regroupement de toutes les démarches des entreprises en un seul formulaire en ligne, au lieu d'une cinquantaine de formulaires papier, dont je ne doute pas que les entrepreneurs ayant créé leur entreprise se souviennent avec émotion. Elle vise à dématérialiser rien de moins que 100 % des formalités administratives, là où, en matière de création et de modification d'activité, le taux de dématérialisation est de 30 %. La marche était haute.<br><br>À cette heure, soyons clairs, nous avons encore du travail. La satisfaction des utilisateurs n'est, à juste titre, pas au rendez-vous. Plutôt que de faire de grands discours pour vous dépeindre une réalité insatisfaisante, je vous dirais combien Bruno Le Maire et moi avons à cœur de trouver des solutions dans les semaines qui viennent, afin que la situation s'améliore rapidement.<br><br><strong>M. Jean-Philippe Tanguy.</strong> On est foutu, alors !<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée. </i>C'est dommage d'entendre cela, alors que nous faisons preuve d'écoute ! <i>(M. Erwan Balanant applaudit.)</i><br><br>D'abord, les formalités en ligne pour la création d'entreprise fonctionnent plutôt bien, puisque nous avons atteint 80 % du niveau de 2022. En effet, 133 000 demandes ont été traitées, parmi lesquelles plus de 80 000 ont été enregistrées et validées. Nous avons presque atteint le même rythme de croisière que les années précédentes.<br><br>S'agissant des démarches en ligne de modification et de cessation d'activité, nous avons encore beaucoup de travail. C'est pourquoi nous avons donné la possibilité aux entreprises d'accomplir ces formalités par voie papier, « nous ramenant quinze ans en arrière » – pour reprendre vos mots, monsieur le député –, afin qu'elles puissent les effectuer rapidement.<br><br>D'ici à la fin du mois de février ou au début du mois de mars, la plateforme fonctionnera, Bruno Le Maire et moi en avons pris l'engagement. Les services de l'Inpi sont à la manœuvre jour et nuit, week-end inclus. La marche est haute, nous la franchirons. Dans une quinzaine de jours, la plateforme fonctionnera mieux. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br>",
+        "entities": [
+          {
+            "start_char": 31,
+            "end_char": 37,
+            "label": "MISC",
+            "text": "UNIQUE"
+          },
+          {
+            "start_char": 72,
+            "end_char": 75,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 116,
+            "end_char": 152,
+            "label": "PER",
+            "text": "M. Frédéric Zgainski.<br><br><strong"
+          },
+          {
+            "start_char": 156,
+            "end_char": 173,
+            "label": "PER",
+            "text": "Frédéric Zgainski"
+          },
+          {
+            "start_char": 184,
+            "end_char": 190,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 403,
+            "end_char": 406,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 655,
+            "end_char": 660,
+            "label": "MISC",
+            "text": "Pacte"
+          },
+          {
+            "start_char": 741,
+            "end_char": 744,
+            "label": "ORG",
+            "text": "CFE"
+          },
+          {
+            "start_char": 1003,
+            "end_char": 1025,
+            "label": "MISC",
+            "text": "Insee.<br><br>Création"
+          },
+          {
+            "start_char": 1188,
+            "end_char": 1234,
+            "label": "ORG",
+            "text": "Institut national de la propriété industrielle"
+          },
+          {
+            "start_char": 1236,
+            "end_char": 1240,
+            "label": "PER",
+            "text": "Inpi"
+          },
+          {
+            "start_char": 1547,
+            "end_char": 1550,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 1554,
+            "end_char": 1557,
+            "label": "MISC",
+            "text": "ETI"
+          },
+          {
+            "start_char": 1791,
+            "end_char": 1801,
+            "label": "MISC",
+            "text": "Infogreffe"
+          },
+          {
+            "start_char": 2179,
+            "end_char": 2202,
+            "label": "MISC",
+            "text": "compréhensibles.<br><br"
+          },
+          {
+            "start_char": 2455,
+            "end_char": 2458,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 2491,
+            "end_char": 2514,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2515,
+            "end_char": 2518,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2559,
+            "end_char": 2562,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2645,
+            "end_char": 2647,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2688,
+            "end_char": 2698,
+            "label": "PER",
+            "text": "Mme Olivia"
+          },
+          {
+            "start_char": 2800,
+            "end_char": 2802,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2856,
+            "end_char": 2873,
+            "label": "MISC",
+            "text": "i>(Sourires.)</i>"
+          },
+          {
+            "start_char": 3088,
+            "end_char": 3091,
+            "label": "ORG",
+            "text": "CFE"
+          },
+          {
+            "start_char": 3539,
+            "end_char": 3552,
+            "label": "MISC",
+            "text": "haute.<br><br"
+          },
+          {
+            "start_char": 3799,
+            "end_char": 3804,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3954,
+            "end_char": 3983,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong"
+          },
+          {
+            "start_char": 4022,
+            "end_char": 4032,
+            "label": "PER",
+            "text": "Mme Olivia"
+          },
+          {
+            "start_char": 4157,
+            "end_char": 4171,
+            "label": "PER",
+            "text": "Erwan Balanant"
+          },
+          {
+            "start_char": 4516,
+            "end_char": 4535,
+            "label": "MISC",
+            "text": "précédentes.<br><br"
+          },
+          {
+            "start_char": 4886,
+            "end_char": 4904,
+            "label": "MISC",
+            "text": "rapidement.<br><br"
+          },
+          {
+            "start_char": 4996,
+            "end_char": 5010,
+            "label": "PER",
+            "text": "Bruno Le Maire"
+          },
+          {
+            "start_char": 5064,
+            "end_char": 5068,
+            "label": "PER",
+            "text": "Inpi"
+          },
+          {
+            "start_char": 5276,
+            "end_char": 5278,
+            "label": "MISC",
+            "text": "RE"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 90,
+            "sentiment": "3 stars",
+            "score": 0.28967002034187317
+          },
+          {
+            "begin_char": 91,
+            "end_char": 174,
+            "sentiment": "4 stars",
+            "score": 0.25031790137290955
+          },
+          {
+            "begin_char": 175,
+            "end_char": 184,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 184,
+            "end_char": 481,
+            "sentiment": "4 stars",
+            "score": 0.4985361695289612
+          },
+          {
+            "begin_char": 482,
+            "end_char": 767,
+            "sentiment": "5 stars",
+            "score": 0.4558088779449463
+          },
+          {
+            "begin_char": 768,
+            "end_char": 1148,
+            "sentiment": "5 stars",
+            "score": 0.5249805450439453
+          },
+          {
+            "begin_char": 1149,
+            "end_char": 1340,
+            "sentiment": "5 stars",
+            "score": 0.4763934910297394
+          },
+          {
+            "begin_char": 1341,
+            "end_char": 1838,
+            "sentiment": "2 stars",
+            "score": 0.4028574228286743
+          },
+          {
+            "begin_char": 1839,
+            "end_char": 1965,
+            "sentiment": "3 stars",
+            "score": 0.2414090484380722
+          },
+          {
+            "begin_char": 1966,
+            "end_char": 2076,
+            "sentiment": "2 stars",
+            "score": 0.5237127542495728
+          },
+          {
+            "begin_char": 2077,
+            "end_char": 2409,
+            "sentiment": "2 stars",
+            "score": 0.3940865099430084
+          },
+          {
+            "begin_char": 2410,
+            "end_char": 2533,
+            "sentiment": "4 stars",
+            "score": 0.30880045890808105
+          },
+          {
+            "begin_char": 2534,
+            "end_char": 2720,
+            "sentiment": "4 stars",
+            "score": 0.31566670536994934
+          },
+          {
+            "begin_char": 2721,
+            "end_char": 2729,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 2730,
+            "end_char": 2827,
+            "sentiment": "4 stars",
+            "score": 0.32129693031311035
+          },
+          {
+            "begin_char": 2828,
+            "end_char": 2854,
+            "sentiment": "5 stars",
+            "score": 0.2579832971096039
+          },
+          {
+            "begin_char": 2855,
+            "end_char": 2873,
+            "sentiment": "3 stars",
+            "score": 0.26311081647872925
+          },
+          {
+            "begin_char": 2874,
+            "end_char": 3036,
+            "sentiment": "5 stars",
+            "score": 0.6905732750892639
+          },
+          {
+            "begin_char": 3037,
+            "end_char": 3336,
+            "sentiment": "5 stars",
+            "score": 0.6794396042823792
+          },
+          {
+            "begin_char": 3337,
+            "end_char": 3522,
+            "sentiment": "5 stars",
+            "score": 0.3339518904685974
+          },
+          {
+            "begin_char": 3523,
+            "end_char": 3581,
+            "sentiment": "3 stars",
+            "score": 0.23972207307815552
+          },
+          {
+            "begin_char": 3581,
+            "end_char": 3612,
+            "sentiment": "4 stars",
+            "score": 0.3825978636741638
+          },
+          {
+            "begin_char": 3613,
+            "end_char": 3687,
+            "sentiment": "2 stars",
+            "score": 0.42307010293006897
+          },
+          {
+            "begin_char": 3688,
+            "end_char": 3804,
+            "sentiment": "1 star",
+            "score": 0.41732487082481384
+          },
+          {
+            "begin_char": 3805,
+            "end_char": 3984,
+            "sentiment": "4 stars",
+            "score": 0.37739744782447815
+          },
+          {
+            "begin_char": 3985,
+            "end_char": 4006,
+            "sentiment": "1 star",
+            "score": 0.5523083209991455
+          },
+          {
+            "begin_char": 4006,
+            "end_char": 4054,
+            "sentiment": "3 stars",
+            "score": 0.3076053857803345
+          },
+          {
+            "begin_char": 4055,
+            "end_char": 4073,
+            "sentiment": "4 stars",
+            "score": 0.3252987861633301
+          },
+          {
+            "begin_char": 4074,
+            "end_char": 4149,
+            "sentiment": "3 stars",
+            "score": 0.3162975311279297
+          },
+          {
+            "begin_char": 4150,
+            "end_char": 4157,
+            "sentiment": "3 stars",
+            "score": 0.32702264189720154
+          },
+          {
+            "begin_char": 4157,
+            "end_char": 4334,
+            "sentiment": "4 stars",
+            "score": 0.3721746504306793
+          },
+          {
+            "begin_char": 4335,
+            "end_char": 4445,
+            "sentiment": "5 stars",
+            "score": 0.5207783579826355
+          },
+          {
+            "begin_char": 4446,
+            "end_char": 4652,
+            "sentiment": "4 stars",
+            "score": 0.4143217206001282
+          },
+          {
+            "begin_char": 4653,
+            "end_char": 5045,
+            "sentiment": "5 stars",
+            "score": 0.4463801681995392
+          },
+          {
+            "begin_char": 5046,
+            "end_char": 5118,
+            "sentiment": "4 stars",
+            "score": 0.3480634093284607
+          },
+          {
+            "begin_char": 5119,
+            "end_char": 5160,
+            "sentiment": "5 stars",
+            "score": 0.30281972885131836
+          },
+          {
+            "begin_char": 5161,
+            "end_char": 5223,
+            "sentiment": "4 stars",
+            "score": 0.3792512118816376
+          },
+          {
+            "begin_char": 5224,
+            "end_char": 5295,
+            "sentiment": "3 stars",
+            "score": 0.33507487177848816
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-15",
+        "pageJO": "1387",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

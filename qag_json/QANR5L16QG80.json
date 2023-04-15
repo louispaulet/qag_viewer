@@ -1,0 +1,587 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG80",
+    "identifiant": {
+      "numero": "80",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "agriculture",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Mesures en faveur de l'installation des jeunes agriculteurs"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794234",
+        "mandatRef": "PM796791"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Agriculture et souveraineté alimentaire",
+      "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Agriculture et souveraineté alimentaire",
+          "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> MESURES EN FAVEUR DE L'INSTALLATION DES JEUNES AGRICULTEURS <a name=PG26></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. François Gernigon.<br><br><strong>M. François Gernigon. </strong>Ma question s'adresse à M. le ministre de l'agriculture et de la souveraineté alimentaire.<br><br>L'agriculture française est au cœur de notre identité et nous devons en être fiers. Elle nous nourrit, elle est un marqueur de nos paysages et un formidable atout économique pour le pays. Les agriculteurs ont toujours tenu une place particulière dans notre société.<br><br>Dans le département du Maine-et-Loire, près de 20 % des agriculteurs partiront à la retraite au cours des cinq prochaines années. En 2030, 48 % des chefs d'exploitation auront atteint l'âge légal de départ à la retraite. Entre 2011 et 2019, seuls trois agriculteurs sortants sur cinq ont été remplacés dans la plupart des départements de la région des Pays de la Loire.<br><br>L'installation de jeunes agriculteurs s'impose donc, pour trois raisons notamment : relocaliser notre alimentation, décarboner notre économie et sécuriser notre autonomie alimentaire.<br><br>Les agriculteurs cessent leur activité après plusieurs décennies d'investissements financiers et humains ; c'est pourquoi leur outil de travail et leur patrimoine méritent d'être valorisés.<br><br>Je sais, monsieur le ministre, que le Gouvernement est engagé sur le sujet. En septembre dernier, le Président de la République a annoncé au syndicat Jeunes Agriculteurs la création d'un fonds de portage national pour le foncier agricole.<br><br>Ma question est donc la suivante : à l'instar des établissements publics de coopération intercommunale (EPCI) qui soutiennent le développement économique, quel dispositif l'État envisage-t-il pour faciliter le financement des reprises d'exploitation, notamment le rachat du matériel, du cheptel, du foncier bâti et non-bâti, en vue de l'installation de jeunes agriculteurs ? <i>(Applaudissements sur les bancs du groupe HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’agriculture et de la souveraineté alimentaire.<br><br><strong>M. Marc Fesneau,</strong><i> ministre de l’agriculture et de la souveraineté alimentaire. </i>Vous l'avez souligné, plus de 60 % des agriculteurs seront en âge de prendre leur retraite dans dix ans et partiront probablement. Il s'agit donc d'un défi majeur, non seulement pour l'agriculture et les agriculteurs, mais également pour nos territoires et pour notre souveraineté alimentaire.<br><br>C'est d'ailleurs en ce sens que la Première ministre, lors de sa déclaration de politique générale, a réaffirmé la volonté du Président de la République et du Gouvernement de déposer, en 2023, un projet de loi d'orientation et d'avenir pour l'agriculture.<br><br>Ce texte abordera différents sujets sur lesquels nous devrons travailler, que je vous présente rapidement. Premièrement, celui des cessions et des transmissions, dont la question du portage financier, qui peut constituer un frein pour certaines structures. Il faut également aider l'exploitant à se préparer à cette cession ; lorsque celle-ci n'est pas bien anticipée, l'installation est plus difficile. Enfin, il faut attirer des jeunes issus du milieu agricole mais aussi des jeunes – ou des moins jeunes d'ailleurs –, provenant d'autres secteurs ; ce point me paraît important.<br><br>Le deuxième sujet concerne la formation : le système français d'enseignement agricole est remarquable, et de nombreux pays le jugent exceptionnel. Nous devons le conforter, y compris sur le plan de l'accompagnement vers la transition écologique et énergétique qu'il s'efforce d'enseigner aux jeunes. Ce sont des sujets majeurs sur lesquels nous devons mener la réflexion.<br><br>Le troisième point a trait à l'innovation et à la recherche : l'agriculture ne pourra faire face aux défis de demain sans innovation ni recherche. Nous devrons poser sur la table cet aspect important.<br><br>Quatrième point, c'est la question de l'investissement. Dans le cadre du plan France 2030, la Première ministre l'a rappelé, plusieurs actions ont été prévues afin de favoriser l'investissement dans l'agriculture ; à défaut, les agriculteurs se retrouveraient dans une impasse.<br><br>Enfin, dernier point, et c'est le plus important, la transmission des exploitations agricoles ne pourra se faire si celles-ci ne génèrent pas de revenus.<br><br><strong>M. Sylvain Maillard.</strong> Eh oui !<br><br><strong>M. Marc Fesneau,</strong><i> ministre. </i>Nous avons évoqué tout à l'heure la loi EGALIM. Nous devons encore travailler sur le revenu des agriculteurs, afin d'offrir aux jeunes une perspective à moyen et long termes, faute de quoi ils n'arriveront pas à s'installer. Tels sont les enjeux qui se présentent devant nous. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 30,
+            "label": "ORG",
+            "text": "MESURES"
+          },
+          {
+            "start_char": 34,
+            "end_char": 40,
+            "label": "ORG",
+            "text": "FAVEUR"
+          },
+          {
+            "start_char": 44,
+            "end_char": 69,
+            "label": "MISC",
+            "text": "L'INSTALLATION DES JEUNES"
+          },
+          {
+            "start_char": 117,
+            "end_char": 120,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 161,
+            "end_char": 172,
+            "label": "PER",
+            "text": "M. François"
+          },
+          {
+            "start_char": 201,
+            "end_char": 218,
+            "label": "PER",
+            "text": "François Gernigon"
+          },
+          {
+            "start_char": 253,
+            "end_char": 255,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 307,
+            "end_char": 326,
+            "label": "MISC",
+            "text": "alimentaire.<br><br"
+          },
+          {
+            "start_char": 584,
+            "end_char": 599,
+            "label": "MISC",
+            "text": "société.<br><br"
+          },
+          {
+            "start_char": 608,
+            "end_char": 622,
+            "label": "LOC",
+            "text": "département du"
+          },
+          {
+            "start_char": 623,
+            "end_char": 637,
+            "label": "LOC",
+            "text": "Maine-et-Loire"
+          },
+          {
+            "start_char": 952,
+            "end_char": 976,
+            "label": "LOC",
+            "text": "Pays de la Loire.<br><br"
+          },
+          {
+            "start_char": 1403,
+            "end_char": 1415,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1466,
+            "end_char": 1492,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1594,
+            "end_char": 1611,
+            "label": "MISC",
+            "text": "agricole.<br><br>"
+          },
+          {
+            "start_char": 1715,
+            "end_char": 1719,
+            "label": "ORG",
+            "text": "EPCI"
+          },
+          {
+            "start_char": 1784,
+            "end_char": 1788,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2031,
+            "end_char": 2055,
+            "label": "ORG",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2056,
+            "end_char": 2059,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2100,
+            "end_char": 2102,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2118,
+            "end_char": 2120,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2182,
+            "end_char": 2189,
+            "label": "PER",
+            "text": "M. Marc"
+          },
+          {
+            "start_char": 2223,
+            "end_char": 2225,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2612,
+            "end_char": 2620,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 2703,
+            "end_char": 2729,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 2736,
+            "end_char": 2748,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2820,
+            "end_char": 2839,
+            "label": "MISC",
+            "text": "agriculture.<br><br"
+          },
+          {
+            "start_char": 3410,
+            "end_char": 3427,
+            "label": "MISC",
+            "text": "important.<br><br"
+          },
+          {
+            "start_char": 3789,
+            "end_char": 3806,
+            "label": "MISC",
+            "text": "réflexion.<br><br"
+          },
+          {
+            "start_char": 3997,
+            "end_char": 4014,
+            "label": "MISC",
+            "text": "important.<br><br"
+          },
+          {
+            "start_char": 4088,
+            "end_char": 4099,
+            "label": "LOC",
+            "text": "plan France"
+          },
+          {
+            "start_char": 4109,
+            "end_char": 4117,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4284,
+            "end_char": 4299,
+            "label": "MISC",
+            "text": "impasse.<br><br"
+          },
+          {
+            "start_char": 4469,
+            "end_char": 4497,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong"
+          },
+          {
+            "start_char": 4526,
+            "end_char": 4530,
+            "label": "PER",
+            "text": "Marc"
+          },
+          {
+            "start_char": 4606,
+            "end_char": 4612,
+            "label": "ORG",
+            "text": "EGALIM"
+          },
+          {
+            "start_char": 4893,
+            "end_char": 4904,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 69,
+            "sentiment": "4 stars",
+            "score": 0.31285977363586426
+          },
+          {
+            "begin_char": 70,
+            "end_char": 135,
+            "sentiment": "3 stars",
+            "score": 0.27518078684806824
+          },
+          {
+            "begin_char": 136,
+            "end_char": 219,
+            "sentiment": "3 stars",
+            "score": 0.2705852687358856
+          },
+          {
+            "begin_char": 220,
+            "end_char": 327,
+            "sentiment": "4 stars",
+            "score": 0.29120373725891113
+          },
+          {
+            "begin_char": 327,
+            "end_char": 410,
+            "sentiment": "5 stars",
+            "score": 0.5868577361106873
+          },
+          {
+            "begin_char": 411,
+            "end_char": 514,
+            "sentiment": "5 stars",
+            "score": 0.6115949749946594
+          },
+          {
+            "begin_char": 515,
+            "end_char": 600,
+            "sentiment": "5 stars",
+            "score": 0.40263694524765015
+          },
+          {
+            "begin_char": 600,
+            "end_char": 729,
+            "sentiment": "4 stars",
+            "score": 0.3104911744594574
+          },
+          {
+            "begin_char": 730,
+            "end_char": 820,
+            "sentiment": "5 stars",
+            "score": 0.2912951111793518
+          },
+          {
+            "begin_char": 821,
+            "end_char": 977,
+            "sentiment": "3 stars",
+            "score": 0.334560364484787
+          },
+          {
+            "begin_char": 977,
+            "end_char": 1168,
+            "sentiment": "4 stars",
+            "score": 0.43778425455093384
+          },
+          {
+            "begin_char": 1168,
+            "end_char": 1274,
+            "sentiment": "3 stars",
+            "score": 0.24352598190307617
+          },
+          {
+            "begin_char": 1275,
+            "end_char": 1365,
+            "sentiment": "5 stars",
+            "score": 0.48429515957832336
+          },
+          {
+            "begin_char": 1365,
+            "end_char": 1440,
+            "sentiment": "4 stars",
+            "score": 0.3432855010032654
+          },
+          {
+            "begin_char": 1441,
+            "end_char": 1521,
+            "sentiment": "4 stars",
+            "score": 0.3182423412799835
+          },
+          {
+            "begin_char": 1522,
+            "end_char": 1534,
+            "sentiment": "4 stars",
+            "score": 0.3189220130443573
+          },
+          {
+            "begin_char": 1535,
+            "end_char": 1611,
+            "sentiment": "4 stars",
+            "score": 0.31286951899528503
+          },
+          {
+            "begin_char": 1611,
+            "end_char": 1613,
+            "sentiment": "5 stars",
+            "score": 0.3440539538860321
+          },
+          {
+            "begin_char": 1614,
+            "end_char": 1985,
+            "sentiment": "4 stars",
+            "score": 0.37925487756729126
+          },
+          {
+            "begin_char": 1986,
+            "end_char": 2074,
+            "sentiment": "4 stars",
+            "score": 0.3090986907482147
+          },
+          {
+            "begin_char": 2075,
+            "end_char": 2210,
+            "sentiment": "4 stars",
+            "score": 0.2993431091308594
+          },
+          {
+            "begin_char": 2211,
+            "end_char": 2271,
+            "sentiment": "4 stars",
+            "score": 0.325288861989975
+          },
+          {
+            "begin_char": 2272,
+            "end_char": 2406,
+            "sentiment": "3 stars",
+            "score": 0.2561705708503723
+          },
+          {
+            "begin_char": 2407,
+            "end_char": 2577,
+            "sentiment": "5 stars",
+            "score": 0.5850847363471985
+          },
+          {
+            "begin_char": 2577,
+            "end_char": 2946,
+            "sentiment": "4 stars",
+            "score": 0.43197518587112427
+          },
+          {
+            "begin_char": 2947,
+            "end_char": 3096,
+            "sentiment": "4 stars",
+            "score": 0.4008534848690033
+          },
+          {
+            "begin_char": 3097,
+            "end_char": 3165,
+            "sentiment": "4 stars",
+            "score": 0.44035324454307556
+          },
+          {
+            "begin_char": 3166,
+            "end_char": 3243,
+            "sentiment": "3 stars",
+            "score": 0.4304136633872986
+          },
+          {
+            "begin_char": 3244,
+            "end_char": 3390,
+            "sentiment": "4 stars",
+            "score": 0.3291620910167694
+          },
+          {
+            "begin_char": 3391,
+            "end_char": 3428,
+            "sentiment": "4 stars",
+            "score": 0.37820500135421753
+          },
+          {
+            "begin_char": 3428,
+            "end_char": 3574,
+            "sentiment": "5 stars",
+            "score": 0.43842893838882446
+          },
+          {
+            "begin_char": 3575,
+            "end_char": 3727,
+            "sentiment": "5 stars",
+            "score": 0.49719908833503723
+          },
+          {
+            "begin_char": 3728,
+            "end_char": 3807,
+            "sentiment": "5 stars",
+            "score": 0.4245791733264923
+          },
+          {
+            "begin_char": 3807,
+            "end_char": 3953,
+            "sentiment": "5 stars",
+            "score": 0.37287449836730957
+          },
+          {
+            "begin_char": 3954,
+            "end_char": 4070,
+            "sentiment": "4 stars",
+            "score": 0.3191698491573334
+          },
+          {
+            "begin_char": 4071,
+            "end_char": 4229,
+            "sentiment": "4 stars",
+            "score": 0.42205455899238586
+          },
+          {
+            "begin_char": 4230,
+            "end_char": 4498,
+            "sentiment": "3 stars",
+            "score": 0.2734295725822449
+          },
+          {
+            "begin_char": 4499,
+            "end_char": 4507,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 4507,
+            "end_char": 4551,
+            "sentiment": "3 stars",
+            "score": 0.3174576759338379
+          },
+          {
+            "begin_char": 4552,
+            "end_char": 4561,
+            "sentiment": "4 stars",
+            "score": 0.31432053446769714
+          },
+          {
+            "begin_char": 4562,
+            "end_char": 4613,
+            "sentiment": "4 stars",
+            "score": 0.2970384359359741
+          },
+          {
+            "begin_char": 4614,
+            "end_char": 4790,
+            "sentiment": "5 stars",
+            "score": 0.30366623401641846
+          },
+          {
+            "begin_char": 4791,
+            "end_char": 4842,
+            "sentiment": "5 stars",
+            "score": 0.38481298089027405
+          },
+          {
+            "begin_char": 4843,
+            "end_char": 4905,
+            "sentiment": "3 stars",
+            "score": 0.3159869611263275
+          },
+          {
+            "begin_char": 4906,
+            "end_char": 4909,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-27",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-27",
+        "pageJO": "3109",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

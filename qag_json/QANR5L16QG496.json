@@ -1,0 +1,647 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG496",
+    "identifiant": {
+      "numero": "496",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "élections et référendums",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "ÉLECTIONS LÉGISLATIVES DANS LES CIRCONSCRIPTIONS DE L'ÉTRANGER"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794778",
+        "mandatRef": "PM797115"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Europe",
+      "developpe": "Secrétariat d’État auprès de la ministre de l’Europe et des affaires étrangères, chargé de l’Europe"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Europe",
+          "developpe": "Secrétariat d’État auprès de la ministre de l’Europe et des affaires étrangères, chargé de l’Europe"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ÉLECTIONS LÉGISLATIVES DANS LES CIRCONSCRIPTIONS DE L'ÉTRANGER <a name=PG25></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Sandra Regol.<br><br><strong>Mme Sandra Regol. </strong>Ma question s'adresse à la ministre de l'Europe et des Affaires étrangères.<br><br>Vendredi dernier, l'élection de notre collègue Karim Ben Cheikh, dans la 9e circonscription des Français établis de France, a été annulée. Pourquoi ? Parce que vous avez fait une erreur. Votre faute punit les électeurs de cette circonscription, les privant d'un député dont le travail, au service de la démocratie et de ses concitoyens, nous manque beaucoup. <i>(Applaudissements sur les bancs des groupes Écolo-NUPES et LFI-NUPES.)</i><br><br><strong>Mme Nadia Hai.</strong> Il n'y a pas que cette circonscription qui est concernée !<br><br><strong>Mme Sandra Regol. </strong>Le Conseil constitutionnel, juge et garant de la sincérité de nos élections, a constaté des dysfonctionnements dans l'envoi de SMS permettant aux électeurs d'Algérie de voter en ligne : « Alors même que cette circonstance n’est imputable ni au candidat élu ni aux autres candidats, il y a lieu d'annuler les opérations électorales contestées. »<br><br>L'organisation du vote des Français à l'étranger est de la responsabilité du ministère des affaires étrangères, et l'annulation prononcée par le Conseil constitutionnel est son échec ! Pourtant, tout au long de l'année 2022, vos services n'ont cessé d'envoyer à nos compatriotes des messages faisant l'éloge de l'organisation de ce vote électronique. Comment, dès lors, convaincre les électeurs concernés que cette procédure est fiable ? Qu'allez-vous faire pour garantir le droit de vote effectif de nos compatriotes établis au Maghreb et en Afrique de l'Ouest, lors de la prochaine élection partielle, qui aura bientôt lieu ?<br><br>Il reste le vote à l'urne, me direz-vous. Mais les bureaux de vote sont trop peu nombreux, et trop éloignés. Allez-vous enfin en proposer un nombre suffisant ou, au moins, maintenir ceux qui avaient été ouverts en 2022 ? Je rappelle qu'en 2017, le Gouvernement avait renoncé à organiser un vote électronique, empêchant de nombreux compatriotes, éloignés des bureaux, de voter : les chiffres de la participation, cette année-là, furent tragiques.<br><br>Ma question est donc simple : allez-vous enfin essayer de vous donner les moyens de lutter contre l'abstention des Français habitant hors de France ? <i>(Applaudissements sur les bancs des groupes Écolo-NUPES, LFI-NUPES et GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État chargée de l’Europe.<br><br><strong>Mme Laurence Boone,</strong><i> secrétaire d'État chargée de l’Europe. </i>Le Conseil constitutionnel a en effet rendu, vendredi 19 janvier, deux décisions par lesquelles il a décidé l'annulation des opérations électorales, qui se sont déroulées les 14 et 18 juin 2022, dans la 2e et la 9e circonscription des Français de l'étranger. Les dysfonctionnements que vous mentionnez, qui ont été relevés par le Conseil constitutionnel, ne portent ni sur la sécurité ni sur l'intégrité du système de vote électronique mais sur des problèmes de réception par certains électeurs, en Algérie mais aussi en Argentine, des mots de passe et identifiants requis pour voter par internet.<br><br><strong>M. Pierre Cordier.</strong> Comme au PS !<br><br><strong>Mme Laurence Boone,</strong><i> secrétaire d'État . </i>Les électeurs devaient en effet renseigner un mot de passe reçu par SMS et un identifiant reçu par courriel pour pouvoir voter, le recours à de canaux distincts répondant à une exigence évidente de sécurité. L'opérateur téléphonique retenu pour la mise en œuvre du vote électronique a tout fait pour remédier aux dysfonctionnements constatés, mais il n'y est pas parvenu auprès de tous les opérateurs téléphoniques à l'étranger.<br><br><strong>Mme Christine Arrighi.</strong> Vous non plus !<br><br><strong>Mme Laurence Boone,</strong><i> secrétaire d'État . </i>Le Gouvernement est attaché au progrès qu'a représenté le vote électronique, lequel a permis d'accroître fortement la participation des Français de l'étranger aux élections législatives. Nous tirerons pleinement les enseignements de cette première utilisation du vote électronique, afin d'allier la plus grande sécurité à notre souhait d'élargir l'accès au vote pour nos concitoyens de l'étranger. Nous maintiendrons cette procédure électronique, en l'améliorant.<br><br><strong>Mme Christine Arrighi.</strong> Et vous changerez d'opérateur ?<br> <p>",
+        "entities": [
+          {
+            "start_char": 55,
+            "end_char": 85,
+            "label": "MISC",
+            "text": "CIRCONSCRIPTIONS DE L'ÉTRANGER"
+          },
+          {
+            "start_char": 94,
+            "end_char": 102,
+            "label": "PER",
+            "text": "PG25></a"
+          },
+          {
+            "start_char": 120,
+            "end_char": 123,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 164,
+            "end_char": 174,
+            "label": "PER",
+            "text": "Mme Sandra"
+          },
+          {
+            "start_char": 197,
+            "end_char": 213,
+            "label": "PER",
+            "text": "Mme Sandra Regol"
+          },
+          {
+            "start_char": 251,
+            "end_char": 271,
+            "label": "ORG",
+            "text": "ministre de l'Europe"
+          },
+          {
+            "start_char": 279,
+            "end_char": 306,
+            "label": "MISC",
+            "text": "Affaires étrangères.<br><br"
+          },
+          {
+            "start_char": 307,
+            "end_char": 323,
+            "label": "MISC",
+            "text": "Vendredi dernier"
+          },
+          {
+            "start_char": 354,
+            "end_char": 370,
+            "label": "PER",
+            "text": "Karim Ben Cheikh"
+          },
+          {
+            "start_char": 380,
+            "end_char": 411,
+            "label": "LOC",
+            "text": "9e circonscription des Français"
+          },
+          {
+            "start_char": 420,
+            "end_char": 429,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 713,
+            "end_char": 724,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 728,
+            "end_char": 758,
+            "label": "MISC",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 759,
+            "end_char": 781,
+            "label": "PER",
+            "text": "Mme Nadia Hai.</strong"
+          },
+          {
+            "start_char": 857,
+            "end_char": 873,
+            "label": "PER",
+            "text": "Mme Sandra Regol"
+          },
+          {
+            "start_char": 887,
+            "end_char": 910,
+            "label": "ORG",
+            "text": "Conseil constitutionnel"
+          },
+          {
+            "start_char": 1011,
+            "end_char": 1014,
+            "label": "MISC",
+            "text": "SMS"
+          },
+          {
+            "start_char": 1042,
+            "end_char": 1049,
+            "label": "LOC",
+            "text": "Algérie"
+          },
+          {
+            "start_char": 1106,
+            "end_char": 1108,
+            "label": "MISC",
+            "text": "n’"
+          },
+          {
+            "start_char": 1263,
+            "end_char": 1271,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1381,
+            "end_char": 1404,
+            "label": "ORG",
+            "text": "Conseil constitutionnel"
+          },
+          {
+            "start_char": 1765,
+            "end_char": 1772,
+            "label": "LOC",
+            "text": "Maghreb"
+          },
+          {
+            "start_char": 1779,
+            "end_char": 1797,
+            "label": "LOC",
+            "text": "Afrique de l'Ouest"
+          },
+          {
+            "start_char": 2119,
+            "end_char": 2131,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2306,
+            "end_char": 2326,
+            "label": "MISC",
+            "text": "tragiques.<br><br>Ma"
+          },
+          {
+            "start_char": 2439,
+            "end_char": 2447,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2462,
+            "end_char": 2471,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 2521,
+            "end_char": 2532,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2534,
+            "end_char": 2543,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2547,
+            "end_char": 2577,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2578,
+            "end_char": 2581,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2622,
+            "end_char": 2625,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2642,
+            "end_char": 2646,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2658,
+            "end_char": 2660,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2683,
+            "end_char": 2695,
+            "label": "PER",
+            "text": "Mme Laurence"
+          },
+          {
+            "start_char": 2728,
+            "end_char": 2732,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2746,
+            "end_char": 2752,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2761,
+            "end_char": 2784,
+            "label": "ORG",
+            "text": "Conseil constitutionnel"
+          },
+          {
+            "start_char": 2970,
+            "end_char": 3001,
+            "label": "LOC",
+            "text": "9e circonscription des Français"
+          },
+          {
+            "start_char": 3088,
+            "end_char": 3111,
+            "label": "ORG",
+            "text": "Conseil constitutionnel"
+          },
+          {
+            "start_char": 3257,
+            "end_char": 3264,
+            "label": "LOC",
+            "text": "Algérie"
+          },
+          {
+            "start_char": 3279,
+            "end_char": 3288,
+            "label": "LOC",
+            "text": "Argentine"
+          },
+          {
+            "start_char": 3374,
+            "end_char": 3397,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 3408,
+            "end_char": 3410,
+            "label": "ORG",
+            "text": "PS"
+          },
+          {
+            "start_char": 3428,
+            "end_char": 3440,
+            "label": "PER",
+            "text": "Mme Laurence"
+          },
+          {
+            "start_char": 3473,
+            "end_char": 3477,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3552,
+            "end_char": 3555,
+            "label": "MISC",
+            "text": "SMS"
+          },
+          {
+            "start_char": 3928,
+            "end_char": 3958,
+            "label": "PER",
+            "text": "Mme Christine Arrighi.</strong"
+          },
+          {
+            "start_char": 3991,
+            "end_char": 4003,
+            "label": "PER",
+            "text": "Mme Laurence"
+          },
+          {
+            "start_char": 4036,
+            "end_char": 4040,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4047,
+            "end_char": 4062,
+            "label": "LOC",
+            "text": "Le Gouvernement"
+          },
+          {
+            "start_char": 4183,
+            "end_char": 4191,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4526,
+            "end_char": 4556,
+            "label": "PER",
+            "text": "Mme Christine Arrighi.</strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 138,
+            "sentiment": "3 stars",
+            "score": 0.32130688428878784
+          },
+          {
+            "begin_char": 139,
+            "end_char": 214,
+            "sentiment": "3 stars",
+            "score": 0.23804813623428345
+          },
+          {
+            "begin_char": 215,
+            "end_char": 307,
+            "sentiment": "3 stars",
+            "score": 0.2983150780200958
+          },
+          {
+            "begin_char": 307,
+            "end_char": 445,
+            "sentiment": "3 stars",
+            "score": 0.2610928416252136
+          },
+          {
+            "begin_char": 446,
+            "end_char": 456,
+            "sentiment": "2 stars",
+            "score": 0.25036782026290894
+          },
+          {
+            "begin_char": 457,
+            "end_char": 493,
+            "sentiment": "1 star",
+            "score": 0.5753040313720703
+          },
+          {
+            "begin_char": 494,
+            "end_char": 665,
+            "sentiment": "1 star",
+            "score": 0.3414134681224823
+          },
+          {
+            "begin_char": 666,
+            "end_char": 782,
+            "sentiment": "3 stars",
+            "score": 0.3355693519115448
+          },
+          {
+            "begin_char": 783,
+            "end_char": 841,
+            "sentiment": "3 stars",
+            "score": 0.27443742752075195
+          },
+          {
+            "begin_char": 841,
+            "end_char": 874,
+            "sentiment": "3 stars",
+            "score": 0.2757019102573395
+          },
+          {
+            "begin_char": 875,
+            "end_char": 1226,
+            "sentiment": "1 star",
+            "score": 0.2682530879974365
+          },
+          {
+            "begin_char": 1226,
+            "end_char": 1228,
+            "sentiment": "4 stars",
+            "score": 0.25504377484321594
+          },
+          {
+            "begin_char": 1228,
+            "end_char": 1235,
+            "sentiment": "3 stars",
+            "score": 0.2942361831665039
+          },
+          {
+            "begin_char": 1235,
+            "end_char": 1236,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 1236,
+            "end_char": 1420,
+            "sentiment": "1 star",
+            "score": 0.36568430066108704
+          },
+          {
+            "begin_char": 1421,
+            "end_char": 1586,
+            "sentiment": "1 star",
+            "score": 0.3748250901699066
+          },
+          {
+            "begin_char": 1587,
+            "end_char": 1673,
+            "sentiment": "5 stars",
+            "score": 0.3046611547470093
+          },
+          {
+            "begin_char": 1674,
+            "end_char": 1863,
+            "sentiment": "5 stars",
+            "score": 0.39554649591445923
+          },
+          {
+            "begin_char": 1863,
+            "end_char": 1871,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1871,
+            "end_char": 1912,
+            "sentiment": "1 star",
+            "score": 0.28534698486328125
+          },
+          {
+            "begin_char": 1913,
+            "end_char": 1979,
+            "sentiment": "3 stars",
+            "score": 0.43746882677078247
+          },
+          {
+            "begin_char": 1980,
+            "end_char": 2091,
+            "sentiment": "5 stars",
+            "score": 0.3207675516605377
+          },
+          {
+            "begin_char": 2092,
+            "end_char": 2353,
+            "sentiment": "3 stars",
+            "score": 0.21814942359924316
+          },
+          {
+            "begin_char": 2354,
+            "end_char": 2473,
+            "sentiment": "5 stars",
+            "score": 0.41540348529815674
+          },
+          {
+            "begin_char": 2474,
+            "end_char": 2596,
+            "sentiment": "4 stars",
+            "score": 0.33510369062423706
+          },
+          {
+            "begin_char": 2597,
+            "end_char": 2683,
+            "sentiment": "4 stars",
+            "score": 0.29358598589897156
+          },
+          {
+            "begin_char": 2683,
+            "end_char": 2753,
+            "sentiment": "4 stars",
+            "score": 0.30297043919563293
+          },
+          {
+            "begin_char": 2754,
+            "end_char": 3016,
+            "sentiment": "4 stars",
+            "score": 0.36584705114364624
+          },
+          {
+            "begin_char": 3017,
+            "end_char": 3479,
+            "sentiment": "3 stars",
+            "score": 0.3195174038410187
+          },
+          {
+            "begin_char": 3480,
+            "end_char": 3484,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3484,
+            "end_char": 3691,
+            "sentiment": "4 stars",
+            "score": 0.3969559967517853
+          },
+          {
+            "begin_char": 3692,
+            "end_char": 3959,
+            "sentiment": "2 stars",
+            "score": 0.4156125485897064
+          },
+          {
+            "begin_char": 3960,
+            "end_char": 3975,
+            "sentiment": "1 star",
+            "score": 0.30566713213920593
+          },
+          {
+            "begin_char": 3975,
+            "end_char": 4042,
+            "sentiment": "3 stars",
+            "score": 0.3219187259674072
+          },
+          {
+            "begin_char": 4043,
+            "end_char": 4233,
+            "sentiment": "5 stars",
+            "score": 0.5290004014968872
+          },
+          {
+            "begin_char": 4234,
+            "end_char": 4444,
+            "sentiment": "5 stars",
+            "score": 0.7329740524291992
+          },
+          {
+            "begin_char": 4445,
+            "end_char": 4557,
+            "sentiment": "4 stars",
+            "score": 0.37539246678352356
+          },
+          {
+            "begin_char": 4558,
+            "end_char": 4589,
+            "sentiment": "5 stars",
+            "score": 0.27566763758659363
+          },
+          {
+            "begin_char": 4589,
+            "end_char": 4597,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-25",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-25",
+        "pageJO": "674",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

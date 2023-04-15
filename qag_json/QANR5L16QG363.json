@@ -1,0 +1,581 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG363",
+    "identifiant": {
+      "numero": "363",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "politique extérieure",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "situation en Arménie"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721608",
+        "mandatRef": "PM797790"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Europe et affaires étrangères",
+      "developpe": "Ministère de l’Europe et des affaires étrangères"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Europe et affaires étrangères",
+          "developpe": "Ministère de l’Europe et des affaires étrangères"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION EN ARMÉNIE <a name=PG5></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Louis Bourlanges.<br><br><strong>M. Jean-Louis Bourlanges. </strong>Le 30 novembre dernier, l'Assemblée nationale a adopté à l'unanimité la résolution visant à sanctionner l'Azerbaïdjan et à exiger le retrait de ses forces du territoire arménien. <i>(Applaudissements sur plusieurs bancs des groupes Dem et RE.)</i><br><br>La France a le devoir d'exercer toute sa solidarité à l'égard de l'Arménie. Elle le doit pour des raisons historiques, compte tenu des épreuves terribles subies par ce peuple. Elle le doit pour des raisons morales, car ce qui est en cause, c'est le principe des nationalités. Elle le doit pour des raisons géopolitiques, vis-à-vis d'un peuple enclavé, isolé, perdu au milieu d'un environnement hostile. <i>(Mêmes mouvements.)</i><br><br>C'est dans cet esprit, madame la ministre de l’Europe et des affaires étrangères, que je vous pose mes deux questions.<br><br>Tout d'abord, le Gouvernement partage-t-il les craintes des Arméniens quant aux risques d'une relance imminente de la guerre par l'Azerbaïdjan ? Les gesticulations diplomatiques récentes de ce pays, en particulier le refus de participer au sommet européen prévu en décembre prochain à Bruxelles, et surtout le blocage pendant plusieurs heures du couloir de Latchine, c'est-à-dire la remise en cause de l'unité territoriale de l'Arménie, ne sont-ils pas de fort mauvais augure ?<br><br>Ensuite, comment le Gouvernement entend-il contribuer aujourd'hui à la préservation des droits et de l'identité culturelle des populations arméniennes du Haut-Karabakh, voire à leur maintien dans la région et à leur survie physique ? Quels efforts déploie-t-il pour obtenir les garanties internationales nécessaires pour assurer leur survie ? Comment ne pas voir que c'est l'identité d'un peuple et la survie d'une nation, déjà tragiquement éprouvée par l'histoire, qui se jouent aujourd'hui ? <i>(Applaudissements sur les bancs des groupes Dem et RE et sur quelques bancs du groupe LR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre de l’Europe et des affaires étrangères.<br><br><strong>Mme Catherine Colonna,</strong><i> ministre de l’Europe et des affaires étrangères. </i>Vous avez raison, les tensions restent vives entre l'Arménie et l'Azerbaïdjan, tant à la frontière que dans le Haut-Karabakh. Elles démontrent, s'il le fallait, l'absence de crédibilité des garanties de sécurité que la Russie prétendait apporter dans la région. Dans ce contexte, la France et l'Union européenne restent pleinement engagées dans le soutien à l'Arménie. Leur position n'a d'ailleurs pas changé depuis le début du conflit. <br><br>L'action du Président de la République à Prague, le 6 octobre dernier, lors du sommet de la communauté politique européenne, a été décisive pour obtenir le déploiement d'une mission d'observation de l'Union européenne sur le terrain. Cette mission est opérationnelle depuis le 20 octobre. Certes, quelques incidents ont encore lieu, mais elle a réellement limité les risques d'escalade en assurant un suivi de la situation à la frontière, comme c'était nécessaire. La mission d'observation doit se poursuivre aussi longtemps que nécessaire. Telle est notre conviction et tel est aussi, vous le savez, monsieur Bourlanges, le souhait des Arméniens. <br><br>De nouvelles réunions se sont tenues ces derniers jours à Bruxelles et à Washington, respectivement sur la délimitation de la frontière et sur le projet de traité de paix. Ces négociations sont une chance à saisir : le Président de la République l'a dit au président azerbaïdjanais Aliyev et au Premier ministre arménien Pashinyan. Et je le répète moi-même régulièrement à mes homologues. En tout état de cause, la France maintiendra ses efforts en vue du retour de la paix entre les deux pays. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 36,
+            "end_char": 43,
+            "label": "LOC",
+            "text": "ARMÉNIE"
+          },
+          {
+            "start_char": 52,
+            "end_char": 59,
+            "label": "PER",
+            "text": "PG5></a"
+          },
+          {
+            "start_char": 77,
+            "end_char": 80,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 121,
+            "end_char": 161,
+            "label": "PER",
+            "text": "M. Jean-Louis Bourlanges.<br><br><strong"
+          },
+          {
+            "start_char": 165,
+            "end_char": 186,
+            "label": "PER",
+            "text": "Jean-Louis Bourlanges"
+          },
+          {
+            "start_char": 221,
+            "end_char": 242,
+            "label": "ORG",
+            "text": "l'Assemblée nationale"
+          },
+          {
+            "start_char": 303,
+            "end_char": 314,
+            "label": "LOC",
+            "text": "Azerbaïdjan"
+          },
+          {
+            "start_char": 429,
+            "end_char": 432,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 436,
+            "end_char": 452,
+            "label": "PER",
+            "text": "RE.)</i><br><br>"
+          },
+          {
+            "start_char": 452,
+            "end_char": 461,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 517,
+            "end_char": 526,
+            "label": "LOC",
+            "text": "l'Arménie"
+          },
+          {
+            "start_char": 856,
+            "end_char": 864,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 936,
+            "end_char": 942,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 1032,
+            "end_char": 1044,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1075,
+            "end_char": 1084,
+            "label": "LOC",
+            "text": "Arméniens"
+          },
+          {
+            "start_char": 1146,
+            "end_char": 1157,
+            "label": "LOC",
+            "text": "Azerbaïdjan"
+          },
+          {
+            "start_char": 1300,
+            "end_char": 1309,
+            "label": "LOC",
+            "text": "Bruxelles"
+          },
+          {
+            "start_char": 1372,
+            "end_char": 1380,
+            "label": "PER",
+            "text": "Latchine"
+          },
+          {
+            "start_char": 1441,
+            "end_char": 1450,
+            "label": "LOC",
+            "text": "l'Arménie"
+          },
+          {
+            "start_char": 1520,
+            "end_char": 1532,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1654,
+            "end_char": 1667,
+            "label": "LOC",
+            "text": "Haut-Karabakh"
+          },
+          {
+            "start_char": 1734,
+            "end_char": 1739,
+            "label": "PER",
+            "text": "Quels"
+          },
+          {
+            "start_char": 2041,
+            "end_char": 2050,
+            "label": "MISC",
+            "text": "Dem et RE"
+          },
+          {
+            "start_char": 2083,
+            "end_char": 2106,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2107,
+            "end_char": 2110,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2151,
+            "end_char": 2154,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2172,
+            "end_char": 2178,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2222,
+            "end_char": 2235,
+            "label": "PER",
+            "text": "Mme Catherine"
+          },
+          {
+            "start_char": 2271,
+            "end_char": 2277,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2361,
+            "end_char": 2370,
+            "label": "LOC",
+            "text": "l'Arménie"
+          },
+          {
+            "start_char": 2376,
+            "end_char": 2387,
+            "label": "LOC",
+            "text": "Azerbaïdjan"
+          },
+          {
+            "start_char": 2421,
+            "end_char": 2434,
+            "label": "LOC",
+            "text": "Haut-Karabakh"
+          },
+          {
+            "start_char": 2529,
+            "end_char": 2535,
+            "label": "LOC",
+            "text": "Russie"
+          },
+          {
+            "start_char": 2593,
+            "end_char": 2599,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 2605,
+            "end_char": 2621,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 2668,
+            "end_char": 2677,
+            "label": "LOC",
+            "text": "l'Arménie"
+          },
+          {
+            "start_char": 2767,
+            "end_char": 2793,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 2796,
+            "end_char": 2802,
+            "label": "LOC",
+            "text": "Prague"
+          },
+          {
+            "start_char": 2956,
+            "end_char": 2972,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 3365,
+            "end_char": 3375,
+            "label": "LOC",
+            "text": "Bourlanges"
+          },
+          {
+            "start_char": 3392,
+            "end_char": 3401,
+            "label": "LOC",
+            "text": "Arméniens"
+          },
+          {
+            "start_char": 3469,
+            "end_char": 3478,
+            "label": "LOC",
+            "text": "Bruxelles"
+          },
+          {
+            "start_char": 3484,
+            "end_char": 3494,
+            "label": "LOC",
+            "text": "Washington"
+          },
+          {
+            "start_char": 3630,
+            "end_char": 3656,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3693,
+            "end_char": 3699,
+            "label": "PER",
+            "text": "Aliyev"
+          },
+          {
+            "start_char": 3706,
+            "end_char": 3741,
+            "label": "MISC",
+            "text": "Premier ministre arménien Pashinyan"
+          },
+          {
+            "start_char": 3823,
+            "end_char": 3832,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3956,
+            "end_char": 3967,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 60,
+            "sentiment": "3 stars",
+            "score": 0.3081512749195099
+          },
+          {
+            "begin_char": 61,
+            "end_char": 95,
+            "sentiment": "4 stars",
+            "score": 0.2742326259613037
+          },
+          {
+            "begin_char": 96,
+            "end_char": 187,
+            "sentiment": "4 stars",
+            "score": 0.25895988941192627
+          },
+          {
+            "begin_char": 188,
+            "end_char": 375,
+            "sentiment": "4 stars",
+            "score": 0.38186490535736084
+          },
+          {
+            "begin_char": 376,
+            "end_char": 527,
+            "sentiment": "4 stars",
+            "score": 0.42680099606513977
+          },
+          {
+            "begin_char": 528,
+            "end_char": 627,
+            "sentiment": "5 stars",
+            "score": 0.3979204595088959
+          },
+          {
+            "begin_char": 628,
+            "end_char": 727,
+            "sentiment": "4 stars",
+            "score": 0.3256504237651825
+          },
+          {
+            "begin_char": 728,
+            "end_char": 854,
+            "sentiment": "4 stars",
+            "score": 0.3810380697250366
+          },
+          {
+            "begin_char": 855,
+            "end_char": 889,
+            "sentiment": "3 stars",
+            "score": 0.30803972482681274
+          },
+          {
+            "begin_char": 889,
+            "end_char": 1015,
+            "sentiment": "4 stars",
+            "score": 0.32779648900032043
+          },
+          {
+            "begin_char": 1015,
+            "end_char": 1159,
+            "sentiment": "4 stars",
+            "score": 0.3319980502128601
+          },
+          {
+            "begin_char": 1160,
+            "end_char": 1492,
+            "sentiment": "2 stars",
+            "score": 0.30971068143844604
+          },
+          {
+            "begin_char": 1492,
+            "end_char": 1733,
+            "sentiment": "5 stars",
+            "score": 0.4164375364780426
+          },
+          {
+            "begin_char": 1734,
+            "end_char": 1842,
+            "sentiment": "4 stars",
+            "score": 0.29492005705833435
+          },
+          {
+            "begin_char": 1843,
+            "end_char": 1993,
+            "sentiment": "5 stars",
+            "score": 0.6418462991714478
+          },
+          {
+            "begin_char": 1994,
+            "end_char": 2125,
+            "sentiment": "4 stars",
+            "score": 0.3186260461807251
+          },
+          {
+            "begin_char": 2126,
+            "end_char": 2305,
+            "sentiment": "4 stars",
+            "score": 0.283491313457489
+          },
+          {
+            "begin_char": 2306,
+            "end_char": 2435,
+            "sentiment": "4 stars",
+            "score": 0.34839072823524475
+          },
+          {
+            "begin_char": 2436,
+            "end_char": 2571,
+            "sentiment": "1 star",
+            "score": 0.3628418445587158
+          },
+          {
+            "begin_char": 2572,
+            "end_char": 2678,
+            "sentiment": "4 stars",
+            "score": 0.44484642148017883
+          },
+          {
+            "begin_char": 2679,
+            "end_char": 2746,
+            "sentiment": "4 stars",
+            "score": 0.34616318345069885
+          },
+          {
+            "begin_char": 2747,
+            "end_char": 2755,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2755,
+            "end_char": 2988,
+            "sentiment": "4 stars",
+            "score": 0.4449899196624756
+          },
+          {
+            "begin_char": 2989,
+            "end_char": 3043,
+            "sentiment": "4 stars",
+            "score": 0.33628058433532715
+          },
+          {
+            "begin_char": 3044,
+            "end_char": 3219,
+            "sentiment": "4 stars",
+            "score": 0.5709906816482544
+          },
+          {
+            "begin_char": 3220,
+            "end_char": 3295,
+            "sentiment": "4 stars",
+            "score": 0.3531603217124939
+          },
+          {
+            "begin_char": 3296,
+            "end_char": 3402,
+            "sentiment": "5 stars",
+            "score": 0.5584450364112854
+          },
+          {
+            "begin_char": 3403,
+            "end_char": 3582,
+            "sentiment": "4 stars",
+            "score": 0.34090757369995117
+          },
+          {
+            "begin_char": 3583,
+            "end_char": 3742,
+            "sentiment": "5 stars",
+            "score": 0.4225606322288513
+          },
+          {
+            "begin_char": 3743,
+            "end_char": 3762,
+            "sentiment": "5 stars",
+            "score": 0.34944742918014526
+          },
+          {
+            "begin_char": 3762,
+            "end_char": 3799,
+            "sentiment": "5 stars",
+            "score": 0.4296976327896118
+          },
+          {
+            "begin_char": 3800,
+            "end_char": 3905,
+            "sentiment": "4 stars",
+            "score": 0.42779359221458435
+          },
+          {
+            "begin_char": 3906,
+            "end_char": 3968,
+            "sentiment": "3 stars",
+            "score": 0.3159869611263275
+          },
+          {
+            "begin_char": 3969,
+            "end_char": 3972,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-07",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-07",
+        "pageJO": "6560",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

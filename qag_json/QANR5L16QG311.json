@@ -1,0 +1,455 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG311",
+    "identifiant": {
+      "numero": "311",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Mesures de sensibilisation au dépistage des cancers"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720022",
+        "mandatRef": "PM796866"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> MESURES DE SENSIBILISATION AU DÉPISTAGE DES CANCERS <a name=PG9></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Michel Lauzzana.<br><br><strong>M. Michel Lauzzana. </strong>Ma question s'adresse à François Braun, ministre de la santé et de la prévention. « Papa, pourquoi tu te laisses pousser la moustache ? » Voilà la question qu'a posée un jeune citoyen à son papa Charles lors d'une rencontre dans ma circonscription du Lot-et-Garonne.<br><br>Depuis le début du mois de novembre, Charles, mais également des dizaines de milliers de Français, se laissent pousser la moustache dans le cadre du mouvement Movember qui prend de l'ampleur, en particulier dans le milieu du rugby. Ce mois est dédié à la sensibilisation de l'opinion publique aux cancers masculins, afin de briser les tabous encore trop nombreux chez les hommes.<br><br>En France, deux hommes meurent chaque jour d'un cancer masculin. Alors qu'ils représentent 52 % des cancers diagnostiqués, les hommes sont beaucoup moins nombreux que les femmes à participer aux campagnes de dépistage. Les raisons sont simples et multiples : la peur d'être atteint dans sa virilité, la réticence aux examens ou encore le sentiment de gêne voire de honte.<br><br>Monsieur le ministre, je salue votre engagement en faveur de la prévention, en particulier dans le projet de loi de financement de la sécurité sociale – PLFSS – pour 2023, ainsi que la place importante de celle-ci dans la stratégie décennale. Je salue également la mobilisation exemplaire des associations et des bénévoles engagés dans l'ensemble du territoire, à travers des manifestations locales et des campagnes de prévention pour informer les hommes sur le dépistage.<br><br>Cependant, les tabous ne sont pas encore brisés dans l'opinion publique. Nous devons poursuivre et intensifier nos actions car, diagnostiqués tôt, les cancers masculins se soignent dans la très grande majorité des cas. Aussi, pouvez-vous nous exposer votre stratégie pour poursuivre le travail de sensibilisation, afin de briser les tabous des hommes s'agissant des cancers masculins ? <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>Plusieurs députés du groupe LR .</strong> Allô ?<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>Je vous remercie de votre question qui me permet d'aborder le sujet de la prévention qui, vous le savez, m'est particulièrement cher. La prévention reste le meilleur outil pour améliorer la santé de nos concitoyens, en plus d'être un excellent moyen de faire des économies de santé puisqu'on peut considérer que pour 1 euro investi aujourd'hui dans la prévention, 2 euros seront économisés demain. Sur les cancers que nous diagnostiquons chaque année, 40 % sont liés à notre mode de vie ; ils sont donc évitables. C'est un enjeu majeur pour notre société, aujourd'hui et demain.<br><br>Je salue également le mouvement Movember en faveur du dépistage du cancer de la prostate. Je tiens à rappeler à cette assemblée que le mois de novembre est également le mois sans tabac et qu'il conviendrait de faire un effort sur ce facteur de risque qui entraîne des cancers multiples, pas seulement le cancer du poumon.<br><br>La prévention des cancers masculins, vous avez raison, est insuffisamment développée. Pourtant, les outils existent : dépistage à partir de 50 ans du cancer colorectal, à partir de 55 ans du cancer de la prostate. S'agissant du cancer colorectal, par exemple, seul un tiers de la population cible est aujourd'hui concerné. Le Gouvernement avance pour faire de notre société une société de prévention. Les rendez-vous prévention aux âges clés de la vie en constituent un aspect important et concernent, bien entendu, l'ensemble des cancers et, en grande partie, les cancers masculins.<br><br>Concernant ces rendez-vous de prévention, il existe deux enjeux majeurs : aller chercher les personnes les plus éloignées du soin et proposer des parcours de prévention, nous aurons l'occasion d'en parler. La prévention c'est prendre soin de soi ; les uns et les autres, nous sommes tous concernés. Je suis confiant, nous réussirons à transformer notre société en une société de prévention.<br> <p>",
+        "entities": [
+          {
+            "start_char": 67,
+            "end_char": 74,
+            "label": "MISC",
+            "text": "CANCERS"
+          },
+          {
+            "start_char": 83,
+            "end_char": 90,
+            "label": "LOC",
+            "text": "PG9></a"
+          },
+          {
+            "start_char": 108,
+            "end_char": 111,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 152,
+            "end_char": 186,
+            "label": "PER",
+            "text": "M. Michel Lauzzana.<br><br><strong"
+          },
+          {
+            "start_char": 190,
+            "end_char": 205,
+            "label": "PER",
+            "text": "Michel Lauzzana"
+          },
+          {
+            "start_char": 240,
+            "end_char": 254,
+            "label": "PER",
+            "text": "François Braun"
+          },
+          {
+            "start_char": 411,
+            "end_char": 418,
+            "label": "PER",
+            "text": "Charles"
+          },
+          {
+            "start_char": 464,
+            "end_char": 489,
+            "label": "LOC",
+            "text": "du Lot-et-Garonne.<br><br"
+          },
+          {
+            "start_char": 527,
+            "end_char": 534,
+            "label": "PER",
+            "text": "Charles"
+          },
+          {
+            "start_char": 579,
+            "end_char": 587,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 649,
+            "end_char": 657,
+            "label": "PER",
+            "text": "Movember"
+          },
+          {
+            "start_char": 862,
+            "end_char": 876,
+            "label": "MISC",
+            "text": "hommes.<br><br"
+          },
+          {
+            "start_char": 880,
+            "end_char": 886,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1242,
+            "end_char": 1256,
+            "label": "MISC",
+            "text": "honte.<br><br>"
+          },
+          {
+            "start_char": 1256,
+            "end_char": 1264,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1409,
+            "end_char": 1414,
+            "label": "ORG",
+            "text": "PLFSS"
+          },
+          {
+            "start_char": 1718,
+            "end_char": 1735,
+            "label": "MISC",
+            "text": "dépistage.<br><br"
+          },
+          {
+            "start_char": 2167,
+            "end_char": 2190,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2219,
+            "end_char": 2221,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2233,
+            "end_char": 2237,
+            "label": "PER",
+            "text": "Allô"
+          },
+          {
+            "start_char": 2255,
+            "end_char": 2258,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2299,
+            "end_char": 2301,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2365,
+            "end_char": 2373,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3010,
+            "end_char": 3024,
+            "label": "MISC",
+            "text": "demain.<br><br"
+          },
+          {
+            "start_char": 3057,
+            "end_char": 3065,
+            "label": "PER",
+            "text": "Movember"
+          },
+          {
+            "start_char": 3339,
+            "end_char": 3353,
+            "label": "MISC",
+            "text": "poumon.<br><br"
+          },
+          {
+            "start_char": 3680,
+            "end_char": 3692,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3927,
+            "end_char": 3944,
+            "label": "MISC",
+            "text": "masculins.<br><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 126,
+            "sentiment": "4 stars",
+            "score": 0.30954450368881226
+          },
+          {
+            "begin_char": 127,
+            "end_char": 206,
+            "sentiment": "4 stars",
+            "score": 0.24943296611309052
+          },
+          {
+            "begin_char": 207,
+            "end_char": 297,
+            "sentiment": "3 stars",
+            "score": 0.2845247983932495
+          },
+          {
+            "begin_char": 298,
+            "end_char": 353,
+            "sentiment": "1 star",
+            "score": 0.44797801971435547
+          },
+          {
+            "begin_char": 354,
+            "end_char": 721,
+            "sentiment": "4 stars",
+            "score": 0.3776569366455078
+          },
+          {
+            "begin_char": 722,
+            "end_char": 941,
+            "sentiment": "4 stars",
+            "score": 0.33975592255592346
+          },
+          {
+            "begin_char": 942,
+            "end_char": 1095,
+            "sentiment": "3 stars",
+            "score": 0.2707864046096802
+          },
+          {
+            "begin_char": 1096,
+            "end_char": 1256,
+            "sentiment": "3 stars",
+            "score": 0.3340316414833069
+          },
+          {
+            "begin_char": 1256,
+            "end_char": 1498,
+            "sentiment": "5 stars",
+            "score": 0.5178669095039368
+          },
+          {
+            "begin_char": 1499,
+            "end_char": 1808,
+            "sentiment": "5 stars",
+            "score": 0.5090397000312805
+          },
+          {
+            "begin_char": 1809,
+            "end_char": 1954,
+            "sentiment": "5 stars",
+            "score": 0.5043830871582031
+          },
+          {
+            "begin_char": 1955,
+            "end_char": 2121,
+            "sentiment": "3 stars",
+            "score": 0.24847380816936493
+          },
+          {
+            "begin_char": 2122,
+            "end_char": 2239,
+            "sentiment": "3 stars",
+            "score": 0.32927972078323364
+          },
+          {
+            "begin_char": 2239,
+            "end_char": 2273,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2274,
+            "end_char": 2392,
+            "sentiment": "4 stars",
+            "score": 0.3129529356956482
+          },
+          {
+            "begin_char": 2393,
+            "end_char": 2434,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 2435,
+            "end_char": 2439,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2439,
+            "end_char": 2441,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 2442,
+            "end_char": 2572,
+            "sentiment": "5 stars",
+            "score": 0.41344600915908813
+          },
+          {
+            "begin_char": 2573,
+            "end_char": 2836,
+            "sentiment": "5 stars",
+            "score": 0.6390422582626343
+          },
+          {
+            "begin_char": 2837,
+            "end_char": 2927,
+            "sentiment": "3 stars",
+            "score": 0.2621847987174988
+          },
+          {
+            "begin_char": 2928,
+            "end_char": 2952,
+            "sentiment": "3 stars",
+            "score": 0.284488707780838
+          },
+          {
+            "begin_char": 2953,
+            "end_char": 3025,
+            "sentiment": "5 stars",
+            "score": 0.5222622156143188
+          },
+          {
+            "begin_char": 3025,
+            "end_char": 3114,
+            "sentiment": "5 stars",
+            "score": 0.5018988251686096
+          },
+          {
+            "begin_char": 3115,
+            "end_char": 3439,
+            "sentiment": "5 stars",
+            "score": 0.39152589440345764
+          },
+          {
+            "begin_char": 3440,
+            "end_char": 3567,
+            "sentiment": "5 stars",
+            "score": 0.26458457112312317
+          },
+          {
+            "begin_char": 3568,
+            "end_char": 3676,
+            "sentiment": "3 stars",
+            "score": 0.2829068601131439
+          },
+          {
+            "begin_char": 3677,
+            "end_char": 3754,
+            "sentiment": "5 stars",
+            "score": 0.41555798053741455
+          },
+          {
+            "begin_char": 3755,
+            "end_char": 4150,
+            "sentiment": "5 stars",
+            "score": 0.42505204677581787
+          },
+          {
+            "begin_char": 4151,
+            "end_char": 4192,
+            "sentiment": "4 stars",
+            "score": 0.409103125333786
+          },
+          {
+            "begin_char": 4193,
+            "end_char": 4243,
+            "sentiment": "5 stars",
+            "score": 0.49512356519699097
+          },
+          {
+            "begin_char": 4244,
+            "end_char": 4343,
+            "sentiment": "5 stars",
+            "score": 0.6697917580604553
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5898",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

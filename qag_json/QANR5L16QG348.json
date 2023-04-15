@@ -1,0 +1,581 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG348",
+    "identifiant": {
+      "numero": "348",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "entreprises",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Soutien à l'agriculture biologique"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794082",
+        "mandatRef": "PM796698"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Agriculture et souveraineté alimentaire",
+      "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Agriculture et souveraineté alimentaire",
+          "developpe": "Ministère de l’agriculture et de la souveraineté alimentaire"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SOUTIEN À L'AGRICULTURE BIOLOGIQUE <a name=PG18></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Mathilde Hignet.<br><br><strong>Mme Mathilde Hignet. </strong>Ma question s'adresse à M. le ministre de l'agriculture et de la souveraineté alimentaire.<br><br>Les Français sont pris à la gorge depuis plusieurs mois : ils angoissent dans l'attente des factures d'énergie et n'arrivent plus à remplir leurs caddies. La baisse du pouvoir d'achat des ménages les contraint à s'orienter vers des produits moins chers, et souvent de moins bonne qualité. Vous refusez d'indexer les salaires sur l'inflation et vous refusez de bloquer les prix de l'énergie : dès lors, comment voulez-vous que les Français aient les moyens de privilégier des produits de qualité issus de l'agriculture durable ? <i>(Applaudissements sur les bancs du groupe LFI-NUPES.) </i><br><br>Cette situation menace les paysans et les paysannes de notre pays qui ont fait l'effort d'engager une transition vers des pratiques plus respectueuses de l'environnement, des animaux et de l'humain. Certains groupes, comme Lactalis ou Sodiaal, freinent la conversion de leurs producteurs, déclassent des volumes de production ou paient moins bien les produits bio que les produits conventionnels.<br><br>Après plusieurs années de croissance, la filière bio traverse une véritable crise : les éleveurs de porcs bio, notamment, ont vu leurs ventes reculer de 15 % à 20 % en sept mois. La crise affecte aussi les magasins bio : après avoir subi un recul de son chiffre d'affaires de 10 %, le réseau rennais Scarabée Biocoop a été placé en redressement judiciaire, et 204 emplois sont menacés. Si la grande distribution se détourne des produits bio, et que les magasins spécialisés sont en danger, que reste-t-il aux producteurs ? Pour certains, 70 % de leurs débouchés risquent de disparaître.<br><br>À cela s'ajoute la multiplication des labels, comme le très flou HVE (haute valeur environnementale)…<br><br><strong>Mme Nathalie Serre.</strong> Ce n'est pas vrai ! C'est de la très bonne qualité !<br><br><strong>Mme Mathilde Hignet. </strong>Le consommateur perd confiance et ne s'y retrouve plus - je le comprends ! Que comptez-vous faire pour soutenir les paysans et les paysannes en agriculture bio ou en appellation d'origine protégée, et rendre accessible aux consommateurs une alimentation plus saine et de meilleure qualité ? <i>(Applaudissements sur les bancs du groupe LFI-NUPES et sur plusieurs bancs du groupe Écolo-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’agriculture et de la souveraineté alimentaire.<br><br><strong>M. Marc Fesneau,</strong><i> ministre de l’agriculture et de la souveraineté alimentaire. </i>Commençons par rappeler les faits : la surface cultivée en bio a doublé entre 2017 et 2022 en France, pour dépasser 2,78 millions d'hectares. De fait, la France est le pays de l'Union européenne qui a la plus grande surface convertie en bio : nous pouvons nous en féliciter ensemble.<br><br>J'en viens aux actes : au travers de la politique agricole commune (PAC) et du plan Ambition bio 2022, nous avons augmenté de plus de 30 % les crédits alloués à la conversion en bio. Dans le cadre du plan de relance, nous avons renforcé l'accompagnement des agriculteurs bio dans la transformation de leur modèle.<br><br>En outre, le crédit d'impôt en faveur de l'agriculture biologique permet aux agriculteurs qui ont déjà réalisé leur conversion de maintenir leur activité :…<br><br><strong>Mme Ségolène Amiot.</strong> Ils arrêtent leur production !<br><br><strong>M. Marc Fesneau,</strong><i> ministre. </i>…son montant est passé de 75 à 109 millions d'euros.<br><br>Nous faisons face à un problème structurel, mais aussi à un problème conjoncturel, l'inflation, qui pèse sur les ménages – même si, comme cela a été rappelé, la France connaît une inflation inférieure à celle d'autres pays. Il n'en reste pas moins que les choix des consommateurs se dégradent, car ils se détournent des produits bio. Nous devons y remédier. <br><br>J'en viens au problème structurel : l'offre s'étant développée, il faut désormais que la demande soit au rendez-vous. Les produits bio ont suivi une croissance à deux chiffres, qui atteint peut-être sa limite. Nous devons donc nous concentrer sur la demande, et, dans une stratégie de communication, mettre en valeur les vertus de l'agriculture biologique dans le modèle agricole français.<br><br>Enfin, il faut cesser d'opposer les modèles : labels, haute valeur environnementale, bio, agriculture plus conventionnelle… tous participent de la richesse de l'agriculture française. Nous devons respecter l'ensemble des producteurs, et faire en sorte que chacun trouve sa place et sa rémunération. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 30,
+            "label": "MISC",
+            "text": "SOUTIEN"
+          },
+          {
+            "start_char": 35,
+            "end_char": 57,
+            "label": "MISC",
+            "text": "AGRICULTURE BIOLOGIQUE"
+          },
+          {
+            "start_char": 92,
+            "end_char": 95,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 136,
+            "end_char": 148,
+            "label": "PER",
+            "text": "Mme Mathilde"
+          },
+          {
+            "start_char": 172,
+            "end_char": 191,
+            "label": "PER",
+            "text": "Mme Mathilde Hignet"
+          },
+          {
+            "start_char": 226,
+            "end_char": 228,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 280,
+            "end_char": 299,
+            "label": "MISC",
+            "text": "alimentaire.<br><br"
+          },
+          {
+            "start_char": 304,
+            "end_char": 312,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 730,
+            "end_char": 738,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 873,
+            "end_char": 882,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1120,
+            "end_char": 1128,
+            "label": "ORG",
+            "text": "Lactalis"
+          },
+          {
+            "start_char": 1132,
+            "end_char": 1139,
+            "label": "MISC",
+            "text": "Sodiaal"
+          },
+          {
+            "start_char": 1278,
+            "end_char": 1300,
+            "label": "MISC",
+            "text": "conventionnels.<br><br"
+          },
+          {
+            "start_char": 1601,
+            "end_char": 1617,
+            "label": "PER",
+            "text": "Scarabée Biocoop"
+          },
+          {
+            "start_char": 1875,
+            "end_char": 1894,
+            "label": "MISC",
+            "text": "disparaître.<br><br"
+          },
+          {
+            "start_char": 1960,
+            "end_char": 1963,
+            "label": "MISC",
+            "text": "HVE"
+          },
+          {
+            "start_char": 2012,
+            "end_char": 2024,
+            "label": "PER",
+            "text": "Mme Nathalie"
+          },
+          {
+            "start_char": 2109,
+            "end_char": 2128,
+            "label": "PER",
+            "text": "Mme Mathilde Hignet"
+          },
+          {
+            "start_char": 2475,
+            "end_char": 2484,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2518,
+            "end_char": 2550,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2551,
+            "end_char": 2554,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2595,
+            "end_char": 2597,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2613,
+            "end_char": 2615,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2677,
+            "end_char": 2684,
+            "label": "PER",
+            "text": "M. Marc"
+          },
+          {
+            "start_char": 2718,
+            "end_char": 2720,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2865,
+            "end_char": 2871,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 2922,
+            "end_char": 2931,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2949,
+            "end_char": 2965,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 3045,
+            "end_char": 3061,
+            "label": "MISC",
+            "text": "ensemble.<br><br"
+          },
+          {
+            "start_char": 3146,
+            "end_char": 3154,
+            "label": "PER",
+            "text": "Ambition"
+          },
+          {
+            "start_char": 3368,
+            "end_char": 3382,
+            "label": "MISC",
+            "text": "modèle.<br><br"
+          },
+          {
+            "start_char": 3555,
+            "end_char": 3582,
+            "label": "PER",
+            "text": "Mme Ségolène Amiot.</strong"
+          },
+          {
+            "start_char": 3633,
+            "end_char": 3637,
+            "label": "PER",
+            "text": "Marc"
+          },
+          {
+            "start_char": 3719,
+            "end_char": 3732,
+            "label": "MISC",
+            "text": "euros.<br><br"
+          },
+          {
+            "start_char": 3891,
+            "end_char": 3900,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 4479,
+            "end_char": 4495,
+            "label": "MISC",
+            "text": "français.<br><br"
+          },
+          {
+            "start_char": 4845,
+            "end_char": 4856,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 30,
+            "sentiment": "4 stars",
+            "score": 0.2764781713485718
+          },
+          {
+            "begin_char": 31,
+            "end_char": 110,
+            "sentiment": "3 stars",
+            "score": 0.30430692434310913
+          },
+          {
+            "begin_char": 111,
+            "end_char": 192,
+            "sentiment": "3 stars",
+            "score": 0.24233773350715637
+          },
+          {
+            "begin_char": 193,
+            "end_char": 300,
+            "sentiment": "4 stars",
+            "score": 0.29120373725891113
+          },
+          {
+            "begin_char": 300,
+            "end_char": 454,
+            "sentiment": "1 star",
+            "score": 0.42868778109550476
+          },
+          {
+            "begin_char": 455,
+            "end_char": 588,
+            "sentiment": "3 stars",
+            "score": 0.4257453978061676
+          },
+          {
+            "begin_char": 589,
+            "end_char": 691,
+            "sentiment": "1 star",
+            "score": 0.5293761491775513
+          },
+          {
+            "begin_char": 692,
+            "end_char": 827,
+            "sentiment": "5 stars",
+            "score": 0.34829121828079224
+          },
+          {
+            "begin_char": 828,
+            "end_char": 883,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 883,
+            "end_char": 884,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 885,
+            "end_char": 897,
+            "sentiment": "3 stars",
+            "score": 0.3168611526489258
+          },
+          {
+            "begin_char": 897,
+            "end_char": 1095,
+            "sentiment": "5 stars",
+            "score": 0.509012758731842
+          },
+          {
+            "begin_char": 1096,
+            "end_char": 1479,
+            "sentiment": "3 stars",
+            "score": 0.32346948981285095
+          },
+          {
+            "begin_char": 1480,
+            "end_char": 1686,
+            "sentiment": "3 stars",
+            "score": 0.326490193605423
+          },
+          {
+            "begin_char": 1687,
+            "end_char": 1823,
+            "sentiment": "5 stars",
+            "score": 0.3264061212539673
+          },
+          {
+            "begin_char": 1824,
+            "end_char": 2040,
+            "sentiment": "2 stars",
+            "score": 0.33409756422042847
+          },
+          {
+            "begin_char": 2041,
+            "end_char": 2060,
+            "sentiment": "1 star",
+            "score": 0.5489705204963684
+          },
+          {
+            "begin_char": 2061,
+            "end_char": 2093,
+            "sentiment": "5 stars",
+            "score": 0.8086192607879639
+          },
+          {
+            "begin_char": 2093,
+            "end_char": 2129,
+            "sentiment": "3 stars",
+            "score": 0.2720341384410858
+          },
+          {
+            "begin_char": 2130,
+            "end_char": 2139,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2139,
+            "end_char": 2193,
+            "sentiment": "2 stars",
+            "score": 0.431515634059906
+          },
+          {
+            "begin_char": 2194,
+            "end_char": 2213,
+            "sentiment": "2 stars",
+            "score": 0.2117118090391159
+          },
+          {
+            "begin_char": 2214,
+            "end_char": 2429,
+            "sentiment": "5 stars",
+            "score": 0.636606752872467
+          },
+          {
+            "begin_char": 2430,
+            "end_char": 2551,
+            "sentiment": "4 stars",
+            "score": 0.3135238587856293
+          },
+          {
+            "begin_char": 2551,
+            "end_char": 2569,
+            "sentiment": "4 stars",
+            "score": 0.3682718873023987
+          },
+          {
+            "begin_char": 2570,
+            "end_char": 2705,
+            "sentiment": "4 stars",
+            "score": 0.2993431091308594
+          },
+          {
+            "begin_char": 2706,
+            "end_char": 2766,
+            "sentiment": "4 stars",
+            "score": 0.325288861989975
+          },
+          {
+            "begin_char": 2767,
+            "end_char": 2912,
+            "sentiment": "5 stars",
+            "score": 0.2736189067363739
+          },
+          {
+            "begin_char": 2913,
+            "end_char": 3244,
+            "sentiment": "5 stars",
+            "score": 0.6384501457214355
+          },
+          {
+            "begin_char": 3245,
+            "end_char": 3383,
+            "sentiment": "5 stars",
+            "score": 0.44218263030052185
+          },
+          {
+            "begin_char": 3383,
+            "end_char": 3583,
+            "sentiment": "4 stars",
+            "score": 0.38632726669311523
+          },
+          {
+            "begin_char": 3584,
+            "end_char": 3614,
+            "sentiment": "1 star",
+            "score": 0.662514328956604
+          },
+          {
+            "begin_char": 3614,
+            "end_char": 3658,
+            "sentiment": "3 stars",
+            "score": 0.3174576759338379
+          },
+          {
+            "begin_char": 3659,
+            "end_char": 3668,
+            "sentiment": "4 stars",
+            "score": 0.31432053446769714
+          },
+          {
+            "begin_char": 3669,
+            "end_char": 3733,
+            "sentiment": "3 stars",
+            "score": 0.3389316201210022
+          },
+          {
+            "begin_char": 3733,
+            "end_char": 3956,
+            "sentiment": "4 stars",
+            "score": 0.4125658869743347
+          },
+          {
+            "begin_char": 3957,
+            "end_char": 4066,
+            "sentiment": "2 stars",
+            "score": 0.40935802459716797
+          },
+          {
+            "begin_char": 4067,
+            "end_char": 4090,
+            "sentiment": "4 stars",
+            "score": 0.33470118045806885
+          },
+          {
+            "begin_char": 4091,
+            "end_char": 4216,
+            "sentiment": "3 stars",
+            "score": 0.3732052743434906
+          },
+          {
+            "begin_char": 4217,
+            "end_char": 4308,
+            "sentiment": "3 stars",
+            "score": 0.34474101662635803
+          },
+          {
+            "begin_char": 4309,
+            "end_char": 4679,
+            "sentiment": "5 stars",
+            "score": 0.6819416284561157
+          },
+          {
+            "begin_char": 4680,
+            "end_char": 4794,
+            "sentiment": "5 stars",
+            "score": 0.5014153122901917
+          },
+          {
+            "begin_char": 4795,
+            "end_char": 4857,
+            "sentiment": "3 stars",
+            "score": 0.3159869611263275
+          },
+          {
+            "begin_char": 4858,
+            "end_char": 4861,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-30",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-30",
+        "pageJO": "6144",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

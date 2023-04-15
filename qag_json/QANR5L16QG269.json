@@ -1,0 +1,401 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG269",
+    "identifiant": {
+      "numero": "269",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enfants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Secteur de la petite enfance"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793210",
+        "mandatRef": "PM796212"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Solidarités, autonomie et personnes handicapées",
+      "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Solidarités, autonomie et personnes handicapées",
+          "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SECTEUR DE LA PETITE ENFANCE <a name=PG23></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Laurent Panifous.<br><br><strong>M. Laurent Panifous. </strong>J'associe à cette question mon collègue Jean-Félix Acquaviva.<br><br>Il manque en France 230 000 places de crèche pour satisfaire les besoins des 2,2 millions d'enfants de moins de 3 ans. Permettez-moi de relayer ici la colère des représentants professionnels et syndicaux de la petite enfance qui ont organisé une journée de mobilisation le 6 octobre. Que nous disent-ils ? D'abord – et c'est essentiel –, ils vous reprochent d'avoir permis par arrêté ministériel à des personnes non qualifiées d'accéder par dérogation à des emplois dans les crèches. De même, votre décision de baisser le taux d'encadrement pour passer d'un professionnel pour cinq enfants à un pour six suscite la colère. Ainsi, non seulement les personnels ne seront pas qualifiés mais ils seront aussi moins nombreux à accompagner nos enfants.<br><br><strong>M. Jean-Louis Bricout.</strong> Scandaleux !<br><br><strong>M. Laurent Panifous. </strong>Ce n'est sûrement pas en dégradant davantage les conditions de travail que vous rendrez plus attractifs ces métiers en situation de pénurie. Au contraire, vous prenez le risque de brader les qualifications des salariés déjà employés et de rendre permanentes des mesures exceptionnelles.<br><br>Vous l'avez compris, la réponse, certes immédiate, que vous apportez au problème ne réglera pas la question structurelle de la pénurie car ces difficultés de recrutement sont la conséquence directe d'un manque de reconnaissance qui exige, qu'on le veuille ou non, l'amélioration des conditions de travail et la revalorisation des salaires.<br><br>Enfin, pour anticiper les départs massifs à la retraite, les professionnels demandent une augmentation forte et immédiate des places en centre de formation.<br><br>Ma question est très simple : entendrez-vous, madame la Première ministre, l'inquiétude des parents et des professionnels face à cet arrêté ministériel qui prévoit le recrutement de salariés non qualifiés ? Comment redonner de l'attractivité à ces métiers sans tomber dans le nivellement par le bas ? <i>(Applaudissements sur les bancs du groupe LIOT.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre des solidarités, de l'autonomie et des personnes handicapées.<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre des solidarités, de l'autonomie et des personnes handicapées. </i>Permettez-moi de commencer par saluer l'engagement remarquable de l'ensemble des professionnels de la petite enfance, qu'ils exercent leur activité en crèche ou à domicile, comme les assistantes maternelles – j'étais avec elles encore ce matin pour évoquer l'avenir de leur profession mais aussi le futur service public de la petite enfance.<br><br>Vous l'avez dit : sur le terrain, la situation est difficile et je ne l'ignore pas – au contraire, je suis pleinement conscient de la pénurie de professionnels qui frappe le secteur et, plus généralement, tous les métiers de l'humain. La Caisse nationale des allocations familiales estime qu'il manquerait quelque 10 000 professionnels de la petite enfance pour remplir toutes les places vacantes en crèche.<br><br>L'urgence est là et le Gouvernement agit pour restaurer l'attractivité de ces métiers en travaillant sur la qualité de vie au travail, les parcours professionnels, la formation mais aussi les salaires. Dès le 11 juillet, j'ai réuni le comité de filière « petite enfance », qui rassemble tous les représentants du secteur, pour valider la mise en œuvre de ces premières propositions. J'ai débloqué 2,5 millions d'euros pour créer un observatoire de la qualité de vie au travail et pour organiser une campagne de valorisation et de promotion de ces métiers. Le 22 septembre, j'ai à nouveau réuni le comité de filière et annoncé que le Gouvernement était prêt à accompagner financièrement des revalorisations salariales en faveur des professionnels de crèche. J'ai invité l'ensemble des représentants du secteur – syndicats et organisations professionnelles – à se réunir et à entamer des discussions que le Gouvernement accompagnera.<br><br>Quant à la question spécifique du décret, je précise qu'il encadre une dérogation en vigueur depuis vingt ans. Si j'ai souhaité l'encadrer, c'est précisément pour assurer la qualité et la sécurité de l'accueil, notamment dans les crèches qui, du fait de la pénurie, ont accru leur recours à ce type d'employés. Je le répète, cette possibilité est strictement encadrée et subordonnée à la formation des professionnels concernés.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 30,
+            "label": "PER",
+            "text": "SECTEUR"
+          },
+          {
+            "start_char": 37,
+            "end_char": 51,
+            "label": "LOC",
+            "text": "PETITE ENFANCE"
+          },
+          {
+            "start_char": 86,
+            "end_char": 89,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 130,
+            "end_char": 165,
+            "label": "PER",
+            "text": "M. Laurent Panifous.<br><br><strong"
+          },
+          {
+            "start_char": 169,
+            "end_char": 185,
+            "label": "PER",
+            "text": "Laurent Panifous"
+          },
+          {
+            "start_char": 236,
+            "end_char": 246,
+            "label": "MISC",
+            "text": "Jean-Félix"
+          },
+          {
+            "start_char": 278,
+            "end_char": 284,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1030,
+            "end_char": 1069,
+            "label": "PER",
+            "text": "Jean-Louis Bricout.</strong> Scandaleux"
+          },
+          {
+            "start_char": 1090,
+            "end_char": 1106,
+            "label": "PER",
+            "text": "Laurent Panifous"
+          },
+          {
+            "start_char": 1741,
+            "end_char": 1757,
+            "label": "MISC",
+            "text": "salaires.<br><br"
+          },
+          {
+            "start_char": 1904,
+            "end_char": 1924,
+            "label": "MISC",
+            "text": "formation.<br><br>Ma"
+          },
+          {
+            "start_char": 1952,
+            "end_char": 1961,
+            "label": "PER",
+            "text": "entendrez"
+          },
+          {
+            "start_char": 2268,
+            "end_char": 2293,
+            "label": "ORG",
+            "text": "LIOT.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2294,
+            "end_char": 2297,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2338,
+            "end_char": 2340,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2430,
+            "end_char": 2448,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 2543,
+            "end_char": 2552,
+            "label": "LOC",
+            "text": "Permettez"
+          },
+          {
+            "start_char": 3130,
+            "end_char": 3173,
+            "label": "ORG",
+            "text": "Caisse nationale des allocations familiales"
+          },
+          {
+            "start_char": 3292,
+            "end_char": 3306,
+            "label": "MISC",
+            "text": "crèche.<br><br"
+          },
+          {
+            "start_char": 3330,
+            "end_char": 3342,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3940,
+            "end_char": 3952,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4212,
+            "end_char": 4245,
+            "label": "MISC",
+            "text": "Gouvernement accompagnera.<br><br"
+          },
+          {
+            "start_char": 4663,
+            "end_char": 4676,
+            "label": "ORG",
+            "text": "concernés.<br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 104,
+            "sentiment": "3 stars",
+            "score": 0.29152920842170715
+          },
+          {
+            "begin_char": 105,
+            "end_char": 186,
+            "sentiment": "3 stars",
+            "score": 0.24410980939865112
+          },
+          {
+            "begin_char": 187,
+            "end_char": 265,
+            "sentiment": "4 stars",
+            "score": 0.2992418706417084
+          },
+          {
+            "begin_char": 265,
+            "end_char": 383,
+            "sentiment": "3 stars",
+            "score": 0.28545451164245605
+          },
+          {
+            "begin_char": 384,
+            "end_char": 548,
+            "sentiment": "5 stars",
+            "score": 0.30549904704093933
+          },
+          {
+            "begin_char": 549,
+            "end_char": 570,
+            "sentiment": "1 star",
+            "score": 0.5060538649559021
+          },
+          {
+            "begin_char": 571,
+            "end_char": 748,
+            "sentiment": "5 stars",
+            "score": 0.31236574053764343
+          },
+          {
+            "begin_char": 749,
+            "end_char": 887,
+            "sentiment": "2 stars",
+            "score": 0.24371559917926788
+          },
+          {
+            "begin_char": 888,
+            "end_char": 1071,
+            "sentiment": "1 star",
+            "score": 0.649634063243866
+          },
+          {
+            "begin_char": 1071,
+            "end_char": 1107,
+            "sentiment": "3 stars",
+            "score": 0.2749023735523224
+          },
+          {
+            "begin_char": 1108,
+            "end_char": 1117,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1117,
+            "end_char": 1257,
+            "sentiment": "5 stars",
+            "score": 0.32385700941085815
+          },
+          {
+            "begin_char": 1258,
+            "end_char": 1411,
+            "sentiment": "5 stars",
+            "score": 0.24683888256549835
+          },
+          {
+            "begin_char": 1411,
+            "end_char": 1430,
+            "sentiment": "5 stars",
+            "score": 0.24861054122447968
+          },
+          {
+            "begin_char": 1430,
+            "end_char": 2128,
+            "sentiment": "5 stars",
+            "score": 0.45231950283050537
+          },
+          {
+            "begin_char": 2129,
+            "end_char": 2222,
+            "sentiment": "2 stars",
+            "score": 0.40352964401245117
+          },
+          {
+            "begin_char": 2223,
+            "end_char": 2312,
+            "sentiment": "4 stars",
+            "score": 0.3018896281719208
+          },
+          {
+            "begin_char": 2313,
+            "end_char": 2467,
+            "sentiment": "4 stars",
+            "score": 0.31987905502319336
+          },
+          {
+            "begin_char": 2468,
+            "end_char": 2538,
+            "sentiment": "4 stars",
+            "score": 0.35842639207839966
+          },
+          {
+            "begin_char": 2539,
+            "end_char": 3126,
+            "sentiment": "5 stars",
+            "score": 0.6282464265823364
+          },
+          {
+            "begin_char": 3127,
+            "end_char": 3508,
+            "sentiment": "5 stars",
+            "score": 0.45061787962913513
+          },
+          {
+            "begin_char": 3509,
+            "end_char": 3689,
+            "sentiment": "4 stars",
+            "score": 0.37987250089645386
+          },
+          {
+            "begin_char": 3690,
+            "end_char": 3862,
+            "sentiment": "5 stars",
+            "score": 0.41349297761917114
+          },
+          {
+            "begin_char": 3863,
+            "end_char": 4063,
+            "sentiment": "5 stars",
+            "score": 0.4103483259677887
+          },
+          {
+            "begin_char": 4064,
+            "end_char": 4356,
+            "sentiment": "5 stars",
+            "score": 0.42957594990730286
+          },
+          {
+            "begin_char": 4357,
+            "end_char": 4556,
+            "sentiment": "4 stars",
+            "score": 0.44260337948799133
+          },
+          {
+            "begin_char": 4557,
+            "end_char": 4681,
+            "sentiment": "4 stars",
+            "score": 0.30652669072151184
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-09",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-09",
+        "pageJO": "5249",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

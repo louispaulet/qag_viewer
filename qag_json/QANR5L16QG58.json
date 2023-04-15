@@ -1,0 +1,833 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG58",
+    "identifiant": {
+      "numero": "58",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "maladies",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Variole du singe"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794130",
+        "mandatRef": "PM796731"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Organisation territoriale et professions de santé",
+      "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Organisation territoriale et professions de santé",
+          "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> VARIOLE DU SINGE <a name=PG4></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Andy Kerbrat.<br><br><strong>M. Julien Dive.</strong> Et la cravate ?<br><br><strong>M. Andy Kerbrat. </strong>Depuis le mois de juin, on ne cesse de vous interpeller sur la nécessité d'une action rapide pour stopper la circulation de la variole du singe : 1 700 cas sont recensés en France, et l’Organisation mondiale de la santé (OMS) a décrété l’état d’urgence mondial face à cette épidémie. L'inquiétude grandit. Il aura fallu l'alerte des médias pour que vous sortiez enfin de votre mutisme et que vous annonciez la création d'un grand centre de vaccination à Paris. C'est un premier pas, mais rien n'est malheureusement prévu pour le reste du pays, qui représente 54 % des cas de contamination.<i> (Applaudissements sur plusieurs bancs du groupe LFI-NUPES.) </i><br><br>Puisque la prévention figure désormais dans votre portefeuille, monsieur le ministre de la santé et de la prévention, nous attendions au moins une campagne de prévention et d’information – mais là, toujours rien. (M. Ugo Bernalicis applaudit.)</i> Votre silence fait des victimes. Combien de contaminations peuvent être évitées grâce à des diagnostics plus rapides ? On croit revivre le même film qu'avec la crise du covid : des départements sont privés de vaccins ; on bataille pour obtenir un rendez-vous de vaccination ou de dépistage… Les publics les plus éloignés et les plus précaires sont une nouvelle fois les premières victimes, comme les travailleurs du sexe. <i>(Applaudissements sur les bancs du groupe LFI-NUPES.) Vous devez tirer les leçons du passé : il faut agir vite, dans la transparence, avec les associations et les professionnels. Pour faciliter le suivi épidémique, la Haute Autorité de santé (HAS) vous demande de généraliser et de rembourser les tests effectués dans les laboratoires de ville : vous devez le faire !<br><br>Les associations vous recommandent de distribuer les doses aux généralistes et aux pharmaciens : vous devez le faire !<br><br>Qu'attendez-vous, monsieur le ministre ? C'est maintenant qu'il faut agir ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i><br><br>Comme pour le VIH, l'invisibilisation est une discrimination. Les personnes exposées, « ces gens-là », comme le dit l'une de vos collègues, la ressentent de plus en plus comme une marque de mépris. <i>(Mêmes mouvements.)</i><br><br>Vous devez garantir l'accès au vaccin, qui existe depuis 2011. Or, seulement 30 000 doses ont été déstockées pour au moins 250 000 personnes exposées. Doit-on en déduire que la France manque encore de vaccins ? Nos concitoyens sont en droit de connaître le niveau de compétence de leur ministre de la santé.<br><br><strong>M. Thibault Bazin.</strong> Oh là là !<br><br><strong>M. Andy Kerbrat. </strong>Il ne sert à rien de vous draper dans le secret-défense pour cacher votre incompétence ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES. - Mme Marie-Charlotte Garin applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée auprès du ministre de la santé et de la prévention, chargée de l’organisation territoriale et des professions de santé.<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée auprès du ministre de la santé et de la prévention, chargée de l’organisation territoriale et des professions de santé. </i>Monsieur le député, à une question calme, je vais m'efforcer d'apporter une réponse calme…<br><br><strong>M. Ugo Bernalicis.</strong> Les arbitres des élégances…<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée . </i>Depuis mai 2022, des cas d'infection à la variole du singe sont observés dans plusieurs pays, dont la France, l'Europe étant une région endémique, comme vous l'avez justement indiqué. En France, au 25 juillet 2022, on dénombrait 1 749 cas confirmés, dont près de la moitié en Île-de-France. Si la rémission de l'infection se fait en deux à trois semaines sans séquelles durables, la maladie peut être douloureuse. Ayons donc une pensée pour tous ceux qui en souffrent et en ont souffert.<br><br>Je veux être très claire, monsieur le député : je lutterai avec force, ainsi que l'ensemble de mes collègues, contre les discours de haine et de stigmatisation, en lien avec ma collègue Isabelle Rome. Si la majorité des personnes touchées sont des hommes qui ont des relations sexuelles avec des partenaires multiples, cela ne signifie nullement que le virus ne touche que les hommes homosexuels.<br><br>Face à cette situation, nous avons agi, et ce très tôt. Les premières personnes contacts à risque ont été vaccinées dès la communication du premier avis de la HAS, le 24 mai. Par ailleurs, j'insiste sur le fait que la France est l'un des tout premiers pays au monde - vous auriez pu le dire - à avoir proposé une vaccination préventive, qui plus est, entièrement prise en charge. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br>En effet, saisie dès notre prise de fonctions au ministère le 4 juillet dernier, la HAS a rendu le 8 juillet un avis proposant d'élargir le public éligible à la vaccination aux hommes ayant des relations sexuelles avec des hommes multipartenaires, aux personnes trans multipartenaires, aux personnes en situation de prostitution et aux professionnels exerçant dans des lieux de consommation sexuelle.<br><br>Nous avons immédiatement suivi cet avis, puisque les premières vaccinations ont pu intervenir dès le 11 juillet alors que, je le rappelle, l'alerte de l'OMS date du 23 juillet. À ce jour, 114 centres de vaccination sont ouverts et plus de 6 100 personnes sont vaccinées. <i>(Applaudissements sur plusieurs bancs du groupe RE. – Exclamations sur quelques bancs du groupe LFI-NUPES.)</i><br><br><strong>Mme Mathilde Panot.</strong> Et la levée du secret-défense ?<br> <p>",
+        "entities": [
+          {
+            "start_char": 34,
+            "end_char": 39,
+            "label": "ORG",
+            "text": "SINGE"
+          },
+          {
+            "start_char": 48,
+            "end_char": 55,
+            "label": "MISC",
+            "text": "PG4></a"
+          },
+          {
+            "start_char": 73,
+            "end_char": 76,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 117,
+            "end_char": 148,
+            "label": "PER",
+            "text": "M. Andy Kerbrat.<br><br><strong"
+          },
+          {
+            "start_char": 152,
+            "end_char": 173,
+            "label": "PER",
+            "text": "Julien Dive.</strong>"
+          },
+          {
+            "start_char": 208,
+            "end_char": 220,
+            "label": "PER",
+            "text": "Andy Kerbrat"
+          },
+          {
+            "start_char": 404,
+            "end_char": 410,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 415,
+            "end_char": 450,
+            "label": "ORG",
+            "text": "l’Organisation mondiale de la santé"
+          },
+          {
+            "start_char": 452,
+            "end_char": 455,
+            "label": "ORG",
+            "text": "OMS"
+          },
+          {
+            "start_char": 467,
+            "end_char": 469,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 685,
+            "end_char": 690,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 825,
+            "end_char": 841,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 872,
+            "end_char": 881,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1069,
+            "end_char": 1071,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1113,
+            "end_char": 1127,
+            "label": "PER",
+            "text": "Ugo Bernalicis"
+          },
+          {
+            "start_char": 1611,
+            "end_char": 1620,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1787,
+            "end_char": 1810,
+            "label": "ORG",
+            "text": "Haute Autorité de santé"
+          },
+          {
+            "start_char": 1812,
+            "end_char": 1815,
+            "label": "MISC",
+            "text": "HAS"
+          },
+          {
+            "start_char": 2063,
+            "end_char": 2070,
+            "label": "MISC",
+            "text": "br><br>"
+          },
+          {
+            "start_char": 2191,
+            "end_char": 2213,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 2413,
+            "end_char": 2421,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 2620,
+            "end_char": 2629,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2769,
+            "end_char": 2796,
+            "label": "PER",
+            "text": "M. Thibault Bazin.</strong>"
+          },
+          {
+            "start_char": 2826,
+            "end_char": 2838,
+            "label": "PER",
+            "text": "Andy Kerbrat"
+          },
+          {
+            "start_char": 2983,
+            "end_char": 2992,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2996,
+            "end_char": 3021,
+            "label": "PER",
+            "text": "Mme Marie-Charlotte Garin"
+          },
+          {
+            "start_char": 3063,
+            "end_char": 3066,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3107,
+            "end_char": 3110,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3195,
+            "end_char": 3197,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3267,
+            "end_char": 3276,
+            "label": "PER",
+            "text": "Mme Agnès"
+          },
+          {
+            "start_char": 3386,
+            "end_char": 3388,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3447,
+            "end_char": 3455,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 3624,
+            "end_char": 3633,
+            "label": "PER",
+            "text": "Mme Agnès"
+          },
+          {
+            "start_char": 3788,
+            "end_char": 3794,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 3798,
+            "end_char": 3804,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 3873,
+            "end_char": 3879,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 3962,
+            "end_char": 3975,
+            "label": "LOC",
+            "text": "Île-de-France"
+          },
+          {
+            "start_char": 4164,
+            "end_char": 4180,
+            "label": "MISC",
+            "text": "souffert.<br><br"
+          },
+          {
+            "start_char": 4367,
+            "end_char": 4380,
+            "label": "PER",
+            "text": "Isabelle Rome"
+          },
+          {
+            "start_char": 4565,
+            "end_char": 4589,
+            "label": "MISC",
+            "text": "homosexuels.<br><br>Face"
+          },
+          {
+            "start_char": 4744,
+            "end_char": 4747,
+            "label": "MISC",
+            "text": "HAS"
+          },
+          {
+            "start_char": 4800,
+            "end_char": 4809,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 5016,
+            "end_char": 5031,
+            "label": "ORG",
+            "text": "RE.)</i><br><br"
+          },
+          {
+            "start_char": 5116,
+            "end_char": 5119,
+            "label": "MISC",
+            "text": "HAS"
+          },
+          {
+            "start_char": 5423,
+            "end_char": 5439,
+            "label": "MISC",
+            "text": "sexuelle.<br><br"
+          },
+          {
+            "start_char": 5593,
+            "end_char": 5596,
+            "label": "ORG",
+            "text": "OMS"
+          },
+          {
+            "start_char": 5755,
+            "end_char": 5764,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 5768,
+            "end_char": 5780,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 5810,
+            "end_char": 5840,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5841,
+            "end_char": 5845,
+            "label": "PER",
+            "text": "Mme "
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 91,
+            "sentiment": "1 star",
+            "score": 0.32846513390541077
+          },
+          {
+            "begin_char": 92,
+            "end_char": 173,
+            "sentiment": "3 stars",
+            "score": 0.29487180709838867
+          },
+          {
+            "begin_char": 174,
+            "end_char": 189,
+            "sentiment": "3 stars",
+            "score": 0.23561835289001465
+          },
+          {
+            "begin_char": 189,
+            "end_char": 221,
+            "sentiment": "3 stars",
+            "score": 0.28469499945640564
+          },
+          {
+            "begin_char": 222,
+            "end_char": 514,
+            "sentiment": "5 stars",
+            "score": 0.6110948920249939
+          },
+          {
+            "begin_char": 515,
+            "end_char": 536,
+            "sentiment": "4 stars",
+            "score": 0.27314016222953796
+          },
+          {
+            "begin_char": 537,
+            "end_char": 691,
+            "sentiment": "1 star",
+            "score": 0.37145164608955383
+          },
+          {
+            "begin_char": 692,
+            "end_char": 825,
+            "sentiment": "3 stars",
+            "score": 0.35646674036979675
+          },
+          {
+            "begin_char": 825,
+            "end_char": 882,
+            "sentiment": "4 stars",
+            "score": 0.3753339946269989
+          },
+          {
+            "begin_char": 882,
+            "end_char": 883,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 884,
+            "end_char": 1108,
+            "sentiment": "1 star",
+            "score": 0.6565060019493103
+          },
+          {
+            "begin_char": 1109,
+            "end_char": 1143,
+            "sentiment": "5 stars",
+            "score": 0.2761955261230469
+          },
+          {
+            "begin_char": 1144,
+            "end_char": 1176,
+            "sentiment": "1 star",
+            "score": 0.5873901844024658
+          },
+          {
+            "begin_char": 1177,
+            "end_char": 1262,
+            "sentiment": "5 stars",
+            "score": 0.4774804711341858
+          },
+          {
+            "begin_char": 1263,
+            "end_char": 1362,
+            "sentiment": "1 star",
+            "score": 0.5356613993644714
+          },
+          {
+            "begin_char": 1363,
+            "end_char": 1434,
+            "sentiment": "1 star",
+            "score": 0.27147847414016724
+          },
+          {
+            "begin_char": 1435,
+            "end_char": 1533,
+            "sentiment": "5 stars",
+            "score": 0.32316410541534424
+          },
+          {
+            "begin_char": 1534,
+            "end_char": 1565,
+            "sentiment": "5 stars",
+            "score": 0.29721778631210327
+          },
+          {
+            "begin_char": 1566,
+            "end_char": 1621,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 1621,
+            "end_char": 1622,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 1623,
+            "end_char": 1747,
+            "sentiment": "5 stars",
+            "score": 0.5761950612068176
+          },
+          {
+            "begin_char": 1748,
+            "end_char": 1936,
+            "sentiment": "1 star",
+            "score": 0.4551101326942444
+          },
+          {
+            "begin_char": 1936,
+            "end_char": 1944,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1944,
+            "end_char": 2062,
+            "sentiment": "5 stars",
+            "score": 0.3790040910243988
+          },
+          {
+            "begin_char": 2062,
+            "end_char": 2070,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2070,
+            "end_char": 2110,
+            "sentiment": "5 stars",
+            "score": 0.2670851945877075
+          },
+          {
+            "begin_char": 2111,
+            "end_char": 2145,
+            "sentiment": "5 stars",
+            "score": 0.4962780773639679
+          },
+          {
+            "begin_char": 2146,
+            "end_char": 2231,
+            "sentiment": "4 stars",
+            "score": 0.29635706543922424
+          },
+          {
+            "begin_char": 2231,
+            "end_char": 2275,
+            "sentiment": "1 star",
+            "score": 0.3504641354084015
+          },
+          {
+            "begin_char": 2276,
+            "end_char": 2411,
+            "sentiment": "5 stars",
+            "score": 0.3451178967952728
+          },
+          {
+            "begin_char": 2412,
+            "end_char": 2446,
+            "sentiment": "3 stars",
+            "score": 0.30803972482681274
+          },
+          {
+            "begin_char": 2446,
+            "end_char": 2508,
+            "sentiment": "5 stars",
+            "score": 0.38169601559638977
+          },
+          {
+            "begin_char": 2509,
+            "end_char": 2596,
+            "sentiment": "1 star",
+            "score": 0.33776023983955383
+          },
+          {
+            "begin_char": 2597,
+            "end_char": 2656,
+            "sentiment": "3 stars",
+            "score": 0.24423393607139587
+          },
+          {
+            "begin_char": 2657,
+            "end_char": 2796,
+            "sentiment": "5 stars",
+            "score": 0.3001307249069214
+          },
+          {
+            "begin_char": 2797,
+            "end_char": 2807,
+            "sentiment": "1 star",
+            "score": 0.3837512731552124
+          },
+          {
+            "begin_char": 2807,
+            "end_char": 2839,
+            "sentiment": "3 stars",
+            "score": 0.28469499945640564
+          },
+          {
+            "begin_char": 2840,
+            "end_char": 2849,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2849,
+            "end_char": 2937,
+            "sentiment": "1 star",
+            "score": 0.9035217761993408
+          },
+          {
+            "begin_char": 2938,
+            "end_char": 2993,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 2994,
+            "end_char": 3063,
+            "sentiment": "4 stars",
+            "score": 0.3296229839324951
+          },
+          {
+            "begin_char": 3063,
+            "end_char": 3081,
+            "sentiment": "4 stars",
+            "score": 0.3682718873023987
+          },
+          {
+            "begin_char": 3082,
+            "end_char": 3276,
+            "sentiment": "4 stars",
+            "score": 0.3341585099697113
+          },
+          {
+            "begin_char": 3277,
+            "end_char": 3304,
+            "sentiment": "3 stars",
+            "score": 0.29235321283340454
+          },
+          {
+            "begin_char": 3305,
+            "end_char": 3442,
+            "sentiment": "4 stars",
+            "score": 0.3657079041004181
+          },
+          {
+            "begin_char": 3443,
+            "end_char": 3447,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3447,
+            "end_char": 3580,
+            "sentiment": "3 stars",
+            "score": 0.277496337890625
+          },
+          {
+            "begin_char": 3581,
+            "end_char": 3633,
+            "sentiment": "3 stars",
+            "score": 0.27227818965911865
+          },
+          {
+            "begin_char": 3634,
+            "end_char": 3661,
+            "sentiment": "3 stars",
+            "score": 0.29235321283340454
+          },
+          {
+            "begin_char": 3662,
+            "end_char": 3681,
+            "sentiment": "4 stars",
+            "score": 0.33328285813331604
+          },
+          {
+            "begin_char": 3682,
+            "end_char": 3869,
+            "sentiment": "4 stars",
+            "score": 0.27586793899536133
+          },
+          {
+            "begin_char": 3870,
+            "end_char": 3976,
+            "sentiment": "3 stars",
+            "score": 0.2481655478477478
+          },
+          {
+            "begin_char": 3977,
+            "end_char": 4099,
+            "sentiment": "3 stars",
+            "score": 0.3881283402442932
+          },
+          {
+            "begin_char": 4100,
+            "end_char": 4181,
+            "sentiment": "5 stars",
+            "score": 0.6087486743927002
+          },
+          {
+            "begin_char": 4181,
+            "end_char": 4381,
+            "sentiment": "5 stars",
+            "score": 0.6192602515220642
+          },
+          {
+            "begin_char": 4382,
+            "end_char": 4640,
+            "sentiment": "5 stars",
+            "score": 0.5128964185714722
+          },
+          {
+            "begin_char": 4641,
+            "end_char": 4759,
+            "sentiment": "4 stars",
+            "score": 0.286803662776947
+          },
+          {
+            "begin_char": 4760,
+            "end_char": 4850,
+            "sentiment": "5 stars",
+            "score": 0.46053993701934814
+          },
+          {
+            "begin_char": 4851,
+            "end_char": 4964,
+            "sentiment": "5 stars",
+            "score": 0.2206774801015854
+          },
+          {
+            "begin_char": 4965,
+            "end_char": 5032,
+            "sentiment": "3 stars",
+            "score": 0.3221052289009094
+          },
+          {
+            "begin_char": 5032,
+            "end_char": 5140,
+            "sentiment": "4 stars",
+            "score": 0.33533820509910583
+          },
+          {
+            "begin_char": 5141,
+            "end_char": 5440,
+            "sentiment": "4 stars",
+            "score": 0.3118232190608978
+          },
+          {
+            "begin_char": 5440,
+            "end_char": 5616,
+            "sentiment": "5 stars",
+            "score": 0.4696500897407532
+          },
+          {
+            "begin_char": 5617,
+            "end_char": 5694,
+            "sentiment": "5 stars",
+            "score": 0.5284287929534912
+          },
+          {
+            "begin_char": 5695,
+            "end_char": 5710,
+            "sentiment": "5 stars",
+            "score": 0.3470154106616974
+          },
+          {
+            "begin_char": 5711,
+            "end_char": 5765,
+            "sentiment": "4 stars",
+            "score": 0.31308692693710327
+          },
+          {
+            "begin_char": 5766,
+            "end_char": 5767,
+            "sentiment": "4 stars",
+            "score": 0.2636305093765259
+          },
+          {
+            "begin_char": 5768,
+            "end_char": 5780,
+            "sentiment": "5 stars",
+            "score": 0.4309922754764557
+          },
+          {
+            "begin_char": 5781,
+            "end_char": 5845,
+            "sentiment": "3 stars",
+            "score": 0.3602030277252197
+          },
+          {
+            "begin_char": 5845,
+            "end_char": 5869,
+            "sentiment": "3 stars",
+            "score": 0.28544703125953674
+          },
+          {
+            "begin_char": 5870,
+            "end_char": 5901,
+            "sentiment": "4 stars",
+            "score": 0.3183327913284302
+          },
+          {
+            "begin_char": 5901,
+            "end_char": 5909,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-27",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-27",
+        "pageJO": "3093",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

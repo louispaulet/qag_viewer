@@ -1,0 +1,797 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG630",
+    "identifiant": {
+      "numero": "630",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "femmes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "FÉMINICIDES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795794",
+        "mandatRef": "PM797688"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Justice",
+      "developpe": "Ministère de la justice"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Justice",
+          "developpe": "Ministère de la justice"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> FÉMINICIDES <a name=PG19></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Francesca Pasquini.<br><br><strong>Mme Francesca Pasquini. </strong>(Mmes Ségolène Amiot et Pascale Martin se lèvent et restent debout durant toute l'intervention de l'oratrice.) Elles s'appelaient Angélique, Valérie, Eva, Elena, Catherine, Manon, Mongia, Madgalena, Sihem, Marie-Camille, Laurence, Marina, Séverine, Flora, Neda, Valeria, Sophie, Laure, Marie-Antoinette, Assia, Elisa, Joëlle,…<br><br><strong>Un député du groupe LR .</strong> C'est bon, là !<br><br><strong>Mme Francesca Pasquini. </strong>…Nassera, Cathy, Fatiha<i>.</i><br><br><strong>M. Maxime Minot.</strong> Elle a oublié Monique !<br><br><strong>Mme Francesca Pasquini. </strong>Ces prénoms sont ceux des femmes qui ont été massacrées par leur compagnon ou ex-compagnon depuis le 1er janvier 2023 – cinq restent anonymes. À la veille du 8 mars, je leur rends hommage dans cette enceinte. Si j’arrive à les nommer une par une dans le temps qui m’est imparti, c’est parce que nous ne sommes que début mars. D’ici à la fin de l’année, cette liste funeste n’aura fait que croître.<br><br>Les trois dernières victimes sont décédées le week-end dernier, en l’espace de deux jours. Deux d’entre elles avaient pourtant déjà déposé plainte pour violences conjugales. Aucune de ces femmes n’aurait dû mourir. Seule la main de la justice et de l'action publique peut arrêter cette tuerie. <i>(MM. Ugo Bernalicis et Paul Vannier applaudissent.)</i><br><br>Alors qu'en 2017, la lutte contre toutes les violences sexistes et sexuelles a été présentée comme la grande cause du quinquennat – cela a été réaffirmé en 2022 –, depuis lors, pas une année ne s’est écoulée sans qu’au moins 100 femmes ne soient tuées par leur conjoint ou ex-conjoint. Et encore, ce nombre ne tient pas compte des suicides forcés, qui restent un fléau invisible.<br><br>Nous ne pouvons plus nous contenter d'effets d’annonce. Il nous faut enfin adopter un plan complet de prise en charge globale de ce problème, remettre à plat notre approche des violences intrafamiliales, des féminicides et de leurs conséquences.<br><br>Madame la Première ministre, vous rencontrez prochainement le Premier ministre espagnol. Nous devons nous inspirer concrètement de ce qui se fait et qui fonctionne dans ce pays. Allez-vous enfin accéder aux demandes des associations et investir à la hauteur nécessaire ? <i>(Applaudissements sur les bancs des groupes Écolo-NUPES, LFI-NUPES, SOC et GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le garde des sceaux, ministre de la justice.<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux, ministre de la justice. </i>Ne vous en déplaise, madame la députée, le premier responsable d'un féminicide est son auteur.<br><br><strong>Une députée du groupe RE .</strong> Absolument !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>J'ai rencontré les Espagnols : dans leur pays, que vous prenez en exemple, le nombre de féminicides ne descend pas en dessous d'un certain seuil. Bien sûr, cela ne nous condamne pas au fatalisme – nous ne sommes d'ailleurs pas fatalistes –, mais, là encore, il est facile de critiquer avec du blabla.<br><br>En matière de violences conjugales, le nombre de jugements a doublé entre 2017 et 2021 ; le nombre de condamnations est passé de 21 951 à 43 702 sur la même période. La réponse judiciaire est plus rapide ; les procédures de défèrement ont augmenté de 182 % ; le nombre d'évictions du conjoint en cas de défèrement, de 205 %. La réponse pénale est également ferme : les condamnations ont augmenté de 100 % entre 2017 et 2022 ; le nombre de TGD – téléphones grave danger – de 45 % ; les autres ordonnances de protection de 153 %.<br><br>Il est facile, madame, après avoir égrené les noms des victimes de ces féminicides terrifiants, d'affirmer que le Gouvernement ne fait rien. Ce n'est pas vrai. Hier, la Première ministre a fait deux annonces dans ce domaine, prouvant que nous voulons aller plus loin encore. Je finis avec un dernier chiffre : en 2006, dans ce pays, le nombre des féminicides s'élevait à 179.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 34,
+            "label": "MISC",
+            "text": "FÉMINICIDES"
+          },
+          {
+            "start_char": 69,
+            "end_char": 72,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 113,
+            "end_char": 151,
+            "label": "PER",
+            "text": "Mme Francesca Pasquini.<br><br><strong"
+          },
+          {
+            "start_char": 152,
+            "end_char": 174,
+            "label": "PER",
+            "text": "Mme Francesca Pasquini"
+          },
+          {
+            "start_char": 209,
+            "end_char": 223,
+            "label": "PER",
+            "text": "Pascale Martin"
+          },
+          {
+            "start_char": 315,
+            "end_char": 324,
+            "label": "PER",
+            "text": "Angélique"
+          },
+          {
+            "start_char": 326,
+            "end_char": 333,
+            "label": "PER",
+            "text": "Valérie"
+          },
+          {
+            "start_char": 335,
+            "end_char": 338,
+            "label": "LOC",
+            "text": "Eva"
+          },
+          {
+            "start_char": 340,
+            "end_char": 345,
+            "label": "PER",
+            "text": "Elena"
+          },
+          {
+            "start_char": 347,
+            "end_char": 356,
+            "label": "LOC",
+            "text": "Catherine"
+          },
+          {
+            "start_char": 358,
+            "end_char": 363,
+            "label": "MISC",
+            "text": "Manon"
+          },
+          {
+            "start_char": 365,
+            "end_char": 371,
+            "label": "LOC",
+            "text": "Mongia"
+          },
+          {
+            "start_char": 373,
+            "end_char": 382,
+            "label": "LOC",
+            "text": "Madgalena"
+          },
+          {
+            "start_char": 384,
+            "end_char": 389,
+            "label": "LOC",
+            "text": "Sihem"
+          },
+          {
+            "start_char": 391,
+            "end_char": 404,
+            "label": "LOC",
+            "text": "Marie-Camille"
+          },
+          {
+            "start_char": 406,
+            "end_char": 414,
+            "label": "LOC",
+            "text": "Laurence"
+          },
+          {
+            "start_char": 416,
+            "end_char": 422,
+            "label": "PER",
+            "text": "Marina"
+          },
+          {
+            "start_char": 424,
+            "end_char": 432,
+            "label": "PER",
+            "text": "Séverine"
+          },
+          {
+            "start_char": 434,
+            "end_char": 439,
+            "label": "PER",
+            "text": "Flora"
+          },
+          {
+            "start_char": 441,
+            "end_char": 445,
+            "label": "LOC",
+            "text": "Neda"
+          },
+          {
+            "start_char": 447,
+            "end_char": 454,
+            "label": "PER",
+            "text": "Valeria"
+          },
+          {
+            "start_char": 456,
+            "end_char": 462,
+            "label": "PER",
+            "text": "Sophie"
+          },
+          {
+            "start_char": 464,
+            "end_char": 469,
+            "label": "PER",
+            "text": "Laure"
+          },
+          {
+            "start_char": 471,
+            "end_char": 487,
+            "label": "PER",
+            "text": "Marie-Antoinette"
+          },
+          {
+            "start_char": 489,
+            "end_char": 494,
+            "label": "PER",
+            "text": "Assia"
+          },
+          {
+            "start_char": 496,
+            "end_char": 501,
+            "label": "LOC",
+            "text": "Elisa"
+          },
+          {
+            "start_char": 503,
+            "end_char": 510,
+            "label": "LOC",
+            "text": "Joëlle,"
+          },
+          {
+            "start_char": 547,
+            "end_char": 549,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 592,
+            "end_char": 614,
+            "label": "PER",
+            "text": "Mme Francesca Pasquini"
+          },
+          {
+            "start_char": 635,
+            "end_char": 640,
+            "label": "LOC",
+            "text": "Cathy"
+          },
+          {
+            "start_char": 642,
+            "end_char": 648,
+            "label": "LOC",
+            "text": "Fatiha"
+          },
+          {
+            "start_char": 649,
+            "end_char": 671,
+            "label": "LOC",
+            "text": "i>.</i><br><br><strong"
+          },
+          {
+            "start_char": 675,
+            "end_char": 696,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 712,
+            "end_char": 721,
+            "label": "MISC",
+            "text": "Monique !"
+          },
+          {
+            "start_char": 737,
+            "end_char": 759,
+            "label": "PER",
+            "text": "Mme Francesca Pasquini"
+          },
+          {
+            "start_char": 982,
+            "end_char": 984,
+            "label": "LOC",
+            "text": "j’"
+          },
+          {
+            "start_char": 1034,
+            "end_char": 1036,
+            "label": "PER",
+            "text": "m’"
+          },
+          {
+            "start_char": 1049,
+            "end_char": 1051,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 1114,
+            "end_char": 1116,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1143,
+            "end_char": 1145,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 1159,
+            "end_char": 1174,
+            "label": "MISC",
+            "text": "croître.<br><br"
+          },
+          {
+            "start_char": 1242,
+            "end_char": 1244,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1271,
+            "end_char": 1273,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1370,
+            "end_char": 1372,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 1469,
+            "end_char": 1475,
+            "label": "PER",
+            "text": "<i>(MM"
+          },
+          {
+            "start_char": 1477,
+            "end_char": 1491,
+            "label": "PER",
+            "text": "Ugo Bernalicis"
+          },
+          {
+            "start_char": 1495,
+            "end_char": 1507,
+            "label": "PER",
+            "text": "Paul Vannier"
+          },
+          {
+            "start_char": 1729,
+            "end_char": 1731,
+            "label": "LOC",
+            "text": "s’"
+          },
+          {
+            "start_char": 1748,
+            "end_char": 1751,
+            "label": "LOC",
+            "text": "qu’"
+          },
+          {
+            "start_char": 1904,
+            "end_char": 1922,
+            "label": "MISC",
+            "text": "invisible.<br><br>"
+          },
+          {
+            "start_char": 2154,
+            "end_char": 2174,
+            "label": "MISC",
+            "text": "conséquences.<br><br"
+          },
+          {
+            "start_char": 2175,
+            "end_char": 2193,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 2237,
+            "end_char": 2262,
+            "label": "MISC",
+            "text": "Premier ministre espagnol"
+          },
+          {
+            "start_char": 2493,
+            "end_char": 2504,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2506,
+            "end_char": 2515,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2517,
+            "end_char": 2520,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2524,
+            "end_char": 2554,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2555,
+            "end_char": 2558,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2599,
+            "end_char": 2601,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2623,
+            "end_char": 2661,
+            "label": "ORG",
+            "text": "ministre de la justice.<br><br><strong"
+          },
+          {
+            "start_char": 2665,
+            "end_char": 2676,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2921,
+            "end_char": 2932,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2996,
+            "end_char": 3005,
+            "label": "LOC",
+            "text": "Espagnols"
+          },
+          {
+            "start_char": 3270,
+            "end_char": 3284,
+            "label": "MISC",
+            "text": "blabla.<br><br"
+          },
+          {
+            "start_char": 3724,
+            "end_char": 3727,
+            "label": "MISC",
+            "text": "TGD"
+          },
+          {
+            "start_char": 3835,
+            "end_char": 3841,
+            "label": "PER",
+            "text": "madame"
+          },
+          {
+            "start_char": 3934,
+            "end_char": 3946,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3989,
+            "end_char": 3997,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4191,
+            "end_char": 4198,
+            "label": "LOC",
+            "text": "179.<br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 87,
+            "sentiment": "3 stars",
+            "score": 0.3018656373023987
+          },
+          {
+            "begin_char": 88,
+            "end_char": 175,
+            "sentiment": "3 stars",
+            "score": 0.26018086075782776
+          },
+          {
+            "begin_char": 176,
+            "end_char": 199,
+            "sentiment": "3 stars",
+            "score": 0.26140090823173523
+          },
+          {
+            "begin_char": 200,
+            "end_char": 223,
+            "sentiment": "4 stars",
+            "score": 0.3073146343231201
+          },
+          {
+            "begin_char": 224,
+            "end_char": 294,
+            "sentiment": "1 star",
+            "score": 0.42870229482650757
+          },
+          {
+            "begin_char": 294,
+            "end_char": 560,
+            "sentiment": "3 stars",
+            "score": 0.3281298577785492
+          },
+          {
+            "begin_char": 561,
+            "end_char": 576,
+            "sentiment": "5 stars",
+            "score": 0.3592650890350342
+          },
+          {
+            "begin_char": 576,
+            "end_char": 615,
+            "sentiment": "3 stars",
+            "score": 0.2940691411495209
+          },
+          {
+            "begin_char": 616,
+            "end_char": 721,
+            "sentiment": "2 stars",
+            "score": 0.3918691575527191
+          },
+          {
+            "begin_char": 721,
+            "end_char": 760,
+            "sentiment": "3 stars",
+            "score": 0.2940691411495209
+          },
+          {
+            "begin_char": 761,
+            "end_char": 770,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 770,
+            "end_char": 912,
+            "sentiment": "4 stars",
+            "score": 0.23386308550834656
+          },
+          {
+            "begin_char": 913,
+            "end_char": 978,
+            "sentiment": "5 stars",
+            "score": 0.6255508065223694
+          },
+          {
+            "begin_char": 979,
+            "end_char": 1095,
+            "sentiment": "3 stars",
+            "score": 0.2775968611240387
+          },
+          {
+            "begin_char": 1096,
+            "end_char": 1175,
+            "sentiment": "1 star",
+            "score": 0.3972844183444977
+          },
+          {
+            "begin_char": 1175,
+            "end_char": 1265,
+            "sentiment": "2 stars",
+            "score": 0.2384258508682251
+          },
+          {
+            "begin_char": 1266,
+            "end_char": 1348,
+            "sentiment": "4 stars",
+            "score": 0.28607553243637085
+          },
+          {
+            "begin_char": 1349,
+            "end_char": 1389,
+            "sentiment": "5 stars",
+            "score": 0.35015255212783813
+          },
+          {
+            "begin_char": 1390,
+            "end_char": 1468,
+            "sentiment": "5 stars",
+            "score": 0.3821900188922882
+          },
+          {
+            "begin_char": 1469,
+            "end_char": 1477,
+            "sentiment": "3 stars",
+            "score": 0.30280810594558716
+          },
+          {
+            "begin_char": 1477,
+            "end_char": 1535,
+            "sentiment": "3 stars",
+            "score": 0.3193713426589966
+          },
+          {
+            "begin_char": 1535,
+            "end_char": 1820,
+            "sentiment": "5 stars",
+            "score": 0.32968130707740784
+          },
+          {
+            "begin_char": 1821,
+            "end_char": 1922,
+            "sentiment": "2 stars",
+            "score": 0.4001154899597168
+          },
+          {
+            "begin_char": 1922,
+            "end_char": 1977,
+            "sentiment": "1 star",
+            "score": 0.37694281339645386
+          },
+          {
+            "begin_char": 1978,
+            "end_char": 2175,
+            "sentiment": "5 stars",
+            "score": 0.5487539172172546
+          },
+          {
+            "begin_char": 2175,
+            "end_char": 2263,
+            "sentiment": "5 stars",
+            "score": 0.3662501275539398
+          },
+          {
+            "begin_char": 2264,
+            "end_char": 2352,
+            "sentiment": "5 stars",
+            "score": 0.5911514163017273
+          },
+          {
+            "begin_char": 2353,
+            "end_char": 2445,
+            "sentiment": "5 stars",
+            "score": 0.7326382398605347
+          },
+          {
+            "begin_char": 2446,
+            "end_char": 2573,
+            "sentiment": "4 stars",
+            "score": 0.3363419473171234
+          },
+          {
+            "begin_char": 2574,
+            "end_char": 2739,
+            "sentiment": "4 stars",
+            "score": 0.31975746154785156
+          },
+          {
+            "begin_char": 2740,
+            "end_char": 2744,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2744,
+            "end_char": 2854,
+            "sentiment": "1 star",
+            "score": 0.267476886510849
+          },
+          {
+            "begin_char": 2854,
+            "end_char": 2902,
+            "sentiment": "5 stars",
+            "score": 0.6655709147453308
+          },
+          {
+            "begin_char": 2902,
+            "end_char": 2972,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 2973,
+            "end_char": 3122,
+            "sentiment": "2 stars",
+            "score": 0.25209474563598633
+          },
+          {
+            "begin_char": 3123,
+            "end_char": 3285,
+            "sentiment": "2 stars",
+            "score": 0.29045939445495605
+          },
+          {
+            "begin_char": 3285,
+            "end_char": 3373,
+            "sentiment": "4 stars",
+            "score": 0.3117995858192444
+          },
+          {
+            "begin_char": 3374,
+            "end_char": 3450,
+            "sentiment": "1 star",
+            "score": 0.2368200272321701
+          },
+          {
+            "begin_char": 3451,
+            "end_char": 3490,
+            "sentiment": "4 stars",
+            "score": 0.42516493797302246
+          },
+          {
+            "begin_char": 3491,
+            "end_char": 3543,
+            "sentiment": "3 stars",
+            "score": 0.28896260261535645
+          },
+          {
+            "begin_char": 3544,
+            "end_char": 3609,
+            "sentiment": "4 stars",
+            "score": 0.31095027923583984
+          },
+          {
+            "begin_char": 3610,
+            "end_char": 3710,
+            "sentiment": "4 stars",
+            "score": 0.3514384627342224
+          },
+          {
+            "begin_char": 3711,
+            "end_char": 3765,
+            "sentiment": "3 stars",
+            "score": 0.3023899793624878
+          },
+          {
+            "begin_char": 3766,
+            "end_char": 3820,
+            "sentiment": "5 stars",
+            "score": 0.24306176602840424
+          },
+          {
+            "begin_char": 3820,
+            "end_char": 3960,
+            "sentiment": "1 star",
+            "score": 0.5935284495353699
+          },
+          {
+            "begin_char": 3961,
+            "end_char": 3979,
+            "sentiment": "1 star",
+            "score": 0.5094887614250183
+          },
+          {
+            "begin_char": 3980,
+            "end_char": 4094,
+            "sentiment": "5 stars",
+            "score": 0.3437664806842804
+          },
+          {
+            "begin_char": 4095,
+            "end_char": 4203,
+            "sentiment": "1 star",
+            "score": 0.3158981204032898
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-03-08",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-03-08",
+        "pageJO": "2237",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

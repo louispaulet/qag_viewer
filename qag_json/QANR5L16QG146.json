@@ -1,0 +1,515 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG146",
+    "identifiant": {
+      "numero": "146",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PÉNURIE DE CARBURANTS"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA267766",
+        "mandatRef": "PM796980"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PÉNURIE DE CARBURANTS <a name=PG9></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Guy Bricout.<br><br><strong>M. Guy Bricout. </strong>Ma question s'adresse à M. Bruno Le Maire. Exaspérés, mes concitoyens ne comprendraient pas que, élu de la région des Hauts-de-France, je n'intervienne pas sur la pénurie de carburants à laquelle ils sont confrontés. Comme beaucoup de mes collègues, je ne cesse d'être contacté par de nombreux professionnels ou par tous ces particuliers qui font parfois des queues de plusieurs centaines de mètres et qui, arrivés à la pompe, constatent qu'il n'y a plus de carburant ou, quand ils en trouvent, qu'il a considérablement augmenté.<br><br>Cela s'ajoute à la hausse générale du coût de la vie, et ce sont encore les plus fragiles qui vont payer le prix fort. Que dire à celui qui doit prendre sa voiture pour se rendre sur son lieu de travail – et je ne parle pas des problèmes que cela occasionne pour les agriculteurs, les industriels et l'ensemble des acteurs économiques : ils font preuve pour l'instant de beaucoup de patience, mais jusqu'à quand ? Ils souffrent et en ont marre.<br><br>Déjà, le 5 octobre, la Fédération nationale des transporteurs routiers tirait la sonnette d'alarme. Chez moi dans le Caudrésis, toutes les stations étaient ou sont fermées, sauf pour quelques livraisons épisodiques. On nous dit qu'il y a du carburant dans les dépôts de la région : pourquoi, dans ce cas, ne pas le réquisitionner, comme vous l'avez évoqué ?<br><br>Même si on le respecte, le droit de grève ne devrait pas permettre d'entraver toute l'économie d'un pays. Comme souvent, vous avez sous-estimé les conséquences de cette situation pour les Français, estimant qu'elle s'améliorerait rapidement. Que comptez-vous faire pour qu'à l'avenir cela ne se reproduise plus ? Serez-vous un jour capable d'une vision à long terme ? Gouverner, c'est prévoir. <i>(Applaudissements sur les bancs du groupe LIOT.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Merci de vous faire, avec les mots que vous avez choisis, le porte-parole de tous ces Français anonymes qui sont les victimes de ce blocage, résultat d'une conception inacceptable du dialogue social, qui, au lieu de laisser sa chance à la discussion entre direction et syndicats, comme le veulent la démocratie et le paritarisme, a pris la forme d'un blocage préventif des dépôts.<br><br>Le Gouvernement a pris ses responsabilités, d'abord en laissant le temps au dialogue, puis en réquisitionnant les stocks stratégiques et en autorisant les camions à circuler pour réapprovisionner les différentes stations. Cela n'a malheureusement pas suffi à rétablir la situation car, dans le même temps, les achats de précaution neutralisaient ces réapprovisionnements.<br><br>Dans ces conditions, malgré les appels renouvelés au dialogue, nous sommes devant un état de fait dont la Première ministre a, il y a quelques minutes, tiré les conclusions, après avoir, hier, réuni autour d'elle les ministres concernés. Le fait que, dans une entreprise, les syndicats aient obtenu un accord majoritaire mais que rien n'ait bougé et que, dans l'autre, la grève continue pour faire pression sur le dialogue social est intolérable pour ces millions de Français dont vous vous êtes fait le porte-parole.<br><br>Je ne peux dès lors que répéter ses propos et redire qu'elle a demandé aux préfets d'engager les procédures qui permettront de réquisitionner les personnels bloquant les dépôts. Le dialogue, oui ; la discussion, oui ; le blocage, non. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Guy Bricout.<br><br><strong>M. Guy Bricout. </strong>Monsieur le ministre, j'ai beaucoup de respect pour vous, mais n'avez-vous pas déclaré, vendredi dernier, que la situation était vouée à s'améliorer ? Ça n'est pas le cas, et je vous invite à venir discuter avec ceux qui, pendant deux heures, font la queue pour arriver devant une pompe vide. Peut-être comprendrez-vous mieux leur détresse.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 30,
+            "label": "ORG",
+            "text": "PÉNURIE"
+          },
+          {
+            "start_char": 34,
+            "end_char": 44,
+            "label": "MISC",
+            "text": "CARBURANTS"
+          },
+          {
+            "start_char": 53,
+            "end_char": 60,
+            "label": "LOC",
+            "text": "PG9></a"
+          },
+          {
+            "start_char": 78,
+            "end_char": 81,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 122,
+            "end_char": 152,
+            "label": "PER",
+            "text": "M. Guy Bricout.<br><br><strong"
+          },
+          {
+            "start_char": 156,
+            "end_char": 167,
+            "label": "PER",
+            "text": "Guy Bricout"
+          },
+          {
+            "start_char": 202,
+            "end_char": 204,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 205,
+            "end_char": 219,
+            "label": "PER",
+            "text": "Bruno Le Maire"
+          },
+          {
+            "start_char": 296,
+            "end_char": 311,
+            "label": "LOC",
+            "text": "Hauts-de-France"
+          },
+          {
+            "start_char": 698,
+            "end_char": 714,
+            "label": "MISC",
+            "text": "augmenté.<br><br"
+          },
+          {
+            "start_char": 1153,
+            "end_char": 1171,
+            "label": "MISC",
+            "text": "marre.<br><br>Déjà"
+          },
+          {
+            "start_char": 1190,
+            "end_char": 1237,
+            "label": "ORG",
+            "text": "Fédération nationale des transporteurs routiers"
+          },
+          {
+            "start_char": 1284,
+            "end_char": 1293,
+            "label": "LOC",
+            "text": "Caudrésis"
+          },
+          {
+            "start_char": 1525,
+            "end_char": 1554,
+            "label": "MISC",
+            "text": "br><br>Même si on le respecte"
+          },
+          {
+            "start_char": 1720,
+            "end_char": 1728,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1845,
+            "end_char": 1850,
+            "label": "PER",
+            "text": "Serez"
+          },
+          {
+            "start_char": 1900,
+            "end_char": 1909,
+            "label": "PER",
+            "text": "Gouverner"
+          },
+          {
+            "start_char": 1971,
+            "end_char": 1996,
+            "label": "ORG",
+            "text": "LIOT.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1997,
+            "end_char": 2000,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2041,
+            "end_char": 2043,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2134,
+            "end_char": 2147,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 2243,
+            "end_char": 2248,
+            "label": "MISC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 2329,
+            "end_char": 2337,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2616,
+            "end_char": 2631,
+            "label": "MISC",
+            "text": "dépôts.<br><br>"
+          },
+          {
+            "start_char": 2981,
+            "end_char": 3009,
+            "label": "MISC",
+            "text": "réapprovisionnements.<br><br"
+          },
+          {
+            "start_char": 3116,
+            "end_char": 3124,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3477,
+            "end_char": 3485,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3520,
+            "end_char": 3535,
+            "label": "MISC",
+            "text": "parole.<br><br>"
+          },
+          {
+            "start_char": 3822,
+            "end_char": 3824,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3853,
+            "end_char": 3856,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3897,
+            "end_char": 3927,
+            "label": "PER",
+            "text": "M. Guy Bricout.<br><br><strong"
+          },
+          {
+            "start_char": 3931,
+            "end_char": 3942,
+            "label": "PER",
+            "text": "Guy Bricout"
+          },
+          {
+            "start_char": 3953,
+            "end_char": 3961,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 4104,
+            "end_char": 4106,
+            "label": "MISC",
+            "text": "Ça"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 44,
+            "sentiment": "1 star",
+            "score": 0.27810996770858765
+          },
+          {
+            "begin_char": 45,
+            "end_char": 96,
+            "sentiment": "3 stars",
+            "score": 0.3065018355846405
+          },
+          {
+            "begin_char": 97,
+            "end_char": 153,
+            "sentiment": "3 stars",
+            "score": 0.2757958471775055
+          },
+          {
+            "begin_char": 153,
+            "end_char": 168,
+            "sentiment": "4 stars",
+            "score": 0.3170073628425598
+          },
+          {
+            "begin_char": 169,
+            "end_char": 220,
+            "sentiment": "3 stars",
+            "score": 0.2703917920589447
+          },
+          {
+            "begin_char": 221,
+            "end_char": 394,
+            "sentiment": "1 star",
+            "score": 0.31131741404533386
+          },
+          {
+            "begin_char": 395,
+            "end_char": 715,
+            "sentiment": "5 stars",
+            "score": 0.39060166478157043
+          },
+          {
+            "begin_char": 715,
+            "end_char": 833,
+            "sentiment": "3 stars",
+            "score": 0.24040301144123077
+          },
+          {
+            "begin_char": 834,
+            "end_char": 1128,
+            "sentiment": "5 stars",
+            "score": 0.3432773947715759
+          },
+          {
+            "begin_char": 1129,
+            "end_char": 1266,
+            "sentiment": "5 stars",
+            "score": 0.32563790678977966
+          },
+          {
+            "begin_char": 1267,
+            "end_char": 1382,
+            "sentiment": "2 stars",
+            "score": 0.3614139258861542
+          },
+          {
+            "begin_char": 1383,
+            "end_char": 1524,
+            "sentiment": "2 stars",
+            "score": 0.22191870212554932
+          },
+          {
+            "begin_char": 1524,
+            "end_char": 1637,
+            "sentiment": "5 stars",
+            "score": 0.2510094940662384
+          },
+          {
+            "begin_char": 1638,
+            "end_char": 1773,
+            "sentiment": "3 stars",
+            "score": 0.3261925280094147
+          },
+          {
+            "begin_char": 1774,
+            "end_char": 1844,
+            "sentiment": "1 star",
+            "score": 0.35658276081085205
+          },
+          {
+            "begin_char": 1845,
+            "end_char": 1899,
+            "sentiment": "5 stars",
+            "score": 0.3879239857196808
+          },
+          {
+            "begin_char": 1900,
+            "end_char": 1925,
+            "sentiment": "4 stars",
+            "score": 0.32343316078186035
+          },
+          {
+            "begin_char": 1926,
+            "end_char": 2015,
+            "sentiment": "4 stars",
+            "score": 0.3018896281719208
+          },
+          {
+            "begin_char": 2016,
+            "end_char": 2238,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 2239,
+            "end_char": 2243,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2243,
+            "end_char": 2631,
+            "sentiment": "5 stars",
+            "score": 0.6352334022521973
+          },
+          {
+            "begin_char": 2631,
+            "end_char": 2852,
+            "sentiment": "4 stars",
+            "score": 0.4331090748310089
+          },
+          {
+            "begin_char": 2853,
+            "end_char": 3247,
+            "sentiment": "3 stars",
+            "score": 0.35899898409843445
+          },
+          {
+            "begin_char": 3248,
+            "end_char": 3535,
+            "sentiment": "1 star",
+            "score": 0.32148393988609314
+          },
+          {
+            "begin_char": 3535,
+            "end_char": 3712,
+            "sentiment": "5 stars",
+            "score": 0.48298171162605286
+          },
+          {
+            "begin_char": 3713,
+            "end_char": 3731,
+            "sentiment": "4 stars",
+            "score": 0.3454572260379791
+          },
+          {
+            "begin_char": 3732,
+            "end_char": 3752,
+            "sentiment": "3 stars",
+            "score": 0.3012184500694275
+          },
+          {
+            "begin_char": 3753,
+            "end_char": 3769,
+            "sentiment": "1 star",
+            "score": 0.3610358238220215
+          },
+          {
+            "begin_char": 3770,
+            "end_char": 3871,
+            "sentiment": "3 stars",
+            "score": 0.32598647475242615
+          },
+          {
+            "begin_char": 3872,
+            "end_char": 3928,
+            "sentiment": "3 stars",
+            "score": 0.2757958471775055
+          },
+          {
+            "begin_char": 3928,
+            "end_char": 3943,
+            "sentiment": "4 stars",
+            "score": 0.3170073628425598
+          },
+          {
+            "begin_char": 3944,
+            "end_char": 3953,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 3953,
+            "end_char": 4103,
+            "sentiment": "5 stars",
+            "score": 0.259222149848938
+          },
+          {
+            "begin_char": 4104,
+            "end_char": 4245,
+            "sentiment": "1 star",
+            "score": 0.6092114448547363
+          },
+          {
+            "begin_char": 4246,
+            "end_char": 4301,
+            "sentiment": "5 stars",
+            "score": 0.32631024718284607
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-12",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-12",
+        "pageJO": "3861",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

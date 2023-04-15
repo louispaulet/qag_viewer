@@ -1,0 +1,797 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG85",
+    "identifiant": {
+      "numero": "85",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "politique extérieure",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Crimes de guerre en Ukraine"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721158",
+        "mandatRef": "PM797460"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Europe et affaires étrangères",
+      "developpe": "Ministère de l’Europe et des affaires étrangères"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Europe et affaires étrangères",
+          "developpe": "Ministère de l’Europe et des affaires étrangères"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CRIMES DE GUERRE EN UKRAINE <a name=PG4></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Pieyre-Alexandre Anglade.<br><br><strong>M. Pieyre-Alexandre Anglade. </strong>Ma question s'adresse à Mme la ministre de l'Europe et des affaires étrangères. Le 24 août prochain, cela fera six mois que la guerre fait rage en Ukraine, près de nous, au cœur de l'Europe. Déjà six mois de violence, d'inhumanité et d'horreur. Six mois de combats acharnés et héroïques des Ukrainiens pour leur survie et leur liberté.<br><br>Face à cette guerre qui dure, j'exprime de nouveau toute notre solidarité avec l'Ukraine et répète que nous devons, avec nos partenaires européens, faire tout notre possible pour apporter à la résistance ukrainienne l'aide dont elle a besoin. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.)</i><br><br>J'appelle à ne jamais nous habituer à la guerre ni aux crimes de guerre alors que, ce week-end, nous apprenions que les prisonniers ukrainiens avaient été victimes de nouvelles exactions. Car cette guerre est totale, brutale, massive. Elle n'est pas ciblée, comme la propagande russe cherche à le faire croire. Ce sont des enfants, des femmes et des hommes innocents qui sont les victimes des bombes russes.<br><br><strong>M. Julien Odoul.</strong> Comme au Yémen !<br><br><strong>M. Pieyre-Alexandre Anglade. </strong>Or, en France, certains, à l'extrême droite, veulent encore réécrire l'histoire de cette guerre et inverser les responsabilités pour dédouaner Poutine et accuser l'Europe des maux que nous connaissons, en dénonçant les sanctions européennes contre la Russie - ils l'ont encore fait tout récemment. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.)</i><br><br><strong>M. Jocelyn Dessigny.</strong> C'est faux ! C'est l'extrême gauche qui dédouane Poutine !<br><br><strong>M. Pieyre-Alexandre Anglade. </strong>Ils mettent ainsi sur le même plan l’agresseur et l’agressé. Pire, ils se font les relais actifs et complaisants de la propagande russe : c'est une forme de trahison coupable des valeurs de la France et de celles de l’Europe. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i> Or seuls les faits comptent. En l'espèce, l’Ukraine n’est pas attaquée pour ce qu’elle fait : elle n’agresse ni ne menace personne. Elle est attaquée pour ce qu’elle est : un pays libre, démocratique et ouvert qui regarde vers l’Europe.<br><br>Dans ces moments si singuliers, chacun ressent le tournant de l’histoire que nous sommes en train de vivre. Poutine ne veut pas seulement rayer l’Ukraine de la carte : il veut redéfinir à sa manière l’ordre de sécurité sur notre continent. Les dirigeants européens ont saisi ce moment de bascule puisque, là où Poutine espérait la division, il a trouvé un front uni ; là où il pensait voir l’Europe se disloquer, il la voit se renforcer comme jamais. Poursuivons sur ce chemin pour renforcer l’autonomie stratégique, militaire, technologique et énergétique de l’Europe. C’est la seule voie pour défendre notre modèle dans ce siècle. Aussi, madame la ministre…<br><br><strong>Mme la présidente.</strong> Je vous remercie, monsieur le député. <i>(Applaudissements sur les bancs des groupes RE et Dem.)</i><br><br>La parole est à Mme la ministre de l’Europe et des affaires étrangères.<br><br><strong>Un député du groupe LR .</strong> C'est comme ça qu'on traite un député de La République en marche !<br><br><strong>M. Fabien Di Filippo.</strong> Pas grave, elle connaissait d'avance la question ! C'est sûrement elle qui l'avait écrite !<br><br><strong>Mme Catherine Colonna,</strong><i> ministre de l’Europe et des affaires étrangères. </i>Nous sommes en effet à un moment de bascule tout d'abord morale car la violence dont l'Ukraine est victime ne connaît aucune borne : les crimes de guerre, les exactions, les assassinats et les tortures dont les Ukrainiens sont victimes – parfois même ceux qui sont prisonniers, donc sous protection de la Russie – nous le rappellent, hélas, régulièrement. <br><br>C'est également une bascule sécuritaire. Ce conflit à nos portes concerne nos vies puisque ce sont notre défense, notre sécurité alimentaire et notre sécurité énergétique qui sont en jeu.<br><br>Face à cette réalité, dont la Russie de Vladimir Poutine a l'entière responsabilité, notre premier devoir est de soutenir l'Ukraine qui lutte pour sa souveraineté, pour son indépendance, en l'occurrence pour son destin européen et démocratique. Mais il s'agit aussi pour nous de défendre un ordre international fondé sur le droit, c'est-à-dire sur le respect de la charte des Nations unies, ce qui nous concerne tous. L'engagement de la France repose sur quatre piliers : un soutien politique, humanitaire et économique, qui passe par la reconnaissance du statut de candidat et des aides à hauteur de 2 milliards d'euros pour la France et de 9 milliards pour l'Union européenne ; un soutien militaire par la fourniture d'équipements qui démontrent leur utilité sur le théâtre des opérations, comme les canons dits CAESAR, pour camions équipés d'un système d'artillerie, ou encore les véhicules d'infanterie : la lutte contre l'impunité, notamment grâce à notre travail avec la Cour pénale internationale ; enfin, des sanctions strictes contre la Russie afin de perturber le financement de son effort de guerre. Cette politique, nous pouvons en être fiers en tant que Français, en particulier face à ceux qui voudraient, quelle indignité, placer la victime et le bourreau sur le même plan. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.)</i> <br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 29,
+            "label": "ORG",
+            "text": "CRIMES"
+          },
+          {
+            "start_char": 33,
+            "end_char": 39,
+            "label": "ORG",
+            "text": "GUERRE"
+          },
+          {
+            "start_char": 43,
+            "end_char": 50,
+            "label": "MISC",
+            "text": "UKRAINE"
+          },
+          {
+            "start_char": 59,
+            "end_char": 66,
+            "label": "MISC",
+            "text": "PG4></a"
+          },
+          {
+            "start_char": 84,
+            "end_char": 87,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 128,
+            "end_char": 171,
+            "label": "PER",
+            "text": "M. Pieyre-Alexandre Anglade.<br><br><strong"
+          },
+          {
+            "start_char": 172,
+            "end_char": 199,
+            "label": "PER",
+            "text": "M. Pieyre-Alexandre Anglade"
+          },
+          {
+            "start_char": 234,
+            "end_char": 237,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 241,
+            "end_char": 261,
+            "label": "ORG",
+            "text": "ministre de l'Europe"
+          },
+          {
+            "start_char": 357,
+            "end_char": 364,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 391,
+            "end_char": 399,
+            "label": "LOC",
+            "text": "l'Europe"
+          },
+          {
+            "start_char": 501,
+            "end_char": 511,
+            "label": "LOC",
+            "text": "Ukrainiens"
+          },
+          {
+            "start_char": 634,
+            "end_char": 641,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 849,
+            "end_char": 851,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 855,
+            "end_char": 907,
+            "label": "MISC",
+            "text": "Dem.)</i><br><br>J'appelle à ne jamais nous habituer"
+          },
+          {
+            "start_char": 1298,
+            "end_char": 1320,
+            "label": "PER",
+            "text": "Julien Odoul.</strong>"
+          },
+          {
+            "start_char": 1330,
+            "end_char": 1335,
+            "label": "LOC",
+            "text": "Yémen"
+          },
+          {
+            "start_char": 1398,
+            "end_char": 1404,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1534,
+            "end_char": 1541,
+            "label": "PER",
+            "text": "Poutine"
+          },
+          {
+            "start_char": 1553,
+            "end_char": 1561,
+            "label": "LOC",
+            "text": "l'Europe"
+          },
+          {
+            "start_char": 1642,
+            "end_char": 1648,
+            "label": "LOC",
+            "text": "Russie"
+          },
+          {
+            "start_char": 1742,
+            "end_char": 1744,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 1776,
+            "end_char": 1801,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 1852,
+            "end_char": 1859,
+            "label": "PER",
+            "text": "Poutine"
+          },
+          {
+            "start_char": 1965,
+            "end_char": 1967,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 2105,
+            "end_char": 2114,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2133,
+            "end_char": 2139,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2192,
+            "end_char": 2200,
+            "label": "ORG",
+            "text": "RE.)</i>"
+          },
+          {
+            "start_char": 2243,
+            "end_char": 2252,
+            "label": "PER",
+            "text": "l’Ukraine"
+          },
+          {
+            "start_char": 2253,
+            "end_char": 2255,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 2300,
+            "end_char": 2302,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 2428,
+            "end_char": 2430,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2507,
+            "end_char": 2509,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2553,
+            "end_char": 2560,
+            "label": "PER",
+            "text": "Poutine"
+          },
+          {
+            "start_char": 2589,
+            "end_char": 2598,
+            "label": "PER",
+            "text": "l’Ukraine"
+          },
+          {
+            "start_char": 2644,
+            "end_char": 2646,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 2756,
+            "end_char": 2763,
+            "label": "PER",
+            "text": "Poutine"
+          },
+          {
+            "start_char": 2837,
+            "end_char": 2843,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2937,
+            "end_char": 2939,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3007,
+            "end_char": 3013,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 3015,
+            "end_char": 3017,
+            "label": "MISC",
+            "text": "C’"
+          },
+          {
+            "start_char": 3120,
+            "end_char": 3146,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 3233,
+            "end_char": 3235,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3239,
+            "end_char": 3256,
+            "label": "MISC",
+            "text": "Dem.)</i><br><br>"
+          },
+          {
+            "start_char": 3272,
+            "end_char": 3275,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3293,
+            "end_char": 3299,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 3363,
+            "end_char": 3365,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 3418,
+            "end_char": 3431,
+            "label": "ORG",
+            "text": "La République"
+          },
+          {
+            "start_char": 3469,
+            "end_char": 3489,
+            "label": "PER",
+            "text": "Di Filippo.</strong>"
+          },
+          {
+            "start_char": 3597,
+            "end_char": 3610,
+            "label": "PER",
+            "text": "Mme Catherine"
+          },
+          {
+            "start_char": 3646,
+            "end_char": 3652,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 3772,
+            "end_char": 3779,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 3896,
+            "end_char": 3906,
+            "label": "LOC",
+            "text": "Ukrainiens"
+          },
+          {
+            "start_char": 3990,
+            "end_char": 3996,
+            "label": "LOC",
+            "text": "Russie"
+          },
+          {
+            "start_char": 4274,
+            "end_char": 4280,
+            "label": "LOC",
+            "text": "Russie"
+          },
+          {
+            "start_char": 4284,
+            "end_char": 4300,
+            "label": "PER",
+            "text": "Vladimir Poutine"
+          },
+          {
+            "start_char": 4368,
+            "end_char": 4375,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 4609,
+            "end_char": 4619,
+            "label": "MISC",
+            "text": "charte des"
+          },
+          {
+            "start_char": 4620,
+            "end_char": 4633,
+            "label": "ORG",
+            "text": "Nations unies"
+          },
+          {
+            "start_char": 4678,
+            "end_char": 4687,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 4870,
+            "end_char": 4879,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 4905,
+            "end_char": 4921,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 5058,
+            "end_char": 5064,
+            "label": "MISC",
+            "text": "CAESAR"
+          },
+          {
+            "start_char": 5221,
+            "end_char": 5247,
+            "label": "ORG",
+            "text": "Cour pénale internationale"
+          },
+          {
+            "start_char": 5290,
+            "end_char": 5296,
+            "label": "LOC",
+            "text": "Russie"
+          },
+          {
+            "start_char": 5411,
+            "end_char": 5419,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5586,
+            "end_char": 5588,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5592,
+            "end_char": 5600,
+            "label": "MISC",
+            "text": "Dem.)</i"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 102,
+            "sentiment": "3 stars",
+            "score": 0.3052111566066742
+          },
+          {
+            "begin_char": 103,
+            "end_char": 200,
+            "sentiment": "4 stars",
+            "score": 0.2524392902851105
+          },
+          {
+            "begin_char": 201,
+            "end_char": 289,
+            "sentiment": "4 stars",
+            "score": 0.2914849519729614
+          },
+          {
+            "begin_char": 290,
+            "end_char": 400,
+            "sentiment": "5 stars",
+            "score": 0.5004972815513611
+          },
+          {
+            "begin_char": 401,
+            "end_char": 454,
+            "sentiment": "1 star",
+            "score": 0.768995463848114
+          },
+          {
+            "begin_char": 455,
+            "end_char": 795,
+            "sentiment": "5 stars",
+            "score": 0.75116366147995
+          },
+          {
+            "begin_char": 796,
+            "end_char": 1059,
+            "sentiment": "5 stars",
+            "score": 0.4511045217514038
+          },
+          {
+            "begin_char": 1060,
+            "end_char": 1106,
+            "sentiment": "5 stars",
+            "score": 0.6809758543968201
+          },
+          {
+            "begin_char": 1107,
+            "end_char": 1182,
+            "sentiment": "1 star",
+            "score": 0.5731887221336365
+          },
+          {
+            "begin_char": 1183,
+            "end_char": 1320,
+            "sentiment": "4 stars",
+            "score": 0.23844864964485168
+          },
+          {
+            "begin_char": 1321,
+            "end_char": 1337,
+            "sentiment": "5 stars",
+            "score": 0.4638948142528534
+          },
+          {
+            "begin_char": 1337,
+            "end_char": 1381,
+            "sentiment": "3 stars",
+            "score": 0.3052014708518982
+          },
+          {
+            "begin_char": 1382,
+            "end_char": 1391,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1391,
+            "end_char": 1688,
+            "sentiment": "5 stars",
+            "score": 0.5366672873497009
+          },
+          {
+            "begin_char": 1689,
+            "end_char": 1802,
+            "sentiment": "3 stars",
+            "score": 0.38070371747016907
+          },
+          {
+            "begin_char": 1803,
+            "end_char": 1815,
+            "sentiment": "1 star",
+            "score": 0.6571556329727173
+          },
+          {
+            "begin_char": 1816,
+            "end_char": 1861,
+            "sentiment": "1 star",
+            "score": 0.41764554381370544
+          },
+          {
+            "begin_char": 1861,
+            "end_char": 1905,
+            "sentiment": "3 stars",
+            "score": 0.3052014708518982
+          },
+          {
+            "begin_char": 1906,
+            "end_char": 1975,
+            "sentiment": "1 star",
+            "score": 0.46530014276504517
+          },
+          {
+            "begin_char": 1976,
+            "end_char": 2140,
+            "sentiment": "1 star",
+            "score": 0.7651783227920532
+          },
+          {
+            "begin_char": 2141,
+            "end_char": 2200,
+            "sentiment": "3 stars",
+            "score": 0.2986641526222229
+          },
+          {
+            "begin_char": 2201,
+            "end_char": 2229,
+            "sentiment": "1 star",
+            "score": 0.2752845287322998
+          },
+          {
+            "begin_char": 2230,
+            "end_char": 2332,
+            "sentiment": "5 stars",
+            "score": 0.5023156404495239
+          },
+          {
+            "begin_char": 2333,
+            "end_char": 2552,
+            "sentiment": "5 stars",
+            "score": 0.5640552043914795
+          },
+          {
+            "begin_char": 2553,
+            "end_char": 2684,
+            "sentiment": "5 stars",
+            "score": 0.34628742933273315
+          },
+          {
+            "begin_char": 2685,
+            "end_char": 2812,
+            "sentiment": "4 stars",
+            "score": 0.37925949692726135
+          },
+          {
+            "begin_char": 2813,
+            "end_char": 2895,
+            "sentiment": "5 stars",
+            "score": 0.6484365463256836
+          },
+          {
+            "begin_char": 2896,
+            "end_char": 3014,
+            "sentiment": "5 stars",
+            "score": 0.5705969929695129
+          },
+          {
+            "begin_char": 3015,
+            "end_char": 3077,
+            "sentiment": "5 stars",
+            "score": 0.5174964666366577
+          },
+          {
+            "begin_char": 3078,
+            "end_char": 3147,
+            "sentiment": "5 stars",
+            "score": 0.26565656065940857
+          },
+          {
+            "begin_char": 3148,
+            "end_char": 3185,
+            "sentiment": "5 stars",
+            "score": 0.3782566785812378
+          },
+          {
+            "begin_char": 3186,
+            "end_char": 3256,
+            "sentiment": "3 stars",
+            "score": 0.31908801198005676
+          },
+          {
+            "begin_char": 3256,
+            "end_char": 3343,
+            "sentiment": "5 stars",
+            "score": 0.28364109992980957
+          },
+          {
+            "begin_char": 3343,
+            "end_char": 3376,
+            "sentiment": "3 stars",
+            "score": 0.31307822465896606
+          },
+          {
+            "begin_char": 3377,
+            "end_char": 3443,
+            "sentiment": "1 star",
+            "score": 0.530648946762085
+          },
+          {
+            "begin_char": 3443,
+            "end_char": 3468,
+            "sentiment": "3 stars",
+            "score": 0.3095281720161438
+          },
+          {
+            "begin_char": 3469,
+            "end_char": 3489,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 3490,
+            "end_char": 3540,
+            "sentiment": "3 stars",
+            "score": 0.23600518703460693
+          },
+          {
+            "begin_char": 3541,
+            "end_char": 3581,
+            "sentiment": "1 star",
+            "score": 0.3439546525478363
+          },
+          {
+            "begin_char": 3581,
+            "end_char": 3680,
+            "sentiment": "3 stars",
+            "score": 0.31547561287879944
+          },
+          {
+            "begin_char": 3681,
+            "end_char": 4040,
+            "sentiment": "5 stars",
+            "score": 0.40451309084892273
+          },
+          {
+            "begin_char": 4041,
+            "end_char": 4089,
+            "sentiment": "4 stars",
+            "score": 0.4218612015247345
+          },
+          {
+            "begin_char": 4090,
+            "end_char": 4488,
+            "sentiment": "5 stars",
+            "score": 0.5946293473243713
+          },
+          {
+            "begin_char": 4489,
+            "end_char": 4661,
+            "sentiment": "5 stars",
+            "score": 0.5943083763122559
+          },
+          {
+            "begin_char": 4662,
+            "end_char": 4923,
+            "sentiment": "5 stars",
+            "score": 0.5044822096824646
+          },
+          {
+            "begin_char": 4924,
+            "end_char": 5249,
+            "sentiment": "4 stars",
+            "score": 0.46273094415664673
+          },
+          {
+            "begin_char": 5250,
+            "end_char": 5354,
+            "sentiment": "4 stars",
+            "score": 0.3581083416938782
+          },
+          {
+            "begin_char": 5355,
+            "end_char": 5532,
+            "sentiment": "5 stars",
+            "score": 0.574871301651001
+          },
+          {
+            "begin_char": 5533,
+            "end_char": 5601,
+            "sentiment": "3 stars",
+            "score": 0.31790122389793396
+          },
+          {
+            "begin_char": 5602,
+            "end_char": 5610,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3304",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

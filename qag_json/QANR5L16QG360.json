@@ -1,0 +1,827 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG360",
+    "identifiant": {
+      "numero": "360",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "fournitures d'électricité"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA717379",
+        "mandatRef": "PM797265"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Première ministre",
+      "developpe": "Première ministre"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Première ministre",
+          "developpe": "Première ministre"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> FOURNITURE D'ÉLECTRICITÉ <a name=PG2></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Sylvain Maillard.<br><br><strong>M. Sylvain Maillard. </strong>Madame la Première ministre, depuis quelques jours, nous sentons une inquiétude monter chez nos concitoyens. Nous observons deux attitudes : d’une part, les actions prises par le Gouvernement pour parer aux difficultés énergétiques,…<br><br><strong>M. Sébastien Jumel.</strong> Zéro !<br><br><strong>M. Sylvain Maillard. </strong>…et, d’autre part, des expressions alarmistes qui voudraient entretenir la peur.<br><br><strong>M. Sébastien Jumel.</strong> C'est vous !<br><br><strong>M. Sylvain Maillard. </strong>En effet, il y a quelques jours, le Gouvernement a donné instruction aux préfets de département de préparer des scénarios de délestage en cas de tensions graves sur le réseau d’électricité. <i>(Exclamations sur les bancs du groupe GDR-NUPES.)</i> Cette mesure vise à prévenir tout risque de coupure généralisée en janvier car cela perturberait trop fortement le fonctionnement de notre pays. Nos concitoyens, les entreprises et les industries effectuent depuis plusieurs semaines des efforts de sobriété pour rationaliser notre consommation d’énergie.<br><br><strong>M. Alexandre Holroyd.</strong> Absolument !<br><br><strong>M. Sylvain Maillard. </strong>Pourtant, dès l’annonce de cette mesure de précaution, certains, parmi ceux qui siègent dans cet hémicycle, se sont acharnés à propager la peur. Il faut le dire et le redire autant que faire se peut : ces informations sont fausses. Nous savons tous que la politique de sobriété devrait nous permettre de passer l'hiver sans coupure d’électricité. <i>(Applaudissements sur quelques bancs du groupe RE.) </i>D’ailleurs, le scénario d’un délestage au mois de décembre a été écarté par RTE (Réseau de transport d'électricité).<br><br><strong>M. Patrick Hetzel.</strong> C'est la méthode Coué !<br><br><strong>M. Sylvain Maillard. </strong>Mais, pour certains groupes politiques, la capacité à prévoir et à anticiper tout scénario serait déjà une faute. Notre majorité, je vous le dis, assume de tout faire pour protéger les hôpitaux, les écoles et l’ensemble des services publics. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>M. Hubert Wulfranc.</strong> Ça fait six ans que vous assumez ! C'est de la merde !<br><br><strong>M. Sylvain Maillard. </strong>Les faits sont là : malgré la guerre en Ukraine qui affecte les systèmes énergétiques de l’ensemble de l’Europe, nous tenons et continuerons de tenir. <i>(Exclamations sur quelques bancs des groupes LR et RN.)</i> Aussi, madame la Première ministre, pour dissiper toute fake news à ce sujet, pouvez-vous nous dire quelles mesures sont prévues pour ces délestages et comment le Gouvernement les anticipera ? (Applaudissements sur les bancs du groupe RE.)<br><br><strong>Mme la présidente. </strong>La parole est à Mme la Première ministre.<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre. </i>Votre question porte sur un sujet présent à l'esprit de beaucoup de Français : quel sera l'impact de la situation énergétique sur sa vie quotidienne ? Cette question, les Français se la posent sur leur pouvoir d'achat, sur les enjeux écologiques mais aussi sur notre sécurité d'approvisionnement. Je peux vous assurer que le Gouvernement est mobilisé depuis des mois et que cette mobilisation est conduite avec ordre, méthode et anticipation.<br><br>Se mobiliser, c'est d'abord s'appuyer sur EDF. Depuis sa prise de fonctions, j'ai eu plusieurs fois contact avec Luc Rémont, le nouveau président de l'entreprise ; il partage la détermination du Gouvernement pour assurer une production d'électricité maximale de l'opérateur national, en particulier grâce au redémarrage des réacteurs nucléaires. Partout où cela est possible dans des conditions de sécurité optimales, le calendrier a été accéléré, et les mois de décembre et de janvier verront le redémarrage de nombreuses tranches nucléaires. J'ai confiance en cette entreprise et en ses agents, qui n'ont jamais manqué à notre pays. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.)</i><br><br>Se mobiliser, c'est aussi travailler à identifier tous les gisements de production et d'économies possibles dans les périodes où la tension sera maximale sur le réseau. C'est également partager avec nos concitoyens l'impératif de sobriété, ce que le Président de la République a fait dès l'été dernier. Les Français ont parfaitement compris cette nécessité, puisque la consommation a baissé de 7 % à météo identique.<br><br>Se mobiliser passe également par la solidarité européenne. Nous avons sécurisé nos interconnexions avec nos voisins ; c'est le sens de l'accord que j'ai signé avec le chancelier allemand il y a dix jours.<br><br>Se mobiliser, c'est se donner les moyens de réagir en cas de tension accrue, par exemple lors d'un épisode de températures exceptionnellement rigoureuses. C'est pour cela que nous avons conçu, avec RTE, l'outil Écowatt qui permet d'anticiper la situation dans les trois jours à venir. Il ne s'agit pas d'un signal d'alarme mais d'un outil de mobilisation individuelle et collective. En effet, ce sont les gestes simples qui seront les plus efficaces en cas de situation critique.<br><br>Enfin, anticiper, c'est examiner tous les scénarios, fussent-ils inédits ou improbables. Bien évidemment, les préfets, en liaison avec les collectivités territoriales et les associations, étudient comment protéger les Français, notamment les plus vulnérables. Contrairement à ce que des propos maladroits ont pu laisser penser, les hôpitaux resteront alimentés en électricité et les personnes malades à domicile seront prises en charge. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>M. Hubert Wulfranc.</strong> Il y a intérêt !<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre . </i>Notre engagement de tous les instants est de mobiliser chacun pour assurer la sécurité d'approvisionnement en électricité. Notre responsabilité est d'élaborer tous les scénarios, sans faux-semblants et sans agiter de fausses peurs. <i>(Applaudissements sur les bancs des groupes RE et Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 47,
+            "label": "MISC",
+            "text": "FOURNITURE D'ÉLECTRICITÉ"
+          },
+          {
+            "start_char": 56,
+            "end_char": 63,
+            "label": "PER",
+            "text": "PG2></a"
+          },
+          {
+            "start_char": 81,
+            "end_char": 84,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 125,
+            "end_char": 160,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.<br><br><strong"
+          },
+          {
+            "start_char": 161,
+            "end_char": 180,
+            "label": "PER",
+            "text": "M. Sylvain Maillard"
+          },
+          {
+            "start_char": 191,
+            "end_char": 209,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 370,
+            "end_char": 382,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 443,
+            "end_char": 473,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong> Zéro"
+          },
+          {
+            "start_char": 491,
+            "end_char": 510,
+            "label": "PER",
+            "text": "M. Sylvain Maillard"
+          },
+          {
+            "start_char": 620,
+            "end_char": 645,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 674,
+            "end_char": 693,
+            "label": "PER",
+            "text": "M. Sylvain Maillard"
+          },
+          {
+            "start_char": 740,
+            "end_char": 752,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 879,
+            "end_char": 881,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 935,
+            "end_char": 949,
+            "label": "ORG",
+            "text": "GDR-NUPES.)</i"
+          },
+          {
+            "start_char": 1245,
+            "end_char": 1247,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1274,
+            "end_char": 1301,
+            "label": "PER",
+            "text": "Alexandre Holroyd.</strong>"
+          },
+          {
+            "start_char": 1330,
+            "end_char": 1349,
+            "label": "PER",
+            "text": "M. Sylvain Maillard"
+          },
+          {
+            "start_char": 1374,
+            "end_char": 1376,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 1692,
+            "end_char": 1694,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1750,
+            "end_char": 1759,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 1842,
+            "end_char": 1845,
+            "label": "PER",
+            "text": "RTE"
+          },
+          {
+            "start_char": 1901,
+            "end_char": 1925,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 1943,
+            "end_char": 1949,
+            "label": "MISC",
+            "text": "Coué !"
+          },
+          {
+            "start_char": 1965,
+            "end_char": 1984,
+            "label": "PER",
+            "text": "M. Sylvain Maillard"
+          },
+          {
+            "start_char": 2204,
+            "end_char": 2206,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 2282,
+            "end_char": 2305,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2306,
+            "end_char": 2309,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 2335,
+            "end_char": 2337,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 2405,
+            "end_char": 2424,
+            "label": "PER",
+            "text": "M. Sylvain Maillard"
+          },
+          {
+            "start_char": 2475,
+            "end_char": 2482,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 2524,
+            "end_char": 2526,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2538,
+            "end_char": 2540,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 2540,
+            "end_char": 2546,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2634,
+            "end_char": 2636,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2812,
+            "end_char": 2824,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2843,
+            "end_char": 2859,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 2884,
+            "end_char": 2903,
+            "label": "ORG",
+            "text": "RE.)<br><br><strong"
+          },
+          {
+            "start_char": 2904,
+            "end_char": 2907,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2948,
+            "end_char": 2963,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 2989,
+            "end_char": 3002,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 3113,
+            "end_char": 3121,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3216,
+            "end_char": 3224,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3370,
+            "end_char": 3382,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3537,
+            "end_char": 3540,
+            "label": "ORG",
+            "text": "EDF"
+          },
+          {
+            "start_char": 3608,
+            "end_char": 3618,
+            "label": "PER",
+            "text": "Luc Rémont"
+          },
+          {
+            "start_char": 3690,
+            "end_char": 3702,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4183,
+            "end_char": 4185,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4189,
+            "end_char": 4218,
+            "label": "MISC",
+            "text": "Dem.)</i><br><br>Se mobiliser"
+          },
+          {
+            "start_char": 4456,
+            "end_char": 4482,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4513,
+            "end_char": 4521,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4828,
+            "end_char": 4841,
+            "label": "MISC",
+            "text": "jours.<br><br"
+          },
+          {
+            "start_char": 5040,
+            "end_char": 5043,
+            "label": "PER",
+            "text": "RTE"
+          },
+          {
+            "start_char": 5053,
+            "end_char": 5060,
+            "label": "LOC",
+            "text": "Écowatt"
+          },
+          {
+            "start_char": 5312,
+            "end_char": 5334,
+            "label": "MISC",
+            "text": "critique.<br><br>Enfin"
+          },
+          {
+            "start_char": 5547,
+            "end_char": 5555,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5811,
+            "end_char": 5834,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5835,
+            "end_char": 5838,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 5838,
+            "end_char": 5862,
+            "label": "PER",
+            "text": "Hubert Wulfranc.</strong"
+          },
+          {
+            "start_char": 5896,
+            "end_char": 5909,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 6232,
+            "end_char": 6234,
+            "label": "MISC",
+            "text": "RE"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 64,
+            "sentiment": "3 stars",
+            "score": 0.28340837359428406
+          },
+          {
+            "begin_char": 65,
+            "end_char": 99,
+            "sentiment": "4 stars",
+            "score": 0.2742326259613037
+          },
+          {
+            "begin_char": 100,
+            "end_char": 181,
+            "sentiment": "3 stars",
+            "score": 0.2612355649471283
+          },
+          {
+            "begin_char": 182,
+            "end_char": 299,
+            "sentiment": "5 stars",
+            "score": 0.3520888388156891
+          },
+          {
+            "begin_char": 300,
+            "end_char": 475,
+            "sentiment": "1 star",
+            "score": 0.7834793329238892
+          },
+          {
+            "begin_char": 475,
+            "end_char": 511,
+            "sentiment": "3 stars",
+            "score": 0.2793065905570984
+          },
+          {
+            "begin_char": 512,
+            "end_char": 645,
+            "sentiment": "2 stars",
+            "score": 0.3803902566432953
+          },
+          {
+            "begin_char": 646,
+            "end_char": 694,
+            "sentiment": "1 star",
+            "score": 0.227084219455719
+          },
+          {
+            "begin_char": 695,
+            "end_char": 704,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 704,
+            "end_char": 893,
+            "sentiment": "4 stars",
+            "score": 0.36294761300086975
+          },
+          {
+            "begin_char": 894,
+            "end_char": 950,
+            "sentiment": "4 stars",
+            "score": 0.2694880962371826
+          },
+          {
+            "begin_char": 951,
+            "end_char": 1095,
+            "sentiment": "4 stars",
+            "score": 0.2929864823818207
+          },
+          {
+            "begin_char": 1096,
+            "end_char": 1301,
+            "sentiment": "5 stars",
+            "score": 0.4245448410511017
+          },
+          {
+            "begin_char": 1302,
+            "end_char": 1314,
+            "sentiment": "5 stars",
+            "score": 0.8325722813606262
+          },
+          {
+            "begin_char": 1314,
+            "end_char": 1350,
+            "sentiment": "3 stars",
+            "score": 0.2793065905570984
+          },
+          {
+            "begin_char": 1351,
+            "end_char": 1504,
+            "sentiment": "2 stars",
+            "score": 0.24736826121807098
+          },
+          {
+            "begin_char": 1505,
+            "end_char": 1591,
+            "sentiment": "1 star",
+            "score": 0.5724411606788635
+          },
+          {
+            "begin_char": 1592,
+            "end_char": 1706,
+            "sentiment": "5 stars",
+            "score": 0.5352616906166077
+          },
+          {
+            "begin_char": 1707,
+            "end_char": 1925,
+            "sentiment": "3 stars",
+            "score": 0.3715449571609497
+          },
+          {
+            "begin_char": 1926,
+            "end_char": 1949,
+            "sentiment": "1 star",
+            "score": 0.2436540424823761
+          },
+          {
+            "begin_char": 1949,
+            "end_char": 1985,
+            "sentiment": "3 stars",
+            "score": 0.2793065905570984
+          },
+          {
+            "begin_char": 1986,
+            "end_char": 2108,
+            "sentiment": "3 stars",
+            "score": 0.37254539132118225
+          },
+          {
+            "begin_char": 2109,
+            "end_char": 2236,
+            "sentiment": "5 stars",
+            "score": 0.4889751374721527
+          },
+          {
+            "begin_char": 2237,
+            "end_char": 2309,
+            "sentiment": "3 stars",
+            "score": 0.3421490788459778
+          },
+          {
+            "begin_char": 2309,
+            "end_char": 2334,
+            "sentiment": "3 stars",
+            "score": 0.2824738025665283
+          },
+          {
+            "begin_char": 2335,
+            "end_char": 2369,
+            "sentiment": "5 stars",
+            "score": 0.5915990471839905
+          },
+          {
+            "begin_char": 2370,
+            "end_char": 2389,
+            "sentiment": "1 star",
+            "score": 0.969692587852478
+          },
+          {
+            "begin_char": 2389,
+            "end_char": 2425,
+            "sentiment": "3 stars",
+            "score": 0.2793065905570984
+          },
+          {
+            "begin_char": 2426,
+            "end_char": 2435,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2435,
+            "end_char": 2585,
+            "sentiment": "5 stars",
+            "score": 0.6012759208679199
+          },
+          {
+            "begin_char": 2586,
+            "end_char": 2841,
+            "sentiment": "5 stars",
+            "score": 0.31883928179740906
+          },
+          {
+            "begin_char": 2842,
+            "end_char": 2843,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 2843,
+            "end_char": 2922,
+            "sentiment": "4 stars",
+            "score": 0.3677564263343811
+          },
+          {
+            "begin_char": 2923,
+            "end_char": 3021,
+            "sentiment": "3 stars",
+            "score": 0.28298741579055786
+          },
+          {
+            "begin_char": 3022,
+            "end_char": 3040,
+            "sentiment": "4 stars",
+            "score": 0.3165116310119629
+          },
+          {
+            "begin_char": 3041,
+            "end_char": 3045,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3045,
+            "end_char": 3195,
+            "sentiment": "4 stars",
+            "score": 0.37992483377456665
+          },
+          {
+            "begin_char": 3196,
+            "end_char": 3341,
+            "sentiment": "5 stars",
+            "score": 0.3964584767818451
+          },
+          {
+            "begin_char": 3342,
+            "end_char": 3541,
+            "sentiment": "5 stars",
+            "score": 0.6762958765029907
+          },
+          {
+            "begin_char": 3542,
+            "end_char": 3658,
+            "sentiment": "4 stars",
+            "score": 0.39219263195991516
+          },
+          {
+            "begin_char": 3659,
+            "end_char": 3840,
+            "sentiment": "5 stars",
+            "score": 0.4417065978050232
+          },
+          {
+            "begin_char": 3841,
+            "end_char": 4038,
+            "sentiment": "5 stars",
+            "score": 0.5666509866714478
+          },
+          {
+            "begin_char": 4039,
+            "end_char": 4129,
+            "sentiment": "5 stars",
+            "score": 0.7416609525680542
+          },
+          {
+            "begin_char": 4130,
+            "end_char": 4374,
+            "sentiment": "4 stars",
+            "score": 0.41771572828292847
+          },
+          {
+            "begin_char": 4375,
+            "end_char": 4508,
+            "sentiment": "5 stars",
+            "score": 0.5349304676055908
+          },
+          {
+            "begin_char": 4509,
+            "end_char": 4688,
+            "sentiment": "5 stars",
+            "score": 0.4666784107685089
+          },
+          {
+            "begin_char": 4689,
+            "end_char": 4747,
+            "sentiment": "5 stars",
+            "score": 0.45337867736816406
+          },
+          {
+            "begin_char": 4748,
+            "end_char": 4996,
+            "sentiment": "4 stars",
+            "score": 0.4503735899925232
+          },
+          {
+            "begin_char": 4997,
+            "end_char": 5126,
+            "sentiment": "5 stars",
+            "score": 0.5758469104766846
+          },
+          {
+            "begin_char": 5127,
+            "end_char": 5224,
+            "sentiment": "4 stars",
+            "score": 0.38335752487182617
+          },
+          {
+            "begin_char": 5225,
+            "end_char": 5417,
+            "sentiment": "5 stars",
+            "score": 0.4050416648387909
+          },
+          {
+            "begin_char": 5418,
+            "end_char": 5588,
+            "sentiment": "4 stars",
+            "score": 0.4028908908367157
+          },
+          {
+            "begin_char": 5589,
+            "end_char": 5765,
+            "sentiment": "5 stars",
+            "score": 0.46122342348098755
+          },
+          {
+            "begin_char": 5766,
+            "end_char": 5838,
+            "sentiment": "3 stars",
+            "score": 0.3421490788459778
+          },
+          {
+            "begin_char": 5838,
+            "end_char": 5863,
+            "sentiment": "3 stars",
+            "score": 0.2824738025665283
+          },
+          {
+            "begin_char": 5864,
+            "end_char": 5880,
+            "sentiment": "1 star",
+            "score": 0.24827727675437927
+          },
+          {
+            "begin_char": 5880,
+            "end_char": 5948,
+            "sentiment": "3 stars",
+            "score": 0.3141862452030182
+          },
+          {
+            "begin_char": 5949,
+            "end_char": 5953,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5953,
+            "end_char": 6075,
+            "sentiment": "5 stars",
+            "score": 0.5514219403266907
+          },
+          {
+            "begin_char": 6076,
+            "end_char": 6184,
+            "sentiment": "5 stars",
+            "score": 0.5464370846748352
+          },
+          {
+            "begin_char": 6185,
+            "end_char": 6255,
+            "sentiment": "3 stars",
+            "score": 0.31892722845077515
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-07",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-07",
+        "pageJO": "6557",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG250",
+    "identifiant": {
+      "numero": "250",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "sectes et sociétés secrètes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Rapport de la miliviludes"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA605694",
+        "mandatRef": "PM796401"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Citoyenneté",
+      "developpe": "Secrétariat d’État auprès du ministre de l’intérieur et des outre-mer, chargé de la citoyenneté"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Citoyenneté",
+          "developpe": "Secrétariat d’État auprès du ministre de l’intérieur et des outre-mer, chargé de la citoyenneté"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RAPPORT DE LA MIVILUDES <a name=PG4></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Olivier Falorni.<br><br><strong>M. Olivier Falorni. </strong>Madame la secrétaire d'État chargée de la citoyenneté, le séparatisme est un danger majeur pour notre République : le séparatisme islamiste bien sûr, mais aussi le séparatisme sectaire. À cet égard, le rapport de la mission interministérielle de vigilance et de lutte contre les dérives sectaires (Miviludes) qui vient d'être publié doit tous nous alerter : les signalements de dérives sectaires ont augmenté de 33 % en un an !<br><br>Ces signalements concernent ce que j'appelle les empires de l'emprise, c'est-à-dire des sectes multinationales qui sont de véritables États dans l'État, à l'instar de la scientologie, et qui ne cessent de développer, en France comme ailleurs, leur vaste entreprise d'asservissement mental et financier. Mais on observe également une prolifération de groupuscules conspirationnistes à la tête desquels se trouvent des gourous ubérisés qui recrutent leurs victimes sur les réseaux sociaux et ciblent, depuis la pandémie, les domaines de la santé et du bien-être.<br><br>Dans tous les cas, les conséquences sont les mêmes : escroqueries, abus sexuels, traumatismes psychologiques et parfois même décès. Car lorsque ces « gourous 2.0 » incitent, par exemple, à remplacer la chimiothérapie par des jus de légumes ou à se nourrir uniquement d'air et de lumière – je n'invente rien !, alors, oui, on peut véritablement parler de criminalité.<br><br>Madame la secrétaire d'État, je vous sais attentive à cette question. Qu'entendez-vous faire contre le séparatisme sectaire qui bafoue les valeurs de notre République et s'attaque aux plus vulnérables de nos concitoyens ? <i>(Applaudissements sur les bancs des groupes Dem, RE et GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État chargée de la citoyenneté.<br><br><strong>Mme Sonia Backès,</strong><i> secrétaire d'État chargée de la citoyenneté. </i>Le rapport de la Miviludes a en effet mis en lumière une évolution inquiétante des dérives sectaires. Sur le plan quantitatif, d'abord, puisque le nombre des signalements s'élève à 4 000 – et il s'agit, on le sait, de la partie émergée de l'iceberg, la plupart des faits passant sous les radars –, soit une augmentation de 33 % en un an et de 86 % sur les six dernières années.<br><br>Mais l'évolution des modalités de l'emprise est tout aussi inquiétante. Outre les multinationales, qui continuent d'être scrutées par la Miviludes et le ministère de l'intérieur – je pense notamment aux Témoins de Jéhovah et à la scientologie, qui a été condamnée pour exercice illégal de la pharmacie et escroquerie en bande organisée –, sévissent tout un tas de « gourous 2.0 », qui sont sans doute plus difficiles à suivre et qui nous imposent de faire évoluer nos modalités d'action.<br><br>Ainsi, des assises des dérives sectaires et du complotisme seront organisées – c'est une première – au début de l'année prochaine ; elles réuniront l'ensemble des acteurs concernés autour de la table, non seulement pour qu'ils s'écoutent mais aussi pour élaborer un véritable plan d'action.<br><br><strong>M. Charles Sitzenstuhl.</strong> C'est courageux !<br><br><strong>Mme Sonia Backès,</strong><i> secrétaire d'État . </i>Il s'agit de réfléchir à la manière dont sont faits les signalements et dont sont découvertes et accompagnées les personnes concernées, qui sont pour la plupart sous emprise physique, psychologique ou financière.<br><br>Par ailleurs, compte tenu des difficultés que nous avons rencontrées lors de l'installation de l'Église de scientologie à Saint-Denis, nous devrons éventuellement nous interroger sur la nécessité de faire évoluer la législation afin de nous doter de l'ensemble des outils nécessaires.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 30,
+            "label": "MISC",
+            "text": "RAPPORT"
+          },
+          {
+            "start_char": 37,
+            "end_char": 46,
+            "label": "MISC",
+            "text": "MIVILUDES"
+          },
+          {
+            "start_char": 55,
+            "end_char": 62,
+            "label": "MISC",
+            "text": "PG4></a"
+          },
+          {
+            "start_char": 80,
+            "end_char": 83,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 124,
+            "end_char": 158,
+            "label": "PER",
+            "text": "M. Olivier Falorni.<br><br><strong"
+          },
+          {
+            "start_char": 162,
+            "end_char": 177,
+            "label": "PER",
+            "text": "Olivier Falorni"
+          },
+          {
+            "start_char": 188,
+            "end_char": 194,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 211,
+            "end_char": 215,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 284,
+            "end_char": 300,
+            "label": "LOC",
+            "text": "notre République"
+          },
+          {
+            "start_char": 486,
+            "end_char": 495,
+            "label": "LOC",
+            "text": "Miviludes"
+          },
+          {
+            "start_char": 757,
+            "end_char": 762,
+            "label": "LOC",
+            "text": "États"
+          },
+          {
+            "start_char": 770,
+            "end_char": 774,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 843,
+            "end_char": 849,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1545,
+            "end_char": 1564,
+            "label": "MISC",
+            "text": "criminalité.<br><br"
+          },
+          {
+            "start_char": 1565,
+            "end_char": 1571,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 1588,
+            "end_char": 1592,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1715,
+            "end_char": 1731,
+            "label": "LOC",
+            "text": "notre République"
+          },
+          {
+            "start_char": 1834,
+            "end_char": 1837,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 1839,
+            "end_char": 1841,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 1845,
+            "end_char": 1875,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1876,
+            "end_char": 1879,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1920,
+            "end_char": 1923,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1940,
+            "end_char": 1944,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1987,
+            "end_char": 1996,
+            "label": "PER",
+            "text": "Mme Sonia"
+          },
+          {
+            "start_char": 2030,
+            "end_char": 2034,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2083,
+            "end_char": 2092,
+            "label": "LOC",
+            "text": "Miviludes"
+          },
+          {
+            "start_char": 2436,
+            "end_char": 2450,
+            "label": "ORG",
+            "text": "années.<br><br"
+          },
+          {
+            "start_char": 2588,
+            "end_char": 2597,
+            "label": "LOC",
+            "text": "Miviludes"
+          },
+          {
+            "start_char": 2654,
+            "end_char": 2672,
+            "label": "ORG",
+            "text": "Témoins de Jéhovah"
+          },
+          {
+            "start_char": 2931,
+            "end_char": 2945,
+            "label": "MISC",
+            "text": "action.<br><br"
+          },
+          {
+            "start_char": 3255,
+            "end_char": 3283,
+            "label": "PER",
+            "text": "Charles Sitzenstuhl.</strong"
+          },
+          {
+            "start_char": 3318,
+            "end_char": 3327,
+            "label": "PER",
+            "text": "Mme Sonia"
+          },
+          {
+            "start_char": 3361,
+            "end_char": 3365,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3689,
+            "end_char": 3725,
+            "label": "ORG",
+            "text": "Église de scientologie à Saint-Denis"
+          },
+          {
+            "start_char": 3864,
+            "end_char": 3879,
+            "label": "PER",
+            "text": "nécessaires.<br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 98,
+            "sentiment": "3 stars",
+            "score": 0.30914506316185
+          },
+          {
+            "begin_char": 99,
+            "end_char": 178,
+            "sentiment": "4 stars",
+            "score": 0.2593062222003937
+          },
+          {
+            "begin_char": 179,
+            "end_char": 373,
+            "sentiment": "4 stars",
+            "score": 0.3793252110481262
+          },
+          {
+            "begin_char": 374,
+            "end_char": 615,
+            "sentiment": "5 stars",
+            "score": 0.445688933134079
+          },
+          {
+            "begin_char": 615,
+            "end_char": 925,
+            "sentiment": "5 stars",
+            "score": 0.46097099781036377
+          },
+          {
+            "begin_char": 926,
+            "end_char": 1322,
+            "sentiment": "2 stars",
+            "score": 0.2848113477230072
+          },
+          {
+            "begin_char": 1323,
+            "end_char": 1565,
+            "sentiment": "1 star",
+            "score": 0.4483601152896881
+          },
+          {
+            "begin_char": 1565,
+            "end_char": 1634,
+            "sentiment": "4 stars",
+            "score": 0.40378323197364807
+          },
+          {
+            "begin_char": 1635,
+            "end_char": 1786,
+            "sentiment": "1 star",
+            "score": 0.3113802373409271
+          },
+          {
+            "begin_char": 1787,
+            "end_char": 1894,
+            "sentiment": "4 stars",
+            "score": 0.3265630304813385
+          },
+          {
+            "begin_char": 1895,
+            "end_char": 2061,
+            "sentiment": "4 stars",
+            "score": 0.2880419194698334
+          },
+          {
+            "begin_char": 2062,
+            "end_char": 2066,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2066,
+            "end_char": 2167,
+            "sentiment": "4 stars",
+            "score": 0.41033050417900085
+          },
+          {
+            "begin_char": 2168,
+            "end_char": 2522,
+            "sentiment": "4 stars",
+            "score": 0.3787314295768738
+          },
+          {
+            "begin_char": 2523,
+            "end_char": 3077,
+            "sentiment": "5 stars",
+            "score": 0.38745784759521484
+          },
+          {
+            "begin_char": 3078,
+            "end_char": 3284,
+            "sentiment": "4 stars",
+            "score": 0.3732720911502838
+          },
+          {
+            "begin_char": 3285,
+            "end_char": 3302,
+            "sentiment": "5 stars",
+            "score": 0.4486038386821747
+          },
+          {
+            "begin_char": 3302,
+            "end_char": 3367,
+            "sentiment": "3 stars",
+            "score": 0.3254684805870056
+          },
+          {
+            "begin_char": 3368,
+            "end_char": 3372,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3372,
+            "end_char": 3884,
+            "sentiment": "4 stars",
+            "score": 0.5079257488250732
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-09",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-09",
+        "pageJO": "5234",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

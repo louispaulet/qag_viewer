@@ -1,0 +1,881 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG186",
+    "identifiant": {
+      "numero": "186",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "outre-mer",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "DROIT DE GRÈVE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795876",
+        "mandatRef": "PM797730"
+      },
+      "groupe": {
+        "organeRef": "PO800502",
+        "abrege": "GDR-NUPES",
+        "developpe": "Gauche démocrate et républicaine - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Intérieur et outre-mer",
+      "developpe": "Ministère de l’intérieur et des outre-mer"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Intérieur et outre-mer",
+          "developpe": "Ministère de l’intérieur et des outre-mer"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> DROIT DE GRÈVE <a name=PG21></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Davy Rimane.<br><br><strong>M. Davy Rimane. </strong>Monsieur le ministre de l'intérieur et des outre-mer, depuis le premier quinquennat du président Emmanuel Macron, la répression policière et la criminalisation par la justice des militants grévistes et syndicalistes sont devenues monnaie courante en France. Les gilets jaunes, ce sont des mains arrachées, des visages éborgnés, des crânes fracturés. <i>(« Oh là là… » sur les bancs du groupe RE.)</i><br><br>Militantisme, emprisonnements et déportations font partie de l'histoire de l'outre-mer. <i>(Vives protestations sur les bancs des groupes RE et Dem.)</i><br><br><strong>Mme Aurore Bergé.</strong> Déportation ?!<br><br><strong>MM. Sylvain Maillard et Erwan Balanant .</strong> C'est honteux !<br><br><strong>M. Laurent Croizier.</strong> Les mots ont un sens, monsieur le député !<br><br><strong>M. Davy Rimane. </strong>Je reprends : militantisme, emprisonnements et déportations font partie de l'histoire de l'outre-mer (Nouvelles protestations sur les bancs des groupes RE et Dem)…<br><br><strong>Un député du groupe RE .</strong> C'est honteux ! Madame la présidente !<br><br><strong>M. Davy Rimane. </strong>…car défier l'État, même à raison, y est interdit.<br><br>Encore une fois, c'est mon histoire, pas la vôtre, et je vous prie de l'écouter ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES) </i>Plus récemment, quatre grévistes de Réseau de transport d’électricité (RTE) ont passé quatre-vingt-seize heures en garde à vue dans les locaux de la direction générale de la sécurité intérieure (DGSI). Depuis quand recourt-on à de tels dispositifs contre des militants ? Quand briserez-vous la spirale sécuritaire et liberticide qui retourne les outils antiterroristes contre des pans entiers de la société ? Avant-hier soir, puis aujourd'hui, certains d'entre nous ont remis en cause le concept de désobéissance civile. Permettez-moi, chers amis, quelques rappels historiques : ce sont la désobéissance civile et le militantisme qui ont conduit le peuple français à décapiter ses souverains pour ériger une démocratie (Mêmes mouvements), ce sont eux qui ont conduit les miens à faire en sorte que je me tienne devant vous sans chaînes aux poignets, sans boulets aux pieds ! (Les députés du groupe LFI-NUPES, ainsi que plusieurs députés des groupes Écolo-NUPES et GDR-NUPES, se lèvent et applaudissent.) Monsieur le ministre, quand laisserez-vous le militantisme, le droit de grève, la démocratie s'exercer librement ?<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’intérieur et des outre-mer.<br><br><strong>M. Gérald Darmanin,</strong><i> ministre de l’intérieur et des outre-mer. </i>Monsieur le député, peut-être vos propos sont-ils légèrement excessifs,…<br><br><strong>M. Jean-Philippe Tanguy.</strong> Légèrement, oui !<br><br><strong>M. Gérald Darmanin,</strong><i> ministre. </i>…et certains des termes que vous employez particulièrement blessants pour une partie de nos compatriotes. <i>(Approbation sur plusieurs bancs du groupe RE.)</i> Je veux croire qu'ils ont dépassé votre pensée.<br><br><strong>M. Jean-Paul Lecoq.</strong> Vous ne connaissez pas l'histoire !<br><br><strong>M. Sylvain Maillard.</strong> C'est vous qui ne la connaissez pas !<br><br><strong>M. Gérald Darmanin,</strong><i> ministre. </i>Puisque nous en sommes à l'histoire, sachez que je m'enorgueillis de faire partie d'un gouvernement républicain, tel que celui qui a aboli ce que vous évoquez. Nous pouvons nous réjouir d'être des élus de la République, si bien qu'il n'y a pas ici de partisans ou d'adversaires d'un système autoritariste qui ne respecterait pas les droits de l'homme : nous sommes tous des enfants des Lumières, tous des républicains. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem, ainsi que sur quelques bancs du groupe LR.)</i><br><br>Afin de répondre à vos évocations historiques, je me permettrai d'ailleurs de vous rappeler à mon tour que vous appartenez au corps législatif et que l'exécutif applique les lois de la République. Si vous souhaitez changer celles-ci, il vous appartient de soumettre à vos pairs des propositions en ce sens !<br><br>Le ministère de l'intérieur, les services de police et de gendarmerie exécutent ce que leur prescrit l'autorité judiciaire. Lorsque des gens sont placés en garde à vue, entendus, emprisonnés, ils le sont, là encore, en vertu des lois, suivant les règles de l'État de droit. <i>(Exclamations sur plusieurs bancs du groupe LFI-NUPES.)</i> Indépendamment des difficultés que vous mentionnez, le fait de jeter l'opprobre, avec des mots particulièrement malheureux, ne rend donc pas service à la République et crée une confusion dont j'espère qu'elle n'a pas pour but de susciter davantage de violence. (Applaudissements sur plusieurs bancs des groupes RE et Dem.)<br><br><strong>Mme la présidente. </strong>La parole est à M. Davy Rimane. Il vous reste six secondes de parole, cher collègue.<br><br><strong>M. Davy Rimane. </strong>Monsieur le ministre, je me bornerai à souligner que, dans le cadre de mon histoire particulière, outre-mer, ce dont j'ai fait état a bel et bien eu lieu. (Applaudissements sur plusieurs bancs du groupe LFI-NUPES. – Mme Aurore Bergé et M. Sylvain Maillard protestent.)<br><br><strong>Un député du groupe RE .</strong> La déportation, vraiment ?<br> <p>",
+        "entities": [
+          {
+            "start_char": 32,
+            "end_char": 37,
+            "label": "ORG",
+            "text": "GRÈVE"
+          },
+          {
+            "start_char": 72,
+            "end_char": 75,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 116,
+            "end_char": 123,
+            "label": "PER",
+            "text": "M. Davy"
+          },
+          {
+            "start_char": 150,
+            "end_char": 161,
+            "label": "PER",
+            "text": "Davy Rimane"
+          },
+          {
+            "start_char": 172,
+            "end_char": 180,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 269,
+            "end_char": 284,
+            "label": "PER",
+            "text": "Emmanuel Macron"
+          },
+          {
+            "start_char": 422,
+            "end_char": 428,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 564,
+            "end_char": 580,
+            "label": "PER",
+            "text": "RE.)</i><br><br>"
+          },
+          {
+            "start_char": 669,
+            "end_char": 677,
+            "label": "LOC",
+            "text": "i>(Vives"
+          },
+          {
+            "start_char": 718,
+            "end_char": 720,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 749,
+            "end_char": 753,
+            "label": "PER",
+            "text": "Mme "
+          },
+          {
+            "start_char": 776,
+            "end_char": 787,
+            "label": "PER",
+            "text": "Déportation"
+          },
+          {
+            "start_char": 806,
+            "end_char": 826,
+            "label": "MISC",
+            "text": "MM. Sylvain Maillard"
+          },
+          {
+            "start_char": 830,
+            "end_char": 844,
+            "label": "PER",
+            "text": "Erwan Balanant"
+          },
+          {
+            "start_char": 890,
+            "end_char": 915,
+            "label": "PER",
+            "text": "Laurent Croizier.</strong"
+          },
+          {
+            "start_char": 978,
+            "end_char": 989,
+            "label": "PER",
+            "text": "Davy Rimane"
+          },
+          {
+            "start_char": 1152,
+            "end_char": 1154,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 1158,
+            "end_char": 1162,
+            "label": "MISC",
+            "text": "Dem)"
+          },
+          {
+            "start_char": 1229,
+            "end_char": 1235,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 1270,
+            "end_char": 1281,
+            "label": "PER",
+            "text": "Davy Rimane"
+          },
+          {
+            "start_char": 1306,
+            "end_char": 1310,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1333,
+            "end_char": 1350,
+            "label": "MISC",
+            "text": "interdit.<br><br>"
+          },
+          {
+            "start_char": 1477,
+            "end_char": 1486,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1528,
+            "end_char": 1550,
+            "label": "MISC",
+            "text": "Réseau de transport d’"
+          },
+          {
+            "start_char": 1687,
+            "end_char": 1691,
+            "label": "ORG",
+            "text": "DGSI"
+          },
+          {
+            "start_char": 2013,
+            "end_char": 2026,
+            "label": "PER",
+            "text": "Permettez-moi"
+          },
+          {
+            "start_char": 2212,
+            "end_char": 2217,
+            "label": "LOC",
+            "text": "Mêmes"
+          },
+          {
+            "start_char": 2390,
+            "end_char": 2399,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2441,
+            "end_char": 2452,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2456,
+            "end_char": 2465,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2496,
+            "end_char": 2504,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2524,
+            "end_char": 2533,
+            "label": "PER",
+            "text": "laisserez"
+          },
+          {
+            "start_char": 2626,
+            "end_char": 2629,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2670,
+            "end_char": 2672,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2688,
+            "end_char": 2690,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2733,
+            "end_char": 2742,
+            "label": "PER",
+            "text": "M. Gérald"
+          },
+          {
+            "start_char": 2777,
+            "end_char": 2779,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2811,
+            "end_char": 2819,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2902,
+            "end_char": 2932,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong>"
+          },
+          {
+            "start_char": 2969,
+            "end_char": 2975,
+            "label": "PER",
+            "text": "Gérald"
+          },
+          {
+            "start_char": 3164,
+            "end_char": 3171,
+            "label": "ORG",
+            "text": "RE.)</i"
+          },
+          {
+            "start_char": 3239,
+            "end_char": 3263,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 3402,
+            "end_char": 3408,
+            "label": "PER",
+            "text": "Gérald"
+          },
+          {
+            "start_char": 3653,
+            "end_char": 3663,
+            "label": "MISC",
+            "text": "République"
+          },
+          {
+            "start_char": 3831,
+            "end_char": 3839,
+            "label": "MISC",
+            "text": "Lumières"
+          },
+          {
+            "start_char": 3917,
+            "end_char": 3919,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3923,
+            "end_char": 3926,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 3967,
+            "end_char": 3982,
+            "label": "ORG",
+            "text": "LR.)</i><br><br"
+          },
+          {
+            "start_char": 4168,
+            "end_char": 4178,
+            "label": "MISC",
+            "text": "République"
+          },
+          {
+            "start_char": 4555,
+            "end_char": 4570,
+            "label": "LOC",
+            "text": "l'État de droit"
+          },
+          {
+            "start_char": 4619,
+            "end_char": 4633,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i"
+          },
+          {
+            "start_char": 4789,
+            "end_char": 4799,
+            "label": "MISC",
+            "text": "République"
+          },
+          {
+            "start_char": 4897,
+            "end_char": 4913,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 4946,
+            "end_char": 4948,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4952,
+            "end_char": 4972,
+            "label": "MISC",
+            "text": "Dem.)<br><br><strong"
+          },
+          {
+            "start_char": 4973,
+            "end_char": 4976,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5017,
+            "end_char": 5031,
+            "label": "PER",
+            "text": "M. Davy Rimane"
+          },
+          {
+            "start_char": 5104,
+            "end_char": 5115,
+            "label": "PER",
+            "text": "Davy Rimane"
+          },
+          {
+            "start_char": 5126,
+            "end_char": 5134,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 5282,
+            "end_char": 5298,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 5329,
+            "end_char": 5338,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5342,
+            "end_char": 5358,
+            "label": "PER",
+            "text": "Mme Aurore Bergé"
+          },
+          {
+            "start_char": 5362,
+            "end_char": 5381,
+            "label": "PER",
+            "text": "M. Sylvain Maillard"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 90,
+            "sentiment": "3 stars",
+            "score": 0.2849694490432739
+          },
+          {
+            "begin_char": 91,
+            "end_char": 162,
+            "sentiment": "3 stars",
+            "score": 0.24310244619846344
+          },
+          {
+            "begin_char": 163,
+            "end_char": 172,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 172,
+            "end_char": 429,
+            "sentiment": "5 stars",
+            "score": 0.4076377749443054
+          },
+          {
+            "begin_char": 430,
+            "end_char": 521,
+            "sentiment": "1 star",
+            "score": 0.5180856585502625
+          },
+          {
+            "begin_char": 522,
+            "end_char": 580,
+            "sentiment": "2 stars",
+            "score": 0.2631801664829254
+          },
+          {
+            "begin_char": 580,
+            "end_char": 667,
+            "sentiment": "4 stars",
+            "score": 0.42080530524253845
+          },
+          {
+            "begin_char": 668,
+            "end_char": 677,
+            "sentiment": "3 stars",
+            "score": 0.2765619456768036
+          },
+          {
+            "begin_char": 678,
+            "end_char": 753,
+            "sentiment": "3 stars",
+            "score": 0.3466516435146332
+          },
+          {
+            "begin_char": 753,
+            "end_char": 774,
+            "sentiment": "3 stars",
+            "score": 0.28820306062698364
+          },
+          {
+            "begin_char": 774,
+            "end_char": 775,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 776,
+            "end_char": 790,
+            "sentiment": "1 star",
+            "score": 0.5975716710090637
+          },
+          {
+            "begin_char": 790,
+            "end_char": 855,
+            "sentiment": "3 stars",
+            "score": 0.33453187346458435
+          },
+          {
+            "begin_char": 856,
+            "end_char": 871,
+            "sentiment": "1 star",
+            "score": 0.821001410484314
+          },
+          {
+            "begin_char": 871,
+            "end_char": 916,
+            "sentiment": "3 stars",
+            "score": 0.31209689378738403
+          },
+          {
+            "begin_char": 917,
+            "end_char": 959,
+            "sentiment": "5 stars",
+            "score": 0.34814170002937317
+          },
+          {
+            "begin_char": 959,
+            "end_char": 990,
+            "sentiment": "3 stars",
+            "score": 0.2813635766506195
+          },
+          {
+            "begin_char": 991,
+            "end_char": 1212,
+            "sentiment": "4 stars",
+            "score": 0.28062376379966736
+          },
+          {
+            "begin_char": 1213,
+            "end_char": 1228,
+            "sentiment": "1 star",
+            "score": 0.821001410484314
+          },
+          {
+            "begin_char": 1229,
+            "end_char": 1251,
+            "sentiment": "5 stars",
+            "score": 0.37261226773262024
+          },
+          {
+            "begin_char": 1251,
+            "end_char": 1282,
+            "sentiment": "3 stars",
+            "score": 0.2813635766506195
+          },
+          {
+            "begin_char": 1283,
+            "end_char": 1350,
+            "sentiment": "3 stars",
+            "score": 0.2360403835773468
+          },
+          {
+            "begin_char": 1350,
+            "end_char": 1356,
+            "sentiment": "4 stars",
+            "score": 0.2075742930173874
+          },
+          {
+            "begin_char": 1357,
+            "end_char": 1431,
+            "sentiment": "5 stars",
+            "score": 0.39306578040122986
+          },
+          {
+            "begin_char": 1432,
+            "end_char": 1492,
+            "sentiment": "4 stars",
+            "score": 0.32293790578842163
+          },
+          {
+            "begin_char": 1492,
+            "end_char": 1693,
+            "sentiment": "4 stars",
+            "score": 0.3723803758621216
+          },
+          {
+            "begin_char": 1694,
+            "end_char": 1762,
+            "sentiment": "1 star",
+            "score": 0.34449273347854614
+          },
+          {
+            "begin_char": 1763,
+            "end_char": 1900,
+            "sentiment": "5 stars",
+            "score": 0.5957930684089661
+          },
+          {
+            "begin_char": 1901,
+            "end_char": 2012,
+            "sentiment": "5 stars",
+            "score": 0.36061009764671326
+          },
+          {
+            "begin_char": 2013,
+            "end_char": 2366,
+            "sentiment": "5 stars",
+            "score": 0.7422168850898743
+          },
+          {
+            "begin_char": 2367,
+            "end_char": 2495,
+            "sentiment": "5 stars",
+            "score": 0.472583532333374
+          },
+          {
+            "begin_char": 2496,
+            "end_char": 2610,
+            "sentiment": "5 stars",
+            "score": 0.48999106884002686
+          },
+          {
+            "begin_char": 2610,
+            "end_char": 2644,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2645,
+            "end_char": 2764,
+            "sentiment": "4 stars",
+            "score": 0.3126711845397949
+          },
+          {
+            "begin_char": 2765,
+            "end_char": 2806,
+            "sentiment": "4 stars",
+            "score": 0.31207600235939026
+          },
+          {
+            "begin_char": 2807,
+            "end_char": 2811,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2811,
+            "end_char": 2830,
+            "sentiment": "4 stars",
+            "score": 0.3349396586418152
+          },
+          {
+            "begin_char": 2831,
+            "end_char": 2932,
+            "sentiment": "3 stars",
+            "score": 0.3885268270969391
+          },
+          {
+            "begin_char": 2933,
+            "end_char": 2950,
+            "sentiment": "3 stars",
+            "score": 0.3136768639087677
+          },
+          {
+            "begin_char": 2950,
+            "end_char": 3007,
+            "sentiment": "4 stars",
+            "score": 0.2830458879470825
+          },
+          {
+            "begin_char": 3008,
+            "end_char": 3117,
+            "sentiment": "1 star",
+            "score": 0.3734455406665802
+          },
+          {
+            "begin_char": 3118,
+            "end_char": 3172,
+            "sentiment": "3 stars",
+            "score": 0.33830124139785767
+          },
+          {
+            "begin_char": 3173,
+            "end_char": 3264,
+            "sentiment": "1 star",
+            "score": 0.6908659934997559
+          },
+          {
+            "begin_char": 3265,
+            "end_char": 3300,
+            "sentiment": "1 star",
+            "score": 0.38636457920074463
+          },
+          {
+            "begin_char": 3300,
+            "end_char": 3345,
+            "sentiment": "3 stars",
+            "score": 0.315640389919281
+          },
+          {
+            "begin_char": 3346,
+            "end_char": 3383,
+            "sentiment": "1 star",
+            "score": 0.2734031081199646
+          },
+          {
+            "begin_char": 3383,
+            "end_char": 3440,
+            "sentiment": "4 stars",
+            "score": 0.2830458879470825
+          },
+          {
+            "begin_char": 3441,
+            "end_char": 3604,
+            "sentiment": "5 stars",
+            "score": 0.3466370701789856
+          },
+          {
+            "begin_char": 3605,
+            "end_char": 3863,
+            "sentiment": "5 stars",
+            "score": 0.7526279091835022
+          },
+          {
+            "begin_char": 3864,
+            "end_char": 3983,
+            "sentiment": "4 stars",
+            "score": 0.32297027111053467
+          },
+          {
+            "begin_char": 3983,
+            "end_char": 4179,
+            "sentiment": "5 stars",
+            "score": 0.40167564153671265
+          },
+          {
+            "begin_char": 4180,
+            "end_char": 4290,
+            "sentiment": "5 stars",
+            "score": 0.3920387625694275
+          },
+          {
+            "begin_char": 4290,
+            "end_char": 4298,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 4298,
+            "end_char": 4421,
+            "sentiment": "4 stars",
+            "score": 0.32487359642982483
+          },
+          {
+            "begin_char": 4422,
+            "end_char": 4571,
+            "sentiment": "5 stars",
+            "score": 0.4737178385257721
+          },
+          {
+            "begin_char": 4572,
+            "end_char": 4634,
+            "sentiment": "4 stars",
+            "score": 0.30205559730529785
+          },
+          {
+            "begin_char": 4635,
+            "end_char": 4895,
+            "sentiment": "1 star",
+            "score": 0.5842531323432922
+          },
+          {
+            "begin_char": 4896,
+            "end_char": 4897,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 4897,
+            "end_char": 4991,
+            "sentiment": "4 stars",
+            "score": 0.36405184864997864
+          },
+          {
+            "begin_char": 4992,
+            "end_char": 5032,
+            "sentiment": "1 star",
+            "score": 0.23651747405529022
+          },
+          {
+            "begin_char": 5033,
+            "end_char": 5116,
+            "sentiment": "1 star",
+            "score": 0.5567628741264343
+          },
+          {
+            "begin_char": 5117,
+            "end_char": 5126,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5126,
+            "end_char": 5280,
+            "sentiment": "4 stars",
+            "score": 0.4096972346305847
+          },
+          {
+            "begin_char": 5281,
+            "end_char": 5282,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 5282,
+            "end_char": 5410,
+            "sentiment": "4 stars",
+            "score": 0.3572786748409271
+          },
+          {
+            "begin_char": 5410,
+            "end_char": 5443,
+            "sentiment": "3 stars",
+            "score": 0.31775277853012085
+          },
+          {
+            "begin_char": 5444,
+            "end_char": 5470,
+            "sentiment": "1 star",
+            "score": 0.3022909462451935
+          },
+          {
+            "begin_char": 5470,
+            "end_char": 5478,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-20",
+        "pageJO": "4317",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

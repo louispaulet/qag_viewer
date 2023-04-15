@@ -1,0 +1,683 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG514",
+    "identifiant": {
+      "numero": "514",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "retraites : généralités",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Réforme des retraites"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721932",
+        "mandatRef": "PM797361"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DES RETRAITES <a name=PG15></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Marie-France Lorho.<br><br><strong>Mme Marie-France Lorho. </strong>Madame le Premier ministre, vous avez qualifié votre réforme de « réforme de justice ». Avec un âge légal de départ à la retraite fixé à 64 ans, que répondez-vous aux salariés qui devraient atteindre les quarante-trois annuités à 62 ans et devront travailler deux ans de plus que les autres ? Ce sont les mères de famille, les ouvriers, les employés et tous les travailleurs de seconde ligne – souvent des femmes – qui seront dans ce cas !<br><br>Vous avez également qualifié votre réforme de « réforme de progrès ». Or vous faites peser l’essentiel des efforts sur la classe moyenne. En quoi est-ce un progrès ? Plus les débats avancent, plus les Français découvrent la réalité de votre réforme, et plus ils y sont opposés – c’est assez logique.<br><br><strong>M. Benjamin Lucas.</strong> Le RN n'a pas déposé un seul amendement ! Vous exercez votre droit à la paresse législative !<br><br><strong>Mme Marie-France Lorho. </strong>Les manifestations du jour, complémentaires de l’opposition que nous menons ici sur divers bancs, illustrent bien cette opposition grandissante. Nous comprenons que vous ne soyez pas très à l’aise car, comme le rappelle le Conseil d’orientation des retraites (COR), ce ne sont pas les dépenses de retraite qui posent problème mais bien les recettes, ce qui découle directement de vos politiques.<br><br>Et comme si cela ne suffisait pas, après avoir délocalisé l’industrie française et ses emplois, après avoir détruit la productivité, base de notre modèle de retraite par répartition, le Gouvernement continue de tirer les salaires vers le bas avec le futur texte sur l’immigration. En effet, le titre de séjour pour les métiers en tension aggravera la paupérisation de notre pays et de nos travailleurs. Nous avons appris il y a quelques jours deux chiffres qui illustrent votre politique migratoire : en 2022, les motifs économiques sont en hausse de plus de 45 % et les régularisations de sans-papiers ont augmenté de 8 %.<br><br>Au lieu de servir les desiderata de la Commission européenne et, derrière, le lobby des fonds de pension, pourriez-vous, s’il vous plaît, écouter l’appel à l’aide des Français en leur épargnant cette réforme ? (<i>Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Vous interrogez Mme la Première ministre et le Gouvernement sur le relèvement progressif de l'âge de l'ouverture des droits de 62 à 64 ans. Est-ce un effort ? Oui, un effort de travail supplémentaire demandé aux Français pour garantir la pérennité du système par répartition. <i>(Exclamations sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>M. Benjamin Lucas.</strong> Un effort qui leur est imposé, et non demandé !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Depuis le début des concertations, l'objectif que nous poursuivons avec la Première ministre est de faire en sorte qu'il soit le plus justement réparti.<br><br><strong>M. Sébastien Jumel.</strong> C'est raté !<br><br><strong>M. Jérémie Iordanoff.</strong> C'est mal barré !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Vous avez évoqué plus particulièrement la durée de cotisations et le cas de celles et ceux qui, au moment où ils atteindront l'âge légal, auront cotisé peut-être plus longtemps qu'exigé. C'est une situation qui existe déjà dans le système actuel : sur les 800 000 personnes qui partent chaque année à la retraite, 180 000 ont un nombre de trimestres cotisés supérieur à ce qui est requis. Retournons-nous vers le passé : avant que ne soit créé le dispositif pour carrière longue en 2003, …<br><br><strong>M. Pierre Cordier.</strong> Merci François Fillon !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>…l'âge de départ à la retraite était fixé à 60 ans et la durée de cotisation était de trente-sept ans et demi. Ceux qui commençaient leur carrière à 23 ans partaient donc autour de 60,5 ans en ayant travaillé exactement le temps requis tandis que ceux qui commençaient à 15 voire à 14 ans devaient travailler quarante-cinq ou quarante-six ans pour avoir le droit de partir à la retraite à 60 ans. Cet écart entre la durée minimale de cotisation requise et le nombre de trimestres cotisés par les assurés, le dispositif pour carrière longue a permis de le réduire et depuis, chaque réforme a contribué à le réduire davantage.<br><br>Il y a parfois dans le débat une facilité – mais je ne vise pas votre question, madame la députée – qui consiste à considérer la durée de cotisations requise comme un plafond. En réalité, depuis que notre système de retraite a été créé, la durée de cotisations nécessaire pour obtenir une retraite à taux plein est un plancher. Je le redis, un quart des assurés travaillent déjà au-delà de ce qui est requis.<br><br>Tout ce que nous avons fait avec la Première ministre, c'est de réduire au maximum l'écart pour établir un maximum d'égalité. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>M. Sylvain Maillard et M. Bruno Studer .</strong> Très bien !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 34,
+            "label": "MISC",
+            "text": "RÉFORME DES"
+          },
+          {
+            "start_char": 35,
+            "end_char": 44,
+            "label": "MISC",
+            "text": "RETRAITES"
+          },
+          {
+            "start_char": 79,
+            "end_char": 82,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 123,
+            "end_char": 139,
+            "label": "PER",
+            "text": "Mme Marie-France"
+          },
+          {
+            "start_char": 162,
+            "end_char": 184,
+            "label": "PER",
+            "text": "Mme Marie-France Lorho"
+          },
+          {
+            "start_char": 195,
+            "end_char": 212,
+            "label": "PER",
+            "text": "Madame le Premier"
+          },
+          {
+            "start_char": 733,
+            "end_char": 735,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 843,
+            "end_char": 851,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 921,
+            "end_char": 923,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 960,
+            "end_char": 984,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong>"
+          },
+          {
+            "start_char": 988,
+            "end_char": 990,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 1094,
+            "end_char": 1116,
+            "label": "PER",
+            "text": "Mme Marie-France Lorho"
+          },
+          {
+            "start_char": 1174,
+            "end_char": 1176,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1317,
+            "end_char": 1319,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1350,
+            "end_char": 1357,
+            "label": "ORG",
+            "text": "Conseil"
+          },
+          {
+            "start_char": 1387,
+            "end_char": 1390,
+            "label": "ORG",
+            "text": "COR"
+          },
+          {
+            "start_char": 1511,
+            "end_char": 1529,
+            "label": "MISC",
+            "text": "politiques.<br><br"
+          },
+          {
+            "start_char": 1588,
+            "end_char": 1609,
+            "label": "ORG",
+            "text": "l’industrie française"
+          },
+          {
+            "start_char": 1716,
+            "end_char": 1728,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1796,
+            "end_char": 1809,
+            "label": "ORG",
+            "text": "l’immigration"
+          },
+          {
+            "start_char": 2200,
+            "end_char": 2221,
+            "label": "ORG",
+            "text": "Commission européenne"
+          },
+          {
+            "start_char": 2282,
+            "end_char": 2284,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 2307,
+            "end_char": 2309,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 2317,
+            "end_char": 2319,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2328,
+            "end_char": 2336,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2416,
+            "end_char": 2439,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2440,
+            "end_char": 2443,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2484,
+            "end_char": 2486,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2533,
+            "end_char": 2535,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2561,
+            "end_char": 2571,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2636,
+            "end_char": 2647,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 2669,
+            "end_char": 2693,
+            "label": "MISC",
+            "text": "Mme la Première ministre"
+          },
+          {
+            "start_char": 2700,
+            "end_char": 2712,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2865,
+            "end_char": 2873,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2970,
+            "end_char": 3000,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3004,
+            "end_char": 3028,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong>"
+          },
+          {
+            "start_char": 3092,
+            "end_char": 3102,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3214,
+            "end_char": 3222,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3310,
+            "end_char": 3335,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 3367,
+            "end_char": 3393,
+            "label": "PER",
+            "text": "Jérémie Iordanoff.</strong"
+          },
+          {
+            "start_char": 3428,
+            "end_char": 3438,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3864,
+            "end_char": 3874,
+            "label": "MISC",
+            "text": "Retournons"
+          },
+          {
+            "start_char": 3983,
+            "end_char": 4007,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong>"
+          },
+          {
+            "start_char": 4047,
+            "end_char": 4057,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4708,
+            "end_char": 4725,
+            "label": "MISC",
+            "text": "davantage.<br><br"
+          },
+          {
+            "start_char": 5127,
+            "end_char": 5141,
+            "label": "MISC",
+            "text": "requis.<br><br"
+          },
+          {
+            "start_char": 5178,
+            "end_char": 5186,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 5318,
+            "end_char": 5341,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5342,
+            "end_char": 5361,
+            "label": "PER",
+            "text": "M. Sylvain Maillard"
+          },
+          {
+            "start_char": 5365,
+            "end_char": 5368,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 5368,
+            "end_char": 5380,
+            "label": "PER",
+            "text": "Bruno Studer"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 97,
+            "sentiment": "3 stars",
+            "score": 0.298191100358963
+          },
+          {
+            "begin_char": 98,
+            "end_char": 185,
+            "sentiment": "3 stars",
+            "score": 0.250292032957077
+          },
+          {
+            "begin_char": 186,
+            "end_char": 195,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 195,
+            "end_char": 282,
+            "sentiment": "5 stars",
+            "score": 0.2731900215148926
+          },
+          {
+            "begin_char": 283,
+            "end_char": 487,
+            "sentiment": "2 stars",
+            "score": 0.31025153398513794
+          },
+          {
+            "begin_char": 488,
+            "end_char": 634,
+            "sentiment": "5 stars",
+            "score": 0.2489202916622162
+          },
+          {
+            "begin_char": 634,
+            "end_char": 642,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 642,
+            "end_char": 711,
+            "sentiment": "5 stars",
+            "score": 0.39736562967300415
+          },
+          {
+            "begin_char": 712,
+            "end_char": 779,
+            "sentiment": "1 star",
+            "score": 0.4325323700904846
+          },
+          {
+            "begin_char": 780,
+            "end_char": 807,
+            "sentiment": "5 stars",
+            "score": 0.3420257270336151
+          },
+          {
+            "begin_char": 808,
+            "end_char": 984,
+            "sentiment": "5 stars",
+            "score": 0.3341487944126129
+          },
+          {
+            "begin_char": 985,
+            "end_char": 1026,
+            "sentiment": "1 star",
+            "score": 0.45013144612312317
+          },
+          {
+            "begin_char": 1027,
+            "end_char": 1078,
+            "sentiment": "1 star",
+            "score": 0.5262695550918579
+          },
+          {
+            "begin_char": 1078,
+            "end_char": 1117,
+            "sentiment": "3 stars",
+            "score": 0.27569204568862915
+          },
+          {
+            "begin_char": 1118,
+            "end_char": 1127,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1127,
+            "end_char": 1271,
+            "sentiment": "4 stars",
+            "score": 0.4850771427154541
+          },
+          {
+            "begin_char": 1272,
+            "end_char": 1810,
+            "sentiment": "2 stars",
+            "score": 0.3834800720214844
+          },
+          {
+            "begin_char": 1811,
+            "end_char": 1932,
+            "sentiment": "4 stars",
+            "score": 0.26413077116012573
+          },
+          {
+            "begin_char": 1933,
+            "end_char": 2161,
+            "sentiment": "5 stars",
+            "score": 0.2276517152786255
+          },
+          {
+            "begin_char": 2161,
+            "end_char": 2370,
+            "sentiment": "1 star",
+            "score": 0.4265384376049042
+          },
+          {
+            "begin_char": 2371,
+            "end_char": 2372,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 2372,
+            "end_char": 2458,
+            "sentiment": "4 stars",
+            "score": 0.33770015835762024
+          },
+          {
+            "begin_char": 2459,
+            "end_char": 2592,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 2593,
+            "end_char": 2648,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 2649,
+            "end_char": 2792,
+            "sentiment": "4 stars",
+            "score": 0.29400646686553955
+          },
+          {
+            "begin_char": 2793,
+            "end_char": 2811,
+            "sentiment": "3 stars",
+            "score": 0.34501028060913086
+          },
+          {
+            "begin_char": 2812,
+            "end_char": 2928,
+            "sentiment": "5 stars",
+            "score": 0.4373064935207367
+          },
+          {
+            "begin_char": 2929,
+            "end_char": 3028,
+            "sentiment": "3 stars",
+            "score": 0.3210713863372803
+          },
+          {
+            "begin_char": 3029,
+            "end_char": 3076,
+            "sentiment": "1 star",
+            "score": 0.3613358438014984
+          },
+          {
+            "begin_char": 3076,
+            "end_char": 3134,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 3135,
+            "end_char": 3335,
+            "sentiment": "4 stars",
+            "score": 0.3509097993373871
+          },
+          {
+            "begin_char": 3336,
+            "end_char": 3348,
+            "sentiment": "1 star",
+            "score": 0.7874715328216553
+          },
+          {
+            "begin_char": 3348,
+            "end_char": 3412,
+            "sentiment": "1 star",
+            "score": 0.6754201650619507
+          },
+          {
+            "begin_char": 3412,
+            "end_char": 3470,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 3471,
+            "end_char": 3661,
+            "sentiment": "4 stars",
+            "score": 0.29768672585487366
+          },
+          {
+            "begin_char": 3662,
+            "end_char": 3863,
+            "sentiment": "5 stars",
+            "score": 0.28237277269363403
+          },
+          {
+            "begin_char": 3864,
+            "end_char": 4007,
+            "sentiment": "3 stars",
+            "score": 0.27534934878349304
+          },
+          {
+            "begin_char": 4008,
+            "end_char": 4031,
+            "sentiment": "5 stars",
+            "score": 0.6155686974525452
+          },
+          {
+            "begin_char": 4031,
+            "end_char": 4089,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 4090,
+            "end_char": 4204,
+            "sentiment": "3 stars",
+            "score": 0.3115503191947937
+          },
+          {
+            "begin_char": 4205,
+            "end_char": 4490,
+            "sentiment": "2 stars",
+            "score": 0.24716132879257202
+          },
+          {
+            "begin_char": 4491,
+            "end_char": 4901,
+            "sentiment": "3 stars",
+            "score": 0.3640105128288269
+          },
+          {
+            "begin_char": 4902,
+            "end_char": 5053,
+            "sentiment": "5 stars",
+            "score": 0.2607676088809967
+          },
+          {
+            "begin_char": 5054,
+            "end_char": 5267,
+            "sentiment": "5 stars",
+            "score": 0.2867552936077118
+          },
+          {
+            "begin_char": 5268,
+            "end_char": 5403,
+            "sentiment": "4 stars",
+            "score": 0.5083317756652832
+          },
+          {
+            "begin_char": 5403,
+            "end_char": 5411,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-01",
+        "pageJO": "769",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

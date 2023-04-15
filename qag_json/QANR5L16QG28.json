@@ -1,0 +1,815 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG28",
+    "identifiant": {
+      "numero": "28",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "sécurité des biens et des personnes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Lutte contre les incendies"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793724",
+        "mandatRef": "PM796497"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Intérieur et outre-mer",
+      "developpe": "Ministère de l’intérieur et des outre-mer"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Intérieur et outre-mer",
+          "developpe": "Ministère de l’intérieur et des outre-mer"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> LUTTE CONTRE LES INCENDIES <a name=PG1></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Michel Sala.<br><br><strong>M. Michel Sala. </strong>La France suffoque. C’est la deuxième fois en deux mois. La vague de chaleur et la sécheresse couplées sont un facteur d'importants incendies. Le dérèglement climatique est là. Or, alors que l’Europe relève ses objectifs climatiques pour 2030, la réponse du gouvernement français n’est pas à la hauteur. Nous perdons un temps précieux !<br><br>Dans le Gard, autour de Bessèges, de Gagnières et de Bordezac, ma circonscription a été fortement touchée. À son tour, la région bordelaise connaît un épisode encore plus dramatique, avec l'embrasement de plus de 19 000 hectares de forêt. Fait nouveau, d’autres régions, plus au nord, sont atteintes, comme les monts d’Arrée en Bretagne, ou les Pays de la Loire – Anjou, Vendée, Mayenne, Le Mans et Nantes.<br><br>Dans ces moments graves, les membres du groupe LFI-NUPES expriment toute leur solidarité aux dizaines de milliers d’habitants frappés par ces incendies, et aux pompiers venus les protéger. <i>(Applaudissements sur tous les bancs.)</i> Nous saluons les pilotes des Canadair, qui exercent un métier extrêmement dangereux. Or les moyens leur manquent pour assurer leur mission de protection civile.<br><br>La flotte d’avions de lutte antifeu, située à Nîmes, comprend sur le papier douze Canadair et sept Dash. Le 14 juillet 2019, ces dix-neuf avions étaient capables de voler. Nous avons régressé : aujourd'hui, seuls neuf Canadair et quatre Dash volent. La maintenance, assurée par l’entreprise privée Sabena technics, n’est pas au niveau. De plus, on compte seize commandants de bord, alors que vingt-deux sont nécessaires. En cause : la politique menée par la direction générale de la sécurité civile et de la gestion des crises (DGSCGC), qui reconnaît pourtant que le dispositif opérationnel est tendu.<br><br>À rebours de l’urgence écologique, vous avez depuis 2017 affaibli les opérateurs publics, comme Météo-France, l’Office français de la biodiversité (OFB), l’Office national des forêts (ONF) et l’Institut national de l’information géographique et forestière (IGN) en supprimant près de 15 % des effectifs. Il faut que cela cesse ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES et sur plusieurs bancs des groupes SOC et Écolo-NUPES.)</i><br><br>La flotte d’avions antifeu constitue un service public indispensable, auquel vous devez donner des moyens nouveaux. Quelle flotte et quels moyens humains prévoyez-vous de déployer contre les incendies ? Envisagez-vous d'implanter de nouvelles bases ?<br><br>Si nous voulons sauver des vies humaines, protéger les pompiers et tenter de préserver notre forêt, il y a urgence ! <i>(Applaudissements sur les bancs des groupes LFI-NUPES, SOC, Écolo-NUPES et GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’intérieur et des outre-mer.<br><br><strong>M. Gérald Darmanin,</strong><i> ministre de l’intérieur et des outre-mer. </i>Comme Mme la Première ministre l'a fait très récemment, et comme vous l'avez fait, je rends hommage, au nom du Gouvernement, aux sapeurs-pompiers, aux militaires, aux élus, aux policiers et aux gendarmes qui luttent, depuis le 12 juillet, dans des conditions particulièrement difficiles, avec un sang-froid et un professionnalisme qui font honneur à la France. <i>(Mmes et MM. les députés se lèvent et applaudissent.)</i><br><br>Le feu en Gironde touche désormais quasiment 60 kilomètres carrés, mais on constate également la présence de très nombreux autres feux dans les Bouches-du-Rhône et dans le Finistère – vingt feux par jour dans le territoire national. Ils sont le plus souvent éteints lorsqu'ils ne dépassent pas 5 hectares, mais quelques-uns sont très impressionnants et tuent la biodiversité.<br><br>Malgré cela, malgré des jours et des nuits de sécheresse et de feu, je souligne qu'on ne déplore – je touche du bois, si j'ose dire <i>(Murmures sur les bancs du groupe LR)</i> – aucun décès, ni chez les sapeurs-pompiers, ni parmi les 45 000 personnes déplacées. (Applaudissements sur quelques bancs du groupe RE.)<br><br>Tout ne peut pas faire l'objet de polémique. La flotte ne compte pas neuf Canadair, comme vous l'avez dit <i>(« Ce n'est pas ce qu'il a dit ! » sur plusieurs bancs du groupe LFI-NUPES)</i>, mais vingt et un avions et trente-cinq hélicoptères : nous avons la plus grande flotte européenne de lutte contre le feu. (Applaudissements sur les bancs du groupe RE et sur quelques bancs du groupe Dem.)<br><br>Tout ne peut pas faire l'objet de polémique. En cinq ans, nous avons augmenté le budget de la sécurité civile de 44 % <i>(Protestations sur quelques bancs du groupe LFI-NUPES. – Mme Elsa Faucillon proteste également)</i> ; nous avons mobilisé des militaires ; nous avons mobilisé plus de moyens qu'aucun autre pays européen. Alors, plutôt que de susciter des polémiques qui n'ont pas lieu d'être, encourageons les sapeurs-pompiers, réjouissons-nous qu'il n'y ait pas de morts, que nous puissions, avec l'aide de la sécurité civile, déplacer des personnes, sauver des animaux et des entreprises. (Applaudissements sur les bancs des groupes RE, Dem et HOR.)<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 35,
+            "label": "MISC",
+            "text": "LUTTE CONTRE"
+          },
+          {
+            "start_char": 40,
+            "end_char": 49,
+            "label": "MISC",
+            "text": "INCENDIES"
+          },
+          {
+            "start_char": 58,
+            "end_char": 65,
+            "label": "PER",
+            "text": "PG1></a"
+          },
+          {
+            "start_char": 83,
+            "end_char": 86,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 127,
+            "end_char": 136,
+            "label": "PER",
+            "text": "M. Michel"
+          },
+          {
+            "start_char": 161,
+            "end_char": 172,
+            "label": "PER",
+            "text": "Michel Sala"
+          },
+          {
+            "start_char": 183,
+            "end_char": 192,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 203,
+            "end_char": 205,
+            "label": "MISC",
+            "text": "C’"
+          },
+          {
+            "start_char": 376,
+            "end_char": 382,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 463,
+            "end_char": 465,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 535,
+            "end_char": 539,
+            "label": "LOC",
+            "text": "Gard"
+          },
+          {
+            "start_char": 551,
+            "end_char": 559,
+            "label": "LOC",
+            "text": "Bessèges"
+          },
+          {
+            "start_char": 564,
+            "end_char": 573,
+            "label": "ORG",
+            "text": "Gagnières"
+          },
+          {
+            "start_char": 580,
+            "end_char": 588,
+            "label": "PER",
+            "text": "Bordezac"
+          },
+          {
+            "start_char": 838,
+            "end_char": 851,
+            "label": "LOC",
+            "text": "monts d’Arrée"
+          },
+          {
+            "start_char": 855,
+            "end_char": 863,
+            "label": "LOC",
+            "text": "Bretagne"
+          },
+          {
+            "start_char": 872,
+            "end_char": 896,
+            "label": "LOC",
+            "text": "Pays de la Loire – Anjou"
+          },
+          {
+            "start_char": 898,
+            "end_char": 904,
+            "label": "LOC",
+            "text": "Vendée"
+          },
+          {
+            "start_char": 906,
+            "end_char": 913,
+            "label": "LOC",
+            "text": "Mayenne"
+          },
+          {
+            "start_char": 915,
+            "end_char": 922,
+            "label": "LOC",
+            "text": "Le Mans"
+          },
+          {
+            "start_char": 988,
+            "end_char": 997,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1205,
+            "end_char": 1213,
+            "label": "LOC",
+            "text": "Canadair"
+          },
+          {
+            "start_char": 1329,
+            "end_char": 1343,
+            "label": "MISC",
+            "text": "civile.<br><br"
+          },
+          {
+            "start_char": 1390,
+            "end_char": 1395,
+            "label": "LOC",
+            "text": "Nîmes"
+          },
+          {
+            "start_char": 1426,
+            "end_char": 1434,
+            "label": "LOC",
+            "text": "Canadair"
+          },
+          {
+            "start_char": 1443,
+            "end_char": 1447,
+            "label": "LOC",
+            "text": "Dash"
+          },
+          {
+            "start_char": 1562,
+            "end_char": 1570,
+            "label": "LOC",
+            "text": "Canadair"
+          },
+          {
+            "start_char": 1581,
+            "end_char": 1585,
+            "label": "LOC",
+            "text": "Dash"
+          },
+          {
+            "start_char": 1622,
+            "end_char": 1624,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 1642,
+            "end_char": 1657,
+            "label": "ORG",
+            "text": "Sabena technics"
+          },
+          {
+            "start_char": 1659,
+            "end_char": 1661,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 1872,
+            "end_char": 1878,
+            "label": "ORG",
+            "text": "DGSCGC"
+          },
+          {
+            "start_char": 1939,
+            "end_char": 1965,
+            "label": "MISC",
+            "text": "tendu.<br><br>À rebours de"
+          },
+          {
+            "start_char": 1966,
+            "end_char": 1968,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2049,
+            "end_char": 2061,
+            "label": "ORG",
+            "text": "Météo-France"
+          },
+          {
+            "start_char": 2063,
+            "end_char": 2071,
+            "label": "ORG",
+            "text": "l’Office"
+          },
+          {
+            "start_char": 2101,
+            "end_char": 2104,
+            "label": "ORG",
+            "text": "OFB"
+          },
+          {
+            "start_char": 2107,
+            "end_char": 2115,
+            "label": "ORG",
+            "text": "l’Office"
+          },
+          {
+            "start_char": 2137,
+            "end_char": 2140,
+            "label": "MISC",
+            "text": "ONF"
+          },
+          {
+            "start_char": 2145,
+            "end_char": 2170,
+            "label": "ORG",
+            "text": "l’Institut national de l’"
+          },
+          {
+            "start_char": 2210,
+            "end_char": 2213,
+            "label": "MISC",
+            "text": "IGN"
+          },
+          {
+            "start_char": 2327,
+            "end_char": 2336,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2372,
+            "end_char": 2375,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2379,
+            "end_char": 2403,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 2607,
+            "end_char": 2616,
+            "label": "PER",
+            "text": "Envisagez"
+          },
+          {
+            "start_char": 2826,
+            "end_char": 2835,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2837,
+            "end_char": 2840,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2842,
+            "end_char": 2853,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2857,
+            "end_char": 2887,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2888,
+            "end_char": 2891,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2932,
+            "end_char": 2934,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2950,
+            "end_char": 2952,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2995,
+            "end_char": 3004,
+            "label": "PER",
+            "text": "M. Gérald"
+          },
+          {
+            "start_char": 3039,
+            "end_char": 3041,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3079,
+            "end_char": 3094,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 3184,
+            "end_char": 3196,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3423,
+            "end_char": 3432,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3446,
+            "end_char": 3449,
+            "label": "MISC",
+            "text": "MM."
+          },
+          {
+            "start_char": 3512,
+            "end_char": 3519,
+            "label": "LOC",
+            "text": "Gironde"
+          },
+          {
+            "start_char": 3646,
+            "end_char": 3662,
+            "label": "LOC",
+            "text": "Bouches-du-Rhône"
+          },
+          {
+            "start_char": 3674,
+            "end_char": 3683,
+            "label": "LOC",
+            "text": "Finistère"
+          },
+          {
+            "start_char": 3864,
+            "end_char": 3884,
+            "label": "MISC",
+            "text": "biodiversité.<br><br"
+          },
+          {
+            "start_char": 4054,
+            "end_char": 4060,
+            "label": "ORG",
+            "text": "LR)</i"
+          },
+          {
+            "start_char": 4149,
+            "end_char": 4165,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 4281,
+            "end_char": 4289,
+            "label": "LOC",
+            "text": "Canadair"
+          },
+          {
+            "start_char": 4381,
+            "end_char": 4394,
+            "label": "ORG",
+            "text": "LFI-NUPES)</i"
+          },
+          {
+            "start_char": 4520,
+            "end_char": 4536,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 4554,
+            "end_char": 4563,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4596,
+            "end_char": 4613,
+            "label": "MISC",
+            "text": "Dem.)<br><br>Tout"
+          },
+          {
+            "start_char": 4774,
+            "end_char": 4783,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 4787,
+            "end_char": 4791,
+            "label": "PER",
+            "text": "Mme "
+          },
+          {
+            "start_char": 5205,
+            "end_char": 5250,
+            "label": "MISC",
+            "text": "Applaudissements sur les bancs des groupes RE"
+          },
+          {
+            "start_char": 5252,
+            "end_char": 5267,
+            "label": "MISC",
+            "text": "Dem et HOR.)<br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 101,
+            "sentiment": "4 stars",
+            "score": 0.2954849600791931
+          },
+          {
+            "begin_char": 102,
+            "end_char": 173,
+            "sentiment": "4 stars",
+            "score": 0.2505149245262146
+          },
+          {
+            "begin_char": 174,
+            "end_char": 202,
+            "sentiment": "1 star",
+            "score": 0.3381531834602356
+          },
+          {
+            "begin_char": 203,
+            "end_char": 239,
+            "sentiment": "5 stars",
+            "score": 0.21760505437850952
+          },
+          {
+            "begin_char": 240,
+            "end_char": 325,
+            "sentiment": "3 stars",
+            "score": 0.3472374379634857
+          },
+          {
+            "begin_char": 326,
+            "end_char": 359,
+            "sentiment": "5 stars",
+            "score": 0.40837737917900085
+          },
+          {
+            "begin_char": 360,
+            "end_char": 486,
+            "sentiment": "2 stars",
+            "score": 0.3947625160217285
+          },
+          {
+            "begin_char": 487,
+            "end_char": 519,
+            "sentiment": "2 stars",
+            "score": 0.2545956075191498
+          },
+          {
+            "begin_char": 519,
+            "end_char": 633,
+            "sentiment": "4 stars",
+            "score": 0.3095478117465973
+          },
+          {
+            "begin_char": 634,
+            "end_char": 765,
+            "sentiment": "4 stars",
+            "score": 0.3265802264213562
+          },
+          {
+            "begin_char": 766,
+            "end_char": 941,
+            "sentiment": "4 stars",
+            "score": 0.36224067211151123
+          },
+          {
+            "begin_char": 941,
+            "end_char": 1129,
+            "sentiment": "5 stars",
+            "score": 0.5074071884155273
+          },
+          {
+            "begin_char": 1130,
+            "end_char": 1175,
+            "sentiment": "3 stars",
+            "score": 0.24306923151016235
+          },
+          {
+            "begin_char": 1176,
+            "end_char": 1260,
+            "sentiment": "5 stars",
+            "score": 0.4729969799518585
+          },
+          {
+            "begin_char": 1261,
+            "end_char": 1344,
+            "sentiment": "3 stars",
+            "score": 0.30975884199142456
+          },
+          {
+            "begin_char": 1344,
+            "end_char": 1448,
+            "sentiment": "4 stars",
+            "score": 0.28964123129844666
+          },
+          {
+            "begin_char": 1449,
+            "end_char": 1515,
+            "sentiment": "5 stars",
+            "score": 0.26814526319503784
+          },
+          {
+            "begin_char": 1516,
+            "end_char": 1593,
+            "sentiment": "1 star",
+            "score": 0.5957000851631165
+          },
+          {
+            "begin_char": 1594,
+            "end_char": 1679,
+            "sentiment": "2 stars",
+            "score": 0.4729602336883545
+          },
+          {
+            "begin_char": 1680,
+            "end_char": 1764,
+            "sentiment": "2 stars",
+            "score": 0.3841235935688019
+          },
+          {
+            "begin_char": 1765,
+            "end_char": 2256,
+            "sentiment": "3 stars",
+            "score": 0.34831249713897705
+          },
+          {
+            "begin_char": 2257,
+            "end_char": 2281,
+            "sentiment": "1 star",
+            "score": 0.4495581090450287
+          },
+          {
+            "begin_char": 2282,
+            "end_char": 2404,
+            "sentiment": "4 stars",
+            "score": 0.33358854055404663
+          },
+          {
+            "begin_char": 2404,
+            "end_char": 2519,
+            "sentiment": "5 stars",
+            "score": 0.5440840721130371
+          },
+          {
+            "begin_char": 2520,
+            "end_char": 2606,
+            "sentiment": "4 stars",
+            "score": 0.32334110140800476
+          },
+          {
+            "begin_char": 2607,
+            "end_char": 2654,
+            "sentiment": "4 stars",
+            "score": 0.2602604031562805
+          },
+          {
+            "begin_char": 2654,
+            "end_char": 2662,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2662,
+            "end_char": 2778,
+            "sentiment": "5 stars",
+            "score": 0.5484375357627869
+          },
+          {
+            "begin_char": 2779,
+            "end_char": 2906,
+            "sentiment": "4 stars",
+            "score": 0.3367345929145813
+          },
+          {
+            "begin_char": 2907,
+            "end_char": 3026,
+            "sentiment": "4 stars",
+            "score": 0.3126711845397949
+          },
+          {
+            "begin_char": 3027,
+            "end_char": 3068,
+            "sentiment": "4 stars",
+            "score": 0.31207600235939026
+          },
+          {
+            "begin_char": 3069,
+            "end_char": 3433,
+            "sentiment": "5 stars",
+            "score": 0.7405706644058228
+          },
+          {
+            "begin_char": 3434,
+            "end_char": 3734,
+            "sentiment": "4 stars",
+            "score": 0.33834612369537354
+          },
+          {
+            "begin_char": 3735,
+            "end_char": 4147,
+            "sentiment": "5 stars",
+            "score": 0.6380111575126648
+          },
+          {
+            "begin_char": 4148,
+            "end_char": 4251,
+            "sentiment": "4 stars",
+            "score": 0.252964049577713
+          },
+          {
+            "begin_char": 4252,
+            "end_char": 4450,
+            "sentiment": "2 stars",
+            "score": 0.3370044231414795
+          },
+          {
+            "begin_char": 4451,
+            "end_char": 4518,
+            "sentiment": "5 stars",
+            "score": 0.6334851384162903
+          },
+          {
+            "begin_char": 4519,
+            "end_char": 4653,
+            "sentiment": "4 stars",
+            "score": 0.2656649351119995
+          },
+          {
+            "begin_char": 4654,
+            "end_char": 4784,
+            "sentiment": "3 stars",
+            "score": 0.29873210191726685
+          },
+          {
+            "begin_char": 4785,
+            "end_char": 4791,
+            "sentiment": "3 stars",
+            "score": 0.27995848655700684
+          },
+          {
+            "begin_char": 4791,
+            "end_char": 4831,
+            "sentiment": "3 stars",
+            "score": 0.3211168050765991
+          },
+          {
+            "begin_char": 4832,
+            "end_char": 4868,
+            "sentiment": "4 stars",
+            "score": 0.29783040285110474
+          },
+          {
+            "begin_char": 4869,
+            "end_char": 4933,
+            "sentiment": "5 stars",
+            "score": 0.5131372213363647
+          },
+          {
+            "begin_char": 4934,
+            "end_char": 5203,
+            "sentiment": "5 stars",
+            "score": 0.6449289917945862
+          },
+          {
+            "begin_char": 5204,
+            "end_char": 5205,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 5205,
+            "end_char": 5272,
+            "sentiment": "4 stars",
+            "score": 0.32086363434791565
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-20",
+        "pageJO": "2510",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

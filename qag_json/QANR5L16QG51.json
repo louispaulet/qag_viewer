@@ -1,0 +1,485 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG51",
+    "identifiant": {
+      "numero": "51",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "jeunes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Service national universel"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720720",
+        "mandatRef": "PM797076"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Jeunesse et service national universel",
+      "developpe": "Secrétariat d’État auprès du ministre des armées et du ministre de l’éducation nationale et de la jeunesse, chargé de la jeunesse et du service national universel"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Jeunesse et service national universel",
+          "developpe": "Secrétariat d’État auprès du ministre des armées et du ministre de l’éducation nationale et de la jeunesse, chargé de la jeunesse et du service national universel"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SERVICE NATIONAL UNIVERSEL <a name=PG24></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Josy Poueyto.<br><br><strong>Mme Josy Poueyto. </strong>L'articulation du service national universel (SNU) dépend désormais du ministère de l'éducation nationale et du ministère des armées. Avec l'enthousiasme qui vous caractérise, madame la secrétaire d'État chargée de la jeunesse, vous incarnerez une nouvelle fois le SNU au Gouvernement, mais cette fois en tant que secrétaire d'État chargée de la jeunesse et du service national universel.<br><br>Cette configuration illustre bien l'évolution de la mise en œuvre du SNU dont le déploiement, qui date de la précédente législature, avait été conduit par le ministère des armées puis avait été placé sous la tutelle de l'éducation nationale. Cette méthode de travail transversale entre deux ministères est intéressante à plus d'un titre : elle permet d'activer avec davantage de cohérence des leviers d'insertion sociale et professionnelle tout en renouant avec la citoyenneté, avec ce qui fait nation, pour reconstruire un mieux vivre-ensemble. Cependant, au stade de la nouvelle organisation qui se met en place et d'une nouvelle ambition, et alors que je suis interrogée sur la montée en puissance du SNU, peu d'informations ont été communiquées à ce sujet.<br><br>Madame la secrétaire d'État, pouvez-vous partager avec la représentation nationale les éléments de nature à illustrer le rôle du ministère des armées dans la trajectoire du SNU au cours des années qui viennent ? <i>(Applaudissements sur les bancs du groupe Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État auprès du ministre des armées et du ministre de l’éducation nationale et de la jeunesse, chargée de la jeunesse et du service national universel.<br><br><strong>Mme Sarah El Haïry,</strong><i> secrétaire d'État auprès du ministre des armées et du ministre de l’éducation nationale et de la jeunesse, chargée de la jeunesse et du service national universel. </i>Je vous remercie de votre question qui me donne l'occasion de saluer les 40 000 jeunes qui ont servi, qui ont vécu une expérience unique et qui ont fait nation en étant accompagnés par plusieurs milliers d'encadrants. Ils ont rejoint, depuis 2019, la grande communauté des volontaires du SNU forte de 70 000 jeunes.<br><br>Les corps en uniforme participent déjà à l'encadrement du service national universel, bien sûr. Un tiers des encadrants sont soit des réservistes soit des retraités de l'armée. Ils participent aux séjours de cohésion et à la journée défense et mémoire ; ils accueillent les jeunes durant la mission d'intérêt général – la phase 2 du SNU –, lors des préparations militaires et en remplissant des missions mémorielles. Leur engagement complète celui des mondes associatif, de l'éducation populaire et de l'éducation nationale. La double tutelle, qui me permet d'être aux côtés du ministre des armées, Sébastien Lecornu, et du ministre de l'éducation nationale et de la jeunesse, Pap Ndiaye, est donc une chance pour la jeunesse.<br><br>Plus que jamais, nous réunissons les excellences françaises autour des jeunes. C'est notre priorité, afin évidemment d'accroître la culture de l'engagement civique et citoyen dont ils ont tant besoin. Oui, nous avons besoin de cohésion nationale ; oui, nous avons besoin de mixité sociale ; oui, nous avons besoin d'égalité des chances, et il se trouve que ces excellences les permettent.<br><br>Pour répondre très explicitement à votre question, l'école et l'armée partagent et transmettent les valeurs de mérite, de travail, d'effort, de collectif. Le ministre des armées, celui de l'éducation nationale et de la jeunesse et moi-même dressons l'inventaire, l'état des lieux des outils et des moyens en ce sens. <i>(Applaudissements sur les bancs du groupe Dem.)</i><br><br><strong>Mme la présidente.</strong> Merci, madame la secrétaire d'État.<br> <p>",
+        "entities": [
+          {
+            "start_char": 84,
+            "end_char": 87,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 128,
+            "end_char": 160,
+            "label": "PER",
+            "text": "Mme Josy Poueyto.<br><br><strong"
+          },
+          {
+            "start_char": 161,
+            "end_char": 177,
+            "label": "PER",
+            "text": "Mme Josy Poueyto"
+          },
+          {
+            "start_char": 234,
+            "end_char": 237,
+            "label": "MISC",
+            "text": "SNU"
+          },
+          {
+            "start_char": 387,
+            "end_char": 391,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 453,
+            "end_char": 456,
+            "label": "MISC",
+            "text": "SNU"
+          },
+          {
+            "start_char": 460,
+            "end_char": 472,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 515,
+            "end_char": 519,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 566,
+            "end_char": 583,
+            "label": "ORG",
+            "text": "universel.<br><br"
+          },
+          {
+            "start_char": 653,
+            "end_char": 656,
+            "label": "MISC",
+            "text": "SNU"
+          },
+          {
+            "start_char": 1288,
+            "end_char": 1291,
+            "label": "MISC",
+            "text": "SNU"
+          },
+          {
+            "start_char": 1338,
+            "end_char": 1351,
+            "label": "MISC",
+            "text": "sujet.<br><br"
+          },
+          {
+            "start_char": 1352,
+            "end_char": 1358,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 1375,
+            "end_char": 1379,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1525,
+            "end_char": 1528,
+            "label": "MISC",
+            "text": "SNU"
+          },
+          {
+            "start_char": 1609,
+            "end_char": 1633,
+            "label": "ORG",
+            "text": "Dem.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1634,
+            "end_char": 1637,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1678,
+            "end_char": 1681,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1698,
+            "end_char": 1702,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1751,
+            "end_char": 1753,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1864,
+            "end_char": 1876,
+            "label": "PER",
+            "text": "Mme Sarah El"
+          },
+          {
+            "start_char": 1909,
+            "end_char": 1913,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1962,
+            "end_char": 1964,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2352,
+            "end_char": 2355,
+            "label": "MISC",
+            "text": "SNU"
+          },
+          {
+            "start_char": 2720,
+            "end_char": 2723,
+            "label": "MISC",
+            "text": "SNU"
+          },
+          {
+            "start_char": 2986,
+            "end_char": 3003,
+            "label": "PER",
+            "text": "Sébastien Lecornu"
+          },
+          {
+            "start_char": 3064,
+            "end_char": 3074,
+            "label": "PER",
+            "text": "Pap Ndiaye"
+          },
+          {
+            "start_char": 3104,
+            "end_char": 3120,
+            "label": "ORG",
+            "text": "jeunesse.<br><br"
+          },
+          {
+            "start_char": 3498,
+            "end_char": 3516,
+            "label": "MISC",
+            "text": "permettent.<br><br"
+          },
+          {
+            "start_char": 3879,
+            "end_char": 3903,
+            "label": "ORG",
+            "text": "Dem.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3904,
+            "end_char": 3931,
+            "label": "PER",
+            "text": "Mme la présidente.</strong>"
+          },
+          {
+            "start_char": 3932,
+            "end_char": 3937,
+            "label": "PER",
+            "text": "Merci"
+          },
+          {
+            "start_char": 3962,
+            "end_char": 3970,
+            "label": "PER",
+            "text": "État.<br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 39,
+            "sentiment": "5 stars",
+            "score": 0.5120756030082703
+          },
+          {
+            "begin_char": 40,
+            "end_char": 49,
+            "sentiment": "5 stars",
+            "score": 0.38656601309776306
+          },
+          {
+            "begin_char": 50,
+            "end_char": 102,
+            "sentiment": "3 stars",
+            "score": 0.30454200506210327
+          },
+          {
+            "begin_char": 103,
+            "end_char": 178,
+            "sentiment": "3 stars",
+            "score": 0.26697343587875366
+          },
+          {
+            "begin_char": 179,
+            "end_char": 188,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 188,
+            "end_char": 321,
+            "sentiment": "4 stars",
+            "score": 0.3735818564891815
+          },
+          {
+            "begin_char": 322,
+            "end_char": 825,
+            "sentiment": "4 stars",
+            "score": 0.4627000689506531
+          },
+          {
+            "begin_char": 826,
+            "end_char": 1129,
+            "sentiment": "4 stars",
+            "score": 0.6042416095733643
+          },
+          {
+            "begin_char": 1130,
+            "end_char": 1563,
+            "sentiment": "4 stars",
+            "score": 0.4520723819732666
+          },
+          {
+            "begin_char": 1564,
+            "end_char": 1652,
+            "sentiment": "4 stars",
+            "score": 0.325787752866745
+          },
+          {
+            "begin_char": 1653,
+            "end_char": 2059,
+            "sentiment": "5 stars",
+            "score": 0.3455869257450104
+          },
+          {
+            "begin_char": 2060,
+            "end_char": 2064,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2064,
+            "end_char": 2066,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 2067,
+            "end_char": 2281,
+            "sentiment": "5 stars",
+            "score": 0.741199791431427
+          },
+          {
+            "begin_char": 2282,
+            "end_char": 2387,
+            "sentiment": "4 stars",
+            "score": 0.3504137098789215
+          },
+          {
+            "begin_char": 2387,
+            "end_char": 2482,
+            "sentiment": "4 stars",
+            "score": 0.31785252690315247
+          },
+          {
+            "begin_char": 2483,
+            "end_char": 2563,
+            "sentiment": "3 stars",
+            "score": 0.2859363853931427
+          },
+          {
+            "begin_char": 2564,
+            "end_char": 2640,
+            "sentiment": "4 stars",
+            "score": 0.36869338154792786
+          },
+          {
+            "begin_char": 2641,
+            "end_char": 2803,
+            "sentiment": "4 stars",
+            "score": 0.39172884821891785
+          },
+          {
+            "begin_char": 2804,
+            "end_char": 2911,
+            "sentiment": "5 stars",
+            "score": 0.5516321063041687
+          },
+          {
+            "begin_char": 2912,
+            "end_char": 2985,
+            "sentiment": "5 stars",
+            "score": 0.42109110951423645
+          },
+          {
+            "begin_char": 2986,
+            "end_char": 3199,
+            "sentiment": "5 stars",
+            "score": 0.5743741393089294
+          },
+          {
+            "begin_char": 3200,
+            "end_char": 3321,
+            "sentiment": "5 stars",
+            "score": 0.6520846486091614
+          },
+          {
+            "begin_char": 3322,
+            "end_char": 3368,
+            "sentiment": "5 stars",
+            "score": 0.4882221817970276
+          },
+          {
+            "begin_char": 3369,
+            "end_char": 3411,
+            "sentiment": "5 stars",
+            "score": 0.48607689142227173
+          },
+          {
+            "begin_char": 3412,
+            "end_char": 3671,
+            "sentiment": "5 stars",
+            "score": 0.6916080713272095
+          },
+          {
+            "begin_char": 3672,
+            "end_char": 3751,
+            "sentiment": "5 stars",
+            "score": 0.32610082626342773
+          },
+          {
+            "begin_char": 3751,
+            "end_char": 3833,
+            "sentiment": "4 stars",
+            "score": 0.4005539119243622
+          },
+          {
+            "begin_char": 3834,
+            "end_char": 3931,
+            "sentiment": "3 stars",
+            "score": 0.3203076124191284
+          },
+          {
+            "begin_char": 3932,
+            "end_char": 3971,
+            "sentiment": "5 stars",
+            "score": 0.41139742732048035
+          },
+          {
+            "begin_char": 3972,
+            "end_char": 3975,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-20",
+        "pageJO": "2527",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

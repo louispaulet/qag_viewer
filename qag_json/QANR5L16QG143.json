@@ -1,0 +1,665 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG143",
+    "identifiant": {
+      "numero": "143",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "médecine",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "ACCÈS AUX SOINS"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719072",
+        "mandatRef": "PM796392"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ACCÈS AUX SOINS <a name=PG6></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Thomas Mesnier.<br><br><strong>M. Thomas Mesnier. </strong>Monsieur le ministre de la santé et de la prévention, depuis cinq ans, notre majorité s'engage pour améliorer l'accès aux soins des Français, avec la suppression du numerus clausus, le doublement du nombre de maisons de santé, la création du métier d'assistant médical, le lancement de la téléconsultation et le déploiement en cours du service d'accès aux soins.<br><br>Malgré ces dispositifs, force est de constater que l'accès aux soins figure au premier rang des difficultés de nos concitoyens au quotidien.<br><br><strong>M. Éric Ciotti.</strong> Ça, c'est vrai !<br><br><strong>M. Thomas Mesnier. </strong>Alors que vous avez lancé le CNR – Conseil national de la refondation – Santé la semaine dernière au Mans et que nous avons commencé en commission l'examen du projet de loi de financement de la sécurité sociale (PLFSS) pour 2023, le Président de la République a déclaré hier faire confiance au Parlement pour répondre à cet enjeu : il a raison.<br><br>Prise en charge de certaines pathologies par les pharmaciens, infirmiers et kinés, renouvellement de certains traitements par les pharmaciens, fin de l'intérim : nul besoin de nouvelle loi, ces mesures figurent dans celle du 24 juillet 2019 relative à l'organisation et à la transformation du système de santé, dont j'étais le corapporteur, et dans celle du 26 avril 2021 visant à améliorer le système de santé par la confiance et la simplification, dont Stéphanie Rist fut l'auteure.<br><br><strong>M. Sébastien Jumel.</strong> Ça ne marche pas !<br><br><strong>M. Thomas Mesnier. </strong>Il s'agit maintenant de rédiger les textes réglementaires afférents : dix-sept décrets et treize arrêtés restent à prendre. Nous pouvons agir sans attendre les conclusions du CNR.<br><br><strong>M. Jérôme Guedj.</strong> Il serait temps, en effet !<br><br><strong>M. Thibault Bazin.</strong> Ce n'est pas En marche, mais En panne !<br><br><strong>M. Thomas Mesnier. </strong>Par ailleurs, le Gouvernement ouvre la voie à la régulation de l'installation des médecins par le conventionnement sélectif, dispositif qui figure au sein du PLFSS pour 2023. J'ai toujours considéré cette mesure comme inefficace – le rapport « Charges et produits » de l'Assurance maladie le prouve –, laquelle aurait pour effet de faire payer le patient, qui ne serait plus remboursé en consultant un médecin déconventionné. À la place, seriez-vous favorable à ma proposition visant à n'autoriser l'installation en zone sur-dense qu'en cas de remplacement d'un médecin cessant son activité ou de lancement d'une activité en zone sous-dense ?<br><br>Enfin, six millions de Français n'ont actuellement pas de médecin traitant et font l'objet d'une pénalité financière dans leur parcours de soins, ce qui constitue une double peine inacceptable. Seriez-vous prêt à supprimer cette sanction, comme le propose le groupe Horizons ? <i>(Applaudissements sur les bancs du groupe HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>L'accès aux soins et plus largement l'accès à la santé sont des enjeux majeurs, et je sais que beaucoup de parlementaires sont concernés, sur leur territoire, par ce que l'on appelle les déserts médicaux, ou du moins par l'inégalité d'accès à la santé. Vous l'avez dit, nous avons déjà agi, en attestent, par exemple, la suppression du numerus clausus et les investissements du Ségur de la santé. Il reste encore beaucoup à faire et la mise en application des lois qui ont été votées dans cette assemblée va bien entendu avoir lieu, en particulier – je l'ai annoncé – le déplafonnement de l'intérim cannibale – cet intérim qui met à mal nos services et nos structures.<br><br>Associer tout le monde, en particulier les élus, à la recherche de solutions, c'est tout l'objet du CNR Santé, qui a effectivement démarré il y a une semaine et qui a déjà produit des résultats intéressants, lesquels n'étaient pas connus et ne figuraient dans aucune loi ni proposition.<br><br>S'agissant de la régulation de l'installation, nous avons commis des erreurs au cours des vingt ou trente dernières années. <i>(Exclamations sur les bancs du groupe RN.)</i><br><br><strong>M. Michaël Taverne.</strong> C'est vrai !<br><br><strong>M. François Braun,</strong><i> ministre . </i>Beaucoup d'entre vous étaient déjà dans cet hémicycle pour entériner, entre autres, la fin du numerus clausus : il est bon que nous soyons revenus sur ce dispositif. <i>(Applaudissements sur quelques bancs des groupes RE, Dem et HOR.)</i><br><br>Je l'ai dit, il n'y a pas de sujet tabou, mais je recherche avant tout l'efficacité dans les mesures qui seront prises, et à éviter que celles-ci ne produisent des effets inverses à ceux escomptés.<br><br>Il n'y a pas de solution miracle, mais nous pouvons compter sur les bras qui existent. Il faut encourager nos médecins à prolonger leur activité, favoriser la découverte et l'installation de nos jeunes confrères dans les territoires sous-dotés – grâce au guichet unique ou à une quatrième année d'études – et, pour que chacun ait son utilité dans les parcours de soins, augmenter le temps médical, soit en diminuant la paperasserie, soit en multipliant les transferts de tâches et de compétences : c'est ce que j'ai demandé aux ordres professionnels. J'attends leur réponse, mais le Gouvernement saura prendre ses responsabilités sur ces transferts de tâches. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 47,
+            "end_char": 54,
+            "label": "PER",
+            "text": "PG6></a"
+          },
+          {
+            "start_char": 72,
+            "end_char": 75,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 116,
+            "end_char": 118,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 119,
+            "end_char": 125,
+            "label": "PER",
+            "text": "Thomas"
+          },
+          {
+            "start_char": 153,
+            "end_char": 167,
+            "label": "PER",
+            "text": "Thomas Mesnier"
+          },
+          {
+            "start_char": 178,
+            "end_char": 186,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 310,
+            "end_char": 318,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 343,
+            "end_char": 358,
+            "label": "MISC",
+            "text": "numerus clausus"
+          },
+          {
+            "start_char": 534,
+            "end_char": 547,
+            "label": "MISC",
+            "text": "soins.<br><br"
+          },
+          {
+            "start_char": 707,
+            "end_char": 728,
+            "label": "PER",
+            "text": "Éric Ciotti.</strong>"
+          },
+          {
+            "start_char": 729,
+            "end_char": 731,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 764,
+            "end_char": 778,
+            "label": "PER",
+            "text": "Thomas Mesnier"
+          },
+          {
+            "start_char": 818,
+            "end_char": 821,
+            "label": "ORG",
+            "text": "CNR"
+          },
+          {
+            "start_char": 824,
+            "end_char": 859,
+            "label": "ORG",
+            "text": "Conseil national de la refondation "
+          },
+          {
+            "start_char": 859,
+            "end_char": 866,
+            "label": "MISC",
+            "text": "– Santé"
+          },
+          {
+            "start_char": 890,
+            "end_char": 894,
+            "label": "LOC",
+            "text": "Mans"
+          },
+          {
+            "start_char": 1001,
+            "end_char": 1006,
+            "label": "ORG",
+            "text": "PLFSS"
+          },
+          {
+            "start_char": 1022,
+            "end_char": 1048,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1083,
+            "end_char": 1092,
+            "label": "ORG",
+            "text": "Parlement"
+          },
+          {
+            "start_char": 1126,
+            "end_char": 1146,
+            "label": "MISC",
+            "text": "raison.<br><br>Prise"
+          },
+          {
+            "start_char": 1596,
+            "end_char": 1610,
+            "label": "PER",
+            "text": "Stéphanie Rist"
+          },
+          {
+            "start_char": 1644,
+            "end_char": 1669,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 1670,
+            "end_char": 1672,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 1707,
+            "end_char": 1721,
+            "label": "PER",
+            "text": "Thomas Mesnier"
+          },
+          {
+            "start_char": 1907,
+            "end_char": 1926,
+            "label": "MISC",
+            "text": "CNR.<br><br><strong"
+          },
+          {
+            "start_char": 1927,
+            "end_char": 1951,
+            "label": "PER",
+            "text": "M. Jérôme Guedj.</strong"
+          },
+          {
+            "start_char": 2037,
+            "end_char": 2046,
+            "label": "MISC",
+            "text": "En marche"
+          },
+          {
+            "start_char": 2053,
+            "end_char": 2081,
+            "label": "MISC",
+            "text": "En panne !<br><br><strong>M."
+          },
+          {
+            "start_char": 2082,
+            "end_char": 2096,
+            "label": "PER",
+            "text": "Thomas Mesnier"
+          },
+          {
+            "start_char": 2124,
+            "end_char": 2136,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2265,
+            "end_char": 2270,
+            "label": "ORG",
+            "text": "PLFSS"
+          },
+          {
+            "start_char": 2351,
+            "end_char": 2358,
+            "label": "LOC",
+            "text": "Charges"
+          },
+          {
+            "start_char": 2378,
+            "end_char": 2387,
+            "label": "LOC",
+            "text": "Assurance"
+          },
+          {
+            "start_char": 2780,
+            "end_char": 2788,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2951,
+            "end_char": 2957,
+            "label": "PER",
+            "text": "Seriez"
+          },
+          {
+            "start_char": 3023,
+            "end_char": 3031,
+            "label": "LOC",
+            "text": "Horizons"
+          },
+          {
+            "start_char": 3079,
+            "end_char": 3103,
+            "label": "ORG",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3104,
+            "end_char": 3107,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3148,
+            "end_char": 3150,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3214,
+            "end_char": 3222,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3624,
+            "end_char": 3631,
+            "label": "MISC",
+            "text": "numerus"
+          },
+          {
+            "start_char": 3666,
+            "end_char": 3683,
+            "label": "ORG",
+            "text": "Ségur de la santé"
+          },
+          {
+            "start_char": 3945,
+            "end_char": 3964,
+            "label": "MISC",
+            "text": "structures.<br><br>"
+          },
+          {
+            "start_char": 4064,
+            "end_char": 4073,
+            "label": "MISC",
+            "text": "CNR Santé"
+          },
+          {
+            "start_char": 4423,
+            "end_char": 4446,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4507,
+            "end_char": 4515,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 4535,
+            "end_char": 4543,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4644,
+            "end_char": 4651,
+            "label": "MISC",
+            "text": "numerus"
+          },
+          {
+            "start_char": 4768,
+            "end_char": 4770,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4772,
+            "end_char": 4775,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4779,
+            "end_char": 4795,
+            "label": "PER",
+            "text": "HOR.)</i><br><br"
+          },
+          {
+            "start_char": 4983,
+            "end_char": 5000,
+            "label": "MISC",
+            "text": "escomptés.<br><br"
+          },
+          {
+            "start_char": 5584,
+            "end_char": 5602,
+            "label": "MISC",
+            "text": "Gouvernement saura"
+          },
+          {
+            "start_char": 5714,
+            "end_char": 5716,
+            "label": "MISC",
+            "text": "RE"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 90,
+            "sentiment": "4 stars",
+            "score": 0.2764829099178314
+          },
+          {
+            "begin_char": 91,
+            "end_char": 168,
+            "sentiment": "3 stars",
+            "score": 0.2485181838274002
+          },
+          {
+            "begin_char": 169,
+            "end_char": 178,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 178,
+            "end_char": 728,
+            "sentiment": "5 stars",
+            "score": 0.49780017137527466
+          },
+          {
+            "begin_char": 729,
+            "end_char": 745,
+            "sentiment": "5 stars",
+            "score": 0.2845899164676666
+          },
+          {
+            "begin_char": 745,
+            "end_char": 779,
+            "sentiment": "3 stars",
+            "score": 0.2845425605773926
+          },
+          {
+            "begin_char": 780,
+            "end_char": 789,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 789,
+            "end_char": 859,
+            "sentiment": "5 stars",
+            "score": 0.25730809569358826
+          },
+          {
+            "begin_char": 859,
+            "end_char": 886,
+            "sentiment": "3 stars",
+            "score": 0.2982070744037628
+          },
+          {
+            "begin_char": 887,
+            "end_char": 1669,
+            "sentiment": "5 stars",
+            "score": 0.5551549792289734
+          },
+          {
+            "begin_char": 1670,
+            "end_char": 1722,
+            "sentiment": "1 star",
+            "score": 0.8512073159217834
+          },
+          {
+            "begin_char": 1723,
+            "end_char": 1732,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1732,
+            "end_char": 1855,
+            "sentiment": "4 stars",
+            "score": 0.37375012040138245
+          },
+          {
+            "begin_char": 1856,
+            "end_char": 1952,
+            "sentiment": "5 stars",
+            "score": 0.39293941855430603
+          },
+          {
+            "begin_char": 1953,
+            "end_char": 1980,
+            "sentiment": "5 stars",
+            "score": 0.32615649700164795
+          },
+          {
+            "begin_char": 1980,
+            "end_char": 2023,
+            "sentiment": "3 stars",
+            "score": 0.31751394271850586
+          },
+          {
+            "begin_char": 2024,
+            "end_char": 2097,
+            "sentiment": "1 star",
+            "score": 0.5633953809738159
+          },
+          {
+            "begin_char": 2098,
+            "end_char": 2107,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2107,
+            "end_char": 2281,
+            "sentiment": "4 stars",
+            "score": 0.454617977142334
+          },
+          {
+            "begin_char": 2282,
+            "end_char": 2532,
+            "sentiment": "1 star",
+            "score": 0.6011087894439697
+          },
+          {
+            "begin_char": 2533,
+            "end_char": 2749,
+            "sentiment": "3 stars",
+            "score": 0.27614107728004456
+          },
+          {
+            "begin_char": 2749,
+            "end_char": 2949,
+            "sentiment": "1 star",
+            "score": 0.4868243634700775
+          },
+          {
+            "begin_char": 2949,
+            "end_char": 2950,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 2951,
+            "end_char": 3033,
+            "sentiment": "1 star",
+            "score": 0.26260316371917725
+          },
+          {
+            "begin_char": 3034,
+            "end_char": 3122,
+            "sentiment": "4 stars",
+            "score": 0.3090986907482147
+          },
+          {
+            "begin_char": 3123,
+            "end_char": 3241,
+            "sentiment": "4 stars",
+            "score": 0.3129529356956482
+          },
+          {
+            "begin_char": 3242,
+            "end_char": 3283,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 3284,
+            "end_char": 3288,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3288,
+            "end_char": 3540,
+            "sentiment": "5 stars",
+            "score": 0.45547276735305786
+          },
+          {
+            "begin_char": 3541,
+            "end_char": 3684,
+            "sentiment": "5 stars",
+            "score": 0.43524467945098877
+          },
+          {
+            "begin_char": 3685,
+            "end_char": 3964,
+            "sentiment": "4 stars",
+            "score": 0.39871352910995483
+          },
+          {
+            "begin_char": 3964,
+            "end_char": 4381,
+            "sentiment": "2 stars",
+            "score": 0.347555547952652
+          },
+          {
+            "begin_char": 4382,
+            "end_char": 4475,
+            "sentiment": "3 stars",
+            "score": 0.34058713912963867
+          },
+          {
+            "begin_char": 4476,
+            "end_char": 4488,
+            "sentiment": "5 stars",
+            "score": 0.29584935307502747
+          },
+          {
+            "begin_char": 4488,
+            "end_char": 4545,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 4546,
+            "end_char": 4715,
+            "sentiment": "5 stars",
+            "score": 0.27322128415107727
+          },
+          {
+            "begin_char": 4716,
+            "end_char": 5001,
+            "sentiment": "4 stars",
+            "score": 0.3933579623699188
+          },
+          {
+            "begin_char": 5001,
+            "end_char": 5087,
+            "sentiment": "5 stars",
+            "score": 0.3381064236164093
+          },
+          {
+            "begin_char": 5088,
+            "end_char": 5551,
+            "sentiment": "5 stars",
+            "score": 0.6200769543647766
+          },
+          {
+            "begin_char": 5552,
+            "end_char": 5660,
+            "sentiment": "4 stars",
+            "score": 0.367532879114151
+          },
+          {
+            "begin_char": 5661,
+            "end_char": 5737,
+            "sentiment": "3 stars",
+            "score": 0.3345279097557068
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-12",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-12",
+        "pageJO": "3860",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

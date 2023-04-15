@@ -1,0 +1,725 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG178",
+    "identifiant": {
+      "numero": "178",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "terrorisme",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "COMMÉMORATION DE L'ASSASSINAT DE SAMUEL PATY"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721262",
+        "mandatRef": "PM797550"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Justice",
+      "developpe": "Ministère de la justice"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Justice",
+          "developpe": "Ministère de la justice"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> COMMÉMORATION DE L'ASSASSINAT DE SAMUEL PATY <a name=PG13></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Guillaume Vuilletet.<br><br><strong>M. Guillaume Vuilletet. </strong>Monsieur le garde des sceaux, deux villes, deux lieux : celui où Samuel Paty a vécu et celui où il a transmis. Éragny-sur-Oise et Conflans-Sainte-Honorine : deux villes où il fait bon vivre et qui sont désormais marquées par son martyr. Deux villes où nombre de nos concitoyens ont ressenti le besoin de se retrouver ce dimanche 16 octobre, deux ans après le drame, dans le cadre de cérémonies un peu différentes mais dont le sens était le même : la République n'oubliera pas, elle ne cédera pas.<br><br>Dans ces deux endroits, le même voile de tristesse, les mêmes accolades pour partager un peu de chaleur et le même silence. Deux cérémonies dignes où les mêmes mots ont résonné : le respect absolu pour Samuel Paty, la même dénonciation de l'alliance abjecte de la bêtise et de la haine, la même force dans la lutte contre le terrorisme islamiste.<br><br>Il fallait aussi rappeler quelle était la mission de Samuel Paty, ce à quoi il a consacré sa vie : apprendre aux adolescents les valeurs qui nous font vivre ensemble et notre histoire, dont ces valeurs sont le produit, leur apprendre combien la République est émancipatrice, combien elle garantit le respect de leurs convictions et de l'évolution de celles-ci, partager les doutes et les controverses. Il était indispensable de rappeler aussi que la laïcité n'est que, mais c'est fondamental, la liberté absolue de conscience et la neutralité de l'autorité publique.<br><br>Ceux qui ont manipulé le terroriste n'ont pas choisi leur cible par hasard. Ce sont celles et ceux qui apportent ce savoir qui ont été atteints, celles et ceux qui apportent cette lumière à nos enfants. Des adolescents étaient là, eux aussi, dimanche, marqués, dignes et recueillis. Je veux parler également des proches de Samuel Paty, au regard dévasté, de ce tout jeune garçon, à qui nous devons dire que nous serons toujours là.<br><br>À la fin de chacune de ces cérémonies, la même question, toute simple, m'a été posée : qu'est-ce qui a changé depuis ce jour terrible ? J'ai mentionné la loi contre le séparatisme, l'action du Gouvernement contre la haine en ligne, la lutte contre la radicalité. J'ai décrit tout cela, mais je crois que nos concitoyens ont besoin d'entendre la voix du Gouvernement.<br><br>Aussi, je vous transmets simplement cette question, monsieur le garde des sceaux : qu'est-ce qui a changé depuis ce terrible 16 octobre 2020 ? <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le garde des sceaux, ministre de la justice.<br><br><strong>M. Jean-Philippe Tanguy.</strong> On est sauvés !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux, ministre de la justice. </i>Ce qui a changé, c'est d'abord le choc considérable qu'a provoqué l'assassinat de Samuel Paty, son retentissement considérable. En assassinant cet homme, on a voulu tuer la République, l'État de droit, la liberté d'expression.<br><br>D'abord, nous avons tous compris qu'il n'y avait pas de place pour les « inverseurs de culpabilité », pour reprendre la formule de la sœur de Samuel Paty, Mickaëlle Paty. Je veux le dire très clairement, nous ne laisserons pas les activistes islamistes remettre en cause la loi de 2004 sur le port de signes religieux dans les établissements scolaires <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR et sur quelques bancs du groupe SOC)</i>…<br><br><strong>M. Jocelyn Dessigny.</strong> Et les tenues islamistes dans les collèges et les lycées ? Bravo !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>…et je le dis sous le contrôle du ministre de l'éducation nationale et de Mme la Première ministre.<br><br>Ensuite, il y a ceux qui hurlent, ceux qui vocifèrent, les « y'a qu'à, faut qu'on »…<br><br><strong>M. Olivier Marleix.</strong> Il y a aussi ceux qui ont fait voter la loi de 2004 !<br><br><strong>M. Pierre Meurin.</strong> Il y a ceux qui ne font rien !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>…et puis ceux qui travaillent et ceux qui font. Au rang des choses que nous avons faites figurent deux textes législatifs adoptés en 2021, deux lois successives – pour lesquelles certains, d'ailleurs, n'ont pas voté –…<br><br><strong>M. Olivier Marleix.</strong> Vous parlez des socialistes ?<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>…destinées à conforter l'arsenal mis à disposition des services pour lutter contre les phénomènes terroristes :…<br><br><strong>M. Jocelyn Dessigny.</strong> Quelle efficacité !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>…la loi du 30 juillet 2021, qui pérennise les dispositions de la loi renforçant la sécurité intérieure et la lutte contre le terrorisme (Silt), et la loi confortant le respect des principes de la République, promulguée le 24 août 2021 – que vous n'avez pas votée, soit dit entre parenthèses.<br><br>Puis il y a davantage de moyens budgétaires et humains <i>(« Très efficace… »</i> sur les bancs du groupe RN) pour la police, le renseignement, la justice. Puis le suivi psychiatrique a été renforcé. Sur ce point, de grandes avancées ont été réalisées puisque la direction générale de la sécurité intérieure et les préfets se sont notamment dotés d'une capacité d'analyse dédiée. Puis il y a l'éloignement des étrangers en situation irrégulière inscrits au fichier de traitement des signalements pour la prévention de la radicalisation à caractère terroriste.<br><br><strong>M. Jocelyn Dessigny.</strong> Vous êtes complètement déconnecté !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>Puis, la judiciarisation est prévue bien plus rapidement, notamment pour les faits d'apologie du terrorisme.<br><br>Puis la plateforme d’harmonisation, d’analyse, de recoupement et d’orientation des signalements (Pharos) a été renforcée et le pôle national de lutte contre la haine en ligne a été créé <i>(Applaudissements sur plusieurs bancs du groupe RE. – Protestations sur les bancs du groupe RN)</i>…<br><br><strong>Mme la présidente.</strong> Merci, monsieur le ministre.<br> <p>",
+        "entities": [
+          {
+            "start_char": 56,
+            "end_char": 62,
+            "label": "ORG",
+            "text": "SAMUEL"
+          },
+          {
+            "start_char": 63,
+            "end_char": 67,
+            "label": "ORG",
+            "text": "PATY"
+          },
+          {
+            "start_char": 102,
+            "end_char": 105,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 146,
+            "end_char": 148,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 149,
+            "end_char": 158,
+            "label": "PER",
+            "text": "Guillaume"
+          },
+          {
+            "start_char": 188,
+            "end_char": 207,
+            "label": "PER",
+            "text": "Guillaume Vuilletet"
+          },
+          {
+            "start_char": 218,
+            "end_char": 226,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 283,
+            "end_char": 294,
+            "label": "PER",
+            "text": "Samuel Paty"
+          },
+          {
+            "start_char": 329,
+            "end_char": 344,
+            "label": "LOC",
+            "text": "Éragny-sur-Oise"
+          },
+          {
+            "start_char": 668,
+            "end_char": 678,
+            "label": "MISC",
+            "text": "République"
+          },
+          {
+            "start_char": 924,
+            "end_char": 935,
+            "label": "PER",
+            "text": "Samuel Paty"
+          },
+          {
+            "start_char": 1058,
+            "end_char": 1075,
+            "label": "MISC",
+            "text": "islamiste.<br><br"
+          },
+          {
+            "start_char": 1129,
+            "end_char": 1140,
+            "label": "PER",
+            "text": "Samuel Paty"
+          },
+          {
+            "start_char": 1321,
+            "end_char": 1331,
+            "label": "MISC",
+            "text": "République"
+          },
+          {
+            "start_char": 1633,
+            "end_char": 1649,
+            "label": "MISC",
+            "text": "publique.<br><br"
+          },
+          {
+            "start_char": 1973,
+            "end_char": 1984,
+            "label": "PER",
+            "text": "Samuel Paty"
+          },
+          {
+            "start_char": 2282,
+            "end_char": 2294,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2651,
+            "end_char": 2674,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2675,
+            "end_char": 2678,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2719,
+            "end_char": 2721,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2743,
+            "end_char": 2781,
+            "label": "ORG",
+            "text": "ministre de la justice.<br><br><strong"
+          },
+          {
+            "start_char": 2785,
+            "end_char": 2814,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong"
+          },
+          {
+            "start_char": 2850,
+            "end_char": 2861,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 3011,
+            "end_char": 3022,
+            "label": "PER",
+            "text": "Samuel Paty"
+          },
+          {
+            "start_char": 3102,
+            "end_char": 3112,
+            "label": "LOC",
+            "text": "République"
+          },
+          {
+            "start_char": 3116,
+            "end_char": 3120,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3305,
+            "end_char": 3316,
+            "label": "PER",
+            "text": "Samuel Paty"
+          },
+          {
+            "start_char": 3318,
+            "end_char": 3332,
+            "label": "PER",
+            "text": "Mickaëlle Paty"
+          },
+          {
+            "start_char": 3562,
+            "end_char": 3564,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3566,
+            "end_char": 3569,
+            "label": "MISC",
+            "text": "Dem"
+          },
+          {
+            "start_char": 3573,
+            "end_char": 3576,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 3609,
+            "end_char": 3617,
+            "label": "ORG",
+            "text": "SOC)</i>"
+          },
+          {
+            "start_char": 3637,
+            "end_char": 3662,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 3723,
+            "end_char": 3728,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 3749,
+            "end_char": 3760,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 3878,
+            "end_char": 3893,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 3894,
+            "end_char": 3910,
+            "label": "MISC",
+            "text": "ministre.<br><br"
+          },
+          {
+            "start_char": 4112,
+            "end_char": 4134,
+            "label": "PER",
+            "text": "Pierre Meurin.</strong"
+          },
+          {
+            "start_char": 4185,
+            "end_char": 4196,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4551,
+            "end_char": 4562,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4738,
+            "end_char": 4763,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 4803,
+            "end_char": 4814,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4995,
+            "end_char": 4999,
+            "label": "LOC",
+            "text": "Silt"
+          },
+          {
+            "start_char": 5054,
+            "end_char": 5064,
+            "label": "MISC",
+            "text": "République"
+          },
+          {
+            "start_char": 5137,
+            "end_char": 5156,
+            "label": "MISC",
+            "text": "parenthèses.<br><br"
+          },
+          {
+            "start_char": 5263,
+            "end_char": 5265,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 5735,
+            "end_char": 5760,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 5816,
+            "end_char": 5827,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 5968,
+            "end_char": 5986,
+            "label": "MISC",
+            "text": "terrorisme.<br><br"
+          },
+          {
+            "start_char": 6052,
+            "end_char": 6054,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 6084,
+            "end_char": 6090,
+            "label": "LOC",
+            "text": "Pharos"
+          },
+          {
+            "start_char": 6174,
+            "end_char": 6193,
+            "label": "MISC",
+            "text": "i>(Applaudissements"
+          },
+          {
+            "start_char": 6217,
+            "end_char": 6226,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 6292,
+            "end_char": 6319,
+            "label": "PER",
+            "text": "Mme la présidente.</strong>"
+          },
+          {
+            "start_char": 6320,
+            "end_char": 6325,
+            "label": "MISC",
+            "text": "Merci"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 120,
+            "sentiment": "3 stars",
+            "score": 0.339763343334198
+          },
+          {
+            "begin_char": 121,
+            "end_char": 208,
+            "sentiment": "3 stars",
+            "score": 0.2586393654346466
+          },
+          {
+            "begin_char": 209,
+            "end_char": 218,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 218,
+            "end_char": 328,
+            "sentiment": "5 stars",
+            "score": 0.405529260635376
+          },
+          {
+            "begin_char": 329,
+            "end_char": 356,
+            "sentiment": "4 stars",
+            "score": 0.31894364953041077
+          },
+          {
+            "begin_char": 356,
+            "end_char": 357,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 357,
+            "end_char": 363,
+            "sentiment": "5 stars",
+            "score": 0.4267815351486206
+          },
+          {
+            "begin_char": 363,
+            "end_char": 364,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 364,
+            "end_char": 373,
+            "sentiment": "4 stars",
+            "score": 0.3197234869003296
+          },
+          {
+            "begin_char": 373,
+            "end_char": 374,
+            "sentiment": "4 stars",
+            "score": 0.279130220413208
+          },
+          {
+            "begin_char": 375,
+            "end_char": 454,
+            "sentiment": "4 stars",
+            "score": 0.38473016023635864
+          },
+          {
+            "begin_char": 455,
+            "end_char": 845,
+            "sentiment": "5 stars",
+            "score": 0.4260384142398834
+          },
+          {
+            "begin_char": 846,
+            "end_char": 1076,
+            "sentiment": "5 stars",
+            "score": 0.7792391777038574
+          },
+          {
+            "begin_char": 1076,
+            "end_char": 1477,
+            "sentiment": "5 stars",
+            "score": 0.5265074968338013
+          },
+          {
+            "begin_char": 1478,
+            "end_char": 1725,
+            "sentiment": "5 stars",
+            "score": 0.5546672940254211
+          },
+          {
+            "begin_char": 1726,
+            "end_char": 1852,
+            "sentiment": "5 stars",
+            "score": 0.758681058883667
+          },
+          {
+            "begin_char": 1853,
+            "end_char": 1932,
+            "sentiment": "5 stars",
+            "score": 0.5443693995475769
+          },
+          {
+            "begin_char": 1933,
+            "end_char": 2224,
+            "sentiment": "5 stars",
+            "score": 0.580603837966919
+          },
+          {
+            "begin_char": 2225,
+            "end_char": 2351,
+            "sentiment": "4 stars",
+            "score": 0.3386062979698181
+          },
+          {
+            "begin_char": 2352,
+            "end_char": 2605,
+            "sentiment": "5 stars",
+            "score": 0.3778747320175171
+          },
+          {
+            "begin_char": 2606,
+            "end_char": 2693,
+            "sentiment": "4 stars",
+            "score": 0.3044034242630005
+          },
+          {
+            "begin_char": 2694,
+            "end_char": 2815,
+            "sentiment": "4 stars",
+            "score": 0.30594778060913086
+          },
+          {
+            "begin_char": 2816,
+            "end_char": 2831,
+            "sentiment": "5 stars",
+            "score": 0.46970635652542114
+          },
+          {
+            "begin_char": 2831,
+            "end_char": 2924,
+            "sentiment": "4 stars",
+            "score": 0.32424721121788025
+          },
+          {
+            "begin_char": 2925,
+            "end_char": 3056,
+            "sentiment": "5 stars",
+            "score": 0.42535609006881714
+          },
+          {
+            "begin_char": 3057,
+            "end_char": 3333,
+            "sentiment": "5 stars",
+            "score": 0.3473493456840515
+          },
+          {
+            "begin_char": 3334,
+            "end_char": 3722,
+            "sentiment": "5 stars",
+            "score": 0.3483361005783081
+          },
+          {
+            "begin_char": 3723,
+            "end_char": 3730,
+            "sentiment": "5 stars",
+            "score": 0.6793175935745239
+          },
+          {
+            "begin_char": 3730,
+            "end_char": 3799,
+            "sentiment": "4 stars",
+            "score": 0.28637129068374634
+          },
+          {
+            "begin_char": 3800,
+            "end_char": 4039,
+            "sentiment": "5 stars",
+            "score": 0.220961332321167
+          },
+          {
+            "begin_char": 4040,
+            "end_char": 4093,
+            "sentiment": "1 star",
+            "score": 0.2677406668663025
+          },
+          {
+            "begin_char": 4093,
+            "end_char": 4135,
+            "sentiment": "3 stars",
+            "score": 0.3114370107650757
+          },
+          {
+            "begin_char": 4136,
+            "end_char": 4166,
+            "sentiment": "1 star",
+            "score": 0.5791364908218384
+          },
+          {
+            "begin_char": 4166,
+            "end_char": 4235,
+            "sentiment": "4 stars",
+            "score": 0.28637129068374634
+          },
+          {
+            "begin_char": 4236,
+            "end_char": 4287,
+            "sentiment": "3 stars",
+            "score": 0.25578492879867554
+          },
+          {
+            "begin_char": 4288,
+            "end_char": 4502,
+            "sentiment": "2 stars",
+            "score": 0.23970799148082733
+          },
+          {
+            "begin_char": 4503,
+            "end_char": 4532,
+            "sentiment": "1 star",
+            "score": 0.3272855579853058
+          },
+          {
+            "begin_char": 4532,
+            "end_char": 4602,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 4603,
+            "end_char": 4784,
+            "sentiment": "5 stars",
+            "score": 0.47005847096443176
+          },
+          {
+            "begin_char": 4784,
+            "end_char": 4853,
+            "sentiment": "4 stars",
+            "score": 0.28637129068374634
+          },
+          {
+            "begin_char": 4854,
+            "end_char": 5312,
+            "sentiment": "5 stars",
+            "score": 0.4682728052139282
+          },
+          {
+            "begin_char": 5313,
+            "end_char": 5356,
+            "sentiment": "4 stars",
+            "score": 0.4009361267089844
+          },
+          {
+            "begin_char": 5357,
+            "end_char": 5536,
+            "sentiment": "5 stars",
+            "score": 0.5438807010650635
+          },
+          {
+            "begin_char": 5537,
+            "end_char": 5761,
+            "sentiment": "3 stars",
+            "score": 0.33039620518684387
+          },
+          {
+            "begin_char": 5762,
+            "end_char": 5797,
+            "sentiment": "1 star",
+            "score": 0.7127230763435364
+          },
+          {
+            "begin_char": 5797,
+            "end_char": 5866,
+            "sentiment": "4 stars",
+            "score": 0.28637129068374634
+          },
+          {
+            "begin_char": 5867,
+            "end_char": 6319,
+            "sentiment": "4 stars",
+            "score": 0.4188389480113983
+          },
+          {
+            "begin_char": 6320,
+            "end_char": 6352,
+            "sentiment": "5 stars",
+            "score": 0.4536571502685547
+          },
+          {
+            "begin_char": 6353,
+            "end_char": 6356,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-20",
+        "pageJO": "4311",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

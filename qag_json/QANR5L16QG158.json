@@ -1,0 +1,827 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG158",
+    "identifiant": {
+      "numero": "158",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "police",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "RÉFORME DE LA POLICE JUDICIAIRE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA342384",
+        "mandatRef": "PM796656"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Justice",
+      "developpe": "Ministère de la justice"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Justice",
+          "developpe": "Ministère de la justice"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DE LA POLICE JUDICIAIRE <a name=PG21></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Élisa Martin.<br><br><strong>Mme Élisa Martin. </strong>C'est l'ébullition au sein de la police judiciaire – la PJ : des manifestations historiques partout dans le pays, du jamais vu depuis la création des brigades du Tigre ! À cela, vous répondez ni plus ni moins par le limogeage du directeur de la PJ de Marseille, Éric Arella. Pourtant, les retours concernant les expérimentations sont négatifs ; les alertes remontent de toutes parts ; l'ensemble du monde judiciaire est vent debout contre cette réforme, jusqu'au procureur général près la Cour de cassation, François Molins ! Celui-ci pleurerait-il avant d'être battu ? Non, je ne le crois pas !<br><br><strong>M. Jocelyn Dessigny.</strong> Ceux-là mêmes qui disaient il y a peu que les policiers tuent prétendent maintenant les défendre : c'est beau !<br><br><strong>Mme Élisa Martin. </strong>Cette réforme met à mal la séparation des pouvoirs, en plaçant les enquêteurs de la PJ sous la hiérarchie directe des préfets, qui sont eux-mêmes sous l'égide des membres du Gouvernement ; c'est bien à ça que servent les préfets, me semble-t-il. Le problème de la police n'est pas la justice, quoi qu'en pensent et quoi qu'en disent vos amis factieux d'Alliance Police. <i>(Applaudissements sur les bancs du groupe LFI-NUPES. – Protestations sur quelques bancs du groupe RN.)</i><br><br><strong>Mme Marine Le Pen.</strong> Rappel au règlement !<br><br><strong>Mme Élisa Martin. </strong>Avec cette réforme, vous mettez à mal le principe de sûreté consacré à l'article 6 de la Déclaration des droits de l'homme et du citoyen. Dans un État de droit, les enquêteurs sont sous la seule autorité des magistrats et ne dépendent pas des desiderata ou des lubies de tel ou tel ministre de l'intérieur obsédé par les chiffres. Contrairement à ce que vous soutenez, la PJ ne peut être diluée dans d'autres services : elle a ses spécificités et ses exigences procédurales, garantes de son efficacité dans la lutte contre la délinquance économique et financière et la criminalité organisée.<br><br><strong>Mme Laure Lavalette.</strong> Finalement, c'est bien, la police ?<br><br><strong>Mme Élisa Martin. </strong>Confirmez-vous, comme c'est écrit dans votre courrier du 9 octobre à la direction centrale de la police judiciaire, que vous avez renoncé à sa départementalisation ?<br><br><strong>Mme la présidente. </strong>La parole est à M. le garde des sceaux, ministre de la justice.<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux, ministre de la justice. </i>Vous êtes aux paradoxes ce que Richter est aux séismes : une référence ! <i>(Applaudissements sur les bancs des groupes RE et Dem. – Protestations sur les bancs du groupe LFI-NUPES ; « Insulte ! » sur les bancs du groupe RN.)</i><br><br><strong>M. Alexis Corbière.</strong> Madame la présidente !<br><br><strong>M. Jocelyn Dessigny.</strong> Si même les ministres se mettent à insulter les députés !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>Votre mentor a physiquement secoué des officiers de police judiciaire et un magistrat du parquet ; vous dites régulièrement que la police tue…<br><br><strong>Plusieurs députés du groupe LFI-NUPES .</strong> Oui !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>…et voilà que vous vous levez pour prétendument défendre la police. C'est extraordinaire ! <i>(Mêmes mouvements.)</i><br><br>Vous avez raison sur un point : le problème de la police n'est pas la justice, c'est la délinquance. Pour le reste, j'ai déjà répondu : une expérimentation est en cours ; le texte sera cosigné ; les magistrats ont, légitimement, exprimé des doutes. Nous avons tenu ce matin une réunion avec eux, notamment des procureurs généraux : je regrette que vous n'y ayez pas participé. Les choses sont très claires.<br><br><strong>Mme Élisa Martin.</strong> Renoncez-vous à la départementalisation ?<br><br><strong>Mme Blandine Brocard.</strong> Écoutez le ministre !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>Écoutez ma réponse, sinon il est inutile de me poser la question !<br><br><strong>Mme Élisa Martin.</strong> Y renoncez-vous ?<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>L'article 12-1 du code de procédure pénale ne sera pas modifié. Les prérogatives légitimes des magistrats en matière de choix des enquêteurs ne seront pas changées. Pour le reste, j'ai un peu de mal à répondre à votre question, parce que je ne l'ai pas comprise. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 30,
+            "label": "MISC",
+            "text": "RÉFORME"
+          },
+          {
+            "start_char": 37,
+            "end_char": 43,
+            "label": "ORG",
+            "text": "POLICE"
+          },
+          {
+            "start_char": 89,
+            "end_char": 92,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 133,
+            "end_char": 165,
+            "label": "PER",
+            "text": "Mme Élisa Martin.<br><br><strong"
+          },
+          {
+            "start_char": 166,
+            "end_char": 182,
+            "label": "PER",
+            "text": "Mme Élisa Martin"
+          },
+          {
+            "start_char": 249,
+            "end_char": 251,
+            "label": "ORG",
+            "text": "PJ"
+          },
+          {
+            "start_char": 355,
+            "end_char": 360,
+            "label": "LOC",
+            "text": "Tigre"
+          },
+          {
+            "start_char": 438,
+            "end_char": 440,
+            "label": "ORG",
+            "text": "PJ"
+          },
+          {
+            "start_char": 444,
+            "end_char": 453,
+            "label": "LOC",
+            "text": "Marseille"
+          },
+          {
+            "start_char": 455,
+            "end_char": 466,
+            "label": "PER",
+            "text": "Éric Arella"
+          },
+          {
+            "start_char": 682,
+            "end_char": 699,
+            "label": "LOC",
+            "text": "Cour de cassation"
+          },
+          {
+            "start_char": 701,
+            "end_char": 716,
+            "label": "PER",
+            "text": "François Molins"
+          },
+          {
+            "start_char": 807,
+            "end_char": 847,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong> Ceux-là mêmes"
+          },
+          {
+            "start_char": 961,
+            "end_char": 977,
+            "label": "PER",
+            "text": "Mme Élisa Martin"
+          },
+          {
+            "start_char": 1072,
+            "end_char": 1074,
+            "label": "ORG",
+            "text": "PJ"
+          },
+          {
+            "start_char": 1162,
+            "end_char": 1174,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1341,
+            "end_char": 1356,
+            "label": "ORG",
+            "text": "Alliance Police"
+          },
+          {
+            "start_char": 1403,
+            "end_char": 1412,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1459,
+            "end_char": 1482,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1483,
+            "end_char": 1493,
+            "label": "PER",
+            "text": "Mme Marine"
+          },
+          {
+            "start_char": 1497,
+            "end_char": 1509,
+            "label": "MISC",
+            "text": "Pen.</strong"
+          },
+          {
+            "start_char": 1511,
+            "end_char": 1517,
+            "label": "LOC",
+            "text": "Rappel"
+          },
+          {
+            "start_char": 1548,
+            "end_char": 1564,
+            "label": "PER",
+            "text": "Mme Élisa Martin"
+          },
+          {
+            "start_char": 1664,
+            "end_char": 1697,
+            "label": "MISC",
+            "text": "Déclaration des droits de l'homme"
+          },
+          {
+            "start_char": 1721,
+            "end_char": 1725,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1947,
+            "end_char": 1949,
+            "label": "ORG",
+            "text": "PJ"
+          },
+          {
+            "start_char": 2182,
+            "end_char": 2191,
+            "label": "PER",
+            "text": "Mme Laure"
+          },
+          {
+            "start_char": 2263,
+            "end_char": 2279,
+            "label": "PER",
+            "text": "Mme Élisa Martin"
+          },
+          {
+            "start_char": 2290,
+            "end_char": 2299,
+            "label": "LOC",
+            "text": "Confirmez"
+          },
+          {
+            "start_char": 2471,
+            "end_char": 2474,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2515,
+            "end_char": 2517,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2539,
+            "end_char": 2577,
+            "label": "ORG",
+            "text": "ministre de la justice.<br><br><strong"
+          },
+          {
+            "start_char": 2581,
+            "end_char": 2592,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2691,
+            "end_char": 2698,
+            "label": "PER",
+            "text": "Richter"
+          },
+          {
+            "start_char": 2780,
+            "end_char": 2782,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 2786,
+            "end_char": 2789,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 2831,
+            "end_char": 2840,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2845,
+            "end_char": 2852,
+            "label": "ORG",
+            "text": "Insulte"
+          },
+          {
+            "start_char": 2881,
+            "end_char": 2904,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2934,
+            "end_char": 2940,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 2975,
+            "end_char": 3000,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 3078,
+            "end_char": 3089,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 3319,
+            "end_char": 3328,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3364,
+            "end_char": 3375,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 3511,
+            "end_char": 3519,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 3966,
+            "end_char": 3970,
+            "label": "PER",
+            "text": "Mme "
+          },
+          {
+            "start_char": 4050,
+            "end_char": 4080,
+            "label": "PER",
+            "text": "Mme Blandine Brocard.</strong>"
+          },
+          {
+            "start_char": 4121,
+            "end_char": 4132,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4176,
+            "end_char": 4183,
+            "label": "LOC",
+            "text": "Écoutez"
+          },
+          {
+            "start_char": 4258,
+            "end_char": 4283,
+            "label": "PER",
+            "text": "Mme Élisa Martin.</strong"
+          },
+          {
+            "start_char": 4321,
+            "end_char": 4332,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4691,
+            "end_char": 4693,
+            "label": "MISC",
+            "text": "RE"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 43,
+            "sentiment": "4 stars",
+            "score": 0.3282441794872284
+          },
+          {
+            "begin_char": 44,
+            "end_char": 107,
+            "sentiment": "3 stars",
+            "score": 0.291501522064209
+          },
+          {
+            "begin_char": 108,
+            "end_char": 183,
+            "sentiment": "3 stars",
+            "score": 0.2401210069656372
+          },
+          {
+            "begin_char": 184,
+            "end_char": 193,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 193,
+            "end_char": 362,
+            "sentiment": "5 stars",
+            "score": 0.7110685110092163
+          },
+          {
+            "begin_char": 363,
+            "end_char": 467,
+            "sentiment": "1 star",
+            "score": 0.5329921841621399
+          },
+          {
+            "begin_char": 468,
+            "end_char": 537,
+            "sentiment": "3 stars",
+            "score": 0.3904710114002228
+          },
+          {
+            "begin_char": 538,
+            "end_char": 577,
+            "sentiment": "1 star",
+            "score": 0.47796809673309326
+          },
+          {
+            "begin_char": 578,
+            "end_char": 718,
+            "sentiment": "5 stars",
+            "score": 0.561741292476654
+          },
+          {
+            "begin_char": 719,
+            "end_char": 762,
+            "sentiment": "1 star",
+            "score": 0.24320614337921143
+          },
+          {
+            "begin_char": 763,
+            "end_char": 945,
+            "sentiment": "5 stars",
+            "score": 0.3434789478778839
+          },
+          {
+            "begin_char": 945,
+            "end_char": 978,
+            "sentiment": "3 stars",
+            "score": 0.2688979506492615
+          },
+          {
+            "begin_char": 979,
+            "end_char": 988,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 988,
+            "end_char": 1176,
+            "sentiment": "4 stars",
+            "score": 0.4085772931575775
+          },
+          {
+            "begin_char": 1177,
+            "end_char": 1233,
+            "sentiment": "3 stars",
+            "score": 0.25944244861602783
+          },
+          {
+            "begin_char": 1234,
+            "end_char": 1357,
+            "sentiment": "1 star",
+            "score": 0.2702529728412628
+          },
+          {
+            "begin_char": 1358,
+            "end_char": 1493,
+            "sentiment": "3 stars",
+            "score": 0.3400505781173706
+          },
+          {
+            "begin_char": 1494,
+            "end_char": 1509,
+            "sentiment": "3 stars",
+            "score": 0.29980963468551636
+          },
+          {
+            "begin_char": 1509,
+            "end_char": 1510,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 1511,
+            "end_char": 1532,
+            "sentiment": "5 stars",
+            "score": 0.34944573044776917
+          },
+          {
+            "begin_char": 1532,
+            "end_char": 1565,
+            "sentiment": "3 stars",
+            "score": 0.2688979506492615
+          },
+          {
+            "begin_char": 1566,
+            "end_char": 1575,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1575,
+            "end_char": 1712,
+            "sentiment": "5 stars",
+            "score": 0.26330381631851196
+          },
+          {
+            "begin_char": 1713,
+            "end_char": 1905,
+            "sentiment": "5 stars",
+            "score": 0.3915926516056061
+          },
+          {
+            "begin_char": 1906,
+            "end_char": 2247,
+            "sentiment": "4 stars",
+            "score": 0.3771805167198181
+          },
+          {
+            "begin_char": 2247,
+            "end_char": 2280,
+            "sentiment": "3 stars",
+            "score": 0.2688979506492615
+          },
+          {
+            "begin_char": 2281,
+            "end_char": 2455,
+            "sentiment": "3 stars",
+            "score": 0.24256634712219238
+          },
+          {
+            "begin_char": 2455,
+            "end_char": 2489,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2490,
+            "end_char": 2655,
+            "sentiment": "4 stars",
+            "score": 0.31975746154785156
+          },
+          {
+            "begin_char": 2656,
+            "end_char": 2660,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2660,
+            "end_char": 2732,
+            "sentiment": "5 stars",
+            "score": 0.8591997623443604
+          },
+          {
+            "begin_char": 2733,
+            "end_char": 2793,
+            "sentiment": "4 stars",
+            "score": 0.3196469843387604
+          },
+          {
+            "begin_char": 2793,
+            "end_char": 2806,
+            "sentiment": "5 stars",
+            "score": 0.41084393858909607
+          },
+          {
+            "begin_char": 2807,
+            "end_char": 2841,
+            "sentiment": "4 stars",
+            "score": 0.34843766689300537
+          },
+          {
+            "begin_char": 2841,
+            "end_char": 2842,
+            "sentiment": "4 stars",
+            "score": 0.2745731770992279
+          },
+          {
+            "begin_char": 2843,
+            "end_char": 2933,
+            "sentiment": "3 stars",
+            "score": 0.30792248249053955
+          },
+          {
+            "begin_char": 2934,
+            "end_char": 2956,
+            "sentiment": "5 stars",
+            "score": 0.37261226773262024
+          },
+          {
+            "begin_char": 2956,
+            "end_char": 3001,
+            "sentiment": "3 stars",
+            "score": 0.32678917050361633
+          },
+          {
+            "begin_char": 3002,
+            "end_char": 3059,
+            "sentiment": "1 star",
+            "score": 0.6307410597801208
+          },
+          {
+            "begin_char": 3059,
+            "end_char": 3128,
+            "sentiment": "4 stars",
+            "score": 0.28637129068374634
+          },
+          {
+            "begin_char": 3129,
+            "end_char": 3133,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3133,
+            "end_char": 3231,
+            "sentiment": "1 star",
+            "score": 0.46567633748054504
+          },
+          {
+            "begin_char": 3232,
+            "end_char": 3339,
+            "sentiment": "2 stars",
+            "score": 0.265500545501709
+          },
+          {
+            "begin_char": 3340,
+            "end_char": 3345,
+            "sentiment": "5 stars",
+            "score": 0.42907875776290894
+          },
+          {
+            "begin_char": 3345,
+            "end_char": 3414,
+            "sentiment": "4 stars",
+            "score": 0.28637129068374634
+          },
+          {
+            "begin_char": 3415,
+            "end_char": 3486,
+            "sentiment": "1 star",
+            "score": 0.7568524479866028
+          },
+          {
+            "begin_char": 3487,
+            "end_char": 3509,
+            "sentiment": "5 stars",
+            "score": 0.8035165071487427
+          },
+          {
+            "begin_char": 3510,
+            "end_char": 3544,
+            "sentiment": "3 stars",
+            "score": 0.30803972482681274
+          },
+          {
+            "begin_char": 3544,
+            "end_char": 3644,
+            "sentiment": "4 stars",
+            "score": 0.25991541147232056
+          },
+          {
+            "begin_char": 3645,
+            "end_char": 3714,
+            "sentiment": "3 stars",
+            "score": 0.2841765880584717
+          },
+          {
+            "begin_char": 3715,
+            "end_char": 3738,
+            "sentiment": "3 stars",
+            "score": 0.2827312648296356
+          },
+          {
+            "begin_char": 3739,
+            "end_char": 3792,
+            "sentiment": "4 stars",
+            "score": 0.3057563304901123
+          },
+          {
+            "begin_char": 3793,
+            "end_char": 3920,
+            "sentiment": "4 stars",
+            "score": 0.2955833971500397
+          },
+          {
+            "begin_char": 3921,
+            "end_char": 3970,
+            "sentiment": "5 stars",
+            "score": 0.42966052889823914
+          },
+          {
+            "begin_char": 3970,
+            "end_char": 3992,
+            "sentiment": "3 stars",
+            "score": 0.27456098794937134
+          },
+          {
+            "begin_char": 3993,
+            "end_char": 4034,
+            "sentiment": "3 stars",
+            "score": 0.2245737910270691
+          },
+          {
+            "begin_char": 4034,
+            "end_char": 4080,
+            "sentiment": "3 stars",
+            "score": 0.31157562136650085
+          },
+          {
+            "begin_char": 4081,
+            "end_char": 4102,
+            "sentiment": "5 stars",
+            "score": 0.5673800706863403
+          },
+          {
+            "begin_char": 4102,
+            "end_char": 4171,
+            "sentiment": "4 stars",
+            "score": 0.28637129068374634
+          },
+          {
+            "begin_char": 4172,
+            "end_char": 4176,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4176,
+            "end_char": 4242,
+            "sentiment": "1 star",
+            "score": 0.44275957345962524
+          },
+          {
+            "begin_char": 4242,
+            "end_char": 4284,
+            "sentiment": "3 stars",
+            "score": 0.3022319972515106
+          },
+          {
+            "begin_char": 4285,
+            "end_char": 4302,
+            "sentiment": "1 star",
+            "score": 0.3072945177555084
+          },
+          {
+            "begin_char": 4302,
+            "end_char": 4371,
+            "sentiment": "4 stars",
+            "score": 0.28637129068374634
+          },
+          {
+            "begin_char": 4372,
+            "end_char": 4376,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4376,
+            "end_char": 4439,
+            "sentiment": "4 stars",
+            "score": 0.32896333932876587
+          },
+          {
+            "begin_char": 4440,
+            "end_char": 4540,
+            "sentiment": "4 stars",
+            "score": 0.40330708026885986
+          },
+          {
+            "begin_char": 4541,
+            "end_char": 4638,
+            "sentiment": "2 stars",
+            "score": 0.3763630986213684
+          },
+          {
+            "begin_char": 4639,
+            "end_char": 4714,
+            "sentiment": "3 stars",
+            "score": 0.34096047282218933
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-12",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-12",
+        "pageJO": "3871",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

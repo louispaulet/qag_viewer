@@ -1,0 +1,797 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG7",
+    "identifiant": {
+      "numero": "7",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "établissements de santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Situation des urgences à l'hôpital"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793398",
+        "mandatRef": "PM796302"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION DES URGENCES À L'HÔPITAL <a name=PG7></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jérémie Patrier-Leitus.<br><br><strong>M. Jérémie Patrier-Leitus. </strong>Ma question s'adresse au ministre de la santé et de la prévention. « L'hôpital est peut-être le plus beau, et sans doute le plus nécessaire, de ces services que la communauté se doit de rendre […] aux citoyens ». « L'hôpital public, c'est la société qui dit à l'homme : “toute vie par elle-même vaut d'être préservée”. […] Quelle grandeur ! que l'on entend […] dans ces mots simples : service public. » « L'hôpital public […], [c'est un sanctuaire] » ; et pourtant, « chaque année, […] l'hôpital frémit, l'hôpital tremble, puis l'hôpital crie vers vous. » « Chaque année […], les services de réanimation, partout en France, sont saturés. Chaque année, les médecins clament dans le désert. » Ces mots, monsieur le ministre, mes chers collègues, ce ne sont pas les miens mais ceux de Victor Hugo, l'un de nos illustres prédécesseurs ; ils ont été prononcés sur ces bancs en 1851. En 2022, cent soixante et onze ans après,…<br><br><strong>M. Fabien Di Filippo.</strong> Retour à la case départ !<br><br><strong>M. Jérémie Patrier-Leitus. </strong>…l'hôpital continue de frémir, de trembler et de crier vers nous. <i>(« À cause de vous ! » sur les bancs du groupe RN.) </i>Quelle que soit notre place dans l'hémicycle, ce cri, nous l'avons entendu, et nous devrons continuer d'apporter des réponses fortes qui permettront de sauver notre hôpital public et ses agents exemplaires.<br><br>Ma question a trait à la capacité de nos services d'urgences à assurer une prise en charge sûre et de qualité cet été. Vous le savez, les tensions en la matière sont nombreuses, partout sur notre territoire. L'année dernière, l'hôpital de Lisieux, situé dans ma circonscription, avait été contraint de fermer son service d'urgences la nuit, durant trois semaines au mois d'août.<br><br><strong>Mme Farida Amrani.</strong> Ce n'est pas ce que vient de dire le ministre !<br><br><strong>M. Jérémie Patrier-Leitus. </strong>Ce samedi soir, son service d'urgence pédiatrique sera fermé de dix-huit heures à huit heures ; les urgences de l'hôpital de Falaise ont pour l'instant réussi à assurer une continuité de la prise en charge cet été, mais au prix de grands sacrifices ; et depuis hier, au CHU – centre hospitalier universitaire – de Nice, les urgences sont saturées. À l'heure où nous parlons, plus d'une centaine d'hôpitaux sont contraints de fermer ou de réguler leur service d'urgences.<br><br>Ma question est simple : vous avez ordonné, monsieur le ministre, la mise en œuvre des recommandations de la mission flash. Les mesures qui seront appliquées permettront-elles à nos services d'urgences et au personnel mobilisé… (Mme la présidente coupe le micro de l'orateur.) (Applaudissements sur les bancs du groupe HOR et sur quelques bancs du groupe LIOT.)<br><br><strong>Mme la présidente.</strong> Merci beaucoup, mon cher collègue.<br><br>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>Ma mission, en tant que ministre chargé de la santé et aussi en tant que médecin, c'est de permettre à chaque Français d'être pris en charge correctement, de façon adéquate, lorsque c'est nécessaire. De façon adéquate, cela ne signifie pas systématiquement dans un service d'urgences. Nos services d'urgences font face à une tension qui, je l'ai dit, a des raisons multiples – mauvaise articulation entre la ville et l'hôpital, démographie médicale inadaptée, soignants mobilisés pendant deux ans et demi face à la crise et maintenant épuisés.<br><br><strong>Un député du groupe LFI-NUPES .</strong> Soignants sous-payés !<br><br><strong>M. François Ruffin.</strong> Il n'y a pas d'argent magique !<br><br><strong>M. François Braun,</strong><i> ministre. </i>La Première ministre a fait le choix de retenir les propositions de la mission flash pour la période estivale et d'en pérenniser certaines dans le temps, sur la base d'une évaluation que nous allons conduire pendant tout l'été – il est hors de question de maintenir des mesures qui ne seraient pas efficaces. Nous avons veillé à proposer des solutions concrètes pour maintenir cet accès aux soins pendant l'été, et je tiens ici à rassurer tout le monde : les urgences vitales sont et seront toujours assurées en tous points du territoire. <i>(Protestations sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>Mme Farida Amrani.</strong> Ce n'est pas vrai !<br><br><strong>Mme Caroline Parmentier.</strong> C'est faux ! Menteur !<br><br><strong>M. François Braun,</strong><i> ministre. </i>Il est hors de question de dégrader la prise en charge par les urgences de nos citoyens qui en ont le plus besoin. Les propositions déclinées reposent sur la responsabilité de chacun d'entre nous. Ceux qui appellent le 15 avant de se déplacer aux urgences se verront probablement proposer une meilleure solution ; quant à ceux qui s'y présentent directement, ils peuvent également être réorientés vers une solution plus adaptée. Des mesures d'attractivité peuvent aussi permettre de jouer sur la disponibilité des professionnels…<br><br><strong>Un député du groupe LFI-NUPES .</strong> Il n'y a plus de médecins !<br><br><strong>Mme Mathilde Panot.</strong> Le chaos, c'est vous !<br><br><strong>M. François Braun,</strong><i> ministre . </i>…et j'ajoute que pour la première fois, nous reconnaissons la notion de pénibilité s'agissant du travail de nuit. Enfin, nous proposons de développer une meilleure coordination entre la ville et l'hôpital.<br><br><strong>M. François Ruffin.</strong> Avec de l'enthousiasme !<br><br><strong>M. François Braun,</strong><i> ministre . </i>Comme je l'ai dit et contrairement à ce que j'ai pu entendre, ce rapport ne préconise en aucun cas la fermeture des urgences la nuit. Nos concitoyens seront accueillis par un professionnel de santé qui pourra évaluer leur situation et les rediriger vers la meilleure solution. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>Mme Caroline Parmentier.</strong> Tout va bien !<br> <p>",
+        "entities": [
+          {
+            "start_char": 50,
+            "end_char": 59,
+            "label": "LOC",
+            "text": "HÔPITAL <"
+          },
+          {
+            "start_char": 91,
+            "end_char": 94,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 135,
+            "end_char": 176,
+            "label": "PER",
+            "text": "M. Jérémie Patrier-Leitus.<br><br><strong"
+          },
+          {
+            "start_char": 180,
+            "end_char": 202,
+            "label": "PER",
+            "text": "Jérémie Patrier-Leitus"
+          },
+          {
+            "start_char": 829,
+            "end_char": 835,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 995,
+            "end_char": 1006,
+            "label": "PER",
+            "text": "Victor Hugo"
+          },
+          {
+            "start_char": 1159,
+            "end_char": 1179,
+            "label": "PER",
+            "text": "Di Filippo.</strong>"
+          },
+          {
+            "start_char": 1224,
+            "end_char": 1246,
+            "label": "PER",
+            "text": "Jérémie Patrier-Leitus"
+          },
+          {
+            "start_char": 1373,
+            "end_char": 1375,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 1576,
+            "end_char": 1598,
+            "label": "MISC",
+            "text": "exemplaires.<br><br>Ma"
+          },
+          {
+            "start_char": 1824,
+            "end_char": 1842,
+            "label": "LOC",
+            "text": "hôpital de Lisieux"
+          },
+          {
+            "start_char": 1990,
+            "end_char": 2016,
+            "label": "PER",
+            "text": "Mme Farida Amrani.</strong"
+          },
+          {
+            "start_char": 2084,
+            "end_char": 2106,
+            "label": "PER",
+            "text": "Jérémie Patrier-Leitus"
+          },
+          {
+            "start_char": 2231,
+            "end_char": 2249,
+            "label": "LOC",
+            "text": "hôpital de Falaise"
+          },
+          {
+            "start_char": 2431,
+            "end_char": 2435,
+            "label": "LOC",
+            "text": "Nice"
+          },
+          {
+            "start_char": 2578,
+            "end_char": 2597,
+            "label": "MISC",
+            "text": "urgences.<br><br>Ma"
+          },
+          {
+            "start_char": 2824,
+            "end_char": 2827,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2873,
+            "end_char": 2889,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 2914,
+            "end_char": 2917,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 2950,
+            "end_char": 2971,
+            "label": "ORG",
+            "text": "LIOT.)<br><br><strong"
+          },
+          {
+            "start_char": 2972,
+            "end_char": 2998,
+            "label": "MISC",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 3000,
+            "end_char": 3005,
+            "label": "MISC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 3025,
+            "end_char": 3042,
+            "label": "MISC",
+            "text": "collègue.<br><br>"
+          },
+          {
+            "start_char": 3058,
+            "end_char": 3060,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3124,
+            "end_char": 3132,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3308,
+            "end_char": 3316,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3777,
+            "end_char": 3786,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3839,
+            "end_char": 3863,
+            "label": "PER",
+            "text": "François Ruffin.</strong"
+          },
+          {
+            "start_char": 3915,
+            "end_char": 3923,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3943,
+            "end_char": 3951,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4538,
+            "end_char": 4568,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4569,
+            "end_char": 4595,
+            "label": "PER",
+            "text": "Mme Farida Amrani.</strong"
+          },
+          {
+            "start_char": 4632,
+            "end_char": 4664,
+            "label": "PER",
+            "text": "Mme Caroline Parmentier.</strong"
+          },
+          {
+            "start_char": 4679,
+            "end_char": 4688,
+            "label": "MISC",
+            "text": "Menteur !"
+          },
+          {
+            "start_char": 4707,
+            "end_char": 4715,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 4735,
+            "end_char": 4743,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 5314,
+            "end_char": 5323,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5378,
+            "end_char": 5405,
+            "label": "PER",
+            "text": "Mme Mathilde Panot.</strong"
+          },
+          {
+            "start_char": 5448,
+            "end_char": 5456,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 5476,
+            "end_char": 5484,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 5715,
+            "end_char": 5739,
+            "label": "PER",
+            "text": "François Ruffin.</strong"
+          },
+          {
+            "start_char": 5784,
+            "end_char": 5792,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 5812,
+            "end_char": 5820,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 6154,
+            "end_char": 6177,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 6178,
+            "end_char": 6210,
+            "label": "PER",
+            "text": "Mme Caroline Parmentier.</strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 109,
+            "sentiment": "3 stars",
+            "score": 0.30850446224212646
+          },
+          {
+            "begin_char": 110,
+            "end_char": 203,
+            "sentiment": "4 stars",
+            "score": 0.2724902629852295
+          },
+          {
+            "begin_char": 204,
+            "end_char": 279,
+            "sentiment": "4 stars",
+            "score": 0.2771882712841034
+          },
+          {
+            "begin_char": 280,
+            "end_char": 282,
+            "sentiment": "4 stars",
+            "score": 0.24992533028125763
+          },
+          {
+            "begin_char": 282,
+            "end_char": 407,
+            "sentiment": "5 stars",
+            "score": 0.6287285089492798
+          },
+          {
+            "begin_char": 407,
+            "end_char": 425,
+            "sentiment": "5 stars",
+            "score": 0.2905321419239044
+          },
+          {
+            "begin_char": 426,
+            "end_char": 428,
+            "sentiment": "4 stars",
+            "score": 0.24992533028125763
+          },
+          {
+            "begin_char": 428,
+            "end_char": 531,
+            "sentiment": "5 stars",
+            "score": 0.45960554480552673
+          },
+          {
+            "begin_char": 532,
+            "end_char": 553,
+            "sentiment": "5 stars",
+            "score": 0.6787058711051941
+          },
+          {
+            "begin_char": 554,
+            "end_char": 636,
+            "sentiment": "5 stars",
+            "score": 0.274461954832077
+          },
+          {
+            "begin_char": 636,
+            "end_char": 771,
+            "sentiment": "5 stars",
+            "score": 0.33260419964790344
+          },
+          {
+            "begin_char": 771,
+            "end_char": 783,
+            "sentiment": "5 stars",
+            "score": 0.26933178305625916
+          },
+          {
+            "begin_char": 784,
+            "end_char": 850,
+            "sentiment": "3 stars",
+            "score": 0.2470393031835556
+          },
+          {
+            "begin_char": 851,
+            "end_char": 903,
+            "sentiment": "1 star",
+            "score": 0.5416780114173889
+          },
+          {
+            "begin_char": 904,
+            "end_char": 1045,
+            "sentiment": "5 stars",
+            "score": 0.5490961074829102
+          },
+          {
+            "begin_char": 1046,
+            "end_char": 1090,
+            "sentiment": "5 stars",
+            "score": 0.2982606291770935
+          },
+          {
+            "begin_char": 1091,
+            "end_char": 1158,
+            "sentiment": "5 stars",
+            "score": 0.25131943821907043
+          },
+          {
+            "begin_char": 1159,
+            "end_char": 1179,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 1180,
+            "end_char": 1205,
+            "sentiment": "1 star",
+            "score": 0.38394659757614136
+          },
+          {
+            "begin_char": 1205,
+            "end_char": 1247,
+            "sentiment": "3 stars",
+            "score": 0.2696278691291809
+          },
+          {
+            "begin_char": 1248,
+            "end_char": 1322,
+            "sentiment": "1 star",
+            "score": 0.41656261682510376
+          },
+          {
+            "begin_char": 1323,
+            "end_char": 1377,
+            "sentiment": "3 stars",
+            "score": 0.25588667392730713
+          },
+          {
+            "begin_char": 1378,
+            "end_char": 1434,
+            "sentiment": "5 stars",
+            "score": 0.43595555424690247
+          },
+          {
+            "begin_char": 1434,
+            "end_char": 1714,
+            "sentiment": "5 stars",
+            "score": 0.5982334017753601
+          },
+          {
+            "begin_char": 1715,
+            "end_char": 1803,
+            "sentiment": "4 stars",
+            "score": 0.39290663599967957
+          },
+          {
+            "begin_char": 1804,
+            "end_char": 2017,
+            "sentiment": "3 stars",
+            "score": 0.33192601799964905
+          },
+          {
+            "begin_char": 2018,
+            "end_char": 2065,
+            "sentiment": "1 star",
+            "score": 0.5311442613601685
+          },
+          {
+            "begin_char": 2065,
+            "end_char": 2107,
+            "sentiment": "3 stars",
+            "score": 0.2696278691291809
+          },
+          {
+            "begin_char": 2108,
+            "end_char": 2117,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2117,
+            "end_char": 2212,
+            "sentiment": "3 stars",
+            "score": 0.2603384256362915
+          },
+          {
+            "begin_char": 2213,
+            "end_char": 2367,
+            "sentiment": "3 stars",
+            "score": 0.471585214138031
+          },
+          {
+            "begin_char": 2368,
+            "end_char": 2464,
+            "sentiment": "1 star",
+            "score": 0.30424830317497253
+          },
+          {
+            "begin_char": 2465,
+            "end_char": 2718,
+            "sentiment": "5 stars",
+            "score": 0.2670038640499115
+          },
+          {
+            "begin_char": 2719,
+            "end_char": 2764,
+            "sentiment": "4 stars",
+            "score": 0.46432003378868103
+          },
+          {
+            "begin_char": 2764,
+            "end_char": 2999,
+            "sentiment": "5 stars",
+            "score": 0.3313710689544678
+          },
+          {
+            "begin_char": 3000,
+            "end_char": 3042,
+            "sentiment": "5 stars",
+            "score": 0.5965889096260071
+          },
+          {
+            "begin_char": 3042,
+            "end_char": 3151,
+            "sentiment": "4 stars",
+            "score": 0.32391050457954407
+          },
+          {
+            "begin_char": 3152,
+            "end_char": 3193,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 3194,
+            "end_char": 3397,
+            "sentiment": "5 stars",
+            "score": 0.469758540391922
+          },
+          {
+            "begin_char": 3398,
+            "end_char": 3482,
+            "sentiment": "4 stars",
+            "score": 0.3180990517139435
+          },
+          {
+            "begin_char": 3483,
+            "end_char": 3757,
+            "sentiment": "2 stars",
+            "score": 0.3538985848426819
+          },
+          {
+            "begin_char": 3757,
+            "end_char": 3820,
+            "sentiment": "1 star",
+            "score": 0.6299677491188049
+          },
+          {
+            "begin_char": 3820,
+            "end_char": 3864,
+            "sentiment": "3 stars",
+            "score": 0.3172127306461334
+          },
+          {
+            "begin_char": 3865,
+            "end_char": 3896,
+            "sentiment": "1 star",
+            "score": 0.563460648059845
+          },
+          {
+            "begin_char": 3896,
+            "end_char": 3952,
+            "sentiment": "3 stars",
+            "score": 0.2982189357280731
+          },
+          {
+            "begin_char": 3953,
+            "end_char": 4265,
+            "sentiment": "3 stars",
+            "score": 0.3802308142185211
+          },
+          {
+            "begin_char": 4266,
+            "end_char": 4495,
+            "sentiment": "5 stars",
+            "score": 0.6909778118133545
+          },
+          {
+            "begin_char": 4496,
+            "end_char": 4596,
+            "sentiment": "3 stars",
+            "score": 0.3207816481590271
+          },
+          {
+            "begin_char": 4597,
+            "end_char": 4616,
+            "sentiment": "1 star",
+            "score": 0.5489705204963684
+          },
+          {
+            "begin_char": 4616,
+            "end_char": 4665,
+            "sentiment": "3 stars",
+            "score": 0.29713642597198486
+          },
+          {
+            "begin_char": 4666,
+            "end_char": 4678,
+            "sentiment": "1 star",
+            "score": 0.6571556329727173
+          },
+          {
+            "begin_char": 4679,
+            "end_char": 4688,
+            "sentiment": "1 star",
+            "score": 0.5958124399185181
+          },
+          {
+            "begin_char": 4688,
+            "end_char": 4744,
+            "sentiment": "3 stars",
+            "score": 0.2982189357280731
+          },
+          {
+            "begin_char": 4745,
+            "end_char": 4863,
+            "sentiment": "5 stars",
+            "score": 0.4217126667499542
+          },
+          {
+            "begin_char": 4864,
+            "end_char": 4945,
+            "sentiment": "5 stars",
+            "score": 0.4215850234031677
+          },
+          {
+            "begin_char": 4946,
+            "end_char": 5062,
+            "sentiment": "2 stars",
+            "score": 0.24817468225955963
+          },
+          {
+            "begin_char": 5063,
+            "end_char": 5177,
+            "sentiment": "4 stars",
+            "score": 0.33817434310913086
+          },
+          {
+            "begin_char": 5178,
+            "end_char": 5334,
+            "sentiment": "3 stars",
+            "score": 0.40572768449783325
+          },
+          {
+            "begin_char": 5335,
+            "end_char": 5362,
+            "sentiment": "1 star",
+            "score": 0.3104545474052429
+          },
+          {
+            "begin_char": 5362,
+            "end_char": 5406,
+            "sentiment": "3 stars",
+            "score": 0.29943224787712097
+          },
+          {
+            "begin_char": 5407,
+            "end_char": 5429,
+            "sentiment": "1 star",
+            "score": 0.3272181749343872
+          },
+          {
+            "begin_char": 5429,
+            "end_char": 5486,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 5487,
+            "end_char": 5604,
+            "sentiment": "3 stars",
+            "score": 0.2750433385372162
+          },
+          {
+            "begin_char": 5605,
+            "end_char": 5740,
+            "sentiment": "4 stars",
+            "score": 0.37642285227775574
+          },
+          {
+            "begin_char": 5741,
+            "end_char": 5765,
+            "sentiment": "5 stars",
+            "score": 0.5356122255325317
+          },
+          {
+            "begin_char": 5765,
+            "end_char": 5822,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 5823,
+            "end_char": 5960,
+            "sentiment": "1 star",
+            "score": 0.39507704973220825
+          },
+          {
+            "begin_char": 5961,
+            "end_char": 6103,
+            "sentiment": "5 stars",
+            "score": 0.4837433099746704
+          },
+          {
+            "begin_char": 6104,
+            "end_char": 6211,
+            "sentiment": "3 stars",
+            "score": 0.3511449098587036
+          },
+          {
+            "begin_char": 6212,
+            "end_char": 6226,
+            "sentiment": "5 stars",
+            "score": 0.5166046619415283
+          },
+          {
+            "begin_char": 6226,
+            "end_char": 6234,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-13",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-13",
+        "pageJO": "2335",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

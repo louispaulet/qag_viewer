@@ -1,0 +1,707 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG44",
+    "identifiant": {
+      "numero": "44",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "établissements de santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Urgence hospitalières"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793382",
+        "mandatRef": "PM796293"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> URGENCES HOSPITALIÈRES <a name=PG17></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Emmanuel Taché de la Pagerie.<br><br><strong>M. Emmanuel Taché de la Pagerie. </strong>Il est désormais impossible de se rendre spontanément aux urgences dans l’ensemble du territoire. En cause, les fermetures partielles les week-ends ou la nuit, le manque de moyens humains et matériels et une réelle dégradation, sans précédent, de l'offre de soins.<br><br>À cette dernière s’ajoutent les fermetures de lits constantes. Dans ma circonscription, au centre hospitalier d’Arles, 350 lits ont été fermés en vingt ans, dont cinquante et un ces trois derniers mois. Vous le disiez vous-même : « La situation est […] plus grave aujourd’hui qu’elle ne l’était en 2019 ! » Quel aveu !<br><br>En ce qui concerne les urgences, nous sommes au pied du mur : tri des patients, mesures de verrouillage et de filtrage. Ces dispositions ont pour conséquence des dysfonctionnements menant à l’épuisement des équipes soignantes. Ce manque d’anticipation sape l’hôpital public et le tiers-mondise comme jamais.<br><br>Nous réclamons un véritable plan de recrutement des personnels, la titularisation des contractuels, la réintégration des soignants suspendus et la revalorisation des indemnités de nuit et de week-end.<br><br>À Arles, au centre hospitalier, il manque vingt-cinq infirmiers. En outre, la médecine libérale supplée à titre associatif au personnel des urgences les vendredis soir de vingt heures à minuit. Alerté par les personnels soignants, l’hôpital Joseph-Imbert est constamment en tension et travaille en mode dégradé. Les patients restent des heures aux urgences avant qu'un lit ne leur soit trouvé.<br><br>Vous le savez, le Ségur de la santé a été inefficace. Pour preuve, les agents fuient l'hôpital public pour l'intérim. Monsieur le ministre de la santé et de la prévention, qu'allez-vous faire pour sauver nos urgences, qu'allez-vous faire pour l'attractivité de l'hôpital, la réouverture de lits, l'instauration d'horaires de travail cohérents, pour la qualité de vie des agents hospitaliers et urgentistes ? <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la santé et de la prévention. <i>(« Ah ! » et exclamations ironiques sur les bancs du groupe RN.)</i><br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>Ma mission, vous le savez, en tant que ministre de la santé et de la prévention, est de permettre à chaque Français d'être pris en charge de manière adéquate lorsque cela est nécessaire. C'est cela, répondre aux besoins de santé de la population.<br><br>Je souhaite immédiatement couper court à ce que j'entends parfois : bien entendu, chaque Français continuera à être pris en charge en urgence, là où c'est le plus utile pour lui. <i>(« C'est faux ! » sur les bancs du groupe RN.) </i>En aucun cas, je ne préconise la fermeture des services d'urgence. Ces derniers font face à une tension inédite, qui n'est pas seulement liée aux difficultés de l'hôpital, mais aussi à des enjeux systémiques relatifs à l'organisation de l'offre de soins.<br><br><strong>M. Grégoire de Fournas.</strong> Quel charabia !<br><br><strong>M. François Braun,</strong><i> ministre . </i>C'est dans cette perspective que nous travaillons et que je souhaite placer la réponse aux besoins de santé – plutôt que la réponse à l'offre de soins – au centre du futur dispositif.<br><br>À la demande de ma prédécesseure, Brigitte Bourguignon, j'ai réalisé une mission flash qui a abouti à quarante et une propositions pour améliorer le fonctionnement de l'hôpital dès cet été. La Première ministre a fait le choix de retenir ces propositions, lesquelles seront évaluées d'ici à la fin de l'été.<br><br>Il ne vous aura d'ailleurs pas échappé que parmi ces propositions figure la titularisation des personnels en attente, ce qui était déjà possible depuis le Ségur de la santé – l'hôpital de Pau, par exemple, vient d'annoncer la titularisation de 200 personnes –, ou encore le renforcement de l'indemnité de nuit.<br><br><strong>M. Jocelyn Dessigny.</strong> Et la réintégration du personnel soignant ?<br><br><strong>M. Grégoire de Fournas.</strong> Oui, il y a 15 000 soignants à réintégrer !<br><br><strong>M. François Braun,</strong><i> ministre . </i>Nous avons ainsi veillé à proposer des solutions concrètes pour garantir aux Français un accès aux soins durant l'été. Plus généralement, les propositions se déclinent en trois axes : la responsabilité de chacun, en consultant son médecin traitant ou en appelant le 15 avant de se déplacer aux urgences, afin d'identifier la meilleure solution ; la disponibilité des professionnels, avec des mesures relatives à l'attractivité et, pour la première fois, la reconnaissance de la pénibilité du travail de nuit ; et la meilleure coordination entre la ville et l'hôpital.<br><br><strong>Mme la présidente.</strong> Merci, monsieur le ministre.<br><br><strong>M. Jocelyn Dessigny.</strong> Et la réintégration du personnel soignant ?<br><br><strong>M. François Braun,</strong><i> ministre . </i>Les mesures retenues et pour lesquelles j'ai signé une instruction aux ARS – agences régionales de santé – visent à mieux organiser les services.<br><br><strong>Mme la présidente. </strong>La parole est à M. Emmanuel Taché de la Pagerie.<br><br><strong>M. Emmanuel Taché de la Pagerie. </strong>Je ne suis absolument pas étonné par cette réponse que je qualifierais de piteuse, monsieur le ministre. Je vais donc rentrer à Arles pour expliquer aux personnels hospitaliers qu'ils doivent continuer de se crever à la tâche sans aucune réponse de leur ministère de tutelle. Je vous remercie, monsieur le ministre. <i>(Applaudissements sur les bancs du groupe RN.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 45,
+            "label": "MISC",
+            "text": "URGENCES HOSPITALIÈRES"
+          },
+          {
+            "start_char": 80,
+            "end_char": 83,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 124,
+            "end_char": 126,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 127,
+            "end_char": 141,
+            "label": "PER",
+            "text": "Emmanuel Taché"
+          },
+          {
+            "start_char": 175,
+            "end_char": 189,
+            "label": "PER",
+            "text": "Emmanuel Taché"
+          },
+          {
+            "start_char": 196,
+            "end_char": 203,
+            "label": "LOC",
+            "text": "Pagerie"
+          },
+          {
+            "start_char": 286,
+            "end_char": 296,
+            "label": "ORG",
+            "text": "l’ensemble"
+          },
+          {
+            "start_char": 472,
+            "end_char": 485,
+            "label": "MISC",
+            "text": "soins.<br><br"
+          },
+          {
+            "start_char": 503,
+            "end_char": 505,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 598,
+            "end_char": 603,
+            "label": "LOC",
+            "text": "Arles"
+          },
+          {
+            "start_char": 773,
+            "end_char": 775,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1002,
+            "end_char": 1004,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1069,
+            "end_char": 1071,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 1112,
+            "end_char": 1126,
+            "label": "MISC",
+            "text": "jamais.<br><br"
+          },
+          {
+            "start_char": 1337,
+            "end_char": 1342,
+            "label": "LOC",
+            "text": "Arles"
+          },
+          {
+            "start_char": 1566,
+            "end_char": 1589,
+            "label": "PER",
+            "text": "l’hôpital Joseph-Imbert"
+          },
+          {
+            "start_char": 1721,
+            "end_char": 1736,
+            "label": "MISC",
+            "text": "trouvé.<br><br>"
+          },
+          {
+            "start_char": 1754,
+            "end_char": 1771,
+            "label": "ORG",
+            "text": "Ségur de la santé"
+          },
+          {
+            "start_char": 1854,
+            "end_char": 1862,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2189,
+            "end_char": 2212,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2213,
+            "end_char": 2216,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2257,
+            "end_char": 2259,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2311,
+            "end_char": 2315,
+            "label": "MISC",
+            "text": "Ah !"
+          },
+          {
+            "start_char": 2368,
+            "end_char": 2391,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2395,
+            "end_char": 2403,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 2576,
+            "end_char": 2584,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2704,
+            "end_char": 2722,
+            "label": "ORG",
+            "text": "population.<br><br"
+          },
+          {
+            "start_char": 2812,
+            "end_char": 2820,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2947,
+            "end_char": 2949,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 3226,
+            "end_char": 3274,
+            "label": "PER",
+            "text": "M. Grégoire de Fournas.</strong> Quel charabia !"
+          },
+          {
+            "start_char": 3293,
+            "end_char": 3301,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3321,
+            "end_char": 3329,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3561,
+            "end_char": 3581,
+            "label": "PER",
+            "text": "Brigitte Bourguignon"
+          },
+          {
+            "start_char": 3720,
+            "end_char": 3728,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3997,
+            "end_char": 4033,
+            "label": "ORG",
+            "text": "Ségur de la santé – l'hôpital de Pau"
+          },
+          {
+            "start_char": 4171,
+            "end_char": 4196,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 4260,
+            "end_char": 4289,
+            "label": "PER",
+            "text": "Grégoire de Fournas.</strong>"
+          },
+          {
+            "start_char": 4352,
+            "end_char": 4360,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 4380,
+            "end_char": 4388,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4472,
+            "end_char": 4480,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4978,
+            "end_char": 5005,
+            "label": "PER",
+            "text": "Mme la présidente.</strong>"
+          },
+          {
+            "start_char": 5006,
+            "end_char": 5011,
+            "label": "MISC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 5053,
+            "end_char": 5078,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 5142,
+            "end_char": 5150,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 5170,
+            "end_char": 5178,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 5256,
+            "end_char": 5259,
+            "label": "MISC",
+            "text": "ARS"
+          },
+          {
+            "start_char": 5346,
+            "end_char": 5349,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5390,
+            "end_char": 5392,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 5393,
+            "end_char": 5407,
+            "label": "PER",
+            "text": "Emmanuel Taché"
+          },
+          {
+            "start_char": 5441,
+            "end_char": 5455,
+            "label": "PER",
+            "text": "Emmanuel Taché"
+          },
+          {
+            "start_char": 5462,
+            "end_char": 5469,
+            "label": "LOC",
+            "text": "Pagerie"
+          },
+          {
+            "start_char": 5608,
+            "end_char": 5613,
+            "label": "LOC",
+            "text": "Arles"
+          },
+          {
+            "start_char": 5841,
+            "end_char": 5852,
+            "label": "ORG",
+            "text": "RN.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 45,
+            "sentiment": "5 stars",
+            "score": 0.37122872471809387
+          },
+          {
+            "begin_char": 46,
+            "end_char": 98,
+            "sentiment": "3 stars",
+            "score": 0.3055114150047302
+          },
+          {
+            "begin_char": 99,
+            "end_char": 204,
+            "sentiment": "4 stars",
+            "score": 0.26742035150527954
+          },
+          {
+            "begin_char": 205,
+            "end_char": 214,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 214,
+            "end_char": 311,
+            "sentiment": "1 star",
+            "score": 0.2552960216999054
+          },
+          {
+            "begin_char": 312,
+            "end_char": 548,
+            "sentiment": "3 stars",
+            "score": 0.37723949551582336
+          },
+          {
+            "begin_char": 549,
+            "end_char": 688,
+            "sentiment": "2 stars",
+            "score": 0.25115397572517395
+          },
+          {
+            "begin_char": 689,
+            "end_char": 804,
+            "sentiment": "1 star",
+            "score": 0.3799607455730438
+          },
+          {
+            "begin_char": 804,
+            "end_char": 931,
+            "sentiment": "5 stars",
+            "score": 0.26527175307273865
+          },
+          {
+            "begin_char": 932,
+            "end_char": 1038,
+            "sentiment": "3 stars",
+            "score": 0.35937273502349854
+          },
+          {
+            "begin_char": 1039,
+            "end_char": 1127,
+            "sentiment": "1 star",
+            "score": 0.5118291974067688
+          },
+          {
+            "begin_char": 1127,
+            "end_char": 1399,
+            "sentiment": "5 stars",
+            "score": 0.27133890986442566
+          },
+          {
+            "begin_char": 1400,
+            "end_char": 1528,
+            "sentiment": "4 stars",
+            "score": 0.3519981801509857
+          },
+          {
+            "begin_char": 1529,
+            "end_char": 1646,
+            "sentiment": "3 stars",
+            "score": 0.43363896012306213
+          },
+          {
+            "begin_char": 1647,
+            "end_char": 1736,
+            "sentiment": "1 star",
+            "score": 0.3232838213443756
+          },
+          {
+            "begin_char": 1736,
+            "end_char": 1789,
+            "sentiment": "1 star",
+            "score": 0.5512920618057251
+          },
+          {
+            "begin_char": 1790,
+            "end_char": 1853,
+            "sentiment": "1 star",
+            "score": 0.27620694041252136
+          },
+          {
+            "begin_char": 1854,
+            "end_char": 2143,
+            "sentiment": "5 stars",
+            "score": 0.5956448316574097
+          },
+          {
+            "begin_char": 2144,
+            "end_char": 2231,
+            "sentiment": "4 stars",
+            "score": 0.3186970353126526
+          },
+          {
+            "begin_char": 2232,
+            "end_char": 2304,
+            "sentiment": "5 stars",
+            "score": 0.33904436230659485
+          },
+          {
+            "begin_char": 2305,
+            "end_char": 2310,
+            "sentiment": "3 stars",
+            "score": 0.30726802349090576
+          },
+          {
+            "begin_char": 2311,
+            "end_char": 2315,
+            "sentiment": "5 stars",
+            "score": 0.32027533650398254
+          },
+          {
+            "begin_char": 2316,
+            "end_char": 2422,
+            "sentiment": "3 stars",
+            "score": 0.33655840158462524
+          },
+          {
+            "begin_char": 2423,
+            "end_char": 2464,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 2465,
+            "end_char": 2655,
+            "sentiment": "5 stars",
+            "score": 0.4731745719909668
+          },
+          {
+            "begin_char": 2656,
+            "end_char": 2901,
+            "sentiment": "5 stars",
+            "score": 0.6492474675178528
+          },
+          {
+            "begin_char": 2902,
+            "end_char": 3022,
+            "sentiment": "1 star",
+            "score": 0.3009133040904999
+          },
+          {
+            "begin_char": 3023,
+            "end_char": 3274,
+            "sentiment": "4 stars",
+            "score": 0.30457568168640137
+          },
+          {
+            "begin_char": 3274,
+            "end_char": 3331,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 3332,
+            "end_char": 3716,
+            "sentiment": "4 stars",
+            "score": 0.3963410258293152
+          },
+          {
+            "begin_char": 3717,
+            "end_char": 3842,
+            "sentiment": "3 stars",
+            "score": 0.30351418256759644
+          },
+          {
+            "begin_char": 3842,
+            "end_char": 4241,
+            "sentiment": "3 stars",
+            "score": 0.32127416133880615
+          },
+          {
+            "begin_char": 4241,
+            "end_char": 4289,
+            "sentiment": "3 stars",
+            "score": 0.3042440116405487
+          },
+          {
+            "begin_char": 4290,
+            "end_char": 4333,
+            "sentiment": "5 stars",
+            "score": 0.46599990129470825
+          },
+          {
+            "begin_char": 4333,
+            "end_char": 4390,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 4391,
+            "end_char": 4513,
+            "sentiment": "5 stars",
+            "score": 0.4328981339931488
+          },
+          {
+            "begin_char": 4514,
+            "end_char": 4740,
+            "sentiment": "4 stars",
+            "score": 0.3684619665145874
+          },
+          {
+            "begin_char": 4741,
+            "end_char": 4904,
+            "sentiment": "4 stars",
+            "score": 0.41243499517440796
+          },
+          {
+            "begin_char": 4905,
+            "end_char": 5005,
+            "sentiment": "5 stars",
+            "score": 0.3951835334300995
+          },
+          {
+            "begin_char": 5006,
+            "end_char": 5079,
+            "sentiment": "5 stars",
+            "score": 0.3740745484828949
+          },
+          {
+            "begin_char": 5080,
+            "end_char": 5123,
+            "sentiment": "4 stars",
+            "score": 0.3097679018974304
+          },
+          {
+            "begin_char": 5123,
+            "end_char": 5180,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 5181,
+            "end_char": 5364,
+            "sentiment": "4 stars",
+            "score": 0.3227350115776062
+          },
+          {
+            "begin_char": 5365,
+            "end_char": 5470,
+            "sentiment": "4 stars",
+            "score": 0.26742035150527954
+          },
+          {
+            "begin_char": 5471,
+            "end_char": 5584,
+            "sentiment": "1 star",
+            "score": 0.5714581608772278
+          },
+          {
+            "begin_char": 5585,
+            "end_char": 5755,
+            "sentiment": "1 star",
+            "score": 0.8043322563171387
+          },
+          {
+            "begin_char": 5756,
+            "end_char": 5795,
+            "sentiment": "5 stars",
+            "score": 0.41522523760795593
+          },
+          {
+            "begin_char": 5796,
+            "end_char": 5853,
+            "sentiment": "4 stars",
+            "score": 0.31565260887145996
+          },
+          {
+            "begin_char": 5854,
+            "end_char": 5857,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-20",
+        "pageJO": "2522",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

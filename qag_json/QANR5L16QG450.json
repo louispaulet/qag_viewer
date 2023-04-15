@@ -1,0 +1,833 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG450",
+    "identifiant": {
+      "numero": "450",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "industrie",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "SITUATION DE L'ENTREPRISE CARELIDEind"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794486",
+        "mandatRef": "PM796953"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Industrie",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-18",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Industrie",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de l’industrie"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-18",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION DE L'ENTREPRISE CARELIDE <a name=PG7></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Violette Spillebout.<br><br><strong>Mme Violette Spillebout. </strong>Dans ma circonscription, à Mouvaux, près de Lille, nous étions tous très inquiets pour l'avenir de l'entreprise Carelide, fabricant français de poches de perfusion, ainsi que pour ses 450 salariés. Vous le savez, malgré un soutien fort apporté par l'État depuis des années – plus de 10 millions d'euros d'aides publiques ont été versés depuis 2020 –, l'entreprise Carelide avait été contrainte d'ouvrir une procédure de redressement judiciaire à la fin du mois d'octobre 2022. Dès lors, la région Hauts-de-France, la métropole européenne de Lille, le maire de Mouvaux, les organisations syndicales, l'État et moi-même nous sommes unis et démenés pour trouver un repreneur industriel.<br><br>Jusqu'à vendredi dernier, c'est-à-dire jusqu'au dernier moment, nous attendions une offre. Nous pouvons désormais nous réjouir de la très sérieuse offre de reprise déposée par le groupe Delpharm et par les laboratoires Aguettant, groupe industriel français spécialisé dans le biomédical et déjà présent dans la métropole lilloise, à Lys-lez-Lannoy.<br><br><strong>M. Pierre Cordier.</strong> C'est une question orale sans débat que vous posez, pas une question d'actualité du Gouvernement !<br><br><strong>M. Maxime Minot.</strong> Il fallait la poser ce matin !<br><br><strong>Mme Violette Spillebout. </strong>Grâce à vous, nous reprenons espoir. C'est une très belle étape. Je tiens à ce titre, à vous remercier, monsieur le ministre délégué,…<br><br><strong>M. Pierre Cordier.</strong> Allô !<br><br><strong>Mme Violette Spillebout. </strong>…ainsi que toutes vos équipes, qui sont mobilisées depuis plusieurs mois pour sauvegarder le savoir-faire français et contribuer à notre souveraineté sanitaire. Elles mènent un véritable travail de fond, bien loin des gesticulations et des coups de communication. <i>(Applaudissements sur quelques bancs du groupe RE. – Exclamations sur les bancs du groupe LR.)</i><br><br>Monsieur le ministre délégué, je sais pouvoir compter sur votre engagement et sur celui du ministre de la santé et de la prévention dans ce dossier. <i>(« Ah ! » sur les bancs du groupe LR.)</i><br><br><strong>M. Sébastien Jumel.</strong> Et la question ?<br><br><strong>Mme Violette Spillebout. </strong>Aussi, quelles sont les prochaines étapes qui permettront de sauver définitivement Carelide et ses 450 employés ? <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>M. Sylvain Maillard.</strong> Très bien !<br><br><strong>M. Fabien Di Filippo.</strong> Elle s'est trompée, elle n'a pas lu la question mais la réponse !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé de l’industrie.<br><br><strong>M. Aurélien Pradié.</strong> N'oubliez pas de la remercier !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué chargé de l’industrie. </i>Madame la députée, bravo et merci. <i>(Exclamations sur les bancs des groupes LFI-NUPES et LR. – M. Maxime Minot trace un cœur avec ses doigts.)</i><br><br>Loin des gesticulations – vous l'avez dit – des uns et des autres, loin des youtubeurs de la discorde et de la défaite, vous n'avez rien lâché, tout comme nous.<br><br><strong>M. Aurélien Pradié.</strong> C'est vous qui l'avez fait, pas elle !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué . </i>Vous êtes restée aux côtés des salariés de Carelide mais aussi à nos côtés, en accompagnant mes services lorsqu'ils faisaient des efforts, jour et nuit, pour trouver un repreneur. Vous l'avez dit, nous avons trouvé un repreneur de qualité.<br><br>Il y a une semaine, l'entreprise Ferropem, en Savoie, a annoncé la reprise de son site industriel par Ugitech. Jeudi, je me suis rendu dans l'Oise au moment où l'industriel américain Chemours annonçait 180 millions d'investissements consacrés à la réindustrialisation – en l'occurrence des membranes à hydrogène –, avec quatre-vingts emplois à la clé.<br><br><strong>M. Aurélien Pradié.</strong> Quel héroïsme !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué . </i>Vendredi, vous l'avez dit, un repreneur d'une très grande qualité a déposé une offre ferme pour Carelide. Hier, je me trouvais dans le Nord et dans le Pas-de-Calais pour annoncer des investissements massifs dans la décarbonation de notre industrie. Tout cela n'arrive pas par hasard.<br><br><strong>M. Aurélien Pradié.</strong> C'est grâce à vous, grâce au héros !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué . </i>C'est la politique industrielle menée par le Président de la République, soutenue par la majorité et que j'ai l'honneur de défendre avec Bruno Le Maire, qui nous permet d'engranger ces bonnes nouvelles dans un environnement très contraint. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.)</i><br><br><strong>Mme Laure Lavalette.</strong> Quelle honte !<br><br><strong>M. Roland Lescure,</strong><i> ministre délégué . </i>Nous continuerons à appliquer cette politique industrielle et, s'agissant de Carelide, à travailler avec le repreneur pour que son offre soit définitive. Nous le ferons malgré les cris d'orfraie poussés par ceux qui font depuis de trop nombreuses années leur beurre politique sur les déficits et les défaites de l'économie.<br> <p>",
+        "entities": [
+          {
+            "start_char": 38,
+            "end_char": 48,
+            "label": "ORG",
+            "text": "ENTREPRISE"
+          },
+          {
+            "start_char": 91,
+            "end_char": 94,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 135,
+            "end_char": 174,
+            "label": "PER",
+            "text": "Mme Violette Spillebout.<br><br><strong"
+          },
+          {
+            "start_char": 175,
+            "end_char": 198,
+            "label": "PER",
+            "text": "Mme Violette Spillebout"
+          },
+          {
+            "start_char": 236,
+            "end_char": 243,
+            "label": "LOC",
+            "text": "Mouvaux"
+          },
+          {
+            "start_char": 253,
+            "end_char": 258,
+            "label": "LOC",
+            "text": "Lille"
+          },
+          {
+            "start_char": 321,
+            "end_char": 329,
+            "label": "PER",
+            "text": "Carelide"
+          },
+          {
+            "start_char": 459,
+            "end_char": 463,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 573,
+            "end_char": 581,
+            "label": "LOC",
+            "text": "Carelide"
+          },
+          {
+            "start_char": 699,
+            "end_char": 721,
+            "label": "LOC",
+            "text": "région Hauts-de-France"
+          },
+          {
+            "start_char": 747,
+            "end_char": 755,
+            "label": "LOC",
+            "text": "de Lille"
+          },
+          {
+            "start_char": 769,
+            "end_char": 776,
+            "label": "LOC",
+            "text": "Mouvaux"
+          },
+          {
+            "start_char": 810,
+            "end_char": 814,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 881,
+            "end_char": 899,
+            "label": "MISC",
+            "text": "industriel.<br><br"
+          },
+          {
+            "start_char": 1086,
+            "end_char": 1094,
+            "label": "ORG",
+            "text": "Delpharm"
+          },
+          {
+            "start_char": 1106,
+            "end_char": 1128,
+            "label": "ORG",
+            "text": "laboratoires Aguettant"
+          },
+          {
+            "start_char": 1233,
+            "end_char": 1263,
+            "label": "LOC",
+            "text": "Lys-lez-Lannoy.<br><br><strong"
+          },
+          {
+            "start_char": 1267,
+            "end_char": 1290,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 1376,
+            "end_char": 1390,
+            "label": "MISC",
+            "text": "Gouvernement !"
+          },
+          {
+            "start_char": 1409,
+            "end_char": 1430,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 1478,
+            "end_char": 1501,
+            "label": "PER",
+            "text": "Mme Violette Spillebout"
+          },
+          {
+            "start_char": 1665,
+            "end_char": 1694,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong> Allô"
+          },
+          {
+            "start_char": 1712,
+            "end_char": 1735,
+            "label": "PER",
+            "text": "Mme Violette Spillebout"
+          },
+          {
+            "start_char": 2053,
+            "end_char": 2062,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 2066,
+            "end_char": 2078,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 2103,
+            "end_char": 2119,
+            "label": "MISC",
+            "text": "LR.)</i><br><br>"
+          },
+          {
+            "start_char": 2119,
+            "end_char": 2127,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2274,
+            "end_char": 2278,
+            "label": "MISC",
+            "text": "Ah !"
+          },
+          {
+            "start_char": 2305,
+            "end_char": 2328,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2332,
+            "end_char": 2357,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 2390,
+            "end_char": 2413,
+            "label": "PER",
+            "text": "Mme Violette Spillebout"
+          },
+          {
+            "start_char": 2507,
+            "end_char": 2515,
+            "label": "LOC",
+            "text": "Carelide"
+          },
+          {
+            "start_char": 2589,
+            "end_char": 2612,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2680,
+            "end_char": 2700,
+            "label": "PER",
+            "text": "Di Filippo.</strong>"
+          },
+          {
+            "start_char": 2782,
+            "end_char": 2785,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2826,
+            "end_char": 2828,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2859,
+            "end_char": 2861,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2890,
+            "end_char": 2914,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 2963,
+            "end_char": 2972,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 3021,
+            "end_char": 3023,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3038,
+            "end_char": 3044,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 3116,
+            "end_char": 3125,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3129,
+            "end_char": 3131,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 3138,
+            "end_char": 3150,
+            "label": "PER",
+            "text": "Maxime Minot"
+          },
+          {
+            "start_char": 3373,
+            "end_char": 3397,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 3453,
+            "end_char": 3462,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 3550,
+            "end_char": 3558,
+            "label": "LOC",
+            "text": "Carelide"
+          },
+          {
+            "start_char": 3738,
+            "end_char": 3753,
+            "label": "MISC",
+            "text": "qualité.<br><br"
+          },
+          {
+            "start_char": 3787,
+            "end_char": 3795,
+            "label": "ORG",
+            "text": "Ferropem"
+          },
+          {
+            "start_char": 3800,
+            "end_char": 3806,
+            "label": "LOC",
+            "text": "Savoie"
+          },
+          {
+            "start_char": 3856,
+            "end_char": 3863,
+            "label": "ORG",
+            "text": "Ugitech"
+          },
+          {
+            "start_char": 3894,
+            "end_char": 3900,
+            "label": "LOC",
+            "text": "l'Oise"
+          },
+          {
+            "start_char": 3937,
+            "end_char": 3959,
+            "label": "MISC",
+            "text": "Chemours annonçait 180"
+          },
+          {
+            "start_char": 4124,
+            "end_char": 4148,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 4181,
+            "end_char": 4190,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 4235,
+            "end_char": 4243,
+            "label": "LOC",
+            "text": "Vendredi"
+          },
+          {
+            "start_char": 4331,
+            "end_char": 4339,
+            "label": "PER",
+            "text": "Carelide"
+          },
+          {
+            "start_char": 4370,
+            "end_char": 4374,
+            "label": "LOC",
+            "text": "Nord"
+          },
+          {
+            "start_char": 4386,
+            "end_char": 4399,
+            "label": "LOC",
+            "text": "Pas-de-Calais"
+          },
+          {
+            "start_char": 4537,
+            "end_char": 4561,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 4615,
+            "end_char": 4624,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 4714,
+            "end_char": 4740,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4806,
+            "end_char": 4820,
+            "label": "PER",
+            "text": "Bruno Le Maire"
+          },
+          {
+            "start_char": 4962,
+            "end_char": 4964,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4993,
+            "end_char": 5002,
+            "label": "PER",
+            "text": "Mme Laure"
+          },
+          {
+            "start_char": 5053,
+            "end_char": 5062,
+            "label": "PER",
+            "text": "M. Roland"
+          },
+          {
+            "start_char": 5184,
+            "end_char": 5192,
+            "label": "PER",
+            "text": "Carelide"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 48,
+            "sentiment": "4 stars",
+            "score": 0.35754337906837463
+          },
+          {
+            "begin_char": 49,
+            "end_char": 109,
+            "sentiment": "3 stars",
+            "score": 0.27441591024398804
+          },
+          {
+            "begin_char": 110,
+            "end_char": 199,
+            "sentiment": "3 stars",
+            "score": 0.2391257882118225
+          },
+          {
+            "begin_char": 200,
+            "end_char": 209,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 209,
+            "end_char": 406,
+            "sentiment": "5 stars",
+            "score": 0.471747487783432
+          },
+          {
+            "begin_char": 407,
+            "end_char": 685,
+            "sentiment": "4 stars",
+            "score": 0.28969377279281616
+          },
+          {
+            "begin_char": 686,
+            "end_char": 990,
+            "sentiment": "5 stars",
+            "score": 0.394385427236557
+          },
+          {
+            "begin_char": 991,
+            "end_char": 1390,
+            "sentiment": "5 stars",
+            "score": 0.43143346905708313
+          },
+          {
+            "begin_char": 1390,
+            "end_char": 1431,
+            "sentiment": "3 stars",
+            "score": 0.3174344599246979
+          },
+          {
+            "begin_char": 1432,
+            "end_char": 1462,
+            "sentiment": "3 stars",
+            "score": 0.2500663101673126
+          },
+          {
+            "begin_char": 1462,
+            "end_char": 1502,
+            "sentiment": "3 stars",
+            "score": 0.2778961658477783
+          },
+          {
+            "begin_char": 1503,
+            "end_char": 1548,
+            "sentiment": "5 stars",
+            "score": 0.5587912797927856
+          },
+          {
+            "begin_char": 1549,
+            "end_char": 1576,
+            "sentiment": "5 stars",
+            "score": 0.5219829082489014
+          },
+          {
+            "begin_char": 1577,
+            "end_char": 1696,
+            "sentiment": "5 stars",
+            "score": 0.3417305648326874
+          },
+          {
+            "begin_char": 1696,
+            "end_char": 1736,
+            "sentiment": "3 stars",
+            "score": 0.2778961658477783
+          },
+          {
+            "begin_char": 1737,
+            "end_char": 1906,
+            "sentiment": "5 stars",
+            "score": 0.7239236235618591
+          },
+          {
+            "begin_char": 1907,
+            "end_char": 2009,
+            "sentiment": "5 stars",
+            "score": 0.39686715602874756
+          },
+          {
+            "begin_char": 2010,
+            "end_char": 2063,
+            "sentiment": "3 stars",
+            "score": 0.2982350289821625
+          },
+          {
+            "begin_char": 2064,
+            "end_char": 2119,
+            "sentiment": "3 stars",
+            "score": 0.3041492700576782
+          },
+          {
+            "begin_char": 2119,
+            "end_char": 2267,
+            "sentiment": "5 stars",
+            "score": 0.4798729419708252
+          },
+          {
+            "begin_char": 2268,
+            "end_char": 2357,
+            "sentiment": "3 stars",
+            "score": 0.3326164484024048
+          },
+          {
+            "begin_char": 2358,
+            "end_char": 2374,
+            "sentiment": "3 stars",
+            "score": 0.25109174847602844
+          },
+          {
+            "begin_char": 2374,
+            "end_char": 2414,
+            "sentiment": "3 stars",
+            "score": 0.2778961658477783
+          },
+          {
+            "begin_char": 2415,
+            "end_char": 2537,
+            "sentiment": "5 stars",
+            "score": 0.260728120803833
+          },
+          {
+            "begin_char": 2538,
+            "end_char": 2654,
+            "sentiment": "4 stars",
+            "score": 0.47295090556144714
+          },
+          {
+            "begin_char": 2654,
+            "end_char": 2679,
+            "sentiment": "3 stars",
+            "score": 0.3095281720161438
+          },
+          {
+            "begin_char": 2680,
+            "end_char": 2700,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 2701,
+            "end_char": 2766,
+            "sentiment": "1 star",
+            "score": 0.3241327106952667
+          },
+          {
+            "begin_char": 2766,
+            "end_char": 2800,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2801,
+            "end_char": 2915,
+            "sentiment": "3 stars",
+            "score": 0.29523274302482605
+          },
+          {
+            "begin_char": 2916,
+            "end_char": 2947,
+            "sentiment": "5 stars",
+            "score": 0.6298538446426392
+          },
+          {
+            "begin_char": 2947,
+            "end_char": 3033,
+            "sentiment": "3 stars",
+            "score": 0.3143836259841919
+          },
+          {
+            "begin_char": 3034,
+            "end_char": 3038,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3038,
+            "end_char": 3072,
+            "sentiment": "5 stars",
+            "score": 0.6236554980278015
+          },
+          {
+            "begin_char": 3073,
+            "end_char": 3132,
+            "sentiment": "4 stars",
+            "score": 0.32629963755607605
+          },
+          {
+            "begin_char": 3133,
+            "end_char": 3194,
+            "sentiment": "3 stars",
+            "score": 0.3556852638721466
+          },
+          {
+            "begin_char": 3194,
+            "end_char": 3398,
+            "sentiment": "5 stars",
+            "score": 0.5061050653457642
+          },
+          {
+            "begin_char": 3399,
+            "end_char": 3437,
+            "sentiment": "1 star",
+            "score": 0.6811409592628479
+          },
+          {
+            "begin_char": 3437,
+            "end_char": 3502,
+            "sentiment": "3 stars",
+            "score": 0.3078303039073944
+          },
+          {
+            "begin_char": 3503,
+            "end_char": 3686,
+            "sentiment": "5 stars",
+            "score": 0.4114269018173218
+          },
+          {
+            "begin_char": 3687,
+            "end_char": 3754,
+            "sentiment": "5 stars",
+            "score": 0.2874396741390228
+          },
+          {
+            "begin_char": 3754,
+            "end_char": 3864,
+            "sentiment": "4 stars",
+            "score": 0.3205544352531433
+          },
+          {
+            "begin_char": 3865,
+            "end_char": 4165,
+            "sentiment": "5 stars",
+            "score": 0.535467267036438
+          },
+          {
+            "begin_char": 4165,
+            "end_char": 4230,
+            "sentiment": "3 stars",
+            "score": 0.3078303039073944
+          },
+          {
+            "begin_char": 4231,
+            "end_char": 4340,
+            "sentiment": "5 stars",
+            "score": 0.2649053931236267
+          },
+          {
+            "begin_char": 4341,
+            "end_char": 4483,
+            "sentiment": "5 stars",
+            "score": 0.4806673228740692
+          },
+          {
+            "begin_char": 4484,
+            "end_char": 4562,
+            "sentiment": "3 stars",
+            "score": 0.30293479561805725
+          },
+          {
+            "begin_char": 4563,
+            "end_char": 4599,
+            "sentiment": "5 stars",
+            "score": 0.6078283190727234
+          },
+          {
+            "begin_char": 4599,
+            "end_char": 4664,
+            "sentiment": "3 stars",
+            "score": 0.3078303039073944
+          },
+          {
+            "begin_char": 4665,
+            "end_char": 4908,
+            "sentiment": "5 stars",
+            "score": 0.4333289861679077
+          },
+          {
+            "begin_char": 4909,
+            "end_char": 5037,
+            "sentiment": "1 star",
+            "score": 0.7125897407531738
+          },
+          {
+            "begin_char": 5037,
+            "end_char": 5102,
+            "sentiment": "3 stars",
+            "score": 0.3078303039073944
+          },
+          {
+            "begin_char": 5103,
+            "end_char": 5107,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5107,
+            "end_char": 5260,
+            "sentiment": "4 stars",
+            "score": 0.3808674216270447
+          },
+          {
+            "begin_char": 5261,
+            "end_char": 5438,
+            "sentiment": "5 stars",
+            "score": 0.4019489586353302
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-18",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-18",
+        "pageJO": "452",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

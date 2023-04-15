@@ -1,0 +1,803 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG313",
+    "identifiant": {
+      "numero": "313",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "collectivités territoriales",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Soutien aux collectivités territoriales face aux difficultés sociales"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794650",
+        "mandatRef": "PM797040"
+      },
+      "groupe": {
+        "organeRef": "PO800502",
+        "abrege": "GDR-NUPES",
+        "developpe": "Gauche démocrate et républicaine - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SOUTIEN AUX COLLECTIVITÉS TERRITORIALES FACE AUX DIFFICULTÉS SOCIALES <a name=PG11></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Marc Tellier.<br><br><strong>M. Jean-Marc Tellier. </strong>Les faits sont implacables : en France, la pauvreté gagne du terrain. Plus de 10 millions de Français vivent aujourd’hui sous le seuil de pauvreté. Les Restos du cœur constatent une hausse de 12 % des bénéficiaires de l'aide alimentaire. Les rapports du Secours catholique et du Secours populaire doivent nous alerter. Notre jeunesse est très touchée par ce phénomène : les 18-25 ans représentent près de 24 % des travailleurs pauvres. Quant aux privés d’emploi, moins d’un sur deux est indemnisé.<br><br>Les fautifs, ce ne sont pas la pandémie ou l’inflation, qui ne font qu’aggraver la situation. Les fautifs, c’est vous ! Vous êtes responsables de la déstructuration du code du travail et de l’assurance chômage, véritable trappe à emplois précaires. <i>(Applaudissements sur les bancs du groupe GDR-NUPES ainsi que sur plusieurs bancs du groupe Écolo-NUPES.)</i><br><br>Et pendant que les ménages peinent à boucler leurs fins de mois, à l’ouverture du congrès des maires, les élus locaux nous alertent sur cette situation sociale dramatique qui met en première ligne nos services publics et nos centres communaux d’action sociale.<br><br>Les dépenses liées à l’énergie explosent, et cela déséquilibre les budgets de nos collectivités. Nos maires sont très inquiets. Quels services devront-ils supprimer ?<br><br>Chez moi, dans le Pas-de-Calais, comme ailleurs en France, trop de nos communes sont laissées pour compte. Le filet de sécurité a permis de verser un acompte à 2 100 communes seulement. Comment l’expliquer ? Comment peut-on expliquer que dans ma région, les Hauts-de-France, l’un des territoires les plus pauvres de France, huit communes seulement dans le Nord l’ont reçu, zéro dans le Pas-de-Calais, zéro dans la Somme, zéro dans l’Aisne ?<br><br><strong>M. Maxime Minot.</strong> Il a raison !<br><br><strong>M. Jean-Marc Tellier. </strong>Pouvez-vous nous assurer qu’aucune commune ne passera au travers du filet de sécurité ? <i>(Applaudissements sur les bancs des groupes GDR-NUPES et Écolo-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Vous évoquez le vote du filet de sécurité de 430 millions d'euros, qui a fait l'objet d'allers et retours entre l'Assemblée nationale, le Sénat et le Gouvernement pour être retenu dans le cadre du projet de loi de finances rectificative (PLFR) définitif.<br><br><strong>M. Sébastien Jumel.</strong> C'est un filet à trous !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Les collectivités pouvaient formuler leurs demandes d'acompte à cette date, le milieu du mois de novembre. Je redis qu'un accord politique entre majorité et oppositions sur la somme de 430 millions a été trouvé. Le critère principal est la baisse de la capacité d'autofinancement brute, fixée à 25 %. Une estimation de 22 000 communes concernées a été évoquée dans l'hémicycle. Toutefois, les premiers résultats qui nous parviennent donnent le sentiment que ce seuil est trop haut.<br><br>À la minute où je vous parle, le ministère de la cohésion des territoires, particulièrement la direction générale des collectivités locales, reprend tous les éléments. L'engagement du Gouvernement, exprimé avec beaucoup de force par M. le ministre de l'économie et des finances au moment où la discussion du PLFR se termine, c'était bien d'accompagner les collectivités à hauteur de 430 millions. S'il fallait assouplir les critères pour que cette somme soit entièrement distribuée, nous le ferions.<br><br><strong>Mme Valérie Rabault.</strong> C'est ce que nous vous avons proposé cet été !<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>Dans la même logique, l'amendement de Mme Lise Magnier repris dans la première partie du projet de loi de finances relatif au soutien aux collectivités locales fait l'objet d'un examen : nous vérifions si ce premier critère de perte d'autofinancement n'est pas trop restrictif pour nous permettre d'aider les collectivités.<br><br><strong>M. Benjamin Lucas.</strong> Soyez sérieux !<br><br><strong>M. Sébastien Jumel.</strong> On a vérifié, nous ! Ça ne marche pas !<br><br><strong>Mme Valérie Rabault.</strong> Vous avez refusé !<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>Je le redis, le Gouvernement s'est engagé à accompagner les collectivités face à la flambée des prix, à hauteur de 430 millions, et à ajuster les critères pour arriver à cette somme sur laquelle nous nous sommes mis d'accord. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>M. Marc Le Fur.</strong> On n'a rien compris !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 30,
+            "label": "MISC",
+            "text": "SOUTIEN"
+          },
+          {
+            "start_char": 35,
+            "end_char": 48,
+            "label": "MISC",
+            "text": "COLLECTIVITÉS"
+          },
+          {
+            "start_char": 72,
+            "end_char": 83,
+            "label": "MISC",
+            "text": "DIFFICULTÉS"
+          },
+          {
+            "start_char": 84,
+            "end_char": 92,
+            "label": "MISC",
+            "text": "SOCIALES"
+          },
+          {
+            "start_char": 127,
+            "end_char": 130,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 171,
+            "end_char": 183,
+            "label": "PER",
+            "text": "M. Jean-Marc"
+          },
+          {
+            "start_char": 208,
+            "end_char": 228,
+            "label": "PER",
+            "text": "M. Jean-Marc Tellier"
+          },
+          {
+            "start_char": 271,
+            "end_char": 277,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 332,
+            "end_char": 340,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 391,
+            "end_char": 405,
+            "label": "MISC",
+            "text": "Restos du cœur"
+          },
+          {
+            "start_char": 493,
+            "end_char": 500,
+            "label": "LOC",
+            "text": "Secours"
+          },
+          {
+            "start_char": 518,
+            "end_char": 535,
+            "label": "ORG",
+            "text": "Secours populaire"
+          },
+          {
+            "start_char": 726,
+            "end_char": 743,
+            "label": "MISC",
+            "text": "indemnisé.<br><br"
+          },
+          {
+            "start_char": 787,
+            "end_char": 789,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 812,
+            "end_char": 815,
+            "label": "LOC",
+            "text": "qu’"
+          },
+          {
+            "start_char": 851,
+            "end_char": 853,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 934,
+            "end_char": 936,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1038,
+            "end_char": 1047,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 1088,
+            "end_char": 1112,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 1180,
+            "end_char": 1182,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1365,
+            "end_char": 1380,
+            "label": "MISC",
+            "text": "sociale.<br><br"
+          },
+          {
+            "start_char": 1402,
+            "end_char": 1404,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 1573,
+            "end_char": 1586,
+            "label": "LOC",
+            "text": "Pas-de-Calais"
+          },
+          {
+            "start_char": 1606,
+            "end_char": 1612,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1749,
+            "end_char": 1751,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1813,
+            "end_char": 1828,
+            "label": "LOC",
+            "text": "Hauts-de-France"
+          },
+          {
+            "start_char": 1830,
+            "end_char": 1832,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1868,
+            "end_char": 1877,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 1911,
+            "end_char": 1915,
+            "label": "LOC",
+            "text": "Nord"
+          },
+          {
+            "start_char": 1941,
+            "end_char": 1954,
+            "label": "LOC",
+            "text": "Pas-de-Calais"
+          },
+          {
+            "start_char": 1969,
+            "end_char": 1974,
+            "label": "LOC",
+            "text": "Somme"
+          },
+          {
+            "start_char": 1986,
+            "end_char": 1993,
+            "label": "LOC",
+            "text": "l’Aisne"
+          },
+          {
+            "start_char": 2014,
+            "end_char": 2035,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 2069,
+            "end_char": 2086,
+            "label": "PER",
+            "text": "Jean-Marc Tellier"
+          },
+          {
+            "start_char": 2097,
+            "end_char": 2103,
+            "label": "PER",
+            "text": "Pouvez"
+          },
+          {
+            "start_char": 2232,
+            "end_char": 2241,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2245,
+            "end_char": 2277,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2278,
+            "end_char": 2281,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2322,
+            "end_char": 2324,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2415,
+            "end_char": 2428,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 2638,
+            "end_char": 2657,
+            "label": "ORG",
+            "text": "Assemblée nationale"
+          },
+          {
+            "start_char": 2662,
+            "end_char": 2686,
+            "label": "MISC",
+            "text": "Sénat et le Gouvernement"
+          },
+          {
+            "start_char": 2762,
+            "end_char": 2766,
+            "label": "ORG",
+            "text": "PLFR"
+          },
+          {
+            "start_char": 2797,
+            "end_char": 2822,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 2863,
+            "end_char": 2876,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3387,
+            "end_char": 3399,
+            "label": "MISC",
+            "text": "haut.<br><br"
+          },
+          {
+            "start_char": 3584,
+            "end_char": 3596,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3633,
+            "end_char": 3635,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3708,
+            "end_char": 3712,
+            "label": "ORG",
+            "text": "PLFR"
+          },
+          {
+            "start_char": 3915,
+            "end_char": 3943,
+            "label": "PER",
+            "text": "Mme Valérie Rabault.</strong"
+          },
+          {
+            "start_char": 4007,
+            "end_char": 4020,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4092,
+            "end_char": 4108,
+            "label": "PER",
+            "text": "Mme Lise Magnier"
+          },
+          {
+            "start_char": 4396,
+            "end_char": 4420,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong>"
+          },
+          {
+            "start_char": 4421,
+            "end_char": 4426,
+            "label": "ORG",
+            "text": "Soyez"
+          },
+          {
+            "start_char": 4455,
+            "end_char": 4480,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 4502,
+            "end_char": 4504,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 4536,
+            "end_char": 4564,
+            "label": "PER",
+            "text": "Mme Valérie Rabault.</strong"
+          },
+          {
+            "start_char": 4600,
+            "end_char": 4613,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4663,
+            "end_char": 4675,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4923,
+            "end_char": 4946,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4950,
+            "end_char": 4954,
+            "label": "PER",
+            "text": "Marc"
+          },
+          {
+            "start_char": 4958,
+            "end_char": 4970,
+            "label": "ORG",
+            "text": "Fur.</strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 30,
+            "sentiment": "4 stars",
+            "score": 0.2764781713485718
+          },
+          {
+            "begin_char": 31,
+            "end_char": 34,
+            "sentiment": "4 stars",
+            "score": 0.24964454770088196
+          },
+          {
+            "begin_char": 35,
+            "end_char": 48,
+            "sentiment": "4 stars",
+            "score": 0.29881346225738525
+          },
+          {
+            "begin_char": 49,
+            "end_char": 62,
+            "sentiment": "1 star",
+            "score": 0.2513469457626343
+          },
+          {
+            "begin_char": 63,
+            "end_char": 83,
+            "sentiment": "4 stars",
+            "score": 0.34437987208366394
+          },
+          {
+            "begin_char": 84,
+            "end_char": 92,
+            "sentiment": "3 stars",
+            "score": 0.2528640329837799
+          },
+          {
+            "begin_char": 93,
+            "end_char": 145,
+            "sentiment": "3 stars",
+            "score": 0.30029624700546265
+          },
+          {
+            "begin_char": 146,
+            "end_char": 229,
+            "sentiment": "4 stars",
+            "score": 0.2610059678554535
+          },
+          {
+            "begin_char": 230,
+            "end_char": 239,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 239,
+            "end_char": 308,
+            "sentiment": "5 stars",
+            "score": 0.3436362147331238
+          },
+          {
+            "begin_char": 309,
+            "end_char": 386,
+            "sentiment": "5 stars",
+            "score": 0.3344322741031647
+          },
+          {
+            "begin_char": 387,
+            "end_char": 476,
+            "sentiment": "4 stars",
+            "score": 0.37264353036880493
+          },
+          {
+            "begin_char": 477,
+            "end_char": 557,
+            "sentiment": "5 stars",
+            "score": 0.3688012659549713
+          },
+          {
+            "begin_char": 558,
+            "end_char": 674,
+            "sentiment": "4 stars",
+            "score": 0.3006879389286041
+          },
+          {
+            "begin_char": 675,
+            "end_char": 744,
+            "sentiment": "3 stars",
+            "score": 0.2913564145565033
+          },
+          {
+            "begin_char": 744,
+            "end_char": 837,
+            "sentiment": "1 star",
+            "score": 0.5049918293952942
+          },
+          {
+            "begin_char": 838,
+            "end_char": 863,
+            "sentiment": "1 star",
+            "score": 0.5571642518043518
+          },
+          {
+            "begin_char": 864,
+            "end_char": 992,
+            "sentiment": "1 star",
+            "score": 0.531180202960968
+          },
+          {
+            "begin_char": 993,
+            "end_char": 1381,
+            "sentiment": "4 stars",
+            "score": 0.38510265946388245
+          },
+          {
+            "begin_char": 1381,
+            "end_char": 1477,
+            "sentiment": "3 stars",
+            "score": 0.2484649419784546
+          },
+          {
+            "begin_char": 1478,
+            "end_char": 1508,
+            "sentiment": "5 stars",
+            "score": 0.34285968542099
+          },
+          {
+            "begin_char": 1509,
+            "end_char": 1547,
+            "sentiment": "3 stars",
+            "score": 0.2364712655544281
+          },
+          {
+            "begin_char": 1547,
+            "end_char": 1555,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1555,
+            "end_char": 1661,
+            "sentiment": "2 stars",
+            "score": 0.31293344497680664
+          },
+          {
+            "begin_char": 1662,
+            "end_char": 1740,
+            "sentiment": "2 stars",
+            "score": 0.27758514881134033
+          },
+          {
+            "begin_char": 1741,
+            "end_char": 1762,
+            "sentiment": "3 stars",
+            "score": 0.295199453830719
+          },
+          {
+            "begin_char": 1763,
+            "end_char": 2036,
+            "sentiment": "1 star",
+            "score": 0.5253977179527283
+          },
+          {
+            "begin_char": 2037,
+            "end_char": 2050,
+            "sentiment": "5 stars",
+            "score": 0.3322871923446655
+          },
+          {
+            "begin_char": 2050,
+            "end_char": 2087,
+            "sentiment": "3 stars",
+            "score": 0.2721210718154907
+          },
+          {
+            "begin_char": 2088,
+            "end_char": 2184,
+            "sentiment": "1 star",
+            "score": 0.4061601459980011
+          },
+          {
+            "begin_char": 2185,
+            "end_char": 2296,
+            "sentiment": "4 stars",
+            "score": 0.32193729281425476
+          },
+          {
+            "begin_char": 2297,
+            "end_char": 2519,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 2520,
+            "end_char": 2822,
+            "sentiment": "3 stars",
+            "score": 0.3224601447582245
+          },
+          {
+            "begin_char": 2823,
+            "end_char": 2847,
+            "sentiment": "1 star",
+            "score": 0.4709210991859436
+          },
+          {
+            "begin_char": 2847,
+            "end_char": 2906,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 2907,
+            "end_char": 3017,
+            "sentiment": "3 stars",
+            "score": 0.3049614727497101
+          },
+          {
+            "begin_char": 3018,
+            "end_char": 3122,
+            "sentiment": "3 stars",
+            "score": 0.22314244508743286
+          },
+          {
+            "begin_char": 3123,
+            "end_char": 3211,
+            "sentiment": "3 stars",
+            "score": 0.4650103449821472
+          },
+          {
+            "begin_char": 3212,
+            "end_char": 3288,
+            "sentiment": "3 stars",
+            "score": 0.2915341556072235
+          },
+          {
+            "begin_char": 3289,
+            "end_char": 3567,
+            "sentiment": "3 stars",
+            "score": 0.4453140199184418
+          },
+          {
+            "begin_char": 3568,
+            "end_char": 3796,
+            "sentiment": "5 stars",
+            "score": 0.39731931686401367
+          },
+          {
+            "begin_char": 3797,
+            "end_char": 3944,
+            "sentiment": "3 stars",
+            "score": 0.2528603672981262
+          },
+          {
+            "begin_char": 3945,
+            "end_char": 3991,
+            "sentiment": "5 stars",
+            "score": 0.45633310079574585
+          },
+          {
+            "begin_char": 3991,
+            "end_char": 4049,
+            "sentiment": "3 stars",
+            "score": 0.29623985290527344
+          },
+          {
+            "begin_char": 4050,
+            "end_char": 4420,
+            "sentiment": "3 stars",
+            "score": 0.4052554666996002
+          },
+          {
+            "begin_char": 4421,
+            "end_char": 4436,
+            "sentiment": "5 stars",
+            "score": 0.4513756036758423
+          },
+          {
+            "begin_char": 4436,
+            "end_char": 4480,
+            "sentiment": "3 stars",
+            "score": 0.31285977363586426
+          },
+          {
+            "begin_char": 4481,
+            "end_char": 4501,
+            "sentiment": "5 stars",
+            "score": 0.2224297821521759
+          },
+          {
+            "begin_char": 4502,
+            "end_char": 4565,
+            "sentiment": "1 star",
+            "score": 0.8715136051177979
+          },
+          {
+            "begin_char": 4566,
+            "end_char": 4584,
+            "sentiment": "1 star",
+            "score": 0.812501072883606
+          },
+          {
+            "begin_char": 4584,
+            "end_char": 4642,
+            "sentiment": "3 stars",
+            "score": 0.29623985290527344
+          },
+          {
+            "begin_char": 4643,
+            "end_char": 4872,
+            "sentiment": "4 stars",
+            "score": 0.3963344097137451
+          },
+          {
+            "begin_char": 4873,
+            "end_char": 4950,
+            "sentiment": "3 stars",
+            "score": 0.35992249846458435
+          },
+          {
+            "begin_char": 4950,
+            "end_char": 4971,
+            "sentiment": "3 stars",
+            "score": 0.2736913561820984
+          },
+          {
+            "begin_char": 4972,
+            "end_char": 4993,
+            "sentiment": "1 star",
+            "score": 0.8300954699516296
+          },
+          {
+            "begin_char": 4993,
+            "end_char": 5001,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5900",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

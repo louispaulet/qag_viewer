@@ -1,0 +1,731 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG101",
+    "identifiant": {
+      "numero": "101",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "chasse et pêche",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Chasses traditionnelles des oiseaux"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA796090",
+        "mandatRef": "PM797844"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CHASSES TRADITIONNELLES DES OISEAUX <a name=PG20></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Aymeric Caron.<br><br><strong>M. Aymeric Caron. </strong>Avant de poser ma question à M. le ministre de la transition écologique et de la cohésion des territoires, je tiens à dire que nous sommes outrés par les accusations récurrentes de ce gouvernement à notre encontre ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES. – Exclamations sur les bancs des groupes RE, LR et Dem.) </i>L'antisémitisme est un délit et un poison, et je réaffirme que chacun des députés du groupe La France insoumise répondra toujours présent face à l'antisémitisme et à tous les racismes ! (Les députés du groupe LFI-NUPES se lèvent et applaudissent.)<br><br><strong>M. Meyer Habib.</strong> Ce ne sont que des mots !<br><br><strong>M. Aymeric Caron. </strong>Madame la Première ministre, vous instrumentalisez la résolution de nos camarades communistes en dirigeant vos attaques exclusivement contre La France insoumise. C'est particulièrement scandaleux et sordide ! Nous exigeons que vous nous présentiez des excuses ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES. – Protestations sur les bancs des groupes RE, LR et Dem.)</i><br><br><strong>M. Bruno Millienne.</strong> Sûrement pas !<br><br><strong>M. Aymeric Caron. </strong>Je veux à présent, dans le temps de parole qui me reste, poser ma question à M. Béchu. Monsieur le ministre, vous venez de lancer les consultations publiques sur six projets d'arrêté visant à autoriser la chasse traditionnelle de 100 000 oiseaux sauvages – 107 730 exactement, selon les calculs de la Ligue pour la protection des oiseaux (LPO). <i>(Rires sur les bancs du groupe RN.) </i>Je ne suis pas étonné que cela fasse rire dans les rangs de l'extrême droite ! (Applaudissements sur les bancs du groupe LFI-NUPES.)<br><br><strong>M. Julien Odoul.</strong> Protégez les oiseaux, arrêtez les éoliennes !<br><br><strong>M. Aymeric Caron. </strong>Comme chaque année, vous voulez favoriser les chasses dites traditionnelles, qui sont pourtant systématiquement condamnées par le Conseil d'État et qui sont contraires au droit européen prescrit par la directive « oiseaux ». On ne peut qu'être surpris de vous voir mépriser ce droit européen que votre gouvernement sacralise sur beaucoup d'autres sujets – apparemment, seulement quand cela vous arrange ! <i>(Applaudissements sur quelques bancs du groupe LFI-NUPES.)</i><br><br><strong>M. Grégoire de Fournas.</strong> Sauvez les moustiques !<br><br><strong>M. Aymeric Caron. </strong>Si ce n'est pour faire un nouveau cadeau au lobby des chasseurs, comme c'est votre habitude, pourquoi relancer ces chasses cruelles et absolument inutiles ? <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Vous déplorez de faire l'objet de procès d'intention, mais vous en faites vous-même aux autres, monsieur le député ! Le 20 juillet dernier, l'Office national de la chasse et de la faune sauvage (ONCFS) s'est réuni pour examiner les projets d'arrêtés relatifs à la capture de certains oiseaux sauvages préparés par les services du ministère de la transition écologique et de la cohésion des territoires et lancer les consultations publiques qui doivent s'achever le 10 août. C'est précisément pour aborder ce sujet que j'ai reçu ce matin le président de la Ligue pour la protection des oiseaux, M. Allain Bougrain-Dubourg, son actuel directeur général, M. Yves Verilhac, et son futur directeur général, M. Matthieu Orphelin. <br><br><strong>M. Thibault Bazin.</strong> Ah, Orphelin !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Je pensais que vous alliez saluer la reconduction des arrêtés relatifs à la chasse de la barge à queue noire, du courlis cendré et la tourterelle des bois, qui prolongent les moratoires sur la chasse de ces espèces. Comme je l'ai dit ce matin aux représentants de la LPO, le Gouvernement attend la décision sur le fond du Conseil d'État sur les chasses traditionnelles et leur conformité avec la directive « oiseaux ». Tant que nous ne connaîtrons pas cette décision, il n'y aura pas d'arrêtés sur les chasses traditionnelles. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>M. Bruno Millienne.</strong> Voilà ! C'est clair !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 30,
+            "label": "ORG",
+            "text": "CHASSES"
+          },
+          {
+            "start_char": 51,
+            "end_char": 58,
+            "label": "MISC",
+            "text": "OISEAUX"
+          },
+          {
+            "start_char": 93,
+            "end_char": 96,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 137,
+            "end_char": 169,
+            "label": "PER",
+            "text": "M. Aymeric Caron.<br><br><strong"
+          },
+          {
+            "start_char": 173,
+            "end_char": 186,
+            "label": "PER",
+            "text": "Aymeric Caron"
+          },
+          {
+            "start_char": 226,
+            "end_char": 228,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 458,
+            "end_char": 467,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 469,
+            "end_char": 483,
+            "label": "LOC",
+            "text": "– Exclamations"
+          },
+          {
+            "start_char": 510,
+            "end_char": 512,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 514,
+            "end_char": 516,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 520,
+            "end_char": 523,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 622,
+            "end_char": 631,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 739,
+            "end_char": 748,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 796,
+            "end_char": 816,
+            "label": "PER",
+            "text": "Meyer Habib.</strong"
+          },
+          {
+            "start_char": 862,
+            "end_char": 875,
+            "label": "PER",
+            "text": "Aymeric Caron"
+          },
+          {
+            "start_char": 886,
+            "end_char": 904,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 1027,
+            "end_char": 1036,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 1193,
+            "end_char": 1202,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1246,
+            "end_char": 1248,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 1250,
+            "end_char": 1252,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 1256,
+            "end_char": 1280,
+            "label": "ORG",
+            "text": "Dem.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1284,
+            "end_char": 1308,
+            "label": "PER",
+            "text": "Bruno Millienne.</strong"
+          },
+          {
+            "start_char": 1343,
+            "end_char": 1356,
+            "label": "PER",
+            "text": "Aymeric Caron"
+          },
+          {
+            "start_char": 1444,
+            "end_char": 1452,
+            "label": "PER",
+            "text": "M. Béchu"
+          },
+          {
+            "start_char": 1454,
+            "end_char": 1462,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1668,
+            "end_char": 1704,
+            "label": "ORG",
+            "text": "Ligue pour la protection des oiseaux"
+          },
+          {
+            "start_char": 1706,
+            "end_char": 1709,
+            "label": "MISC",
+            "text": "LPO"
+          },
+          {
+            "start_char": 1746,
+            "end_char": 1748,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 1835,
+            "end_char": 1851,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 1876,
+            "end_char": 1902,
+            "label": "ORG",
+            "text": "LFI-NUPES.)<br><br><strong"
+          },
+          {
+            "start_char": 1906,
+            "end_char": 1927,
+            "label": "PER",
+            "text": "Julien Odoul.</strong"
+          },
+          {
+            "start_char": 1993,
+            "end_char": 2006,
+            "label": "PER",
+            "text": "Aymeric Caron"
+          },
+          {
+            "start_char": 2147,
+            "end_char": 2161,
+            "label": "ORG",
+            "text": "Conseil d'État"
+          },
+          {
+            "start_char": 2472,
+            "end_char": 2502,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2506,
+            "end_char": 2535,
+            "label": "PER",
+            "text": "Grégoire de Fournas.</strong>"
+          },
+          {
+            "start_char": 2578,
+            "end_char": 2591,
+            "label": "PER",
+            "text": "Aymeric Caron"
+          },
+          {
+            "start_char": 2804,
+            "end_char": 2834,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2835,
+            "end_char": 2838,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2879,
+            "end_char": 2881,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2972,
+            "end_char": 2985,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3223,
+            "end_char": 3251,
+            "label": "ORG",
+            "text": "Office national de la chasse"
+          },
+          {
+            "start_char": 3276,
+            "end_char": 3281,
+            "label": "ORG",
+            "text": "ONCFS"
+          },
+          {
+            "start_char": 3621,
+            "end_char": 3673,
+            "label": "PER",
+            "text": "président de la Ligue pour la protection des oiseaux"
+          },
+          {
+            "start_char": 3675,
+            "end_char": 3701,
+            "label": "PER",
+            "text": "M. Allain Bougrain-Dubourg"
+          },
+          {
+            "start_char": 3733,
+            "end_char": 3749,
+            "label": "PER",
+            "text": "M. Yves Verilhac"
+          },
+          {
+            "start_char": 3783,
+            "end_char": 3803,
+            "label": "PER",
+            "text": "M. Matthieu Orphelin"
+          },
+          {
+            "start_char": 3821,
+            "end_char": 3832,
+            "label": "PER",
+            "text": "M. Thibault"
+          },
+          {
+            "start_char": 3853,
+            "end_char": 3863,
+            "label": "MISC",
+            "text": "Orphelin !"
+          },
+          {
+            "start_char": 3879,
+            "end_char": 3892,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4194,
+            "end_char": 4197,
+            "label": "MISC",
+            "text": "LPO"
+          },
+          {
+            "start_char": 4202,
+            "end_char": 4214,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4249,
+            "end_char": 4263,
+            "label": "ORG",
+            "text": "Conseil d'État"
+          },
+          {
+            "start_char": 4499,
+            "end_char": 4522,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4526,
+            "end_char": 4550,
+            "label": "PER",
+            "text": "Bruno Millienne.</strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 30,
+            "sentiment": "3 stars",
+            "score": 0.2561933994293213
+          },
+          {
+            "begin_char": 31,
+            "end_char": 111,
+            "sentiment": "3 stars",
+            "score": 0.2516162097454071
+          },
+          {
+            "begin_char": 112,
+            "end_char": 187,
+            "sentiment": "3 stars",
+            "score": 0.2465868890285492
+          },
+          {
+            "begin_char": 188,
+            "end_char": 197,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 197,
+            "end_char": 412,
+            "sentiment": "5 stars",
+            "score": 0.4160884618759155
+          },
+          {
+            "begin_char": 413,
+            "end_char": 468,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 469,
+            "end_char": 524,
+            "sentiment": "4 stars",
+            "score": 0.2977762520313263
+          },
+          {
+            "begin_char": 524,
+            "end_char": 525,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 526,
+            "end_char": 530,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 530,
+            "end_char": 715,
+            "sentiment": "5 stars",
+            "score": 0.7446257472038269
+          },
+          {
+            "begin_char": 716,
+            "end_char": 717,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 717,
+            "end_char": 817,
+            "sentiment": "4 stars",
+            "score": 0.3388078808784485
+          },
+          {
+            "begin_char": 818,
+            "end_char": 843,
+            "sentiment": "1 star",
+            "score": 0.6132190227508545
+          },
+          {
+            "begin_char": 843,
+            "end_char": 876,
+            "sentiment": "3 stars",
+            "score": 0.292619526386261
+          },
+          {
+            "begin_char": 877,
+            "end_char": 1047,
+            "sentiment": "1 star",
+            "score": 0.3101184666156769
+          },
+          {
+            "begin_char": 1048,
+            "end_char": 1094,
+            "sentiment": "1 star",
+            "score": 0.7229766845703125
+          },
+          {
+            "begin_char": 1095,
+            "end_char": 1147,
+            "sentiment": "1 star",
+            "score": 0.6408141255378723
+          },
+          {
+            "begin_char": 1148,
+            "end_char": 1203,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 1204,
+            "end_char": 1206,
+            "sentiment": "3 stars",
+            "score": 0.25771647691726685
+          },
+          {
+            "begin_char": 1206,
+            "end_char": 1219,
+            "sentiment": "5 stars",
+            "score": 0.41084393858909607
+          },
+          {
+            "begin_char": 1220,
+            "end_char": 1308,
+            "sentiment": "3 stars",
+            "score": 0.3752043843269348
+          },
+          {
+            "begin_char": 1308,
+            "end_char": 1309,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 1310,
+            "end_char": 1324,
+            "sentiment": "1 star",
+            "score": 0.3338441252708435
+          },
+          {
+            "begin_char": 1324,
+            "end_char": 1357,
+            "sentiment": "3 stars",
+            "score": 0.292619526386261
+          },
+          {
+            "begin_char": 1358,
+            "end_char": 1453,
+            "sentiment": "5 stars",
+            "score": 0.3197481334209442
+          },
+          {
+            "begin_char": 1454,
+            "end_char": 1711,
+            "sentiment": "4 stars",
+            "score": 0.3423214554786682
+          },
+          {
+            "begin_char": 1712,
+            "end_char": 1755,
+            "sentiment": "3 stars",
+            "score": 0.3017440736293793
+          },
+          {
+            "begin_char": 1755,
+            "end_char": 1835,
+            "sentiment": "3 stars",
+            "score": 0.2175886034965515
+          },
+          {
+            "begin_char": 1835,
+            "end_char": 1974,
+            "sentiment": "5 stars",
+            "score": 0.31042641401290894
+          },
+          {
+            "begin_char": 1974,
+            "end_char": 2007,
+            "sentiment": "3 stars",
+            "score": 0.292619526386261
+          },
+          {
+            "begin_char": 2008,
+            "end_char": 2241,
+            "sentiment": "3 stars",
+            "score": 0.2292434424161911
+          },
+          {
+            "begin_char": 2242,
+            "end_char": 2421,
+            "sentiment": "1 star",
+            "score": 0.32767587900161743
+          },
+          {
+            "begin_char": 2422,
+            "end_char": 2535,
+            "sentiment": "3 stars",
+            "score": 0.34635990858078003
+          },
+          {
+            "begin_char": 2536,
+            "end_char": 2559,
+            "sentiment": "5 stars",
+            "score": 0.33206233382225037
+          },
+          {
+            "begin_char": 2559,
+            "end_char": 2592,
+            "sentiment": "3 stars",
+            "score": 0.292619526386261
+          },
+          {
+            "begin_char": 2593,
+            "end_char": 2602,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2602,
+            "end_char": 2758,
+            "sentiment": "1 star",
+            "score": 0.7722615003585815
+          },
+          {
+            "begin_char": 2759,
+            "end_char": 2853,
+            "sentiment": "4 stars",
+            "score": 0.3290668725967407
+          },
+          {
+            "begin_char": 2854,
+            "end_char": 3076,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 3077,
+            "end_char": 3197,
+            "sentiment": "5 stars",
+            "score": 0.2605288624763489
+          },
+          {
+            "begin_char": 3198,
+            "end_char": 3554,
+            "sentiment": "4 stars",
+            "score": 0.4217384159564972
+          },
+          {
+            "begin_char": 3555,
+            "end_char": 3804,
+            "sentiment": "4 stars",
+            "score": 0.3480848968029022
+          },
+          {
+            "begin_char": 3805,
+            "end_char": 3848,
+            "sentiment": "3 stars",
+            "score": 0.31751394271850586
+          },
+          {
+            "begin_char": 3849,
+            "end_char": 3863,
+            "sentiment": "5 stars",
+            "score": 0.4784506857395172
+          },
+          {
+            "begin_char": 3863,
+            "end_char": 3922,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 3923,
+            "end_char": 3927,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3927,
+            "end_char": 4142,
+            "sentiment": "4 stars",
+            "score": 0.2912786602973938
+          },
+          {
+            "begin_char": 4143,
+            "end_char": 4345,
+            "sentiment": "4 stars",
+            "score": 0.42699843645095825
+          },
+          {
+            "begin_char": 4346,
+            "end_char": 4453,
+            "sentiment": "5 stars",
+            "score": 0.3308888375759125
+          },
+          {
+            "begin_char": 4454,
+            "end_char": 4559,
+            "sentiment": "3 stars",
+            "score": 0.27862852811813354
+          },
+          {
+            "begin_char": 4560,
+            "end_char": 4573,
+            "sentiment": "5 stars",
+            "score": 0.2197314351797104
+          },
+          {
+            "begin_char": 4573,
+            "end_char": 4581,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3315",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

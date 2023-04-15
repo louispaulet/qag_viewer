@@ -1,0 +1,443 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG465",
+    "identifiant": {
+      "numero": "465",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "entreprises",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "GUICHET UNIQUE POUR LES ENTREPRISES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793306",
+        "mandatRef": "PM796254"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Petites et moyennes entreprises, commerce, artisanat et tourisme",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-18",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Petites et moyennes entreprises, commerce, artisanat et tourisme",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-18",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> GUICHET UNIQUE POUR LES ENTREPRISES <a name=PG22></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Philippe Pradal.<br><br><strong>M. Philippe Pradal. </strong>Madame la ministre déléguée chargée des petites et moyennes entreprises, du commerce, de l'artisanat et du tourisme, la loi Pacte – relative à la croissance et à la transformation des entreprises – de 2019 a institué un guichet unique permettant aux entreprises de réaliser l'ensemble des formalités juridiques nécessaires à leur vie courante, en remplacement d'une multitude d'acteurs. Cette simplification, qui était attendue par les entreprises, doit être saluée et soutenue. Au mois de juillet 2020, l'INPI – Institut national de la propriété industrielle – a été désigné comme opérateur de ce guichet unique. Après une période de tests en 2022, un certain nombre de dysfonctionnements ont été constatés ; ils ont conduit, au mois de décembre 2022, à l'activation de la procédure dite de secours réactivant la présence de multiples opérateurs. À ce jour, malgré les efforts importants réalisés par l'ensemble des acteurs du secteur, ces dysfonctionnements persistent, nuisant à l'agilité et à la réactivité dont les entreprises doivent être capables de faire preuve dans une période qui peut être difficile et durant laquelle des formalités juridiques sont souvent nécessaires pour assurer leur protection, celle des emplois et celle de leurs dirigeants.<br><br>Madame la ministre déléguée, je sollicite donc de votre part des précisions sur les mesures envisagées pour ce guichet unique, très attendu par les entreprises et par leurs conseils auxquels il rend un service utile. <i>(Applaudissements sur les bancs du groupe HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée chargée des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme.<br><br><strong>M. Pierre Cordier.</strong> Et des timbres-poste !<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée chargée des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme. </i>Vous m'interrogez sur le guichet unique et sur le registre national des entreprises institués par la loi Pacte votée dans cet hémicycle le 22 mai 2019.<br><br><strong>M. Pierre Cordier.</strong> À l'époque, il y avait une grande majorité…<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée . </i>Un seul centre de formalités au lieu de six, un seul formulaire au lieu de cinquante-six, un guichet numérique au lieu de 70 % de démarches papier, la gratuité de l'accès aux données du registre national des entreprises : oui, c'est un effort de rationalisation, de simplification et de lisibilité qui a prévalu dans la décision, prise par le ministre de l'économie, des finances et de la souveraineté industrielle et numérique de maintenir la date limite fixée par le législateur il y a maintenant trois ans. Bruno Le Maire aurait pu la décaler, mais l'engagement a été tenu et, au 1er janvier 2022, le calendrier a été respecté. Près de 110 000 formalités de création avaient été enregistrées à la veille de la bascule : le portail de l'INPI a pu intégrer les formalités de modification dès le 1er septembre 2022 et, quinze jours après l'ouverture du guichet unique, malgré des difficultés sur lesquelles je reviendrai, plus de 80 000 formalités de création avaient été effectuées. C'est autant en deux semaines que tout au long de l'année 2022 avec l'ancien mode de fonctionnement.<br><br>En dépit d'une attaque informatique que vous n'avez pas mentionnée mais que je tiens à rappeler, le site a tenu bon et le système d'information n'a pas été mis à mal. Toutefois, l'attaque l'a clairement ralenti et elle a rendu indisponible la modification des formalités – et non pas leur création, laquelle fonctionne toujours ; c'est un point sur lequel nous devons nous améliorer. Bruno Le Maire a engagé avec l'INPI une discussion assez ferme en vue d'améliorer, dès les prochaines semaines, ce qui doit encore l'être concernant la modification des formalités. Ce travail sera réalisé d'ici à la fin du mois de février. C'est un engagement du ministre. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 47,
+            "end_char": 58,
+            "label": "MISC",
+            "text": "ENTREPRISES"
+          },
+          {
+            "start_char": 93,
+            "end_char": 96,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 137,
+            "end_char": 139,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 140,
+            "end_char": 148,
+            "label": "PER",
+            "text": "Philippe"
+          },
+          {
+            "start_char": 175,
+            "end_char": 190,
+            "label": "PER",
+            "text": "Philippe Pradal"
+          },
+          {
+            "start_char": 201,
+            "end_char": 207,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 325,
+            "end_char": 332,
+            "label": "ORG",
+            "text": "Pacte –"
+          },
+          {
+            "start_char": 707,
+            "end_char": 760,
+            "label": "ORG",
+            "text": "INPI – Institut national de la propriété industrielle"
+          },
+          {
+            "start_char": 1467,
+            "end_char": 1473,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 1729,
+            "end_char": 1753,
+            "label": "ORG",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1754,
+            "end_char": 1757,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1798,
+            "end_char": 1801,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1884,
+            "end_char": 1886,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1930,
+            "end_char": 1953,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 1993,
+            "end_char": 2003,
+            "label": "PER",
+            "text": "Mme Olivia"
+          },
+          {
+            "start_char": 2105,
+            "end_char": 2107,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2242,
+            "end_char": 2253,
+            "label": "MISC",
+            "text": "Pacte votée"
+          },
+          {
+            "start_char": 2283,
+            "end_char": 2303,
+            "label": "LOC",
+            "text": "2019.<br><br><strong"
+          },
+          {
+            "start_char": 2307,
+            "end_char": 2330,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 2391,
+            "end_char": 2401,
+            "label": "PER",
+            "text": "Mme Olivia"
+          },
+          {
+            "start_char": 2958,
+            "end_char": 2963,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3187,
+            "end_char": 3191,
+            "label": "ORG",
+            "text": "INPI"
+          },
+          {
+            "start_char": 3517,
+            "end_char": 3539,
+            "label": "MISC",
+            "text": "fonctionnement.<br><br"
+          },
+          {
+            "start_char": 3924,
+            "end_char": 3929,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3955,
+            "end_char": 3959,
+            "label": "ORG",
+            "text": "INPI"
+          },
+          {
+            "start_char": 4247,
+            "end_char": 4258,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 111,
+            "sentiment": "3 stars",
+            "score": 0.31955668330192566
+          },
+          {
+            "begin_char": 112,
+            "end_char": 191,
+            "sentiment": "4 stars",
+            "score": 0.26303479075431824
+          },
+          {
+            "begin_char": 192,
+            "end_char": 201,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 201,
+            "end_char": 587,
+            "sentiment": "5 stars",
+            "score": 0.5054405331611633
+          },
+          {
+            "begin_char": 588,
+            "end_char": 679,
+            "sentiment": "5 stars",
+            "score": 0.5615421533584595
+          },
+          {
+            "begin_char": 680,
+            "end_char": 814,
+            "sentiment": "5 stars",
+            "score": 0.4182584285736084
+          },
+          {
+            "begin_char": 815,
+            "end_char": 910,
+            "sentiment": "3 stars",
+            "score": 0.47671228647232056
+          },
+          {
+            "begin_char": 911,
+            "end_char": 1048,
+            "sentiment": "4 stars",
+            "score": 0.3388655185699463
+          },
+          {
+            "begin_char": 1049,
+            "end_char": 1411,
+            "sentiment": "3 stars",
+            "score": 0.518364667892456
+          },
+          {
+            "begin_char": 1412,
+            "end_char": 1467,
+            "sentiment": "5 stars",
+            "score": 0.3137296438217163
+          },
+          {
+            "begin_char": 1467,
+            "end_char": 1683,
+            "sentiment": "4 stars",
+            "score": 0.45714595913887024
+          },
+          {
+            "begin_char": 1684,
+            "end_char": 1772,
+            "sentiment": "4 stars",
+            "score": 0.3090986907482147
+          },
+          {
+            "begin_char": 1773,
+            "end_char": 1977,
+            "sentiment": "4 stars",
+            "score": 0.24968449771404266
+          },
+          {
+            "begin_char": 1977,
+            "end_char": 2025,
+            "sentiment": "3 stars",
+            "score": 0.3076053857803345
+          },
+          {
+            "begin_char": 2026,
+            "end_char": 2132,
+            "sentiment": "4 stars",
+            "score": 0.34708598256111145
+          },
+          {
+            "begin_char": 2133,
+            "end_char": 2423,
+            "sentiment": "3 stars",
+            "score": 0.3053889572620392
+          },
+          {
+            "begin_char": 2424,
+            "end_char": 2432,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 2433,
+            "end_char": 2443,
+            "sentiment": "4 stars",
+            "score": 0.3207393288612366
+          },
+          {
+            "begin_char": 2444,
+            "end_char": 2957,
+            "sentiment": "5 stars",
+            "score": 0.5517162084579468
+          },
+          {
+            "begin_char": 2958,
+            "end_char": 2963,
+            "sentiment": "4 stars",
+            "score": 0.29908427596092224
+          },
+          {
+            "begin_char": 2964,
+            "end_char": 3078,
+            "sentiment": "4 stars",
+            "score": 0.48254135251045227
+          },
+          {
+            "begin_char": 3079,
+            "end_char": 3431,
+            "sentiment": "5 stars",
+            "score": 0.4085729122161865
+          },
+          {
+            "begin_char": 3432,
+            "end_char": 3540,
+            "sentiment": "5 stars",
+            "score": 0.2672133147716522
+          },
+          {
+            "begin_char": 3540,
+            "end_char": 3706,
+            "sentiment": "4 stars",
+            "score": 0.5801328420639038
+          },
+          {
+            "begin_char": 3707,
+            "end_char": 3869,
+            "sentiment": "3 stars",
+            "score": 0.40186163783073425
+          },
+          {
+            "begin_char": 3870,
+            "end_char": 3923,
+            "sentiment": "4 stars",
+            "score": 0.3673187792301178
+          },
+          {
+            "begin_char": 3924,
+            "end_char": 3929,
+            "sentiment": "4 stars",
+            "score": 0.29908427596092224
+          },
+          {
+            "begin_char": 3930,
+            "end_char": 4104,
+            "sentiment": "4 stars",
+            "score": 0.4445312023162842
+          },
+          {
+            "begin_char": 4105,
+            "end_char": 4163,
+            "sentiment": "4 stars",
+            "score": 0.31574955582618713
+          },
+          {
+            "begin_char": 4164,
+            "end_char": 4196,
+            "sentiment": "4 stars",
+            "score": 0.35584986209869385
+          },
+          {
+            "begin_char": 4197,
+            "end_char": 4259,
+            "sentiment": "3 stars",
+            "score": 0.3159869611263275
+          },
+          {
+            "begin_char": 4260,
+            "end_char": 4263,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-18",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-18",
+        "pageJO": "463",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

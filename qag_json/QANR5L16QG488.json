@@ -1,0 +1,689 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG488",
+    "identifiant": {
+      "numero": "488",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enseignement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "CONCERTATIONS EN MATIÈRE DE REVALORISATION ET D'ATTRACTIVITÉ DU MÉTIER D'ENSEIGNANT"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719006",
+        "mandatRef": "PM796296"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Éducation nationale et jeunesse",
+      "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Éducation nationale et jeunesse",
+          "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-01-25",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CONCERTATIONS EN MATIÈRE DE REVALORISATION ET D'ATTRACTIVITÉ DU MÉTIER D'ENSEIGNANT <a name=PG17></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Fabrice Le Vigoureux.<br><br><strong>M. Fabrice Le Vigoureux. </strong>Monsieur le ministre de l'éducation nationale et de la jeunesse, je souhaite vous interroger sur les carrières enseignantes et sur la considération que nous devons à toutes les femmes et à tous les hommes qui se sont engagés dans cette mission si noble, si essentielle, si fondamentale pour l'avenir de notre pays : transmettre des savoirs, des savoir-faire et, de plus en plus, des savoir-être aux enfants, de la maternelle au lycée ; former des citoyens éclairés, capables de voir dans notre démocratie un bien précieux et de laisser toutes les opinions s'exprimer dès lors qu'elles le font sans haine ; respecter chacun, quelle que soit son origine, sa couleur de peau, son orientation sexuelle, sa religion <i>(Applaudissements sur plusieurs bancs du groupe RE)</i> ; donner à chaque enfant les clés pour trouver sa voie et les moyens de s'épanouir. Enseigner : quelle incroyable, formidable et exigeante mission !<br><br>Le budget de l'éducation nationale est le premier budget de la nation – près de 60 milliards d'euros. Il a augmenté de 21 % depuis 2017, à un rythme deux fois plus soutenu que lors du quinquennat socialiste précédent, ce qui devrait inviter certains de nos collègues à cultiver un peu l'humilité.<br><br><strong>M. Sylvain Maillard.</strong> Il a raison !<br><br><strong>M. Sébastien Jumel.</strong> C'est quoi la question ?<br><br><strong>M. Fabrice Le Vigoureux. </strong>Monsieur le ministre, en 2023 vous avez voulu que l'augmentation très significative du budget de votre ministère soit en grande partie dédiée à la revalorisation des carrières des enseignants, afin qu'aucun ne démarre sa carrière en percevant moins de 2 000 euros net par mois. Vous avez voulu qu'à compter de la prochaine rentrée, les enseignants bénéficient d'une hausse moyenne de leur rémunération de 10 %, et jusqu'à 20 % s'ils s'engagent à mener à bien des missions complémentaires – que beaucoup assument déjà sans contrepartie financière. C'est l'amorce d'un grand rattrapage…<br><br><strong>M. Sébastien Jumel.</strong> Oh là là !<br><br><strong>M. Fabrice Le Vigoureux. </strong>…après quatre décennies de lent et sournois affaissement des rémunérations. <i>(Mme Sarah Tanzilli et M. Jean-François Rousset applaudissent.) </i>Il est indispensable pour que les meilleurs étudiants considèrent à nouveau l'enseignement comme une voie attractive.<br><br><strong>M. Sylvain Maillard.</strong> Il a raison !<br><br><strong>M. Sébastien Jumel.</strong> Allô ?<br><br><strong>M. Fabrice Le Vigoureux. </strong>Monsieur le ministre, pouvez-vous nous préciser votre feuille de route pour une meilleure reconnaissance du métier d'enseignant, crucial pour l'avenir de notre pays ? <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’éducation nationale et de la jeunesse.<br><br><strong>M. Pap Ndiaye,</strong><i> ministre de l’éducation nationale et de la jeunesse. </i>L'attractivité du métier d'enseignant est une priorité du Gouvernement. L'augmentation importante du budget de l'éducation nationale cette année, de 6,5 %, en témoigne. L'engagement quotidien des enseignants doit être mieux reconnu, c'est incontestable.<br><br>La semaine passée, avec les organisations syndicales représentatives, j'ai ouvert le cycle de concertation sur l'attractivité et la revalorisation du métier d'enseignant. Nous avons ouvert aujourd'hui les concertations techniques, pour définir précisément, dans le respect du dialogue social, les mesures qui contribueront à restaurer l'attractivité du métier par une rémunération à la hauteur de l'engagement des enseignants.<br><br><strong>Mme Nathalie Oziol.</strong> Les profs démissionnent !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>Cette revalorisation a deux dimensions. Premièrement, nous instaurerons une revalorisation « socle », qui concernera le plus grand nombre possible d'enseignants, dès la rentrée 2023. J'ai parlé des enseignants en première moitié de carrière, mais il est possible que soient également concernés ceux qui sont en seconde moitié de carrière ; c'est l'un des points de la concertation. Cette revalorisation représentera en moyenne 10 % d'augmentation pour les enseignants.<br><br>Deuxièmement, nous procéderons à une revalorisation liée à l'exercice de nouvelles missions. Ceux des enseignants qui s'engageront dans ces nouvelles missions, que nous définirons en concertation avec les organisations syndicales, recevront une augmentation supplémentaire de 10 %, soit, pour ceux qui seront concernés, un total de 20 %. <br><br>L'objectif est de conclure la concertation au mois de mars afin que ces mesures s'appliquent au 1er septembre 2023. L'engagement du Gouvernement traduit bien sa considération pour les professeurs, qui doivent être mieux payés et mieux traités. C'est précisément ce que nous ferons. <i>(Applaudissements sur quelques bancs du groupe RE. – Mme Géraldine Bannier applaudit également.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 36,
+            "label": "ORG",
+            "text": "CONCERTATIONS"
+          },
+          {
+            "start_char": 40,
+            "end_char": 47,
+            "label": "ORG",
+            "text": "MATIÈRE"
+          },
+          {
+            "start_char": 51,
+            "end_char": 65,
+            "label": "ORG",
+            "text": "REVALORISATION"
+          },
+          {
+            "start_char": 69,
+            "end_char": 106,
+            "label": "MISC",
+            "text": "D'ATTRACTIVITÉ DU MÉTIER D'ENSEIGNANT"
+          },
+          {
+            "start_char": 141,
+            "end_char": 144,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 185,
+            "end_char": 187,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 188,
+            "end_char": 195,
+            "label": "MISC",
+            "text": "Fabrice"
+          },
+          {
+            "start_char": 228,
+            "end_char": 235,
+            "label": "MISC",
+            "text": "Fabrice"
+          },
+          {
+            "start_char": 239,
+            "end_char": 248,
+            "label": "LOC",
+            "text": "Vigoureux"
+          },
+          {
+            "start_char": 259,
+            "end_char": 267,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 971,
+            "end_char": 990,
+            "label": "MISC",
+            "text": "i>(Applaudissements"
+          },
+          {
+            "start_char": 1021,
+            "end_char": 1027,
+            "label": "ORG",
+            "text": "RE)</i"
+          },
+          {
+            "start_char": 1113,
+            "end_char": 1122,
+            "label": "PER",
+            "text": "Enseigner"
+          },
+          {
+            "start_char": 1497,
+            "end_char": 1525,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong"
+          },
+          {
+            "start_char": 1559,
+            "end_char": 1584,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 1628,
+            "end_char": 1635,
+            "label": "MISC",
+            "text": "Fabrice"
+          },
+          {
+            "start_char": 1639,
+            "end_char": 1648,
+            "label": "LOC",
+            "text": "Vigoureux"
+          },
+          {
+            "start_char": 1659,
+            "end_char": 1667,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2262,
+            "end_char": 2287,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 2317,
+            "end_char": 2324,
+            "label": "MISC",
+            "text": "Fabrice"
+          },
+          {
+            "start_char": 2328,
+            "end_char": 2337,
+            "label": "LOC",
+            "text": "Vigoureux"
+          },
+          {
+            "start_char": 2432,
+            "end_char": 2446,
+            "label": "PER",
+            "text": "Sarah Tanzilli"
+          },
+          {
+            "start_char": 2450,
+            "end_char": 2453,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 2453,
+            "end_char": 2474,
+            "label": "PER",
+            "text": "Jean-François Rousset"
+          },
+          {
+            "start_char": 2628,
+            "end_char": 2656,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong"
+          },
+          {
+            "start_char": 2690,
+            "end_char": 2720,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong> Allô"
+          },
+          {
+            "start_char": 2741,
+            "end_char": 2748,
+            "label": "MISC",
+            "text": "Fabrice"
+          },
+          {
+            "start_char": 2752,
+            "end_char": 2761,
+            "label": "LOC",
+            "text": "Vigoureux"
+          },
+          {
+            "start_char": 2772,
+            "end_char": 2780,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2990,
+            "end_char": 3013,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3014,
+            "end_char": 3017,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3058,
+            "end_char": 3060,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3076,
+            "end_char": 3078,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3132,
+            "end_char": 3138,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 3171,
+            "end_char": 3173,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3274,
+            "end_char": 3286,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3455,
+            "end_char": 3476,
+            "label": "MISC",
+            "text": "incontestable.<br><br"
+          },
+          {
+            "start_char": 3919,
+            "end_char": 3946,
+            "label": "PER",
+            "text": "Mme Nathalie Oziol.</strong"
+          },
+          {
+            "start_char": 3992,
+            "end_char": 3995,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 4487,
+            "end_char": 4519,
+            "label": "MISC",
+            "text": "enseignants.<br><br>Deuxièmement"
+          },
+          {
+            "start_char": 4985,
+            "end_char": 4997,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 5178,
+            "end_char": 5187,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 5191,
+            "end_char": 5195,
+            "label": "PER",
+            "text": "Mme "
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 159,
+            "sentiment": "4 stars",
+            "score": 0.40661007165908813
+          },
+          {
+            "begin_char": 160,
+            "end_char": 195,
+            "sentiment": "5 stars",
+            "score": 0.24749259650707245
+          },
+          {
+            "begin_char": 196,
+            "end_char": 224,
+            "sentiment": "3 stars",
+            "score": 0.27988094091415405
+          },
+          {
+            "begin_char": 224,
+            "end_char": 225,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 225,
+            "end_char": 235,
+            "sentiment": "3 stars",
+            "score": 0.2812045216560364
+          },
+          {
+            "begin_char": 236,
+            "end_char": 249,
+            "sentiment": "4 stars",
+            "score": 0.3096844553947449
+          },
+          {
+            "begin_char": 250,
+            "end_char": 259,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 259,
+            "end_char": 694,
+            "sentiment": "5 stars",
+            "score": 0.7878825664520264
+          },
+          {
+            "begin_char": 695,
+            "end_char": 864,
+            "sentiment": "5 stars",
+            "score": 0.659137487411499
+          },
+          {
+            "begin_char": 865,
+            "end_char": 956,
+            "sentiment": "4 stars",
+            "score": 0.4490182399749756
+          },
+          {
+            "begin_char": 956,
+            "end_char": 1112,
+            "sentiment": "4 stars",
+            "score": 0.39938807487487793
+          },
+          {
+            "begin_char": 1113,
+            "end_char": 1177,
+            "sentiment": "5 stars",
+            "score": 0.8266869783401489
+          },
+          {
+            "begin_char": 1177,
+            "end_char": 1286,
+            "sentiment": "3 stars",
+            "score": 0.27599036693573
+          },
+          {
+            "begin_char": 1287,
+            "end_char": 1540,
+            "sentiment": "4 stars",
+            "score": 0.335028737783432
+          },
+          {
+            "begin_char": 1540,
+            "end_char": 1584,
+            "sentiment": "3 stars",
+            "score": 0.31285977363586426
+          },
+          {
+            "begin_char": 1585,
+            "end_char": 1609,
+            "sentiment": "1 star",
+            "score": 0.3678979277610779
+          },
+          {
+            "begin_char": 1609,
+            "end_char": 1635,
+            "sentiment": "3 stars",
+            "score": 0.3078460693359375
+          },
+          {
+            "begin_char": 1636,
+            "end_char": 1649,
+            "sentiment": "4 stars",
+            "score": 0.3096844553947449
+          },
+          {
+            "begin_char": 1650,
+            "end_char": 1659,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1659,
+            "end_char": 1936,
+            "sentiment": "5 stars",
+            "score": 0.38728004693984985
+          },
+          {
+            "begin_char": 1937,
+            "end_char": 2205,
+            "sentiment": "5 stars",
+            "score": 0.30967947840690613
+          },
+          {
+            "begin_char": 2206,
+            "end_char": 2287,
+            "sentiment": "4 stars",
+            "score": 0.29808828234672546
+          },
+          {
+            "begin_char": 2288,
+            "end_char": 2298,
+            "sentiment": "1 star",
+            "score": 0.3837512731552124
+          },
+          {
+            "begin_char": 2298,
+            "end_char": 2324,
+            "sentiment": "3 stars",
+            "score": 0.3078460693359375
+          },
+          {
+            "begin_char": 2325,
+            "end_char": 2338,
+            "sentiment": "4 stars",
+            "score": 0.3096844553947449
+          },
+          {
+            "begin_char": 2339,
+            "end_char": 2423,
+            "sentiment": "2 stars",
+            "score": 0.3239404559135437
+          },
+          {
+            "begin_char": 2424,
+            "end_char": 2495,
+            "sentiment": "3 stars",
+            "score": 0.27566009759902954
+          },
+          {
+            "begin_char": 2495,
+            "end_char": 2657,
+            "sentiment": "5 stars",
+            "score": 0.5537002086639404
+          },
+          {
+            "begin_char": 2658,
+            "end_char": 2671,
+            "sentiment": "5 stars",
+            "score": 0.3322871923446655
+          },
+          {
+            "begin_char": 2671,
+            "end_char": 2722,
+            "sentiment": "2 stars",
+            "score": 0.31605294346809387
+          },
+          {
+            "begin_char": 2722,
+            "end_char": 2748,
+            "sentiment": "3 stars",
+            "score": 0.3078460693359375
+          },
+          {
+            "begin_char": 2749,
+            "end_char": 2762,
+            "sentiment": "4 stars",
+            "score": 0.3096844553947449
+          },
+          {
+            "begin_char": 2763,
+            "end_char": 2772,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2772,
+            "end_char": 2938,
+            "sentiment": "5 stars",
+            "score": 0.40426990389823914
+          },
+          {
+            "begin_char": 2939,
+            "end_char": 3032,
+            "sentiment": "3 stars",
+            "score": 0.3051096200942993
+          },
+          {
+            "begin_char": 3033,
+            "end_char": 3158,
+            "sentiment": "3 stars",
+            "score": 0.30180537700653076
+          },
+          {
+            "begin_char": 3159,
+            "end_char": 3211,
+            "sentiment": "4 stars",
+            "score": 0.30159011483192444
+          },
+          {
+            "begin_char": 3212,
+            "end_char": 3216,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3216,
+            "end_char": 3287,
+            "sentiment": "4 stars",
+            "score": 0.3986172676086426
+          },
+          {
+            "begin_char": 3288,
+            "end_char": 3384,
+            "sentiment": "4 stars",
+            "score": 0.4184890389442444
+          },
+          {
+            "begin_char": 3385,
+            "end_char": 3647,
+            "sentiment": "5 stars",
+            "score": 0.4998384118080139
+          },
+          {
+            "begin_char": 3648,
+            "end_char": 3947,
+            "sentiment": "5 stars",
+            "score": 0.45560309290885925
+          },
+          {
+            "begin_char": 3948,
+            "end_char": 3973,
+            "sentiment": "1 star",
+            "score": 0.4516497254371643
+          },
+          {
+            "begin_char": 3973,
+            "end_char": 4026,
+            "sentiment": "3 stars",
+            "score": 0.3228466212749481
+          },
+          {
+            "begin_char": 4027,
+            "end_char": 4070,
+            "sentiment": "3 stars",
+            "score": 0.30574673414230347
+          },
+          {
+            "begin_char": 4071,
+            "end_char": 4213,
+            "sentiment": "5 stars",
+            "score": 0.4533753991127014
+          },
+          {
+            "begin_char": 4214,
+            "end_char": 4370,
+            "sentiment": "3 stars",
+            "score": 0.4254359006881714
+          },
+          {
+            "begin_char": 4371,
+            "end_char": 4412,
+            "sentiment": "4 stars",
+            "score": 0.422830730676651
+          },
+          {
+            "begin_char": 4413,
+            "end_char": 4599,
+            "sentiment": "4 stars",
+            "score": 0.32970181107521057
+          },
+          {
+            "begin_char": 4600,
+            "end_char": 4844,
+            "sentiment": "5 stars",
+            "score": 0.41206109523773193
+          },
+          {
+            "begin_char": 4845,
+            "end_char": 4968,
+            "sentiment": "3 stars",
+            "score": 0.2991122901439667
+          },
+          {
+            "begin_char": 4969,
+            "end_char": 5096,
+            "sentiment": "5 stars",
+            "score": 0.4969853162765503
+          },
+          {
+            "begin_char": 5097,
+            "end_char": 5134,
+            "sentiment": "5 stars",
+            "score": 0.35396841168403625
+          },
+          {
+            "begin_char": 5135,
+            "end_char": 5195,
+            "sentiment": "3 stars",
+            "score": 0.31670424342155457
+          },
+          {
+            "begin_char": 5195,
+            "end_char": 5246,
+            "sentiment": "4 stars",
+            "score": 0.32478705048561096
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-01-25",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-01-25",
+        "pageJO": "668",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

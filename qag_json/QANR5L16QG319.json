@@ -1,0 +1,629 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG319",
+    "identifiant": {
+      "numero": "319",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "entreprises",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Coût de l'énergie et pour les entreprises"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795266",
+        "mandatRef": "PM803280"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Économie, finances, souveraineté industrielle et numérique",
+      "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Économie, finances, souveraineté industrielle et numérique",
+          "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> COÛT DE L'ÉNERGIE POUR LES ENTREPRISES <a name=PG17></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Agnès Carel.<br><br><strong>Mme Agnès Carel. </strong>Monsieur le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, la forte augmentation des coûts de l'énergie pèse sur le budget des ménages, des collectivités, mais aussi des entreprises. Le Gouvernement et la majorité ont instauré un bouclier tarifaire qui protège les ménages plus que partout ailleurs en Europe, ainsi qu'un filet de sécurité à destination des collectivités, qui sera renforcé et recentré l'année prochaine à l'initiative du groupe Horizons et apparentés.<br><br>S'agissant des entreprises, vous avez annoncé des aides ciblées en fonction de leur taille et des besoins. Partout dans nos territoires, les chefs d'entreprise s'inquiètent alors qu'ils doivent signer leurs contrats d'approvisionnement pour l'année prochaine. Bien souvent, les prix sont multipliés par trois, quatre ou cinq. Des filières entières sont en danger et des centaines de milliers d'entreprises craignent de devoir freiner ou stopper leur activité, voire de mettre la clé sous la porte.<br><br>Dans ma circonscription, la filière de la pomme de terre est fortement touchée par cette situation, comme le sont nos agriculteurs, nos artisans, nos chefs d'entreprise et nos industries dans chacun de nos territoires. Face à ces situations critiques, le groupe Horizons et apparentés défendra un amendement sur le projet de loi relatif à l'accélération de la production d'énergies renouvelables visant à permettre aux collectivités et aux entreprises de résilier à tout moment leur contrat d'électricité ou de gaz, afin de bénéficier de tarifs de marché plus favorables, en fonction de la conjoncture.<br><br>Cependant, d'ici à la conclusion de l'examen de ce texte, les chefs d'entreprise devront signer leurs contrats d'approvisionnement en énergie pour l'année prochaine. Pouvez-vous nous dire très concrètement et avec pragmatisme ce qu'ils doivent faire ? <i>(Applaudissements sur les bancs du groupe HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br><strong>M. Bruno Le Maire,</strong><i> ministre de l’économie, des finances et de la souveraineté industrielle et numérique. </i>Très concrètement, je souhaite profiter de votre question pour inviter tous les chefs d'entreprise, qu'ils dirigent une PME – petite et moyenne entreprise –, une entreprise de taille intermédiaire (ETI) ou une très grande entreprise, à déposer leurs factures énergétiques sur le site impots.gouv.fr. <i>(Applaudissements sur quelques bancs du groupe RE.)</i> Toutes celles qui ont des difficultés pour payer leurs factures d'électricité ou de gaz au titre de l'année 2022 auront droit à des aides qui pourront atteindre 4 millions d'euros pour les PME et 150 millions d'euros pour les grandes entreprises industrielles…<br><br><strong>M. Jean-Paul Lecoq.</strong> Pour les actionnaires !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>…et ce pour la période allant jusqu'à la fin de l'année 2023. Pour cela, deux conditions sont à remplir. Premièrement, leur facture doit avoir augmenté de 50 %, ce qui est hélas le cas d'une très grande majorité d'entreprises. Deuxièmement, les dépenses énergétiques doivent représenter 3 % de leur chiffre d'affaires, ce qui est également le cas d'une très grande partie des sociétés.<br><br><strong>M. Jean-Paul Lecoq.</strong> Et les superprofits ? Et les dividendes ?<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Par ailleurs, j'entends certaines inquiétudes, que je souhaite lever. J'étais d'ailleurs hier avec Olivia Grégoire, ministre déléguée chargée des PME,…<br><br><strong>M. Sylvain Maillard.</strong> Excellente ministre !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>…à Montceau-les-Mines, à la rencontre des boulangers, afin de les assurer de notre soutien.<br><br>Tout d'abord, toutes les entreprises sont concernées par le bouclier tarifaire, qu'il s'agisse des PME, des ETI, des grandes entreprises, ou des entreprises les plus énergo-intensives.<br><br>Deuxième élément : nous veillerons à l'application de la charte signée par les énergéticiens. Aux termes de celle-ci, toutes les entreprises ont droit à plusieurs offres, afin d'être en mesure de comparer et de sélectionner le meilleur prix.<br><br>Enfin, comme je l'ai évoqué tout à l'heure avec le vice-chancelier allemand, ministre de l'économie et de la protection du climat, nous veillerons à l'équité de la concurrence entre l'Allemagne et la France. Les entreprises françaises seront aussi bien protégées que les entreprises allemandes. <i>(Applaudissements sur quelques bancs des groupes RE, Dem et HOR.)</i><br><br><strong>M. Thibault Bazin.</strong> En mettant 200 milliards d'euros sur la table comme en Allemagne ?<br><br><strong>Mme la présidente. </strong>La parole est à Mme Agnès Carel.<br><br><strong>Mme Agnès Carel. </strong>La préoccupation de nos entreprises est réelle : il y a une très forte attente en faveur d'une communication saine et claire. <i>(Applaudissements sur les bancs du groupe HOR et sur quelques bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 27,
+            "label": "LOC",
+            "text": "COÛT"
+          },
+          {
+            "start_char": 33,
+            "end_char": 40,
+            "label": "ORG",
+            "text": "ÉNERGIE"
+          },
+          {
+            "start_char": 50,
+            "end_char": 61,
+            "label": "MISC",
+            "text": "ENTREPRISES"
+          },
+          {
+            "start_char": 96,
+            "end_char": 99,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 140,
+            "end_char": 171,
+            "label": "PER",
+            "text": "Mme Agnès Carel.<br><br><strong"
+          },
+          {
+            "start_char": 172,
+            "end_char": 187,
+            "label": "PER",
+            "text": "Mme Agnès Carel"
+          },
+          {
+            "start_char": 198,
+            "end_char": 206,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 423,
+            "end_char": 435,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 539,
+            "end_char": 545,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 683,
+            "end_char": 691,
+            "label": "LOC",
+            "text": "Horizons"
+          },
+          {
+            "start_char": 695,
+            "end_char": 713,
+            "label": "MISC",
+            "text": "apparentés.<br><br"
+          },
+          {
+            "start_char": 1205,
+            "end_char": 1218,
+            "label": "MISC",
+            "text": "porte.<br><br"
+          },
+          {
+            "start_char": 1481,
+            "end_char": 1489,
+            "label": "LOC",
+            "text": "Horizons"
+          },
+          {
+            "start_char": 1995,
+            "end_char": 2001,
+            "label": "PER",
+            "text": "Pouvez"
+          },
+          {
+            "start_char": 2126,
+            "end_char": 2150,
+            "label": "ORG",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2151,
+            "end_char": 2154,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2195,
+            "end_char": 2197,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2213,
+            "end_char": 2215,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2305,
+            "end_char": 2310,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 2345,
+            "end_char": 2347,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2621,
+            "end_char": 2624,
+            "label": "ORG",
+            "text": "ETI"
+          },
+          {
+            "start_char": 2707,
+            "end_char": 2721,
+            "label": "LOC",
+            "text": "impots.gouv.fr"
+          },
+          {
+            "start_char": 2773,
+            "end_char": 2780,
+            "label": "ORG",
+            "text": "RE.)</i"
+          },
+          {
+            "start_char": 3061,
+            "end_char": 3085,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 3129,
+            "end_char": 3134,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3576,
+            "end_char": 3600,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 3662,
+            "end_char": 3667,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3804,
+            "end_char": 3819,
+            "label": "PER",
+            "text": "Olivia Grégoire"
+          },
+          {
+            "start_char": 3851,
+            "end_char": 3855,
+            "label": "MISC",
+            "text": "PME,"
+          },
+          {
+            "start_char": 3872,
+            "end_char": 3900,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong"
+          },
+          {
+            "start_char": 3902,
+            "end_char": 3912,
+            "label": "PER",
+            "text": "Excellente"
+          },
+          {
+            "start_char": 3942,
+            "end_char": 3947,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3988,
+            "end_char": 4006,
+            "label": "LOC",
+            "text": "Montceau-les-Mines"
+          },
+          {
+            "start_char": 4068,
+            "end_char": 4083,
+            "label": "MISC",
+            "text": "soutien.<br><br"
+          },
+          {
+            "start_char": 4192,
+            "end_char": 4195,
+            "label": "ORG",
+            "text": "ETI"
+          },
+          {
+            "start_char": 4257,
+            "end_char": 4276,
+            "label": "MISC",
+            "text": "intensives.<br><br>"
+          },
+          {
+            "start_char": 4276,
+            "end_char": 4284,
+            "label": "MISC",
+            "text": "Deuxième"
+          },
+          {
+            "start_char": 4512,
+            "end_char": 4524,
+            "label": "MISC",
+            "text": "prix.<br><br"
+          },
+          {
+            "start_char": 4709,
+            "end_char": 4718,
+            "label": "LOC",
+            "text": "Allemagne"
+          },
+          {
+            "start_char": 4872,
+            "end_char": 4874,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4876,
+            "end_char": 4879,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4883,
+            "end_char": 4934,
+            "label": "PER",
+            "text": "HOR.)</i><br><br><strong>M. Thibault Bazin.</strong"
+          },
+          {
+            "start_char": 4991,
+            "end_char": 5000,
+            "label": "LOC",
+            "text": "Allemagne"
+          },
+          {
+            "start_char": 5018,
+            "end_char": 5021,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5062,
+            "end_char": 5093,
+            "label": "PER",
+            "text": "Mme Agnès Carel.<br><br><strong"
+          },
+          {
+            "start_char": 5094,
+            "end_char": 5109,
+            "label": "PER",
+            "text": "Mme Agnès Carel"
+          },
+          {
+            "start_char": 5291,
+            "end_char": 5294,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 5327,
+            "end_char": 5338,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 114,
+            "sentiment": "3 stars",
+            "score": 0.3090684711933136
+          },
+          {
+            "begin_char": 115,
+            "end_char": 188,
+            "sentiment": "3 stars",
+            "score": 0.2377808541059494
+          },
+          {
+            "begin_char": 189,
+            "end_char": 198,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 198,
+            "end_char": 419,
+            "sentiment": "4 stars",
+            "score": 0.38603824377059937
+          },
+          {
+            "begin_char": 420,
+            "end_char": 820,
+            "sentiment": "4 stars",
+            "score": 0.40409284830093384
+          },
+          {
+            "begin_char": 821,
+            "end_char": 973,
+            "sentiment": "4 stars",
+            "score": 0.3588913083076477
+          },
+          {
+            "begin_char": 974,
+            "end_char": 1039,
+            "sentiment": "3 stars",
+            "score": 0.3623741567134857
+          },
+          {
+            "begin_char": 1040,
+            "end_char": 1437,
+            "sentiment": "5 stars",
+            "score": 0.45166686177253723
+          },
+          {
+            "begin_char": 1438,
+            "end_char": 1994,
+            "sentiment": "4 stars",
+            "score": 0.4652681052684784
+          },
+          {
+            "begin_char": 1995,
+            "end_char": 2080,
+            "sentiment": "5 stars",
+            "score": 0.3084612488746643
+          },
+          {
+            "begin_char": 2081,
+            "end_char": 2169,
+            "sentiment": "4 stars",
+            "score": 0.3090986907482147
+          },
+          {
+            "begin_char": 2170,
+            "end_char": 2332,
+            "sentiment": "4 stars",
+            "score": 0.3296317458152771
+          },
+          {
+            "begin_char": 2333,
+            "end_char": 2418,
+            "sentiment": "5 stars",
+            "score": 0.3489697575569153
+          },
+          {
+            "begin_char": 2419,
+            "end_char": 2722,
+            "sentiment": "5 stars",
+            "score": 0.47069284319877625
+          },
+          {
+            "begin_char": 2723,
+            "end_char": 2781,
+            "sentiment": "3 stars",
+            "score": 0.30346009135246277
+          },
+          {
+            "begin_char": 2782,
+            "end_char": 3086,
+            "sentiment": "4 stars",
+            "score": 0.2803623676300049
+          },
+          {
+            "begin_char": 3087,
+            "end_char": 3110,
+            "sentiment": "5 stars",
+            "score": 0.42072784900665283
+          },
+          {
+            "begin_char": 3110,
+            "end_char": 3167,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3168,
+            "end_char": 3233,
+            "sentiment": "2 stars",
+            "score": 0.31948766112327576
+          },
+          {
+            "begin_char": 3234,
+            "end_char": 3276,
+            "sentiment": "4 stars",
+            "score": 0.33471348881721497
+          },
+          {
+            "begin_char": 3277,
+            "end_char": 3398,
+            "sentiment": "2 stars",
+            "score": 0.4051337242126465
+          },
+          {
+            "begin_char": 3399,
+            "end_char": 3623,
+            "sentiment": "3 stars",
+            "score": 0.36919498443603516
+          },
+          {
+            "begin_char": 3624,
+            "end_char": 3643,
+            "sentiment": "4 stars",
+            "score": 0.23127290606498718
+          },
+          {
+            "begin_char": 3643,
+            "end_char": 3700,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 3701,
+            "end_char": 3705,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3705,
+            "end_char": 3774,
+            "sentiment": "4 stars",
+            "score": 0.40990740060806274
+          },
+          {
+            "begin_char": 3775,
+            "end_char": 3969,
+            "sentiment": "5 stars",
+            "score": 0.47332754731178284
+          },
+          {
+            "begin_char": 3970,
+            "end_char": 3980,
+            "sentiment": "4 stars",
+            "score": 0.3277084231376648
+          },
+          {
+            "begin_char": 3981,
+            "end_char": 4276,
+            "sentiment": "5 stars",
+            "score": 0.5000688433647156
+          },
+          {
+            "begin_char": 4276,
+            "end_char": 4369,
+            "sentiment": "4 stars",
+            "score": 0.4228322505950928
+          },
+          {
+            "begin_char": 4370,
+            "end_char": 4732,
+            "sentiment": "5 stars",
+            "score": 0.5437538623809814
+          },
+          {
+            "begin_char": 4733,
+            "end_char": 4819,
+            "sentiment": "5 stars",
+            "score": 0.4247480630874634
+          },
+          {
+            "begin_char": 4820,
+            "end_char": 4935,
+            "sentiment": "3 stars",
+            "score": 0.36617472767829895
+          },
+          {
+            "begin_char": 4936,
+            "end_char": 5002,
+            "sentiment": "1 star",
+            "score": 0.40994709730148315
+          },
+          {
+            "begin_char": 5002,
+            "end_char": 5036,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 5037,
+            "end_char": 5110,
+            "sentiment": "3 stars",
+            "score": 0.2377808541059494
+          },
+          {
+            "begin_char": 5111,
+            "end_char": 5120,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5120,
+            "end_char": 5245,
+            "sentiment": "5 stars",
+            "score": 0.5181004405021667
+          },
+          {
+            "begin_char": 5246,
+            "end_char": 5339,
+            "sentiment": "3 stars",
+            "score": 0.30832338333129883
+          },
+          {
+            "begin_char": 5340,
+            "end_char": 5343,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5904",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

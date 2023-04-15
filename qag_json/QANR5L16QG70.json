@@ -1,0 +1,671 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG70",
+    "identifiant": {
+      "numero": "70",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "sécurité des biens et des personnes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Flotte de lutte contre les incendies"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA266788",
+        "mandatRef": "PM796788"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Intérieur et outre-mer",
+      "developpe": "Ministère de l’intérieur et des outre-mer"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Intérieur et outre-mer",
+          "developpe": "Ministère de l’intérieur et des outre-mer"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> FLOTTE DE LUTTE CONTRE LES INCENDIES <a name=PG16></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Pierre Morel-À-L'Huissier.<br><br><strong>M. Pierre Morel-À-L'Huissier. </strong>Monsieur le ministre de l'intérieur, notre pays a été confronté ces derniers jours à des incendies d'une taille exceptionnelle. Je veux rendre hommage à ceux qui les combattent : les sapeurs-pompiers, mais aussi les acteurs de la société civile – élus, bénévoles, y compris des agriculteurs venus prêter main-forte. <i>(Applaudissements sur les bancs du groupe LIOT.)</i><br><br><strong>M. Patrick Hetzel.</strong> On n'est jamais mieux servi que par soi-même !<br><br><strong>M. Pierre Morel-À-L'Huissier. </strong>Il y a quelques années, j'avais réalisé au nom de la commission des lois, en liaison avec Jean-Jacques Urvoas, un rapport consacré à la vétusté de la base de la sécurité civile de Marignane, aujourd'hui déplacée à Nîmes-Garons. Nous avions alors été confrontés à une grève des pilotes de Canadair, qui nous avaient interpellés au sujet de l'état des avions bombardiers d'eau : la question était celle de la maintenance des Canadair et des Tracker. Sans vouloir entamer ou nourrir aucune polémique, car je sais que des efforts ont été faits ces dernières années, je souhaiterais que vous appreniez à la représentation nationale l'état précis de notre flotte – bombardiers Canadair et Dash, avions de reconnaissance Beechcraft, hélicoptères.<br><br><strong>M. Patrick Hetzel.</strong> Le ministre a répondu à cette question il y a une semaine !<br><br><strong>M. Pierre Morel-À-L'Huissier. </strong>Quitte à recourir à une mission parlementaire, monsieur le ministre, le moment est venu de faire l'état des lieux, de savoir quels sont nos moyens et nos besoins : la maintenance, notamment, coûte cher.<br><br>Au-delà des équipements, j'appelle également votre attention sur les moyens humains dont dispose notre pays. Sur 250 000 pompiers, environ 196 000 sont volontaires. Or la durée de leur engagement est passée de vingt ans à neuf ans ; le volontariat traverse une crise que n'a pas résolue l'adoption à l'unanimité de la loi Matras du 25 novembre 2021. Dans ma circonscription, en Lozère, 99 % des pompiers sont volontaires : comme dans beaucoup d'autres départements ruraux, nous avons du mal à armer les véhicules de secours aux asphyxiés et aux blessés (VSAB).<br><br>Sur les deux points que j'ai évoqués, j'attends de votre part une réponse concrète pour le devenir de notre modèle de sécurité civile. <i>(Applaudissements sur les bancs du groupe LIOT.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’intérieur et des outre-mer.<br><br><strong>M. Gérald Darmanin,</strong><i> ministre de l’intérieur et des outre-mer. </i>Monsieur le député, je n'ignore pas que vous connaissez fort bien la question, ayant souvent été corapporteur ou coauteur des textes en faveur des sapeurs-pompiers. Je salue votre ancien collègue Fabien Matras, membre de la majorité présidentielle, qui a contribué avec vous à doter ces professionnels de moyens importants grâce à une proposition de loi adoptée à l'unanimité dans cet hémicycle comme dans celui du Sénat. <i>(Applaudissements sur quelques bancs des groupes RE et Dem. - Mme Anne-Cécile Violland applaudit également.) </i><br><br>Au sujet de notre flotte, vous m'avez posé une question précise : j'y répondrai d'autant plus précisément que, lorsque je vois votre nom inscrit sur la liste des auteurs de questions au Gouvernement, je me doute que le sujet des pompiers sera abordé. Ce matin à huit heures, donc, sur les douze Canadair dont dispose notre pays, dix étaient prêts à décoller, deux en maintenance : ils seront sans doute réparés d'ici à ce soir ou demain matin, puisque la base de Nîmes-Garons assure ce travail vingt-quatre heures sur vingt-quatre. L'un des six Dash était en maintenance, les cinq autres disponibles, de même que les trois Beechcraft. Vous pouvez constater que les rumeurs qui veulent que la moitié de la flotte soit hors d'état de voler sont totalement fausses ! Quant aux hélicoptères, toutes les bases sont ouvertes et les trente-cinq appareils opérationnels, ainsi que les deux hélicoptères bombardiers d'eau que nous louons.<br><br>Du reste, après avoir renouvelé intégralement nos Beechcraft, nous sommes en train d'en faire autant de nos Dash ; les Canadair ayant en moyenne vingt-quatre ans, le Président de la République a réitéré en Gironde notre engagement de les renouveler également. Le problème réside dans le fait que nous n'avons pas aujourd'hui d'usine qui puisse les fabriquer, Canadair étant, comme vous le savez, une compagnie de construction. Nous travaillons donc à l'échelle de l'Union européenne - un grand merci à l'Europe ! <i>(Applaudissements sur les bancs du groupe RE, ainsi que sur quelques bancs des groupes Dem et HOR.)</i><br><br><strong>M. Sébastien Chenu.</strong> Mais c'est notre argent !<br> <p>",
+        "entities": [
+          {
+            "start_char": 33,
+            "end_char": 45,
+            "label": "ORG",
+            "text": "LUTTE CONTRE"
+          },
+          {
+            "start_char": 50,
+            "end_char": 59,
+            "label": "MISC",
+            "text": "INCENDIES"
+          },
+          {
+            "start_char": 94,
+            "end_char": 97,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 138,
+            "end_char": 140,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 141,
+            "end_char": 182,
+            "label": "PER",
+            "text": "Pierre Morel-À-L'Huissier.<br><br><strong"
+          },
+          {
+            "start_char": 186,
+            "end_char": 211,
+            "label": "PER",
+            "text": "Pierre Morel-À-L'Huissier"
+          },
+          {
+            "start_char": 222,
+            "end_char": 230,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 583,
+            "end_char": 608,
+            "label": "ORG",
+            "text": "LIOT.)</i><br><br><strong"
+          },
+          {
+            "start_char": 612,
+            "end_char": 636,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 702,
+            "end_char": 727,
+            "label": "PER",
+            "text": "Pierre Morel-À-L'Huissier"
+          },
+          {
+            "start_char": 828,
+            "end_char": 847,
+            "label": "PER",
+            "text": "Jean-Jacques Urvoas"
+          },
+          {
+            "start_char": 918,
+            "end_char": 927,
+            "label": "LOC",
+            "text": "Marignane"
+          },
+          {
+            "start_char": 952,
+            "end_char": 964,
+            "label": "LOC",
+            "text": "Nîmes-Garons"
+          },
+          {
+            "start_char": 1026,
+            "end_char": 1034,
+            "label": "LOC",
+            "text": "Canadair"
+          },
+          {
+            "start_char": 1161,
+            "end_char": 1169,
+            "label": "LOC",
+            "text": "Canadair"
+          },
+          {
+            "start_char": 1177,
+            "end_char": 1184,
+            "label": "MISC",
+            "text": "Tracker"
+          },
+          {
+            "start_char": 1409,
+            "end_char": 1417,
+            "label": "LOC",
+            "text": "Canadair"
+          },
+          {
+            "start_char": 1421,
+            "end_char": 1425,
+            "label": "LOC",
+            "text": "Dash"
+          },
+          {
+            "start_char": 1452,
+            "end_char": 1462,
+            "label": "ORG",
+            "text": "Beechcraft"
+          },
+          {
+            "start_char": 1464,
+            "end_char": 1492,
+            "label": "LOC",
+            "text": "hélicoptères.<br><br><strong"
+          },
+          {
+            "start_char": 1496,
+            "end_char": 1520,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 1599,
+            "end_char": 1624,
+            "label": "PER",
+            "text": "Pierre Morel-À-L'Huissier"
+          },
+          {
+            "start_char": 1832,
+            "end_char": 1844,
+            "label": "MISC",
+            "text": "cher.<br><br"
+          },
+          {
+            "start_char": 2163,
+            "end_char": 2173,
+            "label": "MISC",
+            "text": "loi Matras"
+          },
+          {
+            "start_char": 2223,
+            "end_char": 2229,
+            "label": "LOC",
+            "text": "Lozère"
+          },
+          {
+            "start_char": 2399,
+            "end_char": 2432,
+            "label": "MISC",
+            "text": "VSAB).<br><br>Sur les deux points"
+          },
+          {
+            "start_char": 2593,
+            "end_char": 2618,
+            "label": "ORG",
+            "text": "LIOT.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2619,
+            "end_char": 2622,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2663,
+            "end_char": 2665,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2681,
+            "end_char": 2683,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2726,
+            "end_char": 2735,
+            "label": "PER",
+            "text": "M. Gérald"
+          },
+          {
+            "start_char": 2770,
+            "end_char": 2772,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2804,
+            "end_char": 2812,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 3000,
+            "end_char": 3013,
+            "label": "PER",
+            "text": "Fabien Matras"
+          },
+          {
+            "start_char": 3219,
+            "end_char": 3224,
+            "label": "MISC",
+            "text": "Sénat"
+          },
+          {
+            "start_char": 3278,
+            "end_char": 3280,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3284,
+            "end_char": 3287,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 3300,
+            "end_char": 3315,
+            "label": "PER",
+            "text": "Cécile Violland"
+          },
+          {
+            "start_char": 3536,
+            "end_char": 3548,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3645,
+            "end_char": 3653,
+            "label": "LOC",
+            "text": "Canadair"
+          },
+          {
+            "start_char": 3805,
+            "end_char": 3825,
+            "label": "LOC",
+            "text": "base de Nîmes-Garons"
+          },
+          {
+            "start_char": 3895,
+            "end_char": 3899,
+            "label": "PER",
+            "text": "Dash"
+          },
+          {
+            "start_char": 3973,
+            "end_char": 3983,
+            "label": "MISC",
+            "text": "Beechcraft"
+          },
+          {
+            "start_char": 4272,
+            "end_char": 4295,
+            "label": "MISC",
+            "text": "louons.<br><br>Du reste"
+          },
+          {
+            "start_char": 4337,
+            "end_char": 4347,
+            "label": "MISC",
+            "text": "Beechcraft"
+          },
+          {
+            "start_char": 4395,
+            "end_char": 4399,
+            "label": "PER",
+            "text": "Dash"
+          },
+          {
+            "start_char": 4406,
+            "end_char": 4414,
+            "label": "LOC",
+            "text": "Canadair"
+          },
+          {
+            "start_char": 4453,
+            "end_char": 4479,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4493,
+            "end_char": 4500,
+            "label": "LOC",
+            "text": "Gironde"
+          },
+          {
+            "start_char": 4646,
+            "end_char": 4654,
+            "label": "LOC",
+            "text": "Canadair"
+          },
+          {
+            "start_char": 4753,
+            "end_char": 4769,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 4838,
+            "end_char": 4847,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4890,
+            "end_char": 4893,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4897,
+            "end_char": 4950,
+            "label": "PER",
+            "text": "HOR.)</i><br><br><strong>M. Sébastien Chenu.</strong>"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 112,
+            "sentiment": "4 stars",
+            "score": 0.2658158838748932
+          },
+          {
+            "begin_char": 113,
+            "end_char": 212,
+            "sentiment": "3 stars",
+            "score": 0.268506795167923
+          },
+          {
+            "begin_char": 213,
+            "end_char": 349,
+            "sentiment": "5 stars",
+            "score": 0.38561689853668213
+          },
+          {
+            "begin_char": 350,
+            "end_char": 537,
+            "sentiment": "5 stars",
+            "score": 0.6328738927841187
+          },
+          {
+            "begin_char": 538,
+            "end_char": 636,
+            "sentiment": "3 stars",
+            "score": 0.34712398052215576
+          },
+          {
+            "begin_char": 637,
+            "end_char": 683,
+            "sentiment": "5 stars",
+            "score": 0.4139324724674225
+          },
+          {
+            "begin_char": 683,
+            "end_char": 728,
+            "sentiment": "3 stars",
+            "score": 0.27625226974487305
+          },
+          {
+            "begin_char": 729,
+            "end_char": 738,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 738,
+            "end_char": 965,
+            "sentiment": "3 stars",
+            "score": 0.29967644810676575
+          },
+          {
+            "begin_char": 966,
+            "end_char": 1185,
+            "sentiment": "4 stars",
+            "score": 0.27144134044647217
+          },
+          {
+            "begin_char": 1186,
+            "end_char": 1520,
+            "sentiment": "5 stars",
+            "score": 0.34734469652175903
+          },
+          {
+            "begin_char": 1521,
+            "end_char": 1580,
+            "sentiment": "1 star",
+            "score": 0.2338826209306717
+          },
+          {
+            "begin_char": 1580,
+            "end_char": 1625,
+            "sentiment": "3 stars",
+            "score": 0.27625226974487305
+          },
+          {
+            "begin_char": 1626,
+            "end_char": 1845,
+            "sentiment": "4 stars",
+            "score": 0.38701966404914856
+          },
+          {
+            "begin_char": 1845,
+            "end_char": 1847,
+            "sentiment": "5 stars",
+            "score": 0.31276801228523254
+          },
+          {
+            "begin_char": 1847,
+            "end_char": 1848,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 1848,
+            "end_char": 1953,
+            "sentiment": "4 stars",
+            "score": 0.3906765878200531
+          },
+          {
+            "begin_char": 1954,
+            "end_char": 2009,
+            "sentiment": "4 stars",
+            "score": 0.2578708529472351
+          },
+          {
+            "begin_char": 2010,
+            "end_char": 2077,
+            "sentiment": "2 stars",
+            "score": 0.3241768181324005
+          },
+          {
+            "begin_char": 2078,
+            "end_char": 2194,
+            "sentiment": "4 stars",
+            "score": 0.3495100736618042
+          },
+          {
+            "begin_char": 2195,
+            "end_char": 2316,
+            "sentiment": "5 stars",
+            "score": 0.3071819543838501
+          },
+          {
+            "begin_char": 2316,
+            "end_char": 2547,
+            "sentiment": "3 stars",
+            "score": 0.383292555809021
+          },
+          {
+            "begin_char": 2548,
+            "end_char": 2637,
+            "sentiment": "4 stars",
+            "score": 0.3018896281719208
+          },
+          {
+            "begin_char": 2638,
+            "end_char": 2757,
+            "sentiment": "4 stars",
+            "score": 0.3126711845397949
+          },
+          {
+            "begin_char": 2758,
+            "end_char": 2799,
+            "sentiment": "4 stars",
+            "score": 0.31207600235939026
+          },
+          {
+            "begin_char": 2800,
+            "end_char": 2804,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2804,
+            "end_char": 2968,
+            "sentiment": "4 stars",
+            "score": 0.3239254653453827
+          },
+          {
+            "begin_char": 2969,
+            "end_char": 3225,
+            "sentiment": "5 stars",
+            "score": 0.5230062007904053
+          },
+          {
+            "begin_char": 3226,
+            "end_char": 3288,
+            "sentiment": "3 stars",
+            "score": 0.31805655360221863
+          },
+          {
+            "begin_char": 3289,
+            "end_char": 3337,
+            "sentiment": "4 stars",
+            "score": 0.3753930330276489
+          },
+          {
+            "begin_char": 3338,
+            "end_char": 3350,
+            "sentiment": "3 stars",
+            "score": 0.3168611526489258
+          },
+          {
+            "begin_char": 3350,
+            "end_char": 3600,
+            "sentiment": "5 stars",
+            "score": 0.3123900294303894
+          },
+          {
+            "begin_char": 3601,
+            "end_char": 3881,
+            "sentiment": "4 stars",
+            "score": 0.29643696546554565
+          },
+          {
+            "begin_char": 3882,
+            "end_char": 3984,
+            "sentiment": "3 stars",
+            "score": 0.2578750252723694
+          },
+          {
+            "begin_char": 3985,
+            "end_char": 4113,
+            "sentiment": "1 star",
+            "score": 0.6591222882270813
+          },
+          {
+            "begin_char": 4114,
+            "end_char": 4401,
+            "sentiment": "5 stars",
+            "score": 0.37836766242980957
+          },
+          {
+            "begin_char": 4402,
+            "end_char": 4546,
+            "sentiment": "5 stars",
+            "score": 0.4158105254173279
+          },
+          {
+            "begin_char": 4547,
+            "end_char": 4713,
+            "sentiment": "2 stars",
+            "score": 0.35263532400131226
+          },
+          {
+            "begin_char": 4714,
+            "end_char": 4769,
+            "sentiment": "5 stars",
+            "score": 0.3846474289894104
+          },
+          {
+            "begin_char": 4770,
+            "end_char": 4799,
+            "sentiment": "5 stars",
+            "score": 0.8419399261474609
+          },
+          {
+            "begin_char": 4800,
+            "end_char": 4976,
+            "sentiment": "2 stars",
+            "score": 0.264234721660614
+          },
+          {
+            "begin_char": 4976,
+            "end_char": 4984,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-27",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-27",
+        "pageJO": "3102",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

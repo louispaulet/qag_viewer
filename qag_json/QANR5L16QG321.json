@@ -1,0 +1,587 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG321",
+    "identifiant": {
+      "numero": "321",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "outre-mer",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Victimes des intempéries en Polynésie"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795192",
+        "mandatRef": "PM797349"
+      },
+      "groupe": {
+        "organeRef": "PO800502",
+        "abrege": "GDR-NUPES",
+        "developpe": "Gauche démocrate et républicaine - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Outre-mer",
+      "developpe": "Ministère auprès du ministre de l’intérieur et des outre-mer, chargé des outre-mer"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Outre-mer",
+          "developpe": "Ministère auprès du ministre de l’intérieur et des outre-mer, chargé des outre-mer"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> VICTIMES DES INTEMPÉRIES EN POLYNÉSIE <a name=PG19></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Steve Chailloux.<br><br><strong>M. Steve Chailloux. </strong>Madame la présidente, mesdames et messieurs les ministres, très chers collègues, <i>'Ia ora na</i>, bonjour !<br><br>Mon intervention d'aujourd'hui face à la représentation nationale sortira quelque peu de l'orthodoxie habituelle de cet exercice bien connu des députés que nous sommes, et je vous prie, par avance, de m'en excuser.<br><br>Elle s'inscrit, en effet, dans les tiraillements du cœur et de l'âme que nous impose le deuil produit par l'innommable tragédie dont souffre, actuellement, l'ensemble de mon peuple polynésien, de souche, de cœur ou d'adoption.<br><br>Le dimanche 6 novembre dernier, à la suite des violentes pluies qui se sont abattues sur la Polynésie, le cœur battant de notre <i>fenua</i>, notre pays, fut meurtri par une catastrophe qui a décimé des innocents.<br><br>Face au déchaînement de la nature, nous devons rester humbles ! Car ce jour-là, la rivière Vaitu'oru, située à Papeno'o dans la commune de Hitia'a 'o te Ra, décida d'emporter et d'engloutir : M. Teuira Myke ; la petite Teuira-Maihota Mihilani, âgée de 8 ans ; le petit Teiri Tamatika, âgé de 7 ans ; le petit Teuira-Maihota Manatea, âgé de 3 ans ; Mme Vehiatua, épouse Teiri Kahanalani, enceinte de huit mois, et Mme Langlois, épouse Teuira Marina, seule et unique survivante de ce drame.<br><br>L'inextricable douleur suscitée par cette tragédie a conduit, jusqu'à hier encore, à la mobilisation massive d'un nombre sans précédent de bénévoles, venus aider les secours dans la recherche de nos enfants, malheureusement en vain, puisqu'ils n'ont jamais été retrouvés !<br><br>Je voudrais, avec émotion, saluer le dévouement remarquable dont ont fait preuve les gendarmes, les pompiers, les plongeurs, les chasseurs, les bénévoles comme Mme Adèle Domingo et tant d'autres <i>(Applaudissements sur l'ensemble des bancs)</i>, ainsi que les élus, notamment le maire de la commune, M. Henri Flohr et son conseil municipal, sans oublier le soutien sans faille du haut-commissaire de la République M. Éric Sptiz, ainsi que les services du gouvernement de la Polynésie.<br><br>Aujourd'hui, je souhaite, par considération tant pour la douleur des familles que pour celle de nos compatriotes de l'ensemble de la Polynésie, exprimer humblement cette émotion au sein de notre hémicycle, car il n'y a point, à mon sens, de plus grand hommage que celui qui puisse être rendu au cœur même de notre démocratie. <i>Liberté, égalité, fraternité</i>, telle est la devise de la République française ! Je voudrais terminer mon intervention en déclarant que je suis fier que les Polynésiens aient fait preuve durant dix jours d'une admirable fraternité !<br><br>Mauruuru. Te aroha 'ia rahi</i>. Merci et salutations. <i>(Mmes et MM. les députés et Mmes et MM. les membres du Gouvernement se lèvent et applaudissent longuement.)<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé des outre-mer.<br><br><strong>M. Jean-François Carenco,</strong><i> ministre délégué chargé des outre-mer. </i>En effet, le 6 novembre, à seize heures trente, la Polynésie a été traversée par un épisode de pluies très violentes qui a provoqué la crue d'un cours d'eau situé dans une vallée difficilement accessible de Tahiti. Un véhicule et ses six occupants – deux femmes, donc une était enceinte, un homme et trois enfants – qui tentaient de traverser le cours d'eau ont été emportés par les flots. Aussitôt, vous l'avez rappelé, des moyens humains et matériels considérables, de l'État et des collectivités, ont été déployés, en coordination avec la commune de Hitia'a : la police municipale, les sapeurs-pompiers, les communes voisines, la gendarmerie, l'armée, les associations et des bénévoles venus de toute la Polynésie.<br><br>Vers dix-neuf heures, une femme blessée a pu être hélitreuillée ; elle est aujourd'hui heureusement hors de danger. Un homme a été retrouvé mort, aux alentours de vingt-deux heures. Depuis, les recherches se sont poursuivies avec des moyens locaux, appuyés par les moyens de l'État, sous la coordination du maire. Le haut-commissariat ainsi que tous les services de l'État sont restés en appui de la commune. Mais après quinze jours de recherches, les autorités locales ont pris la décision de les arrêter, sans avoir retrouvé le corps des quatre victimes restantes, une femme enceinte et trois enfants.<br><br>C'est toute la population polynésienne, vous l'avez souligné, qui vit cette tragédie. Je veux, comme vous, saluer ici le courage et l'abnégation de tous les acteurs qui se sont mobilisés pour essayer de retrouver ces malheureux. La solidarité face à la détresse a été exemplaire, il faut nous en féliciter.<br><br>Toutes les composantes de la République ont démontré leur capacité à travailler ensemble, mais nous devons désormais travailler sur la question du changement climatique outre-mer, ainsi que nous y a invités le Président de la République. Nous en avons parlé avec Gérald Darmanin, le ministre de l'intérieur et des outre-mer, et commencé à travailler pour établir un bilan global.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 35,
+            "label": "MISC",
+            "text": "VICTIMES DES"
+          },
+          {
+            "start_char": 51,
+            "end_char": 60,
+            "label": "ORG",
+            "text": "POLYNÉSIE"
+          },
+          {
+            "start_char": 95,
+            "end_char": 98,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 139,
+            "end_char": 141,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 142,
+            "end_char": 173,
+            "label": "PER",
+            "text": "Steve Chailloux.<br><br><strong"
+          },
+          {
+            "start_char": 177,
+            "end_char": 192,
+            "label": "PER",
+            "text": "Steve Chailloux"
+          },
+          {
+            "start_char": 203,
+            "end_char": 209,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 295,
+            "end_char": 300,
+            "label": "LOC",
+            "text": "na</i"
+          },
+          {
+            "start_char": 759,
+            "end_char": 775,
+            "label": "MISC",
+            "text": "adoption.<br><br"
+          },
+          {
+            "start_char": 868,
+            "end_char": 877,
+            "label": "LOC",
+            "text": "Polynésie"
+          },
+          {
+            "start_char": 979,
+            "end_char": 1001,
+            "label": "MISC",
+            "text": "innocents.<br><br>Face"
+          },
+          {
+            "start_char": 1080,
+            "end_char": 1097,
+            "label": "LOC",
+            "text": "rivière Vaitu'oru"
+          },
+          {
+            "start_char": 1108,
+            "end_char": 1115,
+            "label": "LOC",
+            "text": "Papeno'"
+          },
+          {
+            "start_char": 1136,
+            "end_char": 1142,
+            "label": "LOC",
+            "text": "Hitia'"
+          },
+          {
+            "start_char": 1150,
+            "end_char": 1152,
+            "label": "LOC",
+            "text": "Ra"
+          },
+          {
+            "start_char": 1216,
+            "end_char": 1239,
+            "label": "LOC",
+            "text": "Teuira-Maihota Mihilani"
+          },
+          {
+            "start_char": 1266,
+            "end_char": 1280,
+            "label": "PER",
+            "text": "Teiri Tamatika"
+          },
+          {
+            "start_char": 1306,
+            "end_char": 1328,
+            "label": "LOC",
+            "text": "Teuira-Maihota Manatea"
+          },
+          {
+            "start_char": 1345,
+            "end_char": 1357,
+            "label": "PER",
+            "text": "Mme Vehiatua"
+          },
+          {
+            "start_char": 1366,
+            "end_char": 1382,
+            "label": "PER",
+            "text": "Teiri Kahanalani"
+          },
+          {
+            "start_char": 1410,
+            "end_char": 1422,
+            "label": "PER",
+            "text": "Mme Langlois"
+          },
+          {
+            "start_char": 1431,
+            "end_char": 1444,
+            "label": "PER",
+            "text": "Teuira Marina"
+          },
+          {
+            "start_char": 1933,
+            "end_char": 1950,
+            "label": "PER",
+            "text": "Mme Adèle Domingo"
+          },
+          {
+            "start_char": 2008,
+            "end_char": 2017,
+            "label": "MISC",
+            "text": "bancs)</i"
+          },
+          {
+            "start_char": 2074,
+            "end_char": 2088,
+            "label": "PER",
+            "text": "M. Henri Flohr"
+          },
+          {
+            "start_char": 2191,
+            "end_char": 2201,
+            "label": "PER",
+            "text": "Éric Sptiz"
+          },
+          {
+            "start_char": 2399,
+            "end_char": 2408,
+            "label": "LOC",
+            "text": "Polynésie"
+          },
+          {
+            "start_char": 2593,
+            "end_char": 2595,
+            "label": "MISC",
+            "text": "i>"
+          },
+          {
+            "start_char": 2655,
+            "end_char": 2675,
+            "label": "LOC",
+            "text": "République française"
+          },
+          {
+            "start_char": 2754,
+            "end_char": 2765,
+            "label": "LOC",
+            "text": "Polynésiens"
+          },
+          {
+            "start_char": 2837,
+            "end_char": 2845,
+            "label": "PER",
+            "text": "Mauruuru"
+          },
+          {
+            "start_char": 2870,
+            "end_char": 2875,
+            "label": "PER",
+            "text": "Merci"
+          },
+          {
+            "start_char": 2904,
+            "end_char": 2907,
+            "label": "MISC",
+            "text": "MM."
+          },
+          {
+            "start_char": 2923,
+            "end_char": 2927,
+            "label": "MISC",
+            "text": "Mmes"
+          },
+          {
+            "start_char": 2931,
+            "end_char": 2934,
+            "label": "MISC",
+            "text": "MM."
+          },
+          {
+            "start_char": 2950,
+            "end_char": 2962,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3018,
+            "end_char": 3021,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3062,
+            "end_char": 3064,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3122,
+            "end_char": 3138,
+            "label": "PER",
+            "text": "M. Jean-François"
+          },
+          {
+            "start_char": 3254,
+            "end_char": 3263,
+            "label": "LOC",
+            "text": "Polynésie"
+          },
+          {
+            "start_char": 3410,
+            "end_char": 3416,
+            "label": "LOC",
+            "text": "Tahiti"
+          },
+          {
+            "start_char": 3676,
+            "end_char": 3680,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3910,
+            "end_char": 3948,
+            "label": "MISC",
+            "text": "Polynésie.<br><br>Vers dix-neuf heures"
+          },
+          {
+            "start_char": 4205,
+            "end_char": 4209,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4296,
+            "end_char": 4300,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4835,
+            "end_char": 4852,
+            "label": "MISC",
+            "text": "féliciter.<br><br"
+          },
+          {
+            "start_char": 4882,
+            "end_char": 4892,
+            "label": "LOC",
+            "text": "République"
+          },
+          {
+            "start_char": 5063,
+            "end_char": 5089,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 5116,
+            "end_char": 5131,
+            "label": "PER",
+            "text": "Gérald Darmanin"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 113,
+            "sentiment": "3 stars",
+            "score": 0.28799378871917725
+          },
+          {
+            "begin_char": 114,
+            "end_char": 193,
+            "sentiment": "3 stars",
+            "score": 0.2601682245731354
+          },
+          {
+            "begin_char": 194,
+            "end_char": 203,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 203,
+            "end_char": 312,
+            "sentiment": "5 stars",
+            "score": 0.45138201117515564
+          },
+          {
+            "begin_char": 312,
+            "end_char": 320,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 320,
+            "end_char": 1060,
+            "sentiment": "5 stars",
+            "score": 0.468805193901062
+          },
+          {
+            "begin_char": 1061,
+            "end_char": 1198,
+            "sentiment": "3 stars",
+            "score": 0.3224187195301056
+          },
+          {
+            "begin_char": 1199,
+            "end_char": 1205,
+            "sentiment": "3 stars",
+            "score": 0.24572350084781647
+          },
+          {
+            "begin_char": 1206,
+            "end_char": 1256,
+            "sentiment": "3 stars",
+            "score": 0.3391493558883667
+          },
+          {
+            "begin_char": 1257,
+            "end_char": 1296,
+            "sentiment": "3 stars",
+            "score": 0.30934688448905945
+          },
+          {
+            "begin_char": 1297,
+            "end_char": 1344,
+            "sentiment": "3 stars",
+            "score": 0.3491937816143036
+          },
+          {
+            "begin_char": 1345,
+            "end_char": 1507,
+            "sentiment": "4 stars",
+            "score": 0.2561996579170227
+          },
+          {
+            "begin_char": 1508,
+            "end_char": 1765,
+            "sentiment": "5 stars",
+            "score": 0.30639883875846863
+          },
+          {
+            "begin_char": 1765,
+            "end_char": 2591,
+            "sentiment": "5 stars",
+            "score": 0.7693687081336975
+          },
+          {
+            "begin_char": 2592,
+            "end_char": 2595,
+            "sentiment": "3 stars",
+            "score": 0.26941150426864624
+          },
+          {
+            "begin_char": 2595,
+            "end_char": 2677,
+            "sentiment": "5 stars",
+            "score": 0.6230297088623047
+          },
+          {
+            "begin_char": 2678,
+            "end_char": 2829,
+            "sentiment": "5 stars",
+            "score": 0.747459888458252
+          },
+          {
+            "begin_char": 2829,
+            "end_char": 2846,
+            "sentiment": "5 stars",
+            "score": 0.2533341646194458
+          },
+          {
+            "begin_char": 2847,
+            "end_char": 2891,
+            "sentiment": "5 stars",
+            "score": 0.4702093005180359
+          },
+          {
+            "begin_char": 2892,
+            "end_char": 3036,
+            "sentiment": "5 stars",
+            "score": 0.406363844871521
+          },
+          {
+            "begin_char": 3037,
+            "end_char": 3198,
+            "sentiment": "4 stars",
+            "score": 0.30730941891670227
+          },
+          {
+            "begin_char": 3199,
+            "end_char": 3203,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3203,
+            "end_char": 3417,
+            "sentiment": "2 stars",
+            "score": 0.27481183409690857
+          },
+          {
+            "begin_char": 3418,
+            "end_char": 3592,
+            "sentiment": "2 stars",
+            "score": 0.33235809206962585
+          },
+          {
+            "begin_char": 3593,
+            "end_char": 3993,
+            "sentiment": "4 stars",
+            "score": 0.3863023817539215
+          },
+          {
+            "begin_char": 3994,
+            "end_char": 4043,
+            "sentiment": "5 stars",
+            "score": 0.41432473063468933
+          },
+          {
+            "begin_char": 4044,
+            "end_char": 4109,
+            "sentiment": "1 star",
+            "score": 0.28303587436676025
+          },
+          {
+            "begin_char": 4110,
+            "end_char": 4241,
+            "sentiment": "4 stars",
+            "score": 0.4477832615375519
+          },
+          {
+            "begin_char": 4242,
+            "end_char": 4336,
+            "sentiment": "4 stars",
+            "score": 0.4007442891597748
+          },
+          {
+            "begin_char": 4337,
+            "end_char": 4624,
+            "sentiment": "3 stars",
+            "score": 0.24719978868961334
+          },
+          {
+            "begin_char": 4625,
+            "end_char": 4767,
+            "sentiment": "5 stars",
+            "score": 0.6654852628707886
+          },
+          {
+            "begin_char": 4768,
+            "end_char": 4853,
+            "sentiment": "5 stars",
+            "score": 0.6274572014808655
+          },
+          {
+            "begin_char": 4853,
+            "end_char": 5090,
+            "sentiment": "5 stars",
+            "score": 0.5053260326385498
+          },
+          {
+            "begin_char": 5091,
+            "end_char": 5240,
+            "sentiment": "4 stars",
+            "score": 0.3514605462551117
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5905",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

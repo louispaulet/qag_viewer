@@ -1,0 +1,869 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG230",
+    "identifiant": {
+      "numero": "230",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "eau et assainissement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Usage des bassines dans l'agriculture"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795482",
+        "mandatRef": "PM797508"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Renouveau démocratique, porte-parole du Gouvernement",
+      "developpe": "Ministère auprès de la Première ministre, chargé du renouveau démocratique, porte-parole du Gouvernement"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Renouveau démocratique, porte-parole du Gouvernement",
+          "developpe": "Ministère auprès de la Première ministre, chargé du renouveau démocratique, porte-parole du Gouvernement"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> USAGE DES BASSINES DANS L'AGRICULTURE <a name=PG8></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Manon Meunier.<br><br><strong>Mme Manon Meunier. </strong>Monsieur le ministre de l'agriculture, ma question porte sur les bassines, ces immenses réserves d'eau artificielles. Votre collègue, M. Darmanin, a bien réussi à saturer l'espace médiatique sur la forme afin de vous éviter de parler du fond. Alors parlons enfin du fond !<br><br>« Les bassines, c'est une solution court-termiste pour notre agriculture. Face au changement climatique, il faut développer des solutions alternatives comme la renaturation des cours d'eau, le maintien des zones humides, la transition de notre modèle agricole pour des cultures moins gourmandes en eau. » Ce n'est pas moi qui le dis, mais Marie Pettenati, hydrogéologue au BRGM, le Bureau de recherches géologiques et minières. Les sécheresses vont durer, et votre solution, c'est de détruire des terres agricoles pour y mettre des bassines qui ne vont faire qu'accentuer le problème. <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>Mme Mathilde Panot.</strong> Exactement !<br><br><strong>Mme Manon Meunier. </strong>Car les bassines sont une « maladaptation, qui, à long terme, accentue le niveau de réduction des nappes ». Cela non plus, ce n'est pas moi qui le dis, mais Jean-François Soussana, scientifique du Haut Conseil pour le climat. <i>(Mêmes mouvements.)</i> Mais vous persistez à vouloir pomper des quantités astronomiques d'eau dans les nappes pour remplir ces bassines l'hiver, et laisser l'eau s'en évaporer l'été.<br><br>En outre, les bassines s'inscrivent dans « le modèle agro-industriel qui a mené à diviser par trois le nombre de paysans en trente ans. » Et ce n'est toujours pas moi qui le dis, mais Nicolas Girod, paysan dans le Jura et porte-voix des agriculteurs de la Confédération paysanne. <i>(Mêmes mouvements.)</i> À Sainte-Soline, 70 % du coût des bassines seraient pris en charge par des subventions publiques alors qu'elles ne profiteraient qu'à douze agriculteurs ! (« C'est faux ! » sur quelques bancs du groupe RE.) Vous persistez à encourager les monocultures de maïs, gourmandes en eau et dont les récoltes ne restent même pas sur le territoire français puisqu'elles sont exportées. (« Eh oui ! » sur plusieurs bancs du groupe LFI-NUPES.) Vous persistez à encourager des modèles toujours plus gros au lieu de favoriser le retour à la terre de nombreux paysans.<br><br>Monsieur le ministre, quand allez-vous enfin comprendre que votre modèle productiviste, intensif en tout sauf en paysans, les mène, et le climat avec eux, droit dans le mur, et que le seul modèle durable pour tous, c'est une agriculture intensive en emplois ! <i>(Mmes et MM. les députés du groupe LFI-NUPES se lèvent et applaudissent longuement. – Applaudissements sur plusieurs bancs des groupes SOC, Écolo-NUPES et GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé du renouveau démocratique, porte-parole du Gouvernement.<br><br><strong>M. Alexis Corbière.</strong> Vous allez encore nous bassiner !<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué chargé du renouveau démocratique, porte-parole du Gouvernement. </i>C'est très élégant, monsieur le député, de hurler cela avant même que j'aie ouvert la bouche.<br><br>Madame Meunier, vous avez posé votre question sur un ton calme et je vous répondrai sur le même ton.<br><br><strong>M. Ugo Bernalicis.</strong> Ça changera !<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué. </i>Les agriculteurs que vous évoquez ne sont pas 12, mais 300. Et l'été, quand les nappes phréatiques ne sont plus à un niveau suffisant, ils ont encore besoin de cultiver des fruits et des légumes ou d'arroser des herbages pour les animaux puisqu'ils sont en polyculture. <i>(Exclamations sur plusieurs bancs des groupes LFI-NUPES et Écolo-NUPES.)</i><br><br><strong>Une députée du groupe Écolo-NUPES .</strong> C'est faux !<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué. </i>Actuellement, ils sont donc forcés de prélever de l'eau dans les rivières, y compris les souterraines, ce qui fait baisser le niveau de l'eau, voire assèche les rivières, avec des conséquences néfastes pour les poissons. Ce n'est pas seulement moi qui le dis, mais le BRGM, que vous avez évoqué. Cette instance considère par ailleurs que le projet de ces agriculteurs n'est pas de nature à faire baisser le niveau de réserve ni à attenter à la biodiversité. On ne tire pas du tout les conclusions du même rapport du BRGM !<br><br>Si vous ne faites confiance ni à moi ni à M. Fesneau parce que nous sommes membres du Gouvernement, faites au moins confiance aux associations de protection de l'environnement qui, en 2019, il n'y a pas si longtemps, étaient autour de la table avec des élus de gauche, des élus écolos et des élus de droite, et ont signé à la quasi-unanimité un accord pour ce projet local, considérant qu'il était vertueux pour la nature puisqu'il aboutit à réduire de 70 % le puisement de l'eau en période estivale. <i>(Exclamations sur les bancs du groupe LFI-NUPES.)</i> Il s'agit de récupérer dans les nappes phréatiques pendant l'hiver, là où elles débordent au point de générer des zones marécageuses, le surplus pour le stocker dans des bassines et pouvoir l'utiliser l'été, ce qui permet de moins puiser dans les rivières. (Mêmes mouvements.) Je vous assure que ce mécanisme est plutôt vertueux.<br><br><strong>M. Bastien Lachaud.</strong> Vous ne connaissez pas le sujet !<br><br><strong>Mme Lisa Belluco.</strong> Il faut changer de modèle agricole !<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué . </i>Vous avez le droit de vouloir tout contester, c'est votre politique, mais regardez tout de même les conclusions scientifiques et écoutez les associations de protection de la nature : elles sont d'accord avec nous. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem. - Exclamations sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>M. Louis Boyard.</strong> Zéro ! Vous n'y connaissez rien !<br><br><strong>Mme la présidente.</strong> Je crois que l'ensemble de l'Assemblée apprécierait que le Gouvernement, lorsqu'il répond, soit écouté par le député qui a posé la question ainsi que par ses collègues… En tout cas, nous, nous aimerions pouvoir l'écouter. <i>(Applaudissements sur plusieurs bancs des groupes RE, Dem et HOR.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 33,
+            "end_char": 41,
+            "label": "MISC",
+            "text": "BASSINES"
+          },
+          {
+            "start_char": 49,
+            "end_char": 60,
+            "label": "MISC",
+            "text": "AGRICULTURE"
+          },
+          {
+            "start_char": 69,
+            "end_char": 76,
+            "label": "PER",
+            "text": "PG8></a"
+          },
+          {
+            "start_char": 94,
+            "end_char": 97,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 138,
+            "end_char": 147,
+            "label": "PER",
+            "text": "Mme Manon"
+          },
+          {
+            "start_char": 172,
+            "end_char": 189,
+            "label": "PER",
+            "text": "Mme Manon Meunier"
+          },
+          {
+            "start_char": 200,
+            "end_char": 208,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 334,
+            "end_char": 345,
+            "label": "PER",
+            "text": "M. Darmanin"
+          },
+          {
+            "start_char": 819,
+            "end_char": 834,
+            "label": "PER",
+            "text": "Marie Pettenati"
+          },
+          {
+            "start_char": 853,
+            "end_char": 857,
+            "label": "ORG",
+            "text": "BRGM"
+          },
+          {
+            "start_char": 862,
+            "end_char": 894,
+            "label": "ORG",
+            "text": "Bureau de recherches géologiques"
+          },
+          {
+            "start_char": 1110,
+            "end_char": 1140,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1141,
+            "end_char": 1168,
+            "label": "PER",
+            "text": "Mme Mathilde Panot.</strong"
+          },
+          {
+            "start_char": 1198,
+            "end_char": 1215,
+            "label": "PER",
+            "text": "Mme Manon Meunier"
+          },
+          {
+            "start_char": 1383,
+            "end_char": 1405,
+            "label": "PER",
+            "text": "Jean-François Soussana"
+          },
+          {
+            "start_char": 1423,
+            "end_char": 1435,
+            "label": "ORG",
+            "text": "Haut Conseil"
+          },
+          {
+            "start_char": 1453,
+            "end_char": 1461,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 1830,
+            "end_char": 1843,
+            "label": "PER",
+            "text": "Nicolas Girod"
+          },
+          {
+            "start_char": 1860,
+            "end_char": 1864,
+            "label": "LOC",
+            "text": "Jura"
+          },
+          {
+            "start_char": 1902,
+            "end_char": 1924,
+            "label": "LOC",
+            "text": "Confédération paysanne"
+          },
+          {
+            "start_char": 1927,
+            "end_char": 1935,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 1955,
+            "end_char": 1968,
+            "label": "LOC",
+            "text": "Sainte-Soline"
+          },
+          {
+            "start_char": 2148,
+            "end_char": 2157,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 2373,
+            "end_char": 2382,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2498,
+            "end_char": 2514,
+            "label": "MISC",
+            "text": "paysans.<br><br>"
+          },
+          {
+            "start_char": 2514,
+            "end_char": 2522,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2786,
+            "end_char": 2789,
+            "label": "ORG",
+            "text": "MM."
+          },
+          {
+            "start_char": 2812,
+            "end_char": 2821,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2863,
+            "end_char": 2879,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 2912,
+            "end_char": 2915,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2917,
+            "end_char": 2928,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2932,
+            "end_char": 2962,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2963,
+            "end_char": 2966,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3007,
+            "end_char": 3009,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3112,
+            "end_char": 3137,
+            "label": "PER",
+            "text": "Alexis Corbière.</strong>"
+          },
+          {
+            "start_char": 3187,
+            "end_char": 3197,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3284,
+            "end_char": 3296,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3388,
+            "end_char": 3402,
+            "label": "MISC",
+            "text": "bouche.<br><br"
+          },
+          {
+            "start_char": 3403,
+            "end_char": 3417,
+            "label": "PER",
+            "text": "Madame Meunier"
+          },
+          {
+            "start_char": 3547,
+            "end_char": 3549,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 3576,
+            "end_char": 3586,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3947,
+            "end_char": 3956,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3960,
+            "end_char": 3992,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4015,
+            "end_char": 4026,
+            "label": "ORG",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 4066,
+            "end_char": 4076,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4386,
+            "end_char": 4390,
+            "label": "ORG",
+            "text": "BRGM"
+          },
+          {
+            "start_char": 4634,
+            "end_char": 4638,
+            "label": "ORG",
+            "text": "BRGM"
+          },
+          {
+            "start_char": 4690,
+            "end_char": 4700,
+            "label": "PER",
+            "text": "M. Fesneau"
+          },
+          {
+            "start_char": 4734,
+            "end_char": 4746,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 5190,
+            "end_char": 5204,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i"
+          },
+          {
+            "start_char": 5464,
+            "end_char": 5469,
+            "label": "LOC",
+            "text": "Mêmes"
+          },
+          {
+            "start_char": 5629,
+            "end_char": 5654,
+            "label": "PER",
+            "text": "Mme Lisa Belluco.</strong"
+          },
+          {
+            "start_char": 5708,
+            "end_char": 5718,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 6028,
+            "end_char": 6030,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 6034,
+            "end_char": 6037,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 6078,
+            "end_char": 6108,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 6112,
+            "end_char": 6133,
+            "label": "PER",
+            "text": "Louis Boyard.</strong"
+          },
+          {
+            "start_char": 6135,
+            "end_char": 6139,
+            "label": "LOC",
+            "text": "Zéro"
+          },
+          {
+            "start_char": 6184,
+            "end_char": 6210,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 6241,
+            "end_char": 6250,
+            "label": "ORG",
+            "text": "Assemblée"
+          },
+          {
+            "start_char": 6271,
+            "end_char": 6283,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 6487,
+            "end_char": 6489,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 6491,
+            "end_char": 6494,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 6498,
+            "end_char": 6510,
+            "label": "LOC",
+            "text": "HOR.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 112,
+            "sentiment": "3 stars",
+            "score": 0.30599743127822876
+          },
+          {
+            "begin_char": 113,
+            "end_char": 190,
+            "sentiment": "3 stars",
+            "score": 0.23501795530319214
+          },
+          {
+            "begin_char": 191,
+            "end_char": 200,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 200,
+            "end_char": 317,
+            "sentiment": "4 stars",
+            "score": 0.3300119936466217
+          },
+          {
+            "begin_char": 318,
+            "end_char": 442,
+            "sentiment": "1 star",
+            "score": 0.625938892364502
+          },
+          {
+            "begin_char": 443,
+            "end_char": 472,
+            "sentiment": "5 stars",
+            "score": 0.46824508905410767
+          },
+          {
+            "begin_char": 472,
+            "end_char": 481,
+            "sentiment": "3 stars",
+            "score": 0.2954753339290619
+          },
+          {
+            "begin_char": 482,
+            "end_char": 553,
+            "sentiment": "5 stars",
+            "score": 0.38138070702552795
+          },
+          {
+            "begin_char": 554,
+            "end_char": 782,
+            "sentiment": "5 stars",
+            "score": 0.5748952031135559
+          },
+          {
+            "begin_char": 783,
+            "end_char": 784,
+            "sentiment": "4 stars",
+            "score": 0.25504377484321594
+          },
+          {
+            "begin_char": 785,
+            "end_char": 907,
+            "sentiment": "3 stars",
+            "score": 0.2697112262248993
+          },
+          {
+            "begin_char": 908,
+            "end_char": 1064,
+            "sentiment": "1 star",
+            "score": 0.3544437885284424
+          },
+          {
+            "begin_char": 1065,
+            "end_char": 1182,
+            "sentiment": "5 stars",
+            "score": 0.3914436995983124
+          },
+          {
+            "begin_char": 1182,
+            "end_char": 1216,
+            "sentiment": "3 stars",
+            "score": 0.2737249433994293
+          },
+          {
+            "begin_char": 1217,
+            "end_char": 1226,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1226,
+            "end_char": 1333,
+            "sentiment": "2 stars",
+            "score": 0.43333742022514343
+          },
+          {
+            "begin_char": 1334,
+            "end_char": 1451,
+            "sentiment": "2 stars",
+            "score": 0.3081567883491516
+          },
+          {
+            "begin_char": 1452,
+            "end_char": 1478,
+            "sentiment": "3 stars",
+            "score": 0.29162317514419556
+          },
+          {
+            "begin_char": 1479,
+            "end_char": 1925,
+            "sentiment": "2 stars",
+            "score": 0.29299449920654297
+          },
+          {
+            "begin_char": 1926,
+            "end_char": 1952,
+            "sentiment": "3 stars",
+            "score": 0.29162317514419556
+          },
+          {
+            "begin_char": 1953,
+            "end_char": 2159,
+            "sentiment": "2 stars",
+            "score": 0.3703330159187317
+          },
+          {
+            "begin_char": 2160,
+            "end_char": 2328,
+            "sentiment": "1 star",
+            "score": 0.4189882278442383
+          },
+          {
+            "begin_char": 2329,
+            "end_char": 2383,
+            "sentiment": "4 stars",
+            "score": 0.25653761625289917
+          },
+          {
+            "begin_char": 2383,
+            "end_char": 2384,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 2385,
+            "end_char": 2514,
+            "sentiment": "1 star",
+            "score": 0.2874964475631714
+          },
+          {
+            "begin_char": 2514,
+            "end_char": 2773,
+            "sentiment": "5 stars",
+            "score": 0.5136761665344238
+          },
+          {
+            "begin_char": 2774,
+            "end_char": 2860,
+            "sentiment": "5 stars",
+            "score": 0.38128477334976196
+          },
+          {
+            "begin_char": 2861,
+            "end_char": 2863,
+            "sentiment": "3 stars",
+            "score": 0.25771647691726685
+          },
+          {
+            "begin_char": 2863,
+            "end_char": 2981,
+            "sentiment": "4 stars",
+            "score": 0.35395023226737976
+          },
+          {
+            "begin_char": 2982,
+            "end_char": 3137,
+            "sentiment": "4 stars",
+            "score": 0.3268994390964508
+          },
+          {
+            "begin_char": 3138,
+            "end_char": 3171,
+            "sentiment": "1 star",
+            "score": 0.6831386685371399
+          },
+          {
+            "begin_char": 3171,
+            "end_char": 3297,
+            "sentiment": "4 stars",
+            "score": 0.3584369719028473
+          },
+          {
+            "begin_char": 3298,
+            "end_char": 3546,
+            "sentiment": "1 star",
+            "score": 0.25361111760139465
+          },
+          {
+            "begin_char": 3547,
+            "end_char": 3560,
+            "sentiment": "5 stars",
+            "score": 0.43532535433769226
+          },
+          {
+            "begin_char": 3560,
+            "end_char": 3623,
+            "sentiment": "3 stars",
+            "score": 0.2865789830684662
+          },
+          {
+            "begin_char": 3624,
+            "end_char": 3687,
+            "sentiment": "3 stars",
+            "score": 0.276743620634079
+          },
+          {
+            "begin_char": 3688,
+            "end_char": 3897,
+            "sentiment": "3 stars",
+            "score": 0.3055487275123596
+          },
+          {
+            "begin_char": 3898,
+            "end_char": 3993,
+            "sentiment": "3 stars",
+            "score": 0.3175390958786011
+          },
+          {
+            "begin_char": 3993,
+            "end_char": 4037,
+            "sentiment": "3 stars",
+            "score": 0.3069312870502472
+          },
+          {
+            "begin_char": 4038,
+            "end_char": 4113,
+            "sentiment": "1 star",
+            "score": 0.5260429382324219
+          },
+          {
+            "begin_char": 4114,
+            "end_char": 4338,
+            "sentiment": "2 stars",
+            "score": 0.303826242685318
+          },
+          {
+            "begin_char": 4339,
+            "end_char": 4413,
+            "sentiment": "1 star",
+            "score": 0.24225392937660217
+          },
+          {
+            "begin_char": 4414,
+            "end_char": 4575,
+            "sentiment": "3 stars",
+            "score": 0.3267931044101715
+          },
+          {
+            "begin_char": 4576,
+            "end_char": 4640,
+            "sentiment": "1 star",
+            "score": 0.6588029861450195
+          },
+          {
+            "begin_char": 4640,
+            "end_char": 4648,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 4648,
+            "end_char": 5148,
+            "sentiment": "5 stars",
+            "score": 0.5324316024780273
+          },
+          {
+            "begin_char": 5149,
+            "end_char": 5205,
+            "sentiment": "4 stars",
+            "score": 0.304934024810791
+          },
+          {
+            "begin_char": 5206,
+            "end_char": 5462,
+            "sentiment": "4 stars",
+            "score": 0.41611620783805847
+          },
+          {
+            "begin_char": 5463,
+            "end_char": 5481,
+            "sentiment": "3 stars",
+            "score": 0.2723478376865387
+          },
+          {
+            "begin_char": 5481,
+            "end_char": 5482,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 5483,
+            "end_char": 5579,
+            "sentiment": "3 stars",
+            "score": 0.37696573138237
+          },
+          {
+            "begin_char": 5580,
+            "end_char": 5613,
+            "sentiment": "1 star",
+            "score": 0.31540122628211975
+          },
+          {
+            "begin_char": 5613,
+            "end_char": 5655,
+            "sentiment": "3 stars",
+            "score": 0.30334073305130005
+          },
+          {
+            "begin_char": 5656,
+            "end_char": 5692,
+            "sentiment": "5 stars",
+            "score": 0.28132352232933044
+          },
+          {
+            "begin_char": 5692,
+            "end_char": 5756,
+            "sentiment": "3 stars",
+            "score": 0.30576416850090027
+          },
+          {
+            "begin_char": 5757,
+            "end_char": 5974,
+            "sentiment": "5 stars",
+            "score": 0.4181724488735199
+          },
+          {
+            "begin_char": 5975,
+            "end_char": 6038,
+            "sentiment": "4 stars",
+            "score": 0.32460883259773254
+          },
+          {
+            "begin_char": 6039,
+            "end_char": 6141,
+            "sentiment": "1 star",
+            "score": 0.8684939742088318
+          },
+          {
+            "begin_char": 6142,
+            "end_char": 6168,
+            "sentiment": "1 star",
+            "score": 0.6393347978591919
+          },
+          {
+            "begin_char": 6168,
+            "end_char": 6211,
+            "sentiment": "3 stars",
+            "score": 0.2839324474334717
+          },
+          {
+            "begin_char": 6212,
+            "end_char": 6380,
+            "sentiment": "5 stars",
+            "score": 0.23928302526474
+          },
+          {
+            "begin_char": 6381,
+            "end_char": 6433,
+            "sentiment": "5 stars",
+            "score": 0.5067575573921204
+          },
+          {
+            "begin_char": 6434,
+            "end_char": 6511,
+            "sentiment": "3 stars",
+            "score": 0.31564566493034363
+          },
+          {
+            "begin_char": 6512,
+            "end_char": 6515,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-03",
+        "pageJO": "5112",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

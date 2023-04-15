@@ -1,0 +1,779 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG49",
+    "identifiant": {
+      "numero": "49",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "discriminations",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Lutte contre l'homophobie"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795010",
+        "mandatRef": "PM797247"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Renouveau démocratique, porte-parole du Gouvernement",
+      "developpe": "Ministère auprès de la Première ministre, chargé du renouveau démocratique, porte-parole du Gouvernement"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Renouveau démocratique, porte-parole du Gouvernement",
+          "developpe": "Ministère auprès de la Première ministre, chargé du renouveau démocratique, porte-parole du Gouvernement"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> LUTTE CONTRE L'HOMOPHOBIE <a name=PG22></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Marie-Charlotte Garin.<br><br><strong>Mme Marie-Charlotte Garin. </strong>Lors d'une séance au Sénat en avril 2013, Mme Caroline Cayeux avait qualifié le mariage pour tous et l'adoption ouverte aux couples de même sexe de « réformes de caprices » et de « dessein qui va contre la nature ».<br><br><strong>M. Boris Vallaud.</strong> Honteux !<br><br><strong>Mme Marie-Charlotte Garin. </strong>Interrogée la semaine dernière, elle a confirmé ses propos. Elle a même, dit-elle, beaucoup d'amis parmi « ces gens-là ».<br><br>« Ces gens-là » !… « Ces gens-là » ! Nombreux sont les enfants qui grandissent avec ce stigmate, celui de la différence, celui de la norme qui étouffe, celui du secret, celui du silence, celui du placard, celui de la discrimination – parfois quotidienne, rarement assumée, souvent insidieuse. Ce sont ces enfants qui, une fois adultes, sont deux à trois fois plus exposés aux violences psychologiques, physiques, sexuelles et verbales. Ce sont ces mêmes enfants qui seront plus exposés aux dépressions et aux tentatives de suicides.<br><br>Cet impact sur la santé mentale des discriminations nous oblige à nommer les propos de Mme Cayeux pour ce qu'ils sont : des propos homophobes. <i>(Applaudissements sur plusieurs bancs des groupes Écolo-NUPES, LFI-NUPES, SOC et GDR-NUPES.) </i>Ce n'est pas une maladresse ni une erreur une fois dite sitôt excusée, c'est un délit. On a eu MM. Darmanin et Lecornu, soutiens de la Manif pour tous ; on a M. Béchu qui avait fait interdire des affiches de prévention contre le VIH sous prétexte qu'elles montraient – ciel ! – des couples de même sexe aux abords des écoles,…<br><br><strong>M. Nicolas Forissier.</strong> Arrêtez vos procès !<br><br><strong>Mme Marie-Charlotte Garin. </strong>…et maintenant Mme Cayeux. Ce n'est pas un hasard, c'est un choix politique. Madame la Première ministre, franchement, comment pouvez-vous nommer « ces gens-là » dans votre gouvernement ? <i>(Applaudissements sur les bancs des groupes Écolo-NUPES, LFI-NUPES, SOC et GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué auprès de la Première ministre, chargé du renouveau démocratique, porte-parole du Gouvernement.<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué auprès de la Première ministre, chargé du renouveau démocratique, porte-parole du Gouvernement. </i>Pour tout vous dire, j'étais il y a dix ans dans cet hémicycle, à quelques mètres de votre place puisque j'étais membre d'une majorité qui travaillait avec les écologistes et les socialistes <i>(Murmures sur divers bancs) </i>et qui a bataillé jour et nuit pendant plusieurs semaines pour adopter la loi ouvrant le mariage et l'adoption aux couples de personnes de même sexe. (Applaudissements sur plusieurs bancs du groupe RE.) J'en garde un souvenir ému,…<br><br><strong>M. Alexis Corbière.</strong> Quel est le rapport avec les propos de Mme Cayeux ? Pourquoi nous parlez-vous de vous ?<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué. </i>…parce que ce texte a fait progresser la société et que des parlementaires, siégeant sur d'autres bancs et animés d'autres convictions, avaient eu des mots blessants. Ces députés prédisaient alors, si les homosexuels pouvaient se marier, l'effondrement de la civilisation et le mal-être des enfants adoptés par des couples de même sexe. Nous avons fait face avec conviction,…<br><br><strong>M. Pierre Cordier.</strong> Pouvez-vous répondre à la question ?<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué . </i>…parce que nous savions que nous avions raison ; nous défendions tout simplement le droit à l'indifférence. Les opposants au mariage pour tous siégeaient plutôt sur les bancs de la droite : certains d'entre eux étaient parfois virulents et certains d'entre eux sont d'ailleurs toujours là.<br><br>Avec dix ans de recul et dix ans de bonheur pour des milliers de familles et d'enfants, les positions des députés opposés à cette loi ont bien évolué car, face au bonheur, ils ne peuvent que constater leur erreur d'avoir voulu s'y opposer. <i>(« Et la question ? » sur plusieurs bancs du groupe LFI-NUPES.)</i><br><br>Oui, certains mots peuvent faire mal et peuvent blesser et heurter : nous devons nous garder de les employer et, plus encore, de les penser.<br><br><strong>M. Jean-Philippe Tanguy.</strong> Ce ne sont pas les mots qui tuent !<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué . </i>Mais sur les bancs du Gouvernement et de la majorité, tout comme sur vos bancs de la NUPES et même sur la plupart des bancs de droite désormais, nous avons en commun la volonté farouche de faire évoluer notre société pour qu'elle reflète toute sa diversité, toute sa richesse et toute sa capacité à accueillir ce qui est beau. Qui pourrait encore nier qu'il y a bien des manières d'aimer et qu'aucune n'est supérieure à l'autre ? Il n'y a pas de « ces gens-là », il y a des femmes et des hommes qui ne demandent rien d'autre que le respect. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme Marie-Charlotte Garin.<br><br><strong>Mme Marie-Charlotte Garin. </strong>Vous n'avez pas répondu à la question. Je souhaite m'adresser aux personnes qui nous regardent, notamment aux enfants qui ont survécu : soyez fiers parce que nous défendrons vos droits. <i>(Applaudissements sur les bancs des groupes Écolo-NUPES, LFI-NUPES, SOC et GDR-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 35,
+            "label": "ORG",
+            "text": "LUTTE CONTRE"
+          },
+          {
+            "start_char": 83,
+            "end_char": 86,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 127,
+            "end_char": 146,
+            "label": "PER",
+            "text": "Mme Marie-Charlotte"
+          },
+          {
+            "start_char": 169,
+            "end_char": 194,
+            "label": "PER",
+            "text": "Mme Marie-Charlotte Garin"
+          },
+          {
+            "start_char": 226,
+            "end_char": 231,
+            "label": "ORG",
+            "text": "Sénat"
+          },
+          {
+            "start_char": 247,
+            "end_char": 266,
+            "label": "PER",
+            "text": "Mme Caroline Cayeux"
+          },
+          {
+            "start_char": 439,
+            "end_char": 444,
+            "label": "PER",
+            "text": "Boris"
+          },
+          {
+            "start_char": 463,
+            "end_char": 470,
+            "label": "LOC",
+            "text": "Honteux"
+          },
+          {
+            "start_char": 488,
+            "end_char": 513,
+            "label": "PER",
+            "text": "Mme Marie-Charlotte Garin"
+          },
+          {
+            "start_char": 1176,
+            "end_char": 1193,
+            "label": "MISC",
+            "text": "suicides.<br><br>"
+          },
+          {
+            "start_char": 1280,
+            "end_char": 1290,
+            "label": "PER",
+            "text": "Mme Cayeux"
+          },
+          {
+            "start_char": 1389,
+            "end_char": 1400,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 1402,
+            "end_char": 1411,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1413,
+            "end_char": 1416,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 1420,
+            "end_char": 1429,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 1535,
+            "end_char": 1543,
+            "label": "PER",
+            "text": "Darmanin"
+          },
+          {
+            "start_char": 1547,
+            "end_char": 1554,
+            "label": "PER",
+            "text": "Lecornu"
+          },
+          {
+            "start_char": 1571,
+            "end_char": 1576,
+            "label": "LOC",
+            "text": "Manif"
+          },
+          {
+            "start_char": 1597,
+            "end_char": 1602,
+            "label": "PER",
+            "text": "Béchu"
+          },
+          {
+            "start_char": 1781,
+            "end_char": 1807,
+            "label": "PER",
+            "text": "Nicolas Forissier.</strong"
+          },
+          {
+            "start_char": 1809,
+            "end_char": 1816,
+            "label": "LOC",
+            "text": "Arrêtez"
+          },
+          {
+            "start_char": 1845,
+            "end_char": 1870,
+            "label": "PER",
+            "text": "Mme Marie-Charlotte Garin"
+          },
+          {
+            "start_char": 1896,
+            "end_char": 1906,
+            "label": "PER",
+            "text": "Mme Cayeux"
+          },
+          {
+            "start_char": 1958,
+            "end_char": 1967,
+            "label": "PER",
+            "text": "Madame la"
+          },
+          {
+            "start_char": 2116,
+            "end_char": 2127,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2129,
+            "end_char": 2138,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2140,
+            "end_char": 2143,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2147,
+            "end_char": 2177,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2178,
+            "end_char": 2181,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2222,
+            "end_char": 2224,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2258,
+            "end_char": 2266,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 2356,
+            "end_char": 2366,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2416,
+            "end_char": 2424,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 2485,
+            "end_char": 2497,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2880,
+            "end_char": 2896,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 2920,
+            "end_char": 2929,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 2979,
+            "end_char": 3004,
+            "label": "PER",
+            "text": "Alexis Corbière.</strong>"
+          },
+          {
+            "start_char": 3044,
+            "end_char": 3054,
+            "label": "PER",
+            "text": "Mme Cayeux"
+          },
+          {
+            "start_char": 3108,
+            "end_char": 3118,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3554,
+            "end_char": 3585,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong> Pouvez"
+          },
+          {
+            "start_char": 3631,
+            "end_char": 3641,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4276,
+            "end_char": 4298,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 4455,
+            "end_char": 4458,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 4458,
+            "end_char": 4487,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong"
+          },
+          {
+            "start_char": 4540,
+            "end_char": 4550,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4615,
+            "end_char": 4627,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4678,
+            "end_char": 4683,
+            "label": "ORG",
+            "text": "NUPES"
+          },
+          {
+            "start_char": 5185,
+            "end_char": 5208,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5209,
+            "end_char": 5212,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5253,
+            "end_char": 5272,
+            "label": "PER",
+            "text": "Mme Marie-Charlotte"
+          },
+          {
+            "start_char": 5295,
+            "end_char": 5320,
+            "label": "PER",
+            "text": "Mme Marie-Charlotte Garin"
+          },
+          {
+            "start_char": 5564,
+            "end_char": 5575,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 5577,
+            "end_char": 5586,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5588,
+            "end_char": 5591,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 5595,
+            "end_char": 5598,
+            "label": "ORG",
+            "text": "GDR"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 101,
+            "sentiment": "4 stars",
+            "score": 0.2630382776260376
+          },
+          {
+            "begin_char": 102,
+            "end_char": 195,
+            "sentiment": "3 stars",
+            "score": 0.2519851326942444
+          },
+          {
+            "begin_char": 196,
+            "end_char": 472,
+            "sentiment": "5 stars",
+            "score": 0.37266042828559875
+          },
+          {
+            "begin_char": 472,
+            "end_char": 514,
+            "sentiment": "3 stars",
+            "score": 0.27483004331588745
+          },
+          {
+            "begin_char": 515,
+            "end_char": 583,
+            "sentiment": "3 stars",
+            "score": 0.25265222787857056
+          },
+          {
+            "begin_char": 584,
+            "end_char": 655,
+            "sentiment": "4 stars",
+            "score": 0.2756492793560028
+          },
+          {
+            "begin_char": 655,
+            "end_char": 669,
+            "sentiment": "1 star",
+            "score": 0.28326231241226196
+          },
+          {
+            "begin_char": 669,
+            "end_char": 670,
+            "sentiment": "5 stars",
+            "score": 0.30370408296585083
+          },
+          {
+            "begin_char": 670,
+            "end_char": 689,
+            "sentiment": "1 star",
+            "score": 0.38081732392311096
+          },
+          {
+            "begin_char": 690,
+            "end_char": 945,
+            "sentiment": "5 stars",
+            "score": 0.46251362562179565
+          },
+          {
+            "begin_char": 946,
+            "end_char": 1088,
+            "sentiment": "3 stars",
+            "score": 0.2505760192871094
+          },
+          {
+            "begin_char": 1089,
+            "end_char": 1193,
+            "sentiment": "3 stars",
+            "score": 0.2562169134616852
+          },
+          {
+            "begin_char": 1193,
+            "end_char": 1335,
+            "sentiment": "1 star",
+            "score": 0.3741625249385834
+          },
+          {
+            "begin_char": 1336,
+            "end_char": 1430,
+            "sentiment": "4 stars",
+            "score": 0.3492717742919922
+          },
+          {
+            "begin_char": 1430,
+            "end_char": 1431,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 1432,
+            "end_char": 1436,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 1436,
+            "end_char": 1522,
+            "sentiment": "1 star",
+            "score": 0.5087930560112
+          },
+          {
+            "begin_char": 1523,
+            "end_char": 1588,
+            "sentiment": "5 stars",
+            "score": 0.22724555432796478
+          },
+          {
+            "begin_char": 1589,
+            "end_char": 1712,
+            "sentiment": "1 star",
+            "score": 0.5132832527160645
+          },
+          {
+            "begin_char": 1712,
+            "end_char": 1781,
+            "sentiment": "3 stars",
+            "score": 0.3048847019672394
+          },
+          {
+            "begin_char": 1781,
+            "end_char": 1808,
+            "sentiment": "3 stars",
+            "score": 0.3073447346687317
+          },
+          {
+            "begin_char": 1809,
+            "end_char": 1829,
+            "sentiment": "5 stars",
+            "score": 0.41917797923088074
+          },
+          {
+            "begin_char": 1829,
+            "end_char": 1871,
+            "sentiment": "3 stars",
+            "score": 0.27483004331588745
+          },
+          {
+            "begin_char": 1872,
+            "end_char": 1907,
+            "sentiment": "2 stars",
+            "score": 0.25066444277763367
+          },
+          {
+            "begin_char": 1908,
+            "end_char": 1957,
+            "sentiment": "4 stars",
+            "score": 0.29806187748908997
+          },
+          {
+            "begin_char": 1958,
+            "end_char": 2068,
+            "sentiment": "1 star",
+            "score": 0.3929539918899536
+          },
+          {
+            "begin_char": 2069,
+            "end_char": 2196,
+            "sentiment": "4 stars",
+            "score": 0.3363419473171234
+          },
+          {
+            "begin_char": 2197,
+            "end_char": 2498,
+            "sentiment": "4 stars",
+            "score": 0.330513060092926
+          },
+          {
+            "begin_char": 2499,
+            "end_char": 2878,
+            "sentiment": "5 stars",
+            "score": 0.2656611204147339
+          },
+          {
+            "begin_char": 2879,
+            "end_char": 2880,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 2880,
+            "end_char": 2931,
+            "sentiment": "4 stars",
+            "score": 0.36272984743118286
+          },
+          {
+            "begin_char": 2932,
+            "end_char": 3004,
+            "sentiment": "5 stars",
+            "score": 0.40036454796791077
+          },
+          {
+            "begin_char": 3005,
+            "end_char": 3056,
+            "sentiment": "1 star",
+            "score": 0.3278823792934418
+          },
+          {
+            "begin_char": 3057,
+            "end_char": 3092,
+            "sentiment": "1 star",
+            "score": 0.3906691372394562
+          },
+          {
+            "begin_char": 3092,
+            "end_char": 3137,
+            "sentiment": "3 stars",
+            "score": 0.3035508692264557
+          },
+          {
+            "begin_char": 3138,
+            "end_char": 3155,
+            "sentiment": "4 stars",
+            "score": 0.3341301381587982
+          },
+          {
+            "begin_char": 3156,
+            "end_char": 3326,
+            "sentiment": "5 stars",
+            "score": 0.35788804292678833
+          },
+          {
+            "begin_char": 3327,
+            "end_char": 3496,
+            "sentiment": "5 stars",
+            "score": 0.2290560007095337
+          },
+          {
+            "begin_char": 3497,
+            "end_char": 3615,
+            "sentiment": "4 stars",
+            "score": 0.35152262449264526
+          },
+          {
+            "begin_char": 3615,
+            "end_char": 3679,
+            "sentiment": "3 stars",
+            "score": 0.30576416850090027
+          },
+          {
+            "begin_char": 3680,
+            "end_char": 3732,
+            "sentiment": "2 stars",
+            "score": 0.3027713894844055
+          },
+          {
+            "begin_char": 3733,
+            "end_char": 3791,
+            "sentiment": "5 stars",
+            "score": 0.3318946957588196
+          },
+          {
+            "begin_char": 3792,
+            "end_char": 4220,
+            "sentiment": "5 stars",
+            "score": 0.4541587233543396
+          },
+          {
+            "begin_char": 4221,
+            "end_char": 4243,
+            "sentiment": "3 stars",
+            "score": 0.2765860855579376
+          },
+          {
+            "begin_char": 4244,
+            "end_char": 4302,
+            "sentiment": "3 stars",
+            "score": 0.3416874408721924
+          },
+          {
+            "begin_char": 4302,
+            "end_char": 4488,
+            "sentiment": "4 stars",
+            "score": 0.35514336824417114
+          },
+          {
+            "begin_char": 4489,
+            "end_char": 4524,
+            "sentiment": "1 star",
+            "score": 0.4013567566871643
+          },
+          {
+            "begin_char": 4524,
+            "end_char": 4588,
+            "sentiment": "3 stars",
+            "score": 0.30576416850090027
+          },
+          {
+            "begin_char": 4589,
+            "end_char": 4919,
+            "sentiment": "5 stars",
+            "score": 0.5913971066474915
+          },
+          {
+            "begin_char": 4920,
+            "end_char": 5022,
+            "sentiment": "5 stars",
+            "score": 0.37596744298934937
+          },
+          {
+            "begin_char": 5023,
+            "end_char": 5133,
+            "sentiment": "5 stars",
+            "score": 0.3061956465244293
+          },
+          {
+            "begin_char": 5134,
+            "end_char": 5227,
+            "sentiment": "3 stars",
+            "score": 0.3051096200942993
+          },
+          {
+            "begin_char": 5228,
+            "end_char": 5321,
+            "sentiment": "3 stars",
+            "score": 0.2519851326942444
+          },
+          {
+            "begin_char": 5322,
+            "end_char": 5331,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5331,
+            "end_char": 5369,
+            "sentiment": "1 star",
+            "score": 0.5373660922050476
+          },
+          {
+            "begin_char": 5370,
+            "end_char": 5466,
+            "sentiment": "5 stars",
+            "score": 0.6070636510848999
+          },
+          {
+            "begin_char": 5467,
+            "end_char": 5516,
+            "sentiment": "5 stars",
+            "score": 0.6071650385856628
+          },
+          {
+            "begin_char": 5517,
+            "end_char": 5618,
+            "sentiment": "4 stars",
+            "score": 0.3174320161342621
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-20",
+        "pageJO": "2526",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

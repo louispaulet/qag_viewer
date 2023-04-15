@@ -1,0 +1,629 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG381",
+    "identifiant": {
+      "numero": "381",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "politique énergétique de la France"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721314",
+        "mandatRef": "PM797151"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition énergétique",
+      "developpe": "Ministère de la transition énergétique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition énergétique",
+          "developpe": "Ministère de la transition énergétique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> POLITIQUE ÉNERGÉTIQUE DE LA FRANCE <a name=PG23></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Raphaël Schellenberger.<br><br><strong>M. Raphaël Schellenberger. </strong>Madame la Première ministre, vous soumettez au Parlement régulièrement des textes sur l'énergie, mais ce ne sont toujours que des dispositifs d'ajustement ; vous n'apportez jamais réellement de vision d'ensemble, vous ne fixez jamais vraiment de cap clair. Plus que des doutes aujourd'hui, les députés du groupe Les Républicains ont des craintes.<br><br>En effet, il y a deux semaines, lors de votre déclaration sur la politique énergétique de la France, vous avez indiqué travailler à identifier les réacteurs nucléaires qui seront fermés à l'âge de 50 ans. Or pour tenir dans les décennies qui viennent, il faudra pourtant tout mettre en œuvre pour maintenir notre parc nucléaire au-delà de l'âge de 60 ans. Les annonces que vous avez formulées laisse craindre que vous n'ayez pas changé de cap par rapport à la programmation pluriannuelle de l'énergie que vous avez fait voter lorsque vous étiez ministre de l'écologie, et qui prévoyait la réduction à 50 % de la part du nucléaire dans notre mix électrique.<br><br>Madame la Première ministre, confirmez-vous que vous avez bien pris en compte le discours de Belfort du candidat Macron et donc changé d'avis par rapport à 2019 ? <i>(Applaudissements sur les bancs du groupe LR.)</i><br><br><strong>M. Fabien Di Filippo.</strong> À question claire, réponse claire !<br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre de la transition énergétique.<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre de la transition énergétique. </i>La vision d'ensemble de notre politique énergétique, vous la connaissez, monsieur le député, puisqu'elle a clairement été exprimée lors d'un débat qui a été mené au Parlement par la Première ministre.<br><br><strong>Plusieurs députés du groupe LR .</strong> Elle a changé !<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre . </i>Elle a également été clairement exprimée, vous l'avez souligné, par le Président de la République dans le discours de Belfort du 8 février dernier. Elle repose sur un triptyque.<br><br>Premier objectif : la sobriété et l'efficacité énergétique. Il s'agit de diminuer notre consommation d'énergie finale. C'est un objectif que nous assignent notamment les experts du climat : 40 % de réduction, c'est le scénario RTE – Réseau de transport d'électricité.<br><br>Deuxième objectif : développer massivement les énergies renouvelables parce que ce sont celles dont nous aurons besoin dans les années qui viennent, parce qu'elles peuvent être rapidement développées, parce qu'elles sont bas-carbone et parce qu'elles sont compétitives en prix, ce qui permettra de baisser le prix de l'énergie que payent les Français et les entreprises établies sur notre territoire.<br><br><strong>M. Olivier Marleix.</strong> Mais elles sont intermittentes !<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre . </i>Troisième objectif : relancer la filière nucléaire. Il n'y a aucune ambiguïté sur ce sujet.<br><br><strong>M. Patrick Hetzel.</strong> C'est nouveau !<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre . </i>Vous savez bien que le débat concernant la mise en place de deux nouveaux réacteurs à Penly est lancé. Vous savez également que nous travaillons avec le nouveau patron d'EDF afin qu'il anticipe d'ores et déjà la mise en œuvre de mesures d'excellence opérationnelle sur le parc existant pour augmenter la production d'électricité en réduisant le délai de maintenance opérationnelle – il est possible de gagner trois à quatre semaines dans les trois années qui viennent – mais également qu'il allonge, à la fois le plus possible et en sécurité – ces deux éléments comptent –, l'exploitation des cinquante-six réacteurs aujourd'hui en fonctionnement. Et c'est bien ce que la Première ministre vous a indiqué lors du débat sur la politique énergétique. Construire de nouveaux réacteurs sera notre proposition lors du débat parlementaire sur la loi relative à l'énergie et au climat qui aura lieu l'année prochaine.<br><br>Il n'y a pas l'once d'une ambiguïté en la matière !<br><br><strong>Mme la présidente. </strong>La parole est à M. Raphaël Schellenberger.<br><br><strong>M. Raphaël Schellenberger. </strong>Il est toujours difficile de discuter du mix énergétique avec une ministre chargée de l'énergie qui a été dessaisie de 40 % du sujet dans le décret d'attribution de ses compétences. Je le regrette.<br><br>Vous n'avez pas levé le flou sur la question de l'avenir du parc nucléaire et à quel âge le Gouvernement prévoit de fermer les réacteurs existants. La Première ministre, lors du débat, a laissé entendre que certains pourraient être fermés à l'âge de 50 ans, alors que nous devons tout faire pour les faire monter au moins à 60 ans.<br><br>Pour le reste, la réalité est qu'au moment où notre pays a absolument besoin d'électricité, les éoliennes ne tournent ces derniers temps qu'à hauteur de 2 %, autrement dit quasiment rien, alors qu'il fait froid, alors qu'il faut non seulement éclairer mais aussi chauffer les Français ! <i>(Applaudissements sur les bancs du groupe LR et sur plusieurs bancs du groupe RN.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 44,
+            "label": "MISC",
+            "text": "POLITIQUE ÉNERGÉTIQUE"
+          },
+          {
+            "start_char": 48,
+            "end_char": 57,
+            "label": "LOC",
+            "text": "LA FRANCE"
+          },
+          {
+            "start_char": 92,
+            "end_char": 95,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 136,
+            "end_char": 146,
+            "label": "PER",
+            "text": "M. Raphaël"
+          },
+          {
+            "start_char": 181,
+            "end_char": 203,
+            "label": "PER",
+            "text": "Raphaël Schellenberger"
+          },
+          {
+            "start_char": 214,
+            "end_char": 232,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 261,
+            "end_char": 270,
+            "label": "ORG",
+            "text": "Parlement"
+          },
+          {
+            "start_char": 530,
+            "end_char": 542,
+            "label": "ORG",
+            "text": "Républicains"
+          },
+          {
+            "start_char": 551,
+            "end_char": 567,
+            "label": "MISC",
+            "text": "craintes.<br><br"
+          },
+          {
+            "start_char": 658,
+            "end_char": 667,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1213,
+            "end_char": 1231,
+            "label": "MISC",
+            "text": "électrique.<br><br"
+          },
+          {
+            "start_char": 1232,
+            "end_char": 1250,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 1325,
+            "end_char": 1332,
+            "label": "LOC",
+            "text": "Belfort"
+          },
+          {
+            "start_char": 1345,
+            "end_char": 1351,
+            "label": "PER",
+            "text": "Macron"
+          },
+          {
+            "start_char": 1440,
+            "end_char": 1463,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1474,
+            "end_char": 1493,
+            "label": "PER",
+            "text": "Di Filippo.</strong"
+          },
+          {
+            "start_char": 1546,
+            "end_char": 1549,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1590,
+            "end_char": 1593,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1651,
+            "end_char": 1668,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 1899,
+            "end_char": 1908,
+            "label": "ORG",
+            "text": "Parlement"
+          },
+          {
+            "start_char": 1916,
+            "end_char": 1924,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 1978,
+            "end_char": 1980,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2023,
+            "end_char": 2040,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 2063,
+            "end_char": 2071,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 2149,
+            "end_char": 2175,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 2196,
+            "end_char": 2203,
+            "label": "LOC",
+            "text": "Belfort"
+          },
+          {
+            "start_char": 2245,
+            "end_char": 2262,
+            "label": "MISC",
+            "text": "triptyque.<br><br"
+          },
+          {
+            "start_char": 2490,
+            "end_char": 2537,
+            "label": "MISC",
+            "text": "RTE – Réseau de transport d'électricité.<br><br"
+          },
+          {
+            "start_char": 2880,
+            "end_char": 2888,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2954,
+            "end_char": 2981,
+            "label": "PER",
+            "text": "M. Olivier Marleix.</strong"
+          },
+          {
+            "start_char": 3031,
+            "end_char": 3048,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 3071,
+            "end_char": 3079,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3196,
+            "end_char": 3223,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong> C'"
+          },
+          {
+            "start_char": 3252,
+            "end_char": 3269,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 3292,
+            "end_char": 3300,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3393,
+            "end_char": 3398,
+            "label": "LOC",
+            "text": "Penly"
+          },
+          {
+            "start_char": 3477,
+            "end_char": 3480,
+            "label": "ORG",
+            "text": "EDF"
+          },
+          {
+            "start_char": 3979,
+            "end_char": 3987,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4207,
+            "end_char": 4224,
+            "label": "MISC",
+            "text": "prochaine.<br><br"
+          },
+          {
+            "start_char": 4292,
+            "end_char": 4295,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4336,
+            "end_char": 4346,
+            "label": "PER",
+            "text": "M. Raphaël"
+          },
+          {
+            "start_char": 4381,
+            "end_char": 4403,
+            "label": "PER",
+            "text": "Raphaël Schellenberger"
+          },
+          {
+            "start_char": 4602,
+            "end_char": 4618,
+            "label": "MISC",
+            "text": "regrette.<br><br"
+          },
+          {
+            "start_char": 4711,
+            "end_char": 4723,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 5234,
+            "end_char": 5242,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5290,
+            "end_char": 5292,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 5326,
+            "end_char": 5337,
+            "label": "ORG",
+            "text": "RN.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 110,
+            "sentiment": "3 stars",
+            "score": 0.31506848335266113
+          },
+          {
+            "begin_char": 111,
+            "end_char": 204,
+            "sentiment": "4 stars",
+            "score": 0.2719705402851105
+          },
+          {
+            "begin_char": 205,
+            "end_char": 370,
+            "sentiment": "3 stars",
+            "score": 0.35350123047828674
+          },
+          {
+            "begin_char": 371,
+            "end_char": 470,
+            "sentiment": "2 stars",
+            "score": 0.46274980902671814
+          },
+          {
+            "begin_char": 471,
+            "end_char": 568,
+            "sentiment": "4 stars",
+            "score": 0.3175767958164215
+          },
+          {
+            "begin_char": 568,
+            "end_char": 772,
+            "sentiment": "5 stars",
+            "score": 0.2961352467536926
+          },
+          {
+            "begin_char": 773,
+            "end_char": 923,
+            "sentiment": "5 stars",
+            "score": 0.45030638575553894
+          },
+          {
+            "begin_char": 924,
+            "end_char": 1394,
+            "sentiment": "4 stars",
+            "score": 0.26697736978530884
+          },
+          {
+            "begin_char": 1395,
+            "end_char": 1473,
+            "sentiment": "3 stars",
+            "score": 0.32710015773773193
+          },
+          {
+            "begin_char": 1474,
+            "end_char": 1494,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 1495,
+            "end_char": 1512,
+            "sentiment": "4 stars",
+            "score": 0.3235001266002655
+          },
+          {
+            "begin_char": 1512,
+            "end_char": 1530,
+            "sentiment": "4 stars",
+            "score": 0.34598711133003235
+          },
+          {
+            "begin_char": 1530,
+            "end_char": 1564,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 1565,
+            "end_char": 1690,
+            "sentiment": "3 stars",
+            "score": 0.28279468417167664
+          },
+          {
+            "begin_char": 1691,
+            "end_char": 1729,
+            "sentiment": "4 stars",
+            "score": 0.3457353115081787
+          },
+          {
+            "begin_char": 1730,
+            "end_char": 2007,
+            "sentiment": "5 stars",
+            "score": 0.4156707525253296
+          },
+          {
+            "begin_char": 2007,
+            "end_char": 2073,
+            "sentiment": "3 stars",
+            "score": 0.31557586789131165
+          },
+          {
+            "begin_char": 2074,
+            "end_char": 2141,
+            "sentiment": "4 stars",
+            "score": 0.3231910765171051
+          },
+          {
+            "begin_char": 2142,
+            "end_char": 2224,
+            "sentiment": "5 stars",
+            "score": 0.3313733637332916
+          },
+          {
+            "begin_char": 2224,
+            "end_char": 2322,
+            "sentiment": "4 stars",
+            "score": 0.3118162155151367
+          },
+          {
+            "begin_char": 2323,
+            "end_char": 2381,
+            "sentiment": "5 stars",
+            "score": 0.41944974660873413
+          },
+          {
+            "begin_char": 2382,
+            "end_char": 2538,
+            "sentiment": "4 stars",
+            "score": 0.2921035587787628
+          },
+          {
+            "begin_char": 2538,
+            "end_char": 2557,
+            "sentiment": "3 stars",
+            "score": 0.26368841528892517
+          },
+          {
+            "begin_char": 2558,
+            "end_char": 3015,
+            "sentiment": "5 stars",
+            "score": 0.5166918039321899
+          },
+          {
+            "begin_char": 3015,
+            "end_char": 3081,
+            "sentiment": "3 stars",
+            "score": 0.31557586789131165
+          },
+          {
+            "begin_char": 3082,
+            "end_char": 3137,
+            "sentiment": "4 stars",
+            "score": 0.2845500111579895
+          },
+          {
+            "begin_char": 3138,
+            "end_char": 3236,
+            "sentiment": "5 stars",
+            "score": 0.31434574723243713
+          },
+          {
+            "begin_char": 3236,
+            "end_char": 3302,
+            "sentiment": "3 stars",
+            "score": 0.31557586789131165
+          },
+          {
+            "begin_char": 3303,
+            "end_char": 3409,
+            "sentiment": "3 stars",
+            "score": 0.25195637345314026
+          },
+          {
+            "begin_char": 3410,
+            "end_char": 3954,
+            "sentiment": "5 stars",
+            "score": 0.579345703125
+          },
+          {
+            "begin_char": 3955,
+            "end_char": 4055,
+            "sentiment": "5 stars",
+            "score": 0.32268455624580383
+          },
+          {
+            "begin_char": 4056,
+            "end_char": 4276,
+            "sentiment": "4 stars",
+            "score": 0.2999098002910614
+          },
+          {
+            "begin_char": 4276,
+            "end_char": 4310,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 4311,
+            "end_char": 4404,
+            "sentiment": "4 stars",
+            "score": 0.2719705402851105
+          },
+          {
+            "begin_char": 4405,
+            "end_char": 4414,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 4414,
+            "end_char": 4595,
+            "sentiment": "3 stars",
+            "score": 0.3565405607223511
+          },
+          {
+            "begin_char": 4596,
+            "end_char": 4619,
+            "sentiment": "2 stars",
+            "score": 0.4882025122642517
+          },
+          {
+            "begin_char": 4619,
+            "end_char": 4766,
+            "sentiment": "1 star",
+            "score": 0.23239435255527496
+          },
+          {
+            "begin_char": 4767,
+            "end_char": 5244,
+            "sentiment": "2 stars",
+            "score": 0.44332292675971985
+          },
+          {
+            "begin_char": 5245,
+            "end_char": 5338,
+            "sentiment": "4 stars",
+            "score": 0.3127054274082184
+          },
+          {
+            "begin_char": 5339,
+            "end_char": 5342,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-07",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-07",
+        "pageJO": "6573",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

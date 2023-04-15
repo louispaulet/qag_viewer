@@ -1,0 +1,695 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG603",
+    "identifiant": {
+      "numero": "603",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enseignement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "SÉCURITÉ DANS LES ÉCOLES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720630",
+        "mandatRef": "PM797094"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Jeunesse et service national universel",
+      "developpe": "Secrétariat d’État auprès du ministre des armées et du ministre de l’éducation nationale et de la jeunesse, chargé de la jeunesse et du service national universel"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Jeunesse et service national universel",
+          "developpe": "Secrétariat d’État auprès du ministre des armées et du ministre de l’éducation nationale et de la jeunesse, chargé de la jeunesse et du service national universel"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SÉCURITÉ DANS LES ÉCOLES <a name=PG20></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Maxime Minot.<br><br><strong>M. Maxime Minot. </strong>Madame la Première ministre, vous n’êtes pas sans savoir que l’assassinat de la professeure d’espagnol à Saint-Jean-de-Luz a épouvanté la France entière. L'heure est grave. Ne craignons pas de nommer la nature des faits, dont l’extrême violence n'admet ni langue de bois, ni euphémisme, ni dérobade, ni cynisme.<br><br>Face à l’ascension fulgurante des violences intolérables et multiformes dont sont victimes les professeurs, ainsi que tous les membres du personnel éducatif, comment prévoyez-vous de réagir ? Quelles solutions concrètes et efficaces en matière de prévention et de dissuasion comptez-vous apporter afin de garantir enfin la sécurité des enseignants et des élèves ? Répondre à ces questions est une nécessité. Il y va de notre responsabilité collective, loin de toute querelle ou récupération partisane.<br><br>Lorsque vous ouvrez <i>Le Léviathan</i> de Hobbes ou Le Contrat social de Rousseau, vous lisez que la fonction première de l'État est de garantir la sécurité des citoyens.<br><br><strong>Un député du groupe RN .</strong> C'est vrai !<br><br><strong>M. Maxime Minot. </strong>Il s’agit même de sa principale raison d’être. Le cadre scolaire ne fait pas exception à la règle.<br><br>La minute de silence est certes symbolique et bienvenue, mais elle n’apporte aucun réconfort à la famille de la victime et ne règle nullement le fond du problème. L'école est le cœur battant de notre culture républicaine. Elle doit redevenir un sanctuaire, à l’abri des tumultes du monde.<br><br>À l’heure où les taux de démission et de recrutement des professeurs atteignent un stade critique, où les rectorats et le ministère préfèrent parfois courber l’échine devant certains parents toujours plus hostiles et où une logique technocratique impose des classes et des programmes surchargés, il est grand temps d’envisager de nouvelles, réelles et vastes solutions, loin de tout opportunisme politique.<br><br>Par conséquent, madame la Première ministre, j’attends avec la plus grande impatience une réponse de votre part, comme grand nombre de Françaises et de Français lassés et inquiets. <i>(Applaudissements sur les bancs du groupe LR et sur quelques bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État chargée de la jeunesse et du service national universel.<br><br><strong>M. Pierre Cordier.</strong> Et des fermetures de classes !<br><br><strong>Mme Sarah El Haïry,</strong><i> secrétaire d'État chargée de la jeunesse et du service national universel. </i>Je souscris à l'idée que l'école est un sanctuaire. Chacun doit s'y sentir en sécurité, qu'il s'agisse des élèves, des équipes pédagogiques ou des parents. Nous confions à l'école ce que nous avons de plus précieux : nos petits trésors, nos enfants. À ce moment-là, nous détachons un petit morceau de nous-mêmes, que nous faisons entrer dans ce sanctuaire.<br><br>Le drame qui s'est produit au lycée Saint-Thomas-d'Aquin de Saint-Jean-de-Luz était par essence imprévisible. L'établissement n'était pas connu pour des difficultés spécifiques ou pour un environnement violent.<br><br><strong>M. Maxime Minot.</strong> Ce n'est pas le sujet de la question !<br><br><strong>Mme Sarah El Haïry,</strong><i> secrétaire d'État . </i>Soulignant certains faits, vous demandez ce qui peut apaiser la famille, les collègues et les élèves de la professeure d'espagnol, Mme Lassalle. C'est d'abord la saisine de la justice, le fait que le jeune est en détention provisoire et que la justice déterminera ses responsabilités. Je ne veux pas généraliser quoi que ce soit, et il faut se garder de toute conclusion hâtive.<br><br>Comme je l'ai indiqué précédemment en répondant à M. Bru, nous devons nous donner les moyens de répondre aux enjeux de santé mentale, désormais plus prégnants au sein des établissements. Il faut plus d'identifications, plus de suivi <i>a posteriori</i>…<br><br><strong>M. Maxime Minot.</strong> Plus de personnels !<br><br><strong>Mme Sarah El Haïry,</strong><i> secrétaire d'État . </i>Oui, vous avez raison. C'est pourquoi le ministre de l'éducation nationale a renforcé les moyens afin de recruter un effectif supplémentaire de 20 % dans ce domaine.<br><br><strong>M. Pierre Cordier.</strong> Vous allez encore supprimer des postes l'année prochaine !<br><br><strong>Mme Sarah El Haïry,</strong><i> secrétaire d'État . </i>Toutefois, nous vivons une véritable crise des vocations, tant dans l'enseignement que dans la médecine scolaire. Le ministre de l'éducation nationale et le ministre de la transformation et de la fonction publiques - qui s'étaient immédiatement rendus sur place - réfléchissent aux mesures à même de rendre tous ces métiers plus attractifs, en particulier au sein de l'école. En tout cas, la sécurité est un continuum. <i>(Applaudissements sur quelques bancs des groupes Dem et LR.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 31,
+            "label": "ORG",
+            "text": "SÉCURITÉ"
+          },
+          {
+            "start_char": 41,
+            "end_char": 47,
+            "label": "ORG",
+            "text": "ÉCOLES"
+          },
+          {
+            "start_char": 82,
+            "end_char": 85,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 126,
+            "end_char": 128,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 129,
+            "end_char": 135,
+            "label": "PER",
+            "text": "Maxime"
+          },
+          {
+            "start_char": 161,
+            "end_char": 173,
+            "label": "PER",
+            "text": "Maxime Minot"
+          },
+          {
+            "start_char": 184,
+            "end_char": 202,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 218,
+            "end_char": 220,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 245,
+            "end_char": 247,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 289,
+            "end_char": 306,
+            "label": "LOC",
+            "text": "Saint-Jean-de-Luz"
+          },
+          {
+            "start_char": 319,
+            "end_char": 328,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 410,
+            "end_char": 412,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 487,
+            "end_char": 507,
+            "label": "MISC",
+            "text": "cynisme.<br><br>Face"
+          },
+          {
+            "start_char": 510,
+            "end_char": 512,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 994,
+            "end_char": 1011,
+            "label": "MISC",
+            "text": "partisane.<br><br"
+          },
+          {
+            "start_char": 1055,
+            "end_char": 1061,
+            "label": "PER",
+            "text": "Hobbes"
+          },
+          {
+            "start_char": 1065,
+            "end_char": 1094,
+            "label": "MISC",
+            "text": "Le Contrat social de Rousseau"
+          },
+          {
+            "start_char": 1137,
+            "end_char": 1141,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1219,
+            "end_char": 1221,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 1264,
+            "end_char": 1276,
+            "label": "PER",
+            "text": "Maxime Minot"
+          },
+          {
+            "start_char": 1290,
+            "end_char": 1292,
+            "label": "LOC",
+            "text": "s’"
+          },
+          {
+            "start_char": 1379,
+            "end_char": 1392,
+            "label": "MISC",
+            "text": "règle.<br><br"
+          },
+          {
+            "start_char": 1460,
+            "end_char": 1462,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 1652,
+            "end_char": 1654,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1675,
+            "end_char": 1688,
+            "label": "MISC",
+            "text": "monde.<br><br"
+          },
+          {
+            "start_char": 1691,
+            "end_char": 1693,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2085,
+            "end_char": 2102,
+            "label": "MISC",
+            "text": "politique.<br><br"
+          },
+          {
+            "start_char": 2148,
+            "end_char": 2150,
+            "label": "ORG",
+            "text": "j’"
+          },
+          {
+            "start_char": 2238,
+            "end_char": 2248,
+            "label": "LOC",
+            "text": "Françaises"
+          },
+          {
+            "start_char": 2255,
+            "end_char": 2263,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2329,
+            "end_char": 2331,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2364,
+            "end_char": 2387,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2388,
+            "end_char": 2391,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2432,
+            "end_char": 2435,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2452,
+            "end_char": 2456,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2532,
+            "end_char": 2555,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 2607,
+            "end_char": 2615,
+            "label": "PER",
+            "text": "Sarah El"
+          },
+          {
+            "start_char": 2648,
+            "end_char": 2652,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3059,
+            "end_char": 3077,
+            "label": "MISC",
+            "text": "sanctuaire.<br><br"
+          },
+          {
+            "start_char": 3108,
+            "end_char": 3134,
+            "label": "LOC",
+            "text": "lycée Saint-Thomas-d'Aquin"
+          },
+          {
+            "start_char": 3138,
+            "end_char": 3155,
+            "label": "LOC",
+            "text": "Saint-Jean-de-Luz"
+          },
+          {
+            "start_char": 3307,
+            "end_char": 3328,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 3388,
+            "end_char": 3396,
+            "label": "PER",
+            "text": "Sarah El"
+          },
+          {
+            "start_char": 3429,
+            "end_char": 3433,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3571,
+            "end_char": 3583,
+            "label": "PER",
+            "text": "Mme Lassalle"
+          },
+          {
+            "start_char": 3811,
+            "end_char": 3825,
+            "label": "MISC",
+            "text": "hâtive.<br><br"
+          },
+          {
+            "start_char": 3876,
+            "end_char": 3882,
+            "label": "PER",
+            "text": "M. Bru"
+          },
+          {
+            "start_char": 4098,
+            "end_char": 4119,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 4161,
+            "end_char": 4169,
+            "label": "PER",
+            "text": "Sarah El"
+          },
+          {
+            "start_char": 4202,
+            "end_char": 4206,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4397,
+            "end_char": 4420,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 4500,
+            "end_char": 4508,
+            "label": "PER",
+            "text": "Sarah El"
+          },
+          {
+            "start_char": 4541,
+            "end_char": 4545,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5023,
+            "end_char": 5026,
+            "label": "ORG",
+            "text": "Dem"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 100,
+            "sentiment": "3 stars",
+            "score": 0.3149471879005432
+          },
+          {
+            "begin_char": 101,
+            "end_char": 174,
+            "sentiment": "3 stars",
+            "score": 0.2510167360305786
+          },
+          {
+            "begin_char": 175,
+            "end_char": 337,
+            "sentiment": "5 stars",
+            "score": 0.3468782603740692
+          },
+          {
+            "begin_char": 338,
+            "end_char": 356,
+            "sentiment": "1 star",
+            "score": 0.23455366492271423
+          },
+          {
+            "begin_char": 357,
+            "end_char": 694,
+            "sentiment": "5 stars",
+            "score": 0.5315492153167725
+          },
+          {
+            "begin_char": 695,
+            "end_char": 866,
+            "sentiment": "5 stars",
+            "score": 0.5702469944953918
+          },
+          {
+            "begin_char": 867,
+            "end_char": 910,
+            "sentiment": "5 stars",
+            "score": 0.47913214564323425
+          },
+          {
+            "begin_char": 911,
+            "end_char": 1199,
+            "sentiment": "5 stars",
+            "score": 0.6458352208137512
+          },
+          {
+            "begin_char": 1199,
+            "end_char": 1232,
+            "sentiment": "3 stars",
+            "score": 0.32858774065971375
+          },
+          {
+            "begin_char": 1233,
+            "end_char": 1245,
+            "sentiment": "5 stars",
+            "score": 0.29584935307502747
+          },
+          {
+            "begin_char": 1245,
+            "end_char": 1277,
+            "sentiment": "3 stars",
+            "score": 0.28574997186660767
+          },
+          {
+            "begin_char": 1278,
+            "end_char": 1287,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1287,
+            "end_char": 1333,
+            "sentiment": "4 stars",
+            "score": 0.28228333592414856
+          },
+          {
+            "begin_char": 1334,
+            "end_char": 1393,
+            "sentiment": "3 stars",
+            "score": 0.3388960063457489
+          },
+          {
+            "begin_char": 1393,
+            "end_char": 1555,
+            "sentiment": "2 stars",
+            "score": 0.3840024769306183
+          },
+          {
+            "begin_char": 1556,
+            "end_char": 1614,
+            "sentiment": "5 stars",
+            "score": 0.4971335232257843
+          },
+          {
+            "begin_char": 1615,
+            "end_char": 2283,
+            "sentiment": "5 stars",
+            "score": 0.7725871801376343
+          },
+          {
+            "begin_char": 2284,
+            "end_char": 2406,
+            "sentiment": "4 stars",
+            "score": 0.3042698800563812
+          },
+          {
+            "begin_char": 2407,
+            "end_char": 2587,
+            "sentiment": "5 stars",
+            "score": 0.2649858295917511
+          },
+          {
+            "begin_char": 2587,
+            "end_char": 2709,
+            "sentiment": "4 stars",
+            "score": 0.3311312794685364
+          },
+          {
+            "begin_char": 2710,
+            "end_char": 2714,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2714,
+            "end_char": 2765,
+            "sentiment": "1 star",
+            "score": 0.28936201333999634
+          },
+          {
+            "begin_char": 2766,
+            "end_char": 2869,
+            "sentiment": "5 stars",
+            "score": 0.43292731046676636
+          },
+          {
+            "begin_char": 2870,
+            "end_char": 2963,
+            "sentiment": "5 stars",
+            "score": 0.6667239665985107
+          },
+          {
+            "begin_char": 2964,
+            "end_char": 3078,
+            "sentiment": "5 stars",
+            "score": 0.4039837718009949
+          },
+          {
+            "begin_char": 3078,
+            "end_char": 3187,
+            "sentiment": "3 stars",
+            "score": 0.3437490463256836
+          },
+          {
+            "begin_char": 3188,
+            "end_char": 3329,
+            "sentiment": "3 stars",
+            "score": 0.4299279451370239
+          },
+          {
+            "begin_char": 3330,
+            "end_char": 3368,
+            "sentiment": "1 star",
+            "score": 0.3947002589702606
+          },
+          {
+            "begin_char": 3368,
+            "end_char": 3435,
+            "sentiment": "3 stars",
+            "score": 0.30960050225257874
+          },
+          {
+            "begin_char": 3436,
+            "end_char": 3440,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3440,
+            "end_char": 3584,
+            "sentiment": "3 stars",
+            "score": 0.29109737277030945
+          },
+          {
+            "begin_char": 3585,
+            "end_char": 3724,
+            "sentiment": "4 stars",
+            "score": 0.4190686047077179
+          },
+          {
+            "begin_char": 3725,
+            "end_char": 4012,
+            "sentiment": "5 stars",
+            "score": 0.3931804895401001
+          },
+          {
+            "begin_char": 4013,
+            "end_char": 4141,
+            "sentiment": "2 stars",
+            "score": 0.3517249822616577
+          },
+          {
+            "begin_char": 4141,
+            "end_char": 4208,
+            "sentiment": "3 stars",
+            "score": 0.30960050225257874
+          },
+          {
+            "begin_char": 4209,
+            "end_char": 4216,
+            "sentiment": "4 stars",
+            "score": 0.31978002190589905
+          },
+          {
+            "begin_char": 4216,
+            "end_char": 4235,
+            "sentiment": "5 stars",
+            "score": 0.29913628101348877
+          },
+          {
+            "begin_char": 4236,
+            "end_char": 4421,
+            "sentiment": "4 stars",
+            "score": 0.34510964155197144
+          },
+          {
+            "begin_char": 4422,
+            "end_char": 4480,
+            "sentiment": "1 star",
+            "score": 0.6397897005081177
+          },
+          {
+            "begin_char": 4480,
+            "end_char": 4547,
+            "sentiment": "3 stars",
+            "score": 0.30960050225257874
+          },
+          {
+            "begin_char": 4548,
+            "end_char": 4665,
+            "sentiment": "3 stars",
+            "score": 0.2772524952888489
+          },
+          {
+            "begin_char": 4666,
+            "end_char": 4766,
+            "sentiment": "5 stars",
+            "score": 0.3058430850505829
+          },
+          {
+            "begin_char": 4767,
+            "end_char": 4813,
+            "sentiment": "4 stars",
+            "score": 0.22153356671333313
+          },
+          {
+            "begin_char": 4814,
+            "end_char": 4927,
+            "sentiment": "5 stars",
+            "score": 0.3885098993778229
+          },
+          {
+            "begin_char": 4928,
+            "end_char": 4970,
+            "sentiment": "5 stars",
+            "score": 0.47090962529182434
+          },
+          {
+            "begin_char": 4971,
+            "end_char": 5046,
+            "sentiment": "3 stars",
+            "score": 0.3274598717689514
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-03-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-03-01",
+        "pageJO": "1902",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,653 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG539",
+    "identifiant": {
+      "numero": "539",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "Internet",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PROTECTION DES MINEURS SUR INTERNET"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720754",
+        "mandatRef": "PM797121"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition numérique et télécommunications",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de la transition numérique et des télécommunications"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition numérique et télécommunications",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé de la transition numérique et des télécommunications"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PROTECTION DES MINEURS SUR INTERNET <a name=PG12></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Bruno Studer.<br><br><strong>M. Bruno Studer. </strong>Monsieur le ministre délégué chargé de la transition numérique et des télécommunications, rendre internet plus sûr, en particulier pour nos enfants, est l'objectif de cette journée du 7 février, qui nous donne l'occasion de saluer la mobilisation de l'Assemblée nationale, au cours des dernières années, sur les enjeux de protection de l'enfance sur internet et de rappeler que cette protection ne repose pas uniquement sur des réponses technologiques, mais exige également l'engagement des parents. C'est la raison pour laquelle, avec Aurore Bergé et l'ensemble des députés du groupe Renaissance, nous avons déposé la proposition de loi visant à garantir le respect du droit à l'image des enfants, pour mieux garantir le respect de leur vie privée.<br><br>Permettez-moi de rappeler quelques chiffres, qui devraient tous nous interpeller – et capter notre attention ! On estime qu’à l'âge de 13 ans, un enfant apparaît en moyenne sur 1 300 photographies publiées en ligne. Ainsi, une image sur deux échangées sur les forums pédopornographiques a été publiée au départ par les parents avant d'être détournée. La surexposition des enfants en ligne les expose au danger du harcèlement, mais aussi à celui de l'usurpation d'identité.<br><br>Nous sommes convaincus que l'une des grandes missions des parents du XXIe siècle sera de protéger la vie privée de leurs enfants et de leur apprendre à bien se protéger lorsqu'ils sont connectés. Pour cela, ils ont besoin d'aide. L'Assemblée nationale a adopté deux dispositions législatives en ce sens, pour lesquelles nous attendons toujours du Gouvernement les textes d'application.<br><br>Monsieur le ministre délégué, où en est la mise en œuvre la loi du 2 mars 2022 visant à renforcer le contrôle parental sur les moyens d'accès à internet, pour laquelle un décret doit préciser les caractéristiques minimales du contrôle parental devant être systématiquement pré-installé, sans surcoût, sur les appareils connectés vendus en France ?<br><br>Au moment où l'Autorité de régulation de la communication audiovisuelle et numérique (Arcom) rompt la médiation avec les sites pornographiques, qu'en est-il par ailleurs des mesures qui nous permettront de rendre effective l'interdiction d'accès des mineurs aux sites pornographiques prévue par la loi du 30 juillet 2020 visant à protéger les victimes de violences conjugales, alors que plus de deux millions de mineurs visitent un site pornographique chaque mois ? <i>(Applaudissements sur les bancs des groupes RE et Dem.)</i><br><br><strong>M. Sylvain Maillard.</strong> Très bien !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé de la transition numérique et des télécommunications.<br><br><strong>M. Jean-Noël Barrot,</strong><i> ministre délégué chargé de la transition numérique et des télécommunications. </i>Monsieur Studer, grâce aux travaux que vous avez menés avec le soutien du Gouvernement, la France sera bientôt le premier pays du monde à imposer le contrôle parental par défaut sur tous les appareils commercialisés sur son sol. <i>(Applaudissements sur les bancs des groupes RE et Dem.)</i><br><br><strong>M. Jimmy Pahun.</strong> Bravo !<br><br><strong>M. Jean-Noël Barrot,</strong><i> ministre délégué . </i>Le décret d'application a été validé par la Commission européenne et sera examiné prochainement par le Conseil d'État. Le combat doit cependant continuer. En ligne, nos enfants sont victimes d'atteintes brutales à leur innocence et à leur intimité, à commencer par ce scandale révoltant, auquel nous comptons mettre fin : dès 12 ans, un tiers de nos enfants sont exposés aux sites pornographiques. Avec Charlotte Caubel, la secrétaire d'État chargée de l'enfance, et avec l'Arcom et la Commission nationale de l’informatique et des libertés (Cnil), nous comptons faire respecter la loi et nous présenterons demain les conditions dans lesquelles les sites pornos devront demain vérifier sérieusement l'âge de leurs utilisateurs sous peine de voir leur diffusion interdite sur le territoire national.<i> (Mêmes mouvements.)</i><br><br><strong>M. Sylvain Maillard.</strong> Très bien !<br><br><strong>M. Jean-Noël Barrot,</strong><i> ministre délégué . </i>Les violences faites aux enfants en ligne ne s'arrêtent malheureusement pas au porno. Chaque année, un million d'élèves sont touchés par le cyberharcèlement. Nous agissons également sur ce sujet en lien avec les parlementaires – je salue notamment l'engagement d'Erwan Balanant. Le ministre de l'éducation nationale et de la jeunesse, Pap Ndiaye, l'a rappelé récemment : dès la rentrée prochaine, tous les élèves de sixième bénéficieront d'un passeport internet les sensibilisant aux risques dans ce domaine et aux attitudes à adopter lorsqu'ils sont victimes ou témoins de cyberharcèlement.<br><br>Vous l'avez dit, face à l'insécurité numérique, la meilleure des digues est la protection parentale. La proposition de loi visant à garantir le respect du droit à l'image des enfants, que vous avez déposée avec les membres du groupe Renaissance, a le mérite de rappeler que les photos d'enfants déposées sur les réseaux sociaux tombent parfois entre de très mauvaises mains. Nous devons éveiller les consciences, raison pour laquelle le Gouvernement lance aujourd'hui une vaste campagne de communication autour du site jeprotegemonenfant.gouv.fr,…<br><br><strong>Mme Sophia Chikirou.</strong> Un numéro vert !<br><br><strong>M. Jean-Noël Barrot,</strong><i> ministre délégué . </i>…sur lequel les parents pourront trouver tous les outils pour accompagner leurs enfants dans l'espace numérique.<br><br>Vous le voyez, sous l'autorité de la Première ministre, le Gouvernement agit. Il compte sur la mobilisation de tous pour garantir à nos enfants le plus haut niveau de sécurité dans l'espace numérique. <i>(Applaudissements sur les bancs des groupes RE et Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 37,
+            "label": "MISC",
+            "text": "PROTECTION DES"
+          },
+          {
+            "start_char": 50,
+            "end_char": 58,
+            "label": "MISC",
+            "text": "INTERNET"
+          },
+          {
+            "start_char": 93,
+            "end_char": 96,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 137,
+            "end_char": 139,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 140,
+            "end_char": 168,
+            "label": "PER",
+            "text": "Bruno Studer.<br><br><strong"
+          },
+          {
+            "start_char": 172,
+            "end_char": 184,
+            "label": "PER",
+            "text": "Bruno Studer"
+          },
+          {
+            "start_char": 195,
+            "end_char": 203,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 447,
+            "end_char": 466,
+            "label": "ORG",
+            "text": "Assemblée nationale"
+          },
+          {
+            "start_char": 731,
+            "end_char": 743,
+            "label": "PER",
+            "text": "Aurore Bergé"
+          },
+          {
+            "start_char": 780,
+            "end_char": 791,
+            "label": "ORG",
+            "text": "Renaissance"
+          },
+          {
+            "start_char": 937,
+            "end_char": 951,
+            "label": "MISC",
+            "text": "privée.<br><br"
+          },
+          {
+            "start_char": 1073,
+            "end_char": 1076,
+            "label": "LOC",
+            "text": "qu’"
+          },
+          {
+            "start_char": 1415,
+            "end_char": 1431,
+            "label": "MISC",
+            "text": "identité.<br><br"
+          },
+          {
+            "start_char": 1501,
+            "end_char": 1505,
+            "label": "MISC",
+            "text": "XXIe"
+          },
+          {
+            "start_char": 1664,
+            "end_char": 1683,
+            "label": "ORG",
+            "text": "Assemblée nationale"
+          },
+          {
+            "start_char": 1779,
+            "end_char": 1791,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1805,
+            "end_char": 1833,
+            "label": "MISC",
+            "text": "application.<br><br>Monsieur"
+          },
+          {
+            "start_char": 2164,
+            "end_char": 2170,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 2195,
+            "end_char": 2264,
+            "label": "ORG",
+            "text": "Autorité de régulation de la communication audiovisuelle et numérique"
+          },
+          {
+            "start_char": 2266,
+            "end_char": 2271,
+            "label": "LOC",
+            "text": "Arcom"
+          },
+          {
+            "start_char": 2693,
+            "end_char": 2695,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 2724,
+            "end_char": 2758,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong> Très"
+          },
+          {
+            "start_char": 2781,
+            "end_char": 2784,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2825,
+            "end_char": 2827,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3039,
+            "end_char": 3054,
+            "label": "MISC",
+            "text": "Monsieur Studer"
+          },
+          {
+            "start_char": 3113,
+            "end_char": 3125,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3127,
+            "end_char": 3136,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3315,
+            "end_char": 3317,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3346,
+            "end_char": 3349,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 3371,
+            "end_char": 3376,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 3494,
+            "end_char": 3515,
+            "label": "ORG",
+            "text": "Commission européenne"
+          },
+          {
+            "start_char": 3553,
+            "end_char": 3567,
+            "label": "ORG",
+            "text": "Conseil d'État"
+          },
+          {
+            "start_char": 3853,
+            "end_char": 3869,
+            "label": "PER",
+            "text": "Charlotte Caubel"
+          },
+          {
+            "start_char": 3887,
+            "end_char": 3891,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3924,
+            "end_char": 3929,
+            "label": "LOC",
+            "text": "Arcom"
+          },
+          {
+            "start_char": 3936,
+            "end_char": 3974,
+            "label": "ORG",
+            "text": "Commission nationale de l’informatique"
+          },
+          {
+            "start_char": 3992,
+            "end_char": 3996,
+            "label": "LOC",
+            "text": "Cnil"
+          },
+          {
+            "start_char": 4253,
+            "end_char": 4258,
+            "label": "LOC",
+            "text": "Mêmes"
+          },
+          {
+            "start_char": 4291,
+            "end_char": 4325,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong> Très"
+          },
+          {
+            "start_char": 4667,
+            "end_char": 4681,
+            "label": "PER",
+            "text": "Erwan Balanant"
+          },
+          {
+            "start_char": 4739,
+            "end_char": 4749,
+            "label": "PER",
+            "text": "Pap Ndiaye"
+          },
+          {
+            "start_char": 4978,
+            "end_char": 5002,
+            "label": "MISC",
+            "text": "cyberharcèlement.<br><br"
+          },
+          {
+            "start_char": 5236,
+            "end_char": 5247,
+            "label": "ORG",
+            "text": "Renaissance"
+          },
+          {
+            "start_char": 5440,
+            "end_char": 5452,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 5522,
+            "end_char": 5549,
+            "label": "MISC",
+            "text": "jeprotegemonenfant.gouv.fr,"
+          },
+          {
+            "start_char": 5566,
+            "end_char": 5595,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong>"
+          },
+          {
+            "start_char": 5786,
+            "end_char": 5803,
+            "label": "MISC",
+            "text": "numérique.<br><br"
+          },
+          {
+            "start_char": 5841,
+            "end_char": 5849,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 5863,
+            "end_char": 5875,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 6052,
+            "end_char": 6054,
+            "label": "MISC",
+            "text": "RE"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 111,
+            "sentiment": "3 stars",
+            "score": 0.26053833961486816
+          },
+          {
+            "begin_char": 112,
+            "end_char": 185,
+            "sentiment": "4 stars",
+            "score": 0.2528460621833801
+          },
+          {
+            "begin_char": 186,
+            "end_char": 195,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 195,
+            "end_char": 694,
+            "sentiment": "5 stars",
+            "score": 0.5540593266487122
+          },
+          {
+            "begin_char": 695,
+            "end_char": 1062,
+            "sentiment": "5 stars",
+            "score": 0.4544053077697754
+          },
+          {
+            "begin_char": 1063,
+            "end_char": 1167,
+            "sentiment": "3 stars",
+            "score": 0.3131852149963379
+          },
+          {
+            "begin_char": 1168,
+            "end_char": 1302,
+            "sentiment": "2 stars",
+            "score": 0.34048953652381897
+          },
+          {
+            "begin_char": 1303,
+            "end_char": 1340,
+            "sentiment": "1 star",
+            "score": 0.328823059797287
+          },
+          {
+            "begin_char": 1341,
+            "end_char": 1432,
+            "sentiment": "4 stars",
+            "score": 0.35278815031051636
+          },
+          {
+            "begin_char": 1432,
+            "end_char": 1627,
+            "sentiment": "5 stars",
+            "score": 0.6746984124183655
+          },
+          {
+            "begin_char": 1628,
+            "end_char": 1661,
+            "sentiment": "3 stars",
+            "score": 0.2676093578338623
+          },
+          {
+            "begin_char": 1662,
+            "end_char": 2172,
+            "sentiment": "4 stars",
+            "score": 0.3982870280742645
+          },
+          {
+            "begin_char": 2172,
+            "end_char": 2180,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2180,
+            "end_char": 2645,
+            "sentiment": "5 stars",
+            "score": 0.42362675070762634
+          },
+          {
+            "begin_char": 2646,
+            "end_char": 2765,
+            "sentiment": "4 stars",
+            "score": 0.4717022776603699
+          },
+          {
+            "begin_char": 2765,
+            "end_char": 2799,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2800,
+            "end_char": 2956,
+            "sentiment": "4 stars",
+            "score": 0.3178236186504364
+          },
+          {
+            "begin_char": 2957,
+            "end_char": 3034,
+            "sentiment": "4 stars",
+            "score": 0.35812908411026
+          },
+          {
+            "begin_char": 3035,
+            "end_char": 3267,
+            "sentiment": "5 stars",
+            "score": 0.5590468645095825
+          },
+          {
+            "begin_char": 3268,
+            "end_char": 3378,
+            "sentiment": "5 stars",
+            "score": 0.4527490735054016
+          },
+          {
+            "begin_char": 3378,
+            "end_char": 3426,
+            "sentiment": "3 stars",
+            "score": 0.3268654942512512
+          },
+          {
+            "begin_char": 3427,
+            "end_char": 3445,
+            "sentiment": "4 stars",
+            "score": 0.33653131127357483
+          },
+          {
+            "begin_char": 3446,
+            "end_char": 3568,
+            "sentiment": "4 stars",
+            "score": 0.4448474645614624
+          },
+          {
+            "begin_char": 3569,
+            "end_char": 3604,
+            "sentiment": "3 stars",
+            "score": 0.3311280310153961
+          },
+          {
+            "begin_char": 3605,
+            "end_char": 3847,
+            "sentiment": "5 stars",
+            "score": 0.39268115162849426
+          },
+          {
+            "begin_char": 3848,
+            "end_char": 4332,
+            "sentiment": "5 stars",
+            "score": 0.48682352900505066
+          },
+          {
+            "begin_char": 4332,
+            "end_char": 4380,
+            "sentiment": "3 stars",
+            "score": 0.3268654942512512
+          },
+          {
+            "begin_char": 4381,
+            "end_char": 4399,
+            "sentiment": "4 stars",
+            "score": 0.33653131127357483
+          },
+          {
+            "begin_char": 4400,
+            "end_char": 4404,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4404,
+            "end_char": 4489,
+            "sentiment": "1 star",
+            "score": 0.3602900803089142
+          },
+          {
+            "begin_char": 4490,
+            "end_char": 4561,
+            "sentiment": "5 stars",
+            "score": 0.29083991050720215
+          },
+          {
+            "begin_char": 4562,
+            "end_char": 4682,
+            "sentiment": "4 stars",
+            "score": 0.4529774487018585
+          },
+          {
+            "begin_char": 4683,
+            "end_char": 5103,
+            "sentiment": "4 stars",
+            "score": 0.39016252756118774
+          },
+          {
+            "begin_char": 5104,
+            "end_char": 5247,
+            "sentiment": "5 stars",
+            "score": 0.358425498008728
+          },
+          {
+            "begin_char": 5247,
+            "end_char": 5377,
+            "sentiment": "3 stars",
+            "score": 0.33652010560035706
+          },
+          {
+            "begin_char": 5378,
+            "end_char": 5595,
+            "sentiment": "5 stars",
+            "score": 0.3598220646381378
+          },
+          {
+            "begin_char": 5596,
+            "end_char": 5612,
+            "sentiment": "1 star",
+            "score": 0.5827771425247192
+          },
+          {
+            "begin_char": 5612,
+            "end_char": 5660,
+            "sentiment": "3 stars",
+            "score": 0.3268654942512512
+          },
+          {
+            "begin_char": 5661,
+            "end_char": 5679,
+            "sentiment": "4 stars",
+            "score": 0.33653131127357483
+          },
+          {
+            "begin_char": 5680,
+            "end_char": 5881,
+            "sentiment": "5 stars",
+            "score": 0.41611817479133606
+          },
+          {
+            "begin_char": 5882,
+            "end_char": 6004,
+            "sentiment": "5 stars",
+            "score": 0.6606718301773071
+          },
+          {
+            "begin_char": 6005,
+            "end_char": 6075,
+            "sentiment": "3 stars",
+            "score": 0.31892722845077515
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-08",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-08",
+        "pageJO": "958",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

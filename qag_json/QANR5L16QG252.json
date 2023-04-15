@@ -1,0 +1,683 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG252",
+    "identifiant": {
+      "numero": "252",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enseignement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Situation des AESH"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721844",
+        "mandatRef": "PM797562"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Éducation nationale et jeunesse",
+      "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Éducation nationale et jeunesse",
+          "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION DES AESH <a name=PG6></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Béatrice Piron.<br><br><strong>Mme Béatrice Piron. </strong>Monsieur le ministre de l’éducation nationale, je souhaite vous interroger sur la problématique des enfants en situation de handicap. La grande majorité d’entre eux est scolarisée dans nos écoles, souvent par choix de la famille, parfois faute de places dans les établissements spécialisés. Leur scolarisation est rendue possible grâce aux accompagnants d’élèves en situation de handicap (AESH). Ces derniers sont au nombre de 132 000, soit une augmentation de 42 % en cinq ans, et leurs missions sont fondamentales. Sans eux, il n'y aurait pas d’école inclusive.<br><br>Notre majorité et le Gouvernement ont déjà œuvré pour améliorer leur situation. Je pense notamment à leur professionnalisation, puisqu'ils reçoivent une formation à l’embauche puis suivent une formation continue renforcée ; à la sécurisation de leur emploi, grâce à des CDD de trois ans, suivis par une cédéisation ; et au versement, dernièrement, de la prime réseau d'éducation prioritaire (REP) et réseau d'éducation prioritaire renforcé (REP+).<br><br><strong>M. Fabien Di Filippo.</strong> C'est la réponse qu'elle est en train de lire, pas la question !<br><br><strong>Mme Béatrice Piron. </strong>Nous avons apprécié la création, dans le budget 2023, de 4 000 nouveaux emplois d’AESH, en sus des 4 000 postes décidés lors de la rentrée. Par ailleurs, la rémunération des enseignants devant être revalorisée de 10 %, les trois groupes de la majorité vous ont proposé par amendement de revaloriser, à hauteur de 80 millions, la rémunération des AESH afin que, eux aussi, bénéficient d’une augmentation de 10 % à partir de la rentrée prochaine. Cet amendement a été retenu dans le texte définitif, après le recours au 49.3, et vous avez levé le gage, monsieur le ministre, ce dont nous tenions à vous remercier.<br><br><strong>Plusieurs députés du groupe LR .</strong> Allô ! Allô !<br><br><strong>Mme Béatrice Piron. </strong>Cette avancée rendra le métier d’AESH plus attractif, au bénéfice des 430 000 élèves en situation de handicap. Par ailleurs, le Conseil national handicap (CNH) doit se réunir début 2023. J’imagine que le comité école inclusive pourra proposer des aménagements concernant l’organisation et les missions des AESH, que ce soit sur le temps scolaire ou périscolaire.<br><br>Monsieur le ministre, pouvez-vous nous indiquer ce que vous envisagez de faire pour les AESH et, plus largement, comment vous entendez renforcer l'offre proposée aux enfants en situation de handicap afin d'améliorer leur accueil et, surtout, leur bien-être ? <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’éducation nationale et de la jeunesse.<br><br><strong>M. Pap Ndiaye,</strong><i> ministre de l’éducation nationale et de la jeunesse. </i>La situation économique des AESH et l'attractivité de leur métier sont en effet déterminantes pour la qualité et l'effectivité de l'accueil des enfants en situation de handicap dans le système scolaire. L'engagement du ministère porte sur trois avancées majeures qui vont améliorer la situation de ces personnels. Tout d'abord, nous avons souhaité, avec la Première ministre, que le Gouvernement donne un avis favorable à trois amendements au projet de loi de finances pour 2023, défendus respectivement par les groupes Renaissance, Démocrate et Horizons, amendements qui visaient à augmenter de 10 % les salaires des AESH à partir du 1er septembre 2023. Une enveloppe de 80 millions supplémentaires a ainsi été réservée à cet effet.<br><br>Ensuite, cette revalorisation s'ajoute à l'extension du versement de la prime REP et REP+ aux AESH et aux assistants d'éducation (AED) exerçant dans l'éducation prioritaire, pour une somme, prévue au budget, de 74 millions.<br><br>Enfin, nous ferons en sorte, conformément à l'engagement du Président de la République, de favoriser l'accès des AESH au temps complet ; nous y travaillons en lien avec les collectivités.<br><br>L'objectif est d'aboutir à la réussite éducative de tous les élèves. À cette fin, nous travaillons à des évolutions plus globales de l'école inclusive que nous entendons proposer au printemps prochain, avec ma collègue Geneviève Darrieussecq, dans le cadre de la Conférence nationale du handicap. Notre objectif est bien d'améliorer les conditions de travail des AESH pour assurer le meilleur accompagnement possible des enfants en situation de handicap. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 37,
+            "end_char": 41,
+            "label": "MISC",
+            "text": "AESH"
+          },
+          {
+            "start_char": 50,
+            "end_char": 57,
+            "label": "PER",
+            "text": "PG6></a"
+          },
+          {
+            "start_char": 75,
+            "end_char": 78,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 119,
+            "end_char": 153,
+            "label": "PER",
+            "text": "Mme Béatrice Piron.<br><br><strong"
+          },
+          {
+            "start_char": 154,
+            "end_char": 172,
+            "label": "PER",
+            "text": "Mme Béatrice Piron"
+          },
+          {
+            "start_char": 183,
+            "end_char": 191,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 207,
+            "end_char": 209,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 537,
+            "end_char": 539,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 572,
+            "end_char": 576,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 728,
+            "end_char": 730,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 736,
+            "end_char": 753,
+            "label": "MISC",
+            "text": "inclusive.<br><br"
+          },
+          {
+            "start_char": 775,
+            "end_char": 787,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 919,
+            "end_char": 921,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1024,
+            "end_char": 1027,
+            "label": "ORG",
+            "text": "CDD"
+          },
+          {
+            "start_char": 1146,
+            "end_char": 1149,
+            "label": "PER",
+            "text": "REP"
+          },
+          {
+            "start_char": 1195,
+            "end_char": 1226,
+            "label": "MISC",
+            "text": "REP+).<br><br><strong>M. Fabien"
+          },
+          {
+            "start_char": 1227,
+            "end_char": 1250,
+            "label": "PER",
+            "text": "Di Filippo.</strong> C'"
+          },
+          {
+            "start_char": 1328,
+            "end_char": 1346,
+            "label": "PER",
+            "text": "Mme Béatrice Piron"
+          },
+          {
+            "start_char": 1439,
+            "end_char": 1443,
+            "label": "MISC",
+            "text": "AESH"
+          },
+          {
+            "start_char": 1703,
+            "end_char": 1707,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 2012,
+            "end_char": 2014,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2026,
+            "end_char": 2030,
+            "label": "PER",
+            "text": "Allô"
+          },
+          {
+            "start_char": 2033,
+            "end_char": 2037,
+            "label": "PER",
+            "text": "Allô"
+          },
+          {
+            "start_char": 2055,
+            "end_char": 2073,
+            "label": "PER",
+            "text": "Mme Béatrice Piron"
+          },
+          {
+            "start_char": 2117,
+            "end_char": 2121,
+            "label": "MISC",
+            "text": "AESH"
+          },
+          {
+            "start_char": 2212,
+            "end_char": 2237,
+            "label": "ORG",
+            "text": "Conseil national handicap"
+          },
+          {
+            "start_char": 2239,
+            "end_char": 2242,
+            "label": "ORG",
+            "text": "CNH"
+          },
+          {
+            "start_char": 2355,
+            "end_char": 2357,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 2390,
+            "end_char": 2394,
+            "label": "MISC",
+            "text": "AESH"
+          },
+          {
+            "start_char": 2433,
+            "end_char": 2454,
+            "label": "MISC",
+            "text": "périscolaire.<br><br>"
+          },
+          {
+            "start_char": 2542,
+            "end_char": 2546,
+            "label": "MISC",
+            "text": "AESH"
+          },
+          {
+            "start_char": 2758,
+            "end_char": 2781,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2782,
+            "end_char": 2785,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2826,
+            "end_char": 2828,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2844,
+            "end_char": 2846,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2900,
+            "end_char": 2906,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 2939,
+            "end_char": 2941,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3012,
+            "end_char": 3016,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 3341,
+            "end_char": 3349,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3367,
+            "end_char": 3379,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3504,
+            "end_char": 3515,
+            "label": "ORG",
+            "text": "Renaissance"
+          },
+          {
+            "start_char": 3517,
+            "end_char": 3526,
+            "label": "LOC",
+            "text": "Démocrate"
+          },
+          {
+            "start_char": 3530,
+            "end_char": 3538,
+            "label": "LOC",
+            "text": "Horizons"
+          },
+          {
+            "start_char": 3602,
+            "end_char": 3606,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 3711,
+            "end_char": 3724,
+            "label": "MISC",
+            "text": "effet.<br><br"
+          },
+          {
+            "start_char": 3803,
+            "end_char": 3806,
+            "label": "PER",
+            "text": "REP"
+          },
+          {
+            "start_char": 3810,
+            "end_char": 3814,
+            "label": "MISC",
+            "text": "REP+"
+          },
+          {
+            "start_char": 3819,
+            "end_char": 3823,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 3855,
+            "end_char": 3858,
+            "label": "ORG",
+            "text": "AED"
+          },
+          {
+            "start_char": 3939,
+            "end_char": 3955,
+            "label": "MISC",
+            "text": "millions.<br><br"
+          },
+          {
+            "start_char": 4016,
+            "end_char": 4042,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4069,
+            "end_char": 4073,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 4129,
+            "end_char": 4150,
+            "label": "MISC",
+            "text": "collectivités.<br><br"
+          },
+          {
+            "start_char": 4370,
+            "end_char": 4392,
+            "label": "PER",
+            "text": "Geneviève Darrieussecq"
+          },
+          {
+            "start_char": 4414,
+            "end_char": 4446,
+            "label": "ORG",
+            "text": "Conférence nationale du handicap"
+          },
+          {
+            "start_char": 4514,
+            "end_char": 4518,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 4656,
+            "end_char": 4667,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 41,
+            "sentiment": "4 stars",
+            "score": 0.3050326704978943
+          },
+          {
+            "begin_char": 42,
+            "end_char": 93,
+            "sentiment": "3 stars",
+            "score": 0.30006399750709534
+          },
+          {
+            "begin_char": 94,
+            "end_char": 173,
+            "sentiment": "3 stars",
+            "score": 0.2479734569787979
+          },
+          {
+            "begin_char": 174,
+            "end_char": 183,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 183,
+            "end_char": 316,
+            "sentiment": "4 stars",
+            "score": 0.36375463008880615
+          },
+          {
+            "begin_char": 317,
+            "end_char": 473,
+            "sentiment": "4 stars",
+            "score": 0.3018839657306671
+          },
+          {
+            "begin_char": 474,
+            "end_char": 578,
+            "sentiment": "4 stars",
+            "score": 0.4081856906414032
+          },
+          {
+            "begin_char": 579,
+            "end_char": 699,
+            "sentiment": "5 stars",
+            "score": 0.5387792587280273
+          },
+          {
+            "begin_char": 700,
+            "end_char": 754,
+            "sentiment": "5 stars",
+            "score": 0.3267494738101959
+          },
+          {
+            "begin_char": 754,
+            "end_char": 833,
+            "sentiment": "5 stars",
+            "score": 0.4405520558357239
+          },
+          {
+            "begin_char": 834,
+            "end_char": 977,
+            "sentiment": "4 stars",
+            "score": 0.4357605278491974
+          },
+          {
+            "begin_char": 978,
+            "end_char": 1070,
+            "sentiment": "4 stars",
+            "score": 0.3871619701385498
+          },
+          {
+            "begin_char": 1071,
+            "end_char": 1226,
+            "sentiment": "3 stars",
+            "score": 0.32655012607574463
+          },
+          {
+            "begin_char": 1227,
+            "end_char": 1312,
+            "sentiment": "1 star",
+            "score": 0.4744553565979004
+          },
+          {
+            "begin_char": 1312,
+            "end_char": 1347,
+            "sentiment": "3 stars",
+            "score": 0.2750326097011566
+          },
+          {
+            "begin_char": 1348,
+            "end_char": 1357,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1357,
+            "end_char": 1496,
+            "sentiment": "4 stars",
+            "score": 0.494333952665329
+          },
+          {
+            "begin_char": 1497,
+            "end_char": 1801,
+            "sentiment": "4 stars",
+            "score": 0.286344975233078
+          },
+          {
+            "begin_char": 1802,
+            "end_char": 2025,
+            "sentiment": "5 stars",
+            "score": 0.39709123969078064
+          },
+          {
+            "begin_char": 2026,
+            "end_char": 2032,
+            "sentiment": "1 star",
+            "score": 0.24049995839595795
+          },
+          {
+            "begin_char": 2033,
+            "end_char": 2039,
+            "sentiment": "1 star",
+            "score": 0.24049995839595795
+          },
+          {
+            "begin_char": 2039,
+            "end_char": 2074,
+            "sentiment": "3 stars",
+            "score": 0.2750326097011566
+          },
+          {
+            "begin_char": 2075,
+            "end_char": 2084,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2084,
+            "end_char": 2117,
+            "sentiment": "5 stars",
+            "score": 0.5305957794189453
+          },
+          {
+            "begin_char": 2117,
+            "end_char": 2194,
+            "sentiment": "5 stars",
+            "score": 0.466602623462677
+          },
+          {
+            "begin_char": 2195,
+            "end_char": 2270,
+            "sentiment": "4 stars",
+            "score": 0.3576999306678772
+          },
+          {
+            "begin_char": 2271,
+            "end_char": 2454,
+            "sentiment": "3 stars",
+            "score": 0.37271276116371155
+          },
+          {
+            "begin_char": 2454,
+            "end_char": 2712,
+            "sentiment": "5 stars",
+            "score": 0.4052143096923828
+          },
+          {
+            "begin_char": 2713,
+            "end_char": 2800,
+            "sentiment": "4 stars",
+            "score": 0.3044034242630005
+          },
+          {
+            "begin_char": 2801,
+            "end_char": 2926,
+            "sentiment": "3 stars",
+            "score": 0.30180537700653076
+          },
+          {
+            "begin_char": 2927,
+            "end_char": 2979,
+            "sentiment": "4 stars",
+            "score": 0.30159011483192444
+          },
+          {
+            "begin_char": 2980,
+            "end_char": 3186,
+            "sentiment": "4 stars",
+            "score": 0.49084967374801636
+          },
+          {
+            "begin_char": 3187,
+            "end_char": 3297,
+            "sentiment": "5 stars",
+            "score": 0.4292404353618622
+          },
+          {
+            "begin_char": 3298,
+            "end_char": 3638,
+            "sentiment": "4 stars",
+            "score": 0.39988574385643005
+          },
+          {
+            "begin_char": 3639,
+            "end_char": 4092,
+            "sentiment": "4 stars",
+            "score": 0.4441373944282532
+          },
+          {
+            "begin_char": 4093,
+            "end_char": 4219,
+            "sentiment": "4 stars",
+            "score": 0.3705318868160248
+          },
+          {
+            "begin_char": 4220,
+            "end_char": 4447,
+            "sentiment": "5 stars",
+            "score": 0.44749218225479126
+          },
+          {
+            "begin_char": 4448,
+            "end_char": 4605,
+            "sentiment": "5 stars",
+            "score": 0.42434337735176086
+          },
+          {
+            "begin_char": 4606,
+            "end_char": 4668,
+            "sentiment": "3 stars",
+            "score": 0.3159869611263275
+          },
+          {
+            "begin_char": 4669,
+            "end_char": 4672,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-09",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-09",
+        "pageJO": "5236",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

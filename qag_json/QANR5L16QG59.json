@@ -1,0 +1,683 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG59",
+    "identifiant": {
+      "numero": "59",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "jeunes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Droit aux vacances"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795636",
+        "mandatRef": "PM797601"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Jeunesse et service national universel",
+      "developpe": "Secrétariat d’État auprès du ministre des armées et du ministre de l’éducation nationale et de la jeunesse, chargé de la jeunesse et du service national universel"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Jeunesse et service national universel",
+          "developpe": "Secrétariat d’État auprès du ministre des armées et du ministre de l’éducation nationale et de la jeunesse, chargé de la jeunesse et du service national universel"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> DROIT AUX VACANCES <a name=PG5></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Benjamin Lucas.<br><br><strong>M. Benjamin Lucas. </strong>« Homme libre, toujours tu chériras la mer ! » Par ce vers, Baudelaire décrit l'irrépressible besoin humain de l'évasion, de la contemplation, du voyage. Ce droit au bonheur est gravé non seulement dans le marbre de notre histoire républicaine depuis les premiers congés payés et le Front populaire de 1936, mais aussi dans le marbre de la loi, puisque l'article 140 de la loi du 29 juillet 1998 dispose que « l'égal accès de tous, tout au long de la vie, […] aux vacances et aux loisirs constitue un objectif national. »<br><br>Ce droit aux vacances est pourtant refusé à des millions de familles. Cette année à nouveau, et plus encore du fait de la vie chère, du prix des carburants, des bas salaires que vous refusez d'augmenter <i>(Applaudissements sur quelques bancs du groupe Écolo-NUPES. – MM. Jérôme Guedj et Adrien Quatennens applaudissent aussi)</i>, de votre maltraitance des services publics, du monde associatif et des collectivités locales, des millions d'enfants, de précaires, de salariés et de retraités ne verront ni la mer, ni la montagne, ni notre exceptionnel patrimoine.<br><br>Le jour de la rentrée, plus de 3 millions d'élèves se sentiront exclus de ce moment merveilleux où l'on raconte son été et ses découvertes, source de la construction des imaginaires, des rêves, donc de la liberté de l'esprit. Cette injustice accentue les phénomènes de sédentarité, le mal-être psychologique, les inégalités sociales, culturelles et éducatives.<br><br>Pourtant, il est possible d'agir : sur les moyens, pour assurer l'égalité de tous dans l'accès aux vacances, sur l'accompagnement culturel et pédagogique et sur le renforcement d'une offre de tourisme social et écologique.<br><br><strong>M. Jocelyn Dessigny.</strong> Lorsqu'on a proposé d'augmenter les salaires, où étiez-vous ? Vous êtes un démagogue !<br><br><strong>M. Benjamin Lucas. </strong>Ma question est simple : le Gouvernement est-il prêt à appliquer enfin la loi et à faire du droit aux vacances une réalité pour toutes les familles ? <i>(Applaudissements sur les bancs du groupe Écolo-NUPES et sur plusieurs bancs du groupe SOC. – M. Adrien Quatennens applaudit aussi.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État auprès du ministre des armées et du ministre de l’éducation nationale et de la jeunesse, chargée de la jeunesse et du service national universel.<br><br><strong>Mme Sarah El Haïry,</strong><i> secrétaire d'État auprès du ministre des armées et du ministre de l’éducation nationale et de la jeunesse, chargée de la jeunesse et du service national universel. </i>Monsieur le député, bien entendu, les vacances émancipent et permettent à notre jeunesse de respirer et de s'oxygéner. C'est bien pourquoi, depuis 2017, l'obsession de la majorité et du Gouvernement est de permettre aux jeunes de partir en vacances. Ainsi, ils sont presque 1 million à être partis grâce au plan Vacances apprenantes et tourisme solidaire et 250 000 grâce aux colos apprenantes. Par ailleurs, près de 400 000 familles sont accompagnées grâce à l'investissement des enseignants, puisque plus de 2 000 établissements restent ouverts pour permettre aux enfants d'apprendre, de respirer, de rigoler et de se faire de nouveaux copains.<br><br>Au-delà de l'urgence, nous agissons en profondeur, pour redynamiser le secteur de l'animation, celui de l'économie sociale et solidaire, du tourisme social et de l'éducation populaire. La mobilisation du Gouvernement permet à ces acteurs de consacrer des moyens à la rénovation du bâti, aux enfants des familles plus éloignées de bénéficier d'une prise en charge jusqu'à 80 % du départ, à hauteur de 400 euros par semaine.<br><br>Par ailleurs, le plan « 1 jeune, 1 solution » qu'avec la Première ministre, lorsqu'elle était ministre du travail, nous avons déployé, permet aux jeunes de découvrir leurs droits.<br><br><strong>M. Jocelyn Dessigny.</strong> C'est un plan pour l'emploi, pas pour les vacances !<br><br><strong>M. Ugo Bernalicis.</strong> Vous obligez les étudiants à se salarier : c'est ça, votre « 1 jeune, 1 solution » !<br><br><strong>Mme Sarah El Haïry,</strong><i> secrétaire d'État. </i>Avec l'Agence nationale des chèques vacances, nous permettons aux 18-25 ans de bénéficier de 150 euros par semaine de sorte qu'ils peuvent partir avec leurs copains.<br><br>Monsieur le député, plus que jamais, notre combat vise à accompagner les acteurs de l'éducation populaire, nos enseignants et les familles les plus modestes, en étant attentifs aux jeunes les plus en difficulté et les plus fragiles, les jeunes ruraux et ceux qui sont en situation de handicap. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Benjamin Lucas.<br><br><strong>M. Benjamin Lucas. </strong>Je m'étonne que, pour répondre à une question qui a trait à l'émancipation, à l'avenir et au droit au bonheur, le Gouvernement choisisse une secrétaire d'État placée sous l'autorité du ministre des armées. Il y a là, me semble-t-il, une forme de provocation. <i>(Applaudissements sur quelques bancs du groupe SOC. – Exclamations sur les bancs des groupes RE et Dem.)</i> Tous les représentants d'associations et de collectivités que nous rencontrons – j'étais à Poitiers hier – estiment que vous n'en faites pas assez en la matière. (Applaudissements sur les bancs du groupe Écolo-NUPES et sur plusieurs bancs des groupes LFI-NUPES et SOC.)<br> <p>",
+        "entities": [
+          {
+            "start_char": 33,
+            "end_char": 41,
+            "label": "MISC",
+            "text": "VACANCES"
+          },
+          {
+            "start_char": 50,
+            "end_char": 57,
+            "label": "PER",
+            "text": "PG5></a"
+          },
+          {
+            "start_char": 75,
+            "end_char": 78,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 119,
+            "end_char": 130,
+            "label": "PER",
+            "text": "M. Benjamin"
+          },
+          {
+            "start_char": 156,
+            "end_char": 170,
+            "label": "PER",
+            "text": "Benjamin Lucas"
+          },
+          {
+            "start_char": 241,
+            "end_char": 251,
+            "label": "PER",
+            "text": "Baudelaire"
+          },
+          {
+            "start_char": 464,
+            "end_char": 479,
+            "label": "ORG",
+            "text": "Front populaire"
+          },
+          {
+            "start_char": 963,
+            "end_char": 974,
+            "label": "ORG",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 982,
+            "end_char": 994,
+            "label": "PER",
+            "text": "Jérôme Guedj"
+          },
+          {
+            "start_char": 998,
+            "end_char": 1015,
+            "label": "PER",
+            "text": "Adrien Quatennens"
+          },
+          {
+            "start_char": 1262,
+            "end_char": 1280,
+            "label": "MISC",
+            "text": "patrimoine.<br><br"
+          },
+          {
+            "start_char": 1630,
+            "end_char": 1657,
+            "label": "MISC",
+            "text": "éducatives.<br><br>Pourtant"
+          },
+          {
+            "start_char": 1890,
+            "end_char": 1915,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 2022,
+            "end_char": 2036,
+            "label": "PER",
+            "text": "Benjamin Lucas"
+          },
+          {
+            "start_char": 2075,
+            "end_char": 2087,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2242,
+            "end_char": 2253,
+            "label": "ORG",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2287,
+            "end_char": 2290,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2297,
+            "end_char": 2314,
+            "label": "PER",
+            "text": "Adrien Quatennens"
+          },
+          {
+            "start_char": 2352,
+            "end_char": 2355,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2396,
+            "end_char": 2399,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2416,
+            "end_char": 2420,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2469,
+            "end_char": 2471,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2582,
+            "end_char": 2594,
+            "label": "PER",
+            "text": "Mme Sarah El"
+          },
+          {
+            "start_char": 2627,
+            "end_char": 2631,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2680,
+            "end_char": 2682,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2782,
+            "end_char": 2790,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2968,
+            "end_char": 2980,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3094,
+            "end_char": 3102,
+            "label": "PER",
+            "text": "Vacances"
+          },
+          {
+            "start_char": 3420,
+            "end_char": 3435,
+            "label": "MISC",
+            "text": "copains.<br><br"
+          },
+          {
+            "start_char": 3640,
+            "end_char": 3652,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3850,
+            "end_char": 3865,
+            "label": "MISC",
+            "text": "semaine.<br><br"
+          },
+          {
+            "start_char": 3923,
+            "end_char": 3931,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4064,
+            "end_char": 4089,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 4291,
+            "end_char": 4299,
+            "label": "PER",
+            "text": "Sarah El"
+          },
+          {
+            "start_char": 4332,
+            "end_char": 4336,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4349,
+            "end_char": 4386,
+            "label": "ORG",
+            "text": "Agence nationale des chèques vacances"
+          },
+          {
+            "start_char": 4499,
+            "end_char": 4515,
+            "label": "MISC",
+            "text": "copains.<br><br>"
+          },
+          {
+            "start_char": 4515,
+            "end_char": 4523,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 4862,
+            "end_char": 4864,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4893,
+            "end_char": 4896,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4937,
+            "end_char": 4948,
+            "label": "PER",
+            "text": "M. Benjamin"
+          },
+          {
+            "start_char": 4974,
+            "end_char": 4988,
+            "label": "PER",
+            "text": "Benjamin Lucas"
+          },
+          {
+            "start_char": 5113,
+            "end_char": 5125,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 5153,
+            "end_char": 5157,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5308,
+            "end_char": 5311,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 5354,
+            "end_char": 5356,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5461,
+            "end_char": 5469,
+            "label": "LOC",
+            "text": "Poitiers"
+          },
+          {
+            "start_char": 5533,
+            "end_char": 5549,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 5574,
+            "end_char": 5585,
+            "label": "ORG",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 5621,
+            "end_char": 5630,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 28,
+            "sentiment": "4 stars",
+            "score": 0.31107640266418457
+          },
+          {
+            "begin_char": 29,
+            "end_char": 58,
+            "sentiment": "1 star",
+            "score": 0.2664303779602051
+          },
+          {
+            "begin_char": 59,
+            "end_char": 93,
+            "sentiment": "4 stars",
+            "score": 0.2742326259613037
+          },
+          {
+            "begin_char": 94,
+            "end_char": 171,
+            "sentiment": "3 stars",
+            "score": 0.22444604337215424
+          },
+          {
+            "begin_char": 172,
+            "end_char": 195,
+            "sentiment": "4 stars",
+            "score": 0.316785603761673
+          },
+          {
+            "begin_char": 196,
+            "end_char": 227,
+            "sentiment": "5 stars",
+            "score": 0.5186827182769775
+          },
+          {
+            "begin_char": 228,
+            "end_char": 334,
+            "sentiment": "5 stars",
+            "score": 0.5990947484970093
+          },
+          {
+            "begin_char": 335,
+            "end_char": 710,
+            "sentiment": "5 stars",
+            "score": 0.6975570917129517
+          },
+          {
+            "begin_char": 710,
+            "end_char": 779,
+            "sentiment": "5 stars",
+            "score": 0.4191339910030365
+          },
+          {
+            "begin_char": 780,
+            "end_char": 975,
+            "sentiment": "5 stars",
+            "score": 0.22737155854701996
+          },
+          {
+            "begin_char": 976,
+            "end_char": 1506,
+            "sentiment": "5 stars",
+            "score": 0.7624965906143188
+          },
+          {
+            "begin_char": 1507,
+            "end_char": 1916,
+            "sentiment": "4 stars",
+            "score": 0.39186891913414
+          },
+          {
+            "begin_char": 1917,
+            "end_char": 1978,
+            "sentiment": "1 star",
+            "score": 0.3886440694332123
+          },
+          {
+            "begin_char": 1979,
+            "end_char": 2003,
+            "sentiment": "1 star",
+            "score": 0.6746494174003601
+          },
+          {
+            "begin_char": 2003,
+            "end_char": 2037,
+            "sentiment": "3 stars",
+            "score": 0.2645840346813202
+          },
+          {
+            "begin_char": 2038,
+            "end_char": 2196,
+            "sentiment": "5 stars",
+            "score": 0.4434932768344879
+          },
+          {
+            "begin_char": 2197,
+            "end_char": 2291,
+            "sentiment": "4 stars",
+            "score": 0.3572981357574463
+          },
+          {
+            "begin_char": 2292,
+            "end_char": 2370,
+            "sentiment": "4 stars",
+            "score": 0.34077513217926025
+          },
+          {
+            "begin_char": 2371,
+            "end_char": 2777,
+            "sentiment": "5 stars",
+            "score": 0.3455869257450104
+          },
+          {
+            "begin_char": 2778,
+            "end_char": 2782,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2782,
+            "end_char": 2900,
+            "sentiment": "5 stars",
+            "score": 0.5074549317359924
+          },
+          {
+            "begin_char": 2901,
+            "end_char": 3031,
+            "sentiment": "5 stars",
+            "score": 0.29559987783432007
+          },
+          {
+            "begin_char": 3032,
+            "end_char": 3176,
+            "sentiment": "5 stars",
+            "score": 0.37080129981040955
+          },
+          {
+            "begin_char": 3177,
+            "end_char": 3436,
+            "sentiment": "5 stars",
+            "score": 0.473802775144577
+          },
+          {
+            "begin_char": 3436,
+            "end_char": 3438,
+            "sentiment": "5 stars",
+            "score": 0.31276801228523254
+          },
+          {
+            "begin_char": 3438,
+            "end_char": 3439,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 3439,
+            "end_char": 3620,
+            "sentiment": "5 stars",
+            "score": 0.6281746625900269
+          },
+          {
+            "begin_char": 3621,
+            "end_char": 3866,
+            "sentiment": "5 stars",
+            "score": 0.3952573239803314
+          },
+          {
+            "begin_char": 3866,
+            "end_char": 4090,
+            "sentiment": "4 stars",
+            "score": 0.37198513746261597
+          },
+          {
+            "begin_char": 4091,
+            "end_char": 4143,
+            "sentiment": "1 star",
+            "score": 0.4891899526119232
+          },
+          {
+            "begin_char": 4143,
+            "end_char": 4186,
+            "sentiment": "3 stars",
+            "score": 0.2929037809371948
+          },
+          {
+            "begin_char": 4187,
+            "end_char": 4337,
+            "sentiment": "1 star",
+            "score": 0.369284063577652
+          },
+          {
+            "begin_char": 4338,
+            "end_char": 4515,
+            "sentiment": "3 stars",
+            "score": 0.31718483567237854
+          },
+          {
+            "begin_char": 4515,
+            "end_char": 4808,
+            "sentiment": "5 stars",
+            "score": 0.7201700806617737
+          },
+          {
+            "begin_char": 4809,
+            "end_char": 4911,
+            "sentiment": "3 stars",
+            "score": 0.31954196095466614
+          },
+          {
+            "begin_char": 4912,
+            "end_char": 4989,
+            "sentiment": "3 stars",
+            "score": 0.22444604337215424
+          },
+          {
+            "begin_char": 4990,
+            "end_char": 4999,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 4999,
+            "end_char": 5204,
+            "sentiment": "4 stars",
+            "score": 0.34606778621673584
+          },
+          {
+            "begin_char": 5205,
+            "end_char": 5257,
+            "sentiment": "1 star",
+            "score": 0.46793442964553833
+          },
+          {
+            "begin_char": 5258,
+            "end_char": 5312,
+            "sentiment": "4 stars",
+            "score": 0.3033585250377655
+          },
+          {
+            "begin_char": 5313,
+            "end_char": 5314,
+            "sentiment": "4 stars",
+            "score": 0.2636305093765259
+          },
+          {
+            "begin_char": 5315,
+            "end_char": 5327,
+            "sentiment": "5 stars",
+            "score": 0.4309922754764557
+          },
+          {
+            "begin_char": 5328,
+            "end_char": 5368,
+            "sentiment": "3 stars",
+            "score": 0.3723375201225281
+          },
+          {
+            "begin_char": 5368,
+            "end_char": 5369,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 5370,
+            "end_char": 5533,
+            "sentiment": "3 stars",
+            "score": 0.2453799843788147
+          },
+          {
+            "begin_char": 5533,
+            "end_char": 5643,
+            "sentiment": "4 stars",
+            "score": 0.37139448523521423
+          },
+          {
+            "begin_char": 5644,
+            "end_char": 5647,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-27",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-27",
+        "pageJO": "3093",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,773 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG180",
+    "identifiant": {
+      "numero": "180",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "industrie",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PRODUCTION DE VOITURES ÉLECTRIQUES SUR LE SITE DE STELLANTIS À MULHOUSE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA722284",
+        "mandatRef": "PM797238"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Économie, finances, souveraineté industrielle et numérique",
+      "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Économie, finances, souveraineté industrielle et numérique",
+          "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PRODUCTION DE VOITURES ÉLECTRIQUES SUR LE SITE DE STELLANTIS À MULHOUSE <a name=PG15></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Bruno Fuchs.<br><br><strong>M. Bruno Fuchs. </strong>Faire de la France le leader mondial de la voiture propre et durable, voici un objectif à la mesure de notre ambition industrielle retrouvée. <i>(M. Erwan Balanant applaudit.)</i><br><br><strong>Des députés du groupe RN .</strong> Ah !<br><br><strong>M. Bruno Fuchs. </strong>Hier, par la voix de son directeur général, le groupe Stellantis a annoncé que six nouveaux modèles électriques seront bientôt produits en France.<br><br><strong>Plusieurs députés du groupe RN .</strong> Sans électricité !<br><br><strong>M. Bruno Fuchs. </strong>Trois le seront à Mulhouse, dans ma circonscription. Je tiens donc à vous faire part de notre grande fierté, que partage toute l'Alsace.<br><br>Pourtant, ces modèles avaient toutes les chances d'être produits à l'étranger. Aussi, je voudrais remercier le Président de la République et vous remercier vous-même, monsieur le ministre de l'économie et des finances. Lorsque je vous ai exposé en mars 2021 ce risque de délocalisation, vous avez su prendre le temps et convaincre Carlos Tavares de renoncer à son projet de délocalisation pour produire en France.<br><br>Au-delà de la fierté locale, c'est une très grande nouvelle pour la France. Nous serons à la hauteur du défi climatique et au cœur des mutations de l'automobile. L'objectif du Gouvernement est clair : une filière électrique 100 % française, à laquelle seront consacrés 8 milliards d'euros d'investissements et de prêts publics, de manière à produire 2 millions de voitures en 2030.<br><br>Pour y arriver, nous devrons relever un grand nombre de défis : sur le plan des infrastructures, il faudra déployer massivement des bornes de recharge. Nous devrons être capables de construire des batteries, qui représentent 40 % de la valeur d'un véhicule. Il nous faudra aussi les recycler, résoudre la question du prix des véhicules pour qu'ils soient accessibles à tous les ménages, et dominer la concurrence internationale face aux constructeurs chinois et américains.<br><br>À tous ces défis, nous devons trouver des réponses européennes. <i>(« Ah ! » sur les bancs du groupe RN.) </i>Ainsi, nous ne pouvons pas accepter plus longtemps qu'un constructeur chinois qui importe des automobiles en Europe soit soumis à des droits de douane de 10 %, tandis qu'un Européen qui exporte en Chine paie 25 % de droits.<br><br>Monsieur le ministre, quelles politiques publiques mènerez-vous pour faire de la France le leader mondial de la voiture propre et durable ? Quelles sont vos intentions pour donner une portée européenne à cette politique de reconquête industrielle ? <i>(Applaudissements et sur les bancs des groupes RE, Dem et HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br><strong>M. Bruno Le Maire,</strong><i> ministre de l’économie, des finances et de la souveraineté industrielle et numérique. </i>Toutes ces annonces de relocalisation sont autant de vraies victoires industrielles pour la France.<br><br><strong>Mme Laure Lavalette.</strong> Faut arrêter !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre. </i>Vous avez cité à juste titre les sites de Mulhouse, où 5 000 emplois industriels ont été préservés, et où ont été relocalisées la 308 électrique, la 308 break électrique, et la 408 break électrique. Vous auriez pu citer également la 5008 et la 5008 break électrique relocalisées à Sochaux, le Trafic à l'usine Renault de Sandouville, la R4 et la R5, les projets d'investissement de Renault à Cléon, ou encore la création de la première usine de batteries électriques totalement indépendante et souveraine à Douvrin, dans le Nord. Ce sont autant de succès industriels pour la majorité et pour l'industrie automobile française. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br>Nous poursuivrons dans cette direction de façon à accélérer le mouvement de relocalisation industrielle et à devenir les leaders dans le domaine des voitures électriques.<br><br>L'État prendra toutes ses responsabilités. Vous connaissez notre politique industrielle, qui repose sur la formation, la qualification, la baisse des impôts de production, le soutien aux investissements et à l'innovation. Cette politique a permis, pour la première fois, d'inverser la tendance à la délocalisation. Elle donne des résultats ; elle est efficace ; nous la poursuivrons.<br><br>Nous voulons que les constructeurs jouent aussi le jeu en relocalisant davantage. Je vous ai communiqué les premières séries, mais je souhaite que la production des véhicules du segment B, comme la 208 électrique, c'est-à-dire de petits modèles, revienne de l'étranger en France, pour la première fois depuis des décennies. En effet, il n'y a aucune raison pour que les petits modèles ne soient pas produits sur notre territoire. J'attends donc de la solidarité de la part des constructeurs.<br><br>Enfin, face aux décisions de la Chine de Xi Jinping et des États-Unis de Joe Biden, nous souhaitons que l'Union européenne soit beaucoup plus offensive dans les défenses des intérêts industriels européens, en particulier de l'industrie automobile. <i>(Applaudissements sur quelques bancs des groupes RE et DEM.)</i><br><br><strong>M. Sylvain Maillard.</strong> Très bien !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 33,
+            "label": "ORG",
+            "text": "PRODUCTION"
+          },
+          {
+            "start_char": 37,
+            "end_char": 57,
+            "label": "MISC",
+            "text": "VOITURES ÉLECTRIQUES"
+          },
+          {
+            "start_char": 65,
+            "end_char": 85,
+            "label": "MISC",
+            "text": "SITE DE STELLANTIS À"
+          },
+          {
+            "start_char": 86,
+            "end_char": 94,
+            "label": "LOC",
+            "text": "MULHOUSE"
+          },
+          {
+            "start_char": 129,
+            "end_char": 132,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 173,
+            "end_char": 181,
+            "label": "PER",
+            "text": "M. Bruno"
+          },
+          {
+            "start_char": 207,
+            "end_char": 218,
+            "label": "PER",
+            "text": "Bruno Fuchs"
+          },
+          {
+            "start_char": 229,
+            "end_char": 234,
+            "label": "LOC",
+            "text": "Faire"
+          },
+          {
+            "start_char": 378,
+            "end_char": 392,
+            "label": "PER",
+            "text": "Erwan Balanant"
+          },
+          {
+            "start_char": 446,
+            "end_char": 448,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 483,
+            "end_char": 494,
+            "label": "PER",
+            "text": "Bruno Fuchs"
+          },
+          {
+            "start_char": 505,
+            "end_char": 509,
+            "label": "LOC",
+            "text": "Hier"
+          },
+          {
+            "start_char": 559,
+            "end_char": 569,
+            "label": "ORG",
+            "text": "Stellantis"
+          },
+          {
+            "start_char": 644,
+            "end_char": 666,
+            "label": "LOC",
+            "text": "France.<br><br><strong"
+          },
+          {
+            "start_char": 695,
+            "end_char": 697,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 746,
+            "end_char": 757,
+            "label": "PER",
+            "text": "Bruno Fuchs"
+          },
+          {
+            "start_char": 786,
+            "end_char": 794,
+            "label": "LOC",
+            "text": "Mulhouse"
+          },
+          {
+            "start_char": 1023,
+            "end_char": 1049,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1243,
+            "end_char": 1257,
+            "label": "PER",
+            "text": "Carlos Tavares"
+          },
+          {
+            "start_char": 1318,
+            "end_char": 1332,
+            "label": "LOC",
+            "text": "France.<br><br"
+          },
+          {
+            "start_char": 1398,
+            "end_char": 1407,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1509,
+            "end_char": 1521,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1778,
+            "end_char": 1783,
+            "label": "PER",
+            "text": "défis"
+          },
+          {
+            "start_char": 2184,
+            "end_char": 2202,
+            "label": "MISC",
+            "text": "américains.<br><br"
+          },
+          {
+            "start_char": 2273,
+            "end_char": 2277,
+            "label": "MISC",
+            "text": "Ah !"
+          },
+          {
+            "start_char": 2304,
+            "end_char": 2306,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 2422,
+            "end_char": 2428,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2486,
+            "end_char": 2494,
+            "label": "LOC",
+            "text": "Européen"
+          },
+          {
+            "start_char": 2510,
+            "end_char": 2515,
+            "label": "LOC",
+            "text": "Chine"
+          },
+          {
+            "start_char": 2529,
+            "end_char": 2552,
+            "label": "MISC",
+            "text": "droits.<br><br>Monsieur"
+          },
+          {
+            "start_char": 2622,
+            "end_char": 2631,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2684,
+            "end_char": 2691,
+            "label": "LOC",
+            "text": "Quelles"
+          },
+          {
+            "start_char": 2794,
+            "end_char": 2813,
+            "label": "MISC",
+            "text": "i>(Applaudissements"
+          },
+          {
+            "start_char": 2843,
+            "end_char": 2845,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 2847,
+            "end_char": 2850,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 2854,
+            "end_char": 2878,
+            "label": "PER",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2879,
+            "end_char": 2882,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2923,
+            "end_char": 2925,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2941,
+            "end_char": 2943,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3033,
+            "end_char": 3038,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3073,
+            "end_char": 3075,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3243,
+            "end_char": 3265,
+            "label": "LOC",
+            "text": "France.<br><br><strong"
+          },
+          {
+            "start_char": 3266,
+            "end_char": 3294,
+            "label": "PER",
+            "text": "Mme Laure Lavalette.</strong"
+          },
+          {
+            "start_char": 3296,
+            "end_char": 3300,
+            "label": "LOC",
+            "text": "Faut"
+          },
+          {
+            "start_char": 3329,
+            "end_char": 3334,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3413,
+            "end_char": 3421,
+            "label": "LOC",
+            "text": "Mulhouse"
+          },
+          {
+            "start_char": 3652,
+            "end_char": 3659,
+            "label": "LOC",
+            "text": "Sochaux"
+          },
+          {
+            "start_char": 3664,
+            "end_char": 3670,
+            "label": "LOC",
+            "text": "Trafic"
+          },
+          {
+            "start_char": 3681,
+            "end_char": 3703,
+            "label": "ORG",
+            "text": "Renault de Sandouville"
+          },
+          {
+            "start_char": 3708,
+            "end_char": 3710,
+            "label": "LOC",
+            "text": "R4"
+          },
+          {
+            "start_char": 3717,
+            "end_char": 3719,
+            "label": "MISC",
+            "text": "R5"
+          },
+          {
+            "start_char": 3753,
+            "end_char": 3760,
+            "label": "ORG",
+            "text": "Renault"
+          },
+          {
+            "start_char": 3763,
+            "end_char": 3768,
+            "label": "LOC",
+            "text": "Cléon"
+          },
+          {
+            "start_char": 3878,
+            "end_char": 3885,
+            "label": "LOC",
+            "text": "Douvrin"
+          },
+          {
+            "start_char": 3895,
+            "end_char": 3899,
+            "label": "LOC",
+            "text": "Nord"
+          },
+          {
+            "start_char": 4047,
+            "end_char": 4062,
+            "label": "ORG",
+            "text": "RE.)</i><br><br"
+          },
+          {
+            "start_char": 4221,
+            "end_char": 4240,
+            "label": "MISC",
+            "text": "électriques.<br><br"
+          },
+          {
+            "start_char": 4243,
+            "end_char": 4247,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4611,
+            "end_char": 4631,
+            "label": "MISC",
+            "text": "poursuivrons.<br><br"
+          },
+          {
+            "start_char": 4818,
+            "end_char": 4819,
+            "label": "LOC",
+            "text": "B"
+          },
+          {
+            "start_char": 4904,
+            "end_char": 4910,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 5109,
+            "end_char": 5130,
+            "label": "MISC",
+            "text": "constructeurs.<br><br"
+          },
+          {
+            "start_char": 5160,
+            "end_char": 5168,
+            "label": "LOC",
+            "text": "la Chine"
+          },
+          {
+            "start_char": 5172,
+            "end_char": 5182,
+            "label": "PER",
+            "text": "Xi Jinping"
+          },
+          {
+            "start_char": 5190,
+            "end_char": 5200,
+            "label": "LOC",
+            "text": "États-Unis"
+          },
+          {
+            "start_char": 5204,
+            "end_char": 5213,
+            "label": "PER",
+            "text": "Joe Biden"
+          },
+          {
+            "start_char": 5237,
+            "end_char": 5253,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 5437,
+            "end_char": 5496,
+            "label": "MISC",
+            "text": "DEM.)</i><br><br><strong>M. Sylvain Maillard.</strong> Très"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 147,
+            "sentiment": "3 stars",
+            "score": 0.282882422208786
+          },
+          {
+            "begin_char": 148,
+            "end_char": 219,
+            "sentiment": "3 stars",
+            "score": 0.26111915707588196
+          },
+          {
+            "begin_char": 220,
+            "end_char": 370,
+            "sentiment": "5 stars",
+            "score": 0.699927806854248
+          },
+          {
+            "begin_char": 371,
+            "end_char": 459,
+            "sentiment": "3 stars",
+            "score": 0.33418574929237366
+          },
+          {
+            "begin_char": 460,
+            "end_char": 464,
+            "sentiment": "5 stars",
+            "score": 0.32027533650398254
+          },
+          {
+            "begin_char": 464,
+            "end_char": 495,
+            "sentiment": "3 stars",
+            "score": 0.29393330216407776
+          },
+          {
+            "begin_char": 496,
+            "end_char": 727,
+            "sentiment": "5 stars",
+            "score": 0.3347964584827423
+          },
+          {
+            "begin_char": 727,
+            "end_char": 758,
+            "sentiment": "3 stars",
+            "score": 0.29393330216407776
+          },
+          {
+            "begin_char": 759,
+            "end_char": 820,
+            "sentiment": "4 stars",
+            "score": 0.30473777651786804
+          },
+          {
+            "begin_char": 821,
+            "end_char": 990,
+            "sentiment": "5 stars",
+            "score": 0.6575448513031006
+          },
+          {
+            "begin_char": 991,
+            "end_char": 1130,
+            "sentiment": "5 stars",
+            "score": 0.5565750002861023
+          },
+          {
+            "begin_char": 1131,
+            "end_char": 1169,
+            "sentiment": "1 star",
+            "score": 0.43361490964889526
+          },
+          {
+            "begin_char": 1170,
+            "end_char": 1197,
+            "sentiment": "3 stars",
+            "score": 0.2888666093349457
+          },
+          {
+            "begin_char": 1197,
+            "end_char": 1408,
+            "sentiment": "5 stars",
+            "score": 0.7375555038452148
+          },
+          {
+            "begin_char": 1409,
+            "end_char": 1494,
+            "sentiment": "5 stars",
+            "score": 0.6702893376350403
+          },
+          {
+            "begin_char": 1495,
+            "end_char": 1873,
+            "sentiment": "5 stars",
+            "score": 0.5496944189071655
+          },
+          {
+            "begin_char": 1874,
+            "end_char": 1979,
+            "sentiment": "5 stars",
+            "score": 0.34929051995277405
+          },
+          {
+            "begin_char": 1980,
+            "end_char": 2266,
+            "sentiment": "5 stars",
+            "score": 0.5100129246711731
+          },
+          {
+            "begin_char": 2267,
+            "end_char": 2308,
+            "sentiment": "3 stars",
+            "score": 0.25529056787490845
+          },
+          {
+            "begin_char": 2309,
+            "end_char": 2313,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2313,
+            "end_char": 2683,
+            "sentiment": "5 stars",
+            "score": 0.45250028371810913
+          },
+          {
+            "begin_char": 2684,
+            "end_char": 2792,
+            "sentiment": "4 stars",
+            "score": 0.26785388588905334
+          },
+          {
+            "begin_char": 2793,
+            "end_char": 2897,
+            "sentiment": "4 stars",
+            "score": 0.3248066306114197
+          },
+          {
+            "begin_char": 2898,
+            "end_char": 3060,
+            "sentiment": "4 stars",
+            "score": 0.3296317458152771
+          },
+          {
+            "begin_char": 3061,
+            "end_char": 3146,
+            "sentiment": "5 stars",
+            "score": 0.3489697575569153
+          },
+          {
+            "begin_char": 3147,
+            "end_char": 3310,
+            "sentiment": "1 star",
+            "score": 0.39951714873313904
+          },
+          {
+            "begin_char": 3310,
+            "end_char": 3366,
+            "sentiment": "4 stars",
+            "score": 0.2820071280002594
+          },
+          {
+            "begin_char": 3367,
+            "end_char": 3569,
+            "sentiment": "5 stars",
+            "score": 0.3782191872596741
+          },
+          {
+            "begin_char": 3570,
+            "end_char": 3900,
+            "sentiment": "5 stars",
+            "score": 0.5118225812911987
+          },
+          {
+            "begin_char": 3901,
+            "end_char": 3996,
+            "sentiment": "5 stars",
+            "score": 0.5580961108207703
+          },
+          {
+            "begin_char": 3997,
+            "end_char": 4063,
+            "sentiment": "3 stars",
+            "score": 0.326738178730011
+          },
+          {
+            "begin_char": 4063,
+            "end_char": 4241,
+            "sentiment": "5 stars",
+            "score": 0.6330204010009766
+          },
+          {
+            "begin_char": 4241,
+            "end_char": 4283,
+            "sentiment": "4 stars",
+            "score": 0.38910117745399475
+          },
+          {
+            "begin_char": 4284,
+            "end_char": 4462,
+            "sentiment": "5 stars",
+            "score": 0.5026292204856873
+          },
+          {
+            "begin_char": 4463,
+            "end_char": 4555,
+            "sentiment": "5 stars",
+            "score": 0.4194028973579407
+          },
+          {
+            "begin_char": 4556,
+            "end_char": 4582,
+            "sentiment": "4 stars",
+            "score": 0.4166472256183624
+          },
+          {
+            "begin_char": 4583,
+            "end_char": 4602,
+            "sentiment": "4 stars",
+            "score": 0.5062214732170105
+          },
+          {
+            "begin_char": 4603,
+            "end_char": 4632,
+            "sentiment": "4 stars",
+            "score": 0.2981729507446289
+          },
+          {
+            "begin_char": 4632,
+            "end_char": 4713,
+            "sentiment": "5 stars",
+            "score": 0.4046775698661804
+          },
+          {
+            "begin_char": 4714,
+            "end_char": 4955,
+            "sentiment": "5 stars",
+            "score": 0.3935399651527405
+          },
+          {
+            "begin_char": 4956,
+            "end_char": 5061,
+            "sentiment": "1 star",
+            "score": 0.49756619334220886
+          },
+          {
+            "begin_char": 5062,
+            "end_char": 5378,
+            "sentiment": "5 stars",
+            "score": 0.517966628074646
+          },
+          {
+            "begin_char": 5379,
+            "end_char": 5503,
+            "sentiment": "4 stars",
+            "score": 0.47280293703079224
+          },
+          {
+            "begin_char": 5503,
+            "end_char": 5511,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-20",
+        "pageJO": "4313",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

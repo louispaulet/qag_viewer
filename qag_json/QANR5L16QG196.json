@@ -1,0 +1,617 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG196",
+    "identifiant": {
+      "numero": "196",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "établissements de santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "TENSIONS DANS LES SERVICES HOSPITALIERS PÉDIATRIQUES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA605782",
+        "mandatRef": "PM796350"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Première ministre",
+      "developpe": "Première ministre"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Première ministre",
+          "developpe": "Première ministre"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> TENSIONS DANS LES SERVICES HOSPITALIERS PÉDIATRIQUES <a name=PG3></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Laurent Marcangeli.<br><br><strong>M. Laurent Marcangeli. </strong>Comme notre collègue Jourdan, je vais me faire le relais de l'inquiétude de nos concitoyens, des professionnels de santé et des jeunes parents, alors que nos services de pédiatrie traversent une crise depuis quelques jours.<br><br>La situation est tendue, ce qui nous rappelle ce que nous avons vécu l'été dernier. Les seuils d'alerte épidémique de la bronchiolite chez les moins de 2 ans ont été dépassés précocement dans pratiquement toutes les régions. Le nombre d'enfants hospitalisés a bondi de 50 % en une semaine. La situation a atteint son paroxysme en Île-de-France où treize enfants ont dû être transférés hors de la région faute de lits disponibles, avec tout ce que cela implique pour les familles.<br><br>Dans une lettre ouverte adressée au Président de la République vendredi dernier, 4 000 professionnels de la pédiatrie nous ont alerté sur la situation de saturation et le débordement des services dans un hôpital public encore touché de plein fouet par la crise sanitaire liée à la covid-19. Comme nous le savons, des lits restent fermés faute de blouses blanches et, tous les ans, cette crise récurrente nous rappelle la particulière fragilité du secteur de la pédiatrie.<br><br>Le Gouvernement a aussitôt réagi pour répondre à l'urgence et traverser ce pic épidémique, mais aussi pour venir au secours de notre médecine pédiatrique sur le long terme.<br><br>Le groupe Horizons et apparentés salue cette réponse rapide. Les 150 millions d'euros débloqués vont permettre l'arrivée de personnels en renfort, afin de passer la période hivernale et de franchir ainsi une première étape nécessaire pour sortir de la crise. La médecine de ville sera également mobilisée et viendra prêter main-forte à l'hôpital, afin que tous les enfants puissent être pris en charge.<br><br>Notre groupe réaffirme sa volonté de garantir le modèle de l'hôpital public auquel les Français sont attachés et d'assurer à nos enfants des soins de qualité pour tous. À titre personnel, je me réjouis de l'ouverture prochaine d'un nouvel hôpital dans ma ville d'Ajaccio.<br><br>Madame la Première ministre, pourriez-vous nous informer sur l'évolution de l'épidémie et nous dire si d'autres transferts sont à prévoir ? Pourriez-vous nous apporter des précisions sur la manière dont sera répartie cette enveloppe de 150 millions d'euros, notamment en faveur des acteurs du secteur pédiatrique ? <i>(Applaudissements sur les bancs du groupe HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la Première ministre.<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre. </i>Comme vous l'avez souligné, l'épidémie de bronchiolite s'est déclarée plus tôt que d'habitude, et elle atteint des niveaux exceptionnels pour un mois d'octobre. Si la situation varie selon les régions, elle est particulièrement critique en Île-de-France.<br><br>Une fois de plus, cette épidémie met notre hôpital sous tension, et je veux me joindre à vous pour rendre hommage à nos soignants qui sont à nouveau très mobilisés pour prendre en charge les patients. <i>(Applaudissements sur les bancs des groupes RE et HOR, et sur plusieurs bancs des groupes Dem et SOC.)</i> Je pense aussi aux familles inquiètes pour la prise en charge de leur enfant.<br><br>Monsieur le président Marcangeli, mon gouvernement a réagi et pris les mesures qui s'imposent. Depuis plusieurs semaines, François Braun, le ministre de la santé, rencontre les représentants de la pédiatrie. La semaine dernière encore, il a travaillé avec eux pour trouver des réponses à court terme.<br><br>Nous avons débloqué une enveloppe exceptionnelle de 150 millions d'euros pour aider et soutenir les services en tension, notamment les services pédiatriques. Cette enveloppe sera mobilisée en fonction des spécialités et des territoires. Elle doit permettre de débloquer des moyens afin de faire face aux surcharges, que ce soit en pédiatrie ou aux urgences.<br><br>Nous avons aussi prolongé l'essentiel des mesures du plan d'urgence de cet été. Nous voulons en particulier intensifier les coopérations entre l'hôpital et la médecine de ville, pour que les enfants puissent avoir accès plus facilement à un médecin généraliste ou à un pédiatre. À mon tour, j'invite les familles à appeler le 15 avant de se rendre aux urgences ; c'est l'assurance d'être bien conseillé et orienté. Enfin, nous avons lancé une campagne de prévention pour sensibiliser aux bons gestes permettant de limiter la propagation de l'épidémie de bronchiolite.<br><br>Au-delà des mesures d'urgence, mon gouvernement travaille pour répondre aux défis structurels que connaît la pédiatrie. C'est le sens des assises de la pédiatrie que nous voulons tenir au printemps prochain. Toutes les questions seront abordées collectivement pour penser l'avenir de la discipline, assurer l'attractivité des métiers et prendre les décisions qui s'imposent.<br><br>Cela étant, monsieur le président Marcangeli, votre question fait écho à une préoccupation légitime et plus générale de nos soignants concernant leurs conditions de travail et des Français concernant leur santé.<br><br>Nous leur devons des réponses, des actes et des résultats.<br><br>À l'heure où nous examinons un projet de loi de financement de la sécurité sociale qui prévoit une hausse des moyens de 43 milliards d'euros par rapport à 2019, c'est-à-dire avant l'épidémie de covid, et dont l'adoption permettra d'améliorer l'attractivité des métiers et de financer les revalorisations salariales ainsi que les investissements prévus dans le cadre du Ségur de la santé ; à l'heure où des moyens exceptionnels sont proposés, le Gouvernement et - je n'en doute pas - la majorité sont prêts à la discussion. Alors agissons ensemble pour la santé des Français. <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 31,
+            "label": "MISC",
+            "text": "TENSIONS"
+          },
+          {
+            "start_char": 63,
+            "end_char": 75,
+            "label": "MISC",
+            "text": "PÉDIATRIQUES"
+          },
+          {
+            "start_char": 84,
+            "end_char": 91,
+            "label": "LOC",
+            "text": "PG3></a"
+          },
+          {
+            "start_char": 109,
+            "end_char": 112,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 153,
+            "end_char": 190,
+            "label": "PER",
+            "text": "M. Laurent Marcangeli.<br><br><strong"
+          },
+          {
+            "start_char": 194,
+            "end_char": 212,
+            "label": "PER",
+            "text": "Laurent Marcangeli"
+          },
+          {
+            "start_char": 229,
+            "end_char": 251,
+            "label": "LOC",
+            "text": "notre collègue Jourdan"
+          },
+          {
+            "start_char": 440,
+            "end_char": 453,
+            "label": "MISC",
+            "text": "jours.<br><br"
+          },
+          {
+            "start_char": 784,
+            "end_char": 797,
+            "label": "LOC",
+            "text": "Île-de-France"
+          },
+          {
+            "start_char": 924,
+            "end_char": 940,
+            "label": "MISC",
+            "text": "familles.<br><br"
+          },
+          {
+            "start_char": 977,
+            "end_char": 1003,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1402,
+            "end_char": 1435,
+            "label": "MISC",
+            "text": "pédiatrie.<br><br>Le Gouvernement"
+          },
+          {
+            "start_char": 1586,
+            "end_char": 1599,
+            "label": "MISC",
+            "text": "terme.<br><br"
+          },
+          {
+            "start_char": 1610,
+            "end_char": 1618,
+            "label": "LOC",
+            "text": "Horizons"
+          },
+          {
+            "start_char": 1995,
+            "end_char": 2009,
+            "label": "MISC",
+            "text": "charge.<br><br"
+          },
+          {
+            "start_char": 2097,
+            "end_char": 2105,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2289,
+            "end_char": 2307,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 2649,
+            "end_char": 2673,
+            "label": "ORG",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2674,
+            "end_char": 2677,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2718,
+            "end_char": 2733,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 2759,
+            "end_char": 2772,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 3055,
+            "end_char": 3076,
+            "label": "LOC",
+            "text": "Île-de-France.<br><br"
+          },
+          {
+            "start_char": 3325,
+            "end_char": 3327,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3331,
+            "end_char": 3334,
+            "label": "MISC",
+            "text": "HOR"
+          },
+          {
+            "start_char": 3371,
+            "end_char": 3374,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 3378,
+            "end_char": 3386,
+            "label": "ORG",
+            "text": "SOC.)</i"
+          },
+          {
+            "start_char": 3458,
+            "end_char": 3472,
+            "label": "MISC",
+            "text": "enfant.<br><br"
+          },
+          {
+            "start_char": 3473,
+            "end_char": 3481,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 3485,
+            "end_char": 3505,
+            "label": "PER",
+            "text": "président Marcangeli"
+          },
+          {
+            "start_char": 3595,
+            "end_char": 3609,
+            "label": "PER",
+            "text": "François Braun"
+          },
+          {
+            "start_char": 3767,
+            "end_char": 3780,
+            "label": "MISC",
+            "text": "terme.<br><br"
+          },
+          {
+            "start_char": 4129,
+            "end_char": 4145,
+            "label": "MISC",
+            "text": "urgences.<br><br"
+          },
+          {
+            "start_char": 4700,
+            "end_char": 4720,
+            "label": "MISC",
+            "text": "bronchiolite.<br><br"
+          },
+          {
+            "start_char": 5127,
+            "end_char": 5147,
+            "label": "PER",
+            "text": "président Marcangeli"
+          },
+          {
+            "start_char": 5283,
+            "end_char": 5291,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5370,
+            "end_char": 5387,
+            "label": "MISC",
+            "text": "résultats.<br><br"
+          },
+          {
+            "start_char": 5757,
+            "end_char": 5774,
+            "label": "ORG",
+            "text": "Ségur de la santé"
+          },
+          {
+            "start_char": 5833,
+            "end_char": 5845,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 5953,
+            "end_char": 5961,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 6010,
+            "end_char": 6012,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 6014,
+            "end_char": 6017,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 6021,
+            "end_char": 6033,
+            "label": "LOC",
+            "text": "HOR.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 127,
+            "sentiment": "3 stars",
+            "score": 0.36431190371513367
+          },
+          {
+            "begin_char": 128,
+            "end_char": 213,
+            "sentiment": "4 stars",
+            "score": 0.2579580247402191
+          },
+          {
+            "begin_char": 214,
+            "end_char": 454,
+            "sentiment": "5 stars",
+            "score": 0.4540822207927704
+          },
+          {
+            "begin_char": 454,
+            "end_char": 537,
+            "sentiment": "3 stars",
+            "score": 0.34186214208602905
+          },
+          {
+            "begin_char": 538,
+            "end_char": 678,
+            "sentiment": "4 stars",
+            "score": 0.2846265137195587
+          },
+          {
+            "begin_char": 679,
+            "end_char": 743,
+            "sentiment": "3 stars",
+            "score": 0.24989257752895355
+          },
+          {
+            "begin_char": 744,
+            "end_char": 1231,
+            "sentiment": "5 stars",
+            "score": 0.29335668683052063
+          },
+          {
+            "begin_char": 1232,
+            "end_char": 1600,
+            "sentiment": "5 stars",
+            "score": 0.5331094264984131
+          },
+          {
+            "begin_char": 1600,
+            "end_char": 1660,
+            "sentiment": "4 stars",
+            "score": 0.4122498035430908
+          },
+          {
+            "begin_char": 1661,
+            "end_char": 1858,
+            "sentiment": "4 stars",
+            "score": 0.410128116607666
+          },
+          {
+            "begin_char": 1859,
+            "end_char": 2010,
+            "sentiment": "4 stars",
+            "score": 0.3944309949874878
+          },
+          {
+            "begin_char": 2010,
+            "end_char": 2178,
+            "sentiment": "5 stars",
+            "score": 0.6287689805030823
+          },
+          {
+            "begin_char": 2179,
+            "end_char": 2289,
+            "sentiment": "5 stars",
+            "score": 0.45650818943977356
+          },
+          {
+            "begin_char": 2289,
+            "end_char": 2428,
+            "sentiment": "4 stars",
+            "score": 0.294002503156662
+          },
+          {
+            "begin_char": 2429,
+            "end_char": 2603,
+            "sentiment": "3 stars",
+            "score": 0.3737063705921173
+          },
+          {
+            "begin_char": 2604,
+            "end_char": 2692,
+            "sentiment": "4 stars",
+            "score": 0.3090986907482147
+          },
+          {
+            "begin_char": 2693,
+            "end_char": 2791,
+            "sentiment": "3 stars",
+            "score": 0.28298741579055786
+          },
+          {
+            "begin_char": 2792,
+            "end_char": 2810,
+            "sentiment": "4 stars",
+            "score": 0.3165116310119629
+          },
+          {
+            "begin_char": 2811,
+            "end_char": 2975,
+            "sentiment": "5 stars",
+            "score": 0.427045613527298
+          },
+          {
+            "begin_char": 2976,
+            "end_char": 3077,
+            "sentiment": "3 stars",
+            "score": 0.41098305583000183
+          },
+          {
+            "begin_char": 3077,
+            "end_char": 3277,
+            "sentiment": "5 stars",
+            "score": 0.7269940376281738
+          },
+          {
+            "begin_char": 3278,
+            "end_char": 3387,
+            "sentiment": "4 stars",
+            "score": 0.30972662568092346
+          },
+          {
+            "begin_char": 3388,
+            "end_char": 3473,
+            "sentiment": "5 stars",
+            "score": 0.4392317533493042
+          },
+          {
+            "begin_char": 3473,
+            "end_char": 3567,
+            "sentiment": "5 stars",
+            "score": 0.5449661612510681
+          },
+          {
+            "begin_char": 3568,
+            "end_char": 3680,
+            "sentiment": "4 stars",
+            "score": 0.34937140345573425
+          },
+          {
+            "begin_char": 3681,
+            "end_char": 3781,
+            "sentiment": "3 stars",
+            "score": 0.2664165198802948
+          },
+          {
+            "begin_char": 3781,
+            "end_char": 3938,
+            "sentiment": "5 stars",
+            "score": 0.4971082806587219
+          },
+          {
+            "begin_char": 3939,
+            "end_char": 4017,
+            "sentiment": "4 stars",
+            "score": 0.39709460735321045
+          },
+          {
+            "begin_char": 4018,
+            "end_char": 4146,
+            "sentiment": "4 stars",
+            "score": 0.4229535460472107
+          },
+          {
+            "begin_char": 4146,
+            "end_char": 4225,
+            "sentiment": "4 stars",
+            "score": 0.36271536350250244
+          },
+          {
+            "begin_char": 4226,
+            "end_char": 4424,
+            "sentiment": "5 stars",
+            "score": 0.5294530391693115
+          },
+          {
+            "begin_char": 4425,
+            "end_char": 4508,
+            "sentiment": "5 stars",
+            "score": 0.4353281557559967
+          },
+          {
+            "begin_char": 4509,
+            "end_char": 4560,
+            "sentiment": "4 stars",
+            "score": 0.44644469022750854
+          },
+          {
+            "begin_char": 4561,
+            "end_char": 4721,
+            "sentiment": "4 stars",
+            "score": 0.3920542597770691
+          },
+          {
+            "begin_char": 4721,
+            "end_char": 4723,
+            "sentiment": "5 stars",
+            "score": 0.31276801228523254
+          },
+          {
+            "begin_char": 4723,
+            "end_char": 4724,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 4724,
+            "end_char": 4840,
+            "sentiment": "5 stars",
+            "score": 0.4837817847728729
+          },
+          {
+            "begin_char": 4841,
+            "end_char": 4928,
+            "sentiment": "5 stars",
+            "score": 0.44983044266700745
+          },
+          {
+            "begin_char": 4929,
+            "end_char": 5322,
+            "sentiment": "5 stars",
+            "score": 0.541881799697876
+          },
+          {
+            "begin_char": 5322,
+            "end_char": 5776,
+            "sentiment": "5 stars",
+            "score": 0.5333127379417419
+          },
+          {
+            "begin_char": 5777,
+            "end_char": 5910,
+            "sentiment": "5 stars",
+            "score": 0.42072799801826477
+          },
+          {
+            "begin_char": 5911,
+            "end_char": 5962,
+            "sentiment": "5 stars",
+            "score": 0.5199689865112305
+          },
+          {
+            "begin_char": 5963,
+            "end_char": 6034,
+            "sentiment": "3 stars",
+            "score": 0.2984829246997833
+          },
+          {
+            "begin_char": 6035,
+            "end_char": 6038,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-26",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-26",
+        "pageJO": "4554",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,995 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG299",
+    "identifiant": {
+      "numero": "299",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "institutions sociales et médico sociales",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Situation des personnels des EHPAD"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794410",
+        "mandatRef": "PM796911"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Solidarités, autonomie et personnes handicapées",
+      "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Solidarités, autonomie et personnes handicapées",
+          "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION DES PERSONNELS DES EHPAD <a name=PG25></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Vincent Seitlinger.<br><br><strong>M. Vincent Seitlinger. </strong>Monsieur le ministre des solidarités, de l'autonomie et des personnes handicapées, depuis plusieurs mois maintenant, les Ehpad, et plus généralement l'ensemble des établissements médico-sociaux, sont dans une situation intenable.<br><br><strong>Mme Anne-Laure Blin.</strong> C'est vrai !<br><br><strong>Mme Emmanuelle Anthoine.</strong> Il a raison !<br><br><strong>M. Vincent Seitlinger. </strong>En plus des problèmes de recrutement déjà latents avant le covid, ces établissements souffrent de l'inflation et de la crise énergétique ; leurs dépenses ont explosé. Ils pourraient y faire face en ajustant leurs ressources par l'augmentation du prix de journée, mais ce tarif journalier n'augmente quasiment pas. Dans ce contexte, de nombreux établissements associatifs sont fortement fragilisés et enregistrent des déficits élevés.<br><br>Par ailleurs, plusieurs catégories de personnel sont toujours exclues du Ségur : certaines touchent depuis plusieurs mois la prime Ségur, d'autres non. Ce déséquilibre nourrit des tensions entre les salariés alors qu'un esprit de solidarité est nécessaire. Disons-le clairement : durant le covid, les personnels de ces établissements se sont montrés exemplaires ; ils n'ont jamais fait défaut alors qu'ils étaient en première ligne.<br><br><strong>M. Dino Cinieri.</strong> C'est vrai !<br><br><strong>M. Vincent Seitlinger. </strong>Dans ma circonscription, j'ai rencontré les salariés des Ehpad Les myosotis, Albert-Schweitzer et Sainte-Marie : ils sont déçus car ils ont le sentiment que leur dévouement n'est pas reconnu à sa juste valeur. Alors que notre pays a connu plusieurs scandales ces derniers mois dans des Ehpad privés, il est essentiel de soutenir très fortement les Ehpad associatifs. Dans ces circonstances, quelles mesures proposez-vous pour leur venir en aide ? Il y a urgence. <i>(Applaudissements sur les bancs du groupe LR.)</i><br><br><strong>M. Jean-Paul Lecoq.</strong> Réintégrez les soignants !<br><br><strong>Mme Anne-Laure Blin.</strong> À quand la loi sur le grand âge ?<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre des solidarités, de l'autonomie et des personnes handicapées.<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre des solidarités, de l'autonomie et des personnes handicapées. </i>Dès les premiers jours de mon action, j'ai souhaité apporter des réponses aux difficultés que vous évoquez et qui concernent de nombreux Ehpad.<br><br><strong>M. Pierre Cordier.</strong> Qu'a fait M. Véran ?<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre . </i>Je serai demain au congrès de la Fédération des établissements hospitaliers et d'aide à la personne privés non lucratifs (Fehap) pour discuter de ces sujets. Je rappelle qu'aucune majorité avant la nôtre n'avait autant fait en matière de revalorisation des salaires dans le secteur médico-social <i>(Vives exclamations sur les bancs des groupes LFI-NUPES, LR et SOC)</i> : 12 milliards d'euros pour l'année 2022, dont 3,2 milliards pour la branche autonomie. Ainsi, 700 000 professionnels ont bénéficié d'une augmentation de 183 euros nets mensuels. (Les exclamations se poursuivent sur les bancs du groupe LR.)<br><br><strong>M. Fabien Di Filippo.</strong> Aucune majorité n'a produit autant de dette et d'inflation ! Aucune majorité n'a produit autant de déception !<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre . </i>Je souligne aussi l'extension au secteur associatif de la revalorisation du point d'indice de la fonction publique, pour laquelle je me suis battu afin d'éviter le décrochage des rémunérations. <i>(Mêmes mouvements.)</i> J'entends néanmoins les attentes qui sont exprimées.<br><br><strong>Mme la présidente.</strong> S'il vous plaît, chers collègues.<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre . </i>Le Gouvernement poursuit un dialogue constant avec les professionnels.<br><br><strong>M. Dino Cinieri.</strong> Bonne lecture de fiche !<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre . </i>Toutefois, les décisions de revalorisation ont été prises dans le contexte de la crise sanitaire. Elles répondaient à une certaine logique et elles ont été déployées dans des périmètres sur lesquels il n'est pas prévu de revenir. Bien sûr, là où elles ont cours, les négociations salariales entre les employeurs et les employés doivent se poursuivre. Quant à moi, je considère que l'attractivité des métiers ne se limite pas aux enjeux de rémunération…<br><br><strong>Mme Anne-Laure Blin et plusieurs députés du groupe LR .</strong> C'est du blabla !<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre . </i>…et concerne aussi la qualité de vie au travail, les parcours professionnels et la formation, autant de sujets que nous aborderons dans le cadre du volet « bien vieillir » du Conseil national de la refondation (CNR). <i>(Mêmes mouvements.)</i><br><br><strong>M. Pierre Cordier.</strong> Il faudrait peut-être aller un peu sur le terrain !<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre . </i>En ce qui concerne le soutien aux structures en période d'inflation, je rappelle qu'un dialogue nourri a lieu avec les départements au sein du comité des financeurs pour que chacun puisse assumer ses responsabilités vis-à-vis des opérateurs.<br><br><strong>Mme Anne-Laure Blin.</strong> Techno ! Techno !<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre . </i>Le Gouvernement a pris ses responsabilités en procédant à une actualisation exceptionnelle de 440 millions d'euros des dotations du secteur médico-social dans le cadre du PLFSS - projet de loi de financement de la sécurité sociale -, pour tenir compte de l'inflation et de la revalorisation du point d'indice. Enfin, les structures associatives figurent dans le décret sur le bouclier tarifaire qui est paru hier. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>M. Fabien Di Filippo.</strong> Je crois que lui-même ne comprend pas ce qui est écrit.<br><br><strong>Mme Anne-Laure Blin.</strong> Aucun intérêt !<br><br><strong>M. Pierre Cordier.</strong> Véran, reviens !<br><br><strong>Mme la présidente. </strong>La parole est à M. Vincent Seitlinger.<br><br><strong>M. Vincent Seitlinger. </strong>Merci, monsieur le ministre, pour ces explications très claires <i>(Rires et applaudissements sur les bancs du groupe LR)</i> : on voit que vous connaissez aussi bien les Ehpad que les aides maternelles. (Applaudissements sur les bancs du groupe LR.)<br> <p>",
+        "entities": [
+          {
+            "start_char": 52,
+            "end_char": 57,
+            "label": "MISC",
+            "text": "EHPAD"
+          },
+          {
+            "start_char": 66,
+            "end_char": 74,
+            "label": "PER",
+            "text": "PG25></a"
+          },
+          {
+            "start_char": 92,
+            "end_char": 95,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 136,
+            "end_char": 138,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 139,
+            "end_char": 146,
+            "label": "PER",
+            "text": "Vincent"
+          },
+          {
+            "start_char": 177,
+            "end_char": 195,
+            "label": "PER",
+            "text": "Vincent Seitlinger"
+          },
+          {
+            "start_char": 206,
+            "end_char": 214,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 327,
+            "end_char": 332,
+            "label": "MISC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 451,
+            "end_char": 483,
+            "label": "PER",
+            "text": "Mme Anne-Laure Blin.</strong> C'"
+          },
+          {
+            "start_char": 509,
+            "end_char": 541,
+            "label": "PER",
+            "text": "Mme Emmanuelle Anthoine.</strong"
+          },
+          {
+            "start_char": 575,
+            "end_char": 593,
+            "label": "PER",
+            "text": "Vincent Seitlinger"
+          },
+          {
+            "start_char": 1030,
+            "end_char": 1044,
+            "label": "MISC",
+            "text": "élevés.<br><br"
+          },
+          {
+            "start_char": 1118,
+            "end_char": 1123,
+            "label": "ORG",
+            "text": "Ségur"
+          },
+          {
+            "start_char": 1176,
+            "end_char": 1181,
+            "label": "PER",
+            "text": "Ségur"
+          },
+          {
+            "start_char": 1496,
+            "end_char": 1517,
+            "label": "PER",
+            "text": "Dino Cinieri.</strong"
+          },
+          {
+            "start_char": 1550,
+            "end_char": 1568,
+            "label": "PER",
+            "text": "Vincent Seitlinger"
+          },
+          {
+            "start_char": 1636,
+            "end_char": 1641,
+            "label": "LOC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 1656,
+            "end_char": 1673,
+            "label": "PER",
+            "text": "Albert-Schweitzer"
+          },
+          {
+            "start_char": 1677,
+            "end_char": 1689,
+            "label": "LOC",
+            "text": "Sainte-Marie"
+          },
+          {
+            "start_char": 1865,
+            "end_char": 1870,
+            "label": "MISC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 1927,
+            "end_char": 1932,
+            "label": "MISC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 2087,
+            "end_char": 2110,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2114,
+            "end_char": 2139,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong>"
+          },
+          {
+            "start_char": 2140,
+            "end_char": 2150,
+            "label": "PER",
+            "text": "Réintégrez"
+          },
+          {
+            "start_char": 2182,
+            "end_char": 2196,
+            "label": "PER",
+            "text": "Mme Anne-Laure"
+          },
+          {
+            "start_char": 2261,
+            "end_char": 2264,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2305,
+            "end_char": 2307,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2397,
+            "end_char": 2415,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 2672,
+            "end_char": 2695,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 2707,
+            "end_char": 2715,
+            "label": "PER",
+            "text": "M. Véran"
+          },
+          {
+            "start_char": 2733,
+            "end_char": 2751,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 2819,
+            "end_char": 2871,
+            "label": "ORG",
+            "text": "Fédération des établissements hospitaliers et d'aide"
+          },
+          {
+            "start_char": 2908,
+            "end_char": 2913,
+            "label": "PER",
+            "text": "Fehap"
+          },
+          {
+            "start_char": 3131,
+            "end_char": 3140,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3142,
+            "end_char": 3144,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 3148,
+            "end_char": 3155,
+            "label": "LOC",
+            "text": "SOC)</i"
+          },
+          {
+            "start_char": 3393,
+            "end_char": 3412,
+            "label": "ORG",
+            "text": "LR.)<br><br><strong"
+          },
+          {
+            "start_char": 3413,
+            "end_char": 3422,
+            "label": "PER",
+            "text": "M. Fabien"
+          },
+          {
+            "start_char": 3423,
+            "end_char": 3443,
+            "label": "PER",
+            "text": "Di Filippo.</strong>"
+          },
+          {
+            "start_char": 3570,
+            "end_char": 3588,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 3818,
+            "end_char": 3826,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 3912,
+            "end_char": 3938,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 3989,
+            "end_char": 4007,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 4045,
+            "end_char": 4057,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4131,
+            "end_char": 4152,
+            "label": "PER",
+            "text": "Dino Cinieri.</strong"
+          },
+          {
+            "start_char": 4194,
+            "end_char": 4212,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 4715,
+            "end_char": 4734,
+            "label": "PER",
+            "text": "Mme Anne-Laure Blin"
+          },
+          {
+            "start_char": 4766,
+            "end_char": 4768,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 4813,
+            "end_char": 4831,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 5041,
+            "end_char": 5075,
+            "label": "ORG",
+            "text": "Conseil national de la refondation"
+          },
+          {
+            "start_char": 5077,
+            "end_char": 5080,
+            "label": "ORG",
+            "text": "CNR"
+          },
+          {
+            "start_char": 5084,
+            "end_char": 5092,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 5128,
+            "end_char": 5151,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 5220,
+            "end_char": 5238,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 5530,
+            "end_char": 5566,
+            "label": "PER",
+            "text": "Mme Anne-Laure Blin.</strong> Techno"
+          },
+          {
+            "start_char": 5569,
+            "end_char": 5575,
+            "label": "MISC",
+            "text": "Techno"
+          },
+          {
+            "start_char": 5593,
+            "end_char": 5611,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 5646,
+            "end_char": 5661,
+            "label": "LOC",
+            "text": "Le Gouvernement"
+          },
+          {
+            "start_char": 5817,
+            "end_char": 5822,
+            "label": "ORG",
+            "text": "PLFSS"
+          },
+          {
+            "start_char": 6110,
+            "end_char": 6133,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 6144,
+            "end_char": 6163,
+            "label": "PER",
+            "text": "Di Filippo.</strong"
+          },
+          {
+            "start_char": 6236,
+            "end_char": 6265,
+            "label": "PER",
+            "text": "Mme Anne-Laure Blin.</strong>"
+          },
+          {
+            "start_char": 6300,
+            "end_char": 6330,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong> Véran"
+          },
+          {
+            "start_char": 6357,
+            "end_char": 6360,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 6401,
+            "end_char": 6403,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 6404,
+            "end_char": 6411,
+            "label": "PER",
+            "text": "Vincent"
+          },
+          {
+            "start_char": 6442,
+            "end_char": 6460,
+            "label": "PER",
+            "text": "Vincent Seitlinger"
+          },
+          {
+            "start_char": 6471,
+            "end_char": 6476,
+            "label": "LOC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 6589,
+            "end_char": 6595,
+            "label": "ORG",
+            "text": "LR)</i"
+          },
+          {
+            "start_char": 6642,
+            "end_char": 6647,
+            "label": "MISC",
+            "text": "Ehpad"
+          },
+          {
+            "start_char": 6676,
+            "end_char": 6692,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 6717,
+            "end_char": 6724,
+            "label": "ORG",
+            "text": "LR.)<br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 47,
+            "sentiment": "3 stars",
+            "score": 0.2886902987957001
+          },
+          {
+            "begin_char": 48,
+            "end_char": 110,
+            "sentiment": "3 stars",
+            "score": 0.2910889685153961
+          },
+          {
+            "begin_char": 111,
+            "end_char": 196,
+            "sentiment": "3 stars",
+            "score": 0.25643667578697205
+          },
+          {
+            "begin_char": 197,
+            "end_char": 206,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 206,
+            "end_char": 493,
+            "sentiment": "5 stars",
+            "score": 0.36944812536239624
+          },
+          {
+            "begin_char": 493,
+            "end_char": 542,
+            "sentiment": "3 stars",
+            "score": 0.3048205077648163
+          },
+          {
+            "begin_char": 543,
+            "end_char": 556,
+            "sentiment": "5 stars",
+            "score": 0.3322871923446655
+          },
+          {
+            "begin_char": 556,
+            "end_char": 594,
+            "sentiment": "3 stars",
+            "score": 0.2884870171546936
+          },
+          {
+            "begin_char": 595,
+            "end_char": 604,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 604,
+            "end_char": 742,
+            "sentiment": "2 stars",
+            "score": 0.3521963655948639
+          },
+          {
+            "begin_char": 743,
+            "end_char": 770,
+            "sentiment": "1 star",
+            "score": 0.39550817012786865
+          },
+          {
+            "begin_char": 771,
+            "end_char": 917,
+            "sentiment": "2 stars",
+            "score": 0.4610312879085541
+          },
+          {
+            "begin_char": 918,
+            "end_char": 1045,
+            "sentiment": "3 stars",
+            "score": 0.4093392789363861
+          },
+          {
+            "begin_char": 1045,
+            "end_char": 1196,
+            "sentiment": "2 stars",
+            "score": 0.3427620530128479
+          },
+          {
+            "begin_char": 1197,
+            "end_char": 1301,
+            "sentiment": "3 stars",
+            "score": 0.4266430139541626
+          },
+          {
+            "begin_char": 1302,
+            "end_char": 1408,
+            "sentiment": "5 stars",
+            "score": 0.35539013147354126
+          },
+          {
+            "begin_char": 1409,
+            "end_char": 1518,
+            "sentiment": "5 stars",
+            "score": 0.3565932512283325
+          },
+          {
+            "begin_char": 1519,
+            "end_char": 1531,
+            "sentiment": "5 stars",
+            "score": 0.29584935307502747
+          },
+          {
+            "begin_char": 1531,
+            "end_char": 1569,
+            "sentiment": "3 stars",
+            "score": 0.2884870171546936
+          },
+          {
+            "begin_char": 1570,
+            "end_char": 1788,
+            "sentiment": "2 stars",
+            "score": 0.4069623649120331
+          },
+          {
+            "begin_char": 1789,
+            "end_char": 1945,
+            "sentiment": "5 stars",
+            "score": 0.6382302045822144
+          },
+          {
+            "begin_char": 1946,
+            "end_char": 2025,
+            "sentiment": "4 stars",
+            "score": 0.30428779125213623
+          },
+          {
+            "begin_char": 2026,
+            "end_char": 2041,
+            "sentiment": "1 star",
+            "score": 0.2908554971218109
+          },
+          {
+            "begin_char": 2042,
+            "end_char": 2139,
+            "sentiment": "3 stars",
+            "score": 0.34792962670326233
+          },
+          {
+            "begin_char": 2140,
+            "end_char": 2166,
+            "sentiment": "5 stars",
+            "score": 0.5208311676979065
+          },
+          {
+            "begin_char": 2166,
+            "end_char": 2245,
+            "sentiment": "3 stars",
+            "score": 0.2951813340187073
+          },
+          {
+            "begin_char": 2245,
+            "end_char": 2279,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2280,
+            "end_char": 2434,
+            "sentiment": "4 stars",
+            "score": 0.31987905502319336
+          },
+          {
+            "begin_char": 2435,
+            "end_char": 2505,
+            "sentiment": "4 stars",
+            "score": 0.35842639207839966
+          },
+          {
+            "begin_char": 2506,
+            "end_char": 2696,
+            "sentiment": "5 stars",
+            "score": 0.39494094252586365
+          },
+          {
+            "begin_char": 2697,
+            "end_char": 2717,
+            "sentiment": "1 star",
+            "score": 0.4908387064933777
+          },
+          {
+            "begin_char": 2717,
+            "end_char": 2781,
+            "sentiment": "3 stars",
+            "score": 0.3256625831127167
+          },
+          {
+            "begin_char": 2782,
+            "end_char": 2786,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2786,
+            "end_char": 2943,
+            "sentiment": "4 stars",
+            "score": 0.3797476589679718
+          },
+          {
+            "begin_char": 2944,
+            "end_char": 3244,
+            "sentiment": "5 stars",
+            "score": 0.31087830662727356
+          },
+          {
+            "begin_char": 3245,
+            "end_char": 3335,
+            "sentiment": "5 stars",
+            "score": 0.3655083477497101
+          },
+          {
+            "begin_char": 3336,
+            "end_char": 3422,
+            "sentiment": "3 stars",
+            "score": 0.2658309042453766
+          },
+          {
+            "begin_char": 3423,
+            "end_char": 3443,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 3444,
+            "end_char": 3504,
+            "sentiment": "1 star",
+            "score": 0.5967944860458374
+          },
+          {
+            "begin_char": 3505,
+            "end_char": 3554,
+            "sentiment": "1 star",
+            "score": 0.6676292419433594
+          },
+          {
+            "begin_char": 3554,
+            "end_char": 3618,
+            "sentiment": "3 stars",
+            "score": 0.3256625831127167
+          },
+          {
+            "begin_char": 3619,
+            "end_char": 3816,
+            "sentiment": "4 stars",
+            "score": 0.396939218044281
+          },
+          {
+            "begin_char": 3817,
+            "end_char": 3843,
+            "sentiment": "3 stars",
+            "score": 0.29162317514419556
+          },
+          {
+            "begin_char": 3844,
+            "end_char": 3939,
+            "sentiment": "3 stars",
+            "score": 0.3515201508998871
+          },
+          {
+            "begin_char": 3940,
+            "end_char": 4037,
+            "sentiment": "3 stars",
+            "score": 0.263647198677063
+          },
+          {
+            "begin_char": 4038,
+            "end_char": 4153,
+            "sentiment": "4 stars",
+            "score": 0.3643028736114502
+          },
+          {
+            "begin_char": 4154,
+            "end_char": 4178,
+            "sentiment": "4 stars",
+            "score": 0.4680600166320801
+          },
+          {
+            "begin_char": 4178,
+            "end_char": 4242,
+            "sentiment": "3 stars",
+            "score": 0.3256625831127167
+          },
+          {
+            "begin_char": 4243,
+            "end_char": 4344,
+            "sentiment": "3 stars",
+            "score": 0.3281758427619934
+          },
+          {
+            "begin_char": 4345,
+            "end_char": 4476,
+            "sentiment": "2 stars",
+            "score": 0.4084544777870178
+          },
+          {
+            "begin_char": 4477,
+            "end_char": 4597,
+            "sentiment": "4 stars",
+            "score": 0.34507545828819275
+          },
+          {
+            "begin_char": 4598,
+            "end_char": 4779,
+            "sentiment": "3 stars",
+            "score": 0.34942764043807983
+          },
+          {
+            "begin_char": 4780,
+            "end_char": 4797,
+            "sentiment": "1 star",
+            "score": 0.7139325737953186
+          },
+          {
+            "begin_char": 4797,
+            "end_char": 4861,
+            "sentiment": "3 stars",
+            "score": 0.3256625831127167
+          },
+          {
+            "begin_char": 4862,
+            "end_char": 5082,
+            "sentiment": "4 stars",
+            "score": 0.3774339556694031
+          },
+          {
+            "begin_char": 5083,
+            "end_char": 5152,
+            "sentiment": "3 stars",
+            "score": 0.3541688323020935
+          },
+          {
+            "begin_char": 5153,
+            "end_char": 5204,
+            "sentiment": "3 stars",
+            "score": 0.3652372360229492
+          },
+          {
+            "begin_char": 5204,
+            "end_char": 5268,
+            "sentiment": "3 stars",
+            "score": 0.3256625831127167
+          },
+          {
+            "begin_char": 5269,
+            "end_char": 5568,
+            "sentiment": "4 stars",
+            "score": 0.3861629366874695
+          },
+          {
+            "begin_char": 5569,
+            "end_char": 5577,
+            "sentiment": "5 stars",
+            "score": 0.4347579777240753
+          },
+          {
+            "begin_char": 5577,
+            "end_char": 5641,
+            "sentiment": "3 stars",
+            "score": 0.3256625831127167
+          },
+          {
+            "begin_char": 5642,
+            "end_char": 5822,
+            "sentiment": "4 stars",
+            "score": 0.45993348956108093
+          },
+          {
+            "begin_char": 5823,
+            "end_char": 5879,
+            "sentiment": "4 stars",
+            "score": 0.32715916633605957
+          },
+          {
+            "begin_char": 5880,
+            "end_char": 5954,
+            "sentiment": "4 stars",
+            "score": 0.41845351457595825
+          },
+          {
+            "begin_char": 5954,
+            "end_char": 5955,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 5956,
+            "end_char": 6059,
+            "sentiment": "4 stars",
+            "score": 0.37554025650024414
+          },
+          {
+            "begin_char": 6060,
+            "end_char": 6143,
+            "sentiment": "3 stars",
+            "score": 0.35524553060531616
+          },
+          {
+            "begin_char": 6144,
+            "end_char": 6163,
+            "sentiment": "3 stars",
+            "score": 0.3072790205478668
+          },
+          {
+            "begin_char": 6163,
+            "end_char": 6164,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 6165,
+            "end_char": 6265,
+            "sentiment": "2 stars",
+            "score": 0.3803708553314209
+          },
+          {
+            "begin_char": 6266,
+            "end_char": 6281,
+            "sentiment": "1 star",
+            "score": 0.8789101243019104
+          },
+          {
+            "begin_char": 6281,
+            "end_char": 6341,
+            "sentiment": "1 star",
+            "score": 0.32911068201065063
+          },
+          {
+            "begin_char": 6341,
+            "end_char": 6375,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 6376,
+            "end_char": 6461,
+            "sentiment": "3 stars",
+            "score": 0.25643667578697205
+          },
+          {
+            "begin_char": 6462,
+            "end_char": 6674,
+            "sentiment": "5 stars",
+            "score": 0.6406588554382324
+          },
+          {
+            "begin_char": 6675,
+            "end_char": 6676,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 6676,
+            "end_char": 6729,
+            "sentiment": "4 stars",
+            "score": 0.33687400817871094
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-16",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-16",
+        "pageJO": "5430",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

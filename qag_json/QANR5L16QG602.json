@@ -1,0 +1,965 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG602",
+    "identifiant": {
+      "numero": "602",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enseignement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "SITUATION DE L'ÉDUCATION NATIONALE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA643192",
+        "mandatRef": "PM797097"
+      },
+      "groupe": {
+        "organeRef": "PO800496",
+        "abrege": "SOC",
+        "developpe": "Socialistes et apparentés (membre de l’intergroupe NUPES)"
+      }
+    },
+    "minInt": {
+      "abrege": "Jeunesse et service national universel",
+      "developpe": "Secrétariat d’État auprès du ministre des armées et du ministre de l’éducation nationale et de la jeunesse, chargé de la jeunesse et du service national universel"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Jeunesse et service national universel",
+          "developpe": "Secrétariat d’État auprès du ministre des armées et du ministre de l’éducation nationale et de la jeunesse, chargé de la jeunesse et du service national universel"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION DE L'ÉDUCATION NATIONALE <a name=PG19></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Chantal Jourdan.<br><br><strong>Mme Chantal Jourdan. </strong>Ma question s’adresse au ministre de l’éducation nationale et de la jeunesse.<br><br>La prochaine rentrée scolaire se prépare. De nouveau, elle sera marquée par de nombreuses fermetures de classes et suppressions de postes d’enseignant.<br><br><strong>M. Inaki Echaniz.</strong> C'est une honte !<br><br><strong>Mme Chantal Jourdan. </strong>Celles-ci se justifient selon vous par la baisse des effectifs. Si cette baisse existe en effet, elle reste faible, surtout dans le secondaire. De toute façon, elle intervient dans un contexte où les classes sont trop chargées en France.<br><br><strong>Un député du groupe SOC .</strong> Beaucoup trop !<br><br><strong>Mme Chantal Jourdan. </strong>Par ailleurs, cette logique ne prend pas en compte les enjeux du service public de l’éducation, ni les besoins réels des enfants partout dans nos territoires.<br><br><strong>M. Alain David.</strong> Elle a raison !<br><br><strong>Mme Chantal Jourdan. </strong>Je veux dire un mot particulier pour les écoles en milieu rural, comme dans l’Orne, qui vont subir des suppressions de classes alors qu’elles accueillent des publics fragiles et ne bénéficient pas des mesures de dédoublement.<br><br><strong>M. Arthur Delaporte.</strong> Eh oui !<br><br><strong>Mme Chantal Jourdan. </strong>La communauté éducative fait de son mieux, mais il n’est plus possible d’ignorer les difficultés qu’elle rencontre et les impacts que cela a sur les élèves,…<br><br><strong>M. Inaki Echaniz.</strong> Eh oui !<br><br><strong>Mme Chantal Jourdan. </strong>…notamment en matière d’apprentissage, comme en témoignent les dernières évaluations du niveau des élèves et les écarts qui se creusent. Le problème des remplacements est également de plus en plus prégnant. Tout cela dans un contexte où la santé mentale des jeunes s’est gravement détériorée.<br><br>L’éducation est un investissement pour l’avenir. Nous constatons tous aujourd’hui les dégâts d’une politique comptable sur notre système de santé. Pourtant, nous allons dans la même direction avec l’éducation. Le manque de considération pour le travail des enseignants suscite beaucoup de colère. Pour prendre l'exemple le plus récent, je pense aux professeurs de technologie, qui ont appris par voie de presse votre intention de supprimer la techno en sixième. Je pense aussi à la négligence envers les lycées professionnels et l'enseignement agricole. En fin de compte se crée dans l'enseignement une crise des vocations, dont les conséquences seront néfastes pour les enfants et pour la société dans son ensemble.<br><br>Compte tenu de la situation actuelle, pourquoi ne pas profiter de la baisse des effectifs pour répondre aux besoins des élèves et aux difficultés du service public de l’éducation, afin que l'école retrouve son rôle d'ascenseur social ? <i>(Applaudissements sur les bancs du groupe SOC et sur quelques bancs des groupes Écolo-NUPES et GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État chargée de la jeunesse et du service national universel.<br><br><strong>Mme Sarah El Haïry,</strong><i> secrétaire d'État chargée de la jeunesse et du service national universel. </i>Vous avez énoncé, madame la députée, un certain nombre de problèmes, ainsi que de grands défis pour l'école.<br><br>Au fond, que permet l'école ? D'élever les enfants, quel que soit leur milieu social ou leur territoire. Le ministre de l'éducation nationale et de la jeunesse porte un regard particulier sur chacune des écoles. Nous travaillons avec les élus locaux,…<br><br><strong>M. Inaki Echaniz et M. Benjamin Lucas .</strong> Ce n'est pas vrai !<br><br><strong>Mme Sarah El Haïry,</strong><i> secrétaire d'État . </i>…notamment avec les communautés de communes. En réalité, aucune école n'est fermée sans l'accord des élus locaux. <i>(Protestations sur les bancs du groupe SOC.)</i><br><br><strong>M. Benjamin Lucas et M. Nicolas Sansu .</strong> C'est faux !<br><br><strong>Mme Sarah El Haïry,</strong><i> secrétaire d'État . </i>En moyenne, le taux d'encadrement s'améliore. Cependant, des défis énormes demeurent. Vous avez mentionné la question des vocations. Au cours du quinquennat précédent s'est tenu le Grenelle de l'éducation, qui permet des revalorisations. Aujourd'hui, des discussions sont en cours pour permettre aux enseignants de mener encore plus de projets pédagogiques spécifiques.<br><br><strong>M. Arthur Delaporte.</strong> Écoutez les profs !<br><br><strong>Mme Sarah El Haïry,</strong><i> secrétaire d'État . </i>C'est l'objet du Fonds d'innovation pédagogique voulu par le Président de la République et des travaux menés actuellement avec les organisations syndicales de l'éducation nationale. Le continuum éducatif est essentiel, bien sûr, pour permettre à chaque enfant, qu'il habite dans un territoire rural ou périurbain, d'accéder à l'enseignement et aux fondamentaux.<br><br>Vous avez évoqué plus spécifiquement la question de la santé mentale. Le ministre de l'éducation nationale a prévu 20 % de recrutements supplémentaires dans ce domaine. Des travaux sont menés avec le ministre de la santé afin d'assurer un continuum entre la médecine de ville et la médecine scolaire.<br><br><strong>M. Inaki Echaniz.</strong> Vous l'avez tuée, la médecine scolaire !<br><br><strong>Mme Sarah El Haïry,</strong><i> secrétaire d'État . </i>Nous connaissons une crise des recrutements, qui touche tous les pays occidentaux. Pourtant, les moyens budgétaires sont accrus.<br><br><strong>M. Jérôme Legavre.</strong> Mensonges ! Plus de 1 100 postes seront supprimés à la rentrée prochaine ! Ce sont les vrais chiffres !<br><br><strong>Mme Sarah El Haïry,</strong><i> secrétaire d'État . </i>Jamais le budget de l'éducation nationale n'a été aussi élevé que depuis le début de ce quinquennat.<br><br>Si j'ai une conviction, c'est que l'égalité des chances est à l'école. Les élèves, qu'ils vivent en territoire rural, périurbain ou urbain, ont la même priorité à nos yeux. <i>(« C'est faux ! » sur les bancs du groupe SOC. – Applaudissements sur plusieurs bancs du groupe Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 38,
+            "end_char": 57,
+            "label": "ORG",
+            "text": "ÉDUCATION NATIONALE"
+          },
+          {
+            "start_char": 92,
+            "end_char": 95,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 136,
+            "end_char": 171,
+            "label": "PER",
+            "text": "Mme Chantal Jourdan.<br><br><strong"
+          },
+          {
+            "start_char": 172,
+            "end_char": 191,
+            "label": "PER",
+            "text": "Mme Chantal Jourdan"
+          },
+          {
+            "start_char": 214,
+            "end_char": 216,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 239,
+            "end_char": 241,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 270,
+            "end_char": 286,
+            "label": "ORG",
+            "text": "jeunesse.<br><br"
+          },
+          {
+            "start_char": 425,
+            "end_char": 427,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 457,
+            "end_char": 479,
+            "label": "PER",
+            "text": "Inaki Echaniz.</strong"
+          },
+          {
+            "start_char": 514,
+            "end_char": 533,
+            "label": "PER",
+            "text": "Mme Chantal Jourdan"
+          },
+          {
+            "start_char": 774,
+            "end_char": 796,
+            "label": "LOC",
+            "text": "France.<br><br><strong"
+          },
+          {
+            "start_char": 817,
+            "end_char": 820,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 863,
+            "end_char": 882,
+            "label": "PER",
+            "text": "Mme Chantal Jourdan"
+          },
+          {
+            "start_char": 976,
+            "end_char": 978,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1070,
+            "end_char": 1091,
+            "label": "PER",
+            "text": "Alain David.</strong>"
+          },
+          {
+            "start_char": 1123,
+            "end_char": 1142,
+            "label": "PER",
+            "text": "Mme Chantal Jourdan"
+          },
+          {
+            "start_char": 1231,
+            "end_char": 1235,
+            "label": "LOC",
+            "text": "Orne"
+          },
+          {
+            "start_char": 1448,
+            "end_char": 1467,
+            "label": "PER",
+            "text": "Mme Chantal Jourdan"
+          },
+          {
+            "start_char": 1529,
+            "end_char": 1531,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 1575,
+            "end_char": 1578,
+            "label": "MISC",
+            "text": "qu’"
+          },
+          {
+            "start_char": 1654,
+            "end_char": 1676,
+            "label": "PER",
+            "text": "Inaki Echaniz.</strong"
+          },
+          {
+            "start_char": 1702,
+            "end_char": 1721,
+            "label": "PER",
+            "text": "Mme Chantal Jourdan"
+          },
+          {
+            "start_char": 1997,
+            "end_char": 1999,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 2013,
+            "end_char": 2031,
+            "label": "MISC",
+            "text": "détériorée.<br><br"
+          },
+          {
+            "start_char": 2032,
+            "end_char": 2043,
+            "label": "PER",
+            "text": "L’éducation"
+          },
+          {
+            "start_char": 2071,
+            "end_char": 2073,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2229,
+            "end_char": 2231,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 2739,
+            "end_char": 2756,
+            "label": "MISC",
+            "text": "ensemble.<br><br>"
+          },
+          {
+            "start_char": 2923,
+            "end_char": 2925,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3037,
+            "end_char": 3040,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 3075,
+            "end_char": 3086,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 3090,
+            "end_char": 3120,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3121,
+            "end_char": 3124,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3165,
+            "end_char": 3168,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3185,
+            "end_char": 3189,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3262,
+            "end_char": 3274,
+            "label": "PER",
+            "text": "Mme Sarah El"
+          },
+          {
+            "start_char": 3307,
+            "end_char": 3311,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3475,
+            "end_char": 3488,
+            "label": "MISC",
+            "text": "école.<br><br"
+          },
+          {
+            "start_char": 3732,
+            "end_char": 3739,
+            "label": "ORG",
+            "text": "locaux,"
+          },
+          {
+            "start_char": 3759,
+            "end_char": 3772,
+            "label": "PER",
+            "text": "Inaki Echaniz"
+          },
+          {
+            "start_char": 3776,
+            "end_char": 3779,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 3779,
+            "end_char": 3793,
+            "label": "PER",
+            "text": "Benjamin Lucas"
+          },
+          {
+            "start_char": 3844,
+            "end_char": 3852,
+            "label": "PER",
+            "text": "Sarah El"
+          },
+          {
+            "start_char": 3885,
+            "end_char": 3889,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4052,
+            "end_char": 4076,
+            "label": "ORG",
+            "text": "SOC.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4080,
+            "end_char": 4094,
+            "label": "PER",
+            "text": "Benjamin Lucas"
+          },
+          {
+            "start_char": 4098,
+            "end_char": 4100,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 4101,
+            "end_char": 4114,
+            "label": "PER",
+            "text": "Nicolas Sansu"
+          },
+          {
+            "start_char": 4158,
+            "end_char": 4166,
+            "label": "PER",
+            "text": "Sarah El"
+          },
+          {
+            "start_char": 4199,
+            "end_char": 4203,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4391,
+            "end_char": 4399,
+            "label": "MISC",
+            "text": "Grenelle"
+          },
+          {
+            "start_char": 4598,
+            "end_char": 4624,
+            "label": "PER",
+            "text": "Arthur Delaporte.</strong>"
+          },
+          {
+            "start_char": 4664,
+            "end_char": 4672,
+            "label": "PER",
+            "text": "Sarah El"
+          },
+          {
+            "start_char": 4705,
+            "end_char": 4709,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4733,
+            "end_char": 4769,
+            "label": "ORG",
+            "text": "Fonds d'innovation pédagogique voulu"
+          },
+          {
+            "start_char": 4777,
+            "end_char": 4803,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 5064,
+            "end_char": 5084,
+            "label": "MISC",
+            "text": "fondamentaux.<br><br"
+          },
+          {
+            "start_char": 5404,
+            "end_char": 5426,
+            "label": "PER",
+            "text": "Inaki Echaniz.</strong"
+          },
+          {
+            "start_char": 5488,
+            "end_char": 5496,
+            "label": "PER",
+            "text": "Sarah El"
+          },
+          {
+            "start_char": 5529,
+            "end_char": 5533,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5687,
+            "end_char": 5710,
+            "label": "PER",
+            "text": "Jérôme Legavre.</strong"
+          },
+          {
+            "start_char": 5712,
+            "end_char": 5721,
+            "label": "LOC",
+            "text": "Mensonges"
+          },
+          {
+            "start_char": 5835,
+            "end_char": 5843,
+            "label": "PER",
+            "text": "Sarah El"
+          },
+          {
+            "start_char": 5876,
+            "end_char": 5880,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5975,
+            "end_char": 5994,
+            "label": "MISC",
+            "text": "quinquennat.<br><br"
+          },
+          {
+            "start_char": 6213,
+            "end_char": 6216,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 6218,
+            "end_char": 6220,
+            "label": "MISC",
+            "text": "– "
+          },
+          {
+            "start_char": 6267,
+            "end_char": 6279,
+            "label": "ORG",
+            "text": "Dem.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 110,
+            "sentiment": "3 stars",
+            "score": 0.33317795395851135
+          },
+          {
+            "begin_char": 111,
+            "end_char": 192,
+            "sentiment": "3 stars",
+            "score": 0.25640660524368286
+          },
+          {
+            "begin_char": 193,
+            "end_char": 328,
+            "sentiment": "3 stars",
+            "score": 0.29565081000328064
+          },
+          {
+            "begin_char": 329,
+            "end_char": 480,
+            "sentiment": "3 stars",
+            "score": 0.31664469838142395
+          },
+          {
+            "begin_char": 481,
+            "end_char": 534,
+            "sentiment": "1 star",
+            "score": 0.9060022830963135
+          },
+          {
+            "begin_char": 535,
+            "end_char": 550,
+            "sentiment": "4 stars",
+            "score": 0.2683229446411133
+          },
+          {
+            "begin_char": 550,
+            "end_char": 607,
+            "sentiment": "3 stars",
+            "score": 0.39816761016845703
+          },
+          {
+            "begin_char": 608,
+            "end_char": 687,
+            "sentiment": "3 stars",
+            "score": 0.47183486819267273
+          },
+          {
+            "begin_char": 688,
+            "end_char": 847,
+            "sentiment": "2 stars",
+            "score": 0.47196757793426514
+          },
+          {
+            "begin_char": 847,
+            "end_char": 883,
+            "sentiment": "3 stars",
+            "score": 0.286722332239151
+          },
+          {
+            "begin_char": 884,
+            "end_char": 893,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 893,
+            "end_char": 1091,
+            "sentiment": "2 stars",
+            "score": 0.4610617756843567
+          },
+          {
+            "begin_char": 1092,
+            "end_char": 1107,
+            "sentiment": "5 stars",
+            "score": 0.34754881262779236
+          },
+          {
+            "begin_char": 1107,
+            "end_char": 1143,
+            "sentiment": "3 stars",
+            "score": 0.286722332239151
+          },
+          {
+            "begin_char": 1144,
+            "end_char": 1423,
+            "sentiment": "5 stars",
+            "score": 0.36746788024902344
+          },
+          {
+            "begin_char": 1424,
+            "end_char": 1432,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 1432,
+            "end_char": 1468,
+            "sentiment": "3 stars",
+            "score": 0.286722332239151
+          },
+          {
+            "begin_char": 1469,
+            "end_char": 1677,
+            "sentiment": "3 stars",
+            "score": 0.3953659236431122
+          },
+          {
+            "begin_char": 1678,
+            "end_char": 1686,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 1686,
+            "end_char": 1722,
+            "sentiment": "3 stars",
+            "score": 0.286722332239151
+          },
+          {
+            "begin_char": 1723,
+            "end_char": 1770,
+            "sentiment": "3 stars",
+            "score": 0.28995591402053833
+          },
+          {
+            "begin_char": 1771,
+            "end_char": 1868,
+            "sentiment": "3 stars",
+            "score": 0.3996135890483856
+          },
+          {
+            "begin_char": 1869,
+            "end_char": 1938,
+            "sentiment": "4 stars",
+            "score": 0.30589622259140015
+          },
+          {
+            "begin_char": 1939,
+            "end_char": 2032,
+            "sentiment": "3 stars",
+            "score": 0.3029206097126007
+          },
+          {
+            "begin_char": 2032,
+            "end_char": 2080,
+            "sentiment": "5 stars",
+            "score": 0.4594131112098694
+          },
+          {
+            "begin_char": 2081,
+            "end_char": 2178,
+            "sentiment": "5 stars",
+            "score": 0.24356937408447266
+          },
+          {
+            "begin_char": 2179,
+            "end_char": 2241,
+            "sentiment": "5 stars",
+            "score": 0.2678888440132141
+          },
+          {
+            "begin_char": 2242,
+            "end_char": 2328,
+            "sentiment": "1 star",
+            "score": 0.3897457718849182
+          },
+          {
+            "begin_char": 2329,
+            "end_char": 2493,
+            "sentiment": "1 star",
+            "score": 0.3027215301990509
+          },
+          {
+            "begin_char": 2494,
+            "end_char": 2585,
+            "sentiment": "1 star",
+            "score": 0.2599753141403198
+          },
+          {
+            "begin_char": 2586,
+            "end_char": 2756,
+            "sentiment": "2 stars",
+            "score": 0.32385125756263733
+          },
+          {
+            "begin_char": 2756,
+            "end_char": 2935,
+            "sentiment": "4 stars",
+            "score": 0.3505333960056305
+          },
+          {
+            "begin_char": 2936,
+            "end_char": 2991,
+            "sentiment": "5 stars",
+            "score": 0.39916932582855225
+          },
+          {
+            "begin_char": 2992,
+            "end_char": 3139,
+            "sentiment": "4 stars",
+            "score": 0.3239992558956146
+          },
+          {
+            "begin_char": 3140,
+            "end_char": 3368,
+            "sentiment": "5 stars",
+            "score": 0.33099067211151123
+          },
+          {
+            "begin_char": 3369,
+            "end_char": 3489,
+            "sentiment": "5 stars",
+            "score": 0.3508199155330658
+          },
+          {
+            "begin_char": 3489,
+            "end_char": 3518,
+            "sentiment": "1 star",
+            "score": 0.3398208022117615
+          },
+          {
+            "begin_char": 3519,
+            "end_char": 3593,
+            "sentiment": "4 stars",
+            "score": 0.3573104441165924
+          },
+          {
+            "begin_char": 3594,
+            "end_char": 3700,
+            "sentiment": "4 stars",
+            "score": 0.41704368591308594
+          },
+          {
+            "begin_char": 3701,
+            "end_char": 3804,
+            "sentiment": "3 stars",
+            "score": 0.2964908480644226
+          },
+          {
+            "begin_char": 3805,
+            "end_char": 3824,
+            "sentiment": "1 star",
+            "score": 0.5489705204963684
+          },
+          {
+            "begin_char": 3824,
+            "end_char": 3891,
+            "sentiment": "3 stars",
+            "score": 0.30960050225257874
+          },
+          {
+            "begin_char": 3892,
+            "end_char": 3940,
+            "sentiment": "3 stars",
+            "score": 0.3293856084346771
+          },
+          {
+            "begin_char": 3941,
+            "end_char": 4009,
+            "sentiment": "1 star",
+            "score": 0.25832444429397583
+          },
+          {
+            "begin_char": 4010,
+            "end_char": 4101,
+            "sentiment": "3 stars",
+            "score": 0.3500147759914398
+          },
+          {
+            "begin_char": 4101,
+            "end_char": 4124,
+            "sentiment": "2 stars",
+            "score": 0.3737123906612396
+          },
+          {
+            "begin_char": 4124,
+            "end_char": 4125,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 4126,
+            "end_char": 4205,
+            "sentiment": "1 star",
+            "score": 0.5643916130065918
+          },
+          {
+            "begin_char": 4206,
+            "end_char": 4210,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4210,
+            "end_char": 4255,
+            "sentiment": "3 stars",
+            "score": 0.44532427191734314
+          },
+          {
+            "begin_char": 4256,
+            "end_char": 4295,
+            "sentiment": "4 stars",
+            "score": 0.35552704334259033
+          },
+          {
+            "begin_char": 4296,
+            "end_char": 4342,
+            "sentiment": "3 stars",
+            "score": 0.23867113888263702
+          },
+          {
+            "begin_char": 4343,
+            "end_char": 4447,
+            "sentiment": "4 stars",
+            "score": 0.38950634002685547
+          },
+          {
+            "begin_char": 4448,
+            "end_char": 4624,
+            "sentiment": "4 stars",
+            "score": 0.3490584194660187
+          },
+          {
+            "begin_char": 4625,
+            "end_char": 4644,
+            "sentiment": "5 stars",
+            "score": 0.5196471214294434
+          },
+          {
+            "begin_char": 4644,
+            "end_char": 4711,
+            "sentiment": "3 stars",
+            "score": 0.30960050225257874
+          },
+          {
+            "begin_char": 4712,
+            "end_char": 4897,
+            "sentiment": "4 stars",
+            "score": 0.36857134103775024
+          },
+          {
+            "begin_char": 4898,
+            "end_char": 5154,
+            "sentiment": "5 stars",
+            "score": 0.49708691239356995
+          },
+          {
+            "begin_char": 5155,
+            "end_char": 5253,
+            "sentiment": "4 stars",
+            "score": 0.2981122136116028
+          },
+          {
+            "begin_char": 5254,
+            "end_char": 5427,
+            "sentiment": "4 stars",
+            "score": 0.34088876843452454
+          },
+          {
+            "begin_char": 5428,
+            "end_char": 5444,
+            "sentiment": "1 star",
+            "score": 0.4554148316383362
+          },
+          {
+            "begin_char": 5444,
+            "end_char": 5468,
+            "sentiment": "3 stars",
+            "score": 0.2344820648431778
+          },
+          {
+            "begin_char": 5468,
+            "end_char": 5535,
+            "sentiment": "3 stars",
+            "score": 0.30960050225257874
+          },
+          {
+            "begin_char": 5536,
+            "end_char": 5540,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5540,
+            "end_char": 5622,
+            "sentiment": "5 stars",
+            "score": 0.33342546224594116
+          },
+          {
+            "begin_char": 5623,
+            "end_char": 5723,
+            "sentiment": "1 star",
+            "score": 0.6355987191200256
+          },
+          {
+            "begin_char": 5724,
+            "end_char": 5786,
+            "sentiment": "1 star",
+            "score": 0.3895052671432495
+          },
+          {
+            "begin_char": 5787,
+            "end_char": 5815,
+            "sentiment": "5 stars",
+            "score": 0.3800663948059082
+          },
+          {
+            "begin_char": 5815,
+            "end_char": 5882,
+            "sentiment": "3 stars",
+            "score": 0.30960050225257874
+          },
+          {
+            "begin_char": 5883,
+            "end_char": 5995,
+            "sentiment": "2 stars",
+            "score": 0.31243735551834106
+          },
+          {
+            "begin_char": 5995,
+            "end_char": 6065,
+            "sentiment": "5 stars",
+            "score": 0.3351052403450012
+          },
+          {
+            "begin_char": 6066,
+            "end_char": 6167,
+            "sentiment": "5 stars",
+            "score": 0.5545092821121216
+          },
+          {
+            "begin_char": 6168,
+            "end_char": 6217,
+            "sentiment": "1 star",
+            "score": 0.33497515320777893
+          },
+          {
+            "begin_char": 6218,
+            "end_char": 6220,
+            "sentiment": "3 stars",
+            "score": 0.25771647691726685
+          },
+          {
+            "begin_char": 6220,
+            "end_char": 6280,
+            "sentiment": "3 stars",
+            "score": 0.3405293822288513
+          },
+          {
+            "begin_char": 6281,
+            "end_char": 6284,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-03-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-03-01",
+        "pageJO": "1901",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

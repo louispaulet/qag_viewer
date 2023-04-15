@@ -1,0 +1,731 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG331",
+    "identifiant": {
+      "numero": "331",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "établissements de santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Tensions hospitalières"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA605782",
+        "mandatRef": "PM796350"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Première ministre",
+      "developpe": "Première ministre"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Première ministre",
+          "developpe": "Première ministre"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> TENSIONS HOSPITALIÈRES <a name=PG1></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Laurent Marcangeli.<br><br><strong>M. Laurent Marcangeli. </strong>Madame la Première ministre, la nouvelle vague du covid-19 est là, et elle n'arrive pas seule. Avec 48 000 nouveaux cas de covid cette semaine, l'épidémie de bronchiolite qui se répand dans tout le territoire, celle de grippe qui débute de manière précoce, les indicateurs sanitaires sont au rouge. Le nombre de passages aux urgences et d'hospitalisations pour bronchiolite atteint ainsi un niveau inédit depuis dix ans, suscitant l'inquiétude légitime de nombreux parents.<br><br>Alors même que ces chiffres laissent entrevoir une hausse des hospitalisations durant la période de Noël, déjà particulièrement tendue, chaque année, pour nos services de soins, ceux-ci vivent une situation dramatique : services d'urgences qui ferment, départs à la retraite, postes vacants… Des milliers de Français ne parviennent plus à se faire soigner près de chez eux, entretenant une spirale de saturation dont nous peinons à sortir. <i>(M. Pierre Cordier s'exclame.)</i><br><br>Certes, nous n'en sommes pas à la première période de fortes tensions. Au mois de juillet, M. le ministre de la santé avait pris le problème à bras-le-corps, par le biais de nombreuses mesures destinées à remédier à la saturation des services d'urgences. Face à la crise pédiatrique dont nous parlions dans cet hémicycle il y a quelques semaines, certaines de ces mesures ont été reprises et assorties d'une enveloppe. Le Gouvernement a par ailleurs annoncé, la semaine passée, investir plus de 500 millions d'euros supplémentaires en vue d'une prise en charge optimale des malades, dès cette année, au sein des établissements de santé. Nous saluons ce choix, révélateur d'un engagement continu en faveur de l'hôpital.<br><br>Néanmoins, madame la Première ministre, face à cette nouvelle donne épidémique, pourriez-vous indiquer à la représentation nationale quelles mesures envisage le Gouvernement pour faire face à la situation et permettre à nos concitoyens de passer le plus sereinement possible les fêtes de fin d'année ? <i>(Applaudissements sur les bancs du groupe HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la Première ministre.<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre. </i>Vous avez raison, monsieur le président Marcangeli, de tirer la sonnette d'alarme : avec plus de 40 000 cas détectés chaque jour, des hospitalisations dont le nombre a progressé de 10 % en une semaine, une hausse de 22 % du nombre d'admissions en soins critiques, enfin 400 décès la semaine dernière, la résurgence du covid-19 est indéniable. Cette nouvelle vague nous rappelle que le virus n'a pas disparu, que l'épidémie continue de sévir, de tuer, et que les hôpitaux subiront donc de nouveau un surcroît de pression. (M. Pierre Cordier s'exclame.) En outre, à la reprise du covid-19 s'ajoutent l'épidémie de bronchiolite la plus intense de ces dix dernières années, génératrice de tensions notamment dans les services pédiatriques,…<br><br><strong>M. Fabien Di Filippo.</strong> Des tensions, il y en a tous les ans, quand même !<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre. </i>…et les premiers effets d'une grippe saisonnière particulièrement virulente – cinq régions sont déjà en phase pré-épidémique. Des mesures ont été prises afin de mobiliser l'ensemble des personnels et d'accroître les capacités de prise en charge, notamment grâce à l'activation du dispositif Orsan (Organisation de la réponse du système de santé en situations sanitaires exceptionnelles), tandis que les agences régionales de santé (ARS) et les préfets assurent la coordination des acteurs de terrain.<br><br>Face à cette situation, je veux une nouvelle fois rendre hommage aux soignants pour leur engagement exceptionnel, leur lutte contre les épidémies, en faveur des malades. <i>(Applaudissements sur plusieurs bancs des groupes RE, Dem et HOR. – M. Guillaume Garot applaudit également.)</i> Notre devoir consiste à les aider, non à prendre des mesures idéologiques qui rendraient leur mission plus difficile encore. Or, aider nos soignants, c'est avant toute chose être vigilants ensemble. Je lance ici un appel solennel : pratiquons les gestes barrières, portons le masque en présence de personnes fragiles ou dans les zones favorables à la promiscuité, comme les transports en commun. Ces petits gestes sauvent des vies ; dans les reculs de l'épidémie, ils ont joué un rôle décisif. Les Français ont toujours répondu à de tels appels à la responsabilité : je ne doute pas qu'ils le feront de nouveau.<br><br>Aider nos soignants, c'est également recourir à la vaccination : le vaccin contre la grippe, qui peut se révéler déterminant, mais rencontre malheureusement peu de succès cette année ; le vaccin contre le covid-19, dont nous avons acquis la certitude qu'il sauve des vies. En octobre, une campagne de rappel a été lancée à destination des plus de 60 ans, des personnes fragiles et bien sûr des soignants : 10 % des intéressés y ont répondu à ce jour, ce qui est bien trop peu. C'est pourquoi je répète aux Français concernés : faites-vous vacciner, cela vous protège et protège l'hôpital !<br><br><strong>M. Sylvain Maillard.</strong> Eh oui !<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre . </i>Aider nos soignants, c'est enfin défendre la science, défendre notre système de santé, ne pas prendre de décisions qui les mettraient en péril. Avec la majorité, j'assume notre défense du système de soins,…<br><br><strong>Un député du groupe RE .</strong> Eh oui !<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre . </i>…notre refus de faire passer des manœuvres politiques avant la science <i>(Applaudissements sur plusieurs bancs du groupe RE, ainsi que sur quelques bancs du groupe Dem)</i> et de soutenir des propositions démagogiques que l'écrasante majorité des soignants nous demande de repousser ! J'ai entendu ces derniers jours, au sujet des vaccins, des propos terrifiants, certains confinant à l'obscurantisme. <br><br><strong>M. Sylvain Maillard.</strong> Oh oui ! Elle a raison ! C'est vrai, ça…<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre. </i>Je ne pensais pas devoir un jour, dans le pays de Louis Pasteur, réaffirmer notre confiance en la parole de nos scientifiques et dans l'efficacité de nos vaccins, encore moins que celles-ci seraient vivement contestées au sein même de l'hémicycle ! <i>(Applaudissements sur quelques bancs du groupe RE.)</i> <br><br><strong>M. Xavier Breton.</strong> Et les autres pays ? Nous sommes les derniers à n'avoir pas réintégré les soignants non vaccinés. C'est vous, les obscurantistes !<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre . </i>Vos hurlements ne nous feront pas reculer : encore une fois, nous assumons. Nous ferons toujours le choix de la responsabilité, le choix de la science ; nous serons toujours aux côtés des soignants et des malades ! <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 31,
+            "label": "MISC",
+            "text": "TENSIONS"
+          },
+          {
+            "start_char": 54,
+            "end_char": 61,
+            "label": "PER",
+            "text": "PG1></a"
+          },
+          {
+            "start_char": 79,
+            "end_char": 82,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 123,
+            "end_char": 160,
+            "label": "PER",
+            "text": "M. Laurent Marcangeli.<br><br><strong"
+          },
+          {
+            "start_char": 164,
+            "end_char": 182,
+            "label": "PER",
+            "text": "Laurent Marcangeli"
+          },
+          {
+            "start_char": 193,
+            "end_char": 211,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 658,
+            "end_char": 673,
+            "label": "MISC",
+            "text": "parents.<br><br"
+          },
+          {
+            "start_char": 774,
+            "end_char": 778,
+            "label": "MISC",
+            "text": "Noël"
+          },
+          {
+            "start_char": 982,
+            "end_char": 990,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1121,
+            "end_char": 1135,
+            "label": "PER",
+            "text": "Pierre Cordier"
+          },
+          {
+            "start_char": 1250,
+            "end_char": 1252,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 1302,
+            "end_char": 1315,
+            "label": "LOC",
+            "text": "bras-le-corps"
+          },
+          {
+            "start_char": 1581,
+            "end_char": 1593,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1869,
+            "end_char": 1894,
+            "label": "MISC",
+            "text": "hôpital.<br><br>Néanmoins"
+          },
+          {
+            "start_char": 2046,
+            "end_char": 2058,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2232,
+            "end_char": 2256,
+            "label": "ORG",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2257,
+            "end_char": 2260,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2301,
+            "end_char": 2316,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 2342,
+            "end_char": 2355,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 2428,
+            "end_char": 2448,
+            "label": "PER",
+            "text": "président Marcangeli"
+          },
+          {
+            "start_char": 2923,
+            "end_char": 2937,
+            "label": "PER",
+            "text": "Pierre Cordier"
+          },
+          {
+            "start_char": 3160,
+            "end_char": 3180,
+            "label": "PER",
+            "text": "Di Filippo.</strong>"
+          },
+          {
+            "start_char": 3247,
+            "end_char": 3260,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 3594,
+            "end_char": 3599,
+            "label": "MISC",
+            "text": "Orsan"
+          },
+          {
+            "start_char": 3601,
+            "end_char": 3647,
+            "label": "ORG",
+            "text": "Organisation de la réponse du système de santé"
+          },
+          {
+            "start_char": 3735,
+            "end_char": 3738,
+            "label": "MISC",
+            "text": "ARS"
+          },
+          {
+            "start_char": 3795,
+            "end_char": 3815,
+            "label": "MISC",
+            "text": "terrain.<br><br>Face"
+          },
+          {
+            "start_char": 4034,
+            "end_char": 4036,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4038,
+            "end_char": 4041,
+            "label": "MISC",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4045,
+            "end_char": 4048,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 4055,
+            "end_char": 4070,
+            "label": "PER",
+            "text": "Guillaume Garot"
+          },
+          {
+            "start_char": 4595,
+            "end_char": 4603,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4700,
+            "end_char": 4715,
+            "label": "MISC",
+            "text": "nouveau.<br><br"
+          },
+          {
+            "start_char": 4716,
+            "end_char": 4721,
+            "label": "MISC",
+            "text": "Aider"
+          },
+          {
+            "start_char": 5222,
+            "end_char": 5230,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5375,
+            "end_char": 5388,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 5432,
+            "end_char": 5437,
+            "label": "LOC",
+            "text": "Aider"
+          },
+          {
+            "start_char": 5712,
+            "end_char": 5725,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 5841,
+            "end_char": 5860,
+            "label": "MISC",
+            "text": "i>(Applaudissements"
+          },
+          {
+            "start_char": 5884,
+            "end_char": 5893,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 5934,
+            "end_char": 5941,
+            "label": "ORG",
+            "text": "Dem)</i"
+          },
+          {
+            "start_char": 6274,
+            "end_char": 6287,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 6380,
+            "end_char": 6393,
+            "label": "PER",
+            "text": "Louis Pasteur"
+          },
+          {
+            "start_char": 6629,
+            "end_char": 6636,
+            "label": "ORG",
+            "text": "RE.)</i"
+          },
+          {
+            "start_char": 6827,
+            "end_char": 6840,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 7152,
+            "end_char": 7154,
+            "label": "MISC",
+            "text": "RE"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 45,
+            "sentiment": "3 stars",
+            "score": 0.32814645767211914
+          },
+          {
+            "begin_char": 46,
+            "end_char": 97,
+            "sentiment": "3 stars",
+            "score": 0.3060467839241028
+          },
+          {
+            "begin_char": 98,
+            "end_char": 183,
+            "sentiment": "4 stars",
+            "score": 0.2579580247402191
+          },
+          {
+            "begin_char": 184,
+            "end_char": 287,
+            "sentiment": "5 stars",
+            "score": 0.4395197033882141
+          },
+          {
+            "begin_char": 288,
+            "end_char": 491,
+            "sentiment": "4 stars",
+            "score": 0.2443445324897766
+          },
+          {
+            "begin_char": 492,
+            "end_char": 965,
+            "sentiment": "5 stars",
+            "score": 0.3679688274860382
+          },
+          {
+            "begin_char": 966,
+            "end_char": 1113,
+            "sentiment": "2 stars",
+            "score": 0.3203868567943573
+          },
+          {
+            "begin_char": 1114,
+            "end_char": 1135,
+            "sentiment": "3 stars",
+            "score": 0.33084484934806824
+          },
+          {
+            "begin_char": 1136,
+            "end_char": 1229,
+            "sentiment": "3 stars",
+            "score": 0.32323530316352844
+          },
+          {
+            "begin_char": 1230,
+            "end_char": 1413,
+            "sentiment": "4 stars",
+            "score": 0.37579581141471863
+          },
+          {
+            "begin_char": 1414,
+            "end_char": 1577,
+            "sentiment": "4 stars",
+            "score": 0.3358509838581085
+          },
+          {
+            "begin_char": 1578,
+            "end_char": 1795,
+            "sentiment": "5 stars",
+            "score": 0.4237569272518158
+          },
+          {
+            "begin_char": 1796,
+            "end_char": 2186,
+            "sentiment": "5 stars",
+            "score": 0.6276968121528625
+          },
+          {
+            "begin_char": 2187,
+            "end_char": 2275,
+            "sentiment": "4 stars",
+            "score": 0.3090986907482147
+          },
+          {
+            "begin_char": 2276,
+            "end_char": 2374,
+            "sentiment": "3 stars",
+            "score": 0.28298741579055786
+          },
+          {
+            "begin_char": 2375,
+            "end_char": 2393,
+            "sentiment": "4 stars",
+            "score": 0.3165116310119629
+          },
+          {
+            "begin_char": 2394,
+            "end_char": 2740,
+            "sentiment": "5 stars",
+            "score": 0.5497682094573975
+          },
+          {
+            "begin_char": 2741,
+            "end_char": 2918,
+            "sentiment": "5 stars",
+            "score": 0.5010584592819214
+          },
+          {
+            "begin_char": 2919,
+            "end_char": 2949,
+            "sentiment": "4 stars",
+            "score": 0.2537783980369568
+          },
+          {
+            "begin_char": 2950,
+            "end_char": 3159,
+            "sentiment": "3 stars",
+            "score": 0.3778216540813446
+          },
+          {
+            "begin_char": 3160,
+            "end_char": 3180,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 3181,
+            "end_char": 3231,
+            "sentiment": "3 stars",
+            "score": 0.3282325267791748
+          },
+          {
+            "begin_char": 3231,
+            "end_char": 3298,
+            "sentiment": "3 stars",
+            "score": 0.2994373142719269
+          },
+          {
+            "begin_char": 3299,
+            "end_char": 3428,
+            "sentiment": "3 stars",
+            "score": 0.2853185832500458
+          },
+          {
+            "begin_char": 3429,
+            "end_char": 3980,
+            "sentiment": "5 stars",
+            "score": 0.6400871276855469
+          },
+          {
+            "begin_char": 3981,
+            "end_char": 4096,
+            "sentiment": "4 stars",
+            "score": 0.3488543927669525
+          },
+          {
+            "begin_char": 4097,
+            "end_char": 4221,
+            "sentiment": "5 stars",
+            "score": 0.37373650074005127
+          },
+          {
+            "begin_char": 4222,
+            "end_char": 4295,
+            "sentiment": "5 stars",
+            "score": 0.41762635111808777
+          },
+          {
+            "begin_char": 4296,
+            "end_char": 4492,
+            "sentiment": "5 stars",
+            "score": 0.5325179696083069
+          },
+          {
+            "begin_char": 4493,
+            "end_char": 4529,
+            "sentiment": "5 stars",
+            "score": 0.3878403306007385
+          },
+          {
+            "begin_char": 4530,
+            "end_char": 4590,
+            "sentiment": "5 stars",
+            "score": 0.4663051664829254
+          },
+          {
+            "begin_char": 4591,
+            "end_char": 4900,
+            "sentiment": "5 stars",
+            "score": 0.35667410492897034
+          },
+          {
+            "begin_char": 4901,
+            "end_char": 4988,
+            "sentiment": "5 stars",
+            "score": 0.5945881009101868
+          },
+          {
+            "begin_char": 4989,
+            "end_char": 5192,
+            "sentiment": "2 stars",
+            "score": 0.30040112137794495
+          },
+          {
+            "begin_char": 5193,
+            "end_char": 5305,
+            "sentiment": "5 stars",
+            "score": 0.5971997976303101
+          },
+          {
+            "begin_char": 5305,
+            "end_char": 5350,
+            "sentiment": "3 stars",
+            "score": 0.315640389919281
+          },
+          {
+            "begin_char": 5351,
+            "end_char": 5359,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 5359,
+            "end_char": 5427,
+            "sentiment": "3 stars",
+            "score": 0.3141862452030182
+          },
+          {
+            "begin_char": 5428,
+            "end_char": 5432,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5432,
+            "end_char": 5575,
+            "sentiment": "5 stars",
+            "score": 0.750447154045105
+          },
+          {
+            "begin_char": 5576,
+            "end_char": 5687,
+            "sentiment": "4 stars",
+            "score": 0.34944257140159607
+          },
+          {
+            "begin_char": 5688,
+            "end_char": 5696,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 5696,
+            "end_char": 5764,
+            "sentiment": "3 stars",
+            "score": 0.3141862452030182
+          },
+          {
+            "begin_char": 5765,
+            "end_char": 6054,
+            "sentiment": "1 star",
+            "score": 0.38152816891670227
+          },
+          {
+            "begin_char": 6055,
+            "end_char": 6171,
+            "sentiment": "5 stars",
+            "score": 0.2725270688533783
+          },
+          {
+            "begin_char": 6172,
+            "end_char": 6217,
+            "sentiment": "3 stars",
+            "score": 0.315640389919281
+          },
+          {
+            "begin_char": 6218,
+            "end_char": 6226,
+            "sentiment": "5 stars",
+            "score": 0.5159845352172852
+          },
+          {
+            "begin_char": 6227,
+            "end_char": 6242,
+            "sentiment": "5 stars",
+            "score": 0.34754881262779236
+          },
+          {
+            "begin_char": 6243,
+            "end_char": 6325,
+            "sentiment": "2 stars",
+            "score": 0.304276704788208
+          },
+          {
+            "begin_char": 6326,
+            "end_char": 6330,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 6330,
+            "end_char": 6578,
+            "sentiment": "5 stars",
+            "score": 0.6192600131034851
+          },
+          {
+            "begin_char": 6579,
+            "end_char": 6680,
+            "sentiment": "3 stars",
+            "score": 0.3518366813659668
+          },
+          {
+            "begin_char": 6681,
+            "end_char": 6701,
+            "sentiment": "3 stars",
+            "score": 0.24551182985305786
+          },
+          {
+            "begin_char": 6702,
+            "end_char": 6778,
+            "sentiment": "5 stars",
+            "score": 0.42741110920906067
+          },
+          {
+            "begin_char": 6779,
+            "end_char": 6879,
+            "sentiment": "1 star",
+            "score": 0.22235247492790222
+          },
+          {
+            "begin_char": 6880,
+            "end_char": 6959,
+            "sentiment": "5 stars",
+            "score": 0.4171643555164337
+          },
+          {
+            "begin_char": 6960,
+            "end_char": 7036,
+            "sentiment": "5 stars",
+            "score": 0.5614290237426758
+          },
+          {
+            "begin_char": 7037,
+            "end_char": 7098,
+            "sentiment": "5 stars",
+            "score": 0.653286337852478
+          },
+          {
+            "begin_char": 7099,
+            "end_char": 7175,
+            "sentiment": "3 stars",
+            "score": 0.3345279097557068
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-30",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-30",
+        "pageJO": "6131",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

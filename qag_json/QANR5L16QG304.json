@@ -1,0 +1,587 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG304",
+    "identifiant": {
+      "numero": "304",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "femmes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Lutte contre les violences faites aux femmes"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721426",
+        "mandatRef": "PM797322"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Égalité femmes-hommes, diversité et égalité des chances",
+      "developpe": "Ministère auprès de la Première ministre, chargé de l’égalité entre les femmes et les hommes, de la diversité et de l’égalité des chances"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Égalité femmes-hommes, diversité et égalité des chances",
+          "developpe": "Ministère auprès de la Première ministre, chargé de l’égalité entre les femmes et les hommes, de la diversité et de l’égalité des chances"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> LUTTE CONTRE LES VIOLENCES FAITES AUX FEMMES <a name=PG2></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Véronique Riotton.<br><br><strong>Mme Véronique Riotton. </strong>Ma question s'adresse à la fois à la ministre déléguée chargée de l'égalité entre les femmes et les hommes, de la diversité et de l'égalité des chances, et au ministre de l'éducation nationale et de la jeunesse.<br><br>Le 25 novembre – vendredi – sera la Journée internationale pour l'élimination de la violence à l'égard des femmes. Le Président de la République a choisi de faire de l'égalité entre les femmes et les hommes la grande cause de son quinquennat, pour la seconde fois consécutive. La lutte contre les violences faites aux femmes est le premier pilier de cette grande cause.<br><br>Depuis 2017, cette lutte a fait l'objet d'un travail soutenu. Le Grenelle des violences conjugales a permis des avancées concrètes, comme l'augmentation de 80 % du nombre des places d'hébergement, le doublement du budget du ministère de l'égalité entre les femmes et les hommes, et, surtout, une meilleure formation des policiers et des gendarmes.<br><br>Toutefois, nous savons que les violences perpétrées sur les femmes ne se cantonnent pas à l'intimité des foyers. Elles sont présentes dans toutes les sphères de la société : dans le monde politique, dans la rue, dans le sport, au travail. Avec le développement des outils numériques, de nouvelles formes de violences sont apparues. Je pense évidemment aux cyberviolences. À la suite du confinement, e-Enfance, l'association de protection des mineurs sur internet, a comptabilisé une hausse de 60 % des violences de cette nature.<br><br>Pour lutter efficacement contre toutes ces formes de violences, il est nécessaire que tous s'engagent – hommes comme femmes, de toutes les générations. Afin de les prévenir, nous devons éduquer chacune et chacun à développer une culture de l'égalité et de la non-violence, dès le plus jeune âge, à l'école. Comme le disait Nelson Mandela : « L'éducation est l'arme la plus puissante qu'on puisse utiliser pour changer le monde. » Comment prévoyez-vous d'agir en ce sens ? <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée chargée de l’égalité entre les femmes et les hommes, de la diversité et de l’égalité des chances.<br><br><strong>Mme Isabelle Rome,</strong><i> ministre déléguée chargée de l’égalité entre les femmes et les hommes, de la diversité et de l’égalité des chances. </i>Depuis 2017, le Gouvernement et la majorité se sont mobilisés comme jamais pour enrayer le fléau des violences faites aux femmes. À la suite du Grenelle des violences conjugales, quatre lois ont été votées, de manière transpartisane, pour mieux protéger les victimes. Le nombre de téléphones grave danger a été multiplié par dix ; le nombre d'ordonnances de protection par deux ; les horaires du 3919 ont été étendus – il fonctionne désormais vingt-quatre heures sur vingt-quatre, sept jours sur sept – ; le budget alloué à la Fédération nationale solidarité femmes (FNSF), responsable du 3919, sera porté à 5,9 millions d'euros, soit plus de 400 % en cinq ans, grâce à la majorité et au Gouvernement.<br><br><strong>Mme Valérie Rabault.</strong> C'est votre interprétation !<br><br><strong>Mme Isabelle Rome,</strong><i> ministre déléguée . </i>Le nombre de places d'hébergement dédié aux victimes et à leurs enfants a augmenté de 80 %.<br><br><strong>M. Maxime Minot.</strong> C'est historique ?<br><br><strong>Mme Isabelle Rome,</strong><i> ministre déléguée . </i>Pour mieux accompagner les victimes, la présence des intervenants sociaux dans les commissariats et les gendarmeries sera renforcée : ils seront 600 d'ici à 2025, grâce à la loi d'orientation et de programmation du ministère de l'intérieur (Lopmi). Depuis 2017, 160 000 policiers et gendarmes ont été formés, et trente centres de prise en charge des auteurs de violence ont été ouverts, afin d'éviter la récidive.<br><br>Les violences faites aux femmes sont structurelles : c'est dès le plus jeune âge qu'il faut construire une société plus égalitaire, plus respectueuse des femmes. La culture de l'égalité constituera l'un des axes forts du comité interministériel pour l'égalité entre les femmes et les hommes, que la Première ministre présidera dès janvier prochain, et que je piloterai.<br><br>Les violences faites aux femmes sont indignes de notre civilisation ; c'est sans relâche que le Gouvernement et la majorité mènent le combat contre ce fléau. Ma détermination est totale. <i>(Applaudissements sur les bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 35,
+            "label": "MISC",
+            "text": "LUTTE CONTRE"
+          },
+          {
+            "start_char": 40,
+            "end_char": 56,
+            "label": "MISC",
+            "text": "VIOLENCES FAITES"
+          },
+          {
+            "start_char": 61,
+            "end_char": 67,
+            "label": "ORG",
+            "text": "FEMMES"
+          },
+          {
+            "start_char": 76,
+            "end_char": 83,
+            "label": "PER",
+            "text": "PG2></a"
+          },
+          {
+            "start_char": 101,
+            "end_char": 104,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 145,
+            "end_char": 182,
+            "label": "PER",
+            "text": "Mme Véronique Riotton.<br><br><strong"
+          },
+          {
+            "start_char": 183,
+            "end_char": 204,
+            "label": "PER",
+            "text": "Mme Véronique Riotton"
+          },
+          {
+            "start_char": 417,
+            "end_char": 433,
+            "label": "ORG",
+            "text": "jeunesse.<br><br"
+          },
+          {
+            "start_char": 470,
+            "end_char": 526,
+            "label": "MISC",
+            "text": "Journée internationale pour l'élimination de la violence"
+          },
+          {
+            "start_char": 552,
+            "end_char": 578,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 797,
+            "end_char": 810,
+            "label": "MISC",
+            "text": "cause.<br><br"
+          },
+          {
+            "start_char": 873,
+            "end_char": 909,
+            "label": "MISC",
+            "text": "Le Grenelle des violences conjugales"
+          },
+          {
+            "start_char": 1148,
+            "end_char": 1165,
+            "label": "MISC",
+            "text": "gendarmes.<br><br"
+          },
+          {
+            "start_char": 1565,
+            "end_char": 1574,
+            "label": "PER",
+            "text": "e-Enfance"
+          },
+          {
+            "start_char": 1620,
+            "end_char": 1628,
+            "label": "MISC",
+            "text": "internet"
+          },
+          {
+            "start_char": 1687,
+            "end_char": 1701,
+            "label": "MISC",
+            "text": "nature.<br><br"
+          },
+          {
+            "start_char": 2025,
+            "end_char": 2039,
+            "label": "PER",
+            "text": "Nelson Mandela"
+          },
+          {
+            "start_char": 2219,
+            "end_char": 2242,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2243,
+            "end_char": 2246,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2287,
+            "end_char": 2290,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2323,
+            "end_char": 2325,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2387,
+            "end_char": 2389,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2425,
+            "end_char": 2454,
+            "label": "PER",
+            "text": "Mme Isabelle Rome,</strong><i"
+          },
+          {
+            "start_char": 2485,
+            "end_char": 2487,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2549,
+            "end_char": 2551,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2592,
+            "end_char": 2604,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2720,
+            "end_char": 2728,
+            "label": "MISC",
+            "text": "Grenelle"
+          },
+          {
+            "start_char": 3103,
+            "end_char": 3141,
+            "label": "ORG",
+            "text": "Fédération nationale solidarité femmes"
+          },
+          {
+            "start_char": 3143,
+            "end_char": 3147,
+            "label": "ORG",
+            "text": "FNSF"
+          },
+          {
+            "start_char": 3293,
+            "end_char": 3321,
+            "label": "PER",
+            "text": "Mme Valérie Rabault.</strong"
+          },
+          {
+            "start_char": 3367,
+            "end_char": 3396,
+            "label": "PER",
+            "text": "Mme Isabelle Rome,</strong><i"
+          },
+          {
+            "start_char": 3532,
+            "end_char": 3553,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 3589,
+            "end_char": 3618,
+            "label": "PER",
+            "text": "Mme Isabelle Rome,</strong><i"
+          },
+          {
+            "start_char": 3885,
+            "end_char": 3890,
+            "label": "LOC",
+            "text": "Lopmi"
+          },
+          {
+            "start_char": 4048,
+            "end_char": 4064,
+            "label": "MISC",
+            "text": "récidive.<br><br"
+          },
+          {
+            "start_char": 4364,
+            "end_char": 4372,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4424,
+            "end_char": 4441,
+            "label": "MISC",
+            "text": "piloterai.<br><br"
+          },
+          {
+            "start_char": 4538,
+            "end_char": 4550,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4674,
+            "end_char": 4685,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 56,
+            "sentiment": "5 stars",
+            "score": 0.4018390476703644
+          },
+          {
+            "begin_char": 57,
+            "end_char": 67,
+            "sentiment": "3 stars",
+            "score": 0.2275022566318512
+          },
+          {
+            "begin_char": 68,
+            "end_char": 119,
+            "sentiment": "3 stars",
+            "score": 0.3093770146369934
+          },
+          {
+            "begin_char": 120,
+            "end_char": 205,
+            "sentiment": "3 stars",
+            "score": 0.25000667572021484
+          },
+          {
+            "begin_char": 206,
+            "end_char": 548,
+            "sentiment": "5 stars",
+            "score": 0.33861225843429565
+          },
+          {
+            "begin_char": 549,
+            "end_char": 710,
+            "sentiment": "5 stars",
+            "score": 0.44023099541664124
+          },
+          {
+            "begin_char": 711,
+            "end_char": 872,
+            "sentiment": "5 stars",
+            "score": 0.5038995146751404
+          },
+          {
+            "begin_char": 873,
+            "end_char": 1278,
+            "sentiment": "5 stars",
+            "score": 0.5064447522163391
+          },
+          {
+            "begin_char": 1279,
+            "end_char": 1404,
+            "sentiment": "5 stars",
+            "score": 0.6232344508171082
+          },
+          {
+            "begin_char": 1405,
+            "end_char": 1497,
+            "sentiment": "5 stars",
+            "score": 0.44790783524513245
+          },
+          {
+            "begin_char": 1498,
+            "end_char": 1537,
+            "sentiment": "4 stars",
+            "score": 0.3085419237613678
+          },
+          {
+            "begin_char": 1538,
+            "end_char": 1853,
+            "sentiment": "5 stars",
+            "score": 0.5210176110267639
+          },
+          {
+            "begin_char": 1854,
+            "end_char": 2008,
+            "sentiment": "5 stars",
+            "score": 0.5505613088607788
+          },
+          {
+            "begin_char": 2009,
+            "end_char": 2173,
+            "sentiment": "5 stars",
+            "score": 0.6199966669082642
+          },
+          {
+            "begin_char": 2174,
+            "end_char": 2261,
+            "sentiment": "4 stars",
+            "score": 0.3044034242630005
+          },
+          {
+            "begin_char": 2262,
+            "end_char": 2455,
+            "sentiment": "4 stars",
+            "score": 0.3263374865055084
+          },
+          {
+            "begin_char": 2456,
+            "end_char": 2464,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 2465,
+            "end_char": 2571,
+            "sentiment": "4 stars",
+            "score": 0.35965365171432495
+          },
+          {
+            "begin_char": 2572,
+            "end_char": 2576,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2576,
+            "end_char": 2705,
+            "sentiment": "5 stars",
+            "score": 0.6394494771957397
+          },
+          {
+            "begin_char": 2706,
+            "end_char": 2843,
+            "sentiment": "4 stars",
+            "score": 0.3975350856781006
+          },
+          {
+            "begin_char": 2844,
+            "end_char": 2906,
+            "sentiment": "2 stars",
+            "score": 0.271004855632782
+          },
+          {
+            "begin_char": 2907,
+            "end_char": 2955,
+            "sentiment": "3 stars",
+            "score": 0.35536476969718933
+          },
+          {
+            "begin_char": 2956,
+            "end_char": 3080,
+            "sentiment": "5 stars",
+            "score": 0.32503119111061096
+          },
+          {
+            "begin_char": 3081,
+            "end_char": 3322,
+            "sentiment": "4 stars",
+            "score": 0.34424853324890137
+          },
+          {
+            "begin_char": 3323,
+            "end_char": 3351,
+            "sentiment": "5 stars",
+            "score": 0.3897777497768402
+          },
+          {
+            "begin_char": 3351,
+            "end_char": 3397,
+            "sentiment": "3 stars",
+            "score": 0.300668329000473
+          },
+          {
+            "begin_char": 3398,
+            "end_char": 3406,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 3407,
+            "end_char": 3417,
+            "sentiment": "4 stars",
+            "score": 0.3207393288612366
+          },
+          {
+            "begin_char": 3418,
+            "end_char": 3573,
+            "sentiment": "3 stars",
+            "score": 0.3392395079135895
+          },
+          {
+            "begin_char": 3573,
+            "end_char": 3619,
+            "sentiment": "3 stars",
+            "score": 0.300668329000473
+          },
+          {
+            "begin_char": 3620,
+            "end_char": 3628,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 3629,
+            "end_char": 3639,
+            "sentiment": "4 stars",
+            "score": 0.3207393288612366
+          },
+          {
+            "begin_char": 3640,
+            "end_char": 3892,
+            "sentiment": "4 stars",
+            "score": 0.4252937436103821
+          },
+          {
+            "begin_char": 3893,
+            "end_char": 4065,
+            "sentiment": "5 stars",
+            "score": 0.39429518580436707
+          },
+          {
+            "begin_char": 4065,
+            "end_char": 4226,
+            "sentiment": "5 stars",
+            "score": 0.45426076650619507
+          },
+          {
+            "begin_char": 4227,
+            "end_char": 4442,
+            "sentiment": "5 stars",
+            "score": 0.44866687059402466
+          },
+          {
+            "begin_char": 4442,
+            "end_char": 4511,
+            "sentiment": "1 star",
+            "score": 0.37103861570358276
+          },
+          {
+            "begin_char": 4512,
+            "end_char": 4599,
+            "sentiment": "5 stars",
+            "score": 0.543820321559906
+          },
+          {
+            "begin_char": 4600,
+            "end_char": 4628,
+            "sentiment": "5 stars",
+            "score": 0.7817420363426208
+          },
+          {
+            "begin_char": 4629,
+            "end_char": 4686,
+            "sentiment": "4 stars",
+            "score": 0.2991805374622345
+          },
+          {
+            "begin_char": 4687,
+            "end_char": 4690,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5893",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

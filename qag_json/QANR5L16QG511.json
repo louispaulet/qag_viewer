@@ -1,0 +1,1025 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG511",
+    "identifiant": {
+      "numero": "511",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "automobiles",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Zones à faibles émissions"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA817203",
+        "mandatRef": "PM817368"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ZONES À FAIBLES ÉMISSIONS <a name=PG12></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Laure Miller.<br><br><strong>Mme Laure Miller. </strong>Permettez-moi d’exprimer ma fierté d’être à vos côtés aujourd’hui, pour la première fois. <i>(Applaudissements sur les bancs du groupe RE.)</i> Je veux vous faire part d’une forme de satisfaction à voir le Rassemblement national reculer dans notre hémicycle. (Applaudissements sur les bancs du groupe RE. – Exclamations sur les bancs du groupe RN.)<br><br><strong>M. Alexandre Loubet.</strong> C’est grâce à la NUPES et à Mélenchon !<br><br><strong>Mme Laure Miller. </strong>Je veux aussi dire ma reconnaissance à l’égard des électeurs de la deuxième circonscription de la Marne. Le mandat qu’ils m’ont confié m’honore et, surtout, m’oblige.<br><br><strong>M. Pierre Cordier.</strong> Un Playmobil de plus !<br><br><strong>Mme Laure Miller. </strong>La majorité est très engagée en faveur de la préservation de l'environnement, et plus particulièrement de la qualité de l'air. À cet égard, les zones à faibles émissions (ZFE) sont un outil utile : en tant qu’adjointe au maire de Reims et avec la participation des élus locaux, nous avons établi une ZFE que nous avons voulue très pragmatique et la plus adaptée possible à notre territoire. Mais nous avons ressenti une forme de défiance de la part de certains de nos concitoyens à l’égard de cette ZFE,…<br><br><strong>M. Sébastien Chenu.</strong> À juste titre !<br><br><strong>Mme Laure Miller. </strong>…défiance d’ailleurs largement instrumentalisée et alimentée par le Rassemblement national, à l’occasion de l’élection législative qui vient de se dérouler. <i>(Applaudissements sur les bancs du groupe RE. – Exclamations sur les bancs du groupe RN.) </i>Le Rassemblement national a choisi un nouveau cheval de bataille pour opposer les Français les uns contre les autres – urbains contre ruraux, modestes contre plus fortunés – et faire primer le principe de libre circulation sur un objectif de santé publique, l’amélioration de la qualité de l’air.<br><br><strong>M. Maxime Minot.</strong> Voilà un beau Playmobil !<br><br><strong>Mme Laure Miller. </strong>Comment accompagner les habitants lors de l’installation d’une ZFE ? Comment les convaincre qu’il s’agit d’une mesure juste ? Comment aider les plus modestes d’entre eux ? Comment agir en faveur des habitants de notre belle ruralité ? Surtout, comment concilier la préservation de l’environnement et la liberté de circulation ? (<i>Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>M. Sébastien Chenu.</strong> Elle est nulle !<br><br><strong>M. Alexandre Loubet.</strong> Rendez-nous Anne-Sophie !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Maxime Minot.</strong> Et des bigoudis !<br><br><strong>M. Pierre Cordier.</strong> Et des chasses traditionnelles…<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires . </i>Je vous félicite, madame la députée, d’avoir remporté cette élection sur votre nom, après avoir été attaquée en tant qu’adjointe à l’environnement d’une ville qui a mis en place une zone à faibles émissions.<br><br><strong>M. Laurent Jacobelli.</strong> Invalidez-la !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Le RN n’a eu de cesse de relater les mêmes <i>fake news</i>, les mêmes intox…<br><br><strong>M. Sébastien Chenu.</strong> Nous vous obsédons !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>…expliquant que l’objectif de cette mesure était d’ennuyer les Français plutôt que de les protéger. (<i>Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>M. Grégoire de Fournas.</strong> C’est faux !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>La méthode utilisée à Reims pour installer une ZFE s’appuie sur l’intelligence locale et la concertation, par exemple pour déterminer quelles dérogations pouvaient être accordées – en faveur des personnes atteintes d’affections de longue durée, en cas de déménagement ou encore pour les artisans. Les élus locaux se sont saisis du sujet et la preuve est faite que l’idée selon laquelle l’accès à la ville serait interdit au plus grand nombre n’est qu’un fantasme éloigné de toute réalité.<br><br><strong>Mme Sophie Blanc.</strong> Non, c’est la réalité !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Comme vous l’avez rappelé, l’enjeu est de préserver la santé de nos concitoyens : près de 47 000 personnes décèdent chaque année de la pollution de l’air, soit une perte d’espérance de vie pouvant atteindre deux à trois ans. (<i>Protestations sur les bancs du groupe LR.) </i>Manifestement, certains, en plus d’être climatosceptiques, doutent du lien entre cancers et pollution de l’air – laquelle provoque notamment la mort d'une partie de nos concitoyens les plus fragiles ! L’honneur de la politique, c’est précisément de les protéger,…<br><br><strong>M. Alexandre Loubet.</strong> Et de taper sur les pauvres !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>…y compris en tordant le cou à la démagogie ! Je pense à ceux qui vous expliquent qu’ils sont d’accord avec l'objectif mais qui sont aux abonnés absents dès qu’il s’agit de passer aux actes ! Alors, madame la députée, je vous dis bravo, merci et bienvenue ! <i>(Applaudissements sur les bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 39,
+            "end_char": 48,
+            "label": "MISC",
+            "text": "ÉMISSIONS"
+          },
+          {
+            "start_char": 83,
+            "end_char": 86,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 127,
+            "end_char": 136,
+            "label": "PER",
+            "text": "Mme Laure"
+          },
+          {
+            "start_char": 160,
+            "end_char": 176,
+            "label": "PER",
+            "text": "Mme Laure Miller"
+          },
+          {
+            "start_char": 322,
+            "end_char": 329,
+            "label": "ORG",
+            "text": "RE.)</i"
+          },
+          {
+            "start_char": 393,
+            "end_char": 415,
+            "label": "ORG",
+            "text": "Rassemblement national"
+          },
+          {
+            "start_char": 447,
+            "end_char": 463,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 481,
+            "end_char": 490,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 494,
+            "end_char": 506,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 531,
+            "end_char": 550,
+            "label": "ORG",
+            "text": "RN.)<br><br><strong"
+          },
+          {
+            "start_char": 554,
+            "end_char": 580,
+            "label": "PER",
+            "text": "Alexandre Loubet.</strong>"
+          },
+          {
+            "start_char": 598,
+            "end_char": 603,
+            "label": "ORG",
+            "text": "NUPES"
+          },
+          {
+            "start_char": 609,
+            "end_char": 618,
+            "label": "PER",
+            "text": "Mélenchon"
+          },
+          {
+            "start_char": 636,
+            "end_char": 652,
+            "label": "PER",
+            "text": "Mme Laure Miller"
+          },
+          {
+            "start_char": 702,
+            "end_char": 704,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 730,
+            "end_char": 766,
+            "label": "LOC",
+            "text": "deuxième circonscription de la Marne"
+          },
+          {
+            "start_char": 778,
+            "end_char": 781,
+            "label": "PER",
+            "text": "qu’"
+          },
+          {
+            "start_char": 785,
+            "end_char": 787,
+            "label": "PER",
+            "text": "m’"
+          },
+          {
+            "start_char": 798,
+            "end_char": 800,
+            "label": "PER",
+            "text": "m’"
+          },
+          {
+            "start_char": 820,
+            "end_char": 822,
+            "label": "PER",
+            "text": "m’"
+          },
+          {
+            "start_char": 848,
+            "end_char": 872,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong>"
+          },
+          {
+            "start_char": 876,
+            "end_char": 885,
+            "label": "LOC",
+            "text": "Playmobil"
+          },
+          {
+            "start_char": 911,
+            "end_char": 927,
+            "label": "PER",
+            "text": "Mme Laure Miller"
+          },
+          {
+            "start_char": 1109,
+            "end_char": 1112,
+            "label": "ORG",
+            "text": "ZFE"
+          },
+          {
+            "start_char": 1144,
+            "end_char": 1147,
+            "label": "LOC",
+            "text": "qu’"
+          },
+          {
+            "start_char": 1168,
+            "end_char": 1173,
+            "label": "LOC",
+            "text": "Reims"
+          },
+          {
+            "start_char": 1238,
+            "end_char": 1241,
+            "label": "MISC",
+            "text": "ZFE"
+          },
+          {
+            "start_char": 1420,
+            "end_char": 1422,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1437,
+            "end_char": 1441,
+            "label": "ORG",
+            "text": "ZFE,"
+          },
+          {
+            "start_char": 1461,
+            "end_char": 1485,
+            "label": "PER",
+            "text": "Sébastien Chenu.</strong"
+          },
+          {
+            "start_char": 1518,
+            "end_char": 1534,
+            "label": "PER",
+            "text": "Mme Laure Miller"
+          },
+          {
+            "start_char": 1613,
+            "end_char": 1635,
+            "label": "ORG",
+            "text": "Rassemblement national"
+          },
+          {
+            "start_char": 1639,
+            "end_char": 1641,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1653,
+            "end_char": 1655,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1740,
+            "end_char": 1749,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 1753,
+            "end_char": 1765,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 1790,
+            "end_char": 1792,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 1802,
+            "end_char": 1824,
+            "label": "ORG",
+            "text": "Rassemblement national"
+          },
+          {
+            "start_char": 1881,
+            "end_char": 1889,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2057,
+            "end_char": 2059,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2089,
+            "end_char": 2091,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2114,
+            "end_char": 2135,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 2151,
+            "end_char": 2160,
+            "label": "MISC",
+            "text": "Playmobil"
+          },
+          {
+            "start_char": 2178,
+            "end_char": 2194,
+            "label": "PER",
+            "text": "Mme Laure Miller"
+          },
+          {
+            "start_char": 2247,
+            "end_char": 2261,
+            "label": "LOC",
+            "text": "l’installation"
+          },
+          {
+            "start_char": 2297,
+            "end_char": 2300,
+            "label": "LOC",
+            "text": "qu’"
+          },
+          {
+            "start_char": 2363,
+            "end_char": 2365,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 2486,
+            "end_char": 2488,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2578,
+            "end_char": 2601,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2605,
+            "end_char": 2630,
+            "label": "PER",
+            "text": "Sébastien Chenu.</strong>"
+          },
+          {
+            "start_char": 2666,
+            "end_char": 2699,
+            "label": "PER",
+            "text": "Alexandre Loubet.</strong> Rendez"
+          },
+          {
+            "start_char": 2705,
+            "end_char": 2716,
+            "label": "PER",
+            "text": "Anne-Sophie"
+          },
+          {
+            "start_char": 2734,
+            "end_char": 2737,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2778,
+            "end_char": 2780,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2874,
+            "end_char": 2895,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 2933,
+            "end_char": 2956,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 3005,
+            "end_char": 3018,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3152,
+            "end_char": 3154,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 3232,
+            "end_char": 3235,
+            "label": "PER",
+            "text": "qu’"
+          },
+          {
+            "start_char": 3246,
+            "end_char": 3248,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3341,
+            "end_char": 3378,
+            "label": "PER",
+            "text": "Laurent Jacobelli.</strong> Invalidez"
+          },
+          {
+            "start_char": 3399,
+            "end_char": 3412,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3450,
+            "end_char": 3455,
+            "label": "LOC",
+            "text": "RN n’"
+          },
+          {
+            "start_char": 3543,
+            "end_char": 3568,
+            "label": "PER",
+            "text": "Sébastien Chenu.</strong>"
+          },
+          {
+            "start_char": 3605,
+            "end_char": 3618,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3669,
+            "end_char": 3671,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3702,
+            "end_char": 3704,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 3716,
+            "end_char": 3724,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3798,
+            "end_char": 3821,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3825,
+            "end_char": 3854,
+            "label": "PER",
+            "text": "Grégoire de Fournas.</strong>"
+          },
+          {
+            "start_char": 3883,
+            "end_char": 3896,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3953,
+            "end_char": 3958,
+            "label": "LOC",
+            "text": "Reims"
+          },
+          {
+            "start_char": 3978,
+            "end_char": 3994,
+            "label": "LOC",
+            "text": "ZFE s’appuie sur"
+          },
+          {
+            "start_char": 3995,
+            "end_char": 3997,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 4295,
+            "end_char": 4297,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 4317,
+            "end_char": 4319,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 4373,
+            "end_char": 4375,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 4435,
+            "end_char": 4465,
+            "label": "PER",
+            "text": "Mme Sophie Blanc.</strong> Non"
+          },
+          {
+            "start_char": 4467,
+            "end_char": 4469,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 4501,
+            "end_char": 4514,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4560,
+            "end_char": 4562,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 4576,
+            "end_char": 4578,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 4697,
+            "end_char": 4699,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 4816,
+            "end_char": 4818,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 4930,
+            "end_char": 4937,
+            "label": "ORG",
+            "text": "l’air –"
+          },
+          {
+            "start_char": 5053,
+            "end_char": 5055,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 5107,
+            "end_char": 5132,
+            "label": "PER",
+            "text": "Alexandre Loubet.</strong"
+          },
+          {
+            "start_char": 5179,
+            "end_char": 5192,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 5321,
+            "end_char": 5323,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 5384,
+            "end_char": 5387,
+            "label": "PER",
+            "text": "qu’"
+          },
+          {
+            "start_char": 5390,
+            "end_char": 5392,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 5530,
+            "end_char": 5541,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 38,
+            "sentiment": "1 star",
+            "score": 0.3359754979610443
+          },
+          {
+            "begin_char": 39,
+            "end_char": 48,
+            "sentiment": "3 stars",
+            "score": 0.27116090059280396
+          },
+          {
+            "begin_char": 49,
+            "end_char": 101,
+            "sentiment": "3 stars",
+            "score": 0.30479973554611206
+          },
+          {
+            "begin_char": 102,
+            "end_char": 177,
+            "sentiment": "3 stars",
+            "score": 0.23191900551319122
+          },
+          {
+            "begin_char": 178,
+            "end_char": 276,
+            "sentiment": "5 stars",
+            "score": 0.6779543161392212
+          },
+          {
+            "begin_char": 277,
+            "end_char": 330,
+            "sentiment": "4 stars",
+            "score": 0.293697714805603
+          },
+          {
+            "begin_char": 331,
+            "end_char": 445,
+            "sentiment": "5 stars",
+            "score": 0.2795698344707489
+          },
+          {
+            "begin_char": 446,
+            "end_char": 447,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 447,
+            "end_char": 580,
+            "sentiment": "3 stars",
+            "score": 0.32642850279808044
+          },
+          {
+            "begin_char": 581,
+            "end_char": 620,
+            "sentiment": "5 stars",
+            "score": 0.40208151936531067
+          },
+          {
+            "begin_char": 620,
+            "end_char": 653,
+            "sentiment": "3 stars",
+            "score": 0.27312833070755005
+          },
+          {
+            "begin_char": 654,
+            "end_char": 767,
+            "sentiment": "5 stars",
+            "score": 0.44902539253234863
+          },
+          {
+            "begin_char": 768,
+            "end_char": 872,
+            "sentiment": "3 stars",
+            "score": 0.2638436555862427
+          },
+          {
+            "begin_char": 873,
+            "end_char": 895,
+            "sentiment": "5 stars",
+            "score": 0.48635217547416687
+          },
+          {
+            "begin_char": 895,
+            "end_char": 928,
+            "sentiment": "3 stars",
+            "score": 0.27312833070755005
+          },
+          {
+            "begin_char": 929,
+            "end_char": 1064,
+            "sentiment": "5 stars",
+            "score": 0.3991999924182892
+          },
+          {
+            "begin_char": 1065,
+            "end_char": 1328,
+            "sentiment": "4 stars",
+            "score": 0.46722331643104553
+          },
+          {
+            "begin_char": 1329,
+            "end_char": 1502,
+            "sentiment": "4 stars",
+            "score": 0.29414308071136475
+          },
+          {
+            "begin_char": 1502,
+            "end_char": 1535,
+            "sentiment": "3 stars",
+            "score": 0.27312833070755005
+          },
+          {
+            "begin_char": 1536,
+            "end_char": 1701,
+            "sentiment": "4 stars",
+            "score": 0.3182443678379059
+          },
+          {
+            "begin_char": 1702,
+            "end_char": 1750,
+            "sentiment": "4 stars",
+            "score": 0.3196922838687897
+          },
+          {
+            "begin_char": 1751,
+            "end_char": 1793,
+            "sentiment": "4 stars",
+            "score": 0.2776396870613098
+          },
+          {
+            "begin_char": 1793,
+            "end_char": 1794,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 1795,
+            "end_char": 1799,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 1799,
+            "end_char": 2136,
+            "sentiment": "4 stars",
+            "score": 0.40009164810180664
+          },
+          {
+            "begin_char": 2137,
+            "end_char": 2162,
+            "sentiment": "5 stars",
+            "score": 0.6034913063049316
+          },
+          {
+            "begin_char": 2162,
+            "end_char": 2195,
+            "sentiment": "3 stars",
+            "score": 0.27312833070755005
+          },
+          {
+            "begin_char": 2196,
+            "end_char": 2205,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2205,
+            "end_char": 2273,
+            "sentiment": "4 stars",
+            "score": 0.3668186068534851
+          },
+          {
+            "begin_char": 2274,
+            "end_char": 2330,
+            "sentiment": "1 star",
+            "score": 0.3073607087135315
+          },
+          {
+            "begin_char": 2331,
+            "end_char": 2376,
+            "sentiment": "5 stars",
+            "score": 0.283932089805603
+          },
+          {
+            "begin_char": 2377,
+            "end_char": 2439,
+            "sentiment": "5 stars",
+            "score": 0.40322840213775635
+          },
+          {
+            "begin_char": 2440,
+            "end_char": 2630,
+            "sentiment": "4 stars",
+            "score": 0.36160042881965637
+          },
+          {
+            "begin_char": 2631,
+            "end_char": 2647,
+            "sentiment": "1 star",
+            "score": 0.8925756216049194
+          },
+          {
+            "begin_char": 2647,
+            "end_char": 2718,
+            "sentiment": "1 star",
+            "score": 0.2611266076564789
+          },
+          {
+            "begin_char": 2718,
+            "end_char": 2752,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2753,
+            "end_char": 2914,
+            "sentiment": "5 stars",
+            "score": 0.275980681180954
+          },
+          {
+            "begin_char": 2914,
+            "end_char": 3037,
+            "sentiment": "3 stars",
+            "score": 0.37796247005462646
+          },
+          {
+            "begin_char": 3038,
+            "end_char": 3110,
+            "sentiment": "4 stars",
+            "score": 0.3565530478954315
+          },
+          {
+            "begin_char": 3111,
+            "end_char": 3115,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3115,
+            "end_char": 3117,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 3118,
+            "end_char": 3383,
+            "sentiment": "1 star",
+            "score": 0.37487006187438965
+          },
+          {
+            "begin_char": 3383,
+            "end_char": 3442,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 3443,
+            "end_char": 3568,
+            "sentiment": "1 star",
+            "score": 0.6458917260169983
+          },
+          {
+            "begin_char": 3569,
+            "end_char": 3589,
+            "sentiment": "1 star",
+            "score": 0.8740930557250977
+          },
+          {
+            "begin_char": 3589,
+            "end_char": 3648,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 3649,
+            "end_char": 3752,
+            "sentiment": "1 star",
+            "score": 0.5465912222862244
+          },
+          {
+            "begin_char": 3753,
+            "end_char": 3754,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 3754,
+            "end_char": 3854,
+            "sentiment": "3 stars",
+            "score": 0.34747013449668884
+          },
+          {
+            "begin_char": 3855,
+            "end_char": 3926,
+            "sentiment": "1 star",
+            "score": 0.5181483626365662
+          },
+          {
+            "begin_char": 3927,
+            "end_char": 4227,
+            "sentiment": "4 stars",
+            "score": 0.3893262445926666
+          },
+          {
+            "begin_char": 4228,
+            "end_char": 4335,
+            "sentiment": "4 stars",
+            "score": 0.2773423492908478
+          },
+          {
+            "begin_char": 4336,
+            "end_char": 4485,
+            "sentiment": "1 star",
+            "score": 0.6016830801963806
+          },
+          {
+            "begin_char": 4485,
+            "end_char": 4544,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 4545,
+            "end_char": 5025,
+            "sentiment": "5 stars",
+            "score": 0.34071120619773865
+          },
+          {
+            "begin_char": 5026,
+            "end_char": 5163,
+            "sentiment": "1 star",
+            "score": 0.2740142047405243
+          },
+          {
+            "begin_char": 5163,
+            "end_char": 5222,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 5223,
+            "end_char": 5272,
+            "sentiment": "1 star",
+            "score": 0.8641678690910339
+          },
+          {
+            "begin_char": 5273,
+            "end_char": 5418,
+            "sentiment": "1 star",
+            "score": 0.5309908390045166
+          },
+          {
+            "begin_char": 5419,
+            "end_char": 5484,
+            "sentiment": "5 stars",
+            "score": 0.6934671401977539
+          },
+          {
+            "begin_char": 5485,
+            "end_char": 5542,
+            "sentiment": "4 stars",
+            "score": 0.2991805374622345
+          },
+          {
+            "begin_char": 5543,
+            "end_char": 5546,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-01",
+        "pageJO": "766",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

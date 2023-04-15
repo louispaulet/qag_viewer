@@ -1,0 +1,521 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG328",
+    "identifiant": {
+      "numero": "328",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "chômage",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Réforme de l'assurance chômage"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720154",
+        "mandatRef": "PM796806"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DE L'ASSURANCE CHÔMAGE <a name=PG26></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Nicole Dubré-Chirat.<br><br><strong>Mme Nicole Dubré-Chirat. </strong>Monsieur le ministre du travail, du plein emploi et de l'insertion, nous avons adopté la semaine dernière le projet de loi portant mesures d’urgence relatives au fonctionnement du marché du travail en vue du plein emploi. Ce texte vise le plein emploi, objectif crédible et atteignable, le taux de chômage s'élevant à 7,4 % au deuxième trimestre de 2022 - dans ma circonscription, il est de 4,3 %. Ce sont les taux les plus bas depuis quinze ans, grâce notamment au recul du chômage des jeunes, des seniors et des personnes handicapées. <i>(« Bravo ! » et applaudissements sur plusieurs bancs du groupe RE.)</i><br><br>La première réforme de l'assurance chômage, qui avait été adoptée en 2019 et visait à diminuer les embauches multiples en contrats courts, n’avait pu produire ses effets du fait de la crise sanitaire. En 2021, du fait d'une reprise économique rapide et du souhait de nombreux salariés de se reconvertir, des difficultés de recrutement sont apparues dans de multiples secteurs d’activité et certains métiers sont en tension.<br><br>Cette année, Emmanuel Macron a proposé une modification du système d’assurance chômage, pour le rendre plus strict quand trop d’emplois sont non pourvus, plus généreux quand le chômage est élevé. Un sondage publié en août montrait que 60 % des Français se disent favorables aux changements envisagés dans le cadre de cette réforme ; que 45 % d’entre eux citent comme première explication au chômage l'excessive générosité du système d’indemnisation du chômage, qui n’incite pas au retour à l’emploi. C’est dans ce contexte que le Gouvernement a proposé un système contracyclique, pour que les règles d’indemnisation soient plus incitatives lorsque la conjoncture économique est bonne, et plus protectrices lorsqu’elle se dégrade.<br><br>La déclinaison de ce projet de loi a été travaillée en concertation avec les partenaires sociaux. Vous avez défini un plan d’action, pouvez-vous nous en donner le contenu, les modalités et l’échéancier ? Par ailleurs, avez-vous envisagé des mesures spécifiques pour les personnes les plus éloignées de l’emploi nécessitant un accompagnement plus long et adapté ? <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Madame Dubré-Chirat, hier, à la suite de l'adoption par le Parlement du projet de loi portant mesures d'urgence relatives au fonctionnement du marché du travail en vue du plein emploi, j'ai présenté aux partenaires sociaux les règles de modulation de l'indemnisation de l'assurance chômage pour tenir compte de la conjoncture économique, de l'état du marché du travail, dans le respect fidèle de l'engagement pris par le Président de la République.<br><br>Notre objectif est clair : instaurer un système plus incitatif quand le marché de l'emploi va bien – c'est le cas actuellement – ; plus protecteur quand il va mal. Le projet de loi que vous avez adopté permettra d'appliquer cette règle tout au long de l'année 2023.<br><br><strong>M. Stéphane Peu.</strong> Ce n'est pas grave ! De toute façon, il suffit de traverser la rue !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Les partenaires sociaux reprendront ensuite leur compétence, dans le cadre du paritarisme, et prolongeront cet élan, en s'appuyant sur une documentation que nous leur donnerons.<br><br>Si les premiers résultats en matière d'emploi sont là, ils ne sont malheureusement pas suffisants. Le taux de chômage, s'il est passé de 9,5 % à 7,3 %, reste élevé, alors que les tensions sont importantes en matière de recrutement. Cela doit nous inciter à actionner tous les leviers : pas seulement l'assurance chômage, mais aussi l'insertion par l'activité économique – le projet de loi de finances pour 2023, que vous devrez examiner en nouvelle lecture prévoit plus de 1,3 milliard d'euros pour financer celle-ci ; c'est 400 millions d'euros de plus qu'en 2018. Nous augmentons également les crédits destinés aux entreprises adaptées et aux Esat – établissements et services d'aide par le travail –, pour faciliter l'accès à l'emploi des personnes en situation de handicap.<br><br>Nous accompagnons également les plus jeunes, grâce au contrat d'engagement jeune, pour qu'ils trouvent la voie d'une formation qualifiante ou de l'emploi. Enfin, nous accompagnons les demandeurs d'emploi. Alors que les années précédentes, en moyenne, 600 000 d'entre eux avaient accès à une formation pendant leur période d'indemnisation, entre octobre 2021 et 2022, ce fut le cas de 1,6 million de demandeurs d'emploi. Nous continuerons ainsi, avec la certitude que nul n'est inemployable et que le chemin du plein emploi s'ouvre devant nous. Nous fournirons les moyens nécessaires et veillerons à ce que chacun soit accompagné de manière adaptée, notamment les bénéficiaires de minima sociaux que nous voulons accompagner plus fortement vers des emplois de qualité. <i>(Applaudissements sur les bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 88,
+            "end_char": 91,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 132,
+            "end_char": 171,
+            "label": "PER",
+            "text": "Mme Nicole Dubré-Chirat.<br><br><strong"
+          },
+          {
+            "start_char": 172,
+            "end_char": 195,
+            "label": "PER",
+            "text": "Mme Nicole Dubré-Chirat"
+          },
+          {
+            "start_char": 206,
+            "end_char": 214,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 749,
+            "end_char": 754,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 809,
+            "end_char": 824,
+            "label": "ORG",
+            "text": "RE.)</i><br><br"
+          },
+          {
+            "start_char": 964,
+            "end_char": 966,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 1269,
+            "end_char": 1284,
+            "label": "PER",
+            "text": "Emmanuel Macron"
+          },
+          {
+            "start_char": 1323,
+            "end_char": 1325,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1500,
+            "end_char": 1508,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1689,
+            "end_char": 1691,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1721,
+            "end_char": 1723,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 1746,
+            "end_char": 1748,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1756,
+            "end_char": 1758,
+            "label": "MISC",
+            "text": "C’"
+          },
+          {
+            "start_char": 1786,
+            "end_char": 1798,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2182,
+            "end_char": 2184,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 2295,
+            "end_char": 2297,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2401,
+            "end_char": 2424,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2425,
+            "end_char": 2428,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2469,
+            "end_char": 2471,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2518,
+            "end_char": 2520,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2546,
+            "end_char": 2556,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2621,
+            "end_char": 2632,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 2638,
+            "end_char": 2657,
+            "label": "PER",
+            "text": "Madame Dubré-Chirat"
+          },
+          {
+            "start_char": 2697,
+            "end_char": 2706,
+            "label": "ORG",
+            "text": "Parlement"
+          },
+          {
+            "start_char": 3059,
+            "end_char": 3093,
+            "label": "PER",
+            "text": "Président de la République.<br><br"
+          },
+          {
+            "start_char": 3378,
+            "end_char": 3399,
+            "label": "PER",
+            "text": "Stéphane Peu.</strong"
+          },
+          {
+            "start_char": 3485,
+            "end_char": 3495,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3699,
+            "end_char": 3716,
+            "label": "MISC",
+            "text": "donnerons.<br><br"
+          },
+          {
+            "start_char": 4362,
+            "end_char": 4383,
+            "label": "MISC",
+            "text": "Esat – établissements"
+          },
+          {
+            "start_char": 4485,
+            "end_char": 4501,
+            "label": "MISC",
+            "text": "handicap.<br><br"
+          },
+          {
+            "start_char": 5315,
+            "end_char": 5326,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 106,
+            "sentiment": "4 stars",
+            "score": 0.2975250780582428
+          },
+          {
+            "begin_char": 107,
+            "end_char": 196,
+            "sentiment": "3 stars",
+            "score": 0.25837159156799316
+          },
+          {
+            "begin_char": 197,
+            "end_char": 206,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 206,
+            "end_char": 427,
+            "sentiment": "5 stars",
+            "score": 0.4328839182853699
+          },
+          {
+            "begin_char": 428,
+            "end_char": 559,
+            "sentiment": "5 stars",
+            "score": 0.3834693133831024
+          },
+          {
+            "begin_char": 560,
+            "end_char": 603,
+            "sentiment": "3 stars",
+            "score": 0.353203147649765
+          },
+          {
+            "begin_char": 604,
+            "end_char": 742,
+            "sentiment": "3 stars",
+            "score": 0.2737805247306824
+          },
+          {
+            "begin_char": 743,
+            "end_char": 756,
+            "sentiment": "5 stars",
+            "score": 0.4697880148887634
+          },
+          {
+            "begin_char": 757,
+            "end_char": 1025,
+            "sentiment": "4 stars",
+            "score": 0.31408727169036865
+          },
+          {
+            "begin_char": 1026,
+            "end_char": 1451,
+            "sentiment": "4 stars",
+            "score": 0.3901059031486511
+          },
+          {
+            "begin_char": 1452,
+            "end_char": 1588,
+            "sentiment": "4 stars",
+            "score": 0.35729527473449707
+          },
+          {
+            "begin_char": 1589,
+            "end_char": 1755,
+            "sentiment": "3 stars",
+            "score": 0.24125805497169495
+          },
+          {
+            "begin_char": 1756,
+            "end_char": 1993,
+            "sentiment": "4 stars",
+            "score": 0.4071710407733917
+          },
+          {
+            "begin_char": 1993,
+            "end_char": 2090,
+            "sentiment": "4 stars",
+            "score": 0.40643566846847534
+          },
+          {
+            "begin_char": 2091,
+            "end_char": 2196,
+            "sentiment": "3 stars",
+            "score": 0.31109464168548584
+          },
+          {
+            "begin_char": 2197,
+            "end_char": 2355,
+            "sentiment": "4 stars",
+            "score": 0.34125110507011414
+          },
+          {
+            "begin_char": 2356,
+            "end_char": 2443,
+            "sentiment": "4 stars",
+            "score": 0.3044034242630005
+          },
+          {
+            "begin_char": 2444,
+            "end_char": 2577,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 2578,
+            "end_char": 2633,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 2634,
+            "end_char": 3094,
+            "sentiment": "5 stars",
+            "score": 0.43841448426246643
+          },
+          {
+            "begin_char": 3094,
+            "end_char": 3224,
+            "sentiment": "5 stars",
+            "score": 0.3900966942310333
+          },
+          {
+            "begin_char": 3225,
+            "end_char": 3257,
+            "sentiment": "4 stars",
+            "score": 0.39965564012527466
+          },
+          {
+            "begin_char": 3258,
+            "end_char": 3400,
+            "sentiment": "4 stars",
+            "score": 0.32948988676071167
+          },
+          {
+            "begin_char": 3401,
+            "end_char": 3421,
+            "sentiment": "1 star",
+            "score": 0.26596981287002563
+          },
+          {
+            "begin_char": 3422,
+            "end_char": 3469,
+            "sentiment": "1 star",
+            "score": 0.30104488134384155
+          },
+          {
+            "begin_char": 3469,
+            "end_char": 3527,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 3528,
+            "end_char": 3815,
+            "sentiment": "3 stars",
+            "score": 0.4941002130508423
+          },
+          {
+            "begin_char": 3816,
+            "end_char": 3948,
+            "sentiment": "3 stars",
+            "score": 0.490915447473526
+          },
+          {
+            "begin_char": 3949,
+            "end_char": 4235,
+            "sentiment": "5 stars",
+            "score": 0.5216670036315918
+          },
+          {
+            "begin_char": 4236,
+            "end_char": 4282,
+            "sentiment": "5 stars",
+            "score": 0.25520995259284973
+          },
+          {
+            "begin_char": 4283,
+            "end_char": 4502,
+            "sentiment": "4 stars",
+            "score": 0.44664886593818665
+          },
+          {
+            "begin_char": 4502,
+            "end_char": 4656,
+            "sentiment": "4 stars",
+            "score": 0.407787561416626
+          },
+          {
+            "begin_char": 4657,
+            "end_char": 4706,
+            "sentiment": "5 stars",
+            "score": 0.40485963225364685
+          },
+          {
+            "begin_char": 4707,
+            "end_char": 4921,
+            "sentiment": "5 stars",
+            "score": 0.28609952330589294
+          },
+          {
+            "begin_char": 4922,
+            "end_char": 5045,
+            "sentiment": "5 stars",
+            "score": 0.6711586117744446
+          },
+          {
+            "begin_char": 5046,
+            "end_char": 5269,
+            "sentiment": "5 stars",
+            "score": 0.4629189074039459
+          },
+          {
+            "begin_char": 5270,
+            "end_char": 5327,
+            "sentiment": "4 stars",
+            "score": 0.2991805374622345
+          },
+          {
+            "begin_char": 5328,
+            "end_char": 5331,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5911",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG378",
+    "identifiant": {
+      "numero": "378",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "mesures de prévention contre le covid-19"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719396",
+        "mandatRef": "PM796461"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> MESURES DE PRÉVENTION CONTRE LE COVID-19 <a name=PG20></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Charles Larsonneur.<br><br><strong>M. Jean-Charles Larsonneur. </strong>Monsieur le ministre de la santé et de la prévention, nous sommes confrontés, en ce début d'hiver, à une triple épidémie : de covid, de grippe et – à un niveau sans précédent depuis dix ans – de bronchiolite. Elle touche tous les Français, met sous forte tension notre système de santé et éprouve une nouvelle fois nos soignants.<br><br>Un Plan blanc national en réponse à l'épidémie de bronchiolite a été déclenché le 10 novembre dernier et décliné dans de nombreux établissements et territoires, singulièrement dans l'Ouest de la France, comme en Ille-et-Vilaine. Nous souhaitons tous passer des fêtes de fin d'année sûres et sereines, en protégeant nos proches, nos anciens et les plus fragiles autour de nous.<br><br>Nous avons été unanimement solidaires autour de nos soignants depuis le début de la pandémie de covid-19. Nous n'avons pas changé et portons une responsabilité collective pour nous protéger et soulager nos soignants, auxquels je veux rendre ici un hommage appuyé.<br><br>Il n'est pas inutile de rappeler, d'abord, que la vaccination est efficace pour se prémunir des formes graves de covid-19 comme de grippe. Cependant, ma question porte sur les gestes barrières et en particulier sur le port du masque. Ce geste simple, comme le lavage des mains, nous protège, protège les autres et réduit drastiquement les risques de transmission. Pourtant, nous sommes trop nombreux à le délaisser, bien souvent parce que nous avons perdu le réflexe d'avoir un masque à portée de main.<br><br>Ne peut-on sensibiliser davantage, au moyen de campagnes à la télévision, à la radio et dans les médias en général, sur l'utilité de porter le masque ? Vous l'avez dit, vous n'aurez pas la main tremblante s'il vous faut prendre vos responsabilités. N'est-il donc pas temps de rendre obligatoire le port du masque dans les transports en commun, au travail ou dans les centres commerciaux <i>(Soupirs et « non ! » sur plusieurs bancs des groupes RN et LR)</i> à l'heure où les familles françaises font leurs courses de Noël ?<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>Vous avez raison, la covid-19 continue de circuler et de tuer, chaque jour, des personnes, fragiles ou non, dans notre pays. Au cours de ces derniers jours, le taux d'incidence a augmenté de 40 %, ce qui prouve que le virus repart à la hausse. Vous l'avez rappelé, cela intervient dans un contexte nouveau puisque nous sommes confrontés à une triple épidémie. S'agissant de la bronchiolite, nous n'avons pas encore atteint le sommet de l'épidémie. Venue de l'ouest du pays, la grippe, actuellement en phase pré-épidémique, touche actuellement plus de la moitié du territoire national. À cela s'ajoute donc une reprise de l'épidémie de covid-19.<br><br>En outre, les circonstances sont particulières puisque notre système de santé est en difficulté, à bout de souffle, comme je l'ai déjà dit,…<br><br><strong>Un député du groupe RN.</strong> C'est de votre faute !<br><br><strong>M. François Braun,</strong><i> ministre. </i>…ce qui est loin de faciliter les choses.<br><br>La situation actuelle est d'autant plus insupportable que nous avons les moyens de nous protéger, de protéger les Français. Je pense tout d'abord à la vaccination, laquelle reste notre arme de protection massive face aux virus, en particulier la grippe et le covid. On y a recours de manière insuffisante, puisque, s'agissant de la covid-19, elle est de l'ordre de 20 % pour les plus de 80 ans et de 80 % pour les 60-80 ans, un résultat très en deçà de ceux que nous avons atteints lors des campagnes précédentes. Les chiffres de la vaccination contre la grippe pour ces mêmes publics sont également inférieurs à ceux de l'an dernier. Or ce sont ces personnes qu'il faut d'abord protéger car elles sont les plus fragiles.<br><br>Pour être parfaitement clair, je tiens toutefois à rappeler que toute personne qui le souhaite peut se faire vacciner. Il est important que les plus fragiles soient vaccinés les premiers mais d'autres personnes, en particulier leur entourage, doivent également se faire vacciner pour les protéger.<br><br>Au-delà de la vaccination, les gestes barrières, comme le lavage des mains ou le port du masque, protègent contre ces trois virus, contre ces trois épidémies.<br><br><strong>M. Maxime Minot.</strong> Les Français savent se laver les mains ! Arrêtez de les infantiliser, bon sang !<br><br><strong>M. François Braun,</strong><i> ministre . </i>Ils sont essentiels. J'invite les Français à porter le masque de façon systématique dans tous les lieux où il y a de la promiscuité, pour se protéger et être solidaires des soignants. <i>(Mme Sabrina Agresti-Roubache applaudit.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 51,
+            "label": "PER",
+            "text": "MESURES DE PRÉVENTION CONTRE"
+          },
+          {
+            "start_char": 55,
+            "end_char": 65,
+            "label": "LOC",
+            "text": "COVID-19 <"
+          },
+          {
+            "start_char": 98,
+            "end_char": 101,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 142,
+            "end_char": 211,
+            "label": "PER",
+            "text": "M. Jean-Charles Larsonneur.<br><br><strong>M. Jean-Charles Larsonneur"
+          },
+          {
+            "start_char": 222,
+            "end_char": 230,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 452,
+            "end_char": 460,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 541,
+            "end_char": 559,
+            "label": "MISC",
+            "text": "soignants.<br><br>"
+          },
+          {
+            "start_char": 562,
+            "end_char": 581,
+            "label": "ORG",
+            "text": "Plan blanc national"
+          },
+          {
+            "start_char": 742,
+            "end_char": 747,
+            "label": "LOC",
+            "text": "Ouest"
+          },
+          {
+            "start_char": 771,
+            "end_char": 786,
+            "label": "LOC",
+            "text": "Ille-et-Vilaine"
+          },
+          {
+            "start_char": 930,
+            "end_char": 942,
+            "label": "MISC",
+            "text": "nous.<br><br"
+          },
+          {
+            "start_char": 1199,
+            "end_char": 1213,
+            "label": "MISC",
+            "text": "appuyé.<br><br"
+          },
+          {
+            "start_char": 1711,
+            "end_char": 1723,
+            "label": "MISC",
+            "text": "main.<br><br"
+          },
+          {
+            "start_char": 2168,
+            "end_char": 2170,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 2174,
+            "end_char": 2180,
+            "label": "LOC",
+            "text": "LR)</i"
+          },
+          {
+            "start_char": 2241,
+            "end_char": 2245,
+            "label": "MISC",
+            "text": "Noël"
+          },
+          {
+            "start_char": 2263,
+            "end_char": 2266,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2307,
+            "end_char": 2309,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2373,
+            "end_char": 2381,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3275,
+            "end_char": 3286,
+            "label": "ORG",
+            "text": "RN.</strong"
+          },
+          {
+            "start_char": 3329,
+            "end_char": 3337,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3357,
+            "end_char": 3365,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3405,
+            "end_char": 3419,
+            "label": "MISC",
+            "text": "choses.<br><br"
+          },
+          {
+            "start_char": 3534,
+            "end_char": 3542,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4132,
+            "end_char": 4148,
+            "label": "MISC",
+            "text": "fragiles.<br><br"
+          },
+          {
+            "start_char": 4437,
+            "end_char": 4453,
+            "label": "MISC",
+            "text": "protéger.<br><br"
+          },
+          {
+            "start_char": 4631,
+            "end_char": 4652,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 4658,
+            "end_char": 4666,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4695,
+            "end_char": 4702,
+            "label": "LOC",
+            "text": "Arrêtez"
+          },
+          {
+            "start_char": 4753,
+            "end_char": 4761,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 4781,
+            "end_char": 4789,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4830,
+            "end_char": 4838,
+            "label": "LOC",
+            "text": "Français"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 80,
+            "sentiment": "3 stars",
+            "score": 0.2544004023075104
+          },
+          {
+            "begin_char": 80,
+            "end_char": 81,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 82,
+            "end_char": 116,
+            "sentiment": "4 stars",
+            "score": 0.2742326259613037
+          },
+          {
+            "begin_char": 117,
+            "end_char": 212,
+            "sentiment": "4 stars",
+            "score": 0.2645872235298157
+          },
+          {
+            "begin_char": 213,
+            "end_char": 222,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 222,
+            "end_char": 430,
+            "sentiment": "5 stars",
+            "score": 0.4418102204799652
+          },
+          {
+            "begin_char": 431,
+            "end_char": 559,
+            "sentiment": "5 stars",
+            "score": 0.5835995674133301
+          },
+          {
+            "begin_char": 559,
+            "end_char": 787,
+            "sentiment": "4 stars",
+            "score": 0.4135330021381378
+          },
+          {
+            "begin_char": 788,
+            "end_char": 943,
+            "sentiment": "5 stars",
+            "score": 0.5922379493713379
+          },
+          {
+            "begin_char": 943,
+            "end_char": 1048,
+            "sentiment": "5 stars",
+            "score": 0.6572815179824829
+          },
+          {
+            "begin_char": 1049,
+            "end_char": 1214,
+            "sentiment": "5 stars",
+            "score": 0.6851820945739746
+          },
+          {
+            "begin_char": 1214,
+            "end_char": 1352,
+            "sentiment": "5 stars",
+            "score": 0.4334377348423004
+          },
+          {
+            "begin_char": 1353,
+            "end_char": 1447,
+            "sentiment": "3 stars",
+            "score": 0.42670291662216187
+          },
+          {
+            "begin_char": 1448,
+            "end_char": 1577,
+            "sentiment": "5 stars",
+            "score": 0.598256528377533
+          },
+          {
+            "begin_char": 1578,
+            "end_char": 1724,
+            "sentiment": "3 stars",
+            "score": 0.26733243465423584
+          },
+          {
+            "begin_char": 1724,
+            "end_char": 1875,
+            "sentiment": "1 star",
+            "score": 0.2658802270889282
+          },
+          {
+            "begin_char": 1876,
+            "end_char": 1972,
+            "sentiment": "5 stars",
+            "score": 0.24155594408512115
+          },
+          {
+            "begin_char": 1973,
+            "end_char": 2281,
+            "sentiment": "5 stars",
+            "score": 0.33641552925109863
+          },
+          {
+            "begin_char": 2282,
+            "end_char": 2400,
+            "sentiment": "4 stars",
+            "score": 0.3129529356956482
+          },
+          {
+            "begin_char": 2401,
+            "end_char": 2442,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 2443,
+            "end_char": 2571,
+            "sentiment": "5 stars",
+            "score": 0.37596359848976135
+          },
+          {
+            "begin_char": 2572,
+            "end_char": 2690,
+            "sentiment": "4 stars",
+            "score": 0.3116869628429413
+          },
+          {
+            "begin_char": 2691,
+            "end_char": 2806,
+            "sentiment": "5 stars",
+            "score": 0.4274439811706543
+          },
+          {
+            "begin_char": 2807,
+            "end_char": 2894,
+            "sentiment": "5 stars",
+            "score": 0.27241963148117065
+          },
+          {
+            "begin_char": 2895,
+            "end_char": 3031,
+            "sentiment": "4 stars",
+            "score": 0.35501745343208313
+          },
+          {
+            "begin_char": 3032,
+            "end_char": 3287,
+            "sentiment": "3 stars",
+            "score": 0.3608051538467407
+          },
+          {
+            "begin_char": 3288,
+            "end_char": 3310,
+            "sentiment": "1 star",
+            "score": 0.6050514578819275
+          },
+          {
+            "begin_char": 3310,
+            "end_char": 3366,
+            "sentiment": "3 stars",
+            "score": 0.2982189357280731
+          },
+          {
+            "begin_char": 3367,
+            "end_char": 3420,
+            "sentiment": "2 stars",
+            "score": 0.49834123253822327
+          },
+          {
+            "begin_char": 3420,
+            "end_char": 3543,
+            "sentiment": "1 star",
+            "score": 0.3961411118507385
+          },
+          {
+            "begin_char": 3544,
+            "end_char": 3685,
+            "sentiment": "5 stars",
+            "score": 0.5848716497421265
+          },
+          {
+            "begin_char": 3686,
+            "end_char": 3933,
+            "sentiment": "2 stars",
+            "score": 0.5532602071762085
+          },
+          {
+            "begin_char": 3934,
+            "end_char": 4054,
+            "sentiment": "2 stars",
+            "score": 0.3739343583583832
+          },
+          {
+            "begin_char": 4055,
+            "end_char": 4267,
+            "sentiment": "5 stars",
+            "score": 0.4333961009979248
+          },
+          {
+            "begin_char": 4268,
+            "end_char": 4454,
+            "sentiment": "4 stars",
+            "score": 0.41429129242897034
+          },
+          {
+            "begin_char": 4454,
+            "end_char": 4456,
+            "sentiment": "5 stars",
+            "score": 0.31276801228523254
+          },
+          {
+            "begin_char": 4456,
+            "end_char": 4457,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 4457,
+            "end_char": 4653,
+            "sentiment": "4 stars",
+            "score": 0.3466836214065552
+          },
+          {
+            "begin_char": 4654,
+            "end_char": 4694,
+            "sentiment": "5 stars",
+            "score": 0.3829483091831207
+          },
+          {
+            "begin_char": 4695,
+            "end_char": 4734,
+            "sentiment": "1 star",
+            "score": 0.524059534072876
+          },
+          {
+            "begin_char": 4734,
+            "end_char": 4791,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 4792,
+            "end_char": 4816,
+            "sentiment": "5 stars",
+            "score": 0.4352175295352936
+          },
+          {
+            "begin_char": 4817,
+            "end_char": 4979,
+            "sentiment": "5 stars",
+            "score": 0.5869617462158203
+          },
+          {
+            "begin_char": 4980,
+            "end_char": 4995,
+            "sentiment": "3 stars",
+            "score": 0.29892948269844055
+          },
+          {
+            "begin_char": 4996,
+            "end_char": 5003,
+            "sentiment": "4 stars",
+            "score": 0.28295043110847473
+          },
+          {
+            "begin_char": 5003,
+            "end_char": 5004,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 5004,
+            "end_char": 5032,
+            "sentiment": "5 stars",
+            "score": 0.33531537652015686
+          },
+          {
+            "begin_char": 5033,
+            "end_char": 5036,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-07",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-07",
+        "pageJO": "6571",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

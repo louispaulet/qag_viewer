@@ -1,0 +1,797 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG392",
+    "identifiant": {
+      "numero": "392",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "transports",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PRIX DES TRANSPORTS EN ÎLE-DE-FRANCE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721976",
+        "mandatRef": "PM797622"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Transports",
+      "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transports",
+          "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PRIX DES TRANSPORTS EN ÎLE-DE-FRANCE <a name=PG6></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Bruno Millienne.<br><br><strong>M. Bruno Millienne. </strong>Monsieur le ministre délégué chargé des transports, il ne se passe pas une semaine sans que je sois interpellé sur les retards, incidents et autres « difficultés d'exploitation » que doivent subir mes administrés lorsqu'ils décident de prendre les transports en commun. Pour tous ces usagers, l'augmentation du prix du passe Navigo de 12 % l'année prochaine a un goût amer.<br><br><strong>M. Jérôme Guedj.</strong> Ah ça, oui !<br><br><strong>M. Bruno Millienne. </strong>Comment, en effet, justifier le fait de payer plus cher un service dont la qualité diminue ? À cet égard, je tiens à vous faire part de ma reconnaissance d'avoir accordé une aide exceptionnelle de 200 millions d'euros à Île-de-France Mobilités (IDFM) pour limiter au maximum cette hausse. Je tiens également à dénoncer le chantage dont s'est rendue coupable Mme Pécresse qui, fuyant ses responsabilités autant que ses promesses électorales, a vainement tenté de faire porter le chapeau de cette hausse au Gouvernement. <i>(Applaudissements sur plusieurs bancs du groupe Dem. - Exclamations sur plusieurs bancs du groupe LR.)</i><br><br>Où est le courage politique quand on réclame toujours plus de compétences en se défaussant sur l'État dès que l'on a « cramé la caisse » ? Où est la cohérence quand on s'insurge contre les déficits publics le lundi pour mieux demander à l'État, le mardi, de venir combler ses failles de gestion ?<br><br>Cette hausse du prix du passe Navigo, Mme Pécresse en est la seule et unique responsable…<br><br><strong>M. Stéphane Peu.</strong> Ce n'est pas vrai !<br><br><strong>M. Bruno Millienne. </strong>…et si elle reste cantonnée à 12 %, c'est uniquement grâce à l'État qui a aidé Île-de-France Mobilités à hauteur de plus de 2 milliards d'euros en subventions et prêts pendant la crise sanitaire, puis de nouveau la semaine dernière avec cette nouvelle aide. Je n'oublie bien sûr pas nos territoires qui se partageront une enveloppe exceptionnelle de 100 millions d'euros pour soutenir leurs réseaux de transports en commun.<br><br><strong>M. Sébastien Jumel.</strong> Il n'y a pas de réponse possible s'il n'y a pas de question ! Vous êtes hors sujet !<br><br><strong>M. Bruno Millienne. </strong>En marge de ces annonces, vous avez, monsieur le ministre délégué, décidé de lancer une conférence pour organiser le financement futur des transports publics. Dans la lignée des efforts majeurs consentis depuis cinq ans pour les transports du quotidien, serait-il possible de savoir quelles seront les lignes directrices du Gouvernement dans ces discussions et de rassurer nos concitoyens quant au fait qu'il sera au rendez-vous des ambitions affichées ? <i>(Applaudissements sur plusieurs bancs du groupe Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé des transports.<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué chargé des transports. </i>Vous avez raison de rappeler l'effort massif, exceptionnel que, sous l'autorité de la Première ministre, le Gouvernement a décidé pour soutenir les différentes autorités organisatrices des transports, qu'il s'agisse de la région Île-de-France, bien sûr, mais aussi, et je crois que c'était une nécessité par souci de responsabilité et d'équité, des autres autorités organisatrices. Dans les prochains jours, nous répartirons entre elles ces sommes, les 100 millions d'euros supplémentaires, au-delà des 200 millions destinés à Île-de-France Mobilités, avec le souci de prendre en compte les difficultés particulières de certaines autorités organisatrices.<br><br>Notre seule boussole, au cours de cette discussion, a été l'intérêt des usagers et le soutien aux transports publics. C'était indispensable dans un contexte de hausse des prix de l'énergie et de transition écologique.<br><br>Comme vous, et vous avez raison de le rappeler, je regrette que chacun n'assume pas ses responsabilités. Je rappelle que l'autorité organisatrice des transports en Île-de-France, c'est la région Île-de-France, c'est Île-de-France Mobilités sous l'autorité stricte de Mme Pécresse. Or on se porte mieux, en politique, quand chacun assume ses responsabilités. L'État était là pour les usagers et je regrette, comme vous, qu'une hausse disproportionnée du passe Navigo ait été décidée par le conseil régional.<br><br><strong>M. Sylvain Maillard.</strong> Eh oui ! Scandaleux !<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué. </i>L'État était là pour en limiter les effets mais il ne peut prendre une responsabilité qu'il n'est pas chargé d'exercer. C'est ainsi qu'on doit faire de la politique au service de ses concitoyens. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br><br><strong>M. Sylvain Maillard.</strong> Eh oui !<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué . </i>Sur la base de cette aide exceptionnelle, massive, j'y insiste, que l'État a octroyée pour le seul bénéfice des usagers, nous demandons désormais à la RATP et à Île-de-France Mobilités de rétablir une offre de transport complète. Comme vous, nous constatons des conditions de transport qui ne sont pas acceptables en Île-de-France et qui ne sont pas justifiées. Il faudra donc, avec cette aide notamment, procéder au rétablissement d'une offre de qualité à laquelle les Franciliens, comme tous les Français, ont droit. Je le demanderai à nouveau dans les toutes prochaines semaines à la région et aux opérateurs de transport. Et, comme vous l'avez indiqué, nous devrons remettre à plat la question financière, et pas seulement avec la région Île-de-France : c'est pourquoi l'État sera au rendez-vous de la conférence des financements dès le début de l'année 2023 pour que nous avancions ensemble, sans polémique mais en toute responsabilité. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br><br><strong>M. Sylvain Maillard.</strong> Très bien !<br><br><strong>Mme Frédérique Meunier.</strong> C'est toujours le même discours !<br><br><strong>M. Pierre Cordier.</strong> Encore un candidat à la mairie de Paris !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 42,
+            "label": "MISC",
+            "text": "PRIX DES TRANSPORTS"
+          },
+          {
+            "start_char": 68,
+            "end_char": 75,
+            "label": "PER",
+            "text": "PG6></a"
+          },
+          {
+            "start_char": 93,
+            "end_char": 96,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 137,
+            "end_char": 171,
+            "label": "PER",
+            "text": "M. Bruno Millienne.<br><br><strong"
+          },
+          {
+            "start_char": 175,
+            "end_char": 190,
+            "label": "PER",
+            "text": "Bruno Millienne"
+          },
+          {
+            "start_char": 201,
+            "end_char": 209,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 526,
+            "end_char": 532,
+            "label": "MISC",
+            "text": "Navigo"
+          },
+          {
+            "start_char": 590,
+            "end_char": 593,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 593,
+            "end_char": 615,
+            "label": "PER",
+            "text": "Jérôme Guedj.</strong>"
+          },
+          {
+            "start_char": 647,
+            "end_char": 662,
+            "label": "PER",
+            "text": "Bruno Millienne"
+          },
+          {
+            "start_char": 893,
+            "end_char": 916,
+            "label": "PER",
+            "text": "Île-de-France Mobilités"
+          },
+          {
+            "start_char": 1031,
+            "end_char": 1043,
+            "label": "PER",
+            "text": "Mme Pécresse"
+          },
+          {
+            "start_char": 1178,
+            "end_char": 1190,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1243,
+            "end_char": 1246,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 1293,
+            "end_char": 1308,
+            "label": "ORG",
+            "text": "LR.)</i><br><br"
+          },
+          {
+            "start_char": 1406,
+            "end_char": 1410,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1548,
+            "end_char": 1552,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1643,
+            "end_char": 1649,
+            "label": "MISC",
+            "text": "Navigo"
+          },
+          {
+            "start_char": 1651,
+            "end_char": 1663,
+            "label": "PER",
+            "text": "Mme Pécresse"
+          },
+          {
+            "start_char": 1721,
+            "end_char": 1742,
+            "label": "PER",
+            "text": "Stéphane Peu.</strong"
+          },
+          {
+            "start_char": 1782,
+            "end_char": 1797,
+            "label": "PER",
+            "text": "Bruno Millienne"
+          },
+          {
+            "start_char": 1871,
+            "end_char": 1875,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1887,
+            "end_char": 1910,
+            "label": "PER",
+            "text": "Île-de-France Mobilités"
+          },
+          {
+            "start_char": 2250,
+            "end_char": 2274,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong"
+          },
+          {
+            "start_char": 2379,
+            "end_char": 2394,
+            "label": "PER",
+            "text": "Bruno Millienne"
+          },
+          {
+            "start_char": 2729,
+            "end_char": 2741,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2911,
+            "end_char": 2935,
+            "label": "ORG",
+            "text": "Dem.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2936,
+            "end_char": 2939,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2980,
+            "end_char": 2982,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3041,
+            "end_char": 3044,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 3044,
+            "end_char": 3070,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 3202,
+            "end_char": 3210,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3224,
+            "end_char": 3236,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3643,
+            "end_char": 3666,
+            "label": "PER",
+            "text": "Île-de-France Mobilités"
+          },
+          {
+            "start_char": 3756,
+            "end_char": 3778,
+            "label": "MISC",
+            "text": "organisatrices.<br><br"
+          },
+          {
+            "start_char": 4168,
+            "end_char": 4181,
+            "label": "LOC",
+            "text": "Île-de-France"
+          },
+          {
+            "start_char": 4199,
+            "end_char": 4212,
+            "label": "LOC",
+            "text": "Île-de-France"
+          },
+          {
+            "start_char": 4220,
+            "end_char": 4243,
+            "label": "PER",
+            "text": "Île-de-France Mobilités"
+          },
+          {
+            "start_char": 4271,
+            "end_char": 4283,
+            "label": "PER",
+            "text": "Mme Pécresse"
+          },
+          {
+            "start_char": 4364,
+            "end_char": 4368,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4463,
+            "end_char": 4469,
+            "label": "LOC",
+            "text": "Navigo"
+          },
+          {
+            "start_char": 4526,
+            "end_char": 4554,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong"
+          },
+          {
+            "start_char": 4565,
+            "end_char": 4575,
+            "label": "PER",
+            "text": "Scandaleux"
+          },
+          {
+            "start_char": 4596,
+            "end_char": 4622,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 4624,
+            "end_char": 4640,
+            "label": "ORG",
+            "text": "ministre délégué"
+          },
+          {
+            "start_char": 4648,
+            "end_char": 4652,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4894,
+            "end_char": 4896,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4925,
+            "end_char": 4953,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong"
+          },
+          {
+            "start_char": 4982,
+            "end_char": 5008,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 5010,
+            "end_char": 5026,
+            "label": "ORG",
+            "text": "ministre délégué"
+          },
+          {
+            "start_char": 5103,
+            "end_char": 5107,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5184,
+            "end_char": 5188,
+            "label": "ORG",
+            "text": "RATP"
+          },
+          {
+            "start_char": 5194,
+            "end_char": 5207,
+            "label": "LOC",
+            "text": "Île-de-France"
+          },
+          {
+            "start_char": 5350,
+            "end_char": 5363,
+            "label": "LOC",
+            "text": "Île-de-France"
+          },
+          {
+            "start_char": 5503,
+            "end_char": 5514,
+            "label": "LOC",
+            "text": "Franciliens"
+          },
+          {
+            "start_char": 5531,
+            "end_char": 5539,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5775,
+            "end_char": 5788,
+            "label": "LOC",
+            "text": "Île-de-France"
+          },
+          {
+            "start_char": 5808,
+            "end_char": 5812,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 6027,
+            "end_char": 6029,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 6058,
+            "end_char": 6092,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong> Très"
+          },
+          {
+            "start_char": 6115,
+            "end_char": 6146,
+            "label": "PER",
+            "text": "Mme Frédérique Meunier.</strong"
+          },
+          {
+            "start_char": 6200,
+            "end_char": 6231,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong> Encore"
+          },
+          {
+            "start_char": 6259,
+            "end_char": 6264,
+            "label": "LOC",
+            "text": "Paris"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 111,
+            "sentiment": "3 stars",
+            "score": 0.31493380665779114
+          },
+          {
+            "begin_char": 112,
+            "end_char": 191,
+            "sentiment": "4 stars",
+            "score": 0.26813092827796936
+          },
+          {
+            "begin_char": 192,
+            "end_char": 201,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 201,
+            "end_char": 470,
+            "sentiment": "1 star",
+            "score": 0.2580001652240753
+          },
+          {
+            "begin_char": 471,
+            "end_char": 615,
+            "sentiment": "2 stars",
+            "score": 0.3614213466644287
+          },
+          {
+            "begin_char": 616,
+            "end_char": 628,
+            "sentiment": "5 stars",
+            "score": 0.31109416484832764
+          },
+          {
+            "begin_char": 628,
+            "end_char": 663,
+            "sentiment": "3 stars",
+            "score": 0.282252699136734
+          },
+          {
+            "begin_char": 664,
+            "end_char": 765,
+            "sentiment": "2 stars",
+            "score": 0.4030880331993103
+          },
+          {
+            "begin_char": 766,
+            "end_char": 961,
+            "sentiment": "5 stars",
+            "score": 0.5605582594871521
+          },
+          {
+            "begin_char": 962,
+            "end_char": 1191,
+            "sentiment": "1 star",
+            "score": 0.35875850915908813
+          },
+          {
+            "begin_char": 1192,
+            "end_char": 1247,
+            "sentiment": "4 stars",
+            "score": 0.3461652100086212
+          },
+          {
+            "begin_char": 1248,
+            "end_char": 1309,
+            "sentiment": "3 stars",
+            "score": 0.33147358894348145
+          },
+          {
+            "begin_char": 1309,
+            "end_char": 1447,
+            "sentiment": "1 star",
+            "score": 0.4227346181869507
+          },
+          {
+            "begin_char": 1448,
+            "end_char": 1605,
+            "sentiment": "1 star",
+            "score": 0.3089701533317566
+          },
+          {
+            "begin_char": 1605,
+            "end_char": 1613,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1613,
+            "end_char": 1743,
+            "sentiment": "3 stars",
+            "score": 0.2870171070098877
+          },
+          {
+            "begin_char": 1744,
+            "end_char": 1763,
+            "sentiment": "1 star",
+            "score": 0.5489705204963684
+          },
+          {
+            "begin_char": 1763,
+            "end_char": 1798,
+            "sentiment": "3 stars",
+            "score": 0.282252699136734
+          },
+          {
+            "begin_char": 1799,
+            "end_char": 2065,
+            "sentiment": "3 stars",
+            "score": 0.32975348830223083
+          },
+          {
+            "begin_char": 2066,
+            "end_char": 2275,
+            "sentiment": "5 stars",
+            "score": 0.39356374740600586
+          },
+          {
+            "begin_char": 2276,
+            "end_char": 2337,
+            "sentiment": "1 star",
+            "score": 0.553101122379303
+          },
+          {
+            "begin_char": 2338,
+            "end_char": 2360,
+            "sentiment": "1 star",
+            "score": 0.7253299355506897
+          },
+          {
+            "begin_char": 2360,
+            "end_char": 2395,
+            "sentiment": "3 stars",
+            "score": 0.282252699136734
+          },
+          {
+            "begin_char": 2396,
+            "end_char": 2405,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2405,
+            "end_char": 2563,
+            "sentiment": "5 stars",
+            "score": 0.37863171100616455
+          },
+          {
+            "begin_char": 2564,
+            "end_char": 2859,
+            "sentiment": "4 stars",
+            "score": 0.4130820631980896
+          },
+          {
+            "begin_char": 2860,
+            "end_char": 2954,
+            "sentiment": "4 stars",
+            "score": 0.321175754070282
+          },
+          {
+            "begin_char": 2955,
+            "end_char": 3111,
+            "sentiment": "4 stars",
+            "score": 0.3048226237297058
+          },
+          {
+            "begin_char": 3112,
+            "end_char": 3497,
+            "sentiment": "5 stars",
+            "score": 0.5893020629882812
+          },
+          {
+            "begin_char": 3498,
+            "end_char": 3779,
+            "sentiment": "4 stars",
+            "score": 0.38524243235588074
+          },
+          {
+            "begin_char": 3779,
+            "end_char": 3896,
+            "sentiment": "2 stars",
+            "score": 0.25193512439727783
+          },
+          {
+            "begin_char": 3897,
+            "end_char": 4108,
+            "sentiment": "5 stars",
+            "score": 0.5062646269798279
+          },
+          {
+            "begin_char": 4109,
+            "end_char": 4284,
+            "sentiment": "4 stars",
+            "score": 0.3280045688152313
+          },
+          {
+            "begin_char": 4285,
+            "end_char": 4361,
+            "sentiment": "4 stars",
+            "score": 0.3655332028865814
+          },
+          {
+            "begin_char": 4362,
+            "end_char": 4555,
+            "sentiment": "3 stars",
+            "score": 0.3709573447704315
+          },
+          {
+            "begin_char": 4556,
+            "end_char": 4564,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 4565,
+            "end_char": 4577,
+            "sentiment": "1 star",
+            "score": 0.7505857348442078
+          },
+          {
+            "begin_char": 4577,
+            "end_char": 4641,
+            "sentiment": "3 stars",
+            "score": 0.29349955916404724
+          },
+          {
+            "begin_char": 4642,
+            "end_char": 4646,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4646,
+            "end_char": 4765,
+            "sentiment": "3 stars",
+            "score": 0.2989124655723572
+          },
+          {
+            "begin_char": 4766,
+            "end_char": 4841,
+            "sentiment": "5 stars",
+            "score": 0.38703474402427673
+          },
+          {
+            "begin_char": 4842,
+            "end_char": 4954,
+            "sentiment": "3 stars",
+            "score": 0.3835409879684448
+          },
+          {
+            "begin_char": 4955,
+            "end_char": 4963,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 4963,
+            "end_char": 5028,
+            "sentiment": "3 stars",
+            "score": 0.3126049041748047
+          },
+          {
+            "begin_char": 5029,
+            "end_char": 5262,
+            "sentiment": "5 stars",
+            "score": 0.5809572339057922
+          },
+          {
+            "begin_char": 5263,
+            "end_char": 5394,
+            "sentiment": "2 stars",
+            "score": 0.39771372079849243
+          },
+          {
+            "begin_char": 5395,
+            "end_char": 5551,
+            "sentiment": "5 stars",
+            "score": 0.4045746326446533
+          },
+          {
+            "begin_char": 5552,
+            "end_char": 5658,
+            "sentiment": "5 stars",
+            "score": 0.3243606388568878
+          },
+          {
+            "begin_char": 5659,
+            "end_char": 5974,
+            "sentiment": "5 stars",
+            "score": 0.503748893737793
+          },
+          {
+            "begin_char": 5975,
+            "end_char": 6099,
+            "sentiment": "4 stars",
+            "score": 0.4827168583869934
+          },
+          {
+            "begin_char": 6099,
+            "end_char": 6147,
+            "sentiment": "3 stars",
+            "score": 0.3045799732208252
+          },
+          {
+            "begin_char": 6148,
+            "end_char": 6181,
+            "sentiment": "1 star",
+            "score": 0.5442160367965698
+          },
+          {
+            "begin_char": 6181,
+            "end_char": 6266,
+            "sentiment": "1 star",
+            "score": 0.27840375900268555
+          },
+          {
+            "begin_char": 6266,
+            "end_char": 6274,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-15",
+        "pageJO": "7013",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

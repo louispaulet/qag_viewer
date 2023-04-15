@@ -1,0 +1,887 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG531",
+    "identifiant": {
+      "numero": "531",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "Gouvernement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "FAITS REPROCHÉS À UN MEMBRE DU GOUVERNEMENT"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795982",
+        "mandatRef": "PM797787"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Première ministre",
+      "developpe": "Première ministre"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Première ministre",
+          "developpe": "Première ministre"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> FAITS REPROCHÉS À UN MEMBRE DU GOUVERNEMENT <a name=PG4></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Aurélien Saintoul.<br><br><strong>M. Aurélien Saintoul. </strong>Madame la Première ministre, après le ministre de l'intérieur et son chantage sexuel, après la ministre de la transition énergétique et ses conflits d'intérêts, voici le ministre chargé des retraites et son favoritisme ! Vous ne dirigez plus un gouvernement ; vous pataugez dans un cloaque. <i>(Exclamations sur plusieurs bancs des groupes RE et Dem.)</i><br><br><strong>Mme Marlène Schiappa, secrétaire d'État chargée de l’économie sociale et solidaire et de la vie associative.</strong> Quelle honte !<br><br><strong>M. Aurélien Saintoul. </strong>M. Dussopt s'était fait connaître par sa capacité à trahir les siens. En 2017, député, il avait voté contre le budget d'Édouard Philippe et, six jours plus tard, il le défendait au Sénat. <i>(Applaudissements sur plusieurs bancs du groupe LFI-NUPES.) </i>Entre-temps, il s'était vendu pour un strapontin ministériel. C'était déjà lamentable.<br><br><strong>Une députée du groupe RE .</strong> Fait personnel !<br><br><strong>M. Aurélien Saintoul. </strong>Or Mediapart nous apprend qu'il n'était pas novice. Dès 2009, élu maire d'Annonay, notamment pour remettre l'eau de la commune en gestion publique, il avait en fait permis à la Société d'aménagement urbain et rural (Saur), numéro trois du secteur, de continuer à faire de juteux profits. <i>(Applaudissements sur quelques bancs du groupe LFI-NUPES.)</i> En secret, l'élu de cette modeste commune s'entendait avec le PDG de la grande multinationale. Il truquait un appel d'offres pour permettre à la Saur de garder le marché. (Exclamations sur les bancs des groupes RE et Dem.)<br><br><strong>Mme Marlène Schiappa, secrétaire d'État.</strong> C'est de la diffamation !<br><br><strong>M. Erwan Balanant.</strong> T'es qui, toi ?<br><br><strong>M. Olivier Falorni.</strong> Zéro ! Minable !<br><br><strong>M. Aurélien Saintoul. </strong>M. Dussopt recevait ensuite, de la part de la Saur, deux lithographies d'un artiste coté et faisait payer par l'entreprise sa lettre d'information aux habitants. Jusqu'à peu, il niait les faits. Désormais, il est poursuivi pour favoritisme.<br><br>Et c'est ce M. Dussopt que vous chargez de mener votre réforme des retraites ? C'est lui, l'homme-qui-nous-veut-du-bien, en nous volant deux ans de vie ? <i>(Applaudissements sur les bancs du groupe LFI-NUPES.) </i>Qui peut croire qu'il agit dans l'intérêt général et pas pour sa carrière d'exécuteur des basses œuvres ? Qui peut croire qu'il veut sauver les retraites par répartition, alors qu'il les sabote ? Qui peut le croire lorsqu'il affirme que votre réforme n'est pas faite pour favoriser les fonds de pension et la retraite par capitalisation ? (Exclamations sur les bancs des groupes RE et Dem.)<br><br><strong>M. Bertrand Sorre.</strong> Tu n'as rien à faire ici ! C'est honteux !<br><br><strong>M. Sylvain Maillard.</strong> C'est insupportable !<br><br><strong>M. Aurélien Saintoul. </strong>M. Dussopt a bu l'eau de la Saur ; je ne vois pas comment il pourrait résister au champagne de BlackRock et d'AXA Prévoyance. Il est temps d'assainir, madame la Première ministre ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES. – Huées sur les bancs des groupes RE et Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la Première ministre.<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre. </i>Au cœur de notre démocratie, monsieur le député, il y a un principe : la présomption d'innocence.<br><br><strong>M. Erwan Balanant.</strong> Faites le ménage chez vous !<br><br><strong>M. Sébastien Delogu.</strong> On ne parle pas de nous !<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre . </i>Je veux dire ici toute la confiance du Président de la République et toute ma confiance à Olivier Dussopt, qui est un ministre engagé, qui a été un député engagé et un maire engagé. <i>(Applaudissements prolongés sur les bancs des groupes RE, Dem et HOR ainsi que sur quelques bancs du groupe LR. – Les députés du groupe RE se lèvent et continuent à applaudir.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 41,
+            "end_char": 66,
+            "label": "ORG",
+            "text": "UN MEMBRE DU GOUVERNEMENT"
+          },
+          {
+            "start_char": 75,
+            "end_char": 82,
+            "label": "MISC",
+            "text": "PG4></a"
+          },
+          {
+            "start_char": 100,
+            "end_char": 103,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 144,
+            "end_char": 155,
+            "label": "PER",
+            "text": "M. Aurélien"
+          },
+          {
+            "start_char": 184,
+            "end_char": 201,
+            "label": "PER",
+            "text": "Aurélien Saintoul"
+          },
+          {
+            "start_char": 212,
+            "end_char": 230,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 552,
+            "end_char": 554,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 583,
+            "end_char": 587,
+            "label": "PER",
+            "text": "Mme "
+          },
+          {
+            "start_char": 618,
+            "end_char": 622,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 634,
+            "end_char": 636,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 679,
+            "end_char": 699,
+            "label": "LOC",
+            "text": "associative.</strong"
+          },
+          {
+            "start_char": 734,
+            "end_char": 751,
+            "label": "PER",
+            "text": "Aurélien Saintoul"
+          },
+          {
+            "start_char": 762,
+            "end_char": 772,
+            "label": "PER",
+            "text": "M. Dussopt"
+          },
+          {
+            "start_char": 882,
+            "end_char": 898,
+            "label": "PER",
+            "text": "Édouard Philippe"
+          },
+          {
+            "start_char": 943,
+            "end_char": 948,
+            "label": "ORG",
+            "text": "Sénat"
+          },
+          {
+            "start_char": 1001,
+            "end_char": 1010,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1017,
+            "end_char": 1028,
+            "label": "LOC",
+            "text": "Entre-temps"
+          },
+          {
+            "start_char": 1190,
+            "end_char": 1207,
+            "label": "PER",
+            "text": "Aurélien Saintoul"
+          },
+          {
+            "start_char": 1221,
+            "end_char": 1230,
+            "label": "PER",
+            "text": "Mediapart"
+          },
+          {
+            "start_char": 1292,
+            "end_char": 1299,
+            "label": "LOC",
+            "text": "Annonay"
+          },
+          {
+            "start_char": 1395,
+            "end_char": 1432,
+            "label": "ORG",
+            "text": "Société d'aménagement urbain et rural"
+          },
+          {
+            "start_char": 1434,
+            "end_char": 1438,
+            "label": "PER",
+            "text": "Saur"
+          },
+          {
+            "start_char": 1556,
+            "end_char": 1570,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i"
+          },
+          {
+            "start_char": 1717,
+            "end_char": 1741,
+            "label": "MISC",
+            "text": "Saur de garder le marché"
+          },
+          {
+            "start_char": 1744,
+            "end_char": 1756,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 1783,
+            "end_char": 1785,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 1789,
+            "end_char": 1809,
+            "label": "MISC",
+            "text": "Dem.)<br><br><strong"
+          },
+          {
+            "start_char": 1810,
+            "end_char": 1830,
+            "label": "PER",
+            "text": "Mme Marlène Schiappa"
+          },
+          {
+            "start_char": 1901,
+            "end_char": 1927,
+            "label": "PER",
+            "text": "M. Erwan Balanant.</strong"
+          },
+          {
+            "start_char": 1989,
+            "end_char": 1993,
+            "label": "PER",
+            "text": "Zéro"
+          },
+          {
+            "start_char": 2024,
+            "end_char": 2041,
+            "label": "PER",
+            "text": "Aurélien Saintoul"
+          },
+          {
+            "start_char": 2052,
+            "end_char": 2062,
+            "label": "PER",
+            "text": "M. Dussopt"
+          },
+          {
+            "start_char": 2098,
+            "end_char": 2102,
+            "label": "MISC",
+            "text": "Saur"
+          },
+          {
+            "start_char": 2280,
+            "end_char": 2299,
+            "label": "MISC",
+            "text": "favoritisme.<br><br"
+          },
+          {
+            "start_char": 2312,
+            "end_char": 2322,
+            "label": "PER",
+            "text": "M. Dussopt"
+          },
+          {
+            "start_char": 2392,
+            "end_char": 2419,
+            "label": "PER",
+            "text": "homme-qui-nous-veut-du-bien"
+          },
+          {
+            "start_char": 2499,
+            "end_char": 2508,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2855,
+            "end_char": 2867,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 2894,
+            "end_char": 2896,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 2900,
+            "end_char": 2920,
+            "label": "MISC",
+            "text": "Dem.)<br><br><strong"
+          },
+          {
+            "start_char": 2924,
+            "end_char": 2948,
+            "label": "PER",
+            "text": "Bertrand Sorre.</strong>"
+          },
+          {
+            "start_char": 3077,
+            "end_char": 3094,
+            "label": "PER",
+            "text": "Aurélien Saintoul"
+          },
+          {
+            "start_char": 3105,
+            "end_char": 3115,
+            "label": "PER",
+            "text": "M. Dussopt"
+          },
+          {
+            "start_char": 3133,
+            "end_char": 3139,
+            "label": "MISC",
+            "text": "Saur ;"
+          },
+          {
+            "start_char": 3200,
+            "end_char": 3209,
+            "label": "MISC",
+            "text": "BlackRock"
+          },
+          {
+            "start_char": 3215,
+            "end_char": 3229,
+            "label": "ORG",
+            "text": "AXA Prévoyance"
+          },
+          {
+            "start_char": 3256,
+            "end_char": 3265,
+            "label": "PER",
+            "text": "madame la"
+          },
+          {
+            "start_char": 3331,
+            "end_char": 3340,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3376,
+            "end_char": 3378,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3407,
+            "end_char": 3410,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3451,
+            "end_char": 3466,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 3492,
+            "end_char": 3505,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 3661,
+            "end_char": 3687,
+            "label": "PER",
+            "text": "M. Erwan Balanant.</strong"
+          },
+          {
+            "start_char": 3689,
+            "end_char": 3695,
+            "label": "ORG",
+            "text": "Faites"
+          },
+          {
+            "start_char": 3736,
+            "end_char": 3762,
+            "label": "PER",
+            "text": "Sébastien Delogu.</strong>"
+          },
+          {
+            "start_char": 3804,
+            "end_char": 3817,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 3900,
+            "end_char": 3926,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3951,
+            "end_char": 3966,
+            "label": "PER",
+            "text": "Olivier Dussopt"
+          },
+          {
+            "start_char": 4100,
+            "end_char": 4102,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4104,
+            "end_char": 4107,
+            "label": "MISC",
+            "text": "Dem"
+          },
+          {
+            "start_char": 4111,
+            "end_char": 4114,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 4154,
+            "end_char": 4156,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 4175,
+            "end_char": 4184,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4211,
+            "end_char": 4229,
+            "label": "LOC",
+            "text": "applaudir.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 118,
+            "sentiment": "1 star",
+            "score": 0.4587177038192749
+          },
+          {
+            "begin_char": 119,
+            "end_char": 202,
+            "sentiment": "4 stars",
+            "score": 0.28489944338798523
+          },
+          {
+            "begin_char": 203,
+            "end_char": 212,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 212,
+            "end_char": 432,
+            "sentiment": "1 star",
+            "score": 0.4797371029853821
+          },
+          {
+            "begin_char": 433,
+            "end_char": 471,
+            "sentiment": "5 stars",
+            "score": 0.29728248715400696
+          },
+          {
+            "begin_char": 472,
+            "end_char": 502,
+            "sentiment": "1 star",
+            "score": 0.7568209767341614
+          },
+          {
+            "begin_char": 503,
+            "end_char": 587,
+            "sentiment": "3 stars",
+            "score": 0.3328828513622284
+          },
+          {
+            "begin_char": 587,
+            "end_char": 700,
+            "sentiment": "3 stars",
+            "score": 0.2934626042842865
+          },
+          {
+            "begin_char": 701,
+            "end_char": 715,
+            "sentiment": "1 star",
+            "score": 0.9202883839607239
+          },
+          {
+            "begin_char": 715,
+            "end_char": 752,
+            "sentiment": "3 stars",
+            "score": 0.28260594606399536
+          },
+          {
+            "begin_char": 753,
+            "end_char": 831,
+            "sentiment": "3 stars",
+            "score": 0.3069782853126526
+          },
+          {
+            "begin_char": 832,
+            "end_char": 949,
+            "sentiment": "3 stars",
+            "score": 0.26635634899139404
+          },
+          {
+            "begin_char": 950,
+            "end_char": 1011,
+            "sentiment": "4 stars",
+            "score": 0.3430134356021881
+          },
+          {
+            "begin_char": 1011,
+            "end_char": 1012,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 1013,
+            "end_char": 1028,
+            "sentiment": "3 stars",
+            "score": 0.36884260177612305
+          },
+          {
+            "begin_char": 1028,
+            "end_char": 1078,
+            "sentiment": "2 stars",
+            "score": 0.3167620897293091
+          },
+          {
+            "begin_char": 1079,
+            "end_char": 1119,
+            "sentiment": "1 star",
+            "score": 0.6441453695297241
+          },
+          {
+            "begin_char": 1119,
+            "end_char": 1154,
+            "sentiment": "3 stars",
+            "score": 0.32629862427711487
+          },
+          {
+            "begin_char": 1155,
+            "end_char": 1171,
+            "sentiment": "4 stars",
+            "score": 0.4014710485935211
+          },
+          {
+            "begin_char": 1171,
+            "end_char": 1208,
+            "sentiment": "3 stars",
+            "score": 0.28260594606399536
+          },
+          {
+            "begin_char": 1209,
+            "end_char": 1218,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1218,
+            "end_char": 1269,
+            "sentiment": "1 star",
+            "score": 0.33956944942474365
+          },
+          {
+            "begin_char": 1270,
+            "end_char": 1279,
+            "sentiment": "4 stars",
+            "score": 0.22062575817108154
+          },
+          {
+            "begin_char": 1280,
+            "end_char": 1300,
+            "sentiment": "4 stars",
+            "score": 0.31489497423171997
+          },
+          {
+            "begin_char": 1301,
+            "end_char": 1505,
+            "sentiment": "3 stars",
+            "score": 0.3421911597251892
+          },
+          {
+            "begin_char": 1506,
+            "end_char": 1571,
+            "sentiment": "4 stars",
+            "score": 0.30370238423347473
+          },
+          {
+            "begin_char": 1572,
+            "end_char": 1666,
+            "sentiment": "4 stars",
+            "score": 0.28450071811676025
+          },
+          {
+            "begin_char": 1667,
+            "end_char": 1742,
+            "sentiment": "1 star",
+            "score": 0.25595274567604065
+          },
+          {
+            "begin_char": 1743,
+            "end_char": 1859,
+            "sentiment": "4 stars",
+            "score": 0.3164750337600708
+          },
+          {
+            "begin_char": 1860,
+            "end_char": 1885,
+            "sentiment": "1 star",
+            "score": 0.9075759053230286
+          },
+          {
+            "begin_char": 1885,
+            "end_char": 1944,
+            "sentiment": "1 star",
+            "score": 0.2611924409866333
+          },
+          {
+            "begin_char": 1944,
+            "end_char": 1988,
+            "sentiment": "3 stars",
+            "score": 0.2948834002017975
+          },
+          {
+            "begin_char": 1989,
+            "end_char": 1995,
+            "sentiment": "1 star",
+            "score": 0.9203963279724121
+          },
+          {
+            "begin_char": 1996,
+            "end_char": 2005,
+            "sentiment": "1 star",
+            "score": 0.9157884120941162
+          },
+          {
+            "begin_char": 2005,
+            "end_char": 2042,
+            "sentiment": "3 stars",
+            "score": 0.28260594606399536
+          },
+          {
+            "begin_char": 2043,
+            "end_char": 2213,
+            "sentiment": "3 stars",
+            "score": 0.341778039932251
+          },
+          {
+            "begin_char": 2214,
+            "end_char": 2246,
+            "sentiment": "1 star",
+            "score": 0.2764580249786377
+          },
+          {
+            "begin_char": 2247,
+            "end_char": 2378,
+            "sentiment": "3 stars",
+            "score": 0.23417240381240845
+          },
+          {
+            "begin_char": 2379,
+            "end_char": 2453,
+            "sentiment": "1 star",
+            "score": 0.28721243143081665
+          },
+          {
+            "begin_char": 2454,
+            "end_char": 2509,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 2509,
+            "end_char": 2510,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 2511,
+            "end_char": 2515,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2515,
+            "end_char": 2620,
+            "sentiment": "1 star",
+            "score": 0.38743776082992554
+          },
+          {
+            "begin_char": 2621,
+            "end_char": 2710,
+            "sentiment": "1 star",
+            "score": 0.41639959812164307
+          },
+          {
+            "begin_char": 2711,
+            "end_char": 2853,
+            "sentiment": "1 star",
+            "score": 0.3143548369407654
+          },
+          {
+            "begin_char": 2854,
+            "end_char": 2855,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 2855,
+            "end_char": 2948,
+            "sentiment": "3 stars",
+            "score": 0.3371525704860687
+          },
+          {
+            "begin_char": 2949,
+            "end_char": 2975,
+            "sentiment": "1 star",
+            "score": 0.7835424542427063
+          },
+          {
+            "begin_char": 2976,
+            "end_char": 3036,
+            "sentiment": "1 star",
+            "score": 0.7576097249984741
+          },
+          {
+            "begin_char": 3037,
+            "end_char": 3058,
+            "sentiment": "1 star",
+            "score": 0.7743176817893982
+          },
+          {
+            "begin_char": 3058,
+            "end_char": 3095,
+            "sentiment": "3 stars",
+            "score": 0.28260594606399536
+          },
+          {
+            "begin_char": 3096,
+            "end_char": 3139,
+            "sentiment": "1 star",
+            "score": 0.40090441703796387
+          },
+          {
+            "begin_char": 3140,
+            "end_char": 3230,
+            "sentiment": "2 stars",
+            "score": 0.34150367975234985
+          },
+          {
+            "begin_char": 3231,
+            "end_char": 3285,
+            "sentiment": "5 stars",
+            "score": 0.32951873540878296
+          },
+          {
+            "begin_char": 3286,
+            "end_char": 3341,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 3342,
+            "end_char": 3349,
+            "sentiment": "2 stars",
+            "score": 0.3128836452960968
+          },
+          {
+            "begin_char": 3350,
+            "end_char": 3424,
+            "sentiment": "3 stars",
+            "score": 0.3312431275844574
+          },
+          {
+            "begin_char": 3424,
+            "end_char": 3425,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 3426,
+            "end_char": 3524,
+            "sentiment": "3 stars",
+            "score": 0.28298741579055786
+          },
+          {
+            "begin_char": 3525,
+            "end_char": 3543,
+            "sentiment": "4 stars",
+            "score": 0.3165116310119629
+          },
+          {
+            "begin_char": 3544,
+            "end_char": 3548,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3548,
+            "end_char": 3717,
+            "sentiment": "5 stars",
+            "score": 0.4438980519771576
+          },
+          {
+            "begin_char": 3717,
+            "end_char": 3762,
+            "sentiment": "3 stars",
+            "score": 0.3111233115196228
+          },
+          {
+            "begin_char": 3763,
+            "end_char": 3788,
+            "sentiment": "1 star",
+            "score": 0.28218239545822144
+          },
+          {
+            "begin_char": 3788,
+            "end_char": 3856,
+            "sentiment": "3 stars",
+            "score": 0.3141862452030182
+          },
+          {
+            "begin_char": 3857,
+            "end_char": 4042,
+            "sentiment": "5 stars",
+            "score": 0.7462287545204163
+          },
+          {
+            "begin_char": 4043,
+            "end_char": 4157,
+            "sentiment": "4 stars",
+            "score": 0.33931031823158264
+          },
+          {
+            "begin_char": 4158,
+            "end_char": 4234,
+            "sentiment": "5 stars",
+            "score": 0.29606133699417114
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-08",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-08",
+        "pageJO": "951",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

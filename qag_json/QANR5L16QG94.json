@@ -1,0 +1,563 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG94",
+    "identifiant": {
+      "numero": "94",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "professions et activités sociales",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Suites du ségur de la santé"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793796",
+        "mandatRef": "PM796536"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Solidarités, autonomie et personnes handicapées",
+      "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Solidarités, autonomie et personnes handicapées",
+          "developpe": "Ministère des solidarités, de l'autonomie et des personnes handicapées"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-08-03",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SUITES DU SÉGUR DE LA SANTÉ <a name=PG13></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. David Taupiac.<br><br><strong>M. David Taupiac. </strong>Monsieur le ministre des solidarités, de l'autonomie et des personnes handicapées, ma question est relative aux oubliés du Ségur de la santé c'est-à-dire aux professionnels aux rémunérations les plus faibles, notamment ceux exerçant les métiers administratifs, techniques et logistiques.<br><br><strong>M. Thibault Bazin.</strong> Il a raison ! Il y a des oubliés !<br><br><strong>M. David Taupiac. </strong>Cet oubli place le secteur social et médico-social au bord de la rupture. Les différences persistantes de traitement en matière de salaire suscitent un profond sentiment d'injustice chez des professionnels qui exercent les mêmes métiers au service des publics vulnérables alors que seuls les lieux d'exercices diffèrent.<br><br>Prenons l’exemple d’un établissement de ma circonscription du Gers qui comprend un EHPAD, un foyer d'accueil médicalisé (FAM) et une maison d'enfant à caractère social (MECS). Sur les 194 membres du personnel, 149 perçoivent le complément de traitement indiciaire ou la prime de revalorisation, mais 45 en sont exclues.<br><br>Il est injustifiable que, dans un même établissement, deux comptables travaillant dans le même bureau mais dépendant l’un de l’EHPAD et l’autre d'un FAM soient traités différemment. Les conséquences pour les structures sont dramatiques : des difficultés de gestion humaine, un climat social très dégradé et des démissions de plus en plus nombreuses. <i>(Applaudissements parmi les députés non-inscrits.)</i><br><br>Monsieur le ministre, après le Ségur 1, les extensions issues des accords Laforcade, le Ségur 2, l'avenant 43 pour l'aide à domicile, et la conférence des métiers de l'accompagnement social et médico-social du 18 février, combien faudra-t-il encore de décrets pour mettre fin aux différences qui persistent entre des professionnels qui exercent le même métier ?<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre des solidarités, de l'autonomie et des personnes handicapées.<br><br><strong>M. Aurélien Pradié.</strong> Et Damien Abad, où est-il ?<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre des solidarités, de l'autonomie et des personnes handicapées. </i>Monsieur Taupiac, alors que la France connaît encore aujourd'hui de très fortes chaleurs, permettez-moi de saluer une nouvelle fois l'engagement et la mobilisation de l'ensemble des personnels et des acteurs pour protéger les personnes les plus fragiles. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br>Au sortir de la première vague de la crise sanitaire, le Gouvernement a engagé des discussions d'une ampleur inédite. Le Ségur de la santé a d'abord concerné les revalorisations salariales destinées à reconnaître l'engagement des soignants au sein de l'hôpital public puis des EHPAD, jusqu'à aboutir à la conférence des métiers de l'accompagnement social et médico-social du 18 février dernier visant à reconnaître l'engagement de l'ensemble des métiers des filières socio-éducatives.<br><br><strong>M. Jean-Pierre Vigier.</strong> Il reste beaucoup d'oubliés !<br><br><strong>M. Jean-Christophe Combe,</strong><i> ministre . </i>L'État a pris à ce point ses responsabilités – il a signé une convention avec l'Assemblée des départements de France – qu'il dépense aujourd'hui près de 12 milliards d'euros en année pleine pour financer ces mesures.<br><br>J'en appelle aussi à la responsabilité de chacun des acteurs des territoires comme les collectivités et les opérateurs. Les discussions ne sont pas terminées et certaines se déroulent aujourd'hui même au sein des branches comme des entreprises. Il faut que l'ensemble des accords passés au niveau national, qui ont trouvé une déclinaison dans chacune des branches, puissent être mis en pratique de façon très concrète par chaque opérateur.<br><br>Les discussions se poursuivront dans chacune des filières et pour chacun des métiers, notamment pour harmoniser les rémunérations et l'attractivité. Elles se déroulent aujourd'hui au sein des branches mais aussi de certaines filières qui n'ont pas encore été concernées par les revalorisations. Je pense en particulier à celle de la petite enfance, qui fera l'objet de discussions spécifiques dans le cadre de la renégociation de la convention d'objectifs et de gestion signée avec la Caisse nationale des allocations familiales (CNAF). <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>M. Thibault Bazin.</strong> Vous n'avez pas répondu !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 29,
+            "label": "MISC",
+            "text": "SUITES"
+          },
+          {
+            "start_char": 33,
+            "end_char": 38,
+            "label": "ORG",
+            "text": "SÉGUR"
+          },
+          {
+            "start_char": 45,
+            "end_char": 50,
+            "label": "ORG",
+            "text": "SANTÉ"
+          },
+          {
+            "start_char": 85,
+            "end_char": 88,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 129,
+            "end_char": 161,
+            "label": "PER",
+            "text": "M. David Taupiac.<br><br><strong"
+          },
+          {
+            "start_char": 165,
+            "end_char": 178,
+            "label": "PER",
+            "text": "David Taupiac"
+          },
+          {
+            "start_char": 189,
+            "end_char": 197,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 312,
+            "end_char": 342,
+            "label": "ORG",
+            "text": "Ségur de la santé c'est-à-dire"
+          },
+          {
+            "start_char": 492,
+            "end_char": 503,
+            "label": "PER",
+            "text": "M. Thibault"
+          },
+          {
+            "start_char": 573,
+            "end_char": 586,
+            "label": "PER",
+            "text": "David Taupiac"
+          },
+          {
+            "start_char": 925,
+            "end_char": 935,
+            "label": "LOC",
+            "text": "Prenons l’"
+          },
+          {
+            "start_char": 943,
+            "end_char": 945,
+            "label": "LOC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1008,
+            "end_char": 1013,
+            "label": "ORG",
+            "text": "EHPAD"
+          },
+          {
+            "start_char": 1046,
+            "end_char": 1049,
+            "label": "ORG",
+            "text": "FAM"
+          },
+          {
+            "start_char": 1094,
+            "end_char": 1098,
+            "label": "ORG",
+            "text": "MECS"
+          },
+          {
+            "start_char": 1236,
+            "end_char": 1251,
+            "label": "MISC",
+            "text": "exclues.<br><br"
+          },
+          {
+            "start_char": 1369,
+            "end_char": 1371,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1377,
+            "end_char": 1379,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1379,
+            "end_char": 1384,
+            "label": "ORG",
+            "text": "EHPAD"
+          },
+          {
+            "start_char": 1388,
+            "end_char": 1390,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 1401,
+            "end_char": 1404,
+            "label": "MISC",
+            "text": "FAM"
+          },
+          {
+            "start_char": 1667,
+            "end_char": 1675,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1698,
+            "end_char": 1703,
+            "label": "ORG",
+            "text": "Ségur"
+          },
+          {
+            "start_char": 1733,
+            "end_char": 1750,
+            "label": "MISC",
+            "text": "accords Laforcade"
+          },
+          {
+            "start_char": 1755,
+            "end_char": 1762,
+            "label": "ORG",
+            "text": "Ségur 2"
+          },
+          {
+            "start_char": 2044,
+            "end_char": 2047,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2088,
+            "end_char": 2090,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2183,
+            "end_char": 2207,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 2212,
+            "end_char": 2223,
+            "label": "PER",
+            "text": "Damien Abad"
+          },
+          {
+            "start_char": 2252,
+            "end_char": 2270,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 2365,
+            "end_char": 2381,
+            "label": "MISC",
+            "text": "Monsieur Taupiac"
+          },
+          {
+            "start_char": 2393,
+            "end_char": 2402,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2670,
+            "end_char": 2685,
+            "label": "ORG",
+            "text": "RE.)</i><br><br"
+          },
+          {
+            "start_char": 2743,
+            "end_char": 2755,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2807,
+            "end_char": 2824,
+            "label": "ORG",
+            "text": "Ségur de la santé"
+          },
+          {
+            "start_char": 2963,
+            "end_char": 2968,
+            "label": "ORG",
+            "text": "EHPAD"
+          },
+          {
+            "start_char": 3189,
+            "end_char": 3216,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier.</strong"
+          },
+          {
+            "start_char": 3263,
+            "end_char": 3281,
+            "label": "PER",
+            "text": "M. Jean-Christophe"
+          },
+          {
+            "start_char": 3318,
+            "end_char": 3322,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3396,
+            "end_char": 3432,
+            "label": "ORG",
+            "text": "Assemblée des départements de France"
+          },
+          {
+            "start_char": 3524,
+            "end_char": 3539,
+            "label": "MISC",
+            "text": "mesures.<br><br"
+          },
+          {
+            "start_char": 3969,
+            "end_char": 3986,
+            "label": "MISC",
+            "text": "opérateur.<br><br"
+          },
+          {
+            "start_char": 4472,
+            "end_char": 4515,
+            "label": "ORG",
+            "text": "Caisse nationale des allocations familiales"
+          },
+          {
+            "start_char": 4517,
+            "end_char": 4521,
+            "label": "ORG",
+            "text": "CNAF"
+          },
+          {
+            "start_char": 4574,
+            "end_char": 4597,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 103,
+            "sentiment": "4 stars",
+            "score": 0.2879074811935425
+          },
+          {
+            "begin_char": 104,
+            "end_char": 179,
+            "sentiment": "4 stars",
+            "score": 0.2556423544883728
+          },
+          {
+            "begin_char": 180,
+            "end_char": 189,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 189,
+            "end_char": 519,
+            "sentiment": "4 stars",
+            "score": 0.32942041754722595
+          },
+          {
+            "begin_char": 520,
+            "end_char": 533,
+            "sentiment": "5 stars",
+            "score": 0.3322871923446655
+          },
+          {
+            "begin_char": 534,
+            "end_char": 554,
+            "sentiment": "1 star",
+            "score": 0.43039387464523315
+          },
+          {
+            "begin_char": 554,
+            "end_char": 587,
+            "sentiment": "3 stars",
+            "score": 0.2785540223121643
+          },
+          {
+            "begin_char": 588,
+            "end_char": 597,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 597,
+            "end_char": 670,
+            "sentiment": "1 star",
+            "score": 0.6165286302566528
+          },
+          {
+            "begin_char": 671,
+            "end_char": 1100,
+            "sentiment": "4 stars",
+            "score": 0.3247203230857849
+          },
+          {
+            "begin_char": 1101,
+            "end_char": 1252,
+            "sentiment": "3 stars",
+            "score": 0.3474189341068268
+          },
+          {
+            "begin_char": 1252,
+            "end_char": 1433,
+            "sentiment": "3 stars",
+            "score": 0.3525243401527405
+          },
+          {
+            "begin_char": 1434,
+            "end_char": 1601,
+            "sentiment": "3 stars",
+            "score": 0.3044286072254181
+          },
+          {
+            "begin_char": 1602,
+            "end_char": 1667,
+            "sentiment": "3 stars",
+            "score": 0.29909318685531616
+          },
+          {
+            "begin_char": 1667,
+            "end_char": 2028,
+            "sentiment": "5 stars",
+            "score": 0.45070427656173706
+          },
+          {
+            "begin_char": 2028,
+            "end_char": 2062,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2063,
+            "end_char": 2236,
+            "sentiment": "3 stars",
+            "score": 0.2838580906391144
+          },
+          {
+            "begin_char": 2236,
+            "end_char": 2360,
+            "sentiment": "4 stars",
+            "score": 0.31012681126594543
+          },
+          {
+            "begin_char": 2361,
+            "end_char": 2619,
+            "sentiment": "5 stars",
+            "score": 0.6429166793823242
+          },
+          {
+            "begin_char": 2620,
+            "end_char": 2686,
+            "sentiment": "3 stars",
+            "score": 0.326738178730011
+          },
+          {
+            "begin_char": 2686,
+            "end_char": 2803,
+            "sentiment": "5 stars",
+            "score": 0.5300819873809814
+          },
+          {
+            "begin_char": 2804,
+            "end_char": 3217,
+            "sentiment": "4 stars",
+            "score": 0.34295162558555603
+          },
+          {
+            "begin_char": 3218,
+            "end_char": 3247,
+            "sentiment": "3 stars",
+            "score": 0.25982528924942017
+          },
+          {
+            "begin_char": 3247,
+            "end_char": 3311,
+            "sentiment": "3 stars",
+            "score": 0.3256625831127167
+          },
+          {
+            "begin_char": 3312,
+            "end_char": 3316,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3316,
+            "end_char": 3659,
+            "sentiment": "5 stars",
+            "score": 0.5702958106994629
+          },
+          {
+            "begin_char": 3660,
+            "end_char": 3784,
+            "sentiment": "4 stars",
+            "score": 0.3007815480232239
+          },
+          {
+            "begin_char": 3785,
+            "end_char": 4135,
+            "sentiment": "5 stars",
+            "score": 0.49894657731056213
+          },
+          {
+            "begin_char": 4136,
+            "end_char": 4281,
+            "sentiment": "4 stars",
+            "score": 0.38063618540763855
+          },
+          {
+            "begin_char": 4282,
+            "end_char": 4523,
+            "sentiment": "4 stars",
+            "score": 0.48314473032951355
+          },
+          {
+            "begin_char": 4524,
+            "end_char": 4625,
+            "sentiment": "3 stars",
+            "score": 0.36494892835617065
+          },
+          {
+            "begin_char": 4626,
+            "end_char": 4651,
+            "sentiment": "1 star",
+            "score": 0.7795746922492981
+          },
+          {
+            "begin_char": 4651,
+            "end_char": 4659,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-08-03",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-08-03",
+        "pageJO": "3311",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,737 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG211",
+    "identifiant": {
+      "numero": "211",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "outre-mer",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "CRISE DE L'EAU POTABLE EN GUADELOUPE ET À MAYOTTE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720960",
+        "mandatRef": "PM797643"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Outre-mer",
+      "developpe": "Ministère auprès du ministre de l’intérieur et des outre-mer, chargé des outre-mer"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Outre-mer",
+          "developpe": "Ministère auprès du ministre de l’intérieur et des outre-mer, chargé des outre-mer"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CRISE DE L'EAU POTABLE EN GUADELOUPE ET À MAYOTTE <a name=PG18></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Olivier Serva.<br><br><strong>M. Olivier Serva. </strong>Cette question, à laquelle j'associe ma collègue Estelle Youssouffa, s'adresse à M. le ministre délégué chargé des outre-mer.<br><br>À l'heure où je m'adresse à vous, plus de 40 000 foyers guadeloupéens sont privés d'eau ; beaucoup le sont depuis le passage de la tempête Fiona, en septembre dernier.<br><br>Monsieur le ministre délégué, ce chiffre appelle à se demander si le plan Orsec – organisation de la réponse de sécurité civile – « eau potable » a été appliqué avec une intensité suffisante. <i>(Applaudissements sur plusieurs bancs du groupe LFI-NUPES.)</i> J'ai sollicité le déclenchement de ce dispositif au lendemain du passage de la tempête et après avoir été sensibilisé par le collectif Moun Gwadloup. Mais il reste insuffisant. Tous les jours, je suis interpellé par des Guadeloupéens, notamment par des personnes âgées isolées, qui n'ont pas d'eau. Alors que nous résidons à Chauffour aux Abymes, dans le périmètre du plan Orsec eau potable, mes voisins et moi-même sommes privés d'eau depuis cinq jours. L'instruction du plan Orsec prévoit la distribution de 3 litres d'eau potable par habitant et par jour. Mais, sur le terrain, nous n'en voyons pas la couleur tous les jours.<br><br>Autre point : les zones non prises en compte par le plan Orsec où l'eau est impropre à la consommation. Dans les stations d'épuration, les filtres à charbon, essentiels au filtrage du chlordécone, dysfonctionnent depuis le passage de la tempête. Cela inquiète au plus haut point.<br><br>Il faudrait donc commencer par intensifier le plan Orsec dédié à l'eau potable et l'étendre aux zones insuffisamment prises en compte.<br><br>En outre, j'appelle à des mesures d'urgence supplémentaires. Le prix du pack de six bouteilles d'eau de 1,5 litre doit être fixé à 1 euro. En Guadeloupe, 34,5 % de la population vit sous le seuil de pauvreté national ; le coût de la vie y est plus élevé que dans l'Hexagone et le pouvoir d'achat se détériore quotidiennement. Monsieur le ministre délégué, payer un pack d'eau plus de 5 euros, alors que ce liquide vital ne coule pas dans les robinets, relève de l'agression ! <i>(Mme Delphine Batho applaudit.)</i><br><br>Enfin, j'appelle votre attention sur la situation à Mayotte. Sur l'île, un tiers de la population n'a pas accès à l'eau potable et 18 % des habitants sont raccordés à un réseau d'assainissement.<br><br>Qu'allez-vous faire pour les citoyens français de Mayotte et de Guadeloupe ? <i>(Applaudissements sur les bancs des groupes LIOT, RN, LFI-NUPES, SOC, Écolo-NUPES et GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé des outre-mer.<br><br><strong>M. Jean-François Carenco,</strong><i> ministre délégué chargé des outre-mer. </i>Monsieur le député, l'accès à l'eau en Guadeloupe est une question prioritaire. Nul ne peut en douter, elle mobilise fortement mon ministère et, au-delà, tout le Gouvernement. La sécurité civile, placée sous l'autorité directe de Gérald Darmanin, est particulièrement concernée. Vous le savez, le plan Orsec a été déclenché de manière exceptionnelle, après la tempête Fiona ; il n'est pas destiné à répondre aux problèmes structurels qui se posent en Guadeloupe. Ce plan vise à approvisionner en eau potable les lieux publics les plus sensibles, comme les hôpitaux, et les personnes fragiles isolées.<br><br>Après le passage de la tempête Fiona, nous avons constaté de nombreux dégâts sur les prises d'eau, notamment sur le <i>feeder </i>de Belle Eau Cadeau, qui approvisionne tout le sud de l'île de Grande-Terre, dont votre territoire, monsieur le député. Cette casse est majeure et mérite des travaux lourds.<br><br>Pour faire face à cette situation, la préfecture de Guadeloupe a activé le centre opérationnel départemental. Cela a permis l'installation d'un module de potabilisation à Fouillole ; quarante-cinq logisticiens sont spécialement venus de la métropole pour aider les zones du sud de l'île de Grande-Terre. Au 5 octobre, 1 300 palettes de bouteilles d'eau avaient été distribuées, soit 1 million de litres d'eau, et 500 000 litres en citerne. Une solution de réparation provisoire du <i>feeder </i>a été trouvée et sera appliquée d'ici mi-novembre ; une solution définitive sera trouvée pour Noël.<br><br>J'en viens aux problèmes structurels – ce sont les plus importants. Mon directeur de cabinet s'est rendu sur place la semaine du 10 octobre et une mission interministérielle a été lancée afin de parvenir à un accord sur les besoins et les modalités d'un accompagnement renforcé du SMGEAG – syndicat mixte de gestion de l'eau et de l'assainissement de Guadeloupe. Sur les neuf points concernés, une convention sera signée dans les deux prochaines semaines. Je suis très optimiste : nous résoudrons enfin les problèmes d'eau en Guadeloupe.<br><br>Pour ce qui est de Mayotte, question que vous abordez à la toute fin de votre question, un contrat de 400 millions d'euros a été signé…<br><br><strong>Mme la présidente.</strong> Merci, monsieur le ministre délégué.<br> <p>",
+        "entities": [
+          {
+            "start_char": 49,
+            "end_char": 59,
+            "label": "ORG",
+            "text": "GUADELOUPE"
+          },
+          {
+            "start_char": 63,
+            "end_char": 74,
+            "label": "MISC",
+            "text": "À MAYOTTE <"
+          },
+          {
+            "start_char": 107,
+            "end_char": 110,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 151,
+            "end_char": 161,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 187,
+            "end_char": 200,
+            "label": "PER",
+            "text": "Olivier Serva"
+          },
+          {
+            "start_char": 260,
+            "end_char": 278,
+            "label": "PER",
+            "text": "Estelle Youssouffa"
+          },
+          {
+            "start_char": 292,
+            "end_char": 294,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 503,
+            "end_char": 519,
+            "label": "MISC",
+            "text": "dernier.<br><br>"
+          },
+          {
+            "start_char": 519,
+            "end_char": 527,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 593,
+            "end_char": 598,
+            "label": "LOC",
+            "text": "Orsec"
+          },
+          {
+            "start_char": 762,
+            "end_char": 776,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i"
+          },
+          {
+            "start_char": 913,
+            "end_char": 926,
+            "label": "PER",
+            "text": "Moun Gwadloup"
+          },
+          {
+            "start_char": 998,
+            "end_char": 1011,
+            "label": "LOC",
+            "text": "Guadeloupéens"
+          },
+          {
+            "start_char": 1103,
+            "end_char": 1112,
+            "label": "LOC",
+            "text": "Chauffour"
+          },
+          {
+            "start_char": 1117,
+            "end_char": 1123,
+            "label": "LOC",
+            "text": "Abymes"
+          },
+          {
+            "start_char": 1151,
+            "end_char": 1156,
+            "label": "LOC",
+            "text": "Orsec"
+          },
+          {
+            "start_char": 1255,
+            "end_char": 1260,
+            "label": "LOC",
+            "text": "Orsec"
+          },
+          {
+            "start_char": 1400,
+            "end_char": 1414,
+            "label": "MISC",
+            "text": "jours.<br><br>"
+          },
+          {
+            "start_char": 1471,
+            "end_char": 1476,
+            "label": "LOC",
+            "text": "Orsec"
+          },
+          {
+            "start_char": 1687,
+            "end_char": 1700,
+            "label": "MISC",
+            "text": "point.<br><br"
+          },
+          {
+            "start_char": 1752,
+            "end_char": 1757,
+            "label": "LOC",
+            "text": "Orsec"
+          },
+          {
+            "start_char": 1828,
+            "end_char": 1842,
+            "label": "MISC",
+            "text": "compte.<br><br"
+          },
+          {
+            "start_char": 1985,
+            "end_char": 1995,
+            "label": "LOC",
+            "text": "Guadeloupe"
+          },
+          {
+            "start_char": 2108,
+            "end_char": 2116,
+            "label": "LOC",
+            "text": "Hexagone"
+          },
+          {
+            "start_char": 2169,
+            "end_char": 2177,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2417,
+            "end_char": 2424,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 2544,
+            "end_char": 2566,
+            "label": "MISC",
+            "text": "assainissement.<br><br"
+          },
+          {
+            "start_char": 2617,
+            "end_char": 2624,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 2631,
+            "end_char": 2641,
+            "label": "LOC",
+            "text": "Guadeloupe"
+          },
+          {
+            "start_char": 2697,
+            "end_char": 2699,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 2701,
+            "end_char": 2710,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2712,
+            "end_char": 2715,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2717,
+            "end_char": 2728,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2732,
+            "end_char": 2762,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2763,
+            "end_char": 2766,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2807,
+            "end_char": 2809,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2867,
+            "end_char": 2883,
+            "label": "PER",
+            "text": "M. Jean-François"
+          },
+          {
+            "start_char": 2948,
+            "end_char": 2956,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2987,
+            "end_char": 2997,
+            "label": "LOC",
+            "text": "Guadeloupe"
+          },
+          {
+            "start_char": 3110,
+            "end_char": 3122,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3178,
+            "end_char": 3193,
+            "label": "PER",
+            "text": "Gérald Darmanin"
+          },
+          {
+            "start_char": 3250,
+            "end_char": 3255,
+            "label": "LOC",
+            "text": "Orsec"
+          },
+          {
+            "start_char": 3316,
+            "end_char": 3321,
+            "label": "PER",
+            "text": "Fiona"
+          },
+          {
+            "start_char": 3399,
+            "end_char": 3409,
+            "label": "LOC",
+            "text": "Guadeloupe"
+          },
+          {
+            "start_char": 3540,
+            "end_char": 3555,
+            "label": "MISC",
+            "text": "isolées.<br><br"
+          },
+          {
+            "start_char": 3587,
+            "end_char": 3592,
+            "label": "PER",
+            "text": "Fiona"
+          },
+          {
+            "start_char": 3689,
+            "end_char": 3705,
+            "label": "PER",
+            "text": "Belle Eau Cadeau"
+          },
+          {
+            "start_char": 3742,
+            "end_char": 3761,
+            "label": "LOC",
+            "text": "île de Grande-Terre"
+          },
+          {
+            "start_char": 3905,
+            "end_char": 3929,
+            "label": "LOC",
+            "text": "préfecture de Guadeloupe"
+          },
+          {
+            "start_char": 4038,
+            "end_char": 4047,
+            "label": "PER",
+            "text": "Fouillole"
+          },
+          {
+            "start_char": 4150,
+            "end_char": 4169,
+            "label": "LOC",
+            "text": "île de Grande-Terre"
+          },
+          {
+            "start_char": 4750,
+            "end_char": 4756,
+            "label": "ORG",
+            "text": "SMGEAG"
+          },
+          {
+            "start_char": 4820,
+            "end_char": 4830,
+            "label": "LOC",
+            "text": "Guadeloupe"
+          },
+          {
+            "start_char": 5033,
+            "end_char": 5040,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 5165,
+            "end_char": 5192,
+            "label": "PER",
+            "text": "Mme la présidente.</strong>"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 125,
+            "sentiment": "3 stars",
+            "score": 0.2950041890144348
+          },
+          {
+            "begin_char": 126,
+            "end_char": 201,
+            "sentiment": "4 stars",
+            "score": 0.25564903020858765
+          },
+          {
+            "begin_char": 202,
+            "end_char": 211,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 211,
+            "end_char": 433,
+            "sentiment": "3 stars",
+            "score": 0.2693026065826416
+          },
+          {
+            "begin_char": 434,
+            "end_char": 519,
+            "sentiment": "5 stars",
+            "score": 0.3306102156639099
+          },
+          {
+            "begin_char": 519,
+            "end_char": 710,
+            "sentiment": "4 stars",
+            "score": 0.36161109805107117
+          },
+          {
+            "begin_char": 711,
+            "end_char": 777,
+            "sentiment": "4 stars",
+            "score": 0.3210528790950775
+          },
+          {
+            "begin_char": 778,
+            "end_char": 927,
+            "sentiment": "4 stars",
+            "score": 0.3796180784702301
+          },
+          {
+            "begin_char": 928,
+            "end_char": 954,
+            "sentiment": "3 stars",
+            "score": 0.5140811204910278
+          },
+          {
+            "begin_char": 955,
+            "end_char": 1076,
+            "sentiment": "5 stars",
+            "score": 0.30462637543678284
+          },
+          {
+            "begin_char": 1077,
+            "end_char": 1188,
+            "sentiment": "5 stars",
+            "score": 0.33801016211509705
+          },
+          {
+            "begin_char": 1188,
+            "end_char": 1189,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 1189,
+            "end_char": 1232,
+            "sentiment": "1 star",
+            "score": 0.47073090076446533
+          },
+          {
+            "begin_char": 1233,
+            "end_char": 1336,
+            "sentiment": "3 stars",
+            "score": 0.3086850047111511
+          },
+          {
+            "begin_char": 1337,
+            "end_char": 1414,
+            "sentiment": "3 stars",
+            "score": 0.3690871298313141
+          },
+          {
+            "begin_char": 1414,
+            "end_char": 1517,
+            "sentiment": "3 stars",
+            "score": 0.3832828104496002
+          },
+          {
+            "begin_char": 1518,
+            "end_char": 1659,
+            "sentiment": "3 stars",
+            "score": 0.3197837769985199
+          },
+          {
+            "begin_char": 1660,
+            "end_char": 1701,
+            "sentiment": "1 star",
+            "score": 0.3580611050128937
+          },
+          {
+            "begin_char": 1701,
+            "end_char": 1903,
+            "sentiment": "4 stars",
+            "score": 0.256872296333313
+          },
+          {
+            "begin_char": 1904,
+            "end_char": 1981,
+            "sentiment": "2 stars",
+            "score": 0.3137270212173462
+          },
+          {
+            "begin_char": 1982,
+            "end_char": 2061,
+            "sentiment": "3 stars",
+            "score": 0.3209640681743622
+          },
+          {
+            "begin_char": 2062,
+            "end_char": 2096,
+            "sentiment": "3 stars",
+            "score": 0.3634885251522064
+          },
+          {
+            "begin_char": 2097,
+            "end_char": 2168,
+            "sentiment": "3 stars",
+            "score": 0.29209622740745544
+          },
+          {
+            "begin_char": 2169,
+            "end_char": 2318,
+            "sentiment": "1 star",
+            "score": 0.7765591740608215
+          },
+          {
+            "begin_char": 2319,
+            "end_char": 2335,
+            "sentiment": "3 stars",
+            "score": 0.3060905635356903
+          },
+          {
+            "begin_char": 2336,
+            "end_char": 2425,
+            "sentiment": "5 stars",
+            "score": 0.3157692849636078
+          },
+          {
+            "begin_char": 2426,
+            "end_char": 2567,
+            "sentiment": "3 stars",
+            "score": 0.34570029377937317
+          },
+          {
+            "begin_char": 2567,
+            "end_char": 2643,
+            "sentiment": "1 star",
+            "score": 0.25345396995544434
+          },
+          {
+            "begin_char": 2644,
+            "end_char": 2781,
+            "sentiment": "4 stars",
+            "score": 0.33324870467185974
+          },
+          {
+            "begin_char": 2782,
+            "end_char": 2943,
+            "sentiment": "4 stars",
+            "score": 0.30730941891670227
+          },
+          {
+            "begin_char": 2944,
+            "end_char": 2948,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2948,
+            "end_char": 3027,
+            "sentiment": "4 stars",
+            "score": 0.3848266005516052
+          },
+          {
+            "begin_char": 3028,
+            "end_char": 3123,
+            "sentiment": "5 stars",
+            "score": 0.7426021695137024
+          },
+          {
+            "begin_char": 3124,
+            "end_char": 3226,
+            "sentiment": "4 stars",
+            "score": 0.48139944672584534
+          },
+          {
+            "begin_char": 3227,
+            "end_char": 3323,
+            "sentiment": "5 stars",
+            "score": 0.429931640625
+          },
+          {
+            "begin_char": 3324,
+            "end_char": 3410,
+            "sentiment": "2 stars",
+            "score": 0.42175477743148804
+          },
+          {
+            "begin_char": 3411,
+            "end_char": 3556,
+            "sentiment": "4 stars",
+            "score": 0.32938840985298157
+          },
+          {
+            "begin_char": 3556,
+            "end_char": 3805,
+            "sentiment": "4 stars",
+            "score": 0.2514289617538452
+          },
+          {
+            "begin_char": 3806,
+            "end_char": 3976,
+            "sentiment": "4 stars",
+            "score": 0.4025355279445648
+          },
+          {
+            "begin_char": 3977,
+            "end_char": 4049,
+            "sentiment": "4 stars",
+            "score": 0.44829896092414856
+          },
+          {
+            "begin_char": 4050,
+            "end_char": 4170,
+            "sentiment": "4 stars",
+            "score": 0.3814280331134796
+          },
+          {
+            "begin_char": 4171,
+            "end_char": 4306,
+            "sentiment": "5 stars",
+            "score": 0.3013187646865845
+          },
+          {
+            "begin_char": 4307,
+            "end_char": 4413,
+            "sentiment": "3 stars",
+            "score": 0.3690482974052429
+          },
+          {
+            "begin_char": 4414,
+            "end_char": 4469,
+            "sentiment": "2 stars",
+            "score": 0.32531291246414185
+          },
+          {
+            "begin_char": 4469,
+            "end_char": 4505,
+            "sentiment": "2 stars",
+            "score": 0.46290239691734314
+          },
+          {
+            "begin_char": 4506,
+            "end_char": 4508,
+            "sentiment": "3 stars",
+            "score": 0.25771647691726685
+          },
+          {
+            "begin_char": 4508,
+            "end_char": 4536,
+            "sentiment": "5 stars",
+            "score": 0.373794823884964
+          },
+          {
+            "begin_char": 4537,
+            "end_char": 4831,
+            "sentiment": "4 stars",
+            "score": 0.5146532654762268
+          },
+          {
+            "begin_char": 4832,
+            "end_char": 4924,
+            "sentiment": "4 stars",
+            "score": 0.3113604485988617
+          },
+          {
+            "begin_char": 4925,
+            "end_char": 5192,
+            "sentiment": "5 stars",
+            "score": 0.49316298961639404
+          },
+          {
+            "begin_char": 5193,
+            "end_char": 5233,
+            "sentiment": "5 stars",
+            "score": 0.42871302366256714
+          },
+          {
+            "begin_char": 5234,
+            "end_char": 5237,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-26",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-26",
+        "pageJO": "4567",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

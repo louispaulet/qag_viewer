@@ -1,0 +1,935 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG71",
+    "identifiant": {
+      "numero": "71",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "maladies",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Vaccination contre la variole"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA346782",
+        "mandatRef": "PM797691"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Organisation territoriale et professions de santé",
+      "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Organisation territoriale et professions de santé",
+          "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> VACCINATION CONTRE LA VARIOLE <a name=PG17></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Philippe Juvin.<br><br><strong>M. Philippe Juvin. </strong>Ma question s'adresse à M. le ministre de la santé : je voudrais revenir sur le sujet de la vaccination contre la variole du singe. Plusieurs réponses nous ont déjà été apportées aujourd'hui ; reste à en préciser la portée.<br><br>Tout d'abord, la Haute Autorité de santé a émis très rapidement – dès le 20 mai, cela a été souligné – des recommandations touchant cette vaccination ; or nombre de nos concitoyens nous font savoir que, souhaitant se faire vacciner, ils n'y parviennent pas. J'ai moi-même fait le test, ce matin, en tentant d'obtenir un rendez-vous : le délai d'attente est de trois semaines ou un mois, c'est-à-dire incompatible avec ce que préconise la HAS en cas de prophylaxie postexposition.<br><br>Ensuite, la question des stocks de vaccin est fondamentale. Les États-Unis disposeraient de 1 million de doses, les Allemands en ont acheté 240 000. Vous nous disiez tout à l'heure, madame la ministre, qu'il en serait déstocké autant que nécessaire, mais cela ne répond pas à la question : quels sont les stocks de la France ?<br><br><strong>M. Jean-Paul Lecoq.</strong> Très bonne question !<br><br><strong>M. Philippe Juvin. </strong>Au-delà de la variole du singe, le problème est celui d'une éventuelle utilisation de la variole à des fins terroristes. En 2006, il existait un plan national élaboré dans cette perspective et disposant que nous conservions 75 millions de doses. Encore une fois, madame la ministre, quel est l'état de nos stocks ? <i>(Applaudissements sur les bancs du groupe LR. - Mme Sophie Taillé-Polian applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée auprès du ministre de la santé et de la prévention, chargée de l’organisation territoriale et des professions de santé.<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée auprès du ministre de la santé et de la prévention, chargée de l’organisation territoriale et des professions de santé. </i>Merci de rappeler, monsieur Juvin, que, sitôt émises les recommandations de la HAS, la France a été en mesure de vacciner – dès le 24 mai. Merci d'avoir oublié de rappeler <i>(« Oh ! » sur les bancs du groupe LR)</i> que, la HAS ayant préconisé le 8 juillet une vaccination préventive, les ARS ont fait débuter celle-ci dès le 11 juillet.<br><br><strong>M. Jocelyn Dessigny.</strong> Ce n'est pas là la question !<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée. </i>Je vous l'ai dit tout à l'heure : 42 000 doses ont déjà été déstockées.<br><br><strong>M. Jean-Paul Lecoq.</strong> Et combien sont en stock ?<br><br><strong>M. Patrick Hetzel.</strong> Combien en reste-t-il ?<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée. </i>Durant les prochaines semaines, ce déstockage se poursuivra autant que nécessaire, en fonction des demandes que les ARS feront remonter du terrain. Le vaccin doit être expédié au bon endroit :…<br><br><strong>M. Patrick Hetzel.</strong> Vous savez donc combien de doses sont disponibles, et vous ne le dites pas !<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée. </i>…ainsi, 50 % des infections ont lieu en Île-de-France.<br><br><strong>M. Thibault Bazin.</strong> Combien de doses ?<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée. </i>Ne nous reprocheriez-vous pas d'envoyer des doses là où personne n'a déclaré la maladie ni réclamé le vaccin ? Nous les développons donc selon les demandes des ARS.<br><br><strong>Mme Marie-Christine Dalloz.</strong> Combien ?<br><br><strong>M. Patrick Hetzel.</strong> Tout laisse penser que le Gouvernement ne sait pas combien de doses on a !<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée. </i>Dans certains territoires, notamment l'Île-de-France, les délais peuvent être trop longs, comme vous l'avez signalé : c'est pourquoi le ministre François Braun a annoncé… <br><br><strong>M. Philippe Gosselin et M. Jean-Paul Lecoq.</strong> Combien de doses ? Combien ?<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée. </i>…l'ouverture aujourd'hui même d'un centre de vaccination dans le 13e arrondissement de Paris. Vous le voyez, monsieur le député : depuis le début de cette épidémie, nous nous y adaptons de manière active, proactive. <i>(« Combien ? » sur les bancs du groupe LR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Philippe Juvin.<br><br><strong>M. Philippe Juvin. </strong>Merci de votre réponse, madame la ministre ; toutefois, à la question claire et précise du nombre de doses dont nous disposons, je n'ai pas eu de réponse. <i>(Applaudissements sur plusieurs bancs du groupe LR.)</i> Compte tenu de son caractère technique, sans doute pourrez-vous nous la fournir dans les semaines qui viennent. (Mêmes mouvements.) En outre, je souhaiterais que vous puissiez nous dire s'il est possible de produire ce vaccin sur le territoire national ou du moins sur celui de l'Union européenne : c'est également là un problème qu'il nous faut résoudre. (Applaudissements sur les bancs du groupe LR, ainsi que sur quelques bancs du groupe RN.)<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 41,
+            "label": "ORG",
+            "text": "VACCINATION CONTRE"
+          },
+          {
+            "start_char": 45,
+            "end_char": 52,
+            "label": "MISC",
+            "text": "VARIOLE"
+          },
+          {
+            "start_char": 87,
+            "end_char": 90,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 131,
+            "end_char": 133,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 134,
+            "end_char": 167,
+            "label": "PER",
+            "text": "Philippe Juvin.<br><br><strong>M."
+          },
+          {
+            "start_char": 168,
+            "end_char": 182,
+            "label": "PER",
+            "text": "Philippe Juvin"
+          },
+          {
+            "start_char": 217,
+            "end_char": 219,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 409,
+            "end_char": 423,
+            "label": "MISC",
+            "text": "portée.<br><br"
+          },
+          {
+            "start_char": 441,
+            "end_char": 455,
+            "label": "ORG",
+            "text": "Haute Autorité"
+          },
+          {
+            "start_char": 862,
+            "end_char": 865,
+            "label": "MISC",
+            "text": "HAS"
+          },
+          {
+            "start_char": 888,
+            "end_char": 910,
+            "label": "MISC",
+            "text": "postexposition.<br><br"
+          },
+          {
+            "start_char": 975,
+            "end_char": 985,
+            "label": "LOC",
+            "text": "États-Unis"
+          },
+          {
+            "start_char": 1027,
+            "end_char": 1036,
+            "label": "LOC",
+            "text": "Allemands"
+          },
+          {
+            "start_char": 1226,
+            "end_char": 1235,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1256,
+            "end_char": 1280,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 1322,
+            "end_char": 1336,
+            "label": "PER",
+            "text": "Philippe Juvin"
+          },
+          {
+            "start_char": 1707,
+            "end_char": 1709,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 1713,
+            "end_char": 1737,
+            "label": "PER",
+            "text": "Mme Sophie Taillé-Polian"
+          },
+          {
+            "start_char": 1779,
+            "end_char": 1782,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1823,
+            "end_char": 1826,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1911,
+            "end_char": 1913,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1983,
+            "end_char": 1992,
+            "label": "PER",
+            "text": "Mme Agnès"
+          },
+          {
+            "start_char": 2102,
+            "end_char": 2104,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2163,
+            "end_char": 2168,
+            "label": "PER",
+            "text": "Merci"
+          },
+          {
+            "start_char": 2191,
+            "end_char": 2196,
+            "label": "PER",
+            "text": "Juvin"
+          },
+          {
+            "start_char": 2242,
+            "end_char": 2245,
+            "label": "MISC",
+            "text": "HAS"
+          },
+          {
+            "start_char": 2247,
+            "end_char": 2256,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2372,
+            "end_char": 2378,
+            "label": "ORG",
+            "text": "LR)</i"
+          },
+          {
+            "start_char": 2388,
+            "end_char": 2391,
+            "label": "MISC",
+            "text": "HAS"
+          },
+          {
+            "start_char": 2453,
+            "end_char": 2456,
+            "label": "MISC",
+            "text": "ARS"
+          },
+          {
+            "start_char": 2520,
+            "end_char": 2545,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 2592,
+            "end_char": 2608,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 2743,
+            "end_char": 2767,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 2814,
+            "end_char": 2838,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 2839,
+            "end_char": 2846,
+            "label": "LOC",
+            "text": "Combien"
+          },
+          {
+            "start_char": 2878,
+            "end_char": 2894,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 3055,
+            "end_char": 3058,
+            "label": "MISC",
+            "text": "ARS"
+          },
+          {
+            "start_char": 3151,
+            "end_char": 3175,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 3268,
+            "end_char": 3284,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 3369,
+            "end_char": 3398,
+            "label": "LOC",
+            "text": "Île-de-France.<br><br><strong"
+          },
+          {
+            "start_char": 3399,
+            "end_char": 3410,
+            "label": "PER",
+            "text": "M. Thibault"
+          },
+          {
+            "start_char": 3427,
+            "end_char": 3434,
+            "label": "LOC",
+            "text": "Combien"
+          },
+          {
+            "start_char": 3461,
+            "end_char": 3477,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 3702,
+            "end_char": 3737,
+            "label": "PER",
+            "text": "Mme Marie-Christine Dalloz.</strong"
+          },
+          {
+            "start_char": 3739,
+            "end_char": 3746,
+            "label": "LOC",
+            "text": "Combien"
+          },
+          {
+            "start_char": 3767,
+            "end_char": 3791,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 3818,
+            "end_char": 3830,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3882,
+            "end_char": 3898,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 3982,
+            "end_char": 3995,
+            "label": "LOC",
+            "text": "Île-de-France"
+          },
+          {
+            "start_char": 4088,
+            "end_char": 4102,
+            "label": "PER",
+            "text": "François Braun"
+          },
+          {
+            "start_char": 4133,
+            "end_char": 4150,
+            "label": "PER",
+            "text": "Philippe Gosselin"
+          },
+          {
+            "start_char": 4154,
+            "end_char": 4156,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 4157,
+            "end_char": 4181,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 4183,
+            "end_char": 4190,
+            "label": "LOC",
+            "text": "Combien"
+          },
+          {
+            "start_char": 4202,
+            "end_char": 4209,
+            "label": "LOC",
+            "text": "Combien"
+          },
+          {
+            "start_char": 4227,
+            "end_char": 4243,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 4510,
+            "end_char": 4517,
+            "label": "LOC",
+            "text": "Combien"
+          },
+          {
+            "start_char": 4546,
+            "end_char": 4569,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4570,
+            "end_char": 4573,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4614,
+            "end_char": 4616,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 4617,
+            "end_char": 4650,
+            "label": "PER",
+            "text": "Philippe Juvin.<br><br><strong>M."
+          },
+          {
+            "start_char": 4651,
+            "end_char": 4665,
+            "label": "PER",
+            "text": "Philippe Juvin"
+          },
+          {
+            "start_char": 4676,
+            "end_char": 4681,
+            "label": "MISC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 4882,
+            "end_char": 4889,
+            "label": "ORG",
+            "text": "LR.)</i"
+          },
+          {
+            "start_char": 5004,
+            "end_char": 5009,
+            "label": "LOC",
+            "text": "Mêmes"
+          },
+          {
+            "start_char": 5171,
+            "end_char": 5187,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 5248,
+            "end_char": 5264,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 5289,
+            "end_char": 5291,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 5332,
+            "end_char": 5339,
+            "label": "MISC",
+            "text": "RN.)<br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 105,
+            "sentiment": "1 star",
+            "score": 0.2961311638355255
+          },
+          {
+            "begin_char": 106,
+            "end_char": 183,
+            "sentiment": "4 stars",
+            "score": 0.25847017765045166
+          },
+          {
+            "begin_char": 184,
+            "end_char": 324,
+            "sentiment": "4 stars",
+            "score": 0.2771393656730652
+          },
+          {
+            "begin_char": 325,
+            "end_char": 575,
+            "sentiment": "4 stars",
+            "score": 0.47548094391822815
+          },
+          {
+            "begin_char": 576,
+            "end_char": 681,
+            "sentiment": "1 star",
+            "score": 0.37415409088134766
+          },
+          {
+            "begin_char": 682,
+            "end_char": 690,
+            "sentiment": "5 stars",
+            "score": 0.24600112438201904
+          },
+          {
+            "begin_char": 690,
+            "end_char": 691,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 691,
+            "end_char": 809,
+            "sentiment": "1 star",
+            "score": 0.41833260655403137
+          },
+          {
+            "begin_char": 809,
+            "end_char": 911,
+            "sentiment": "3 stars",
+            "score": 0.3154919445514679
+          },
+          {
+            "begin_char": 911,
+            "end_char": 970,
+            "sentiment": "4 stars",
+            "score": 0.37600141763687134
+          },
+          {
+            "begin_char": 971,
+            "end_char": 1059,
+            "sentiment": "5 stars",
+            "score": 0.349605917930603
+          },
+          {
+            "begin_char": 1060,
+            "end_char": 1337,
+            "sentiment": "3 stars",
+            "score": 0.28435811400413513
+          },
+          {
+            "begin_char": 1338,
+            "end_char": 1347,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1347,
+            "end_char": 1349,
+            "sentiment": "5 stars",
+            "score": 0.31276801228523254
+          },
+          {
+            "begin_char": 1349,
+            "end_char": 1350,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 1350,
+            "end_char": 1467,
+            "sentiment": "3 stars",
+            "score": 0.2370275855064392
+          },
+          {
+            "begin_char": 1468,
+            "end_char": 1592,
+            "sentiment": "5 stars",
+            "score": 0.30519625544548035
+          },
+          {
+            "begin_char": 1593,
+            "end_char": 1661,
+            "sentiment": "1 star",
+            "score": 0.37983211874961853
+          },
+          {
+            "begin_char": 1662,
+            "end_char": 1710,
+            "sentiment": "4 stars",
+            "score": 0.33510830998420715
+          },
+          {
+            "begin_char": 1711,
+            "end_char": 1797,
+            "sentiment": "4 stars",
+            "score": 0.3724803626537323
+          },
+          {
+            "begin_char": 1798,
+            "end_char": 1992,
+            "sentiment": "4 stars",
+            "score": 0.3341585099697113
+          },
+          {
+            "begin_char": 1993,
+            "end_char": 2020,
+            "sentiment": "3 stars",
+            "score": 0.29235321283340454
+          },
+          {
+            "begin_char": 2021,
+            "end_char": 2158,
+            "sentiment": "4 stars",
+            "score": 0.3657079041004181
+          },
+          {
+            "begin_char": 2159,
+            "end_char": 2163,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2163,
+            "end_char": 2301,
+            "sentiment": "5 stars",
+            "score": 0.5518935322761536
+          },
+          {
+            "begin_char": 2302,
+            "end_char": 2546,
+            "sentiment": "3 stars",
+            "score": 0.24004602432250977
+          },
+          {
+            "begin_char": 2547,
+            "end_char": 2576,
+            "sentiment": "2 stars",
+            "score": 0.3033706843852997
+          },
+          {
+            "begin_char": 2576,
+            "end_char": 2629,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 2630,
+            "end_char": 2648,
+            "sentiment": "4 stars",
+            "score": 0.3252987861633301
+          },
+          {
+            "begin_char": 2649,
+            "end_char": 2653,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2653,
+            "end_char": 2795,
+            "sentiment": "1 star",
+            "score": 0.30305591225624084
+          },
+          {
+            "begin_char": 2795,
+            "end_char": 2838,
+            "sentiment": "3 stars",
+            "score": 0.319522887468338
+          },
+          {
+            "begin_char": 2839,
+            "end_char": 2862,
+            "sentiment": "3 stars",
+            "score": 0.37320324778556824
+          },
+          {
+            "begin_char": 2862,
+            "end_char": 2915,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 2916,
+            "end_char": 2934,
+            "sentiment": "4 stars",
+            "score": 0.3252987861633301
+          },
+          {
+            "begin_char": 2935,
+            "end_char": 3086,
+            "sentiment": "4 stars",
+            "score": 0.4283113181591034
+          },
+          {
+            "begin_char": 3087,
+            "end_char": 3175,
+            "sentiment": "1 star",
+            "score": 0.34008917212486267
+          },
+          {
+            "begin_char": 3176,
+            "end_char": 3252,
+            "sentiment": "5 stars",
+            "score": 0.3630136549472809
+          },
+          {
+            "begin_char": 3252,
+            "end_char": 3305,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 3306,
+            "end_char": 3324,
+            "sentiment": "4 stars",
+            "score": 0.3252987861633301
+          },
+          {
+            "begin_char": 3325,
+            "end_char": 3426,
+            "sentiment": "3 stars",
+            "score": 0.3104349672794342
+          },
+          {
+            "begin_char": 3427,
+            "end_char": 3445,
+            "sentiment": "3 stars",
+            "score": 0.2548637092113495
+          },
+          {
+            "begin_char": 3445,
+            "end_char": 3498,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 3499,
+            "end_char": 3517,
+            "sentiment": "4 stars",
+            "score": 0.3252987861633301
+          },
+          {
+            "begin_char": 3518,
+            "end_char": 3522,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3522,
+            "end_char": 3632,
+            "sentiment": "1 star",
+            "score": 0.5388039350509644
+          },
+          {
+            "begin_char": 3633,
+            "end_char": 3738,
+            "sentiment": "4 stars",
+            "score": 0.3484734296798706
+          },
+          {
+            "begin_char": 3739,
+            "end_char": 3748,
+            "sentiment": "3 stars",
+            "score": 0.28518858551979065
+          },
+          {
+            "begin_char": 3748,
+            "end_char": 3791,
+            "sentiment": "3 stars",
+            "score": 0.319522887468338
+          },
+          {
+            "begin_char": 3792,
+            "end_char": 3866,
+            "sentiment": "1 star",
+            "score": 0.42209601402282715
+          },
+          {
+            "begin_char": 3866,
+            "end_char": 3919,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 3920,
+            "end_char": 3938,
+            "sentiment": "4 stars",
+            "score": 0.3252987861633301
+          },
+          {
+            "begin_char": 3939,
+            "end_char": 3943,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3943,
+            "end_char": 4201,
+            "sentiment": "3 stars",
+            "score": 0.4059843122959137
+          },
+          {
+            "begin_char": 4202,
+            "end_char": 4211,
+            "sentiment": "3 stars",
+            "score": 0.28518858551979065
+          },
+          {
+            "begin_char": 4211,
+            "end_char": 4264,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 4265,
+            "end_char": 4283,
+            "sentiment": "4 stars",
+            "score": 0.3252987861633301
+          },
+          {
+            "begin_char": 4284,
+            "end_char": 4381,
+            "sentiment": "3 stars",
+            "score": 0.2702088952064514
+          },
+          {
+            "begin_char": 4382,
+            "end_char": 4503,
+            "sentiment": "5 stars",
+            "score": 0.5078860521316528
+          },
+          {
+            "begin_char": 4504,
+            "end_char": 4509,
+            "sentiment": "3 stars",
+            "score": 0.30726802349090576
+          },
+          {
+            "begin_char": 4510,
+            "end_char": 4519,
+            "sentiment": "3 stars",
+            "score": 0.28518858551979065
+          },
+          {
+            "begin_char": 4520,
+            "end_char": 4588,
+            "sentiment": "3 stars",
+            "score": 0.3113345801830292
+          },
+          {
+            "begin_char": 4589,
+            "end_char": 4666,
+            "sentiment": "4 stars",
+            "score": 0.25847017765045166
+          },
+          {
+            "begin_char": 4667,
+            "end_char": 4676,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 4676,
+            "end_char": 4720,
+            "sentiment": "4 stars",
+            "score": 0.3225001096725464
+          },
+          {
+            "begin_char": 4721,
+            "end_char": 4830,
+            "sentiment": "3 stars",
+            "score": 0.4260903298854828
+          },
+          {
+            "begin_char": 4831,
+            "end_char": 4890,
+            "sentiment": "4 stars",
+            "score": 0.31002920866012573
+          },
+          {
+            "begin_char": 4891,
+            "end_char": 5002,
+            "sentiment": "3 stars",
+            "score": 0.39210155606269836
+          },
+          {
+            "begin_char": 5003,
+            "end_char": 5022,
+            "sentiment": "3 stars",
+            "score": 0.24256859719753265
+          },
+          {
+            "begin_char": 5023,
+            "end_char": 5248,
+            "sentiment": "4 stars",
+            "score": 0.27637428045272827
+          },
+          {
+            "begin_char": 5248,
+            "end_char": 5340,
+            "sentiment": "4 stars",
+            "score": 0.3620072305202484
+          },
+          {
+            "begin_char": 5341,
+            "end_char": 5344,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-27",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-27",
+        "pageJO": "3103",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

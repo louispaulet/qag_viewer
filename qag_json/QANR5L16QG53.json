@@ -1,0 +1,1031 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG53",
+    "identifiant": {
+      "numero": "53",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "politique économique",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Augmentation des inégalités"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795164",
+        "mandatRef": "PM797337"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Économie, finances, souveraineté industrielle et numérique",
+      "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Économie, finances, souveraineté industrielle et numérique",
+          "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> AUGMENTATION DES INÉGALITÉS <a name=PG26></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Aurélie Trouvé.<br><br><strong>Mme Aurélie Trouvé. </strong>« Colossaux », c'est ainsi que le magazine <i>Challenges</i> qualifie les résultats des 500 plus grandes fortunes françaises en 2022 ; leur patrimoine atteint plus de 1 000 milliards d'euros et a augmenté de 300 % en douze ans – retenez ce chiffre ! (Exclamations sur plusieurs bancs du groupe RE.)<br><br><strong>M. Bruno Millienne.</strong> C'est reparti !<br><br><strong>Mme Aurélie Trouvé. </strong>Pendant ces douze années, de combien le SMIC a-t-il augmenté ? De vingt-deux malheureux pour cent ! Si l'on prend en compte l'inflation, c'est 0 % !<br><br>Colossale, c'est ainsi que l'on peut qualifier l'explosion des inégalités. Les plus riches sont toujours plus riches, les pauvres toujours plus pauvres, avec 400 000 pauvres supplémentaires pendant le dernier quinquennat. C'est votre responsabilité, votre bilan ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i> Vous avez fait l’économie de plus d’1 milliard d'euros sur le dos des chômeurs en rabotant l’assurance chômage et d'1 milliard d'euros sur le dos des mal-logés, en rabotant les APL – aides personnelles au logement. En même temps, vous avez supprimé l’ISF – l'impôt de solidarité sur la fortune –, instauré la flat tax et des tombereaux de subventions aux profiteurs et de cadeaux fiscaux.<br><br>Colossal, c'est aussi le choc qui s'annonce lorsque les hausses de prix seront à leur paroxysme, dans quelques mois.<br><br><strong>M. Alexis Corbière et M. Louis Boyard .</strong> Elle a raison !<br><br><strong>Mme Aurélie Trouvé. </strong>L'inflation atteint 5 %. C’est déjà insupportable pour la plupart des Français, mais le pire est à venir. L'électricité et le gaz devraient augmenter de 50 % l'hiver prochain. Que faites-vous face à cela ? Quoi qu'il arrive, quoi qu'il en coûte, vous restez le gouvernement des riches. <i>(« C'est vrai ! » et applaudissements sur les bancs du groupe LFI-NUPES ainsi que sur plusieurs bancs du groupe SOC.)</i><br><br>Vous refusez de mettre à contribution des ultrariches et les grands actionnaires, alors même que l'inflation fait exploser les profits des géants des transports ou de l'énergie. Face à cela, le Royaume-Uni prépare, lui, une taxe exceptionnelle de 25 % sur les profits pétroliers et gaziers ; l'Italie, une taxe de 25 % sur l'énergie, tout comme l'Espagne, qui taxera en outre les banques au même niveau.<br><br>Ce qui est colossal, c'est l'injustice de votre politique. Pour combien de temps encore ? Monsieur le ministre de l'économie, vous dites compter sur les entreprises dans les mois à venir, mais vous dites cela depuis cinq ans ! <i>(Applaudissements sur les bancs des groupes LFI-NUPES, SOC, Écolo-NUPES et GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br><strong>M. Bruno Le Maire,</strong><i> ministre de l’économie, des finances et de la souveraineté industrielle et numérique. </i>Un mensonge répété mille fois ne fera jamais une vérité. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem. – Protestations sur les bancs du groupe LFI-NUPES.)</i> La vérité est que, comme l'a indiqué un récent rapport sur la pauvreté, notre politique nous a permis, en pleine crise économique, en pleine flambée de l'inflation, de contenir l'augmentation de la pauvreté en France, contrairement aux autres pays européens. (Applaudissements sur quelques bancs du groupe RE. – « C'est faux ! » sur les bancs du groupe LFI-NUPES.) La vérité, c'est que notre politique économique de protection des plus faibles a permis de protéger le pouvoir d'achat des Français en 2021, alors même que nous étions confrontés à des difficultés économiques majeures. La réalité, c'est que nous avons revalorisé l'intégralité des prestations sociales,…<br><br><strong>M. Jérôme Guedj.</strong> Mais même pas au rythme de l'inflation !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>…que nous vous proposons à nouveau de les revaloriser et que nous n'avons jamais laissé tomber les plus faibles dans notre pays. <i>(Mêmes mouvements.)</i> La vérité, c'est que la meilleure solution pour lutter contre la pauvreté et les inégalités….<br><br><strong>Mme Danièle Obono.</strong> C'est de partager les richesses !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>…est d'aller vers le plein-emploi. C'est exactement ce que cette majorité va réussir à faire.<br><br><strong>M. Pierre Cordier.</strong> Une majorité relative, une majorité minoritaire !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Grâce à vous, madame Panot…. <i>(« C'est Mme Trouvé ! » sur les bancs du groupe LFI-NUPES.) </i>Grâce à vous, madame Trouvé, j'ai compris quelle était la philosophie de votre famille politique.<br><br><strong>M. Sébastien Jumel.</strong> Dites plutôt que vous l'avez trouvé !<br><br><strong>M. Bruno Le Maire,</strong><i> ministre . </i>Il n'y a pas de difficulté économique à laquelle une taxe ne puisse apporter une solution. Un problème, une taxe ! Une difficulté, un prélèvement obligatoire ! Une crise économique, un impôt supplémentaire ! Cela fait trente ans que nous essayons cela, trente ans que cela conduit au chômage, à l'appauvrissement des Français, trente ans que cela a désespéré les classes moyennes et tous ceux qui travaillent et font tourner la vie économique de la nation. <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR. – Exclamations sur les bancs du groupe LFI-NUPES.)</i><br><br>Eh bien, nous, grâce à notre politique économique, nous sommes fiers d'avoir créé des emplois au point de nous approcher du plein-emploi et contenu la montée des inégalités, nous permettant de financer enfin les prestations sociales – car avant de redistribuer des richesses, madame Trouvé, il faut en produire, ce que vous avez oublié ! <i>(Mêmes mouvements.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme Aurélie Trouvé.<br><br><strong>Mme Aurélie Trouvé. </strong>Sachez tout d'abord que je m'appelle Mme Trouvé. Et que nous sommes fiers de taxer les plus riches pour partager les richesses, monsieur Le Maire ! (Applaudissements sur les bancs des groupes LFI-NUPES, SOC, Écolo-NUPES et GDR-NUPES.)<br> <p>",
+        "entities": [
+          {
+            "start_char": 85,
+            "end_char": 88,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 129,
+            "end_char": 140,
+            "label": "PER",
+            "text": "Mme Aurélie"
+          },
+          {
+            "start_char": 164,
+            "end_char": 182,
+            "label": "PER",
+            "text": "Mme Aurélie Trouvé"
+          },
+          {
+            "start_char": 195,
+            "end_char": 204,
+            "label": "LOC",
+            "text": "Colossaux"
+          },
+          {
+            "start_char": 236,
+            "end_char": 252,
+            "label": "MISC",
+            "text": "<i>Challenges</i"
+          },
+          {
+            "start_char": 444,
+            "end_char": 456,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 487,
+            "end_char": 506,
+            "label": "ORG",
+            "text": "RE.)<br><br><strong"
+          },
+          {
+            "start_char": 510,
+            "end_char": 534,
+            "label": "PER",
+            "text": "Bruno Millienne.</strong"
+          },
+          {
+            "start_char": 567,
+            "end_char": 585,
+            "label": "PER",
+            "text": "Mme Aurélie Trouvé"
+          },
+          {
+            "start_char": 636,
+            "end_char": 640,
+            "label": "MISC",
+            "text": "SMIC"
+          },
+          {
+            "start_char": 1061,
+            "end_char": 1075,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i"
+          },
+          {
+            "start_char": 1168,
+            "end_char": 1170,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1254,
+            "end_char": 1257,
+            "label": "ORG",
+            "text": "APL"
+          },
+          {
+            "start_char": 1326,
+            "end_char": 1328,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 1457,
+            "end_char": 1481,
+            "label": "MISC",
+            "text": "fiscaux.<br><br>Colossal"
+          },
+          {
+            "start_char": 1608,
+            "end_char": 1623,
+            "label": "PER",
+            "text": "Alexis Corbière"
+          },
+          {
+            "start_char": 1627,
+            "end_char": 1630,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 1630,
+            "end_char": 1642,
+            "label": "PER",
+            "text": "Louis Boyard"
+          },
+          {
+            "start_char": 1685,
+            "end_char": 1703,
+            "label": "PER",
+            "text": "Mme Aurélie Trouvé"
+          },
+          {
+            "start_char": 1739,
+            "end_char": 1741,
+            "label": "MISC",
+            "text": "C’"
+          },
+          {
+            "start_char": 1784,
+            "end_char": 1792,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2065,
+            "end_char": 2074,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2115,
+            "end_char": 2131,
+            "label": "ORG",
+            "text": "SOC.)</i><br><br"
+          },
+          {
+            "start_char": 2326,
+            "end_char": 2337,
+            "label": "LOC",
+            "text": "Royaume-Uni"
+          },
+          {
+            "start_char": 2424,
+            "end_char": 2432,
+            "label": "LOC",
+            "text": "l'Italie"
+          },
+          {
+            "start_char": 2528,
+            "end_char": 2542,
+            "label": "MISC",
+            "text": "niveau.<br><br"
+          },
+          {
+            "start_char": 2633,
+            "end_char": 2641,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2817,
+            "end_char": 2826,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2828,
+            "end_char": 2831,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2833,
+            "end_char": 2844,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2848,
+            "end_char": 2878,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2879,
+            "end_char": 2882,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2923,
+            "end_char": 2925,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2941,
+            "end_char": 2943,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3033,
+            "end_char": 3038,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 3073,
+            "end_char": 3075,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3261,
+            "end_char": 3263,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3267,
+            "end_char": 3270,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 3312,
+            "end_char": 3326,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i"
+          },
+          {
+            "start_char": 3538,
+            "end_char": 3544,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 3588,
+            "end_char": 3604,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 3627,
+            "end_char": 3636,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 3681,
+            "end_char": 3690,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 4015,
+            "end_char": 4037,
+            "label": "PER",
+            "text": "Jérôme Guedj.</strong>"
+          },
+          {
+            "start_char": 4097,
+            "end_char": 4102,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4270,
+            "end_char": 4278,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 4405,
+            "end_char": 4431,
+            "label": "PER",
+            "text": "Mme Danièle Obono.</strong"
+          },
+          {
+            "start_char": 4485,
+            "end_char": 4490,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4640,
+            "end_char": 4663,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 4733,
+            "end_char": 4738,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4797,
+            "end_char": 4802,
+            "label": "PER",
+            "text": "Panot"
+          },
+          {
+            "start_char": 4817,
+            "end_char": 4827,
+            "label": "PER",
+            "text": "Mme Trouvé"
+          },
+          {
+            "start_char": 4856,
+            "end_char": 4865,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 4893,
+            "end_char": 4899,
+            "label": "PER",
+            "text": "Trouvé"
+          },
+          {
+            "start_char": 4988,
+            "end_char": 5013,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 5070,
+            "end_char": 5075,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 5430,
+            "end_char": 5438,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5617,
+            "end_char": 5619,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5621,
+            "end_char": 5624,
+            "label": "MISC",
+            "text": "Dem"
+          },
+          {
+            "start_char": 5628,
+            "end_char": 5631,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 5635,
+            "end_char": 5647,
+            "label": "LOC",
+            "text": "Exclamations"
+          },
+          {
+            "start_char": 5672,
+            "end_char": 5694,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 5978,
+            "end_char": 5984,
+            "label": "PER",
+            "text": "Trouvé"
+          },
+          {
+            "start_char": 6034,
+            "end_char": 6042,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 6075,
+            "end_char": 6078,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 6119,
+            "end_char": 6130,
+            "label": "PER",
+            "text": "Mme Aurélie"
+          },
+          {
+            "start_char": 6154,
+            "end_char": 6172,
+            "label": "PER",
+            "text": "Mme Aurélie Trouvé"
+          },
+          {
+            "start_char": 6220,
+            "end_char": 6230,
+            "label": "PER",
+            "text": "Mme Trouvé"
+          },
+          {
+            "start_char": 6320,
+            "end_char": 6330,
+            "label": "MISC",
+            "text": "Le Maire !"
+          },
+          {
+            "start_char": 6332,
+            "end_char": 6348,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 6375,
+            "end_char": 6384,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 6386,
+            "end_char": 6389,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 6391,
+            "end_char": 6402,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 6406,
+            "end_char": 6409,
+            "label": "ORG",
+            "text": "GDR"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 103,
+            "sentiment": "3 stars",
+            "score": 0.31355899572372437
+          },
+          {
+            "begin_char": 104,
+            "end_char": 183,
+            "sentiment": "3 stars",
+            "score": 0.23568905889987946
+          },
+          {
+            "begin_char": 184,
+            "end_char": 206,
+            "sentiment": "2 stars",
+            "score": 0.2572775185108185
+          },
+          {
+            "begin_char": 206,
+            "end_char": 327,
+            "sentiment": "4 stars",
+            "score": 0.3409758508205414
+          },
+          {
+            "begin_char": 328,
+            "end_char": 444,
+            "sentiment": "5 stars",
+            "score": 0.34655240178108215
+          },
+          {
+            "begin_char": 444,
+            "end_char": 535,
+            "sentiment": "3 stars",
+            "score": 0.34377211332321167
+          },
+          {
+            "begin_char": 536,
+            "end_char": 551,
+            "sentiment": "5 stars",
+            "score": 0.36725226044654846
+          },
+          {
+            "begin_char": 551,
+            "end_char": 586,
+            "sentiment": "3 stars",
+            "score": 0.281527578830719
+          },
+          {
+            "begin_char": 587,
+            "end_char": 596,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 596,
+            "end_char": 658,
+            "sentiment": "1 star",
+            "score": 0.3715485632419586
+          },
+          {
+            "begin_char": 659,
+            "end_char": 695,
+            "sentiment": "1 star",
+            "score": 0.4258894920349121
+          },
+          {
+            "begin_char": 696,
+            "end_char": 744,
+            "sentiment": "1 star",
+            "score": 0.7422848343849182
+          },
+          {
+            "begin_char": 744,
+            "end_char": 761,
+            "sentiment": "3 stars",
+            "score": 0.3158949613571167
+          },
+          {
+            "begin_char": 761,
+            "end_char": 826,
+            "sentiment": "4 stars",
+            "score": 0.26169899106025696
+          },
+          {
+            "begin_char": 827,
+            "end_char": 973,
+            "sentiment": "5 stars",
+            "score": 0.2403266429901123
+          },
+          {
+            "begin_char": 974,
+            "end_char": 1015,
+            "sentiment": "5 stars",
+            "score": 0.5428501963615417
+          },
+          {
+            "begin_char": 1016,
+            "end_char": 1076,
+            "sentiment": "4 stars",
+            "score": 0.32597967982292175
+          },
+          {
+            "begin_char": 1077,
+            "end_char": 1291,
+            "sentiment": "1 star",
+            "score": 0.5382281541824341
+          },
+          {
+            "begin_char": 1292,
+            "end_char": 1653,
+            "sentiment": "5 stars",
+            "score": 0.30360668897628784
+          },
+          {
+            "begin_char": 1654,
+            "end_char": 1669,
+            "sentiment": "5 stars",
+            "score": 0.34754881262779236
+          },
+          {
+            "begin_char": 1669,
+            "end_char": 1704,
+            "sentiment": "3 stars",
+            "score": 0.281527578830719
+          },
+          {
+            "begin_char": 1705,
+            "end_char": 1714,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1714,
+            "end_char": 1738,
+            "sentiment": "4 stars",
+            "score": 0.28930172324180603
+          },
+          {
+            "begin_char": 1739,
+            "end_char": 1819,
+            "sentiment": "1 star",
+            "score": 0.5865232944488525
+          },
+          {
+            "begin_char": 1820,
+            "end_char": 1889,
+            "sentiment": "5 stars",
+            "score": 0.35451003909111023
+          },
+          {
+            "begin_char": 1890,
+            "end_char": 1919,
+            "sentiment": "1 star",
+            "score": 0.3340674340724945
+          },
+          {
+            "begin_char": 1920,
+            "end_char": 1999,
+            "sentiment": "1 star",
+            "score": 0.25329262018203735
+          },
+          {
+            "begin_char": 2000,
+            "end_char": 2074,
+            "sentiment": "5 stars",
+            "score": 0.3801134526729584
+          },
+          {
+            "begin_char": 2075,
+            "end_char": 2131,
+            "sentiment": "3 stars",
+            "score": 0.351465106010437
+          },
+          {
+            "begin_char": 2131,
+            "end_char": 2309,
+            "sentiment": "1 star",
+            "score": 0.35235005617141724
+          },
+          {
+            "begin_char": 2310,
+            "end_char": 2423,
+            "sentiment": "4 stars",
+            "score": 0.4016839861869812
+          },
+          {
+            "begin_char": 2424,
+            "end_char": 2601,
+            "sentiment": "5 stars",
+            "score": 0.326749324798584
+          },
+          {
+            "begin_char": 2602,
+            "end_char": 2632,
+            "sentiment": "3 stars",
+            "score": 0.23017221689224243
+          },
+          {
+            "begin_char": 2633,
+            "end_char": 2769,
+            "sentiment": "5 stars",
+            "score": 0.2605936527252197
+          },
+          {
+            "begin_char": 2770,
+            "end_char": 2897,
+            "sentiment": "4 stars",
+            "score": 0.3367345929145813
+          },
+          {
+            "begin_char": 2898,
+            "end_char": 3060,
+            "sentiment": "4 stars",
+            "score": 0.3296317458152771
+          },
+          {
+            "begin_char": 3061,
+            "end_char": 3146,
+            "sentiment": "5 stars",
+            "score": 0.3489697575569153
+          },
+          {
+            "begin_char": 3147,
+            "end_char": 3151,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3151,
+            "end_char": 3207,
+            "sentiment": "1 star",
+            "score": 0.5482751131057739
+          },
+          {
+            "begin_char": 3208,
+            "end_char": 3271,
+            "sentiment": "4 stars",
+            "score": 0.32460883259773254
+          },
+          {
+            "begin_char": 3272,
+            "end_char": 3274,
+            "sentiment": "3 stars",
+            "score": 0.25771647691726685
+          },
+          {
+            "begin_char": 3274,
+            "end_char": 3287,
+            "sentiment": "5 stars",
+            "score": 0.41084393858909607
+          },
+          {
+            "begin_char": 3288,
+            "end_char": 3326,
+            "sentiment": "3 stars",
+            "score": 0.3611481189727783
+          },
+          {
+            "begin_char": 3326,
+            "end_char": 3588,
+            "sentiment": "5 stars",
+            "score": 0.4722902178764343
+          },
+          {
+            "begin_char": 3588,
+            "end_char": 3637,
+            "sentiment": "4 stars",
+            "score": 0.32657939195632935
+          },
+          {
+            "begin_char": 3638,
+            "end_char": 3692,
+            "sentiment": "1 star",
+            "score": 0.3411692976951599
+          },
+          {
+            "begin_char": 3693,
+            "end_char": 3911,
+            "sentiment": "5 stars",
+            "score": 0.5636401176452637
+          },
+          {
+            "begin_char": 3912,
+            "end_char": 4078,
+            "sentiment": "1 star",
+            "score": 0.5899926424026489
+          },
+          {
+            "begin_char": 4078,
+            "end_char": 4135,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 4136,
+            "end_char": 4268,
+            "sentiment": "5 stars",
+            "score": 0.7317121028900146
+          },
+          {
+            "begin_char": 4269,
+            "end_char": 4295,
+            "sentiment": "3 stars",
+            "score": 0.29162317514419556
+          },
+          {
+            "begin_char": 4296,
+            "end_char": 4432,
+            "sentiment": "5 stars",
+            "score": 0.3096160888671875
+          },
+          {
+            "begin_char": 4433,
+            "end_char": 4466,
+            "sentiment": "5 stars",
+            "score": 0.6323637962341309
+          },
+          {
+            "begin_char": 4466,
+            "end_char": 4523,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 4524,
+            "end_char": 4562,
+            "sentiment": "3 stars",
+            "score": 0.2834394574165344
+          },
+          {
+            "begin_char": 4563,
+            "end_char": 4664,
+            "sentiment": "3 stars",
+            "score": 0.25838685035705566
+          },
+          {
+            "begin_char": 4665,
+            "end_char": 4760,
+            "sentiment": "3 stars",
+            "score": 0.27965718507766724
+          },
+          {
+            "begin_char": 4761,
+            "end_char": 4771,
+            "sentiment": "4 stars",
+            "score": 0.3277084231376648
+          },
+          {
+            "begin_char": 4772,
+            "end_char": 4776,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4776,
+            "end_char": 4804,
+            "sentiment": "5 stars",
+            "score": 0.2917517423629761
+          },
+          {
+            "begin_char": 4805,
+            "end_char": 4866,
+            "sentiment": "3 stars",
+            "score": 0.2675876319408417
+          },
+          {
+            "begin_char": 4866,
+            "end_char": 4867,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 4868,
+            "end_char": 4872,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4872,
+            "end_char": 5013,
+            "sentiment": "5 stars",
+            "score": 0.2841455042362213
+          },
+          {
+            "begin_char": 5014,
+            "end_char": 5051,
+            "sentiment": "1 star",
+            "score": 0.5065304636955261
+          },
+          {
+            "begin_char": 5051,
+            "end_char": 5108,
+            "sentiment": "3 stars",
+            "score": 0.29500865936279297
+          },
+          {
+            "begin_char": 5109,
+            "end_char": 5113,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5113,
+            "end_char": 5203,
+            "sentiment": "3 stars",
+            "score": 0.3349798321723938
+          },
+          {
+            "begin_char": 5204,
+            "end_char": 5227,
+            "sentiment": "1 star",
+            "score": 0.5182979106903076
+          },
+          {
+            "begin_char": 5228,
+            "end_char": 5272,
+            "sentiment": "1 star",
+            "score": 0.25802746415138245
+          },
+          {
+            "begin_char": 5273,
+            "end_char": 5320,
+            "sentiment": "1 star",
+            "score": 0.434408038854599
+          },
+          {
+            "begin_char": 5321,
+            "end_char": 5569,
+            "sentiment": "1 star",
+            "score": 0.5697070956230164
+          },
+          {
+            "begin_char": 5570,
+            "end_char": 5632,
+            "sentiment": "4 stars",
+            "score": 0.31297925114631653
+          },
+          {
+            "begin_char": 5633,
+            "end_char": 5695,
+            "sentiment": "3 stars",
+            "score": 0.2994684875011444
+          },
+          {
+            "begin_char": 5695,
+            "end_char": 6032,
+            "sentiment": "5 stars",
+            "score": 0.6959968209266663
+          },
+          {
+            "begin_char": 6033,
+            "end_char": 6093,
+            "sentiment": "3 stars",
+            "score": 0.2975541651248932
+          },
+          {
+            "begin_char": 6094,
+            "end_char": 6173,
+            "sentiment": "3 stars",
+            "score": 0.23568905889987946
+          },
+          {
+            "begin_char": 6174,
+            "end_char": 6183,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 6183,
+            "end_char": 6231,
+            "sentiment": "5 stars",
+            "score": 0.2571900188922882
+          },
+          {
+            "begin_char": 6232,
+            "end_char": 6332,
+            "sentiment": "5 stars",
+            "score": 0.5087264776229858
+          },
+          {
+            "begin_char": 6332,
+            "end_char": 6421,
+            "sentiment": "4 stars",
+            "score": 0.36002200841903687
+          },
+          {
+            "begin_char": 6422,
+            "end_char": 6425,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-20",
+        "pageJO": "2528",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

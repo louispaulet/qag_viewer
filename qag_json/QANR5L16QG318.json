@@ -1,0 +1,845 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG318",
+    "identifiant": {
+      "numero": "318",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "logement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Prix de l'énergie et  chauffage dans le logement social"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720846",
+        "mandatRef": "PM797328"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Ville et logement",
+      "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de la ville et du logement"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Ville et logement",
+          "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de la ville et du logement"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PRIX DE L'ÉNERGIE ET CHAUFFAGE DANS LE LOGEMENT SOCIAL <a name=PG16></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Bastien Lachaud.<br><br><strong>M. Bastien Lachaud. </strong>Halima habite la cité Gabriel Péri, à Aubervilliers. Elle a froid. Pendant presque tout l'hiver dernier, son appartement n'a pas été chauffé. L'hiver est de retour et elle a de nouveau froid.<br><br>Près de 20 % des logements de l'office HLM d'Aubervilliers ne sont pas chauffés. L'histoire d'Halima, c'est celle de millions de locataires du parc social dans notre pays. Il est si mal en point ! Et cette situation est due à votre politique désastreuse ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES. – M. Benjamin Lucas applaudit également.)</i><br><br>Entre 2018 et 2022, vous avez privé les organismes HLM de 6 milliards d'euros. Le résultat est accablant, avec la chute du nombre de nouvelles constructions, des immeubles mal entretenus, des ascenseurs et des chaudières qui ne fonctionnent pas. Vous avez clochardisé le logement social ! <i>(Mêmes mouvements.)</i><br><br>Aujourd'hui, en pleine crise de l'énergie, vous abandonnez les bailleurs sociaux. La moitié d'entre eux vont devoir renégocier leur contrat d'énergie en 2023 avec des tarifs parfois multipliés par trois ou quatre, sachant que votre bouclier tarifaire est une passoire qui ne les couvre pas à 100 %. L'Union sociale pour l'habitat (USH), qui regroupe les bailleurs sociaux, ne cesse de tirer la sonnette d'alarme.<br><br>Les hausses de tarifs se répercutent sur les locataires. Le thermomètre descend, mais les prix, eux, montent. C'est le cas des loyers, qui pourront progresser de 3,5 % en janvier, et des charges, qui exploseront du fait de la crise énergétique. Comment faire face quand, chaque mois, on est à quelques euros près ?<br><br>Dans le logement social, 35 % des habitants vivent sous le seuil de pauvreté : la majorité d'entre eux gagnent seulement le Smic. Devront-ils choisir entre se loger, se chauffer et manger ? <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>Mme Farida Amrani.</strong> C'est la question !<br><br><strong>M. Bastien Lachaud. </strong>Qu'attendez-vous ? Qu'attendez-vous pour taxer les superprofits des fournisseurs…<br><br><strong>M. Antoine Léaument.</strong> Voilà !<br><br><strong>M. Bastien Lachaud. </strong>…pour bloquer les prix de l'énergie, pour protéger et aider réellement les bailleurs sociaux, et pour que nos concitoyens les plus modestes, comme Halima, n'aient pas à grelotter de froid chez eux cet hiver ? <i>(Mêmes mouvements.)</i><br><br><strong>M. Benjamin Lucas.</strong> Il a raison !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé de la ville et du logement.<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué chargé de la ville et du logement. </i>Si vous connaissez un organisme de logement social en Seine-Saint-Denis qui n'est pas capable de chauffer ses locataires, je m'étonne que vous ne m'en parliez qu'aujourd'hui : ma porte est grande ouverte et nous aurions facilement pu évoquer ce sujet auparavant. <i>(Exclamations sur les bancs du groupe LFI-NUPES.)</i> Quoi qu'il en soit, je puis vous assurer qu'aucun bailleur social en Seine-Saint-Denis ne laisse ses locataires sans chauffage. (Mêmes mouvements.)<br><br><strong>Mme la présidente.</strong> Seul M. le ministre délégué a la parole.<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué . </i>Par ailleurs, vous savez que le Gouvernement a agi en instaurant des boucliers tarifaires individuels et collectifs.<br><br><strong>M. Sébastien Jumel.</strong> Boucliers à trous !<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué . </i>Les boucliers collectifs relatifs au gaz s'appliquent depuis avril dernier. Ils ont été prolongés jusqu'à la fin de l'année et le seront encore – nous y travaillons – en 2023. Leur bénéfice est équivalent à celui des boucliers individuels et ils fonctionnent également pour les réseaux de chauffage urbains.<br><br>Oui, il y avait un problème concernant le chauffage collectif électrique.<br><br><strong>M. Sébastien Jumel.</strong> Voilà !<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué . </i>Nous sommes en train de le régler – Mme la Première ministre l'a annoncé – et nous ferons paraître très prochainement les décrets qui permettront à toutes les copropriétés, ainsi qu'aux parties communes des immeubles, d'être soumises au même bouclier.<br><br><strong>Mme Farida Amrani.</strong> Vous attendez la fin de l'hiver ?<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué . </i>Nous travaillons quotidiennement avec l'Union sociale pour l'habitat et les syndics de copropriété pour régler l'ensemble des difficultés. Certaines demeurent encore, mais je puis vous assurer que nous travaillons d'arrache-pied.<br><br><strong>Mme la présidente. </strong>La parole est à M. Bastien Lachaud.<br><br><strong>M. Bastien Lachaud. </strong>Vous vous étonnez que je ne parle de cette question que maintenant, mais vous n'avez pas encore publié les décrets. Vous n'avez donc rien planifié. Les gens ont froid et c'est votre politique qui en est la cause ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES. – M. Benjamin Lucas applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué.<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué. </i>Je ne parlais pas du bouclier, mais du logement social à Aubervilliers dans lequel, d'après vous, le chauffage de certains locataires serait en panne. Je vous donne rendez-vous dans ces logements pour que nous constations la situation ensemble. <i>(Exclamations sur les bancs du groupe LFI-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 40,
+            "label": "MISC",
+            "text": "PRIX DE L'ÉNERGIE"
+          },
+          {
+            "start_char": 44,
+            "end_char": 53,
+            "label": "MISC",
+            "text": "CHAUFFAGE"
+          },
+          {
+            "start_char": 59,
+            "end_char": 70,
+            "label": "ORG",
+            "text": "LE LOGEMENT"
+          },
+          {
+            "start_char": 112,
+            "end_char": 115,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 156,
+            "end_char": 166,
+            "label": "PER",
+            "text": "M. Bastien"
+          },
+          {
+            "start_char": 220,
+            "end_char": 226,
+            "label": "LOC",
+            "text": "Halima"
+          },
+          {
+            "start_char": 242,
+            "end_char": 254,
+            "label": "PER",
+            "text": "Gabriel Péri"
+          },
+          {
+            "start_char": 258,
+            "end_char": 271,
+            "label": "LOC",
+            "text": "Aubervilliers"
+          },
+          {
+            "start_char": 405,
+            "end_char": 418,
+            "label": "MISC",
+            "text": "froid.<br><br"
+          },
+          {
+            "start_char": 720,
+            "end_char": 729,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 745,
+            "end_char": 750,
+            "label": "PER",
+            "text": "Lucas"
+          },
+          {
+            "start_char": 1074,
+            "end_char": 1082,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 1408,
+            "end_char": 1436,
+            "label": "ORG",
+            "text": "Union sociale pour l'habitat"
+          },
+          {
+            "start_char": 1438,
+            "end_char": 1441,
+            "label": "ORG",
+            "text": "USH"
+          },
+          {
+            "start_char": 1973,
+            "end_char": 1977,
+            "label": "LOC",
+            "text": "Smic"
+          },
+          {
+            "start_char": 2084,
+            "end_char": 2114,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2115,
+            "end_char": 2141,
+            "label": "PER",
+            "text": "Mme Farida Amrani.</strong"
+          },
+          {
+            "start_char": 2307,
+            "end_char": 2332,
+            "label": "PER",
+            "text": "Antoine Léaument.</strong"
+          },
+          {
+            "start_char": 2533,
+            "end_char": 2539,
+            "label": "PER",
+            "text": "Halima"
+          },
+          {
+            "start_char": 2596,
+            "end_char": 2604,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 2640,
+            "end_char": 2664,
+            "label": "PER",
+            "text": "Benjamin Lucas.</strong>"
+          },
+          {
+            "start_char": 2694,
+            "end_char": 2697,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2738,
+            "end_char": 2740,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2811,
+            "end_char": 2821,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2951,
+            "end_char": 2968,
+            "label": "LOC",
+            "text": "Seine-Saint-Denis"
+          },
+          {
+            "start_char": 3201,
+            "end_char": 3215,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i"
+          },
+          {
+            "start_char": 3286,
+            "end_char": 3303,
+            "label": "LOC",
+            "text": "Seine-Saint-Denis"
+          },
+          {
+            "start_char": 3346,
+            "end_char": 3351,
+            "label": "LOC",
+            "text": "Mêmes"
+          },
+          {
+            "start_char": 3380,
+            "end_char": 3406,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 3464,
+            "end_char": 3474,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3549,
+            "end_char": 3561,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3652,
+            "end_char": 3687,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong> Boucliers"
+          },
+          {
+            "start_char": 3713,
+            "end_char": 3723,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4065,
+            "end_char": 4084,
+            "label": "MISC",
+            "text": "urbains.<br><br>Oui"
+          },
+          {
+            "start_char": 4173,
+            "end_char": 4197,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong"
+          },
+          {
+            "start_char": 4222,
+            "end_char": 4232,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4311,
+            "end_char": 4326,
+            "label": "MISC",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 4542,
+            "end_char": 4568,
+            "label": "PER",
+            "text": "Mme Farida Amrani.</strong"
+          },
+          {
+            "start_char": 4619,
+            "end_char": 4629,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4712,
+            "end_char": 4740,
+            "label": "ORG",
+            "text": "Union sociale pour l'habitat"
+          },
+          {
+            "start_char": 4917,
+            "end_char": 4920,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4961,
+            "end_char": 4971,
+            "label": "PER",
+            "text": "M. Bastien"
+          },
+          {
+            "start_char": 5284,
+            "end_char": 5293,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5309,
+            "end_char": 5314,
+            "label": "PER",
+            "text": "Lucas"
+          },
+          {
+            "start_char": 5356,
+            "end_char": 5359,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5400,
+            "end_char": 5402,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 5439,
+            "end_char": 5449,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 5548,
+            "end_char": 5561,
+            "label": "LOC",
+            "text": "Aubervilliers"
+          },
+          {
+            "start_char": 5777,
+            "end_char": 5795,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 70,
+            "sentiment": "3 stars",
+            "score": 0.28925013542175293
+          },
+          {
+            "begin_char": 71,
+            "end_char": 130,
+            "sentiment": "3 stars",
+            "score": 0.3093198239803314
+          },
+          {
+            "begin_char": 131,
+            "end_char": 210,
+            "sentiment": "3 stars",
+            "score": 0.2617930769920349
+          },
+          {
+            "begin_char": 211,
+            "end_char": 220,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 220,
+            "end_char": 272,
+            "sentiment": "4 stars",
+            "score": 0.2906070053577423
+          },
+          {
+            "begin_char": 273,
+            "end_char": 286,
+            "sentiment": "2 stars",
+            "score": 0.38940176367759705
+          },
+          {
+            "begin_char": 287,
+            "end_char": 361,
+            "sentiment": "1 star",
+            "score": 0.3793666958808899
+          },
+          {
+            "begin_char": 362,
+            "end_char": 499,
+            "sentiment": "2 stars",
+            "score": 0.3602084219455719
+          },
+          {
+            "begin_char": 500,
+            "end_char": 590,
+            "sentiment": "5 stars",
+            "score": 0.4931926429271698
+          },
+          {
+            "begin_char": 591,
+            "end_char": 615,
+            "sentiment": "1 star",
+            "score": 0.2655615508556366
+          },
+          {
+            "begin_char": 616,
+            "end_char": 674,
+            "sentiment": "1 star",
+            "score": 0.5788751244544983
+          },
+          {
+            "begin_char": 675,
+            "end_char": 730,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 731,
+            "end_char": 736,
+            "sentiment": "3 stars",
+            "score": 0.28024494647979736
+          },
+          {
+            "begin_char": 736,
+            "end_char": 744,
+            "sentiment": "3 stars",
+            "score": 0.25488483905792236
+          },
+          {
+            "begin_char": 745,
+            "end_char": 750,
+            "sentiment": "3 stars",
+            "score": 0.24143917858600616
+          },
+          {
+            "begin_char": 751,
+            "end_char": 784,
+            "sentiment": "5 stars",
+            "score": 0.47476926445961
+          },
+          {
+            "begin_char": 784,
+            "end_char": 862,
+            "sentiment": "1 star",
+            "score": 0.4026448130607605
+          },
+          {
+            "begin_char": 863,
+            "end_char": 1029,
+            "sentiment": "1 star",
+            "score": 0.7390059232711792
+          },
+          {
+            "begin_char": 1030,
+            "end_char": 1072,
+            "sentiment": "1 star",
+            "score": 0.6227311491966248
+          },
+          {
+            "begin_char": 1073,
+            "end_char": 1107,
+            "sentiment": "3 stars",
+            "score": 0.30803972482681274
+          },
+          {
+            "begin_char": 1107,
+            "end_char": 1188,
+            "sentiment": "5 stars",
+            "score": 0.2652549743652344
+          },
+          {
+            "begin_char": 1189,
+            "end_char": 1405,
+            "sentiment": "2 stars",
+            "score": 0.4088986814022064
+          },
+          {
+            "begin_char": 1406,
+            "end_char": 1527,
+            "sentiment": "4 stars",
+            "score": 0.39706164598464966
+          },
+          {
+            "begin_char": 1527,
+            "end_char": 1583,
+            "sentiment": "3 stars",
+            "score": 0.3133905529975891
+          },
+          {
+            "begin_char": 1584,
+            "end_char": 1636,
+            "sentiment": "3 stars",
+            "score": 0.37440165877342224
+          },
+          {
+            "begin_char": 1637,
+            "end_char": 1771,
+            "sentiment": "3 stars",
+            "score": 0.30055809020996094
+          },
+          {
+            "begin_char": 1772,
+            "end_char": 1841,
+            "sentiment": "2 stars",
+            "score": 0.39481353759765625
+          },
+          {
+            "begin_char": 1841,
+            "end_char": 1849,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1849,
+            "end_char": 1978,
+            "sentiment": "3 stars",
+            "score": 0.3073946535587311
+          },
+          {
+            "begin_char": 1979,
+            "end_char": 2038,
+            "sentiment": "1 star",
+            "score": 0.30387258529663086
+          },
+          {
+            "begin_char": 2039,
+            "end_char": 2142,
+            "sentiment": "3 stars",
+            "score": 0.3198108971118927
+          },
+          {
+            "begin_char": 2143,
+            "end_char": 2162,
+            "sentiment": "3 stars",
+            "score": 0.25450846552848816
+          },
+          {
+            "begin_char": 2162,
+            "end_char": 2197,
+            "sentiment": "3 stars",
+            "score": 0.3014231324195862
+          },
+          {
+            "begin_char": 2198,
+            "end_char": 2207,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2207,
+            "end_char": 2225,
+            "sentiment": "5 stars",
+            "score": 0.26779863238334656
+          },
+          {
+            "begin_char": 2226,
+            "end_char": 2333,
+            "sentiment": "1 star",
+            "score": 0.43877971172332764
+          },
+          {
+            "begin_char": 2334,
+            "end_char": 2341,
+            "sentiment": "5 stars",
+            "score": 0.3142954707145691
+          },
+          {
+            "begin_char": 2341,
+            "end_char": 2376,
+            "sentiment": "3 stars",
+            "score": 0.3014231324195862
+          },
+          {
+            "begin_char": 2377,
+            "end_char": 2594,
+            "sentiment": "5 stars",
+            "score": 0.372976154088974
+          },
+          {
+            "begin_char": 2595,
+            "end_char": 2664,
+            "sentiment": "3 stars",
+            "score": 0.3165498673915863
+          },
+          {
+            "begin_char": 2665,
+            "end_char": 2678,
+            "sentiment": "5 stars",
+            "score": 0.3322871923446655
+          },
+          {
+            "begin_char": 2678,
+            "end_char": 2712,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2713,
+            "end_char": 2892,
+            "sentiment": "4 stars",
+            "score": 0.2953059673309326
+          },
+          {
+            "begin_char": 2893,
+            "end_char": 2897,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2897,
+            "end_char": 3159,
+            "sentiment": "5 stars",
+            "score": 0.248918816447258
+          },
+          {
+            "begin_char": 3160,
+            "end_char": 3216,
+            "sentiment": "4 stars",
+            "score": 0.304934024810791
+          },
+          {
+            "begin_char": 3217,
+            "end_char": 3512,
+            "sentiment": "1 star",
+            "score": 0.22302722930908203
+          },
+          {
+            "begin_char": 3513,
+            "end_char": 3517,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3517,
+            "end_char": 3697,
+            "sentiment": "1 star",
+            "score": 0.38588106632232666
+          },
+          {
+            "begin_char": 3697,
+            "end_char": 3761,
+            "sentiment": "3 stars",
+            "score": 0.296230286359787
+          },
+          {
+            "begin_char": 3762,
+            "end_char": 3841,
+            "sentiment": "4 stars",
+            "score": 0.32168835401535034
+          },
+          {
+            "begin_char": 3842,
+            "end_char": 3941,
+            "sentiment": "5 stars",
+            "score": 0.39945539832115173
+          },
+          {
+            "begin_char": 3942,
+            "end_char": 4206,
+            "sentiment": "5 stars",
+            "score": 0.45398393273353577
+          },
+          {
+            "begin_char": 4206,
+            "end_char": 4270,
+            "sentiment": "3 stars",
+            "score": 0.296230286359787
+          },
+          {
+            "begin_char": 4271,
+            "end_char": 4569,
+            "sentiment": "4 stars",
+            "score": 0.38241660594940186
+          },
+          {
+            "begin_char": 4570,
+            "end_char": 4603,
+            "sentiment": "2 stars",
+            "score": 0.22616611421108246
+          },
+          {
+            "begin_char": 4603,
+            "end_char": 4667,
+            "sentiment": "3 stars",
+            "score": 0.296230286359787
+          },
+          {
+            "begin_char": 4668,
+            "end_char": 4672,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4672,
+            "end_char": 4810,
+            "sentiment": "4 stars",
+            "score": 0.4674726128578186
+          },
+          {
+            "begin_char": 4811,
+            "end_char": 4935,
+            "sentiment": "4 stars",
+            "score": 0.3941936790943146
+          },
+          {
+            "begin_char": 4936,
+            "end_char": 5015,
+            "sentiment": "3 stars",
+            "score": 0.2617930769920349
+          },
+          {
+            "begin_char": 5016,
+            "end_char": 5025,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5025,
+            "end_char": 5140,
+            "sentiment": "3 stars",
+            "score": 0.24399037659168243
+          },
+          {
+            "begin_char": 5141,
+            "end_char": 5172,
+            "sentiment": "1 star",
+            "score": 0.6729515790939331
+          },
+          {
+            "begin_char": 5173,
+            "end_char": 5238,
+            "sentiment": "1 star",
+            "score": 0.2985304892063141
+          },
+          {
+            "begin_char": 5239,
+            "end_char": 5294,
+            "sentiment": "4 stars",
+            "score": 0.34655117988586426
+          },
+          {
+            "begin_char": 5295,
+            "end_char": 5300,
+            "sentiment": "3 stars",
+            "score": 0.28024494647979736
+          },
+          {
+            "begin_char": 5300,
+            "end_char": 5308,
+            "sentiment": "3 stars",
+            "score": 0.25488483905792236
+          },
+          {
+            "begin_char": 5309,
+            "end_char": 5314,
+            "sentiment": "3 stars",
+            "score": 0.24143917858600616
+          },
+          {
+            "begin_char": 5315,
+            "end_char": 5356,
+            "sentiment": "5 stars",
+            "score": 0.465244323015213
+          },
+          {
+            "begin_char": 5356,
+            "end_char": 5374,
+            "sentiment": "4 stars",
+            "score": 0.3682718873023987
+          },
+          {
+            "begin_char": 5375,
+            "end_char": 5486,
+            "sentiment": "3 stars",
+            "score": 0.2744579315185547
+          },
+          {
+            "begin_char": 5487,
+            "end_char": 5491,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5491,
+            "end_char": 5641,
+            "sentiment": "2 stars",
+            "score": 0.3083551526069641
+          },
+          {
+            "begin_char": 5642,
+            "end_char": 5735,
+            "sentiment": "5 stars",
+            "score": 0.40017256140708923
+          },
+          {
+            "begin_char": 5736,
+            "end_char": 5800,
+            "sentiment": "4 stars",
+            "score": 0.2914128601551056
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5903",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

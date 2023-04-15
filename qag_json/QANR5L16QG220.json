@@ -1,0 +1,701 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG220",
+    "identifiant": {
+      "numero": "220",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "climat",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "CONSÉQUENCES DU CHANGEMENT CLIMATIQUE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795200",
+        "mandatRef": "PM797352"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CONSÉQUENCES DU CHANGEMENT CLIMATIQUE <a name=PG27></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Alma Dufour.<br><br><strong>Mme Alma Dufour. </strong>Monsieur le ministre de la transition écologique et de la cohésion des territoires, cela tombe bien : ma question va dans le même sens que la précédente. Ce dimanche, en début de soirée, une tornade s'est abattue sur des communes du Pas-de-Calais et de la Somme. Des toits ont été arrachés et certaines maisons vont s'effondrer dans les prochaines heures. Aujourd'hui, 3 000 foyers sont privés d'électricité. « Je suis à trente-cinq ans de carrière, je n'ai jamais vu cela dans la Somme » a déclaré un lieutenant-colonel, évoquant une « scène de guerre ».<br><br>Deux mois à peine après les feux de forêt qui ont entraîné l'évacuation de dizaines de milliers de personnes, le changement climatique frappe donc de nouveau notre pays, et cela n'a rien d'étonnant. Un nouveau rapport de Météo-France et du Centre national de la recherche scientifique (CNRS) vient de paraître et, je dois le dire, il a réussi à me glacer le sang alors que je défends la cause du climat depuis des années. Les impacts du changement climatique en France sont 50 % plus sévères que ce qui était jusqu'ici estimé. Alors que nous devions limiter le réchauffement planétaire à 1,5 degré en 2100, nous avons déjà atteint en 2022 1,7 degré en France, et nous atteindrons très probablement les 3,8 degrés à la fin du siècle.<br><br>Avec mon collègue Sébastien Rome, nous sommes rapporteurs spéciaux sur l'adaptation au changement climatique et ce que nous avons découvert nous laisse sans voix. Les scénarios sur lesquels se basent nos politiques publiques d'adaptation étaient déjà trop optimistes avant ce rapport ; ils sont aujourd'hui complètement caducs. La stabilisation des effectifs dans les services de l'écologie ne peut être une réponse : nous avons déjà réduit de 20 % ces effectifs. C'est comme si notre maison était en feu et que nous annoncions fièrement arrêter de l'asperger d'essence. Il faudrait mobiliser au minimum 2 milliards de plus pour l'adaptation au changement climatique dès le projet de loi de finances pour 2023 ; or tous nos amendements en ce sens ont été rejetés en commission des finances.<br><br>Avec les projections énoncées, c'est l'économie française tout entière qui risque de s'effondrer comme les maisons de la Somme. Que seront les 3 % de déficit quand nous devrons nous rationner en eau et que les rayons des magasins seront à moitié vides ? Ma question est simple : le Gouvernement va-t-il revoir d'urgence le scénario d'adaptation au changement climatique en fonction des données catastrophiques produites par le CNRS et Météo-France ? De plus, êtes-vous prêts à adopter une augmentation immédiate de 2 milliards d'euros du fonds dédié à l'adaptation au changement climatique ? <i>(Vifs applaudissements sur les bancs des groupes LFI-NUPES, SOC, Écolo-NUPES et GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Les rapports que vous évoquez, qui font suite au rapport du Groupe d’experts intergouvernemental sur l’évolution du climat (Giec) en avril et à celui du Haut Conseil pour le climat du mois de juin, renforcent la nécessité d'établir la feuille de route de la planification écologique dont la Première ministre a lancé les travaux le 21 octobre.<br><br><strong>Une députée du groupe Écolo-NUPES.</strong> Le 21 octobre seulement !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Je vous ai indiqué notre ambition de doubler le rythme de baisse des émissions de gaz à effet de serre, mais j'ai été un peu court : le volet « climat et biodiversité » du Conseil national de la refondation concerne évidemment l'atténuation des émissions, mais aussi l'adaptation et la biodiversité, qui ne doit pas être l'angle mort des politiques climatiques que nous conduisons, au motif que les indicateurs pour la préservation de la faune et de la flore sont parfois plus complexes que les questions liées aux émissions.<br><br>L'augmentation des crédits du ministère de l'écologie pour l'année qui arrive représente 4,5 milliards d'euros.<br><br><strong>Mme Clémence Guetté.</strong> Vous continuez de supprimer des postes !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Cela comprend 2 milliards pour les collectivités locales qui pourront être fléchés sur ce type de crédits.<br><br>Madame la députée, entre ce que vous dites ici concernant la nécessité d’augmenter les crédits et la manière dont vous avez voté hier une motion de censure, je suis perdu ! Allez donc voir vos copains de censure de l'autre côté de l’hémicycle <i>(Exclamations sur les bancs du groupe LFI-NUPES) </i>qui, je crois, sont climatodéfaitistes et climatosceptiques. (Applaudissements sur plusieurs bancs du groupe RE.)<br><br>La vérité, c'est que vous appelez les choses de vos vœux et que, dans le même temps, vous ne faites pas preuve de cohérence.<br><br><strong>Mme Alma Dufour.</strong> Vous avez rejeté tous nos amendements !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>L'action climatique, elle est de notre côté <i>(Exclamations prolongées sur les bancs du groupe LFI-NUPES) </i>: c'est le retrait du Traité sur la charte de l'énergie ; ce sont les crédits qui augmentent ; c'est le plan de relance du nucléaire ; c'est le plan de relance sur les énergies renouvelables. Les rendez-vous sont devant vous ; votez les crédits, rejoignez-nous dans ce combat au lieu de vous en tenir à des postures, à des totems et à des mots d'ordre ! (Applaudissements sur les bancs des groupes RE et Dem.)<br><br><strong>M. Bruno Millienne.</strong> Excellent !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 49,
+            "label": "MISC",
+            "text": "CONSÉQUENCES DU CHANGEMENT"
+          },
+          {
+            "start_char": 50,
+            "end_char": 60,
+            "label": "MISC",
+            "text": "CLIMATIQUE"
+          },
+          {
+            "start_char": 95,
+            "end_char": 98,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 139,
+            "end_char": 147,
+            "label": "PER",
+            "text": "Mme Alma"
+          },
+          {
+            "start_char": 171,
+            "end_char": 186,
+            "label": "PER",
+            "text": "Mme Alma Dufour"
+          },
+          {
+            "start_char": 197,
+            "end_char": 205,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 430,
+            "end_char": 443,
+            "label": "LOC",
+            "text": "Pas-de-Calais"
+          },
+          {
+            "start_char": 453,
+            "end_char": 458,
+            "label": "LOC",
+            "text": "Somme"
+          },
+          {
+            "start_char": 678,
+            "end_char": 683,
+            "label": "LOC",
+            "text": "Somme"
+          },
+          {
+            "start_char": 981,
+            "end_char": 993,
+            "label": "ORG",
+            "text": "Météo-France"
+          },
+          {
+            "start_char": 1000,
+            "end_char": 1044,
+            "label": "ORG",
+            "text": "Centre national de la recherche scientifique"
+          },
+          {
+            "start_char": 1046,
+            "end_char": 1050,
+            "label": "ORG",
+            "text": "CNRS"
+          },
+          {
+            "start_char": 1222,
+            "end_char": 1228,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1412,
+            "end_char": 1418,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1485,
+            "end_char": 1499,
+            "label": "MISC",
+            "text": "siècle.<br><br"
+          },
+          {
+            "start_char": 1518,
+            "end_char": 1532,
+            "label": "PER",
+            "text": "Sébastien Rome"
+          },
+          {
+            "start_char": 2281,
+            "end_char": 2297,
+            "label": "MISC",
+            "text": "finances.<br><br"
+          },
+          {
+            "start_char": 2413,
+            "end_char": 2424,
+            "label": "LOC",
+            "text": "de la Somme"
+          },
+          {
+            "start_char": 2580,
+            "end_char": 2592,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2725,
+            "end_char": 2729,
+            "label": "ORG",
+            "text": "CNRS"
+          },
+          {
+            "start_char": 2733,
+            "end_char": 2745,
+            "label": "ORG",
+            "text": "Météo-France"
+          },
+          {
+            "start_char": 2942,
+            "end_char": 2951,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2953,
+            "end_char": 2956,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2958,
+            "end_char": 2969,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2973,
+            "end_char": 3003,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3004,
+            "end_char": 3007,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3048,
+            "end_char": 3050,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3141,
+            "end_char": 3154,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3310,
+            "end_char": 3346,
+            "label": "ORG",
+            "text": "Groupe d’experts intergouvernemental"
+          },
+          {
+            "start_char": 3351,
+            "end_char": 3353,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3374,
+            "end_char": 3378,
+            "label": "LOC",
+            "text": "Giec"
+          },
+          {
+            "start_char": 3403,
+            "end_char": 3415,
+            "label": "ORG",
+            "text": "Haut Conseil"
+          },
+          {
+            "start_char": 3541,
+            "end_char": 3549,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3631,
+            "end_char": 3651,
+            "label": "LOC",
+            "text": "Écolo-NUPES.</strong"
+          },
+          {
+            "start_char": 3694,
+            "end_char": 3707,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3914,
+            "end_char": 3996,
+            "label": "ORG",
+            "text": "Conseil national de la refondation concerne évidemment l'atténuation des émissions"
+          },
+          {
+            "start_char": 4257,
+            "end_char": 4274,
+            "label": "MISC",
+            "text": "émissions.<br><br"
+          },
+          {
+            "start_char": 4402,
+            "end_char": 4414,
+            "label": "PER",
+            "text": "Mme Clémence"
+          },
+          {
+            "start_char": 4488,
+            "end_char": 4501,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4634,
+            "end_char": 4649,
+            "label": "MISC",
+            "text": "crédits.<br><br"
+          },
+          {
+            "start_char": 4650,
+            "end_char": 4656,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 4881,
+            "end_char": 4883,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 4934,
+            "end_char": 4943,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5011,
+            "end_char": 5027,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 5210,
+            "end_char": 5218,
+            "label": "PER",
+            "text": "Mme Alma"
+          },
+          {
+            "start_char": 5291,
+            "end_char": 5304,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 5435,
+            "end_char": 5444,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5472,
+            "end_char": 5478,
+            "label": "MISC",
+            "text": "Traité"
+          },
+          {
+            "start_char": 5805,
+            "end_char": 5821,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 5848,
+            "end_char": 5850,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5854,
+            "end_char": 5874,
+            "label": "MISC",
+            "text": "Dem.)<br><br><strong"
+          },
+          {
+            "start_char": 5878,
+            "end_char": 5903,
+            "label": "PER",
+            "text": "Bruno Millienne.</strong>"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 49,
+            "sentiment": "4 stars",
+            "score": 0.38114315271377563
+          },
+          {
+            "begin_char": 50,
+            "end_char": 78,
+            "sentiment": "3 stars",
+            "score": 0.3092707097530365
+          },
+          {
+            "begin_char": 79,
+            "end_char": 113,
+            "sentiment": "4 stars",
+            "score": 0.2742326259613037
+          },
+          {
+            "begin_char": 114,
+            "end_char": 187,
+            "sentiment": "3 stars",
+            "score": 0.23394016921520233
+          },
+          {
+            "begin_char": 188,
+            "end_char": 197,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 197,
+            "end_char": 350,
+            "sentiment": "4 stars",
+            "score": 0.36229953169822693
+          },
+          {
+            "begin_char": 351,
+            "end_char": 459,
+            "sentiment": "3 stars",
+            "score": 0.25087806582450867
+          },
+          {
+            "begin_char": 460,
+            "end_char": 552,
+            "sentiment": "2 stars",
+            "score": 0.3134651780128479
+          },
+          {
+            "begin_char": 553,
+            "end_char": 605,
+            "sentiment": "5 stars",
+            "score": 0.28677237033843994
+          },
+          {
+            "begin_char": 606,
+            "end_char": 958,
+            "sentiment": "5 stars",
+            "score": 0.33996593952178955
+          },
+          {
+            "begin_char": 959,
+            "end_char": 1181,
+            "sentiment": "5 stars",
+            "score": 0.6674923300743103
+          },
+          {
+            "begin_char": 1182,
+            "end_char": 1286,
+            "sentiment": "4 stars",
+            "score": 0.3202572762966156
+          },
+          {
+            "begin_char": 1287,
+            "end_char": 1662,
+            "sentiment": "5 stars",
+            "score": 0.5197147727012634
+          },
+          {
+            "begin_char": 1663,
+            "end_char": 1785,
+            "sentiment": "3 stars",
+            "score": 0.35296037793159485
+          },
+          {
+            "begin_char": 1786,
+            "end_char": 1827,
+            "sentiment": "1 star",
+            "score": 0.5515124797821045
+          },
+          {
+            "begin_char": 1828,
+            "end_char": 1963,
+            "sentiment": "2 stars",
+            "score": 0.3949742913246155
+          },
+          {
+            "begin_char": 1964,
+            "end_char": 2070,
+            "sentiment": "1 star",
+            "score": 0.4705481231212616
+          },
+          {
+            "begin_char": 2071,
+            "end_char": 2211,
+            "sentiment": "3 stars",
+            "score": 0.25136739015579224
+          },
+          {
+            "begin_char": 2212,
+            "end_char": 2425,
+            "sentiment": "2 stars",
+            "score": 0.3343588709831238
+          },
+          {
+            "begin_char": 2426,
+            "end_char": 2551,
+            "sentiment": "2 stars",
+            "score": 0.3677932620048523
+          },
+          {
+            "begin_char": 2552,
+            "end_char": 2747,
+            "sentiment": "5 stars",
+            "score": 0.2110481858253479
+          },
+          {
+            "begin_char": 2748,
+            "end_char": 2889,
+            "sentiment": "5 stars",
+            "score": 0.3739407956600189
+          },
+          {
+            "begin_char": 2890,
+            "end_char": 3004,
+            "sentiment": "4 stars",
+            "score": 0.31236618757247925
+          },
+          {
+            "begin_char": 3004,
+            "end_char": 3022,
+            "sentiment": "4 stars",
+            "score": 0.3682718873023987
+          },
+          {
+            "begin_char": 3023,
+            "end_char": 3245,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 3246,
+            "end_char": 3609,
+            "sentiment": "4 stars",
+            "score": 0.41241881251335144
+          },
+          {
+            "begin_char": 3609,
+            "end_char": 3652,
+            "sentiment": "3 stars",
+            "score": 0.29390543699264526
+          },
+          {
+            "begin_char": 3653,
+            "end_char": 3678,
+            "sentiment": "1 star",
+            "score": 0.3302494287490845
+          },
+          {
+            "begin_char": 3678,
+            "end_char": 3737,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 3738,
+            "end_char": 3742,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3742,
+            "end_char": 4275,
+            "sentiment": "4 stars",
+            "score": 0.39773887395858765
+          },
+          {
+            "begin_char": 4275,
+            "end_char": 4431,
+            "sentiment": "3 stars",
+            "score": 0.32188287377357483
+          },
+          {
+            "begin_char": 4432,
+            "end_char": 4472,
+            "sentiment": "1 star",
+            "score": 0.7536967396736145
+          },
+          {
+            "begin_char": 4472,
+            "end_char": 4531,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 4532,
+            "end_char": 4822,
+            "sentiment": "1 star",
+            "score": 0.5034471154212952
+          },
+          {
+            "begin_char": 4823,
+            "end_char": 5009,
+            "sentiment": "1 star",
+            "score": 0.4292522072792053
+          },
+          {
+            "begin_char": 5010,
+            "end_char": 5235,
+            "sentiment": "2 stars",
+            "score": 0.32418331503868103
+          },
+          {
+            "begin_char": 5236,
+            "end_char": 5275,
+            "sentiment": "1 star",
+            "score": 0.445121705532074
+          },
+          {
+            "begin_char": 5275,
+            "end_char": 5334,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 5335,
+            "end_char": 5339,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5339,
+            "end_char": 5507,
+            "sentiment": "4 stars",
+            "score": 0.3514625132083893
+          },
+          {
+            "begin_char": 5508,
+            "end_char": 5544,
+            "sentiment": "3 stars",
+            "score": 0.357748419046402
+          },
+          {
+            "begin_char": 5545,
+            "end_char": 5584,
+            "sentiment": "1 star",
+            "score": 0.20896445214748383
+          },
+          {
+            "begin_char": 5585,
+            "end_char": 5641,
+            "sentiment": "5 stars",
+            "score": 0.27459919452667236
+          },
+          {
+            "begin_char": 5642,
+            "end_char": 5676,
+            "sentiment": "5 stars",
+            "score": 0.30181142687797546
+          },
+          {
+            "begin_char": 5677,
+            "end_char": 5805,
+            "sentiment": "1 star",
+            "score": 0.4339195787906647
+          },
+          {
+            "begin_char": 5805,
+            "end_char": 5903,
+            "sentiment": "4 stars",
+            "score": 0.33354270458221436
+          },
+          {
+            "begin_char": 5904,
+            "end_char": 5915,
+            "sentiment": "5 stars",
+            "score": 0.8453423976898193
+          },
+          {
+            "begin_char": 5915,
+            "end_char": 5923,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-26",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-26",
+        "pageJO": "4573",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

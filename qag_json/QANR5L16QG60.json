@@ -1,0 +1,833 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG60",
+    "identifiant": {
+      "numero": "60",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Baisse du prix des carburants"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA607090",
+        "mandatRef": "PM796761"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Comptes publics",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Comptes publics",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> BAISSE DU PRIX DES CARBURANTS <a name=PG6></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Pierre Vigier.<br><br><strong>M. Jean-Pierre Vigier. </strong>Madame la Première ministre, face à la flambée du prix des carburants, le groupe Les Républicains a fait de la baisse des prix à la pompe une priorité absolue.<br><br><strong>M. Thibault Bazin.</strong> Eh oui !<br><br><strong>M. Jean-Pierre Vigier. </strong>Grâce à une mobilisation sans faille, nous – oui, nous, Les Républicains – avons obtenu de réelles avancées pour les Français. <i>(Applaudissements sur plusieurs bancs du groupe LR. – Murmures sur divers bancs.)</i> Ceux-ci pourront ainsi bénéficier, dès le mois de septembre, d'une ristourne de l'État de 30 centimes par litre – contre 18 centimes actuellement – et d'une remise de 20 centimes par Total, soit une baisse de 50 centimes par litre de carburant à la pompe. S'ajoutent à cette mesure les 230 millions d'euros d'aides pour les ménages qui se chauffent au fioul et les 15 millions d'euros de soutien aux stations-services en milieu rural.<br><br>Je le dis haut et fort, il est vital de redonner du pouvoir d'achat à tous les Français !<br><br><strong>M. Pierre Cordier.</strong> Très juste !<br><br><strong>M. Jean-Pierre Vigier. </strong>Je pense en particulier aux habitants de nos territoires ruraux, asphyxiés par l'inflation et des taxes record ; ils souffrent particulièrement.<br><br>Mais si ces mesures vont dans le bon sens, ce n'est qu'un début car elles ne sauraient suffire sur le long terme. Aussi, êtes-vous prête, madame la Première ministre, à baisser de manière pérenne les taxes sur les carburants, comme nous vous le demandons depuis plusieurs semaines déjà ?<br><br><strong>Mme Laure Lavalette.</strong> Comme nous vous le demandons !<br><br><strong>M. Jean-Pierre Vigier. </strong>Enfin, alors que la ristourne à la pompe doit s'arrêter en fin d'année, pouvez-vous nous garantir clairement qu'elle sera prolongée si les prix du pétrole ne baissent toujours pas d'ici là ? <i>(Applaudissements sur les bancs du groupe LR.)</i><br><br><strong>M. Thibault Bazin.</strong> Excellente question !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics.<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics. </i>Monsieur le député, nous sommes réunis depuis plusieurs jours – et plusieurs nuits – pour discuter ensemble de mesures de nature à lutter contre l'inflation, un phénomène mondial qui touche nos compatriotes et qui a été accentué par la guerre en Ukraine. Il y a un an, nous avons fait le choix d'agir résolument face à l'inflation, pour le pouvoir d'achat des Français. Depuis, la France est, parmi les pays qui lui sont comparables, celui qui a adopté le plus large paquet en faveur du pouvoir d'achat et celui de la zone euro où l'inflation est la plus faible.<br><br><strong>M. Jocelyn Dessigny.</strong> Dommage que les Français ne s'en rendent pas compte !<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué. </i>Nous le devons aux mesures particulièrement fortes que nous avons prises au cours des douze derniers mois. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.)</i><br><br>Bien entendu, nous continuons à agir et à prendre des mesures adaptées ; c'est l'objet des travaux qui nous réunissent depuis quelques jours. Nous avions proposé d'éteindre progressivement la ristourne carburant et de lui substituer un nouveau dispositif. Après des échanges, notamment avec votre groupe, nous avons adopté un autre dispositif, qui consiste à prolonger et à renforcer cette ristourne. Total s'étant par ailleurs engagé à pratiquer une ristourne supplémentaire, le prix du litre baissera, au mois de septembre, de 50 centimes.<br><br><strong>M. Jocelyn Dessigny.</strong> Cinquante centimes chez Total, pas dans toutes les stations-services !<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué. </i>C'est une diminution massive. Peu de mesures comparables ont été prises au niveau européen. D'autres amendements sont venus enrichir le texte, notamment celui de M. Descoeur.<br><br>Nous avons toujours montré que nous répondions présent, mais nous avons également toujours dit la vérité aux Français. Ainsi, nous ne pouvons pas leur faire croire que l'État peut seul prendre à sa charge les effets de l'inflation. Car nous devons tenir nos finances publiques pour ne pas reporter les impôts sur les générations suivantes. Il faut assumer nos responsabilités.<br><br>Notre ligne est donc de solliciter la participation des entreprises. Nous avons ainsi adopté, à l'initiative de plusieurs groupes de l'Assemblée, dont le vôtre, un amendement qui permet de doubler la prime défiscalisée que les entreprises peuvent verser à leurs salariés afin de les aider à payer leur carburant. Vous le voyez, nous continuons à agir tous ensemble ! <i>(Applaudissements sur les bancs des groupes RE et Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Pierre Vigier.<br><br><strong>M. Jean-Pierre Vigier. </strong>Monsieur le ministre, il y a des priorités ; aider les Français dans ce domaine…<br><br><strong>M. Fabien Di Filippo.</strong> Ceux qui travaillent !<br><br><strong>M. Jean-Pierre Vigier. </strong>…en est une. Et, je le rappelle, c'est la mobilisation des Républicains qui a permis de parvenir à ces baisses de prix. <i>(Exclamations sur les bancs des groupes RE et Dem.)</i> À présent, il faut les pérenniser : c'est important pour les Français. (Applaudissements sur les bancs du groupe LR.)<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 29,
+            "label": "MISC",
+            "text": "BAISSE"
+          },
+          {
+            "start_char": 33,
+            "end_char": 52,
+            "label": "MISC",
+            "text": "PRIX DES CARBURANTS"
+          },
+          {
+            "start_char": 61,
+            "end_char": 68,
+            "label": "PER",
+            "text": "PG6></a"
+          },
+          {
+            "start_char": 86,
+            "end_char": 89,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 130,
+            "end_char": 133,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 133,
+            "end_char": 167,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier.<br><br><strong"
+          },
+          {
+            "start_char": 171,
+            "end_char": 189,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier"
+          },
+          {
+            "start_char": 200,
+            "end_char": 218,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 281,
+            "end_char": 297,
+            "label": "ORG",
+            "text": "Les Républicains"
+          },
+          {
+            "start_char": 375,
+            "end_char": 386,
+            "label": "PER",
+            "text": "M. Thibault"
+          },
+          {
+            "start_char": 430,
+            "end_char": 448,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier"
+          },
+          {
+            "start_char": 519,
+            "end_char": 531,
+            "label": "ORG",
+            "text": "Républicains"
+          },
+          {
+            "start_char": 576,
+            "end_char": 584,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 637,
+            "end_char": 639,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 643,
+            "end_char": 651,
+            "label": "LOC",
+            "text": "Murmures"
+          },
+          {
+            "start_char": 757,
+            "end_char": 761,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 858,
+            "end_char": 863,
+            "label": "ORG",
+            "text": "Total"
+          },
+          {
+            "start_char": 1196,
+            "end_char": 1204,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1225,
+            "end_char": 1254,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong> Très"
+          },
+          {
+            "start_char": 1281,
+            "end_char": 1299,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier"
+          },
+          {
+            "start_char": 1437,
+            "end_char": 1461,
+            "label": "MISC",
+            "text": "particulièrement.<br><br"
+          },
+          {
+            "start_char": 1765,
+            "end_char": 1774,
+            "label": "PER",
+            "text": "Mme Laure"
+          },
+          {
+            "start_char": 1844,
+            "end_char": 1862,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier"
+          },
+          {
+            "start_char": 2109,
+            "end_char": 2132,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2133,
+            "end_char": 2144,
+            "label": "PER",
+            "text": "M. Thibault"
+          },
+          {
+            "start_char": 2198,
+            "end_char": 2201,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2242,
+            "end_char": 2244,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2287,
+            "end_char": 2289,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2404,
+            "end_char": 2414,
+            "label": "PER",
+            "text": "M. Gabriel"
+          },
+          {
+            "start_char": 2473,
+            "end_char": 2475,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2579,
+            "end_char": 2587,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2825,
+            "end_char": 2832,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 2957,
+            "end_char": 2966,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3160,
+            "end_char": 3186,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong>"
+          },
+          {
+            "start_char": 3203,
+            "end_char": 3211,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3256,
+            "end_char": 3266,
+            "label": "PER",
+            "text": "M. Gabriel"
+          },
+          {
+            "start_char": 3468,
+            "end_char": 3470,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3474,
+            "end_char": 3503,
+            "label": "MISC",
+            "text": "Dem.)</i><br><br>Bien entendu"
+          },
+          {
+            "start_char": 3892,
+            "end_char": 3897,
+            "label": "ORG",
+            "text": "Total"
+          },
+          {
+            "start_char": 4051,
+            "end_char": 4077,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong>"
+          },
+          {
+            "start_char": 4078,
+            "end_char": 4087,
+            "label": "LOC",
+            "text": "Cinquante"
+          },
+          {
+            "start_char": 4102,
+            "end_char": 4107,
+            "label": "ORG",
+            "text": "Total"
+          },
+          {
+            "start_char": 4164,
+            "end_char": 4174,
+            "label": "PER",
+            "text": "M. Gabriel"
+          },
+          {
+            "start_char": 4378,
+            "end_char": 4380,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 4507,
+            "end_char": 4515,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 4568,
+            "end_char": 4572,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4758,
+            "end_char": 4793,
+            "label": "MISC",
+            "text": "responsabilités.<br><br>Notre ligne"
+          },
+          {
+            "start_char": 4917,
+            "end_char": 4926,
+            "label": "ORG",
+            "text": "Assemblée"
+          },
+          {
+            "start_char": 5196,
+            "end_char": 5198,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5227,
+            "end_char": 5230,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5271,
+            "end_char": 5274,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 5274,
+            "end_char": 5308,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier.<br><br><strong"
+          },
+          {
+            "start_char": 5312,
+            "end_char": 5330,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier"
+          },
+          {
+            "start_char": 5341,
+            "end_char": 5349,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 5396,
+            "end_char": 5404,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5447,
+            "end_char": 5472,
+            "label": "PER",
+            "text": "Di Filippo.</strong> Ceux"
+          },
+          {
+            "start_char": 5509,
+            "end_char": 5527,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier"
+          },
+          {
+            "start_char": 5597,
+            "end_char": 5609,
+            "label": "ORG",
+            "text": "Républicains"
+          },
+          {
+            "start_char": 5701,
+            "end_char": 5703,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5707,
+            "end_char": 5715,
+            "label": "MISC",
+            "text": "Dem.)</i"
+          },
+          {
+            "start_char": 5778,
+            "end_char": 5786,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5789,
+            "end_char": 5805,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 5830,
+            "end_char": 5837,
+            "label": "ORG",
+            "text": "LR.)<br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 104,
+            "sentiment": "3 stars",
+            "score": 0.34399840235710144
+          },
+          {
+            "begin_char": 105,
+            "end_char": 190,
+            "sentiment": "4 stars",
+            "score": 0.2725026309490204
+          },
+          {
+            "begin_char": 191,
+            "end_char": 200,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 200,
+            "end_char": 402,
+            "sentiment": "5 stars",
+            "score": 0.38914749026298523
+          },
+          {
+            "begin_char": 403,
+            "end_char": 411,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 411,
+            "end_char": 449,
+            "sentiment": "3 stars",
+            "score": 0.27627426385879517
+          },
+          {
+            "begin_char": 450,
+            "end_char": 532,
+            "sentiment": "5 stars",
+            "score": 0.603687047958374
+          },
+          {
+            "begin_char": 532,
+            "end_char": 585,
+            "sentiment": "5 stars",
+            "score": 0.5406539440155029
+          },
+          {
+            "begin_char": 586,
+            "end_char": 640,
+            "sentiment": "4 stars",
+            "score": 0.33749163150787354
+          },
+          {
+            "begin_char": 641,
+            "end_char": 642,
+            "sentiment": "4 stars",
+            "score": 0.2636305093765259
+          },
+          {
+            "begin_char": 643,
+            "end_char": 674,
+            "sentiment": "3 stars",
+            "score": 0.35098564624786377
+          },
+          {
+            "begin_char": 675,
+            "end_char": 930,
+            "sentiment": "5 stars",
+            "score": 0.3616560101509094
+          },
+          {
+            "begin_char": 931,
+            "end_char": 1206,
+            "sentiment": "5 stars",
+            "score": 0.6144004464149475
+          },
+          {
+            "begin_char": 1206,
+            "end_char": 1262,
+            "sentiment": "5 stars",
+            "score": 0.5911445021629333
+          },
+          {
+            "begin_char": 1262,
+            "end_char": 1300,
+            "sentiment": "3 stars",
+            "score": 0.27627426385879517
+          },
+          {
+            "begin_char": 1301,
+            "end_char": 1422,
+            "sentiment": "5 stars",
+            "score": 0.2522136867046356
+          },
+          {
+            "begin_char": 1423,
+            "end_char": 1462,
+            "sentiment": "3 stars",
+            "score": 0.31558653712272644
+          },
+          {
+            "begin_char": 1462,
+            "end_char": 1575,
+            "sentiment": "3 stars",
+            "score": 0.33905550837516785
+          },
+          {
+            "begin_char": 1576,
+            "end_char": 1749,
+            "sentiment": "5 stars",
+            "score": 0.4906299412250519
+          },
+          {
+            "begin_char": 1749,
+            "end_char": 1794,
+            "sentiment": "3 stars",
+            "score": 0.29559066891670227
+          },
+          {
+            "begin_char": 1795,
+            "end_char": 1825,
+            "sentiment": "5 stars",
+            "score": 0.5676990747451782
+          },
+          {
+            "begin_char": 1825,
+            "end_char": 1863,
+            "sentiment": "3 stars",
+            "score": 0.27627426385879517
+          },
+          {
+            "begin_char": 1864,
+            "end_char": 2063,
+            "sentiment": "2 stars",
+            "score": 0.30422085523605347
+          },
+          {
+            "begin_char": 2064,
+            "end_char": 2160,
+            "sentiment": "3 stars",
+            "score": 0.34261590242385864
+          },
+          {
+            "begin_char": 2161,
+            "end_char": 2216,
+            "sentiment": "5 stars",
+            "score": 0.4902108609676361
+          },
+          {
+            "begin_char": 2217,
+            "end_char": 2574,
+            "sentiment": "4 stars",
+            "score": 0.3370208740234375
+          },
+          {
+            "begin_char": 2575,
+            "end_char": 2579,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2579,
+            "end_char": 2833,
+            "sentiment": "5 stars",
+            "score": 0.5457771420478821
+          },
+          {
+            "begin_char": 2834,
+            "end_char": 2890,
+            "sentiment": "5 stars",
+            "score": 0.534087598323822
+          },
+          {
+            "begin_char": 2891,
+            "end_char": 2948,
+            "sentiment": "5 stars",
+            "score": 0.4001847207546234
+          },
+          {
+            "begin_char": 2949,
+            "end_char": 3186,
+            "sentiment": "5 stars",
+            "score": 0.40517908334732056
+          },
+          {
+            "begin_char": 3187,
+            "end_char": 3194,
+            "sentiment": "2 stars",
+            "score": 0.4309697449207306
+          },
+          {
+            "begin_char": 3195,
+            "end_char": 3303,
+            "sentiment": "3 stars",
+            "score": 0.20640644431114197
+          },
+          {
+            "begin_char": 3304,
+            "end_char": 3414,
+            "sentiment": "5 stars",
+            "score": 0.4245406687259674
+          },
+          {
+            "begin_char": 3415,
+            "end_char": 3563,
+            "sentiment": "4 stars",
+            "score": 0.41079556941986084
+          },
+          {
+            "begin_char": 3564,
+            "end_char": 3632,
+            "sentiment": "4 stars",
+            "score": 0.3336394727230072
+          },
+          {
+            "begin_char": 3633,
+            "end_char": 3746,
+            "sentiment": "4 stars",
+            "score": 0.26734358072280884
+          },
+          {
+            "begin_char": 3747,
+            "end_char": 3891,
+            "sentiment": "4 stars",
+            "score": 0.36493349075317383
+          },
+          {
+            "begin_char": 3892,
+            "end_char": 4077,
+            "sentiment": "3 stars",
+            "score": 0.3429933786392212
+          },
+          {
+            "begin_char": 4078,
+            "end_char": 4148,
+            "sentiment": "1 star",
+            "score": 0.5870523452758789
+          },
+          {
+            "begin_char": 4148,
+            "end_char": 4211,
+            "sentiment": "3 stars",
+            "score": 0.28099483251571655
+          },
+          {
+            "begin_char": 4212,
+            "end_char": 4245,
+            "sentiment": "2 stars",
+            "score": 0.29339808225631714
+          },
+          {
+            "begin_char": 4246,
+            "end_char": 4307,
+            "sentiment": "3 stars",
+            "score": 0.3100813329219818
+          },
+          {
+            "begin_char": 4308,
+            "end_char": 4516,
+            "sentiment": "4 stars",
+            "score": 0.43142765760421753
+          },
+          {
+            "begin_char": 4517,
+            "end_char": 4629,
+            "sentiment": "1 star",
+            "score": 0.31792986392974854
+          },
+          {
+            "begin_char": 4630,
+            "end_char": 4737,
+            "sentiment": "5 stars",
+            "score": 0.3960050344467163
+          },
+          {
+            "begin_char": 4738,
+            "end_char": 4850,
+            "sentiment": "5 stars",
+            "score": 0.4095207452774048
+          },
+          {
+            "begin_char": 4851,
+            "end_char": 5094,
+            "sentiment": "4 stars",
+            "score": 0.38478419184684753
+          },
+          {
+            "begin_char": 5095,
+            "end_char": 5148,
+            "sentiment": "5 stars",
+            "score": 0.5886160135269165
+          },
+          {
+            "begin_char": 5149,
+            "end_char": 5245,
+            "sentiment": "4 stars",
+            "score": 0.31417331099510193
+          },
+          {
+            "begin_char": 5246,
+            "end_char": 5331,
+            "sentiment": "4 stars",
+            "score": 0.2725026309490204
+          },
+          {
+            "begin_char": 5332,
+            "end_char": 5341,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5341,
+            "end_char": 5385,
+            "sentiment": "4 stars",
+            "score": 0.3804319500923157
+          },
+          {
+            "begin_char": 5386,
+            "end_char": 5446,
+            "sentiment": "3 stars",
+            "score": 0.2737320363521576
+          },
+          {
+            "begin_char": 5447,
+            "end_char": 5490,
+            "sentiment": "2 stars",
+            "score": 0.22378338873386383
+          },
+          {
+            "begin_char": 5490,
+            "end_char": 5528,
+            "sentiment": "3 stars",
+            "score": 0.27627426385879517
+          },
+          {
+            "begin_char": 5529,
+            "end_char": 5550,
+            "sentiment": "3 stars",
+            "score": 0.2422078400850296
+          },
+          {
+            "begin_char": 5551,
+            "end_char": 5657,
+            "sentiment": "5 stars",
+            "score": 0.4612046182155609
+          },
+          {
+            "begin_char": 5658,
+            "end_char": 5716,
+            "sentiment": "3 stars",
+            "score": 0.29038217663764954
+          },
+          {
+            "begin_char": 5717,
+            "end_char": 5789,
+            "sentiment": "5 stars",
+            "score": 0.5578166246414185
+          },
+          {
+            "begin_char": 5789,
+            "end_char": 5842,
+            "sentiment": "4 stars",
+            "score": 0.33687400817871094
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-27",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-27",
+        "pageJO": "3094",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

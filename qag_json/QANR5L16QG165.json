@@ -1,0 +1,497 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG165",
+    "identifiant": {
+      "numero": "165",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "pharmacie et médicaments",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PÉNURIE DE MÉDICAMENTS"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793342",
+        "mandatRef": "PM796269"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "<p> </p><p align=\"CENTER\"> PÉNURIE DE MÉDICAMENTS <a name=PG28></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Alexandra Martin.<br><br><strong>Mme Alexandra Martin. </strong>L'accès à la santé est un droit, majeur, pour tous, vous l'avez rappelé. La force de notre système de santé est de pouvoir répondre à cet engagement. Je souhaite faire écho au cri d'alarme des pharmaciens et des patients sur les ruptures d'approvisionnement en médicaments, qui se multiplient et sont l'une des sources de dégradation de notre système de santé. Sur le site internet de l'Agence nationale de sécurité du médicament et des produits de santé (ANSM), la liste de ces produits s'allonge dangereusement.<br><br><strong>M. Pierre Cordier.</strong> Elle a raison !<br><br><strong>Mme Alexandra Martin. </strong>Les ruptures d'approvisionnement des pharmacies, durant au moins une semaine, ont quasiment doublé depuis le début de l'année, passant de 6,5 % à 12,5 % du nombre de références. Monsieur le ministre de la santé, nous sommes en crise : crise sanitaire, hausse de la demande mondiale, crise énergétique, guerre en Ukraine. Mais le vrai problème est la désindustrialisation, tout comme la fixation par la France de prix trop bas ne permettant plus aux industriels de fournir des médicaments courants de façon régulière.<br><br>Résultat : des milliers de malades ne peuvent plus se soigner. Ces situations de pénurie ou de tension concernent des centaines de références, dont des médicaments d'intérêt thérapeutique majeur – chimiothérapies, diabète de type 2 – et peuvent entraîner l'interruption ou le report de traitements d'intérêt vital : c'est inacceptable ! Comment en sommes-nous arrivés là ?<br><br><strong>M. Pierre Cordier.</strong> Il faut le demander à Olivier Véran !<br><br><strong>Mme Alexandra Martin. </strong>Comment la mise en place, en 2021, d'un stock national de quatre mois n'a-t-elle pas permis d'empêcher la dégradation continue de la situation ? <i>(Applaudissements sur les bancs du groupe LR.)</i><br><br><strong>Mme Justine Gruet.</strong> Bravo !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>Le médicament est un enjeu stratégique majeur pour notre pays, s'agissant de sa facilité d'accès pour nos concitoyens, mais aussi eu égard aux problèmes de pénurie que vous évoquez – en distinguant la pénurie de médicaments et celle de molécules, quelque peu différentes –, au soutien à l'innovation médicamenteuse et à l'attractivité industrielle de notre pays en la matière. Il est également un enjeu de souveraineté nationale fondamental, comme nous l'avons tous constaté lors de l'épidémie de covid. Le Gouvernement a fait – et continue à faire – beaucoup, par exemple pour l'innovation, en mettant 10 milliards d'euros sur la table…<br><br><strong>M. Thibault Bazin.</strong> Ce n'est pas assez !<br><br><strong>M. François Braun,</strong><i> ministre . </i>…et en faisant en sorte que nos concitoyens disposent d'un accès plus rapide et simplifié aux médicaments innovants, qui ont un réel effet sur leur pathologie.<br><br>En 2023, près de 800 millions d'euros supplémentaires de crédits de la sécurité sociale seront investis dans l'industrie du médicament, afin de respecter les engagements du Président de la République envers elle. Nous allons même au-delà des engagements pris en matière de dépenses de sécurité sociale. En contrepartie des mesures gouvernementales, nous demandons à l'industrie du médicament – un secteur en forte croissance – des efforts justes et proportionnés. En parallèle, le Gouvernement s'engage bien évidemment à maintenir le pouvoir d'achat de nos concitoyens, à ne pas augmenter leurs impôts, ni diminuer leurs droits face à la maladie. Toutefois, nous avons entendu les professionnels et nous travaillons avec eux à une rénovation de la régulation structurelle du secteur, ainsi qu'à la façon de passer au mieux le cap de l'année 2023. La maîtrise des dépenses de santé, madame la députée, est un enjeu majeur d'équilibre de notre système de protection sociale, mais vous le savez.<br><br><strong>Mme la présidente. </strong>La parole est à Mme Alexandra Martin.<br><br><strong>Mme Alexandra Martin. </strong>Je rappellerai simplement que c'est en ce moment qu'il faut régler la crise, c'est maintenant qu'il faut agir.<b",
+        "entities": [
+          {
+            "start_char": 27,
+            "end_char": 34,
+            "label": "ORG",
+            "text": "PÉNURIE"
+          },
+          {
+            "start_char": 84,
+            "end_char": 87,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 128,
+            "end_char": 141,
+            "label": "PER",
+            "text": "Mme Alexandra"
+          },
+          {
+            "start_char": 165,
+            "end_char": 185,
+            "label": "PER",
+            "text": "Mme Alexandra Martin"
+          },
+          {
+            "start_char": 583,
+            "end_char": 650,
+            "label": "ORG",
+            "text": "Agence nationale de sécurité du médicament et des produits de santé"
+          },
+          {
+            "start_char": 652,
+            "end_char": 656,
+            "label": "ORG",
+            "text": "ANSM"
+          },
+          {
+            "start_char": 728,
+            "end_char": 752,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong>"
+          },
+          {
+            "start_char": 784,
+            "end_char": 804,
+            "label": "PER",
+            "text": "Mme Alexandra Martin"
+          },
+          {
+            "start_char": 993,
+            "end_char": 1001,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1127,
+            "end_char": 1134,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 1214,
+            "end_char": 1223,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1321,
+            "end_char": 1338,
+            "label": "MISC",
+            "text": "régulière.<br><br"
+          },
+          {
+            "start_char": 1730,
+            "end_char": 1753,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 1777,
+            "end_char": 1790,
+            "label": "PER",
+            "text": "Olivier Véran"
+          },
+          {
+            "start_char": 1808,
+            "end_char": 1828,
+            "label": "PER",
+            "text": "Mme Alexandra Martin"
+          },
+          {
+            "start_char": 2029,
+            "end_char": 2052,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2053,
+            "end_char": 2064,
+            "label": "PER",
+            "text": "Mme Justine"
+          },
+          {
+            "start_char": 2081,
+            "end_char": 2086,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 2104,
+            "end_char": 2107,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2148,
+            "end_char": 2150,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2214,
+            "end_char": 2222,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 2795,
+            "end_char": 2807,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2941,
+            "end_char": 2952,
+            "label": "PER",
+            "text": "M. Thibault"
+          },
+          {
+            "start_char": 3008,
+            "end_char": 3016,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3036,
+            "end_char": 3044,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3391,
+            "end_char": 3417,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3699,
+            "end_char": 3711,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4226,
+            "end_char": 4229,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4270,
+            "end_char": 4283,
+            "label": "PER",
+            "text": "Mme Alexandra"
+          },
+          {
+            "start_char": 4307,
+            "end_char": 4327,
+            "label": "PER",
+            "text": "Mme Alexandra Martin"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 24,
+            "sentiment": "3 stars",
+            "score": 0.27847594022750854
+          },
+          {
+            "begin_char": 24,
+            "end_char": 25,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 25,
+            "end_char": 102,
+            "sentiment": "3 stars",
+            "score": 0.3144417107105255
+          },
+          {
+            "begin_char": 103,
+            "end_char": 186,
+            "sentiment": "3 stars",
+            "score": 0.22857531905174255
+          },
+          {
+            "begin_char": 187,
+            "end_char": 196,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 196,
+            "end_char": 268,
+            "sentiment": "5 stars",
+            "score": 0.5698850750923157
+          },
+          {
+            "begin_char": 269,
+            "end_char": 345,
+            "sentiment": "5 stars",
+            "score": 0.5647247433662415
+          },
+          {
+            "begin_char": 346,
+            "end_char": 556,
+            "sentiment": "5 stars",
+            "score": 0.5703080296516418
+          },
+          {
+            "begin_char": 557,
+            "end_char": 752,
+            "sentiment": "3 stars",
+            "score": 0.3261275291442871
+          },
+          {
+            "begin_char": 753,
+            "end_char": 768,
+            "sentiment": "5 stars",
+            "score": 0.34754881262779236
+          },
+          {
+            "begin_char": 768,
+            "end_char": 805,
+            "sentiment": "3 stars",
+            "score": 0.2673170566558838
+          },
+          {
+            "begin_char": 806,
+            "end_char": 815,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 815,
+            "end_char": 992,
+            "sentiment": "3 stars",
+            "score": 0.26061245799064636
+          },
+          {
+            "begin_char": 993,
+            "end_char": 1135,
+            "sentiment": "5 stars",
+            "score": 0.3813318610191345
+          },
+          {
+            "begin_char": 1136,
+            "end_char": 1401,
+            "sentiment": "2 stars",
+            "score": 0.4182220697402954
+          },
+          {
+            "begin_char": 1402,
+            "end_char": 1675,
+            "sentiment": "1 star",
+            "score": 0.3324083685874939
+          },
+          {
+            "begin_char": 1676,
+            "end_char": 1711,
+            "sentiment": "1 star",
+            "score": 0.41928353905677795
+          },
+          {
+            "begin_char": 1711,
+            "end_char": 1754,
+            "sentiment": "3 stars",
+            "score": 0.323579341173172
+          },
+          {
+            "begin_char": 1755,
+            "end_char": 1792,
+            "sentiment": "1 star",
+            "score": 0.44058966636657715
+          },
+          {
+            "begin_char": 1792,
+            "end_char": 1829,
+            "sentiment": "3 stars",
+            "score": 0.2673170566558838
+          },
+          {
+            "begin_char": 1830,
+            "end_char": 1839,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1839,
+            "end_char": 1983,
+            "sentiment": "3 stars",
+            "score": 0.267159104347229
+          },
+          {
+            "begin_char": 1984,
+            "end_char": 2088,
+            "sentiment": "5 stars",
+            "score": 0.5100008845329285
+          },
+          {
+            "begin_char": 2088,
+            "end_char": 2122,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2123,
+            "end_char": 2241,
+            "sentiment": "4 stars",
+            "score": 0.3129529356956482
+          },
+          {
+            "begin_char": 2242,
+            "end_char": 2283,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 2284,
+            "end_char": 2664,
+            "sentiment": "5 stars",
+            "score": 0.4821259677410126
+          },
+          {
+            "begin_char": 2665,
+            "end_char": 2791,
+            "sentiment": "5 stars",
+            "score": 0.5446760058403015
+          },
+          {
+            "begin_char": 2792,
+            "end_char": 2968,
+            "sentiment": "2 stars",
+            "score": 0.2448313981294632
+          },
+          {
+            "begin_char": 2969,
+            "end_char": 2989,
+            "sentiment": "2 stars",
+            "score": 0.4550178050994873
+          },
+          {
+            "begin_char": 2989,
+            "end_char": 3046,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 3047,
+            "end_char": 3430,
+            "sentiment": "5 stars",
+            "score": 0.5775007009506226
+          },
+          {
+            "begin_char": 3431,
+            "end_char": 3520,
+            "sentiment": "5 stars",
+            "score": 0.41311371326446533
+          },
+          {
+            "begin_char": 3521,
+            "end_char": 3681,
+            "sentiment": "5 stars",
+            "score": 0.4643703103065491
+          },
+          {
+            "begin_char": 3682,
+            "end_char": 3864,
+            "sentiment": "5 stars",
+            "score": 0.5311490893363953
+          },
+          {
+            "begin_char": 3865,
+            "end_char": 4064,
+            "sentiment": "5 stars",
+            "score": 0.43642082810401917
+          },
+          {
+            "begin_char": 4065,
+            "end_char": 4244,
+            "sentiment": "4 stars",
+            "score": 0.39436355233192444
+          },
+          {
+            "begin_char": 4245,
+            "end_char": 4328,
+            "sentiment": "3 stars",
+            "score": 0.22857531905174255
+          },
+          {
+            "begin_char": 4329,
+            "end_char": 4450,
+            "sentiment": "4 stars",
+            "score": 0.2885161340236664
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-12",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-12",
+        "pageJO": "3875",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

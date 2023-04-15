@@ -1,0 +1,665 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG151",
+    "identifiant": {
+      "numero": "151",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "cours d'eau, étangs et lacs",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "ÉTANG DE BERRE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794906",
+        "mandatRef": "PM797187"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-12",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ÉTANG DE BERRE <a name=PG14></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Gabriel Amard.<br><br><strong>M. Gabriel Amard. </strong>Madame la Première ministre, le magazine <i>Marianne</i> a publié une enquête pour le moins édifiante. Alors que nous venons de connaître une terrible sécheresse, alors que les nappes phréatiques ne sont pas rechargées, alors que les agriculteurs ont besoin d'eau, la présidence de la République n'envisagerait rien de moins que de troquer 4 milliards de mètres cubes d'eau par an contre des hydrocarbures.<br><br><strong>Mme Sophia Chikirou.</strong> Une honte !<br><br><strong>M. Gabriel Amard. </strong>Résumons l'affaire. Après des réunions en petit comité, l'Élysée semblerait envisager d'exporter l'eau utilisée par la centrale hydroélectrique de Saint-Chamas. Actuellement, celle-ci ne fonctionne qu'à 50 %, l'étang de Berre ne pouvant absorber des rejets d'eau plus importants, qui mettraient son écosystème remarquable en péril. Il n'est donc pas envisageable de multiplier par deux le volume transitant par ce barrage à moins d'étudier sérieusement l'utilisation de l'eau pour des usages indispensables aux habitants et à l'agriculture.<br><br>Alors que les tensions dont fait l'objet la ressource en eau se sont généralisées dans le pays, pouvez-vous nous assurer que vous avez complètement et définitivement abandonné ce projet incroyable ? En attendant, nous, nous marcherons à Paris, dimanche 16 octobre,…<br><br><strong>M. Sylvain Maillard.</strong> Ah ! On l'attendait !<br><br><strong>M. Gabriel Amard. </strong>…contre votre inaction climatique. <i>(Applaudissements sur les bancs du groupe LFI-NUPES)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Monsieur Amard, si vous avez prévu de marcher dimanche prochain uniquement contre ce projet, annulez votre marche, car celui-ci n'aura pas de suite. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br><br><strong>M. Cyrille Isaac-Sibille.</strong> Au revoir, monsieur Amard !<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>À la fin du mois de septembre, le magazine <i>Marianne</i> a effectivement fait état de rencontres entre des porteurs de projet et des conseillers. Ce projet n'a pas franchi la barrière des conseillers ; nous ne l'envisageons en aucune manière.<br><br>Le 29 septembre, je me suis rendu à l'étang de Berre avec les trois membres de la mission d'information de 2020 sur la réhabilitation de cet étang, M. Dharréville, le président Zulesi et M. Diard ; cette mission a modifié en profondeur la perception des synergies nécessaires pour régler le problème.<br><br>L'étang de Berre, qui s'étend sur 15 000 hectares, est la plus grande lagune d'Europe. Paradoxalement, nous ne pouvons pas faire tourner l'usine hydroélectrique qui la borde, car le rejet d'un volume trop important d'eau potable provoquerait des dégâts pour la biodiversité de la lagune. Cela nous laisse trois options : soit continuer à diminuer la production hydroélectrique, soit acheminer de l'eau salée pour diluer l'eau potable, soit réutiliser l'eau potable– c'est la solution que la secrétaire d'État chargée de l'écologie et moi-même avons soutenue à la mairie de Saint-Chamas, en présence des députés Dharréville et Zulesi, compte tenu de l'été que nous avons vécu. L'eau pourrait être réutilisée dans l'écosystème de la plaine de la Crau ; elle pourrait également réalimenter l'usine hydroélectrique grâce à un circuit fermé comme il en existe dans certains endroits, pour soutenir une forme d'énergie renouvelable.<br><br>En liaison avec les collectivités locales, avec le Gipreb – le Groupement d'intérêt public pour la réhabilitation de l'étang de Berre-syndicat mixte –, la métropole d'Aix-Marseille, la région Sud et, évidemment, EDF, nous travaillons sur ces hypothèses. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Gabriel Amard.<br><br><strong>M. Gabriel Amard. </strong>Monsieur le ministre, je vous remercie, car l'eau c'est la vie et la vie n'est pas à vendre. J'ajoute que le coût de l'hypothèse que vous mentionnez avoisine les 2 milliards d'euros. Mettons-le au regard des sommes nécessaires au rechargement des nappes phréatiques, des rivières et des autres sources d'eau douce dont dépendent des habitations. <i>(Applaudissements sur les bancs du groupe LFI-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 28,
+            "label": "ORG",
+            "text": "ÉTANG"
+          },
+          {
+            "start_char": 32,
+            "end_char": 37,
+            "label": "MISC",
+            "text": "BERRE"
+          },
+          {
+            "start_char": 72,
+            "end_char": 75,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 116,
+            "end_char": 149,
+            "label": "PER",
+            "text": "M. Gabriel Amard.<br><br><strong>"
+          },
+          {
+            "start_char": 152,
+            "end_char": 165,
+            "label": "PER",
+            "text": "Gabriel Amard"
+          },
+          {
+            "start_char": 176,
+            "end_char": 194,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 217,
+            "end_char": 231,
+            "label": "MISC",
+            "text": "<i>Marianne</i"
+          },
+          {
+            "start_char": 461,
+            "end_char": 471,
+            "label": "MISC",
+            "text": "République"
+          },
+          {
+            "start_char": 598,
+            "end_char": 627,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong>"
+          },
+          {
+            "start_char": 658,
+            "end_char": 671,
+            "label": "PER",
+            "text": "Gabriel Amard"
+          },
+          {
+            "start_char": 682,
+            "end_char": 690,
+            "label": "LOC",
+            "text": "Résumons"
+          },
+          {
+            "start_char": 740,
+            "end_char": 746,
+            "label": "LOC",
+            "text": "Élysée"
+          },
+          {
+            "start_char": 829,
+            "end_char": 841,
+            "label": "LOC",
+            "text": "Saint-Chamas"
+          },
+          {
+            "start_char": 902,
+            "end_char": 907,
+            "label": "LOC",
+            "text": "Berre"
+          },
+          {
+            "start_char": 1210,
+            "end_char": 1229,
+            "label": "MISC",
+            "text": "agriculture.<br><br"
+          },
+          {
+            "start_char": 1467,
+            "end_char": 1472,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 1511,
+            "end_char": 1539,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong"
+          },
+          {
+            "start_char": 1541,
+            "end_char": 1545,
+            "label": "MISC",
+            "text": "Ah !"
+          },
+          {
+            "start_char": 1581,
+            "end_char": 1594,
+            "label": "PER",
+            "text": "Gabriel Amard"
+          },
+          {
+            "start_char": 1685,
+            "end_char": 1714,
+            "label": "ORG",
+            "text": "LFI-NUPES)</i><br><br><strong"
+          },
+          {
+            "start_char": 1715,
+            "end_char": 1718,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1759,
+            "end_char": 1761,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 1852,
+            "end_char": 1865,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 1961,
+            "end_char": 1975,
+            "label": "MISC",
+            "text": "Monsieur Amard"
+          },
+          {
+            "start_char": 2162,
+            "end_char": 2164,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 2196,
+            "end_char": 2226,
+            "label": "LOC",
+            "text": "Cyrille Isaac-Sibille.</strong"
+          },
+          {
+            "start_char": 2248,
+            "end_char": 2255,
+            "label": "MISC",
+            "text": "Amard !"
+          },
+          {
+            "start_char": 2271,
+            "end_char": 2284,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 2361,
+            "end_char": 2375,
+            "label": "MISC",
+            "text": "<i>Marianne</i"
+          },
+          {
+            "start_char": 2554,
+            "end_char": 2569,
+            "label": "MISC",
+            "text": "manière.<br><br"
+          },
+          {
+            "start_char": 2617,
+            "end_char": 2622,
+            "label": "LOC",
+            "text": "Berre"
+          },
+          {
+            "start_char": 2718,
+            "end_char": 2732,
+            "label": "PER",
+            "text": "M. Dharréville"
+          },
+          {
+            "start_char": 2747,
+            "end_char": 2753,
+            "label": "PER",
+            "text": "Zulesi"
+          },
+          {
+            "start_char": 2757,
+            "end_char": 2759,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2760,
+            "end_char": 2765,
+            "label": "PER",
+            "text": "Diard"
+          },
+          {
+            "start_char": 2889,
+            "end_char": 2894,
+            "label": "LOC",
+            "text": "Berre"
+          },
+          {
+            "start_char": 2957,
+            "end_char": 2963,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 3382,
+            "end_char": 3386,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3451,
+            "end_char": 3463,
+            "label": "LOC",
+            "text": "Saint-Chamas"
+          },
+          {
+            "start_char": 3489,
+            "end_char": 3500,
+            "label": "MISC",
+            "text": "Dharréville"
+          },
+          {
+            "start_char": 3504,
+            "end_char": 3510,
+            "label": "LOC",
+            "text": "Zulesi"
+          },
+          {
+            "start_char": 3622,
+            "end_char": 3626,
+            "label": "LOC",
+            "text": "Crau"
+          },
+          {
+            "start_char": 3791,
+            "end_char": 3811,
+            "label": "MISC",
+            "text": "renouvelable.<br><br"
+          },
+          {
+            "start_char": 3863,
+            "end_char": 3902,
+            "label": "ORG",
+            "text": "Gipreb – le Groupement d'intérêt public"
+          },
+          {
+            "start_char": 3940,
+            "end_char": 3945,
+            "label": "LOC",
+            "text": "Berre"
+          },
+          {
+            "start_char": 3979,
+            "end_char": 3992,
+            "label": "LOC",
+            "text": "Aix-Marseille"
+          },
+          {
+            "start_char": 4004,
+            "end_char": 4007,
+            "label": "LOC",
+            "text": "Sud"
+          },
+          {
+            "start_char": 4024,
+            "end_char": 4027,
+            "label": "ORG",
+            "text": "EDF"
+          },
+          {
+            "start_char": 4117,
+            "end_char": 4140,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4141,
+            "end_char": 4144,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4185,
+            "end_char": 4218,
+            "label": "PER",
+            "text": "M. Gabriel Amard.<br><br><strong>"
+          },
+          {
+            "start_char": 4221,
+            "end_char": 4234,
+            "label": "PER",
+            "text": "Gabriel Amard"
+          },
+          {
+            "start_char": 4245,
+            "end_char": 4253,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 4636,
+            "end_char": 4654,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 90,
+            "sentiment": "3 stars",
+            "score": 0.31577596068382263
+          },
+          {
+            "begin_char": 91,
+            "end_char": 149,
+            "sentiment": "4 stars",
+            "score": 0.23600080609321594
+          },
+          {
+            "begin_char": 149,
+            "end_char": 166,
+            "sentiment": "4 stars",
+            "score": 0.2978562116622925
+          },
+          {
+            "begin_char": 167,
+            "end_char": 176,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 176,
+            "end_char": 278,
+            "sentiment": "4 stars",
+            "score": 0.38178420066833496
+          },
+          {
+            "begin_char": 279,
+            "end_char": 627,
+            "sentiment": "5 stars",
+            "score": 0.2940199673175812
+          },
+          {
+            "begin_char": 628,
+            "end_char": 639,
+            "sentiment": "1 star",
+            "score": 0.9392333030700684
+          },
+          {
+            "begin_char": 639,
+            "end_char": 672,
+            "sentiment": "3 stars",
+            "score": 0.2630947530269623
+          },
+          {
+            "begin_char": 673,
+            "end_char": 682,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 682,
+            "end_char": 701,
+            "sentiment": "3 stars",
+            "score": 0.33544522523880005
+          },
+          {
+            "begin_char": 702,
+            "end_char": 842,
+            "sentiment": "3 stars",
+            "score": 0.2762172818183899
+          },
+          {
+            "begin_char": 843,
+            "end_char": 1013,
+            "sentiment": "2 stars",
+            "score": 0.47328171133995056
+          },
+          {
+            "begin_char": 1014,
+            "end_char": 1428,
+            "sentiment": "1 star",
+            "score": 0.5194356441497803
+          },
+          {
+            "begin_char": 1429,
+            "end_char": 1540,
+            "sentiment": "3 stars",
+            "score": 0.2493908703327179
+          },
+          {
+            "begin_char": 1541,
+            "end_char": 1545,
+            "sentiment": "5 stars",
+            "score": 0.32027533650398254
+          },
+          {
+            "begin_char": 1546,
+            "end_char": 1562,
+            "sentiment": "5 stars",
+            "score": 0.2877536714076996
+          },
+          {
+            "begin_char": 1562,
+            "end_char": 1595,
+            "sentiment": "3 stars",
+            "score": 0.2630947530269623
+          },
+          {
+            "begin_char": 1596,
+            "end_char": 1639,
+            "sentiment": "5 stars",
+            "score": 0.26276981830596924
+          },
+          {
+            "begin_char": 1640,
+            "end_char": 1733,
+            "sentiment": "4 stars",
+            "score": 0.3267422914505005
+          },
+          {
+            "begin_char": 1734,
+            "end_char": 1956,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 1957,
+            "end_char": 2109,
+            "sentiment": "1 star",
+            "score": 0.6204572916030884
+          },
+          {
+            "begin_char": 2110,
+            "end_char": 2227,
+            "sentiment": "3 stars",
+            "score": 0.3789346516132355
+          },
+          {
+            "begin_char": 2228,
+            "end_char": 2255,
+            "sentiment": "1 star",
+            "score": 0.37990012764930725
+          },
+          {
+            "begin_char": 2255,
+            "end_char": 2313,
+            "sentiment": "3 stars",
+            "score": 0.29623985290527344
+          },
+          {
+            "begin_char": 2314,
+            "end_char": 2465,
+            "sentiment": "3 stars",
+            "score": 0.31020987033843994
+          },
+          {
+            "begin_char": 2466,
+            "end_char": 2521,
+            "sentiment": "1 star",
+            "score": 0.4291881322860718
+          },
+          {
+            "begin_char": 2522,
+            "end_char": 2570,
+            "sentiment": "1 star",
+            "score": 0.29486802220344543
+          },
+          {
+            "begin_char": 2570,
+            "end_char": 2767,
+            "sentiment": "5 stars",
+            "score": 0.336304247379303
+          },
+          {
+            "begin_char": 2768,
+            "end_char": 2964,
+            "sentiment": "5 stars",
+            "score": 0.4656907618045807
+          },
+          {
+            "begin_char": 2965,
+            "end_char": 3165,
+            "sentiment": "2 stars",
+            "score": 0.40055593848228455
+          },
+          {
+            "begin_char": 3166,
+            "end_char": 3553,
+            "sentiment": "4 stars",
+            "score": 0.34178152680397034
+          },
+          {
+            "begin_char": 3554,
+            "end_char": 3628,
+            "sentiment": "3 stars",
+            "score": 0.2721456289291382
+          },
+          {
+            "begin_char": 3629,
+            "end_char": 4065,
+            "sentiment": "4 stars",
+            "score": 0.44043371081352234
+          },
+          {
+            "begin_char": 4066,
+            "end_char": 4159,
+            "sentiment": "3 stars",
+            "score": 0.3051096200942993
+          },
+          {
+            "begin_char": 4160,
+            "end_char": 4218,
+            "sentiment": "4 stars",
+            "score": 0.23600080609321594
+          },
+          {
+            "begin_char": 4218,
+            "end_char": 4235,
+            "sentiment": "4 stars",
+            "score": 0.2978562116622925
+          },
+          {
+            "begin_char": 4236,
+            "end_char": 4245,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 4245,
+            "end_char": 4337,
+            "sentiment": "5 stars",
+            "score": 0.48522916436195374
+          },
+          {
+            "begin_char": 4338,
+            "end_char": 4427,
+            "sentiment": "2 stars",
+            "score": 0.407527893781662
+          },
+          {
+            "begin_char": 4428,
+            "end_char": 4590,
+            "sentiment": "4 stars",
+            "score": 0.36671262979507446
+          },
+          {
+            "begin_char": 4591,
+            "end_char": 4659,
+            "sentiment": "4 stars",
+            "score": 0.3106642961502075
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-12",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-12",
+        "pageJO": "3865",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

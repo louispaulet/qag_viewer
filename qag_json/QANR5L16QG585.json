@@ -1,0 +1,617 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG585",
+    "identifiant": {
+      "numero": "585",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "transports",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PLAN D'AVENIR POUR LES TRANSPORTS"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721482",
+        "mandatRef": "PM797514"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Première ministre",
+      "developpe": "Première ministre"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Première ministre",
+          "developpe": "Première ministre"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PLAN D'AVENIR POUR LES TRANSPORTS <a name=PG2></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. David Valence.<br><br><strong>M. David Valence. </strong>Tout d'abord, je vous propose d'avoir une pensée pour Agnès Lasalle, enseignante d'espagnol qui a été assassinée à Saint-Jean-de-Luz il y a quelques jours. <i>(Mmes et MM. les députés et les membres du Gouvernement se lèvent et applaudissent.)</i><br><br>J'en viens à ma question, qui s'adresse à Mme la Première ministre. Vendredi 24 février, le Conseil d’orientation des infrastructures vous a remis un rapport sur la programmation des investissements en matière de mobilités. <i>(« Allô ! »</i> sur les bancs du groupe LR.) Composé d’élus de terrain et d’experts, le COI effectue des travaux transpartisans par nature. Il a formulé des recommandations pour décarboner les transports et renforcer la solidarité entre nos territoires.<br><br>À l’occasion de la remise de ce rapport, vous avez présenté un ambitieux plan d’avenir pour les transports, qui prévoit en particulier des investissements massifs dans les infrastructures ferroviaires : 100 milliards d’euros d’ici à 2040. L’effort portera surtout sur le réseau existant, en régénération et modernisation. Dans ma circonscription, une ligne comme celle reliant Saint-Dié-des-Vosges à Nancy, par exemple, pourrait en bénéficier.<br><br>Nous nous réjouissons tous ici des engagements pris par le Gouvernement en faveur du train. Vous avez également souhaité que les projets de réseaux express métropolitains puissent tisser rapidement de nouveaux liens entre métropoles, communes périurbaines et villes moyennes.<br><br>Avec ces annonces, le Gouvernement se situe dans l'écologie de l'action et non de l'incantation. Pourriez-vous nous préciser la place que ce plan d'avenir pour les transports tiendra dans la planification écologique que souhaite le Gouvernement ? Quelle forme législative privilégiez-vous afin de traduire cette ambition pour des transports moins émetteurs de gaz à effet de serre, et selon quel calendrier ? <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la Première ministre.<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre. </i>La semaine dernière, monsieur le député, vous m'avez remis les conclusions du Conseil d'orientation des infrastructures. Je veux d'abord saluer votre travail et celui de toutes les équipes qui y ont contribué.<br><br>Depuis 2017, notre politique des transports poursuit deux ambitions : d'une part, améliorer les transports du quotidien pour résorber les fractures territoriales et réduire les freins à la mobilité ; d'autre part, réussir la décarbonation de nos mobilités, alors que ce secteur est le premier émetteur de gaz à effet de serre – il représente le tiers de nos émissions.<br><br>Fidèles à ces ambitions et en cohérence avec les objectifs de France nation verte, nous allons conduire notre dialogue avec les collectivités et construire notre plan d'avenir pour les transports à partir du scénario « planification écologique » de votre rapport. Aussi ai-je annoncé, la semaine dernière, un investissement historique dans le ferroviaire. Aux côtés de la SNCF, des collectivités et de l'Union européenne, nous allons investir 100 milliards d'euros d'ici à 2040 en faveur de cette nouvelle donne ferroviaire.<br><br>Ces investissements permettront de mettre un terme au vieillissement du réseau et de le moderniser. Nous assurerons notamment le renouveau des petites lignes ferroviaires, essentielles dans nos territoires ruraux. Dans le même temps, nos investissements permettront de développer notre réseau, notamment les RER métropolitains annoncés par le Président de la République, afin d'améliorer la desserte des territoires périurbains et des villes moyennes. (M. Cyrille Isaac-Sibille applaudit.) Pour mener à bien ces projets, nous aurons besoin de faire évoluer la loi. Face à ce défi commun pour notre environnement et nos territoires, je suis sûre que nous parviendrons à trouver des points d'accord.<br><br>Afin de permettre à nos concitoyens d'avoir accès à des mobilités propres, nous devons agir plus largement au-delà de la seule question des infrastructures. Nous devons continuer à développer les transports en commun, les transports partagés et les mobilités douces, notamment le vélo. Nous devons continuer à rendre les véhicules propres plus attractifs et plus accessibles. Nous devons faire évoluer nos pratiques et nos usages et miser sur l'innovation.<br><br>D'ici à l'été, avec Christophe Béchu, ministre de la transition écologique et de la cohésion des territoires, et Clément Beaune, ministre délégué chargé des transports, main dans la main avec les collectivités, nous aurons bâti la déclinaison opérationnelle de notre plan d'avenir pour les transports. Ensemble, nous sommes déterminés à offrir une mobilité décarbonée et adaptée à chacun de nos concitoyens. <i>(Applaudissements sur les bancs des groupes RE et Dem. – M. Bertrand Pancher applaudit également.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 36,
+            "label": "ORG",
+            "text": "PLAN D'AVENIR"
+          },
+          {
+            "start_char": 46,
+            "end_char": 56,
+            "label": "MISC",
+            "text": "TRANSPORTS"
+          },
+          {
+            "start_char": 65,
+            "end_char": 72,
+            "label": "PER",
+            "text": "PG2></a"
+          },
+          {
+            "start_char": 90,
+            "end_char": 93,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 134,
+            "end_char": 166,
+            "label": "PER",
+            "text": "M. David Valence.<br><br><strong"
+          },
+          {
+            "start_char": 167,
+            "end_char": 183,
+            "label": "PER",
+            "text": "M. David Valence"
+          },
+          {
+            "start_char": 248,
+            "end_char": 261,
+            "label": "PER",
+            "text": "Agnès Lasalle"
+          },
+          {
+            "start_char": 309,
+            "end_char": 326,
+            "label": "LOC",
+            "text": "Saint-Jean-de-Luz"
+          },
+          {
+            "start_char": 396,
+            "end_char": 408,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 491,
+            "end_char": 506,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 517,
+            "end_char": 528,
+            "label": "MISC",
+            "text": "Vendredi 24"
+          },
+          {
+            "start_char": 541,
+            "end_char": 548,
+            "label": "ORG",
+            "text": "Conseil"
+          },
+          {
+            "start_char": 679,
+            "end_char": 683,
+            "label": "PER",
+            "text": "Allô"
+          },
+          {
+            "start_char": 716,
+            "end_char": 718,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 750,
+            "end_char": 752,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 764,
+            "end_char": 767,
+            "label": "LOC",
+            "text": "COI"
+          },
+          {
+            "start_char": 917,
+            "end_char": 962,
+            "label": "MISC",
+            "text": "territoires.<br><br>À l’occasion de la remise"
+          },
+          {
+            "start_char": 1162,
+            "end_char": 1164,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 1176,
+            "end_char": 1178,
+            "label": "ORG",
+            "text": "L’"
+          },
+          {
+            "start_char": 1314,
+            "end_char": 1334,
+            "label": "LOC",
+            "text": "Saint-Dié-des-Vosges"
+          },
+          {
+            "start_char": 1337,
+            "end_char": 1342,
+            "label": "LOC",
+            "text": "Nancy"
+          },
+          {
+            "start_char": 1369,
+            "end_char": 1387,
+            "label": "MISC",
+            "text": "bénéficier.<br><br"
+          },
+          {
+            "start_char": 1447,
+            "end_char": 1459,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1654,
+            "end_char": 1670,
+            "label": "MISC",
+            "text": "moyennes.<br><br"
+          },
+          {
+            "start_char": 1693,
+            "end_char": 1705,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1903,
+            "end_char": 1915,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2125,
+            "end_char": 2148,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2149,
+            "end_char": 2152,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2193,
+            "end_char": 2208,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 2234,
+            "end_char": 2247,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 2368,
+            "end_char": 2375,
+            "label": "ORG",
+            "text": "Conseil"
+          },
+          {
+            "start_char": 2489,
+            "end_char": 2506,
+            "label": "MISC",
+            "text": "contribué.<br><br"
+          },
+          {
+            "start_char": 2865,
+            "end_char": 2890,
+            "label": "MISC",
+            "text": "émissions.<br><br>Fidèles"
+          },
+          {
+            "start_char": 2942,
+            "end_char": 2951,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 3255,
+            "end_char": 3259,
+            "label": "ORG",
+            "text": "SNCF"
+          },
+          {
+            "start_char": 3287,
+            "end_char": 3303,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 3395,
+            "end_char": 3414,
+            "label": "MISC",
+            "text": "ferroviaire.<br><br"
+          },
+          {
+            "start_char": 3723,
+            "end_char": 3741,
+            "label": "LOC",
+            "text": "RER métropolitains"
+          },
+          {
+            "start_char": 3758,
+            "end_char": 3784,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3871,
+            "end_char": 3892,
+            "label": "LOC",
+            "text": "Cyrille Isaac-Sibille"
+          },
+          {
+            "start_char": 4105,
+            "end_char": 4119,
+            "label": "MISC",
+            "text": "accord.<br><br"
+          },
+          {
+            "start_char": 4565,
+            "end_char": 4583,
+            "label": "MISC",
+            "text": "innovation.<br><br"
+          },
+          {
+            "start_char": 4604,
+            "end_char": 4620,
+            "label": "PER",
+            "text": "Christophe Béchu"
+          },
+          {
+            "start_char": 4697,
+            "end_char": 4711,
+            "label": "PER",
+            "text": "Clément Beaune"
+          },
+          {
+            "start_char": 5039,
+            "end_char": 5041,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5045,
+            "end_char": 5048,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 5055,
+            "end_char": 5071,
+            "label": "PER",
+            "text": "Bertrand Pancher"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 108,
+            "sentiment": "3 stars",
+            "score": 0.3031564950942993
+          },
+          {
+            "begin_char": 109,
+            "end_char": 184,
+            "sentiment": "4 stars",
+            "score": 0.245883047580719
+          },
+          {
+            "begin_char": 185,
+            "end_char": 349,
+            "sentiment": "4 stars",
+            "score": 0.24079956114292145
+          },
+          {
+            "begin_char": 350,
+            "end_char": 516,
+            "sentiment": "5 stars",
+            "score": 0.36464613676071167
+          },
+          {
+            "begin_char": 517,
+            "end_char": 672,
+            "sentiment": "4 stars",
+            "score": 0.33971768617630005
+          },
+          {
+            "begin_char": 673,
+            "end_char": 720,
+            "sentiment": "4 stars",
+            "score": 0.23504245281219482
+          },
+          {
+            "begin_char": 721,
+            "end_char": 815,
+            "sentiment": "3 stars",
+            "score": 0.3898451030254364
+          },
+          {
+            "begin_char": 816,
+            "end_char": 1175,
+            "sentiment": "5 stars",
+            "score": 0.487617164850235
+          },
+          {
+            "begin_char": 1176,
+            "end_char": 1258,
+            "sentiment": "4 stars",
+            "score": 0.43383681774139404
+          },
+          {
+            "begin_char": 1259,
+            "end_char": 1388,
+            "sentiment": "4 stars",
+            "score": 0.3459091782569885
+          },
+          {
+            "begin_char": 1388,
+            "end_char": 1479,
+            "sentiment": "5 stars",
+            "score": 0.5755928754806519
+          },
+          {
+            "begin_char": 1480,
+            "end_char": 1535,
+            "sentiment": "5 stars",
+            "score": 0.3400949239730835
+          },
+          {
+            "begin_char": 1536,
+            "end_char": 1543,
+            "sentiment": "4 stars",
+            "score": 0.33942100405693054
+          },
+          {
+            "begin_char": 1544,
+            "end_char": 1558,
+            "sentiment": "4 stars",
+            "score": 0.3044355511665344
+          },
+          {
+            "begin_char": 1559,
+            "end_char": 1767,
+            "sentiment": "5 stars",
+            "score": 0.5289045572280884
+          },
+          {
+            "begin_char": 1768,
+            "end_char": 1917,
+            "sentiment": "3 stars",
+            "score": 0.2997819185256958
+          },
+          {
+            "begin_char": 1918,
+            "end_char": 2079,
+            "sentiment": "5 stars",
+            "score": 0.4207497537136078
+          },
+          {
+            "begin_char": 2080,
+            "end_char": 2167,
+            "sentiment": "4 stars",
+            "score": 0.3044034242630005
+          },
+          {
+            "begin_char": 2168,
+            "end_char": 2266,
+            "sentiment": "3 stars",
+            "score": 0.28298741579055786
+          },
+          {
+            "begin_char": 2267,
+            "end_char": 2285,
+            "sentiment": "4 stars",
+            "score": 0.3165116310119629
+          },
+          {
+            "begin_char": 2286,
+            "end_char": 2410,
+            "sentiment": "4 stars",
+            "score": 0.2940097749233246
+          },
+          {
+            "begin_char": 2411,
+            "end_char": 2706,
+            "sentiment": "5 stars",
+            "score": 0.6243607997894287
+          },
+          {
+            "begin_char": 2707,
+            "end_char": 3146,
+            "sentiment": "5 stars",
+            "score": 0.5631584525108337
+          },
+          {
+            "begin_char": 3147,
+            "end_char": 3238,
+            "sentiment": "5 stars",
+            "score": 0.3332361876964569
+          },
+          {
+            "begin_char": 3239,
+            "end_char": 3415,
+            "sentiment": "5 stars",
+            "score": 0.5219780802726746
+          },
+          {
+            "begin_char": 3415,
+            "end_char": 3514,
+            "sentiment": "4 stars",
+            "score": 0.49307361245155334
+          },
+          {
+            "begin_char": 3515,
+            "end_char": 3628,
+            "sentiment": "4 stars",
+            "score": 0.42914435267448425
+          },
+          {
+            "begin_char": 3629,
+            "end_char": 3866,
+            "sentiment": "5 stars",
+            "score": 0.4509105980396271
+          },
+          {
+            "begin_char": 3867,
+            "end_char": 3904,
+            "sentiment": "5 stars",
+            "score": 0.33725568652153015
+          },
+          {
+            "begin_char": 3905,
+            "end_char": 3979,
+            "sentiment": "5 stars",
+            "score": 0.4221709966659546
+          },
+          {
+            "begin_char": 3980,
+            "end_char": 4120,
+            "sentiment": "5 stars",
+            "score": 0.4644702672958374
+          },
+          {
+            "begin_char": 4120,
+            "end_char": 4276,
+            "sentiment": "5 stars",
+            "score": 0.584053635597229
+          },
+          {
+            "begin_char": 4277,
+            "end_char": 4405,
+            "sentiment": "5 stars",
+            "score": 0.5825396180152893
+          },
+          {
+            "begin_char": 4406,
+            "end_char": 4495,
+            "sentiment": "5 stars",
+            "score": 0.5977477431297302
+          },
+          {
+            "begin_char": 4496,
+            "end_char": 4885,
+            "sentiment": "5 stars",
+            "score": 0.5077581405639648
+          },
+          {
+            "begin_char": 4886,
+            "end_char": 4991,
+            "sentiment": "5 stars",
+            "score": 0.6079187393188477
+          },
+          {
+            "begin_char": 4992,
+            "end_char": 5049,
+            "sentiment": "4 stars",
+            "score": 0.3324730694293976
+          },
+          {
+            "begin_char": 5050,
+            "end_char": 5101,
+            "sentiment": "3 stars",
+            "score": 0.31840336322784424
+          },
+          {
+            "begin_char": 5102,
+            "end_char": 5105,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-03-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-03-01",
+        "pageJO": "1888",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

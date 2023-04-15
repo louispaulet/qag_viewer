@@ -1,0 +1,443 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG296",
+    "identifiant": {
+      "numero": "296",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "cycles et motocycles",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Contrôle technique des deux-roues"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793354",
+        "mandatRef": "PM796281"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Transports",
+      "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transports",
+          "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-16",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CONTRÔLE TECHNIQUE DES DEUX-ROUES <a name=PG22></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Joëlle Mélin.<br><br><strong>Mme Joëlle Mélin. </strong>Monsieur le ministre délégué chargé des transports, en 2014, l'Union européenne a adopté une directive portant obligation pour les États membres de prévoir un contrôle technique des véhicules à moteur de cylindrée supérieure à 125 centimètres cube. L'objectif est de diviser par deux en dix ans le nombre de morts sur les routes. Or, en France, on ne déplore de morts par défaillance technique de cette catégorie de véhicules que dans 0,3 % des accidents.<br><br>La directive prévoit une exemption si les États membres peuvent déployer des mesures de sécurité alternatives reposant sur des statistiques pertinentes. Malheureusement, l'État français n'a recouru que partiellement à cette possibilité. La suppression de tous les points noirs, l'installation de doubles glissières de sécurité et l'amélioration de l'état de toutes les routes secondaires se font encore attendre. Ce retard est très préjudiciable, comme le soulignent les associations représentatives des 2 millions de motards français, en particulier la Fédération des <i>bikers </i>de France.<br><br>Dans les faits, les motos roulant 6 000 kilomètres par an ne devraient être contrôlées que tous les cinq ans, à l'instar des voitures, et non pas tous les deux ans. Les motards, eux, proposent un contrôle obligatoire mais moins contraignant, lors de la cession des motos, en moyenne tous les deux à trois ans.<br><br>De plus, ces contrôles nécessitant des investissements techniques et humains, ils sont difficiles à rentabiliser pour les centres agréés, qui reportent donc les coûts sur les contrôles techniques des voitures. Il serait souhaitable de solliciter en priorité tous les artisans français spécialisés et déjà équipés, formés et agréés pour les modifications en équipement de moteurs électriques ou fonctionnant à l'éthanol, mais aussi pour l'utilisation de pièces européennes estampillées, plutôt qu'extra-européennes, dont les véhicules neufs dépendent.<br><br>Ma question est simple, monsieur le ministre délégué : après la décision du Conseil d'État, comptez-vous mettre en difficulté, notamment financière, les 2 millions de motards de notre pays par un contrôle technique contraignant, ou allez-vous transposer la directive européenne par des mesures alternatives de sécurité routière ? <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé des transports.<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué chargé des transports. </i>Madame la députée, vous rappelez l'historique d'un dossier important. Je voudrais apporter quelques précisions, car quelque 2 millions de motards nourrissent une forte préoccupation que le Gouvernement partage.<br><br>La directive européenne de 2014 prévoit deux options : soit la mise en place d'un contrôle technique – la vérité oblige à dire que c'est l'option choisie par l'immense majorité des pays européens, parfois depuis longtemps –, soit l'instauration de mesures alternatives. On ne peut pas laisser croire aux motards des choses inexactes, eux qui attendent des réponses précises. Il n'est pas vrai que les efforts légitimes et nécessaires en matière de sécurité routière – limitation des glissières dangereuses, aménagements routiers, etc. – rempliraient l'obligation de mesures alternatives. Car ces dernières, telles qu'elles sont définies par la directive, portent sur les véhicules eux-mêmes. C'est la voie qui a été suivie par mes prédécesseurs, en concertation avec les fédérations de motards ; des mesures alternatives ont été décidées et présentées à plusieurs reprises.<br><br>Le Gouvernement a choisi de poursuivre dans cette voie. Des recours ont été formés, car nous sommes dans un État de droit. Par sa décision du 31 octobre dernier, le Conseil d'État, livrant sans ambiguïté son interprétation de la directive, a demandé que soit mis en place un contrôle technique : le Gouvernement doit la respecter.<br><br>J'ai pris acte des préoccupations que vous avez relayées, notamment celles qui touchent au pouvoir d'achat ou à la sécurité ; elles sont légitimes et partagées par tous les motards. C'est pourquoi j'ai engagé une concertation avec l'ensemble des parties : les fédérations de motards, que j'ai reçues à deux reprises cet été et la semaine dernière, les associations requérantes et les centres techniques agréés, dont j'ai vu les représentants ce matin, qui seraient chargés des modalités de contrôle.<br><br>Évidemment, nous devons agir conformément au droit et aux décisions du Conseil d'État, tout en préservant le pouvoir d'achat par des mesures proportionnées. Celles-ci seront présentées par le Gouvernement à l'issue de la concertation évoquée, avant la fin de l'année. C'est ainsi que l'on parviendra à préserver au mieux le pouvoir d'achat et la sécurité.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 56,
+            "label": "MISC",
+            "text": "CONTRÔLE TECHNIQUE DES DEUX-ROUES"
+          },
+          {
+            "start_char": 91,
+            "end_char": 94,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 135,
+            "end_char": 167,
+            "label": "PER",
+            "text": "Mme Joëlle Mélin.<br><br><strong"
+          },
+          {
+            "start_char": 168,
+            "end_char": 184,
+            "label": "PER",
+            "text": "Mme Joëlle Mélin"
+          },
+          {
+            "start_char": 195,
+            "end_char": 203,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 258,
+            "end_char": 274,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 326,
+            "end_char": 331,
+            "label": "LOC",
+            "text": "États"
+          },
+          {
+            "start_char": 532,
+            "end_char": 538,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 640,
+            "end_char": 657,
+            "label": "MISC",
+            "text": "accidents.<br><br"
+          },
+          {
+            "start_char": 700,
+            "end_char": 705,
+            "label": "LOC",
+            "text": "États"
+          },
+          {
+            "start_char": 828,
+            "end_char": 843,
+            "label": "LOC",
+            "text": "l'État français"
+          },
+          {
+            "start_char": 1212,
+            "end_char": 1230,
+            "label": "ORG",
+            "text": "Fédération des <i>"
+          },
+          {
+            "start_char": 1244,
+            "end_char": 1258,
+            "label": "LOC",
+            "text": "France.<br><br"
+          },
+          {
+            "start_char": 2116,
+            "end_char": 2136,
+            "label": "MISC",
+            "text": "dépendent.<br><br>Ma"
+          },
+          {
+            "start_char": 2210,
+            "end_char": 2224,
+            "label": "ORG",
+            "text": "Conseil d'État"
+          },
+          {
+            "start_char": 2509,
+            "end_char": 2532,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2533,
+            "end_char": 2536,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2577,
+            "end_char": 2579,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2638,
+            "end_char": 2641,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 2641,
+            "end_char": 2667,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 2713,
+            "end_char": 2719,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 2902,
+            "end_char": 2930,
+            "label": "MISC",
+            "text": "Gouvernement partage.<br><br"
+          },
+          {
+            "start_char": 3795,
+            "end_char": 3811,
+            "label": "MISC",
+            "text": "reprises.<br><br"
+          },
+          {
+            "start_char": 3815,
+            "end_char": 3827,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3920,
+            "end_char": 3924,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3977,
+            "end_char": 3991,
+            "label": "ORG",
+            "text": "Conseil d'État"
+          },
+          {
+            "start_char": 4111,
+            "end_char": 4123,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4132,
+            "end_char": 4149,
+            "label": "MISC",
+            "text": "respecter.<br><br"
+          },
+          {
+            "start_char": 4640,
+            "end_char": 4667,
+            "label": "MISC",
+            "text": "contrôle.<br><br>Évidemment"
+          },
+          {
+            "start_char": 4728,
+            "end_char": 4742,
+            "label": "ORG",
+            "text": "Conseil d'État"
+          },
+          {
+            "start_char": 4849,
+            "end_char": 4861,
+            "label": "LOC",
+            "text": "Gouvernement"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 109,
+            "sentiment": "3 stars",
+            "score": 0.3592713177204132
+          },
+          {
+            "begin_char": 110,
+            "end_char": 185,
+            "sentiment": "3 stars",
+            "score": 0.25920823216438293
+          },
+          {
+            "begin_char": 186,
+            "end_char": 195,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 195,
+            "end_char": 443,
+            "sentiment": "4 stars",
+            "score": 0.42875075340270996
+          },
+          {
+            "begin_char": 444,
+            "end_char": 524,
+            "sentiment": "2 stars",
+            "score": 0.25983911752700806
+          },
+          {
+            "begin_char": 525,
+            "end_char": 810,
+            "sentiment": "3 stars",
+            "score": 0.3201572597026825
+          },
+          {
+            "begin_char": 811,
+            "end_char": 894,
+            "sentiment": "2 stars",
+            "score": 0.3651067018508911
+          },
+          {
+            "begin_char": 895,
+            "end_char": 1070,
+            "sentiment": "4 stars",
+            "score": 0.3655594289302826
+          },
+          {
+            "begin_char": 1071,
+            "end_char": 1423,
+            "sentiment": "3 stars",
+            "score": 0.2840938866138458
+          },
+          {
+            "begin_char": 1424,
+            "end_char": 1785,
+            "sentiment": "3 stars",
+            "score": 0.4611663818359375
+          },
+          {
+            "begin_char": 1786,
+            "end_char": 2463,
+            "sentiment": "5 stars",
+            "score": 0.48431405425071716
+          },
+          {
+            "begin_char": 2464,
+            "end_char": 2551,
+            "sentiment": "4 stars",
+            "score": 0.3186970353126526
+          },
+          {
+            "begin_char": 2552,
+            "end_char": 2708,
+            "sentiment": "4 stars",
+            "score": 0.3048226237297058
+          },
+          {
+            "begin_char": 2709,
+            "end_char": 2782,
+            "sentiment": "4 stars",
+            "score": 0.27283063530921936
+          },
+          {
+            "begin_char": 2783,
+            "end_char": 3200,
+            "sentiment": "4 stars",
+            "score": 0.43633806705474854
+          },
+          {
+            "begin_char": 3201,
+            "end_char": 3305,
+            "sentiment": "1 star",
+            "score": 0.37811386585235596
+          },
+          {
+            "begin_char": 3306,
+            "end_char": 3518,
+            "sentiment": "3 stars",
+            "score": 0.25058501958847046
+          },
+          {
+            "begin_char": 3519,
+            "end_char": 3622,
+            "sentiment": "4 stars",
+            "score": 0.3150940239429474
+          },
+          {
+            "begin_char": 3623,
+            "end_char": 3726,
+            "sentiment": "4 stars",
+            "score": 0.36609992384910583
+          },
+          {
+            "begin_char": 3727,
+            "end_char": 3812,
+            "sentiment": "4 stars",
+            "score": 0.3065025210380554
+          },
+          {
+            "begin_char": 3812,
+            "end_char": 3867,
+            "sentiment": "4 stars",
+            "score": 0.3472473919391632
+          },
+          {
+            "begin_char": 3868,
+            "end_char": 3934,
+            "sentiment": "5 stars",
+            "score": 0.3952079117298126
+          },
+          {
+            "begin_char": 3935,
+            "end_char": 4275,
+            "sentiment": "4 stars",
+            "score": 0.4491610825061798
+          },
+          {
+            "begin_char": 4276,
+            "end_char": 4331,
+            "sentiment": "5 stars",
+            "score": 0.5840516090393066
+          },
+          {
+            "begin_char": 4332,
+            "end_char": 4813,
+            "sentiment": "5 stars",
+            "score": 0.469143271446228
+          },
+          {
+            "begin_char": 4814,
+            "end_char": 4924,
+            "sentiment": "4 stars",
+            "score": 0.38698986172676086
+          },
+          {
+            "begin_char": 4925,
+            "end_char": 5020,
+            "sentiment": "5 stars",
+            "score": 0.44345948100090027
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-16",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-16",
+        "pageJO": "5428",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

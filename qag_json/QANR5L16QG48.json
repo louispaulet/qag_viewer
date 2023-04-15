@@ -1,0 +1,431 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG48",
+    "identifiant": {
+      "numero": "48",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "transports",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Transports durant la période estivale"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794510",
+        "mandatRef": "PM796965"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Transports",
+      "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transports",
+          "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> TRANSPORTS DURANT LA PÉRIODE ESTIVALE <a name=PG21></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Christine Decodts.<br><br><strong>Mme Christine Decodts. </strong>La canicule que nous subissons et qui coïncide avec les départs en vacances affecte durement les voyageurs et les réseaux de transport. En effet, les conditions de voyage deviennent particulièrement compliquées pour nombre de voyageurs, en particulier les plus fragiles que sont les enfants et les personnes âgées – nous l'avons encore vu hier dans plusieurs trains, y compris du quotidien. De plus, les infrastructures elles-mêmes souffrent de la chaleur excessive, en particulier les routes et les voies ferrées, ce qui engendre des perturbations importantes.<br><br>Nous le savons, ces épisodes de chaleur vont se reproduire et s'intensifier. Il va nous falloir très vite adapter notre réseau à ces enjeux.<br><br>Outre la chaleur, le pouvoir d'achat des Français souffre des conséquences de la situation internationale qui se font notamment sentir sur le prix des carburants. En cette période estivale, le budget des familles risque d'être particulièrement affecté par ces augmentations, ce qui pourrait remettre en cause une partie de leurs vacances.<br><br>Monsieur le ministre délégué chargé des transports, ma question est simple : que prévoyez-vous pour assurer aux Français qu'ils pourront se déplacer sereinement cet été ? <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports.<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports. </i>Vous soulevez à juste raison plusieurs questions qui constituent des enjeux assez exceptionnels cet été, au moment des grandes vacances, dans le secteur des transports. En effet, nous connaissons – et c'est une bonne nouvelle – une reprise très forte de l'activité du tourisme et des transports, notamment ferroviaire et aérien, qui pose des problèmes de réorganisation à plusieurs opérateurs, ce qui a des conséquences pour les usagers. En outre, les très fortes chaleurs actuelles renforcent le caractère exceptionnel de cet été. Enfin, le contexte est difficile pour le pouvoir d'achat.<br><br>Le Gouvernement est extrêmement mobilisé sur tous ces sujets, et, avec Christophe Béchu, nous le sommes tout particulièrement dans le secteur des transports. Votre assemblée discute cette semaine de deux textes très importants pour le pouvoir d'achat ; pour les déplacements quotidiens comme pour les vacances, 80 % des trajets s'effectuent encore par la route : il est donc normal d'accompagner, dans une période d'urgence, les Françaises et les Français qui roulent le plus. Ainsi, nous prolongeons des mesures sur le carburant tout en réfléchissant à des dispositifs plus pérennes. Nous discutons, comme je m'y étais engagé, avec les sociétés d'autoroutes : un premier geste a été effectué, et nous continuerons notre effort en ce sens dans les prochains mois. Le Parlement réfléchit également à d'autres mesures, et je tiens à saluer vos travaux, notamment ceux du président Jean-Marc Zulesi sur l'encouragement de l'utilisation des transports publics.<br><br>Face aux fortes chaleurs, je veux saluer la mobilisation des grands opérateurs des secteurs ferroviaire et aérien qui distribuent de l'eau et qui dispensent des conseils aux voyageurs : nous accélérerons ce mouvement. Il y a malgré tout eu des difficultés, et certaines images du RER B du réseau francilien ont choqué hier : j'ai contacté les opérateurs qui ont présenté des excuses nécessaires. Nous en tirerons les leçons pour que cela ne se reproduise pas.<br><br>Nous devons évidemment accélérer notre action de long terme : sur la transition écologique, la Première ministre l'a rappelé devant votre assemblée, la colonne vertébrale de la transformation et du verdissement des modes de transports est le ferroviaire ; nous investirons encore davantage pour que le réseau et les transports soient de meilleure qualité. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 40,
+            "label": "MISC",
+            "text": "TRANSPORTS DURANT"
+          },
+          {
+            "start_char": 52,
+            "end_char": 60,
+            "label": "MISC",
+            "text": "ESTIVALE"
+          },
+          {
+            "start_char": 95,
+            "end_char": 98,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 139,
+            "end_char": 152,
+            "label": "PER",
+            "text": "Mme Christine"
+          },
+          {
+            "start_char": 177,
+            "end_char": 198,
+            "label": "PER",
+            "text": "Mme Christine Decodts"
+          },
+          {
+            "start_char": 758,
+            "end_char": 777,
+            "label": "MISC",
+            "text": "importantes.<br><br"
+          },
+          {
+            "start_char": 911,
+            "end_char": 925,
+            "label": "MISC",
+            "text": "enjeux.<br><br"
+          },
+          {
+            "start_char": 1255,
+            "end_char": 1271,
+            "label": "MISC",
+            "text": "vacances.<br><br"
+          },
+          {
+            "start_char": 1272,
+            "end_char": 1280,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1384,
+            "end_char": 1392,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1493,
+            "end_char": 1516,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1517,
+            "end_char": 1520,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1561,
+            "end_char": 1563,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 1704,
+            "end_char": 1707,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 1707,
+            "end_char": 1733,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 2444,
+            "end_char": 2458,
+            "label": "MISC",
+            "text": "achat.<br><br>"
+          },
+          {
+            "start_char": 2529,
+            "end_char": 2545,
+            "label": "PER",
+            "text": "Christophe Béchu"
+          },
+          {
+            "start_char": 2887,
+            "end_char": 2897,
+            "label": "LOC",
+            "text": "Françaises"
+          },
+          {
+            "start_char": 2905,
+            "end_char": 2913,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3225,
+            "end_char": 3234,
+            "label": "ORG",
+            "text": "Parlement"
+          },
+          {
+            "start_char": 3337,
+            "end_char": 3353,
+            "label": "PER",
+            "text": "Jean-Marc Zulesi"
+          },
+          {
+            "start_char": 3406,
+            "end_char": 3422,
+            "label": "MISC",
+            "text": "publics.<br><br>"
+          },
+          {
+            "start_char": 3702,
+            "end_char": 3707,
+            "label": "LOC",
+            "text": "RER B"
+          },
+          {
+            "start_char": 3984,
+            "end_char": 3992,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4296,
+            "end_char": 4307,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 113,
+            "sentiment": "4 stars",
+            "score": 0.338070273399353
+          },
+          {
+            "begin_char": 114,
+            "end_char": 199,
+            "sentiment": "3 stars",
+            "score": 0.2492678165435791
+          },
+          {
+            "begin_char": 200,
+            "end_char": 209,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 209,
+            "end_char": 344,
+            "sentiment": "3 stars",
+            "score": 0.33057600259780884
+          },
+          {
+            "begin_char": 345,
+            "end_char": 599,
+            "sentiment": "4 stars",
+            "score": 0.33674901723861694
+          },
+          {
+            "begin_char": 600,
+            "end_char": 854,
+            "sentiment": "3 stars",
+            "score": 0.37201058864593506
+          },
+          {
+            "begin_char": 855,
+            "end_char": 1088,
+            "sentiment": "4 stars",
+            "score": 0.44182026386260986
+          },
+          {
+            "begin_char": 1089,
+            "end_char": 1272,
+            "sentiment": "3 stars",
+            "score": 0.5052525401115417
+          },
+          {
+            "begin_char": 1272,
+            "end_char": 1442,
+            "sentiment": "4 stars",
+            "score": 0.30487310886383057
+          },
+          {
+            "begin_char": 1443,
+            "end_char": 1535,
+            "sentiment": "3 stars",
+            "score": 0.30941691994667053
+          },
+          {
+            "begin_char": 1536,
+            "end_char": 1734,
+            "sentiment": "4 stars",
+            "score": 0.3516586422920227
+          },
+          {
+            "begin_char": 1735,
+            "end_char": 1743,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 1744,
+            "end_char": 1751,
+            "sentiment": "4 stars",
+            "score": 0.3199934959411621
+          },
+          {
+            "begin_char": 1752,
+            "end_char": 1856,
+            "sentiment": "4 stars",
+            "score": 0.37332937121391296
+          },
+          {
+            "begin_char": 1857,
+            "end_char": 2029,
+            "sentiment": "4 stars",
+            "score": 0.3756594955921173
+          },
+          {
+            "begin_char": 2030,
+            "end_char": 2298,
+            "sentiment": "4 stars",
+            "score": 0.3704533576965332
+          },
+          {
+            "begin_char": 2299,
+            "end_char": 2392,
+            "sentiment": "5 stars",
+            "score": 0.5314844846725464
+          },
+          {
+            "begin_char": 2393,
+            "end_char": 2458,
+            "sentiment": "3 stars",
+            "score": 0.3860796093940735
+          },
+          {
+            "begin_char": 2458,
+            "end_char": 2615,
+            "sentiment": "5 stars",
+            "score": 0.5226114988327026
+          },
+          {
+            "begin_char": 2616,
+            "end_char": 2710,
+            "sentiment": "4 stars",
+            "score": 0.3296585977077484
+          },
+          {
+            "begin_char": 2711,
+            "end_char": 2934,
+            "sentiment": "4 stars",
+            "score": 0.35580122470855713
+          },
+          {
+            "begin_char": 2935,
+            "end_char": 3042,
+            "sentiment": "4 stars",
+            "score": 0.4347844123840332
+          },
+          {
+            "begin_char": 3043,
+            "end_char": 3221,
+            "sentiment": "4 stars",
+            "score": 0.4050499200820923
+          },
+          {
+            "begin_char": 3222,
+            "end_char": 3422,
+            "sentiment": "4 stars",
+            "score": 0.4227566421031952
+          },
+          {
+            "begin_char": 3422,
+            "end_char": 3639,
+            "sentiment": "5 stars",
+            "score": 0.596697211265564
+          },
+          {
+            "begin_char": 3640,
+            "end_char": 3817,
+            "sentiment": "2 stars",
+            "score": 0.360006183385849
+          },
+          {
+            "begin_char": 3818,
+            "end_char": 3889,
+            "sentiment": "5 stars",
+            "score": 0.3658677935600281
+          },
+          {
+            "begin_char": 3889,
+            "end_char": 4144,
+            "sentiment": "5 stars",
+            "score": 0.6004985570907593
+          },
+          {
+            "begin_char": 4145,
+            "end_char": 4244,
+            "sentiment": "5 stars",
+            "score": 0.5681906938552856
+          },
+          {
+            "begin_char": 4245,
+            "end_char": 4308,
+            "sentiment": "3 stars",
+            "score": 0.3112752139568329
+          },
+          {
+            "begin_char": 4309,
+            "end_char": 4312,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-20",
+        "pageJO": "2525",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

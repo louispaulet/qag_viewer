@@ -1,0 +1,467 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG182",
+    "identifiant": {
+      "numero": "182",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "professions de santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "INFIRMIERS EN PRATIQUE AVANCÉE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794354",
+        "mandatRef": "PM796869"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Organisation territoriale et professions de santé",
+      "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Organisation territoriale et professions de santé",
+          "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> INFIRMIERS EN PRATIQUE AVANCÉE <a name=PG17></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Hélène Laporte.<br><br><strong>Mme Hélène Laporte. </strong>Le besoin d'un niveau de qualification intermédiaire entre les diplômes paramédicaux et le doctorat en médecine a conduit le législateur à créer, en 2016, l'exercice en pratique avancée. Entrée en vigueur en 2018, cette réforme institue un nouveau diplôme de niveau master, permettant à des auxiliaires médicaux d'accomplir des actes, y compris certaines prescriptions, jusqu'ici réservés aux seuls médecins.<br><br>Dans un contexte de pénurie gravissime de médecins, on pourrait s'attendre à voir votre ministère capitaliser sur ce nouvel outil et encourager les infirmiers, qu’ils soient jeunes diplômés ou déjà expérimentés, à se tourner vers ce diplôme.<br><br>Pourtant, ce n'est pas l’empressement qui caractérise la conduite de vos prédécesseurs, Mme Buzyn et M. Véran, pas plus que la vôtre.<br><br>Vous conservez une grille indiciaire peu valorisante pour ces professionnels. Il a fallu que l'Union nationale des infirmiers en pratique avancée s'alarme pour que soit enfin instituée une prime dédiée à partir d’avril 2022. Elle s'élève à 180 euros, soit un peu plus de deux pleins de gazole mensuels. Voilà ce que vaut pour le ministère de la santé le choix courageux, pour de jeunes infirmiers, de poursuivre leurs études durant deux années supplémentaires.<br><br>Par conséquent, le nombre d’infirmiers étudiants en master 1 de pratique avancée a diminué de 12 % entre 2021 et 2022. Cette toute jeune discipline est déjà sur le déclin ! En 2020, votre ministère prévoyait 3 000 infirmiers en pratique avancée (IPA) en 2022 et 5 000 en 2024. Mais en mars 2022, on ne compte que 935 diplômés et 1 425 étudiants infirmiers. Osons le dire : c’est un échec.<br><br>Monsieur le ministre de la santé et de la prévention, il n'y a pas que Paris ! La désertification médicale de nos territoires ruraux s'aggrave année après année. Dans mon département du Lot-et-Garonne, on en arrive, dans certains cantons sinistrés, au taux d'un médecin pour 3 000 habitants. La situation ne permet aucune tergiversation : allez-vous enfin créer les conditions nécessaires pour que les IPA puissent jouer le rôle qui leur revient dans la lutte contre ce fléau ? <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée chargée de l’organisation territoriale et des professions de santé.<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée chargée de l’organisation territoriale et des professions de santé. </i>Comme vous l'avez dit, la France est un désert médical, puisque 87 % de notre territoire sont considérés comme des zones sous-denses. C'est bien pour cela que, dans la continuité de ce qui a été accompli pendant la précédente législature, nous avons ouvert tous les chantiers avec François Braun.<br><br>Comme j'ai eu l'occasion de le rappeler en répondant à la question précédente, lors de la précédente législature, le numerus clausus a été supprimé au profit du numerus apertus. Nous avons créé les assistants médicaux, qui sont actuellement déployés sur le territoire, ce qui permet de dégager 15 % de temps médical. Nous avons également permis le développement des IPA.<br><br>Nous le savons tous, les enjeux des IPA se situent à deux niveaux : l'articulation de leur pratique avec les autres professionnels et la formation.<br><br>Tout d'abord, si les IPA ont bien trouvé leur place à l'hôpital, l'articulation avec les médecins généralistes reste à définir, et nous y travaillons les uns avec les autres. La semaine dernière, les ordres de toutes les professions médicales ont signé un contrat pour que les IPA trouvent leur place aux côtés des médecins, pharmaciens, kinés, sages-femmes, pédicures, podologues et chirurgiens-dentistes, ce qui permettra de dégager du temps médical à tous ces professionnels.<br><br>Ensuite, il existe un enjeu de formation et d'accompagnement des infirmiers. S'agissant du conventionnement, un accord a été trouvé cet été. J'ai par ailleurs reçu les IPA il y a tout juste cinq jours, et nous sommes d'ores et déjà convenus de nous revoir pour améliorer l'accès à la formation et, peut-être, élargir le champ des compétences des IPA pour leur permettre d'intervenir dans d'autres domaines, notamment la petite enfance, où il existe un important problème d'accompagnement.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 33,
+            "label": "ORG",
+            "text": "INFIRMIERS"
+          },
+          {
+            "start_char": 88,
+            "end_char": 91,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 132,
+            "end_char": 166,
+            "label": "PER",
+            "text": "Mme Hélène Laporte.<br><br><strong"
+          },
+          {
+            "start_char": 167,
+            "end_char": 185,
+            "label": "PER",
+            "text": "Mme Hélène Laporte"
+          },
+          {
+            "start_char": 595,
+            "end_char": 611,
+            "label": "MISC",
+            "text": "médecins.<br><br"
+          },
+          {
+            "start_char": 772,
+            "end_char": 775,
+            "label": "PER",
+            "text": "qu’"
+          },
+          {
+            "start_char": 884,
+            "end_char": 886,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 949,
+            "end_char": 958,
+            "label": "PER",
+            "text": "Mme Buzyn"
+          },
+          {
+            "start_char": 962,
+            "end_char": 970,
+            "label": "PER",
+            "text": "M. Véran"
+          },
+          {
+            "start_char": 988,
+            "end_char": 1001,
+            "label": "MISC",
+            "text": "vôtre.<br><br"
+          },
+          {
+            "start_char": 1097,
+            "end_char": 1139,
+            "label": "ORG",
+            "text": "Union nationale des infirmiers en pratique"
+          },
+          {
+            "start_char": 1446,
+            "end_char": 1469,
+            "label": "MISC",
+            "text": "supplémentaires.<br><br"
+          },
+          {
+            "start_char": 1843,
+            "end_char": 1845,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 1852,
+            "end_char": 1866,
+            "label": "MISC",
+            "text": "échec.<br><br>"
+          },
+          {
+            "start_char": 1866,
+            "end_char": 1874,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1937,
+            "end_char": 1942,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 2268,
+            "end_char": 2271,
+            "label": "ORG",
+            "text": "IPA"
+          },
+          {
+            "start_char": 2336,
+            "end_char": 2341,
+            "label": "PER",
+            "text": "fléau"
+          },
+          {
+            "start_char": 2389,
+            "end_char": 2412,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2413,
+            "end_char": 2416,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2457,
+            "end_char": 2460,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2493,
+            "end_char": 2495,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2565,
+            "end_char": 2581,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 2632,
+            "end_char": 2634,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2716,
+            "end_char": 2725,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2974,
+            "end_char": 2996,
+            "label": "PER",
+            "text": "François Braun.<br><br"
+          },
+          {
+            "start_char": 3114,
+            "end_char": 3121,
+            "label": "MISC",
+            "text": "numerus"
+          },
+          {
+            "start_char": 3158,
+            "end_char": 3173,
+            "label": "MISC",
+            "text": "numerus apertus"
+          },
+          {
+            "start_char": 3512,
+            "end_char": 3529,
+            "label": "MISC",
+            "text": "formation.<br><br"
+          },
+          {
+            "start_char": 3551,
+            "end_char": 3554,
+            "label": "ORG",
+            "text": "IPA"
+          },
+          {
+            "start_char": 3993,
+            "end_char": 4015,
+            "label": "MISC",
+            "text": "professionnels.<br><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 45,
+            "sentiment": "4 stars",
+            "score": 0.31943172216415405
+          },
+          {
+            "begin_char": 46,
+            "end_char": 106,
+            "sentiment": "3 stars",
+            "score": 0.2608238458633423
+          },
+          {
+            "begin_char": 107,
+            "end_char": 186,
+            "sentiment": "3 stars",
+            "score": 0.26032277941703796
+          },
+          {
+            "begin_char": 187,
+            "end_char": 196,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 196,
+            "end_char": 382,
+            "sentiment": "4 stars",
+            "score": 0.38990387320518494
+          },
+          {
+            "begin_char": 383,
+            "end_char": 1079,
+            "sentiment": "3 stars",
+            "score": 0.32114720344543457
+          },
+          {
+            "begin_char": 1080,
+            "end_char": 1226,
+            "sentiment": "5 stars",
+            "score": 0.408751904964447
+          },
+          {
+            "begin_char": 1227,
+            "end_char": 1304,
+            "sentiment": "3 stars",
+            "score": 0.30742332339286804
+          },
+          {
+            "begin_char": 1305,
+            "end_char": 1470,
+            "sentiment": "4 stars",
+            "score": 0.28890261054039
+          },
+          {
+            "begin_char": 1470,
+            "end_char": 1550,
+            "sentiment": "4 stars",
+            "score": 0.3221503496170044
+          },
+          {
+            "begin_char": 1551,
+            "end_char": 1588,
+            "sentiment": "2 stars",
+            "score": 0.2881404161453247
+          },
+          {
+            "begin_char": 1589,
+            "end_char": 1642,
+            "sentiment": "2 stars",
+            "score": 0.38126495480537415
+          },
+          {
+            "begin_char": 1643,
+            "end_char": 1746,
+            "sentiment": "5 stars",
+            "score": 0.2880497872829437
+          },
+          {
+            "begin_char": 1747,
+            "end_char": 1826,
+            "sentiment": "2 stars",
+            "score": 0.27718445658683777
+          },
+          {
+            "begin_char": 1827,
+            "end_char": 1866,
+            "sentiment": "1 star",
+            "score": 0.8072956204414368
+          },
+          {
+            "begin_char": 1866,
+            "end_char": 1944,
+            "sentiment": "5 stars",
+            "score": 0.3363107442855835
+          },
+          {
+            "begin_char": 1945,
+            "end_char": 2027,
+            "sentiment": "3 stars",
+            "score": 0.2706732451915741
+          },
+          {
+            "begin_char": 2028,
+            "end_char": 2157,
+            "sentiment": "2 stars",
+            "score": 0.32586079835891724
+          },
+          {
+            "begin_char": 2158,
+            "end_char": 2343,
+            "sentiment": "5 stars",
+            "score": 0.38107067346572876
+          },
+          {
+            "begin_char": 2344,
+            "end_char": 2431,
+            "sentiment": "4 stars",
+            "score": 0.3186970353126526
+          },
+          {
+            "begin_char": 2432,
+            "end_char": 2602,
+            "sentiment": "3 stars",
+            "score": 0.30307215452194214
+          },
+          {
+            "begin_char": 2603,
+            "end_char": 2611,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 2612,
+            "end_char": 2688,
+            "sentiment": "4 stars",
+            "score": 0.32783234119415283
+          },
+          {
+            "begin_char": 2689,
+            "end_char": 2826,
+            "sentiment": "2 stars",
+            "score": 0.377432256937027
+          },
+          {
+            "begin_char": 2827,
+            "end_char": 3174,
+            "sentiment": "5 stars",
+            "score": 0.36078011989593506
+          },
+          {
+            "begin_char": 3175,
+            "end_char": 3313,
+            "sentiment": "5 stars",
+            "score": 0.49454569816589355
+          },
+          {
+            "begin_char": 3314,
+            "end_char": 3375,
+            "sentiment": "5 stars",
+            "score": 0.3709389567375183
+          },
+          {
+            "begin_char": 3375,
+            "end_char": 3704,
+            "sentiment": "4 stars",
+            "score": 0.4610946476459503
+          },
+          {
+            "begin_char": 3705,
+            "end_char": 4092,
+            "sentiment": "5 stars",
+            "score": 0.45845702290534973
+          },
+          {
+            "begin_char": 4093,
+            "end_char": 4156,
+            "sentiment": "4 stars",
+            "score": 0.35774561762809753
+          },
+          {
+            "begin_char": 4157,
+            "end_char": 4512,
+            "sentiment": "4 stars",
+            "score": 0.43719667196273804
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-20",
+        "pageJO": "4314",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

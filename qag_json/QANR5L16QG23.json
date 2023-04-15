@@ -1,0 +1,569 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG23",
+    "identifiant": {
+      "numero": "23",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "climat",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Lutte contre le dérèglement climatique"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721458",
+        "mandatRef": "PM797262"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> LUTTE CONTRE LE DÉRÈGLEMENT CLIMATIQUE <a name=PG23></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Xavier Roseren.<br><br><strong>M. Xavier Roseren. </strong>Monsieur le ministre de la transition écologique et de la cohésion des territoires, permettez-moi de vous féliciter pour vos nouvelles fonctions au service de notre pays.<br><br>Je souhaite profiter de cette première séance de questions au Gouvernement pour vous alerter de nouveau sur le réchauffement climatique et ses conséquences. L'actualité récente, avec l'accident du glacier de la Marmolada dans les Alpes italiennes puis, ce dimanche, l'écroulement d'un glacier au Kirghizistan, témoigne de la gravité de la situation. Nous le savons, le territoire de montagne est fragile et le réchauffement climatique y est deux fois plus important qu'ailleurs. Selon le rapport du Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC) paru en mars dernier, le réchauffement climatique est responsable de la fonte des glaces, l'une des dix menaces majeures identifiées par les scientifiques. Lors de sa venue, en février 2020, sur le glacier de la Mer de glace à Chamonix-Mont-Blanc, le Président de la République a constaté l'ampleur du phénomène. Le glacier a reculé de 850 mètres depuis trente ans et, au mois de juin 2022, il a perdu 3,5 mètres d'épaisseur.<br><br>Pour protéger les populations, les communes mettent en place des plans de prévention des risques (PPR) avec une obligation de révision régulière. Lors de la précédente législature, nous avons adopté le plan Avenir montagnes qui vise à adapter la montagne au changement climatique. Sur place, les élus, les associations et les professionnels de la montagne doivent tenir compte des contraintes du réchauffement climatique pour l'ensemble des activités : tourisme, alpinisme, agropastoralisme. Ils sont tous mobilisés pour renverser la tendance.<br><br>Monsieur le ministre, quelles mesures nationales entendez-vous prendre pour répondre à l'ampleur du réchauffement climatique ? Quelles mesures spécifiques pour les montagnes ? Quelles échéances face à l'urgence ? <i>(Applaudissements sur quelques bancs des groupes RE, Dem et HOR. – Mme Émilie Bonnivard applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Les drames que vous évoquez ont causé la perte de plusieurs vies humaines : les onze personnes décédées dans le glacier de la Marmolada restent dans notre souvenir. J'ai beaucoup à apprendre de vous, monsieur Roseren, car vous connaissez ces sujets mieux que quiconque : vous êtes né dans un territoire de montagne et vous êtes engagé dans ces combats. <i>(Murmures sur les bancs du groupe LFI-NUPES.)</i> Je le dis avec beaucoup d'humilité : je gagnerais à bénéficier de votre expérience et de celle d'autres personnes travaillant sur ces sujets.<br><br><strong>M. Maxime Minot.</strong> C'est vous le ministre quand même ! Ça fait peur…<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>Ce drame m'inspire plusieurs remarques. Globalement, vous avez raison, le GIEC pointe les responsabilités et montre la nécessité de s'adapter aux changements climatiques. Le plan Avenir montagnes que vous avez évoqué est une action concrète puisqu'il s'accompagne d'un fonds de 331 millions d'euros dédié à la diversification des activités touristiques compte tenu de l'absence de neige l'hiver et de la fonte des glaciers l'été. Mais il s'agit aussi d'anticiper des risques encore inconnus. En effet, si certains risques sont bien identifiés, le réchauffement climatique en engendre de nouveaux, qui nécessitent de développer une forme de résilience. <i>(Exclamations sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>Mme Sophia Chikirou.</strong> La fonte des glaciers n'a rien de nouveau !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>Cette idée sera au cœur du troisième volet du plan d'adaptation au changement climatique, que nous devrons coconstruire. J'ai entendu quelqu'un ironiser sur le fait que cela faisait peur que le ministre ne connaisse pas tout de ces sujets ; je plaide au contraire pour le travail en commun. Chacun doit comprendre que ce n'est pas une annonce sur un perron d'un palais de la République qui confère toutes les compétences dans un domaine et que nous gagnerions collectivement à coconstruire les réponses et à travailler ensemble. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 35,
+            "label": "ORG",
+            "text": "LUTTE CONTRE"
+          },
+          {
+            "start_char": 39,
+            "end_char": 50,
+            "label": "ORG",
+            "text": "DÉRÈGLEMENT"
+          },
+          {
+            "start_char": 96,
+            "end_char": 99,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 140,
+            "end_char": 191,
+            "label": "PER",
+            "text": "M. Xavier Roseren.<br><br><strong>M. Xavier Roseren"
+          },
+          {
+            "start_char": 202,
+            "end_char": 210,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 367,
+            "end_char": 379,
+            "label": "MISC",
+            "text": "pays.<br><br"
+          },
+          {
+            "start_char": 442,
+            "end_char": 454,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 577,
+            "end_char": 600,
+            "label": "LOC",
+            "text": "glacier de la Marmolada"
+          },
+          {
+            "start_char": 610,
+            "end_char": 615,
+            "label": "LOC",
+            "text": "Alpes"
+          },
+          {
+            "start_char": 676,
+            "end_char": 688,
+            "label": "LOC",
+            "text": "Kirghizistan"
+          },
+          {
+            "start_char": 879,
+            "end_char": 915,
+            "label": "ORG",
+            "text": "Groupe d'experts intergouvernemental"
+          },
+          {
+            "start_char": 943,
+            "end_char": 947,
+            "label": "MISC",
+            "text": "GIEC"
+          },
+          {
+            "start_char": 1147,
+            "end_char": 1164,
+            "label": "LOC",
+            "text": "glacier de la Mer"
+          },
+          {
+            "start_char": 1176,
+            "end_char": 1195,
+            "label": "LOC",
+            "text": "Chamonix-Mont-Blanc"
+          },
+          {
+            "start_char": 1200,
+            "end_char": 1226,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1364,
+            "end_char": 1381,
+            "label": "MISC",
+            "text": "épaisseur.<br><br"
+          },
+          {
+            "start_char": 1480,
+            "end_char": 1483,
+            "label": "ORG",
+            "text": "PPR"
+          },
+          {
+            "start_char": 1589,
+            "end_char": 1605,
+            "label": "ORG",
+            "text": "Avenir montagnes"
+          },
+          {
+            "start_char": 1916,
+            "end_char": 1941,
+            "label": "MISC",
+            "text": "tendance.<br><br>Monsieur"
+          },
+          {
+            "start_char": 2060,
+            "end_char": 2067,
+            "label": "LOC",
+            "text": "Quelles"
+          },
+          {
+            "start_char": 2198,
+            "end_char": 2200,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 2202,
+            "end_char": 2205,
+            "label": "MISC",
+            "text": "Dem"
+          },
+          {
+            "start_char": 2209,
+            "end_char": 2212,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 2216,
+            "end_char": 2220,
+            "label": "PER",
+            "text": "Mme "
+          },
+          {
+            "start_char": 2278,
+            "end_char": 2281,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2322,
+            "end_char": 2324,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2415,
+            "end_char": 2428,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 2636,
+            "end_char": 2659,
+            "label": "LOC",
+            "text": "glacier de la Marmolada"
+          },
+          {
+            "start_char": 2733,
+            "end_char": 2740,
+            "label": "PER",
+            "text": "Roseren"
+          },
+          {
+            "start_char": 2914,
+            "end_char": 2928,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i"
+          },
+          {
+            "start_char": 3090,
+            "end_char": 3111,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 3149,
+            "end_char": 3151,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 3178,
+            "end_char": 3191,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3299,
+            "end_char": 3303,
+            "label": "ORG",
+            "text": "GIEC"
+          },
+          {
+            "start_char": 3404,
+            "end_char": 3420,
+            "label": "ORG",
+            "text": "Avenir montagnes"
+          },
+          {
+            "start_char": 3918,
+            "end_char": 3948,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3949,
+            "end_char": 3978,
+            "label": "PER",
+            "text": "Mme Sophia Chikirou.</strong>"
+          },
+          {
+            "start_char": 4038,
+            "end_char": 4051,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 4667,
+            "end_char": 4669,
+            "label": "MISC",
+            "text": "RE"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 50,
+            "sentiment": "4 stars",
+            "score": 0.36212795972824097
+          },
+          {
+            "begin_char": 51,
+            "end_char": 114,
+            "sentiment": "3 stars",
+            "score": 0.3187374472618103
+          },
+          {
+            "begin_char": 115,
+            "end_char": 192,
+            "sentiment": "4 stars",
+            "score": 0.26357194781303406
+          },
+          {
+            "begin_char": 193,
+            "end_char": 202,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 202,
+            "end_char": 536,
+            "sentiment": "5 stars",
+            "score": 0.5832428336143494
+          },
+          {
+            "begin_char": 537,
+            "end_char": 729,
+            "sentiment": "4 stars",
+            "score": 0.5148648619651794
+          },
+          {
+            "begin_char": 730,
+            "end_char": 858,
+            "sentiment": "3 stars",
+            "score": 0.29511767625808716
+          },
+          {
+            "begin_char": 859,
+            "end_char": 1104,
+            "sentiment": "4 stars",
+            "score": 0.3764607608318329
+          },
+          {
+            "begin_char": 1105,
+            "end_char": 1261,
+            "sentiment": "4 stars",
+            "score": 0.3266989290714264
+          },
+          {
+            "begin_char": 1262,
+            "end_char": 1527,
+            "sentiment": "3 stars",
+            "score": 0.318408340215683
+          },
+          {
+            "begin_char": 1528,
+            "end_char": 1662,
+            "sentiment": "5 stars",
+            "score": 0.3860488831996918
+          },
+          {
+            "begin_char": 1663,
+            "end_char": 1873,
+            "sentiment": "4 stars",
+            "score": 0.42121750116348267
+          },
+          {
+            "begin_char": 1874,
+            "end_char": 2059,
+            "sentiment": "5 stars",
+            "score": 0.5058260560035706
+          },
+          {
+            "begin_char": 2060,
+            "end_char": 2108,
+            "sentiment": "4 stars",
+            "score": 0.3346831798553467
+          },
+          {
+            "begin_char": 2109,
+            "end_char": 2145,
+            "sentiment": "5 stars",
+            "score": 0.47078943252563477
+          },
+          {
+            "begin_char": 2146,
+            "end_char": 2220,
+            "sentiment": "3 stars",
+            "score": 0.33169490098953247
+          },
+          {
+            "begin_char": 2220,
+            "end_char": 2296,
+            "sentiment": "4 stars",
+            "score": 0.3493819534778595
+          },
+          {
+            "begin_char": 2297,
+            "end_char": 2519,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 2520,
+            "end_char": 2524,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2524,
+            "end_char": 2688,
+            "sentiment": "4 stars",
+            "score": 0.23380260169506073
+          },
+          {
+            "begin_char": 2689,
+            "end_char": 2876,
+            "sentiment": "5 stars",
+            "score": 0.5692428350448608
+          },
+          {
+            "begin_char": 2877,
+            "end_char": 2929,
+            "sentiment": "3 stars",
+            "score": 0.2628113031387329
+          },
+          {
+            "begin_char": 2930,
+            "end_char": 3112,
+            "sentiment": "5 stars",
+            "score": 0.46723467111587524
+          },
+          {
+            "begin_char": 3113,
+            "end_char": 3148,
+            "sentiment": "1 star",
+            "score": 0.37826693058013916
+          },
+          {
+            "begin_char": 3149,
+            "end_char": 3220,
+            "sentiment": "1 star",
+            "score": 0.36884427070617676
+          },
+          {
+            "begin_char": 3221,
+            "end_char": 3225,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3225,
+            "end_char": 3264,
+            "sentiment": "3 stars",
+            "score": 0.3633125424385071
+          },
+          {
+            "begin_char": 3265,
+            "end_char": 3395,
+            "sentiment": "5 stars",
+            "score": 0.45371487736701965
+          },
+          {
+            "begin_char": 3396,
+            "end_char": 3654,
+            "sentiment": "4 stars",
+            "score": 0.47795313596725464
+          },
+          {
+            "begin_char": 3655,
+            "end_char": 3716,
+            "sentiment": "4 stars",
+            "score": 0.4622642695903778
+          },
+          {
+            "begin_char": 3717,
+            "end_char": 3876,
+            "sentiment": "4 stars",
+            "score": 0.4407830834388733
+          },
+          {
+            "begin_char": 3877,
+            "end_char": 4022,
+            "sentiment": "2 stars",
+            "score": 0.30787384510040283
+          },
+          {
+            "begin_char": 4022,
+            "end_char": 4081,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 4082,
+            "end_char": 4086,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4086,
+            "end_char": 4206,
+            "sentiment": "4 stars",
+            "score": 0.368317574262619
+          },
+          {
+            "begin_char": 4207,
+            "end_char": 4326,
+            "sentiment": "2 stars",
+            "score": 0.33891561627388
+          },
+          {
+            "begin_char": 4327,
+            "end_char": 4376,
+            "sentiment": "5 stars",
+            "score": 0.2772853672504425
+          },
+          {
+            "begin_char": 4377,
+            "end_char": 4614,
+            "sentiment": "5 stars",
+            "score": 0.474412739276886
+          },
+          {
+            "begin_char": 4615,
+            "end_char": 4690,
+            "sentiment": "3 stars",
+            "score": 0.34096047282218933
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-13",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-13",
+        "pageJO": "2348",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

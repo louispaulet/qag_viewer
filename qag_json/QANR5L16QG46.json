@@ -1,0 +1,1001 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG46",
+    "identifiant": {
+      "numero": "46",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "sécurité sociale",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Fraude sociale"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA642847",
+        "mandatRef": "PM796872"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Santé et prévention",
+      "developpe": "Ministère de la santé et de la prévention"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Santé et prévention",
+          "developpe": "Ministère de la santé et de la prévention"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> FRAUDE SOCIALE <a name=PG19></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Thibault Bazin.<br><br><strong>M. Thibault Bazin. </strong>L'inflation rogne le pouvoir d'achat des Français. Lorsque nous vous proposons des mesures pour baisser concrètement les taxes sur les carburants, vous brandissez la dette abyssale de notre pays, pourtant bien cachée pendant les campagnes électorales que nous venons de traverser. <i>(« Eh oui ! » sur quelques bancs du groupe LR.)</i> Or s'agissant du financement de ce type de mesures, Les Républicains ne cessent de vous inviter à enfin conduire des réformes structurelles, comme la lutte contre les fraudes.<br><br>La fraude sociale coûterait en effet entre 14 et 45 milliards d'euros par an. Une des mesures que nous vous avons déjà proposées est l'instauration de cartes Vitale biométriques. Ce sont des cartes dont la puce contient un paramètre relatif aux caractéristiques physiques de l'assuré, comme ses empreintes digitales. C'est un système qui assure une très grande fiabilité contre les risques de fraude. Il ne serait alors plus possible de prêter sa carte et les cartes volées ne pourraient plus être utilisées.<br><br>En effet, comment expliquer à nos concitoyens l'excédent de 1,8 à 2 millions de cartes Vitale qui circulent dans l'Hexagone ? Comment admettre qu'une tierce personne puisse utiliser, à l'hôpital ou chez un professionnel de santé, une carte qui n'est pas la sienne ? Comment admettre également qu'en cas de vol ou de perte, il faille tant de temps pour désactiver la puce, quand elle l'est ?<br><br><strong>M. Sébastien Jumel.</strong> On marche sur la tête avec des questions comme ça !<br><br><strong>M. Thibault Bazin. </strong>En 2019, le Sénat a voté en faveur de la carte Vitale biométrique, mais vous avez ensuite rejeté ce dispositif à l'Assemblée nationale, au prétexte qu'une expérimentation était déjà menée dans quelques départements, laquelle porte d'ailleurs sur la carte Vitale dématérialisée et non sur la carte Vitale biométrique.<br><br><strong>M. Sébastien Jumel.</strong> On marche sur la tête, Bazin !<br><br><strong>M. Thibault Bazin. </strong>Quel mauvais prétexte ! Votre carte Vitale dématérialisée n'empêchera pas la fraude. Madame la Première ministre, qu'attendez-vous pour généraliser la carte Vitale biométrique que nous vous proposons ? <i>(Applaudissements sur les bancs du groupe LR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la santé et de la prévention.<br><br><strong>M. François Braun,</strong><i> ministre de la santé et de la prévention. </i>La sécurité sociale est un patrimoine très précieux pour les Français et j'en suis le garant. Nous devons le protéger et nous assurer que les prestations sont versées à bon droit et que les cotisations et contributions sociales sont recouvrées de manière exhaustive.<br><br><strong>M. Maxime Minot.</strong> Il existe 70 millions de cartes Vitale et nous sommes 67 millions !<br><br><strong>M. Patrick Hetzel.</strong> Cinq ans sans rien faire !<br><br><strong>M. François Braun,</strong><i> ministre . </i>Ma position et celle du Gouvernement sont très claires : aucune complaisance à l'égard de ceux qui fraudent,…<br><br><strong>M. Pierre Cordier.</strong> Un peu quand même…<br><br><strong>M. François Braun,</strong><i> ministre . </i>…comme l'a indiqué la Première ministre dans sa déclaration de politique générale.<br><br>Cela étant, nous devons avoir une approche rationnelle de cette question, grâce à une évaluation objective du manque à gagner et à l'adoption de mesures adaptées.<br><br><strong>M. Fabien Di Filippo.</strong> Véran l'a déjà lue six fois, cette fiche !<br><br><strong>M. François Braun,</strong><i> ministre . </i>Vous l'avez dit, le Gouvernement a déployé un dispositif de carte électronique sécurisée et dématérialisée – l'e-carte Vitale –, permettant l'authentification et la signature des assurés pour les différents actes. Il convient, là encore, de l'évaluer.<br><br><strong>M. Jean-Philippe Tanguy.</strong> Pipeau ! Rends l'argent !<br><br><strong>M. François Braun,</strong><i> ministre . </i>En ce qui vous concerne, vous souhaitez le déploiement de cartes Vitale biométriques. Cette question mérite d'être étudiée <i>(Exclamations sur les bancs du groupe LR)</i>,…<br><br><strong>M. Jean-Philippe Tanguy et M. Grégoire de Fournas .</strong> Ça fait dix ans !<br><br><strong>M. François Braun,</strong><i> ministre . </i>…car il existe plusieurs dispositifs différents et il nous faut par ailleurs en évaluer l'efficacité et la faisabilité, en lien avec les professionnels.<br><br><strong>M. Patrick Hetzel.</strong> Cinq ans qu'on entend ça !<br><br><strong>M. François Braun,</strong><i> ministre . </i>Je connais votre engagement et celui du groupe Les Républicains en faveur de la lutte contre la fraude sociale. <i>(« Ah » sur les bancs du groupe LR.)</i> Comme vous le savez, le Gouvernement est à l'écoute des idées constructives pour faire avancer notre pays de façon transpartisane.<br><br><strong>M. Pierre Cordier.</strong> Ça sent le compromis !<br><br><strong>M. François Braun,</strong><i> ministre . </i>Ainsi, à la demande de la Première ministre, le Gouvernement soutiendra la création d'une mission parlementaire afin de suivre le déploiement en cours de la nouvelle carte Vitale, sans aucun tabou ni préjugés, d'en évaluer la pertinence et d'envisager les évolutions possibles. <i>(Applaudissements sur quelques bancs du groupe HOR.)</i><br><br><strong>M. Patrick Hetzel.</strong> Ah, encore une mission !<br><br><strong>M. Grégoire de Fournas.</strong> Agissez un peu !<br><br><strong>Mme la présidente. </strong>La parole est à M. Thibault Bazin.<br><br><strong>M. Thibault Bazin. </strong>Votre réponse est décevante ! Encore une mission ? Les Français attendent plus d'efficacité. L'évaluation est connue : les fraudes liées aux cartes Vitale sont estimées à près de 5,4 milliards d'euros. Le déploiement de la carte Vitale biométrique coûterait 400 millions d'euros et pourrait donc rapporter 5 milliards d'euros par an. Vous manquez vraiment de volonté ; nous vous attendons pour mieux lutter contre les fraudes. <i>(Applaudissements sur les bancs des groupes LR et RN.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 30,
+            "end_char": 37,
+            "label": "ORG",
+            "text": "SOCIALE"
+          },
+          {
+            "start_char": 72,
+            "end_char": 75,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 116,
+            "end_char": 127,
+            "label": "PER",
+            "text": "M. Thibault"
+          },
+          {
+            "start_char": 153,
+            "end_char": 167,
+            "label": "PER",
+            "text": "Thibault Bazin"
+          },
+          {
+            "start_char": 219,
+            "end_char": 227,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 505,
+            "end_char": 513,
+            "label": "LOC",
+            "text": "LR.)</i>"
+          },
+          {
+            "start_char": 570,
+            "end_char": 582,
+            "label": "ORG",
+            "text": "Républicains"
+          },
+          {
+            "start_char": 681,
+            "end_char": 696,
+            "label": "MISC",
+            "text": "fraudes.<br><br"
+          },
+          {
+            "start_char": 855,
+            "end_char": 861,
+            "label": "PER",
+            "text": "Vitale"
+          },
+          {
+            "start_char": 1300,
+            "end_char": 1306,
+            "label": "PER",
+            "text": "Vitale"
+          },
+          {
+            "start_char": 1328,
+            "end_char": 1336,
+            "label": "LOC",
+            "text": "Hexagone"
+          },
+          {
+            "start_char": 1622,
+            "end_char": 1647,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 1718,
+            "end_char": 1732,
+            "label": "PER",
+            "text": "Thibault Bazin"
+          },
+          {
+            "start_char": 1755,
+            "end_char": 1760,
+            "label": "ORG",
+            "text": "Sénat"
+          },
+          {
+            "start_char": 1790,
+            "end_char": 1796,
+            "label": "LOC",
+            "text": "Vitale"
+          },
+          {
+            "start_char": 1858,
+            "end_char": 1877,
+            "label": "ORG",
+            "text": "Assemblée nationale"
+          },
+          {
+            "start_char": 1998,
+            "end_char": 2004,
+            "label": "LOC",
+            "text": "Vitale"
+          },
+          {
+            "start_char": 2040,
+            "end_char": 2046,
+            "label": "LOC",
+            "text": "Vitale"
+          },
+          {
+            "start_char": 2078,
+            "end_char": 2103,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 2127,
+            "end_char": 2134,
+            "label": "MISC",
+            "text": "Bazin !"
+          },
+          {
+            "start_char": 2153,
+            "end_char": 2167,
+            "label": "PER",
+            "text": "Thibault Bazin"
+          },
+          {
+            "start_char": 2214,
+            "end_char": 2220,
+            "label": "PER",
+            "text": "Vitale"
+          },
+          {
+            "start_char": 2335,
+            "end_char": 2341,
+            "label": "PER",
+            "text": "Vitale"
+          },
+          {
+            "start_char": 2425,
+            "end_char": 2448,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2449,
+            "end_char": 2452,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2493,
+            "end_char": 2495,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2559,
+            "end_char": 2567,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 2694,
+            "end_char": 2702,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2918,
+            "end_char": 2939,
+            "label": "PER",
+            "text": "Maxime Minot.</strong"
+          },
+          {
+            "start_char": 2973,
+            "end_char": 2979,
+            "label": "PER",
+            "text": "Vitale"
+          },
+          {
+            "start_char": 3027,
+            "end_char": 3056,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong> Cinq"
+          },
+          {
+            "start_char": 3097,
+            "end_char": 3105,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3125,
+            "end_char": 3133,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3164,
+            "end_char": 3176,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3268,
+            "end_char": 3291,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 3330,
+            "end_char": 3338,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3358,
+            "end_char": 3366,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3395,
+            "end_char": 3403,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 3446,
+            "end_char": 3462,
+            "label": "MISC",
+            "text": "générale.<br><br"
+          },
+          {
+            "start_char": 3641,
+            "end_char": 3650,
+            "label": "PER",
+            "text": "M. Fabien"
+          },
+          {
+            "start_char": 3651,
+            "end_char": 3671,
+            "label": "PER",
+            "text": "Di Filippo.</strong>"
+          },
+          {
+            "start_char": 3672,
+            "end_char": 3677,
+            "label": "LOC",
+            "text": "Véran"
+          },
+          {
+            "start_char": 3733,
+            "end_char": 3741,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 3761,
+            "end_char": 3769,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3796,
+            "end_char": 3808,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3895,
+            "end_char": 3901,
+            "label": "PER",
+            "text": "Vitale"
+          },
+          {
+            "start_char": 4046,
+            "end_char": 4083,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong> Pipeau"
+          },
+          {
+            "start_char": 4121,
+            "end_char": 4129,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 4149,
+            "end_char": 4157,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4229,
+            "end_char": 4235,
+            "label": "PER",
+            "text": "Vitale"
+          },
+          {
+            "start_char": 4328,
+            "end_char": 4336,
+            "label": "ORG",
+            "text": "LR)</i>,"
+          },
+          {
+            "start_char": 4356,
+            "end_char": 4376,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy"
+          },
+          {
+            "start_char": 4380,
+            "end_char": 4402,
+            "label": "PER",
+            "text": "M. Grégoire de Fournas"
+          },
+          {
+            "start_char": 4414,
+            "end_char": 4416,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 4450,
+            "end_char": 4458,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 4478,
+            "end_char": 4486,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4664,
+            "end_char": 4693,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong> Cinq"
+          },
+          {
+            "start_char": 4734,
+            "end_char": 4742,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 4762,
+            "end_char": 4770,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4828,
+            "end_char": 4840,
+            "label": "ORG",
+            "text": "Républicains"
+          },
+          {
+            "start_char": 4895,
+            "end_char": 4897,
+            "label": "MISC",
+            "text": "Ah"
+          },
+          {
+            "start_char": 4924,
+            "end_char": 4931,
+            "label": "ORG",
+            "text": "LR.)</i"
+          },
+          {
+            "start_char": 4957,
+            "end_char": 4969,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 5082,
+            "end_char": 5105,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 5107,
+            "end_char": 5109,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 5148,
+            "end_char": 5156,
+            "label": "PER",
+            "text": "François"
+          },
+          {
+            "start_char": 5176,
+            "end_char": 5184,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 5217,
+            "end_char": 5225,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 5239,
+            "end_char": 5251,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 5363,
+            "end_char": 5369,
+            "label": "LOC",
+            "text": "Vitale"
+          },
+          {
+            "start_char": 5519,
+            "end_char": 5547,
+            "label": "MISC",
+            "text": "HOR.)</i><br><br><strong>M. "
+          },
+          {
+            "start_char": 5547,
+            "end_char": 5571,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 5615,
+            "end_char": 5644,
+            "label": "PER",
+            "text": "Grégoire de Fournas.</strong>"
+          },
+          {
+            "start_char": 5645,
+            "end_char": 5652,
+            "label": "PER",
+            "text": "Agissez"
+          },
+          {
+            "start_char": 5677,
+            "end_char": 5680,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5721,
+            "end_char": 5732,
+            "label": "PER",
+            "text": "M. Thibault"
+          },
+          {
+            "start_char": 5758,
+            "end_char": 5772,
+            "label": "PER",
+            "text": "Thibault Bazin"
+          },
+          {
+            "start_char": 5783,
+            "end_char": 5788,
+            "label": "LOC",
+            "text": "Votre"
+          },
+          {
+            "start_char": 5838,
+            "end_char": 5846,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 5931,
+            "end_char": 5937,
+            "label": "PER",
+            "text": "Vitale"
+          },
+          {
+            "start_char": 6012,
+            "end_char": 6018,
+            "label": "LOC",
+            "text": "Vitale"
+          },
+          {
+            "start_char": 6257,
+            "end_char": 6259,
+            "label": "ORG",
+            "text": "LR"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 90,
+            "sentiment": "3 stars",
+            "score": 0.32314378023147583
+          },
+          {
+            "begin_char": 91,
+            "end_char": 168,
+            "sentiment": "4 stars",
+            "score": 0.2529161274433136
+          },
+          {
+            "begin_char": 169,
+            "end_char": 178,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 178,
+            "end_char": 228,
+            "sentiment": "1 star",
+            "score": 0.37268468737602234
+          },
+          {
+            "begin_char": 229,
+            "end_char": 458,
+            "sentiment": "1 star",
+            "score": 0.6144630312919617
+          },
+          {
+            "begin_char": 459,
+            "end_char": 513,
+            "sentiment": "3 stars",
+            "score": 0.2755622863769531
+          },
+          {
+            "begin_char": 514,
+            "end_char": 774,
+            "sentiment": "5 stars",
+            "score": 0.4108982980251312
+          },
+          {
+            "begin_char": 775,
+            "end_char": 875,
+            "sentiment": "4 stars",
+            "score": 0.32103845477104187
+          },
+          {
+            "begin_char": 876,
+            "end_char": 1013,
+            "sentiment": "4 stars",
+            "score": 0.37413784861564636
+          },
+          {
+            "begin_char": 1014,
+            "end_char": 1097,
+            "sentiment": "5 stars",
+            "score": 0.6585302352905273
+          },
+          {
+            "begin_char": 1098,
+            "end_char": 1213,
+            "sentiment": "1 star",
+            "score": 0.45699864625930786
+          },
+          {
+            "begin_char": 1213,
+            "end_char": 1338,
+            "sentiment": "2 stars",
+            "score": 0.29765748977661133
+          },
+          {
+            "begin_char": 1339,
+            "end_char": 1478,
+            "sentiment": "1 star",
+            "score": 0.42667287588119507
+          },
+          {
+            "begin_char": 1479,
+            "end_char": 1603,
+            "sentiment": "1 star",
+            "score": 0.39710909128189087
+          },
+          {
+            "begin_char": 1603,
+            "end_char": 1647,
+            "sentiment": "3 stars",
+            "score": 0.31285977363586426
+          },
+          {
+            "begin_char": 1648,
+            "end_char": 1699,
+            "sentiment": "1 star",
+            "score": 0.5643303394317627
+          },
+          {
+            "begin_char": 1699,
+            "end_char": 1733,
+            "sentiment": "3 stars",
+            "score": 0.28066232800483704
+          },
+          {
+            "begin_char": 1734,
+            "end_char": 1743,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1743,
+            "end_char": 2103,
+            "sentiment": "3 stars",
+            "score": 0.33401811122894287
+          },
+          {
+            "begin_char": 2104,
+            "end_char": 2134,
+            "sentiment": "1 star",
+            "score": 0.7295767068862915
+          },
+          {
+            "begin_char": 2134,
+            "end_char": 2168,
+            "sentiment": "3 stars",
+            "score": 0.28066232800483704
+          },
+          {
+            "begin_char": 2169,
+            "end_char": 2201,
+            "sentiment": "1 star",
+            "score": 0.6779789924621582
+          },
+          {
+            "begin_char": 2202,
+            "end_char": 2220,
+            "sentiment": "4 stars",
+            "score": 0.2820448577404022
+          },
+          {
+            "begin_char": 2221,
+            "end_char": 2262,
+            "sentiment": "1 star",
+            "score": 0.27268490195274353
+          },
+          {
+            "begin_char": 2263,
+            "end_char": 2379,
+            "sentiment": "5 stars",
+            "score": 0.3003692924976349
+          },
+          {
+            "begin_char": 2380,
+            "end_char": 2467,
+            "sentiment": "4 stars",
+            "score": 0.309841126203537
+          },
+          {
+            "begin_char": 2468,
+            "end_char": 2586,
+            "sentiment": "4 stars",
+            "score": 0.3129529356956482
+          },
+          {
+            "begin_char": 2587,
+            "end_char": 2628,
+            "sentiment": "4 stars",
+            "score": 0.34887322783470154
+          },
+          {
+            "begin_char": 2629,
+            "end_char": 2726,
+            "sentiment": "5 stars",
+            "score": 0.5293062925338745
+          },
+          {
+            "begin_char": 2727,
+            "end_char": 2940,
+            "sentiment": "5 stars",
+            "score": 0.44946664571762085
+          },
+          {
+            "begin_char": 2941,
+            "end_char": 3008,
+            "sentiment": "5 stars",
+            "score": 0.5675000548362732
+          },
+          {
+            "begin_char": 3008,
+            "end_char": 3078,
+            "sentiment": "1 star",
+            "score": 0.5695834159851074
+          },
+          {
+            "begin_char": 3078,
+            "end_char": 3135,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 3136,
+            "end_char": 3196,
+            "sentiment": "5 stars",
+            "score": 0.3966137170791626
+          },
+          {
+            "begin_char": 3197,
+            "end_char": 3292,
+            "sentiment": "5 stars",
+            "score": 0.3554478585720062
+          },
+          {
+            "begin_char": 3293,
+            "end_char": 3368,
+            "sentiment": "3 stars",
+            "score": 0.4071597754955292
+          },
+          {
+            "begin_char": 3369,
+            "end_char": 3650,
+            "sentiment": "4 stars",
+            "score": 0.35661134123802185
+          },
+          {
+            "begin_char": 3651,
+            "end_char": 3671,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 3672,
+            "end_char": 3714,
+            "sentiment": "5 stars",
+            "score": 0.22201520204544067
+          },
+          {
+            "begin_char": 3714,
+            "end_char": 3771,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 3772,
+            "end_char": 3989,
+            "sentiment": "5 stars",
+            "score": 0.47135573625564575
+          },
+          {
+            "begin_char": 3990,
+            "end_char": 4085,
+            "sentiment": "3 stars",
+            "score": 0.2649279236793518
+          },
+          {
+            "begin_char": 4086,
+            "end_char": 4102,
+            "sentiment": "5 stars",
+            "score": 0.32651814818382263
+          },
+          {
+            "begin_char": 4102,
+            "end_char": 4159,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 4160,
+            "end_char": 4249,
+            "sentiment": "4 stars",
+            "score": 0.2866474986076355
+          },
+          {
+            "begin_char": 4250,
+            "end_char": 4413,
+            "sentiment": "3 stars",
+            "score": 0.38006526231765747
+          },
+          {
+            "begin_char": 4414,
+            "end_char": 4431,
+            "sentiment": "5 stars",
+            "score": 0.4141143262386322
+          },
+          {
+            "begin_char": 4431,
+            "end_char": 4488,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 4489,
+            "end_char": 4715,
+            "sentiment": "5 stars",
+            "score": 0.3731609880924225
+          },
+          {
+            "begin_char": 4715,
+            "end_char": 4772,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 4773,
+            "end_char": 4888,
+            "sentiment": "4 stars",
+            "score": 0.39832279086112976
+          },
+          {
+            "begin_char": 4889,
+            "end_char": 5106,
+            "sentiment": "4 stars",
+            "score": 0.3768639862537384
+          },
+          {
+            "begin_char": 5107,
+            "end_char": 5129,
+            "sentiment": "4 stars",
+            "score": 0.40123844146728516
+          },
+          {
+            "begin_char": 5129,
+            "end_char": 5186,
+            "sentiment": "3 stars",
+            "score": 0.31781473755836487
+          },
+          {
+            "begin_char": 5187,
+            "end_char": 5468,
+            "sentiment": "4 stars",
+            "score": 0.4354461133480072
+          },
+          {
+            "begin_char": 5469,
+            "end_char": 5571,
+            "sentiment": "3 stars",
+            "score": 0.3547910749912262
+          },
+          {
+            "begin_char": 5572,
+            "end_char": 5596,
+            "sentiment": "1 star",
+            "score": 0.48006847500801086
+          },
+          {
+            "begin_char": 5596,
+            "end_char": 5644,
+            "sentiment": "3 stars",
+            "score": 0.3042440116405487
+          },
+          {
+            "begin_char": 5645,
+            "end_char": 5661,
+            "sentiment": "3 stars",
+            "score": 0.30670082569122314
+          },
+          {
+            "begin_char": 5661,
+            "end_char": 5695,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 5696,
+            "end_char": 5773,
+            "sentiment": "4 stars",
+            "score": 0.2529161274433136
+          },
+          {
+            "begin_char": 5774,
+            "end_char": 5783,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5783,
+            "end_char": 5812,
+            "sentiment": "1 star",
+            "score": 0.6442043781280518
+          },
+          {
+            "begin_char": 5813,
+            "end_char": 5833,
+            "sentiment": "1 star",
+            "score": 0.4280519187450409
+          },
+          {
+            "begin_char": 5834,
+            "end_char": 5875,
+            "sentiment": "5 stars",
+            "score": 0.2648317515850067
+          },
+          {
+            "begin_char": 5876,
+            "end_char": 5984,
+            "sentiment": "4 stars",
+            "score": 0.3168862462043762
+          },
+          {
+            "begin_char": 5985,
+            "end_char": 6116,
+            "sentiment": "4 stars",
+            "score": 0.33144527673721313
+          },
+          {
+            "begin_char": 6117,
+            "end_char": 6151,
+            "sentiment": "1 star",
+            "score": 0.5577983856201172
+          },
+          {
+            "begin_char": 6152,
+            "end_char": 6209,
+            "sentiment": "5 stars",
+            "score": 0.3797571361064911
+          },
+          {
+            "begin_char": 6210,
+            "end_char": 6279,
+            "sentiment": "3 stars",
+            "score": 0.3000392019748688
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-20",
+        "pageJO": "2523",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

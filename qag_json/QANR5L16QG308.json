@@ -1,0 +1,515 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG308",
+    "identifiant": {
+      "numero": "308",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "justice",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Grève des magistrats"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793306",
+        "mandatRef": "PM796254"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Justice",
+      "developpe": "Ministère de la justice"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Justice",
+          "developpe": "Ministère de la justice"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> GRÈVE DES MAGISTRATS <a name=PG6></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Philippe Pradal.<br><br><strong>M. Philippe Pradal. </strong>Ma question, à laquelle j'associe Jean-Charles Larsonneur, s'adresse à M. le ministre de la justice et porte sur le mouvement des magistrats de ce jour.<br><br><strong>M. Patrick Hetzel.</strong> Question téléphonée !<br><br><strong>M. Philippe Pradal. </strong>Les syndicats ont lancé un appel à la grève, un an après la publication de la tribune des 3 000 magistrats, qui vous alertait sur le manque chronique d'effectifs et de moyens subi par les magistrats, l'ensemble des professionnels de la justice et les justiciables. Cette tribune faisait suite au malheureux suicide d'une magistrate ; nous saluons également la mémoire de Mme la juge Marie Truchet décédée tragiquement le 18 octobre dernier, dans des circonstances qui restent à déterminer. Je tiens à leur rendre hommage. <i>(Applaudissements sur quelques bancs des groupes RE, LFI-NUPES et Dem.)</i><br><br>Le quinquennat précédent a permis de voter plusieurs réformes ambitieuses. Pour la majorité, la sécurité et la justice restent des priorités au service de nos concitoyens. La mission <i>Justice</i> dans le budget pour 2023 a pu être débattue et votée, en commission et en séance publique. Nous venons d'adopter la loi d'orientation du ministère de l'intérieur et nous examinerons bientôt, si j'en crois les rumeurs, une loi de programmation de votre propre ministère, monsieur le ministre. Celle-ci fera suite aux états généraux de la justice, qui sont en train de se conclure.<br><br>Depuis plusieurs années, les crédits de votre ministère sont en augmentation, en accord avec la politique souhaitée par le Président de la République. Or certaines expressions syndicales affirment que rien n'a été fait depuis un an. Aussi je vous demande d'exposer devant la représentation nationale les mesures prises depuis un an en faveur d'un meilleur fonctionnement de la justice. Je vous demande également d'expliquer en quoi les crédits adoptés dans le projet de loi de finances pour 2023 permettront d'améliorer les conditions dans lesquelles est rendue la justice. <i>(Applaudissements sur les bancs du groupe HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le garde des sceaux, ministre de la justice.<br><br><strong>M. Patrick Hetzel.</strong> La fiche est prête !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux, ministre de la justice . </i>Tout d'abord, je voudrais me joindre à l'hommage que vous avez rendu à Mme Truchet. J'ai une pensée particulière pour elle et pour sa famille.<br><br>Je ne vais pas reprendre les chiffres détaillés dans ma réponse à Mme Karamanli, mais je tiens à dire que nous n'avons pas à rougir de ce que nous avons fait : nous avons réparé trente ans d'abandon humain, politique et budgétaire. Mais vous le savez – vous êtes un député sérieux : les choses ne se font pas en un claquement de doigts.<br><br>Nous allons présenter une loi de programmation : ce n'est pas une rumeur, Mme la Première ministre avait d'ores et déjà annoncé ce texte. C'est un deuxième grand plan d'embauche : 1 500 magistrats, 1 500 greffiers, 10 000 personnels au total, dont les contractuels. Je rappelle que ces derniers ont permis de réduire les stocks, notamment des affaires civiles, de plus de 25 %.<br><br><strong>M. Patrick Hetzel.</strong> Et pourtant les délais de jugement s'allongent !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>Je présenterai également dans quelques jours les états généraux de la justice et de grandes mesures de simplification : en matière pénale, mais aussi en matière civile – aller vers l'amiable. S'agissant du mouvement des magistrats, très franchement, j'aurais préféré que tous les syndicats de magistrats participent aux concertations que j'ai organisées dans le cadre des états généraux.<br><br><strong>M. Jean-Paul Mattei.</strong> Eh oui !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>Certains sont venus, d'autres ne l'ont pas voulu. J'avais affirmé à l'époque qu'une porte ouverte qui n'était pas franchie n'était pas une porte fermée ; ils ont choisi un autre mode d'expression, ça les regarde, je respecte cette liberté. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 43,
+            "label": "MISC",
+            "text": "GRÈVE DES MAGISTRATS"
+          },
+          {
+            "start_char": 52,
+            "end_char": 59,
+            "label": "PER",
+            "text": "PG6></a"
+          },
+          {
+            "start_char": 77,
+            "end_char": 80,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 121,
+            "end_char": 123,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 124,
+            "end_char": 132,
+            "label": "PER",
+            "text": "Philippe"
+          },
+          {
+            "start_char": 159,
+            "end_char": 174,
+            "label": "PER",
+            "text": "Philippe Pradal"
+          },
+          {
+            "start_char": 219,
+            "end_char": 242,
+            "label": "PER",
+            "text": "Jean-Charles Larsonneur"
+          },
+          {
+            "start_char": 256,
+            "end_char": 258,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 356,
+            "end_char": 380,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 421,
+            "end_char": 436,
+            "label": "PER",
+            "text": "Philippe Pradal"
+          },
+          {
+            "start_char": 818,
+            "end_char": 821,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 830,
+            "end_char": 843,
+            "label": "PER",
+            "text": "Marie Truchet"
+          },
+          {
+            "start_char": 1021,
+            "end_char": 1023,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 1025,
+            "end_char": 1034,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1038,
+            "end_char": 1128,
+            "label": "MISC",
+            "text": "Dem.)</i><br><br>Le quinquennat précédent a permis de voter plusieurs réformes ambitieuses"
+          },
+          {
+            "start_char": 1623,
+            "end_char": 1639,
+            "label": "MISC",
+            "text": "conclure.<br><br"
+          },
+          {
+            "start_char": 1763,
+            "end_char": 1789,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 2259,
+            "end_char": 2283,
+            "label": "ORG",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2284,
+            "end_char": 2287,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2328,
+            "end_char": 2330,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2352,
+            "end_char": 2390,
+            "label": "ORG",
+            "text": "ministre de la justice.<br><br><strong"
+          },
+          {
+            "start_char": 2394,
+            "end_char": 2418,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 2458,
+            "end_char": 2469,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2609,
+            "end_char": 2620,
+            "label": "PER",
+            "text": "Mme Truchet"
+          },
+          {
+            "start_char": 2672,
+            "end_char": 2687,
+            "label": "MISC",
+            "text": "famille.<br><br"
+          },
+          {
+            "start_char": 2754,
+            "end_char": 2767,
+            "label": "PER",
+            "text": "Mme Karamanli"
+          },
+          {
+            "start_char": 3106,
+            "end_char": 3121,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 3428,
+            "end_char": 3452,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 3520,
+            "end_char": 3531,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 3982,
+            "end_char": 4007,
+            "label": "PER",
+            "text": "Jean-Paul Mattei.</strong"
+          },
+          {
+            "start_char": 4036,
+            "end_char": 4047,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4385,
+            "end_char": 4387,
+            "label": "MISC",
+            "text": "RE"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 95,
+            "sentiment": "3 stars",
+            "score": 0.25701138377189636
+          },
+          {
+            "begin_char": 96,
+            "end_char": 175,
+            "sentiment": "4 stars",
+            "score": 0.26303479075431824
+          },
+          {
+            "begin_char": 176,
+            "end_char": 380,
+            "sentiment": "4 stars",
+            "score": 0.3596040904521942
+          },
+          {
+            "begin_char": 381,
+            "end_char": 402,
+            "sentiment": "2 stars",
+            "score": 0.28272053599357605
+          },
+          {
+            "begin_char": 402,
+            "end_char": 437,
+            "sentiment": "3 stars",
+            "score": 0.27328401803970337
+          },
+          {
+            "begin_char": 438,
+            "end_char": 447,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 447,
+            "end_char": 711,
+            "sentiment": "5 stars",
+            "score": 0.30244702100753784
+          },
+          {
+            "begin_char": 712,
+            "end_char": 780,
+            "sentiment": "1 star",
+            "score": 0.2899644076824188
+          },
+          {
+            "begin_char": 781,
+            "end_char": 936,
+            "sentiment": "4 stars",
+            "score": 0.4956672489643097
+          },
+          {
+            "begin_char": 937,
+            "end_char": 968,
+            "sentiment": "5 stars",
+            "score": 0.5506604909896851
+          },
+          {
+            "begin_char": 969,
+            "end_char": 1129,
+            "sentiment": "4 stars",
+            "score": 0.3964466154575348
+          },
+          {
+            "begin_char": 1130,
+            "end_char": 1226,
+            "sentiment": "5 stars",
+            "score": 0.5004132986068726
+          },
+          {
+            "begin_char": 1227,
+            "end_char": 1343,
+            "sentiment": "5 stars",
+            "score": 0.4272100627422333
+          },
+          {
+            "begin_char": 1344,
+            "end_char": 1544,
+            "sentiment": "5 stars",
+            "score": 0.38236483931541443
+          },
+          {
+            "begin_char": 1545,
+            "end_char": 1790,
+            "sentiment": "5 stars",
+            "score": 0.4905891716480255
+          },
+          {
+            "begin_char": 1791,
+            "end_char": 1872,
+            "sentiment": "1 star",
+            "score": 0.5444603562355042
+          },
+          {
+            "begin_char": 1873,
+            "end_char": 2025,
+            "sentiment": "5 stars",
+            "score": 0.5242804884910583
+          },
+          {
+            "begin_char": 2026,
+            "end_char": 2213,
+            "sentiment": "5 stars",
+            "score": 0.4210236370563507
+          },
+          {
+            "begin_char": 2214,
+            "end_char": 2302,
+            "sentiment": "4 stars",
+            "score": 0.3090986907482147
+          },
+          {
+            "begin_char": 2303,
+            "end_char": 2418,
+            "sentiment": "4 stars",
+            "score": 0.3037421405315399
+          },
+          {
+            "begin_char": 2419,
+            "end_char": 2439,
+            "sentiment": "5 stars",
+            "score": 0.40878722071647644
+          },
+          {
+            "begin_char": 2439,
+            "end_char": 2533,
+            "sentiment": "4 stars",
+            "score": 0.3232072591781616
+          },
+          {
+            "begin_char": 2534,
+            "end_char": 2621,
+            "sentiment": "5 stars",
+            "score": 0.446418821811676
+          },
+          {
+            "begin_char": 2622,
+            "end_char": 2688,
+            "sentiment": "5 stars",
+            "score": 0.6399389505386353
+          },
+          {
+            "begin_char": 2688,
+            "end_char": 2919,
+            "sentiment": "5 stars",
+            "score": 0.5763742923736572
+          },
+          {
+            "begin_char": 2920,
+            "end_char": 3032,
+            "sentiment": "2 stars",
+            "score": 0.29473793506622314
+          },
+          {
+            "begin_char": 3032,
+            "end_char": 3169,
+            "sentiment": "4 stars",
+            "score": 0.2719733417034149
+          },
+          {
+            "begin_char": 3170,
+            "end_char": 3297,
+            "sentiment": "5 stars",
+            "score": 0.36135074496269226
+          },
+          {
+            "begin_char": 3298,
+            "end_char": 3501,
+            "sentiment": "5 stars",
+            "score": 0.33858945965766907
+          },
+          {
+            "begin_char": 3501,
+            "end_char": 3571,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 3572,
+            "end_char": 3767,
+            "sentiment": "4 stars",
+            "score": 0.41239696741104126
+          },
+          {
+            "begin_char": 3768,
+            "end_char": 4008,
+            "sentiment": "3 stars",
+            "score": 0.28566646575927734
+          },
+          {
+            "begin_char": 4009,
+            "end_char": 4017,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 4017,
+            "end_char": 4087,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 4088,
+            "end_char": 4141,
+            "sentiment": "2 stars",
+            "score": 0.289069801568985
+          },
+          {
+            "begin_char": 4142,
+            "end_char": 4245,
+            "sentiment": "2 stars",
+            "score": 0.2821301221847534
+          },
+          {
+            "begin_char": 4246,
+            "end_char": 4331,
+            "sentiment": "5 stars",
+            "score": 0.5786158442497253
+          },
+          {
+            "begin_char": 4332,
+            "end_char": 4408,
+            "sentiment": "3 stars",
+            "score": 0.3345279097557068
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5896",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

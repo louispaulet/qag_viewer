@@ -1,0 +1,743 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG126",
+    "identifiant": {
+      "numero": "126",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "commerce et artisanat",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Difficultés des boulangers face à l'inflation"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793322",
+        "mandatRef": "PM796260"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Petites et moyennes entreprises, commerce, artisanat et tourisme",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-05",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Petites et moyennes entreprises, commerce, artisanat et tourisme",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-05",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> DIFFICULTÉS DES BOULANGERS FACE À L'INFLATION <a name=PG17></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Christelle D'Intorni.<br><br><strong>Mme Christelle D'Intorni. </strong>Ma question s'adresse à Mme la Première ministre. « Aujourd'hui, les Français sont les mieux protégés. » Tels sont les propos qu'a tenus le ministre de l'économie, des finances et de la souveraineté industrielle et numérique dans l'hebdomadaire <i>Challenges</i>, le 29 septembre dernier. Hélas, la réalité que vivent les Français au quotidien est bien éloignée de ces éléments de langage feutrés.<br><br>La réalité, madame la Première ministre, c'est notamment les lourdes difficultés que connaissent les boulangers. Les chiffres sont là : 85 % d'augmentation du prix de la farine en un an – 15 % d'augmentation rien qu'entre septembre et octobre – et 215 % d'augmentation du prix du kilo de beurre. Le prix de l'huile, quant à lui, a quadruplé. Cette flambée des prix est continue, exponentielle, incontrôlée et, dans bien des cas, injustifiée. Cette semaine, en une nuit, le prix du kilo de beurre a augmenté de 28 %. Les artisans boulangers sont étranglés par le prix des matières premières et par le coût de l'énergie.<br><br>Certains en viennent à supprimer la fournée de l'après-midi pour ne pas avoir à rallumer leur four. Au bout de la chaîne, ce sont les Français qui paient l’addition : la baguette passe de 1 euro à 1,30 euro ; les boulangeries qui ne peuvent pas suivre sont contraintes de fermer, alors qu'elles sont parfois le seul commerce de proximité en territoire rural.<br><br>Les artisans boulangers ne sont qu’un exemple parmi tant d’autres. La réalité qui est dénoncée par les boulangers, comme Frédéric Roy à Nice, par des industriels, comme Thierry Dalbera dans ma circonscription, mais aussi par les représentants de la grande distribution, comme Michel-Édouard Leclerc, c’est que cette inflation qui tue nos entreprises et ampute considérablement le pouvoir d’achat des Français est bien souvent injustifiée.<br><br>La guerre en Ukraine n’explique pas tout. Les artisans, les commerçants, les Français ont besoin de réponses concrètes, d’action – je ne parle pas de leur proposer de porter des cols roulés !<br><br>Quelles sont les conclusions de l’enquête sur la hausse des prix diligentée par Bercy en juillet dernier ? Que comptez-vous faire pour mettre fin à la spéculation, afin de protéger véritablement les Français ? <i>(Applaudissements sur les bancs du groupe LR. – Mme Christine Pires Beaune applaudit également.)</i> <br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargée des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme.<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargée des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme. </i>Oui, je confirme les propos de Bruno Le Maire et de Mme la Première ministre. La situation est certes difficile. Il n'en demeure pas moins que les Français sont mieux protégés que d'autres Européens.<br><br>L'inflation lissée sur un an atteint 5,8 % ; l'inflation des prix alimentaires, elle, atteint 7,7 %. L'inflation est plus forte sur les prix alimentaires, c'est vrai. C'est pourquoi nous travaillons sans relâche pour protéger non seulement les producteurs et les agriculteurs, mais aussi les consommateurs et les artisans.<br><br>Je connais bien M. Roy, le boulanger auquel vous avez fait référence. Je vous remercie d'avoir pris le temps de m'interroger sur cette profession, qui est inquiète. C'est cette inquiétude, confirmée par de nombreux échanges, qui me conduit à recevoir les boulangers le 18 octobre prochain.<br><br>Je tiens à le rappeler, nombre de nos boulangers souffrent. Roland Lescure, Marc Fesneau et moi-même nous efforçons de mettre au point un mécanisme européen pour mieux les protéger. Les boulangers, souvent constitués en très petites entreprises (TPE), sont protégés par les tarifs réglementés de vente (TRV). Aujourd'hui, 1,5 million de TPE bénéficient ainsi d'une sorte de bouclier tarifaire, du même acabit que celui qui protège les ménages. Même si les boulangers souffrent, il est important qu'ils contactent leur fournisseur d'énergie pour s'assurer de leur éligibilité au TRV. Cela peut paraître technique, mais ce n'est pas un élément de langage. Le TRV protège 1,5 million d'artisans.<br><br>Faut-il en faire plus ? Certainement. C'est ce que la Première ministre a rappelé il y a quelques minutes. Bruno Le Maire, Roland Lescure et moi-même continuerons de travailler sur ce sujet. Conjointement avec Marc Fesneau, j'anime toutes les semaines le comité de suivi des relations commerciales Egalim et Egalim 2. C'est toutes les semaines que nous appelons à la responsabilité la grande distribution, dont une partie prend effectivement ses responsabilités.<br><br><strong>M. Jocelyn Dessigny.</strong> Quel aveu ! Vous avez été incapables de protéger les boulangers !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 49,
+            "label": "MISC",
+            "text": "DIFFICULTÉS DES BOULANGERS"
+          },
+          {
+            "start_char": 57,
+            "end_char": 68,
+            "label": "MISC",
+            "text": "L'INFLATION"
+          },
+          {
+            "start_char": 103,
+            "end_char": 106,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 147,
+            "end_char": 187,
+            "label": "PER",
+            "text": "Mme Christelle D'Intorni.<br><br><strong"
+          },
+          {
+            "start_char": 188,
+            "end_char": 212,
+            "label": "PER",
+            "text": "Mme Christelle D'Intorni"
+          },
+          {
+            "start_char": 247,
+            "end_char": 262,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 292,
+            "end_char": 300,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 471,
+            "end_char": 484,
+            "label": "LOC",
+            "text": "Challenges</i"
+          },
+          {
+            "start_char": 545,
+            "end_char": 553,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 612,
+            "end_char": 627,
+            "label": "MISC",
+            "text": "feutrés.<br><br"
+          },
+          {
+            "start_char": 1238,
+            "end_char": 1253,
+            "label": "MISC",
+            "text": "énergie.<br><br"
+          },
+          {
+            "start_char": 1388,
+            "end_char": 1396,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1408,
+            "end_char": 1410,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1741,
+            "end_char": 1753,
+            "label": "PER",
+            "text": "Frédéric Roy"
+          },
+          {
+            "start_char": 1756,
+            "end_char": 1760,
+            "label": "LOC",
+            "text": "Nice"
+          },
+          {
+            "start_char": 1789,
+            "end_char": 1804,
+            "label": "PER",
+            "text": "Thierry Dalbera"
+          },
+          {
+            "start_char": 1896,
+            "end_char": 1918,
+            "label": "PER",
+            "text": "Michel-Édouard Leclerc"
+          },
+          {
+            "start_char": 1920,
+            "end_char": 1922,
+            "label": "MISC",
+            "text": "c’"
+          },
+          {
+            "start_char": 2066,
+            "end_char": 2075,
+            "label": "MISC",
+            "text": "La guerre"
+          },
+          {
+            "start_char": 2079,
+            "end_char": 2086,
+            "label": "LOC",
+            "text": "Ukraine"
+          },
+          {
+            "start_char": 2087,
+            "end_char": 2089,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 2143,
+            "end_char": 2151,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2186,
+            "end_char": 2196,
+            "label": "ORG",
+            "text": "d’action –"
+          },
+          {
+            "start_char": 2297,
+            "end_char": 2299,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2345,
+            "end_char": 2350,
+            "label": "LOC",
+            "text": "Bercy"
+          },
+          {
+            "start_char": 2464,
+            "end_char": 2472,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2520,
+            "end_char": 2522,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2526,
+            "end_char": 2530,
+            "label": "PER",
+            "text": "Mme "
+          },
+          {
+            "start_char": 2595,
+            "end_char": 2598,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2639,
+            "end_char": 2642,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2686,
+            "end_char": 2688,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2821,
+            "end_char": 2823,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2864,
+            "end_char": 2874,
+            "label": "PER",
+            "text": "Mme Olivia"
+          },
+          {
+            "start_char": 2937,
+            "end_char": 2939,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3072,
+            "end_char": 3074,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3135,
+            "end_char": 3149,
+            "label": "PER",
+            "text": "Bruno Le Maire"
+          },
+          {
+            "start_char": 3156,
+            "end_char": 3171,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 3251,
+            "end_char": 3259,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3624,
+            "end_char": 3640,
+            "label": "MISC",
+            "text": "artisans.<br><br"
+          },
+          {
+            "start_char": 3657,
+            "end_char": 3663,
+            "label": "PER",
+            "text": "M. Roy"
+          },
+          {
+            "start_char": 3998,
+            "end_char": 4012,
+            "label": "PER",
+            "text": "Roland Lescure"
+          },
+          {
+            "start_char": 4014,
+            "end_char": 4026,
+            "label": "PER",
+            "text": "Marc Fesneau"
+          },
+          {
+            "start_char": 4184,
+            "end_char": 4187,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 4241,
+            "end_char": 4244,
+            "label": "ORG",
+            "text": "TRV"
+          },
+          {
+            "start_char": 4275,
+            "end_char": 4278,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 4516,
+            "end_char": 4519,
+            "label": "ORG",
+            "text": "TRV"
+          },
+          {
+            "start_char": 4595,
+            "end_char": 4598,
+            "label": "ORG",
+            "text": "TRV"
+          },
+          {
+            "start_char": 4621,
+            "end_char": 4637,
+            "label": "MISC",
+            "text": "artisans.<br><br"
+          },
+          {
+            "start_char": 4662,
+            "end_char": 4674,
+            "label": "PER",
+            "text": "Certainement"
+          },
+          {
+            "start_char": 4692,
+            "end_char": 4700,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4745,
+            "end_char": 4750,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 4761,
+            "end_char": 4775,
+            "label": "PER",
+            "text": "Roland Lescure"
+          },
+          {
+            "start_char": 4848,
+            "end_char": 4860,
+            "label": "PER",
+            "text": "Marc Fesneau"
+          },
+          {
+            "start_char": 4936,
+            "end_char": 4942,
+            "label": "ORG",
+            "text": "Egalim"
+          },
+          {
+            "start_char": 4946,
+            "end_char": 4952,
+            "label": "LOC",
+            "text": "Egalim"
+          },
+          {
+            "start_char": 5119,
+            "end_char": 5150,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong> Quel"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 49,
+            "sentiment": "3 stars",
+            "score": 0.2937297224998474
+          },
+          {
+            "begin_char": 50,
+            "end_char": 121,
+            "sentiment": "1 star",
+            "score": 0.3304958939552307
+          },
+          {
+            "begin_char": 122,
+            "end_char": 213,
+            "sentiment": "3 stars",
+            "score": 0.26341956853866577
+          },
+          {
+            "begin_char": 214,
+            "end_char": 272,
+            "sentiment": "3 stars",
+            "score": 0.25775644183158875
+          },
+          {
+            "begin_char": 273,
+            "end_char": 511,
+            "sentiment": "5 stars",
+            "score": 0.38915419578552246
+          },
+          {
+            "begin_char": 512,
+            "end_char": 740,
+            "sentiment": "2 stars",
+            "score": 0.46537646651268005
+          },
+          {
+            "begin_char": 741,
+            "end_char": 923,
+            "sentiment": "3 stars",
+            "score": 0.2642974555492401
+          },
+          {
+            "begin_char": 924,
+            "end_char": 969,
+            "sentiment": "3 stars",
+            "score": 0.3559178113937378
+          },
+          {
+            "begin_char": 970,
+            "end_char": 1069,
+            "sentiment": "2 stars",
+            "score": 0.3424588441848755
+          },
+          {
+            "begin_char": 1070,
+            "end_char": 1143,
+            "sentiment": "1 star",
+            "score": 0.31246477365493774
+          },
+          {
+            "begin_char": 1144,
+            "end_char": 1353,
+            "sentiment": "3 stars",
+            "score": 0.28485432267189026
+          },
+          {
+            "begin_char": 1354,
+            "end_char": 1462,
+            "sentiment": "1 star",
+            "score": 0.7331345081329346
+          },
+          {
+            "begin_char": 1463,
+            "end_char": 1686,
+            "sentiment": "3 stars",
+            "score": 0.2749069035053253
+          },
+          {
+            "begin_char": 1687,
+            "end_char": 2066,
+            "sentiment": "5 stars",
+            "score": 0.24414752423763275
+          },
+          {
+            "begin_char": 2066,
+            "end_char": 2107,
+            "sentiment": "3 stars",
+            "score": 0.26726415753364563
+          },
+          {
+            "begin_char": 2108,
+            "end_char": 2257,
+            "sentiment": "5 stars",
+            "score": 0.5225814580917358
+          },
+          {
+            "begin_char": 2257,
+            "end_char": 2265,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2265,
+            "end_char": 2371,
+            "sentiment": "4 stars",
+            "score": 0.3306853473186493
+          },
+          {
+            "begin_char": 2372,
+            "end_char": 2474,
+            "sentiment": "5 stars",
+            "score": 0.33552539348602295
+          },
+          {
+            "begin_char": 2475,
+            "end_char": 2530,
+            "sentiment": "4 stars",
+            "score": 0.3299490511417389
+          },
+          {
+            "begin_char": 2530,
+            "end_char": 2613,
+            "sentiment": "4 stars",
+            "score": 0.3373376429080963
+          },
+          {
+            "begin_char": 2614,
+            "end_char": 2896,
+            "sentiment": "4 stars",
+            "score": 0.340179979801178
+          },
+          {
+            "begin_char": 2897,
+            "end_char": 2905,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 2906,
+            "end_char": 3099,
+            "sentiment": "4 stars",
+            "score": 0.3573285639286041
+          },
+          {
+            "begin_char": 3100,
+            "end_char": 3181,
+            "sentiment": "4 stars",
+            "score": 0.31349584460258484
+          },
+          {
+            "begin_char": 3182,
+            "end_char": 3216,
+            "sentiment": "3 stars",
+            "score": 0.42089518904685974
+          },
+          {
+            "begin_char": 3217,
+            "end_char": 3311,
+            "sentiment": "4 stars",
+            "score": 0.3311954736709595
+          },
+          {
+            "begin_char": 3311,
+            "end_char": 3355,
+            "sentiment": "3 stars",
+            "score": 0.33229944109916687
+          },
+          {
+            "begin_char": 3356,
+            "end_char": 3411,
+            "sentiment": "3 stars",
+            "score": 0.32553619146347046
+          },
+          {
+            "begin_char": 3412,
+            "end_char": 3477,
+            "sentiment": "3 stars",
+            "score": 0.3214235305786133
+          },
+          {
+            "begin_char": 3478,
+            "end_char": 3641,
+            "sentiment": "5 stars",
+            "score": 0.613163948059082
+          },
+          {
+            "begin_char": 3641,
+            "end_char": 3710,
+            "sentiment": "5 stars",
+            "score": 0.25163960456848145
+          },
+          {
+            "begin_char": 3711,
+            "end_char": 3805,
+            "sentiment": "5 stars",
+            "score": 0.41034576296806335
+          },
+          {
+            "begin_char": 3806,
+            "end_char": 3938,
+            "sentiment": "5 stars",
+            "score": 0.3422563076019287
+          },
+          {
+            "begin_char": 3938,
+            "end_char": 3997,
+            "sentiment": "5 stars",
+            "score": 0.4194795489311218
+          },
+          {
+            "begin_char": 3998,
+            "end_char": 4119,
+            "sentiment": "5 stars",
+            "score": 0.3806198835372925
+          },
+          {
+            "begin_char": 4120,
+            "end_char": 4246,
+            "sentiment": "4 stars",
+            "score": 0.4284352660179138
+          },
+          {
+            "begin_char": 4247,
+            "end_char": 4381,
+            "sentiment": "5 stars",
+            "score": 0.2950596511363983
+          },
+          {
+            "begin_char": 4382,
+            "end_char": 4520,
+            "sentiment": "4 stars",
+            "score": 0.45289376378059387
+          },
+          {
+            "begin_char": 4521,
+            "end_char": 4591,
+            "sentiment": "3 stars",
+            "score": 0.3854820430278778
+          },
+          {
+            "begin_char": 4592,
+            "end_char": 4638,
+            "sentiment": "5 stars",
+            "score": 0.37976735830307007
+          },
+          {
+            "begin_char": 4638,
+            "end_char": 4661,
+            "sentiment": "3 stars",
+            "score": 0.31848788261413574
+          },
+          {
+            "begin_char": 4662,
+            "end_char": 4675,
+            "sentiment": "4 stars",
+            "score": 0.2979714274406433
+          },
+          {
+            "begin_char": 4676,
+            "end_char": 4744,
+            "sentiment": "4 stars",
+            "score": 0.24831616878509521
+          },
+          {
+            "begin_char": 4745,
+            "end_char": 4750,
+            "sentiment": "4 stars",
+            "score": 0.29908427596092224
+          },
+          {
+            "begin_char": 4751,
+            "end_char": 4782,
+            "sentiment": "5 stars",
+            "score": 0.3016705811023712
+          },
+          {
+            "begin_char": 4782,
+            "end_char": 4783,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 4783,
+            "end_char": 4828,
+            "sentiment": "5 stars",
+            "score": 0.28908151388168335
+          },
+          {
+            "begin_char": 4829,
+            "end_char": 4955,
+            "sentiment": "4 stars",
+            "score": 0.3635707497596741
+          },
+          {
+            "begin_char": 4956,
+            "end_char": 5157,
+            "sentiment": "5 stars",
+            "score": 0.5034543871879578
+          },
+          {
+            "begin_char": 5158,
+            "end_char": 5211,
+            "sentiment": "1 star",
+            "score": 0.6646037101745605
+          },
+          {
+            "begin_char": 5211,
+            "end_char": 5219,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-05",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-05",
+        "pageJO": "3538",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

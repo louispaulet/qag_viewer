@@ -1,0 +1,509 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG216",
+    "identifiant": {
+      "numero": "216",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "entreprises",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "TARIFS DE L'ÉNERGIE POUR LES ENTREPRISES"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA722390",
+        "mandatRef": "PM797214"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Économie, finances, souveraineté industrielle et numérique",
+      "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Économie, finances, souveraineté industrielle et numérique",
+          "developpe": "Ministère de l’économie, des finances et de la souveraineté industrielle et numérique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> TARIFS DE L'ÉNERGIE POUR LES ENTREPRISES <a name=PG23></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Josiane Corneloup.<br><br><strong>Mme Josiane Corneloup. </strong>Monsieur le ministre de l'économie, des finances et de la souveraineté industrielle et numérique, j'ai été interpellée par des dirigeants de TPE et PME de ma circonscription qui sont très inquiets de la situation actuelle. Leur inquiétude est partagée par les 6 millions d'indépendants et dirigeants de très petites, petites et moyennes entreprises (PME-TPE) qui ont peur du lendemain : avec l'explosion des prix de l'énergie, nos petites entreprises sont au bord de la faillite.<br><br>La France produit une électricité à 50 euros le mégawattheure grâce à son parc nucléaire unique en Europe mais les entreprises l'achètent au prix délirant de 600 à 700 euros. Les mécanismes de protection mis en place pour les entreprises par le Gouvernement sont largement insuffisants et les mesures européennes n'en finissent plus de tarder. On ne peut pas dire aux entreprises de ne rien signer, comme l'a dit il y a un mois le Président de la République, ni dénoncer des prix fous à longueur d'interview sans défendre concrètement nos entreprises. <i>(Applaudissements sur les bancs du groupe LR.)</i><br><br>Les mesures proposées actuellement sont insuffisantes. Les TPE sont exclues du dispositif ; seules certaines PME y sont éligibles, selon des critères au demeurant trop complexes. Nous ne pouvons plus attendre : il y va de la survie de nos entreprises et de notre compétitivité nationale. Nous demandons l'extension à toutes les PME et TPE du bénéfice du bouclier tarifaire, avec des critères simples et justes.<i> (M. Olivier Marleix applaudit.)</i><br><br>Par ailleurs, 700 000 TPE-PME ont eu recours au PGE – prêt garanti par l'État –, dispositif qui a pris fin le 30 juin 2022. Un indépendant devra consacrer en moyenne 564 euros par mois à son remboursement, soit plus de 6 % de son chiffre d'affaires pendant quatre ans ; à cela s'ajoute le remboursement des dettes sociales contractées auprès de l'Urssaf, soit au total des mensualités comprises entre 500 et 1 000 euros. La Cour des comptes évalue à 160 000 le nombre d'entreprises très fragilisées par cette situation.<br><br>Monsieur le ministre, il y a urgence : quel dispositif global d'aides comptez-vous mettre en place, et suivant quel calendrier, pour donner à nos entreprises les moyens d'affronter ces chocs successifs ? <i>(Applaudissements sur les bancs du groupe LR et sur quelques bancs du groupe GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.<br><br><strong>M. Bruno Le Maire,</strong><i> ministre de l’économie, des finances et de la souveraineté industrielle et numérique. </i>Je partage votre inquiétude concernant la situation des nombreuses PME confrontées à la hausse du prix de l'électricité et du gaz et dont les factures sont multipliées par deux, trois, cinq, parfois dix, dans des proportions qui sont totalement déraisonnables. Nous avons rassemblé les fournisseurs pour leur demander de proposer à toutes les entreprises des prix raisonnables dans des conditions raisonnables et nous veillons à ce que la charte des fournisseurs soit respectée : comme je l'ai indiqué, le nom de tous ceux qui ne la respecteraient pas – cela arrive encore – sera rendu public.<br><br>En deuxième lieu, nous veillerons à ce que toutes les TPE, soit 1,5 million d'entreprises, aient accès au tarif régulé de l'électricité. Pour les entreprises en situation particulière comme les boulangers, dont nous venons de parler, nous avons mis en place une garantie électricité qui sera précisée par la Première ministre dans les prochaines heures. Cette garantie électricité s'appliquera en 2023 et permettra un allégement direct de la facture d'énergie du fournisseur au client pour toutes les PME, toutes les TPE et tous les indépendants. Les entreprises de taille plus importante qui auraient besoin d'allégements plus significatifs auront droit à un traitement au cas par cas.<br><br>Les entreprises qui se fournissent en gaz – puisque la garantie ne porte que sur l'électricité – pourront se tourner vers le guichet spécifique, qui leur permettra de rembourser une partie de leur facture énergétique. J'ai parfaitement conscience que le guichet, dans sa première version, était infiniment trop compliqué et n'a pas fonctionné. Nous avons demandé un allégement et une simplification des critères à la Commission européenne ; nous les avons obtenus. Le guichet simplifié sera ouvert au 15 novembre avec les critères simplifiés pour protéger les entreprises.<br><br>Je partage vos inquiétudes ; notre réponse sera massive, puissante et efficace. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 29,
+            "label": "MISC",
+            "text": "TARIFS"
+          },
+          {
+            "start_char": 52,
+            "end_char": 63,
+            "label": "MISC",
+            "text": "ENTREPRISES"
+          },
+          {
+            "start_char": 98,
+            "end_char": 101,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 142,
+            "end_char": 179,
+            "label": "PER",
+            "text": "Mme Josiane Corneloup.<br><br><strong"
+          },
+          {
+            "start_char": 180,
+            "end_char": 201,
+            "label": "PER",
+            "text": "Mme Josiane Corneloup"
+          },
+          {
+            "start_char": 212,
+            "end_char": 220,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 353,
+            "end_char": 356,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 562,
+            "end_char": 569,
+            "label": "MISC",
+            "text": "PME-TPE"
+          },
+          {
+            "start_char": 682,
+            "end_char": 708,
+            "label": "MISC",
+            "text": "faillite.<br><br>La France"
+          },
+          {
+            "start_char": 798,
+            "end_char": 804,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 944,
+            "end_char": 956,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1130,
+            "end_char": 1156,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1371,
+            "end_char": 1374,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 1647,
+            "end_char": 1650,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 1730,
+            "end_char": 1745,
+            "label": "PER",
+            "text": "Olivier Marleix"
+          },
+          {
+            "start_char": 1791,
+            "end_char": 1794,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 1817,
+            "end_char": 1820,
+            "label": "ORG",
+            "text": "PGE"
+          },
+          {
+            "start_char": 1842,
+            "end_char": 1846,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2116,
+            "end_char": 2122,
+            "label": "LOC",
+            "text": "Urssaf"
+          },
+          {
+            "start_char": 2193,
+            "end_char": 2209,
+            "label": "ORG",
+            "text": "Cour des comptes"
+          },
+          {
+            "start_char": 2278,
+            "end_char": 2296,
+            "label": "MISC",
+            "text": "situation.<br><br>"
+          },
+          {
+            "start_char": 2296,
+            "end_char": 2304,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2545,
+            "end_char": 2547,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2580,
+            "end_char": 2610,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2611,
+            "end_char": 2614,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2655,
+            "end_char": 2657,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2673,
+            "end_char": 2675,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2765,
+            "end_char": 2770,
+            "label": "PER",
+            "text": "Bruno"
+          },
+          {
+            "start_char": 2805,
+            "end_char": 2807,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3469,
+            "end_char": 3483,
+            "label": "MISC",
+            "text": "public.<br><br"
+          },
+          {
+            "start_char": 3538,
+            "end_char": 3541,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 3792,
+            "end_char": 3800,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4001,
+            "end_char": 4004,
+            "label": "MISC",
+            "text": "TPE"
+          },
+          {
+            "start_char": 4595,
+            "end_char": 4616,
+            "label": "ORG",
+            "text": "Commission européenne"
+          },
+          {
+            "start_char": 4738,
+            "end_char": 4757,
+            "label": "MISC",
+            "text": "entreprises.<br><br"
+          },
+          {
+            "start_char": 4888,
+            "end_char": 4899,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 116,
+            "sentiment": "3 stars",
+            "score": 0.3264768123626709
+          },
+          {
+            "begin_char": 117,
+            "end_char": 202,
+            "sentiment": "3 stars",
+            "score": 0.2550522983074188
+          },
+          {
+            "begin_char": 203,
+            "end_char": 434,
+            "sentiment": "5 stars",
+            "score": 0.478878915309906
+          },
+          {
+            "begin_char": 435,
+            "end_char": 873,
+            "sentiment": "5 stars",
+            "score": 0.38485750555992126
+          },
+          {
+            "begin_char": 874,
+            "end_char": 1042,
+            "sentiment": "2 stars",
+            "score": 0.40981316566467285
+          },
+          {
+            "begin_char": 1043,
+            "end_char": 1250,
+            "sentiment": "1 star",
+            "score": 0.6113857626914978
+          },
+          {
+            "begin_char": 1251,
+            "end_char": 1312,
+            "sentiment": "4 stars",
+            "score": 0.31302621960639954
+          },
+          {
+            "begin_char": 1312,
+            "end_char": 1366,
+            "sentiment": "2 stars",
+            "score": 0.433772474527359
+          },
+          {
+            "begin_char": 1367,
+            "end_char": 1403,
+            "sentiment": "3 stars",
+            "score": 0.2899152934551239
+          },
+          {
+            "begin_char": 1404,
+            "end_char": 1490,
+            "sentiment": "3 stars",
+            "score": 0.4330819547176361
+          },
+          {
+            "begin_char": 1491,
+            "end_char": 1599,
+            "sentiment": "5 stars",
+            "score": 0.7505683898925781
+          },
+          {
+            "begin_char": 1600,
+            "end_char": 1892,
+            "sentiment": "5 stars",
+            "score": 0.49319007992744446
+          },
+          {
+            "begin_char": 1893,
+            "end_char": 2038,
+            "sentiment": "3 stars",
+            "score": 0.3148276209831238
+          },
+          {
+            "begin_char": 2039,
+            "end_char": 2189,
+            "sentiment": "3 stars",
+            "score": 0.33222806453704834
+          },
+          {
+            "begin_char": 2190,
+            "end_char": 2296,
+            "sentiment": "3 stars",
+            "score": 0.3191738426685333
+          },
+          {
+            "begin_char": 2296,
+            "end_char": 2499,
+            "sentiment": "5 stars",
+            "score": 0.5098218321800232
+          },
+          {
+            "begin_char": 2500,
+            "end_char": 2629,
+            "sentiment": "4 stars",
+            "score": 0.3120148479938507
+          },
+          {
+            "begin_char": 2630,
+            "end_char": 2792,
+            "sentiment": "4 stars",
+            "score": 0.3296317458152771
+          },
+          {
+            "begin_char": 2793,
+            "end_char": 2878,
+            "sentiment": "5 stars",
+            "score": 0.3489697575569153
+          },
+          {
+            "begin_char": 2879,
+            "end_char": 3143,
+            "sentiment": "3 stars",
+            "score": 0.27274852991104126
+          },
+          {
+            "begin_char": 3144,
+            "end_char": 3620,
+            "sentiment": "5 stars",
+            "score": 0.5974030494689941
+          },
+          {
+            "begin_char": 3621,
+            "end_char": 3837,
+            "sentiment": "5 stars",
+            "score": 0.4291522800922394
+          },
+          {
+            "begin_char": 3838,
+            "end_char": 4030,
+            "sentiment": "5 stars",
+            "score": 0.6339029669761658
+          },
+          {
+            "begin_char": 4031,
+            "end_char": 4178,
+            "sentiment": "4 stars",
+            "score": 0.3816494345664978
+          },
+          {
+            "begin_char": 4178,
+            "end_char": 4395,
+            "sentiment": "3 stars",
+            "score": 0.26825329661369324
+          },
+          {
+            "begin_char": 4396,
+            "end_char": 4521,
+            "sentiment": "1 star",
+            "score": 0.43281084299087524
+          },
+          {
+            "begin_char": 4522,
+            "end_char": 4618,
+            "sentiment": "4 stars",
+            "score": 0.2726423144340515
+          },
+          {
+            "begin_char": 4619,
+            "end_char": 4642,
+            "sentiment": "5 stars",
+            "score": 0.345873087644577
+          },
+          {
+            "begin_char": 4643,
+            "end_char": 4758,
+            "sentiment": "5 stars",
+            "score": 0.3074767291545868
+          },
+          {
+            "begin_char": 4758,
+            "end_char": 4786,
+            "sentiment": "4 stars",
+            "score": 0.32720714807510376
+          },
+          {
+            "begin_char": 4787,
+            "end_char": 4837,
+            "sentiment": "5 stars",
+            "score": 0.6616681218147278
+          },
+          {
+            "begin_char": 4838,
+            "end_char": 4900,
+            "sentiment": "3 stars",
+            "score": 0.3159869611263275
+          },
+          {
+            "begin_char": 4901,
+            "end_char": 4904,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-26",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-26",
+        "pageJO": "4570",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

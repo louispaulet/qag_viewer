@@ -1,0 +1,707 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG192",
+    "identifiant": {
+      "numero": "192",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enfants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PROTECTION DE L'ENFANCE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794094",
+        "mandatRef": "PM796710"
+      },
+      "groupe": {
+        "organeRef": "PO800496",
+        "abrege": "SOC",
+        "developpe": "Socialistes et apparentés (membre de l’intergroupe NUPES)"
+      }
+    },
+    "minInt": {
+      "abrege": "Ville et logement",
+      "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de la ville et du logement"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Ville et logement",
+          "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de la ville et du logement"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PROTECTION DE L'ENFANCE <a name=PG27></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Mickaël Bouloux.<br><br><strong>M. Mickaël Bouloux. </strong>Madame la Première ministre, hier, à Paris, Lyon, Clermont-Ferrand, Rennes, Grenoble, Strasbourg, en Seine-Saint-Denis et ailleurs en France, 2 000 enfants ont dormi dehors, à la rue, et les mots du Président de la République en 2017 résonnent cruellement aujourd'hui : « Je ne veux plus, d'ici la fin de l'année, avoir des femmes et des hommes dans la rue, dans les bois ou perdus. C'est une question de dignité », avait-il dit. Cinq ans après, c'est un drame qui se joue encore et encore au quotidien, sous nos yeux et avec des conséquences terribles pour les enfants.<br><br>Notre pays, pourtant signataire de la Convention internationale des droits de l'enfant, se met quotidiennement en situation d'illégalité, en laissant chaque soir ces 2 000 enfants sans logement. <i>(Applaudissements sur plusieurs bancs des groupes SOC, LFI-NUPES, Écolo-NUPES et GDR-NUPES.) </i>L'hébergement d'urgence relève en effet des compétences de l'État. Mais où est l'État ? À Rennes, ville de ma circonscription, la municipalité tente de pallier la non-réponse de l'État, hors de ses compétences et à ses propres frais. Mais il reste des dizaines d'enfants à la rue, qui attendent l'action de l'État.<br><br>Avec plusieurs collègues députés, dont une députée de votre majorité, nous avons signé à l'initiative de la Fondation Abbé-Pierre une tribune qui appelle à mettre fin au scandale des enfants à la rue. Je vous invite toutes et tous à la découvrir. <i>(Mêmes mouvements.) </i>Les collectivités territoriales et le monde associatif sont les rustines d'un État défaillant qui, de surcroît, prévoit de supprimer 14 000 places d'hébergement d'urgence dans le projet de loi de finances pour 2023. (Mêmes mouvements.)<br><br>Madame la Première ministre, il faut agir immédiatement. Quelles actions comptez-vous entreprendre ? Allez-vous rétablir les 14 000 places d'hébergement d'urgence dans le projet de loi de finances ? Le groupe des députés Socialistes et apparentés a déposé plusieurs amendements en ce sens. Allez-vous les accepter ? <i>(« Bravo ! » et applaudissements sur les bancs du groupe SOC et sur plusieurs bancs du groupe Écolo-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé de la ville et du logement.<br><br><strong>M. Pierre Cordier.</strong> Un ancien socialiste !<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué chargé de la ville et du logement. </i>Vous avez raison, monsieur le député, la situation des enfants à la rue et sans domicile est insupportable et nous ne l'acceptons pas plus que vous. Cette situation n'est pas due à une reprise des expulsions locatives ; elle n'est pas due non plus à une diminution des places en hébergement d'urgence, puisqu'il y avait, hier soir encore, 197 500 places en France, soit plus de 60 000 places supplémentaires par rapport à 2017.<br><br><strong>Mme Marie-Charlotte Garin.</strong> Pourquoi y a-t-il des enfants dehors, alors ?<br><br><strong>M. Olivier Klein,</strong><i> ministre délégué. </i>Jamais un effort aussi important en faveur de l'hébergement d'urgence n'avait été fait depuis longtemps. <i>(M. Rémy Rebeyrotte applaudit.)</i> La situation étant absolument insupportable, nous recevrons à nouveau les associations dès demain matin, avec la secrétaire d'État Charlotte Caubel, afin d'essayer de trouver une solution pour chacun de ces enfants. Nous avions déjà rencontré les responsables de ces associations lors de la rentrée scolaire et leur avions alors demandé de nous signaler l'ensemble des cas. Dans le même but, j'ai aussi de nouveau demandé aux préfets de recenser les cas connus, afin que nous trouvions des solutions dans les territoires concernés, et, plus globalement, partout dans le pays car, vous le savez, ce problème ne peut pas se régler à l'échelle des grandes métropoles mais bien à l'échelle nationale.<br><br>Notre priorité comme la vôtre, monsieur le député, c'est le passage de la rue au logement, au travers du plan pour le logement d’abord et la lutte contre le sans-abrisme. Nous continuerons, avec le Gouvernement, à soutenir ce dispositif très important qui nous permettra de poursuivre notre lutte contre la très grande précarité.<br><br><strong>Mme Fatiha Keloua Hachi.</strong> Quatorze mille places !<br><br><strong>Mme la présidente. </strong>La parole est à M. Mickaël Bouloux.<br><br><strong>M. Mickaël Bouloux. </strong>Il y a urgence, merci d'agir. <i>(Applaudissements sur plusieurs bancs des groupes SOC et Écolo-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 39,
+            "end_char": 46,
+            "label": "ORG",
+            "text": "ENFANCE"
+          },
+          {
+            "start_char": 81,
+            "end_char": 84,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 125,
+            "end_char": 159,
+            "label": "PER",
+            "text": "M. Mickaël Bouloux.<br><br><strong"
+          },
+          {
+            "start_char": 163,
+            "end_char": 178,
+            "label": "PER",
+            "text": "Mickaël Bouloux"
+          },
+          {
+            "start_char": 189,
+            "end_char": 207,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 226,
+            "end_char": 231,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 233,
+            "end_char": 237,
+            "label": "LOC",
+            "text": "Lyon"
+          },
+          {
+            "start_char": 239,
+            "end_char": 255,
+            "label": "LOC",
+            "text": "Clermont-Ferrand"
+          },
+          {
+            "start_char": 257,
+            "end_char": 263,
+            "label": "LOC",
+            "text": "Rennes"
+          },
+          {
+            "start_char": 265,
+            "end_char": 273,
+            "label": "LOC",
+            "text": "Grenoble"
+          },
+          {
+            "start_char": 275,
+            "end_char": 285,
+            "label": "LOC",
+            "text": "Strasbourg"
+          },
+          {
+            "start_char": 290,
+            "end_char": 307,
+            "label": "LOC",
+            "text": "Seine-Saint-Denis"
+          },
+          {
+            "start_char": 323,
+            "end_char": 329,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 388,
+            "end_char": 414,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 751,
+            "end_char": 766,
+            "label": "MISC",
+            "text": "enfants.<br><br"
+          },
+          {
+            "start_char": 805,
+            "end_char": 853,
+            "label": "ORG",
+            "text": "Convention internationale des droits de l'enfant"
+          },
+          {
+            "start_char": 1015,
+            "end_char": 1018,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 1020,
+            "end_char": 1029,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1031,
+            "end_char": 1042,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 1046,
+            "end_char": 1055,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 1123,
+            "end_char": 1127,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1143,
+            "end_char": 1147,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1152,
+            "end_char": 1158,
+            "label": "LOC",
+            "text": "Rennes"
+          },
+          {
+            "start_char": 1242,
+            "end_char": 1246,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1492,
+            "end_char": 1513,
+            "label": "LOC",
+            "text": "Fondation Abbé-Pierre"
+          },
+          {
+            "start_char": 1736,
+            "end_char": 1740,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1875,
+            "end_char": 1880,
+            "label": "LOC",
+            "text": "Mêmes"
+          },
+          {
+            "start_char": 1901,
+            "end_char": 1919,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 2002,
+            "end_char": 2007,
+            "label": "LOC",
+            "text": "Allez"
+          },
+          {
+            "start_char": 2122,
+            "end_char": 2133,
+            "label": "ORG",
+            "text": "Socialistes"
+          },
+          {
+            "start_char": 2223,
+            "end_char": 2228,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 2277,
+            "end_char": 2280,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2314,
+            "end_char": 2346,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2347,
+            "end_char": 2350,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2391,
+            "end_char": 2393,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2467,
+            "end_char": 2490,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 2530,
+            "end_char": 2540,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2973,
+            "end_char": 2979,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 3059,
+            "end_char": 3094,
+            "label": "PER",
+            "text": "Mme Marie-Charlotte Garin.</strong>"
+          },
+          {
+            "start_char": 3156,
+            "end_char": 3166,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3320,
+            "end_char": 3324,
+            "label": "LOC",
+            "text": "Rémy"
+          },
+          {
+            "start_char": 3478,
+            "end_char": 3482,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3483,
+            "end_char": 3499,
+            "label": "PER",
+            "text": "Charlotte Caubel"
+          },
+          {
+            "start_char": 4038,
+            "end_char": 4055,
+            "label": "MISC",
+            "text": "nationale.<br><br"
+          },
+          {
+            "start_char": 4254,
+            "end_char": 4266,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4401,
+            "end_char": 4418,
+            "label": "PER",
+            "text": "Mme Fatiha Keloua"
+          },
+          {
+            "start_char": 4474,
+            "end_char": 4477,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4518,
+            "end_char": 4552,
+            "label": "PER",
+            "text": "M. Mickaël Bouloux.<br><br><strong"
+          },
+          {
+            "start_char": 4556,
+            "end_char": 4571,
+            "label": "PER",
+            "text": "Mickaël Bouloux"
+          },
+          {
+            "start_char": 4665,
+            "end_char": 4668,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 4672,
+            "end_char": 4692,
+            "label": "MISC",
+            "text": "Écolo-NUPES.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 99,
+            "sentiment": "3 stars",
+            "score": 0.27536657452583313
+          },
+          {
+            "begin_char": 100,
+            "end_char": 179,
+            "sentiment": "4 stars",
+            "score": 0.27044832706451416
+          },
+          {
+            "begin_char": 180,
+            "end_char": 189,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 189,
+            "end_char": 461,
+            "sentiment": "5 stars",
+            "score": 0.6314230561256409
+          },
+          {
+            "begin_char": 461,
+            "end_char": 571,
+            "sentiment": "1 star",
+            "score": 0.4767003655433655
+          },
+          {
+            "begin_char": 572,
+            "end_char": 618,
+            "sentiment": "4 stars",
+            "score": 0.2647736668586731
+          },
+          {
+            "begin_char": 619,
+            "end_char": 853,
+            "sentiment": "5 stars",
+            "score": 0.4349251389503479
+          },
+          {
+            "begin_char": 853,
+            "end_char": 961,
+            "sentiment": "1 star",
+            "score": 0.5061794519424438
+          },
+          {
+            "begin_char": 962,
+            "end_char": 1056,
+            "sentiment": "4 stars",
+            "score": 0.3450133800506592
+          },
+          {
+            "begin_char": 1056,
+            "end_char": 1057,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 1058,
+            "end_char": 1092,
+            "sentiment": "3 stars",
+            "score": 0.30799973011016846
+          },
+          {
+            "begin_char": 1093,
+            "end_char": 1127,
+            "sentiment": "4 stars",
+            "score": 0.33870720863342285
+          },
+          {
+            "begin_char": 1127,
+            "end_char": 1128,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 1129,
+            "end_char": 1149,
+            "sentiment": "5 stars",
+            "score": 0.22158722579479218
+          },
+          {
+            "begin_char": 1150,
+            "end_char": 1295,
+            "sentiment": "1 star",
+            "score": 0.2615905702114105
+          },
+          {
+            "begin_char": 1296,
+            "end_char": 1384,
+            "sentiment": "5 stars",
+            "score": 0.27671217918395996
+          },
+          {
+            "begin_char": 1384,
+            "end_char": 1584,
+            "sentiment": "5 stars",
+            "score": 0.5076156854629517
+          },
+          {
+            "begin_char": 1585,
+            "end_char": 1630,
+            "sentiment": "5 stars",
+            "score": 0.680776059627533
+          },
+          {
+            "begin_char": 1631,
+            "end_char": 1652,
+            "sentiment": "3 stars",
+            "score": 0.2835439443588257
+          },
+          {
+            "begin_char": 1652,
+            "end_char": 1653,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 1654,
+            "end_char": 1658,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 1658,
+            "end_char": 1873,
+            "sentiment": "1 star",
+            "score": 0.4056788682937622
+          },
+          {
+            "begin_char": 1874,
+            "end_char": 1957,
+            "sentiment": "5 stars",
+            "score": 0.3801012337207794
+          },
+          {
+            "begin_char": 1958,
+            "end_char": 2001,
+            "sentiment": "4 stars",
+            "score": 0.2638756334781647
+          },
+          {
+            "begin_char": 2002,
+            "end_char": 2099,
+            "sentiment": "5 stars",
+            "score": 0.2519228756427765
+          },
+          {
+            "begin_char": 2100,
+            "end_char": 2190,
+            "sentiment": "4 stars",
+            "score": 0.3682011365890503
+          },
+          {
+            "begin_char": 2191,
+            "end_char": 2216,
+            "sentiment": "1 star",
+            "score": 0.39272618293762207
+          },
+          {
+            "begin_char": 2217,
+            "end_char": 2365,
+            "sentiment": "5 stars",
+            "score": 0.43880513310432434
+          },
+          {
+            "begin_char": 2366,
+            "end_char": 2491,
+            "sentiment": "4 stars",
+            "score": 0.3004748523235321
+          },
+          {
+            "begin_char": 2492,
+            "end_char": 2514,
+            "sentiment": "4 stars",
+            "score": 0.22162410616874695
+          },
+          {
+            "begin_char": 2514,
+            "end_char": 2611,
+            "sentiment": "3 stars",
+            "score": 0.3029087483882904
+          },
+          {
+            "begin_char": 2612,
+            "end_char": 2764,
+            "sentiment": "1 star",
+            "score": 0.22979198396205902
+          },
+          {
+            "begin_char": 2765,
+            "end_char": 2835,
+            "sentiment": "3 stars",
+            "score": 0.3494018316268921
+          },
+          {
+            "begin_char": 2836,
+            "end_char": 3094,
+            "sentiment": "3 stars",
+            "score": 0.37515023350715637
+          },
+          {
+            "begin_char": 3095,
+            "end_char": 3140,
+            "sentiment": "1 star",
+            "score": 0.32887977361679077
+          },
+          {
+            "begin_char": 3140,
+            "end_char": 3203,
+            "sentiment": "3 stars",
+            "score": 0.27910318970680237
+          },
+          {
+            "begin_char": 3204,
+            "end_char": 3312,
+            "sentiment": "5 stars",
+            "score": 0.3466055393218994
+          },
+          {
+            "begin_char": 3313,
+            "end_char": 3320,
+            "sentiment": "3 stars",
+            "score": 0.32702264189720154
+          },
+          {
+            "begin_char": 3320,
+            "end_char": 3351,
+            "sentiment": "4 stars",
+            "score": 0.3105921447277069
+          },
+          {
+            "begin_char": 3352,
+            "end_char": 3567,
+            "sentiment": "5 stars",
+            "score": 0.3114161491394043
+          },
+          {
+            "begin_char": 3568,
+            "end_char": 3725,
+            "sentiment": "2 stars",
+            "score": 0.25373491644859314
+          },
+          {
+            "begin_char": 3726,
+            "end_char": 4056,
+            "sentiment": "5 stars",
+            "score": 0.42523810267448425
+          },
+          {
+            "begin_char": 4056,
+            "end_char": 4226,
+            "sentiment": "5 stars",
+            "score": 0.6238072514533997
+          },
+          {
+            "begin_char": 4227,
+            "end_char": 4434,
+            "sentiment": "5 stars",
+            "score": 0.5798707604408264
+          },
+          {
+            "begin_char": 4435,
+            "end_char": 4458,
+            "sentiment": "5 stars",
+            "score": 0.4339812695980072
+          },
+          {
+            "begin_char": 4458,
+            "end_char": 4492,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 4493,
+            "end_char": 4572,
+            "sentiment": "4 stars",
+            "score": 0.27044832706451416
+          },
+          {
+            "begin_char": 4573,
+            "end_char": 4582,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 4582,
+            "end_char": 4611,
+            "sentiment": "1 star",
+            "score": 0.2866230905056
+          },
+          {
+            "begin_char": 4612,
+            "end_char": 4697,
+            "sentiment": "3 stars",
+            "score": 0.32292693853378296
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-20",
+        "pageJO": "4322",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

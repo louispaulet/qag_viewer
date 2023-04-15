@@ -1,0 +1,719 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG31",
+    "identifiant": {
+      "numero": "31",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Gestion du gaz"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794538",
+        "mandatRef": "PM796977"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition énergétique",
+      "developpe": "Ministère de la transition énergétique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition énergétique",
+          "developpe": "Ministère de la transition énergétique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> GESTION DU GAZ <a name=PG4></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Thibaut François.<br><br><strong>M. Thibaut François. </strong>Madame la ministre de l'Europe et des affaires étrangères, le 12 juillet, nous avons appris dans <i>La Tribune</i> que le Gouvernement était prêt à livrer du gaz à l'Allemagne au nom d'une prétendue solidarité européenne.<br><br>Au moment où des millions de familles ne peuvent plus utiliser leur voiture, ne se chauffent plus correctement et doivent faire face à une augmentation des prix alimentaires, vous vous pliez aux règles dictées par l'Allemagne et par l'Union européenne. <br><br>D'après l'INSEE, dans ma circonscription, le Douaisis, plus de 80 % des ménages utilisent leur voiture quotidiennement pour se rendre sur leur lieu de travail. Loin de votre déconnexion, « ces gens-là », comme vous dites, souffrent chaque jour et doivent limiter leurs déplacements à cause des carburants qui atteignent des prix délirants.<br><br>Les folies du Gouvernement n'ont plus de limites. Nous sommes à peine en suffisance énergétique, au point que vous êtes contraints de rouvrir des centrales à charbon. Vous arrivez même à exploser les quotas d'émission de CO2 que vous vous étiez vous-mêmes fixés. Vous abandonnez une fois de plus un pan de notre souveraineté et de notre indépendance en vous pliant au modèle allemand, pour des raisons que nous ignorons tous.<br><br>Encore une fois, vous et le Gouvernement, vous êtes totalement déconnectés des attentes et des réalités des Français : notre énergie nous coûte une fortune, vous la vendez à nos voisins ; vous imposez à des pays belligérants des sanctions dont seuls les Français souffrent.<br><br>Mes questions sont les suivantes : comment allez-vous pallier le manque de gaz pour les Français à l'autonome et à l'hiver prochains ? Confirmez-vous que le Gouvernement envisage de livrer du gaz à l'Allemagne, alors que vous n'avez même pas l'assurance d'en avoir suffisamment pour les Français ? <i>(Applaudissements sur les bancs du groupe RN.)</i> <br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre de la transition énergétique.<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre de la transition énergétique. </i>Merci de poser cette question, bien qu'elle soit pour le moins confuse et mette le doute dans l'esprit des Français. La réalité, c'est que le Gouvernement a d'abord protégé ces derniers s'agissant des coûts des énergies. <i>(Applaudissements sur quelques bancs du groupe Dem.)</i> Cette protection représente 30 milliards, qui vont directement dans leur poche. Vos propositions ne sont pas à la maille de cet effort, fourni depuis l'automne dernier.<br><br><strong>M. Jocelyn Dessigny.</strong> Vous le direz aux Français quand ils ne pourront pas se chauffer cet hiver !<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre. </i>S'agissant des exportations et des importations d'énergie, je rappelle que, grâce au marché européen, nous bénéficions, quarante jours par an, de la livraison d'électricité par nos voisins européens.<br><br><strong>Mme Marine Le Pen.</strong> À cause de vous !<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre . </i>Votre proposition consiste-t-elle à provoquer un black-out pour les Français, en refusant l'électricité européenne ? C'est très exactement cette solidarité européenne en matière d'énergie qui nous permet de livrer du gaz, dont nous disposons actuellement, si les Allemands en ont besoin.<br><br><strong>M. Jocelyn Dessigny.</strong> Vous direz ça aux Français cet hiver, quand ils ne pourront plus se chauffer !<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre . </i>Je rappelle également, car vous avez l'air de l'ignorer, que si l'industrie allemande s'effondre, c'est l'ensemble de l'industrie européenne qui s'effondrera, et le cortège d'emplois qui va avec. (Applaudissements sur plusieurs bancs du groupe RE.)<br><br><strong>M. Jean-Philippe Tanguy.</strong> Ça, c'est sûr ! Quel aveu !<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre . </i>Vous êtes du Douaisis : connaissez-vous les filières industrielles qui font fonctionner les entreprises industrielles du Douaisis, qui dépendent notamment d'entreprises allemandes ? Foin de démagogie : nous avons créé des stocks énergétiques pour faire face aux ruptures d'approvisionnement de gaz, nous avons un plan, nous serons prêts. <i>(Applaudissements sur les bancs du groupe RE. – Protestations sur les bancs du groupe RN.)</i><br><br><strong>Un député du groupe RN .</strong> C'est nul !<br> <p>",
+        "entities": [
+          {
+            "start_char": 34,
+            "end_char": 37,
+            "label": "ORG",
+            "text": "GAZ"
+          },
+          {
+            "start_char": 46,
+            "end_char": 53,
+            "label": "MISC",
+            "text": "PG4></a"
+          },
+          {
+            "start_char": 71,
+            "end_char": 74,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 115,
+            "end_char": 125,
+            "label": "PER",
+            "text": "M. Thibaut"
+          },
+          {
+            "start_char": 154,
+            "end_char": 170,
+            "label": "PER",
+            "text": "Thibaut François"
+          },
+          {
+            "start_char": 181,
+            "end_char": 187,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 191,
+            "end_char": 211,
+            "label": "ORG",
+            "text": "ministre de l'Europe"
+          },
+          {
+            "start_char": 303,
+            "end_char": 315,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 347,
+            "end_char": 356,
+            "label": "LOC",
+            "text": "Allemagne"
+          },
+          {
+            "start_char": 391,
+            "end_char": 409,
+            "label": "MISC",
+            "text": "européenne.<br><br"
+          },
+          {
+            "start_char": 626,
+            "end_char": 635,
+            "label": "LOC",
+            "text": "Allemagne"
+          },
+          {
+            "start_char": 645,
+            "end_char": 661,
+            "label": "ORG",
+            "text": "Union européenne"
+          },
+          {
+            "start_char": 681,
+            "end_char": 686,
+            "label": "ORG",
+            "text": "INSEE"
+          },
+          {
+            "start_char": 716,
+            "end_char": 724,
+            "label": "LOC",
+            "text": "Douaisis"
+          },
+          {
+            "start_char": 1000,
+            "end_char": 1017,
+            "label": "MISC",
+            "text": "délirants.<br><br"
+          },
+          {
+            "start_char": 1032,
+            "end_char": 1044,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1438,
+            "end_char": 1450,
+            "label": "MISC",
+            "text": "tous.<br><br"
+          },
+          {
+            "start_char": 1479,
+            "end_char": 1491,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1559,
+            "end_char": 1567,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1705,
+            "end_char": 1713,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1714,
+            "end_char": 1731,
+            "label": "MISC",
+            "text": "souffrent.<br><br"
+          },
+          {
+            "start_char": 1732,
+            "end_char": 1745,
+            "label": "MISC",
+            "text": "Mes questions"
+          },
+          {
+            "start_char": 1820,
+            "end_char": 1828,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1867,
+            "end_char": 1876,
+            "label": "LOC",
+            "text": "Confirmez"
+          },
+          {
+            "start_char": 1889,
+            "end_char": 1901,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1932,
+            "end_char": 1941,
+            "label": "LOC",
+            "text": "Allemagne"
+          },
+          {
+            "start_char": 2019,
+            "end_char": 2027,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2075,
+            "end_char": 2082,
+            "label": "ORG",
+            "text": "RN.)</i"
+          },
+          {
+            "start_char": 2100,
+            "end_char": 2103,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2144,
+            "end_char": 2147,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2205,
+            "end_char": 2222,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 2288,
+            "end_char": 2293,
+            "label": "MISC",
+            "text": "Merci"
+          },
+          {
+            "start_char": 2395,
+            "end_char": 2403,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2430,
+            "end_char": 2442,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2559,
+            "end_char": 2567,
+            "label": "ORG",
+            "text": "Dem.)</i"
+          },
+          {
+            "start_char": 2756,
+            "end_char": 2782,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong>"
+          },
+          {
+            "start_char": 2801,
+            "end_char": 2809,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2875,
+            "end_char": 2892,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 2915,
+            "end_char": 2923,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3144,
+            "end_char": 3170,
+            "label": "PER",
+            "text": "Mme Marine Le Pen.</strong"
+          },
+          {
+            "start_char": 3205,
+            "end_char": 3222,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 3245,
+            "end_char": 3253,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3328,
+            "end_char": 3336,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3523,
+            "end_char": 3532,
+            "label": "LOC",
+            "text": "Allemands"
+          },
+          {
+            "start_char": 3566,
+            "end_char": 3603,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong> Vous direz"
+          },
+          {
+            "start_char": 3611,
+            "end_char": 3619,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3687,
+            "end_char": 3704,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 3727,
+            "end_char": 3735,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3939,
+            "end_char": 3955,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 3986,
+            "end_char": 4005,
+            "label": "ORG",
+            "text": "RE.)<br><br><strong"
+          },
+          {
+            "start_char": 4009,
+            "end_char": 4038,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong"
+          },
+          {
+            "start_char": 4040,
+            "end_char": 4042,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 4083,
+            "end_char": 4100,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 4123,
+            "end_char": 4131,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4151,
+            "end_char": 4159,
+            "label": "PER",
+            "text": "Douaisis"
+          },
+          {
+            "start_char": 4259,
+            "end_char": 4267,
+            "label": "LOC",
+            "text": "Douaisis"
+          },
+          {
+            "start_char": 4514,
+            "end_char": 4523,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4565,
+            "end_char": 4588,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4609,
+            "end_char": 4611,
+            "label": "ORG",
+            "text": "RN"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 89,
+            "sentiment": "3 stars",
+            "score": 0.2775462567806244
+          },
+          {
+            "begin_char": 90,
+            "end_char": 171,
+            "sentiment": "3 stars",
+            "score": 0.2672673463821411
+          },
+          {
+            "begin_char": 172,
+            "end_char": 662,
+            "sentiment": "5 stars",
+            "score": 0.2642011344432831
+          },
+          {
+            "begin_char": 663,
+            "end_char": 687,
+            "sentiment": "3 stars",
+            "score": 0.3170277774333954
+          },
+          {
+            "begin_char": 688,
+            "end_char": 829,
+            "sentiment": "4 stars",
+            "score": 0.30834558606147766
+          },
+          {
+            "begin_char": 829,
+            "end_char": 830,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 831,
+            "end_char": 1018,
+            "sentiment": "5 stars",
+            "score": 0.3639710545539856
+          },
+          {
+            "begin_char": 1018,
+            "end_char": 1067,
+            "sentiment": "5 stars",
+            "score": 0.5242202877998352
+          },
+          {
+            "begin_char": 1068,
+            "end_char": 1184,
+            "sentiment": "1 star",
+            "score": 0.44150716066360474
+          },
+          {
+            "begin_char": 1185,
+            "end_char": 1280,
+            "sentiment": "1 star",
+            "score": 0.3127063512802124
+          },
+          {
+            "begin_char": 1281,
+            "end_char": 1638,
+            "sentiment": "1 star",
+            "score": 0.6284022927284241
+          },
+          {
+            "begin_char": 1639,
+            "end_char": 1732,
+            "sentiment": "5 stars",
+            "score": 0.25510916113853455
+          },
+          {
+            "begin_char": 1732,
+            "end_char": 1766,
+            "sentiment": "4 stars",
+            "score": 0.2860587239265442
+          },
+          {
+            "begin_char": 1767,
+            "end_char": 1866,
+            "sentiment": "5 stars",
+            "score": 0.2477380335330963
+          },
+          {
+            "begin_char": 1867,
+            "end_char": 2029,
+            "sentiment": "1 star",
+            "score": 0.5822957158088684
+          },
+          {
+            "begin_char": 2030,
+            "end_char": 2118,
+            "sentiment": "4 stars",
+            "score": 0.31437042355537415
+          },
+          {
+            "begin_char": 2119,
+            "end_char": 2244,
+            "sentiment": "3 stars",
+            "score": 0.28279468417167664
+          },
+          {
+            "begin_char": 2245,
+            "end_char": 2283,
+            "sentiment": "4 stars",
+            "score": 0.3457353115081787
+          },
+          {
+            "begin_char": 2284,
+            "end_char": 2288,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2288,
+            "end_char": 2404,
+            "sentiment": "3 stars",
+            "score": 0.3038187325000763
+          },
+          {
+            "begin_char": 2405,
+            "end_char": 2415,
+            "sentiment": "5 stars",
+            "score": 0.37434902787208557
+          },
+          {
+            "begin_char": 2415,
+            "end_char": 2508,
+            "sentiment": "3 stars",
+            "score": 0.27828556299209595
+          },
+          {
+            "begin_char": 2509,
+            "end_char": 2568,
+            "sentiment": "3 stars",
+            "score": 0.3119572699069977
+          },
+          {
+            "begin_char": 2569,
+            "end_char": 2648,
+            "sentiment": "1 star",
+            "score": 0.3457745313644409
+          },
+          {
+            "begin_char": 2649,
+            "end_char": 2782,
+            "sentiment": "2 stars",
+            "score": 0.40558838844299316
+          },
+          {
+            "begin_char": 2783,
+            "end_char": 2859,
+            "sentiment": "1 star",
+            "score": 0.23841701447963715
+          },
+          {
+            "begin_char": 2859,
+            "end_char": 2924,
+            "sentiment": "3 stars",
+            "score": 0.29715052247047424
+          },
+          {
+            "begin_char": 2925,
+            "end_char": 3189,
+            "sentiment": "5 stars",
+            "score": 0.2365320771932602
+          },
+          {
+            "begin_char": 3189,
+            "end_char": 3255,
+            "sentiment": "3 stars",
+            "score": 0.31557586789131165
+          },
+          {
+            "begin_char": 3256,
+            "end_char": 3260,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3260,
+            "end_char": 3376,
+            "sentiment": "1 star",
+            "score": 0.3961178660392761
+          },
+          {
+            "begin_char": 3377,
+            "end_char": 3671,
+            "sentiment": "5 stars",
+            "score": 0.5463290810585022
+          },
+          {
+            "begin_char": 3671,
+            "end_char": 3737,
+            "sentiment": "3 stars",
+            "score": 0.31557586789131165
+          },
+          {
+            "begin_char": 3738,
+            "end_char": 3742,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3742,
+            "end_char": 3939,
+            "sentiment": "5 stars",
+            "score": 0.3115236163139343
+          },
+          {
+            "begin_char": 3939,
+            "end_char": 4039,
+            "sentiment": "3 stars",
+            "score": 0.3439480662345886
+          },
+          {
+            "begin_char": 4040,
+            "end_char": 4055,
+            "sentiment": "4 stars",
+            "score": 0.29369625449180603
+          },
+          {
+            "begin_char": 4056,
+            "end_char": 4067,
+            "sentiment": "5 stars",
+            "score": 0.3401557505130768
+          },
+          {
+            "begin_char": 4067,
+            "end_char": 4133,
+            "sentiment": "3 stars",
+            "score": 0.31557586789131165
+          },
+          {
+            "begin_char": 4134,
+            "end_char": 4319,
+            "sentiment": "3 stars",
+            "score": 0.32898035645484924
+          },
+          {
+            "begin_char": 4320,
+            "end_char": 4475,
+            "sentiment": "1 star",
+            "score": 0.7295210957527161
+          },
+          {
+            "begin_char": 4476,
+            "end_char": 4622,
+            "sentiment": "3 stars",
+            "score": 0.36012622714042664
+          },
+          {
+            "begin_char": 4623,
+            "end_char": 4634,
+            "sentiment": "1 star",
+            "score": 0.9339053630828857
+          },
+          {
+            "begin_char": 4634,
+            "end_char": 4642,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-20",
+        "pageJO": "2512",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,821 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG183",
+    "identifiant": {
+      "numero": "183",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "syndicats",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "DROIT DE GRÈVE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795466",
+        "mandatRef": "PM797499"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> DROIT DE GRÈVE <a name=PG18></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Ersilia Soudais.<br><br><strong>Mme Ersilia Soudais. </strong>Dès 2017, les ordonnances dites Macron avaient fortement réduit la capacité d'action des syndicats et les droits des salariés : destruction des comités d’hygiène, de sécurité et des conditions de travail (CHSCT), recul du paritarisme, barèmes des indemnités prud'homales… Cinq ans après, le ton n'a pas changé, et malheur à qui ose résister en faisant grève.<br><br>C'est ce qu'illustre le traitement honteux réservé à Kai Terada, professeur de mathématiques au lycée Joliot-Curie de Nanterre. <i>(Applaudissements sur les bancs du groupe LFI-NUPES, ainsi que sur quelques bancs des groupes Écolo-NUPES et GDR-NUPES.)</i> Syndicaliste chez SUD éducation, il a été suspendu à la rentrée, puis muté d'office dans un établissement situé à une heure de son établissement d'origine. Dans un communiqué du 24 septembre, la rectrice, proche d'Emmanuel Macron, a présenté cette mutation comme visant à « reconstruire un climat apaisé » au lycée Joliot-Curie. Résultat : des échauffourées devant le lycée toute la semaine, quatorze lycéens en garde à vue et des tirs de mortier encore hier matin. Quel succès ! (Applaudissements sur les bancs du groupe LFI-NUPES. – Exclamations sur les bancs des groupes RN et LR.)<br><br>Comment ne pas être révoltés également par la situation d'agents CGT de Réseau de transport d'électricité (RTE) qui, pour avoir fait grève, ont été mis à pied, arrêtés à leur domicile par la direction générale de la sécurité intérieure (DGSI), puis menottés et qualifiés devant leurs familles de « cybercriminels en bande organisée », avant de subir une garde à vue de quatre-vingt-seize heures. <i>(Nouvelles exclamations sur les bancs des groupes RN et LR.)</i><br><br><strong>M. Aurélien Pradié.</strong> Baissez le son !<br><br><strong>Mme Ersilia Soudais. </strong>Quand on ne traite pas les grévistes comme des terroristes, on les réquisitionne, comme en ce moment dans les raffineries. Mme la Première ministre pense que ces réquisitions vont permettre à la situation actuelle de « s'améliorer ». Elle a également demandé aux salariés grévistes de « respecter les accords majoritaires » et de « ne pas bloquer le pays », alors que rien n'oblige un syndicat, même minoritaire, à s'aligner sur ceux qui accompagnent la politique du Gouvernement ou du patronat. <i>(Mêmes mouvements.)</i><br><br>Ce n'est pas au Gouvernement de juger de la pertinence d'une grève ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES et sur quelques bancs du groupe Écolo-NUPES.)</i><br><br><strong>Mme Aurore Bergé.</strong> Doucement ! Arrêtez de crier !<br><br><strong>Mme Ersilia Soudais. </strong>Ces coups de force sont autant d'aveux de faiblesse d'un gouvernement qui se sait minoritaire dans le pays et à l'Assemblée. Un communiqué de la CGT indique que « le Gouvernement a fait le choix de la violence ». Or, comme le disait Isaac Asimov, « la violence est le dernier refuge de l'incompétence ».<br><br>Jusqu'à quand comptez-vous piétiner le dialogue social et l'État de droit ? <i>(Mmes et MM. les députés du groupe LFI-NUPES se lèvent et applaudissent, suivis par quelques députés du groupe Écolo-NUPES. – Quelques députés du groupe GDR-NUPES applaudissent également.)</i><br><br><strong>M. Aurélien Pradié.</strong> Rassurez-vous, madame Soudais : le ministre parle moins fort, mais on ne le comprend pas non plus ! <i>(Protestations sur les bancs du groupe LFI-NUPES et sur quelques bancs du groupe Écolo-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>Votre question appelle une réponse dans le plus grand calme. Vous avez évoqué le droit syndical et abordé la question des réquisitions. Le mouvement de protestation dans les raffineries est un conflit social qui entraîne des perturbations et porte atteinte à l'ordre public. Il devient donc urgent de trouver une solution, et toutes les réquisitions auxquelles le Gouvernement a procédé dès la semaine dernière par la voix de Mme la Première ministre en Normandie et dans les Hauts-de-France l'ont été à ce titre.<br><br>Les réquisitions étaient proportionnées et garantissaient l'exercice du droit syndical.<br><br><strong>Mme Bénédicte Taurine.</strong> Non !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Elles ont été contestées, mais le tribunal administratif de Lille et, plus récemment encore, le 13 octobre, le tribunal administratif de Rouen, ont jugé que les réquisitions ne portaient pas une atteinte manifestement disproportionnée à la liberté fondamentale que constituent le droit de manifester et le droit de grève. Nous ne faisons qu'appliquer la loi, dans le respect du droit syndical.<br><br>Enfin, lors d'un conflit social, lorsqu'un accord majoritaire est signé par les représentants des salariés, la règle de la démocratie sociale veut que cet accord soit respecté. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br><br><strong>Mme Ersilia Soudais.</strong> En somme, on peut faire grève si on ne dérange personne !<br><br><strong>M. Aurélien Pradié.</strong> La réponse était aussi bonne que la question !<br> <p>",
+        "entities": [
+          {
+            "start_char": 32,
+            "end_char": 37,
+            "label": "ORG",
+            "text": "GRÈVE"
+          },
+          {
+            "start_char": 72,
+            "end_char": 75,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 116,
+            "end_char": 127,
+            "label": "PER",
+            "text": "Mme Ersilia"
+          },
+          {
+            "start_char": 152,
+            "end_char": 171,
+            "label": "PER",
+            "text": "Mme Ersilia Soudais"
+          },
+          {
+            "start_char": 214,
+            "end_char": 220,
+            "label": "PER",
+            "text": "Macron"
+          },
+          {
+            "start_char": 387,
+            "end_char": 392,
+            "label": "ORG",
+            "text": "CHSCT"
+          },
+          {
+            "start_char": 534,
+            "end_char": 547,
+            "label": "MISC",
+            "text": "grève.<br><br"
+          },
+          {
+            "start_char": 601,
+            "end_char": 611,
+            "label": "LOC",
+            "text": "Kai Terada"
+          },
+          {
+            "start_char": 644,
+            "end_char": 674,
+            "label": "LOC",
+            "text": "lycée Joliot-Curie de Nanterre"
+          },
+          {
+            "start_char": 721,
+            "end_char": 730,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 773,
+            "end_char": 784,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 788,
+            "end_char": 803,
+            "label": "MISC",
+            "text": "GDR-NUPES.)</i>"
+          },
+          {
+            "start_char": 1018,
+            "end_char": 1033,
+            "label": "PER",
+            "text": "Emmanuel Macron"
+          },
+          {
+            "start_char": 1113,
+            "end_char": 1131,
+            "label": "LOC",
+            "text": "lycée Joliot-Curie"
+          },
+          {
+            "start_char": 1285,
+            "end_char": 1301,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 1326,
+            "end_char": 1335,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1337,
+            "end_char": 1351,
+            "label": "LOC",
+            "text": "– Exclamations"
+          },
+          {
+            "start_char": 1378,
+            "end_char": 1380,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 1461,
+            "end_char": 1464,
+            "label": "ORG",
+            "text": "CGT"
+          },
+          {
+            "start_char": 1468,
+            "end_char": 1501,
+            "label": "MISC",
+            "text": "Réseau de transport d'électricité"
+          },
+          {
+            "start_char": 1503,
+            "end_char": 1506,
+            "label": "PER",
+            "text": "RTE"
+          },
+          {
+            "start_char": 1633,
+            "end_char": 1637,
+            "label": "ORG",
+            "text": "DGSI"
+          },
+          {
+            "start_char": 1845,
+            "end_char": 1847,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 1851,
+            "end_char": 1874,
+            "label": "LOC",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 1878,
+            "end_char": 1902,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 1904,
+            "end_char": 1911,
+            "label": "PER",
+            "text": "Baissez"
+          },
+          {
+            "start_char": 1936,
+            "end_char": 1955,
+            "label": "PER",
+            "text": "Mme Ersilia Soudais"
+          },
+          {
+            "start_char": 2089,
+            "end_char": 2104,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 2433,
+            "end_char": 2445,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2463,
+            "end_char": 2471,
+            "label": "LOC",
+            "text": "i>(Mêmes"
+          },
+          {
+            "start_char": 2512,
+            "end_char": 2524,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2610,
+            "end_char": 2619,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2652,
+            "end_char": 2684,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2685,
+            "end_char": 2689,
+            "label": "PER",
+            "text": "Mme "
+          },
+          {
+            "start_char": 2712,
+            "end_char": 2721,
+            "label": "LOC",
+            "text": "Doucement"
+          },
+          {
+            "start_char": 2724,
+            "end_char": 2731,
+            "label": "LOC",
+            "text": "Arrêtez"
+          },
+          {
+            "start_char": 2758,
+            "end_char": 2777,
+            "label": "PER",
+            "text": "Mme Ersilia Soudais"
+          },
+          {
+            "start_char": 2902,
+            "end_char": 2911,
+            "label": "ORG",
+            "text": "Assemblée"
+          },
+          {
+            "start_char": 2933,
+            "end_char": 2936,
+            "label": "ORG",
+            "text": "CGT"
+          },
+          {
+            "start_char": 2954,
+            "end_char": 2966,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3021,
+            "end_char": 3033,
+            "label": "PER",
+            "text": "Isaac Asimov"
+          },
+          {
+            "start_char": 3159,
+            "end_char": 3163,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3187,
+            "end_char": 3190,
+            "label": "MISC",
+            "text": "MM."
+          },
+          {
+            "start_char": 3213,
+            "end_char": 3222,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3289,
+            "end_char": 3300,
+            "label": "ORG",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 3331,
+            "end_char": 3340,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 3389,
+            "end_char": 3414,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong>"
+          },
+          {
+            "start_char": 3415,
+            "end_char": 3423,
+            "label": "LOC",
+            "text": "Rassurez"
+          },
+          {
+            "start_char": 3437,
+            "end_char": 3444,
+            "label": "LOC",
+            "text": "Soudais"
+          },
+          {
+            "start_char": 3557,
+            "end_char": 3566,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 3599,
+            "end_char": 3631,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3632,
+            "end_char": 3635,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3676,
+            "end_char": 3678,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3725,
+            "end_char": 3727,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3753,
+            "end_char": 3763,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3828,
+            "end_char": 3839,
+            "label": "LOC",
+            "text": "l’insertion"
+          },
+          {
+            "start_char": 4209,
+            "end_char": 4221,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4271,
+            "end_char": 4298,
+            "label": "PER",
+            "text": "Mme la Première ministre en"
+          },
+          {
+            "start_char": 4299,
+            "end_char": 4308,
+            "label": "LOC",
+            "text": "Normandie"
+          },
+          {
+            "start_char": 4321,
+            "end_char": 4336,
+            "label": "LOC",
+            "text": "Hauts-de-France"
+          },
+          {
+            "start_char": 4469,
+            "end_char": 4500,
+            "label": "PER",
+            "text": "Mme Bénédicte Taurine.</strong>"
+          },
+          {
+            "start_char": 4522,
+            "end_char": 4532,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 4706,
+            "end_char": 4711,
+            "label": "LOC",
+            "text": "Rouen"
+          },
+          {
+            "start_char": 4953,
+            "end_char": 4969,
+            "label": "MISC",
+            "text": "syndical.<br><br"
+          },
+          {
+            "start_char": 5199,
+            "end_char": 5201,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5230,
+            "end_char": 5234,
+            "label": "PER",
+            "text": "Mme "
+          },
+          {
+            "start_char": 5336,
+            "end_char": 5360,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 90,
+            "sentiment": "3 stars",
+            "score": 0.2937338352203369
+          },
+          {
+            "begin_char": 91,
+            "end_char": 172,
+            "sentiment": "3 stars",
+            "score": 0.24437466263771057
+          },
+          {
+            "begin_char": 173,
+            "end_char": 182,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 182,
+            "end_char": 675,
+            "sentiment": "1 star",
+            "score": 0.3977692425251007
+          },
+          {
+            "begin_char": 676,
+            "end_char": 803,
+            "sentiment": "4 stars",
+            "score": 0.32827943563461304
+          },
+          {
+            "begin_char": 804,
+            "end_char": 959,
+            "sentiment": "3 stars",
+            "score": 0.2876419425010681
+          },
+          {
+            "begin_char": 960,
+            "end_char": 1132,
+            "sentiment": "4 stars",
+            "score": 0.37450045347213745
+          },
+          {
+            "begin_char": 1133,
+            "end_char": 1269,
+            "sentiment": "1 star",
+            "score": 0.4086511731147766
+          },
+          {
+            "begin_char": 1270,
+            "end_char": 1285,
+            "sentiment": "5 stars",
+            "score": 0.7181728482246399
+          },
+          {
+            "begin_char": 1285,
+            "end_char": 1336,
+            "sentiment": "4 stars",
+            "score": 0.3767821490764618
+          },
+          {
+            "begin_char": 1337,
+            "end_char": 1396,
+            "sentiment": "3 stars",
+            "score": 0.2839221656322479
+          },
+          {
+            "begin_char": 1396,
+            "end_char": 1791,
+            "sentiment": "5 stars",
+            "score": 0.4418375790119171
+          },
+          {
+            "begin_char": 1792,
+            "end_char": 1903,
+            "sentiment": "3 stars",
+            "score": 0.2910255789756775
+          },
+          {
+            "begin_char": 1904,
+            "end_char": 1920,
+            "sentiment": "5 stars",
+            "score": 0.5271396040916443
+          },
+          {
+            "begin_char": 1920,
+            "end_char": 1956,
+            "sentiment": "3 stars",
+            "score": 0.27734246850013733
+          },
+          {
+            "begin_char": 1957,
+            "end_char": 2088,
+            "sentiment": "5 stars",
+            "score": 0.2504391074180603
+          },
+          {
+            "begin_char": 2089,
+            "end_char": 2199,
+            "sentiment": "4 stars",
+            "score": 0.4697178304195404
+          },
+          {
+            "begin_char": 2200,
+            "end_char": 2461,
+            "sentiment": "5 stars",
+            "score": 0.4673869013786316
+          },
+          {
+            "begin_char": 2462,
+            "end_char": 2496,
+            "sentiment": "3 stars",
+            "score": 0.30803972482681274
+          },
+          {
+            "begin_char": 2496,
+            "end_char": 2564,
+            "sentiment": "1 star",
+            "score": 0.3214300572872162
+          },
+          {
+            "begin_char": 2565,
+            "end_char": 2685,
+            "sentiment": "3 stars",
+            "score": 0.32010194659233093
+          },
+          {
+            "begin_char": 2685,
+            "end_char": 2689,
+            "sentiment": "3 stars",
+            "score": 0.2829684317111969
+          },
+          {
+            "begin_char": 2689,
+            "end_char": 2710,
+            "sentiment": "3 stars",
+            "score": 0.28820306062698364
+          },
+          {
+            "begin_char": 2710,
+            "end_char": 2711,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 2712,
+            "end_char": 2722,
+            "sentiment": "4 stars",
+            "score": 0.3481699526309967
+          },
+          {
+            "begin_char": 2722,
+            "end_char": 2723,
+            "sentiment": "5 stars",
+            "score": 0.30370408296585083
+          },
+          {
+            "begin_char": 2724,
+            "end_char": 2742,
+            "sentiment": "1 star",
+            "score": 0.4257015883922577
+          },
+          {
+            "begin_char": 2742,
+            "end_char": 2778,
+            "sentiment": "3 stars",
+            "score": 0.27734246850013733
+          },
+          {
+            "begin_char": 2779,
+            "end_char": 2788,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2788,
+            "end_char": 2912,
+            "sentiment": "4 stars",
+            "score": 0.28095942735671997
+          },
+          {
+            "begin_char": 2913,
+            "end_char": 3000,
+            "sentiment": "4 stars",
+            "score": 0.2929120361804962
+          },
+          {
+            "begin_char": 3001,
+            "end_char": 3174,
+            "sentiment": "1 star",
+            "score": 0.28323623538017273
+          },
+          {
+            "begin_char": 3175,
+            "end_char": 3301,
+            "sentiment": "4 stars",
+            "score": 0.31350967288017273
+          },
+          {
+            "begin_char": 3302,
+            "end_char": 3414,
+            "sentiment": "3 stars",
+            "score": 0.3412703275680542
+          },
+          {
+            "begin_char": 3415,
+            "end_char": 3514,
+            "sentiment": "1 star",
+            "score": 0.3653104603290558
+          },
+          {
+            "begin_char": 3515,
+            "end_char": 3650,
+            "sentiment": "4 stars",
+            "score": 0.2959212362766266
+          },
+          {
+            "begin_char": 3651,
+            "end_char": 3784,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 3785,
+            "end_char": 3840,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 3841,
+            "end_char": 3845,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3845,
+            "end_char": 3905,
+            "sentiment": "5 stars",
+            "score": 0.5458980798721313
+          },
+          {
+            "begin_char": 3906,
+            "end_char": 3980,
+            "sentiment": "4 stars",
+            "score": 0.2779143452644348
+          },
+          {
+            "begin_char": 3981,
+            "end_char": 4119,
+            "sentiment": "3 stars",
+            "score": 0.3108798861503601
+          },
+          {
+            "begin_char": 4120,
+            "end_char": 4366,
+            "sentiment": "5 stars",
+            "score": 0.5394149422645569
+          },
+          {
+            "begin_char": 4366,
+            "end_char": 4500,
+            "sentiment": "4 stars",
+            "score": 0.32158997654914856
+          },
+          {
+            "begin_char": 4501,
+            "end_char": 4506,
+            "sentiment": "1 star",
+            "score": 0.6278671026229858
+          },
+          {
+            "begin_char": 4506,
+            "end_char": 4564,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 4565,
+            "end_char": 4890,
+            "sentiment": "4 stars",
+            "score": 0.3778238594532013
+          },
+          {
+            "begin_char": 4891,
+            "end_char": 5146,
+            "sentiment": "5 stars",
+            "score": 0.572664737701416
+          },
+          {
+            "begin_char": 5147,
+            "end_char": 5234,
+            "sentiment": "3 stars",
+            "score": 0.3558865785598755
+          },
+          {
+            "begin_char": 5234,
+            "end_char": 5259,
+            "sentiment": "3 stars",
+            "score": 0.28861919045448303
+          },
+          {
+            "begin_char": 5260,
+            "end_char": 5317,
+            "sentiment": "5 stars",
+            "score": 0.34263643622398376
+          },
+          {
+            "begin_char": 5317,
+            "end_char": 5361,
+            "sentiment": "3 stars",
+            "score": 0.3045220375061035
+          },
+          {
+            "begin_char": 5362,
+            "end_char": 5408,
+            "sentiment": "5 stars",
+            "score": 0.32418835163116455
+          },
+          {
+            "begin_char": 5408,
+            "end_char": 5416,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-20",
+        "pageJO": "4315",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

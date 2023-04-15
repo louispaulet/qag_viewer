@@ -1,0 +1,1103 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG36",
+    "identifiant": {
+      "numero": "36",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "papiers d'identité",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Accompagnants d'élèves en situation de handicap"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720900",
+        "mandatRef": "PM797553"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Éducation nationale et jeunesse",
+      "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Éducation nationale et jeunesse",
+          "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ACCOMPAGNANTS D’ÉLÈVES EN SITUATION DE HANDICAP <a name=PG9></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Cécile Rilhac.<br><br><strong>Mme Cécile Rilhac. </strong>Ma question s'adresse au ministre de l'éducation nationale et de la jeunesse et j'y associe Stella Dupont, Graziella Melchior, ainsi que mes collègues de la majorité.<br><br>Depuis 2017, vous le savez, des mesures de grande ampleur ont été déployées afin d'accompagner au mieux la scolarité de l'ensemble de nos élèves, notamment ceux à besoins particuliers. Permettre à l'école de la République d'être pleinement inclusive est une ambition forte de notre majorité, qui a fait de la question du handicap une priorité.<br><br>Afin de parvenir à cet objectif, le rôle des accompagnants d’élèves en situation de handicap – AESH – est déterminant. Depuis 2019, grâce au travail constructif des parlementaires de la majorité comme de l'opposition, les AESH bénéficient de contrats d'une durée de trois ans renouvelables une fois. <i>(Vives exclamations sur les bancs du groupe LFI-NUPES.)</i> Désormais, ils peuvent bénéficier d'un CDI.<br><br><strong>M. François Ruffin.</strong> À 800 euros par mois !<br><br><strong>Mme Cécile Rilhac. </strong>Permettez-moi de vous rappeler qu'avant 2017, les AESH, qu'on appelait à l'époque les auxiliaires de vie scolaire – AVS –, étaient souvent liés par un contrat d'insertion d'une durée d'un an ou contractuels de la fonction publique.<br><br><strong>M. François Ruffin.</strong> Sous le seuil de pauvreté !<br><br><strong>Mme Cécile Rilhac. </strong>Monsieur le ministre, nos efforts doivent impérativement se poursuivre. Je sais votre détermination à œuvrer à nos côtés dans ce sens.<br><br><strong>M. François Ruffin.</strong> Vous êtes bien la seule !<br><br><strong>Mme Cécile Rilhac. </strong>Vous le savez, il reste beaucoup à faire. Certains établissements scolaires et collectivités territoriales nous alertent régulièrement sur les difficultés de recrutement,…<br><br><strong>M. François Ruffin.</strong> Sous le seuil de pauvreté !<br><br><strong>Mme Cécile Rilhac. </strong>…alors que nous avons voté l'an passé un budget important pour le recrutement des AESH. Poursuivre l'amélioration des conditions de travail des AESH est indispensable pour respecter notre engagement en faveur d'une école plus inclusive et plus juste. <i>(Exclamations sur plusieurs bancs du groupe LFI-NUPES.)</i><br><br>Ma question est donc simple : comment renforcer l'attractivité du métier d'AESH,…<br><br><strong>M. François Ruffin.</strong> Avec des salaires !<br><br><strong>Mme Cécile Rilhac. </strong>…comment favoriser le recrutement et ainsi améliorer encore la scolarisation des enfants à besoins particuliers ? <i>(Applaudissements sur plusieurs bancs du groupe RE et sur quelques bancs des groupes Dem et HOR.)</i><br><br><strong>Mme la présidente. </strong>Mes chers collègues, il n'y a pas que vos questions qui méritent d'être écoutées. J'aimerais que chacun puisse écouter l'ensemble des questions qui sont posées dans l'hémicycle. <i>(Vifs applaudissements sur les bancs des groupes RE et Dem. - Exclamations sur les bancs du groupe LFI-NUPES.)</i><br><br>La parole est à M. le ministre de l’éducation nationale et de la jeunesse. <i>(M. François Ruffin s'exclame. – Vives protestations sur les bancs des groupes RE, Dem et HOR.)</i><br><br><strong>M. Pap Ndiaye,</strong><i> ministre de l’éducation nationale et de la jeunesse. </i>Les conditions de travail des AESH sont en effet déterminantes pour la qualité et pour l'effectivité de la scolarisation des enfants en situation de handicap. C'est également un enjeu social évident.<br><br>Aujourd'hui, nous mobilisons près de 120 000 AESH,…<br><br><strong>M. François Ruffin.</strong> Augmentez les salaires ! <i>(Protestations sur les bancs du groupe RE.)</i><br><br><strong>M. Pap Ndiaye,</strong><i> ministre . </i>…qui rendent possible la scolarisation d'environ 410 000 enfants en situation de handicap. Le nombre d'AESH a crû de 50 % entre 2017 et 2022.<br><br><strong>M. Fabien Di Filippo.</strong> Blanquer avait exactement la même fiche !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre. </i>Cette année, comme l'année précédente, des efforts budgétaires ont été consentis et nous recruterons environ 4 000 AESH pour la rentrée à venir.<br><br>Mais vous avez raison, nous devons améliorer l'attractivité du métier d'AESH.<br><br><strong>M. Sébastien Jumel.</strong> Ce n'est pas la question !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre. </i>Pour cela, nous procédons d'abord à la multiplication des recrutements en CDD d'une durée de trois ans. Nous leur avons également donné la possibilité de bénéficier d'un CDI au bout de six ans d'exercice,…<br><br><strong>M. François Ruffin.</strong> Les salaires !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre. </i>…d'accéder aux droits à la formation professionnelle et de bénéficier des prestations d'action sociale. Une grille indiciaire a aussi été créée pour automatiser leur avancement.<br><br><strong>M. François Ruffin.</strong> Les salaires !<br><br><strong>M. Philippe Vigier.</strong> Ils peuvent se taire ?<br><br><strong>M. Pap Ndiaye,</strong><i> ministre. </i>Enfin, les AESH bénéficieront des mesures relatives au point d'indice prévues dans le projet de loi portant mesures d'urgence pour la protection du pouvoir d'achat. <i>(M. François Ruffin s'exclame. – Protestations sur les bancs du groupe RE.) </i><br><br><strong>Mme la présidente.</strong> Monsieur Ruffin, vous n'avez pas la parole !<br><br><strong>M. Pap Ndiaye,</strong><i> ministre. </i>Ce sont de réels progrès mais nous devons aller plus loin. Un effort supplémentaire pour revaloriser les carrières sera engagé dans le cadre du projet de loi de finances. Il faut améliorer durablement les conditions de travail des AESH ; je m'y engage. <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</i><br><br><strong>Mme la présidente. </strong>Monsieur Ruffin, pouvez-vous cesser d'interpeller continuellement le ministre quand il parle ? <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR. - Protestations sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>M. Ugo Bernalicis.</strong> Non, il ne peut pas : il a raison de réagir !<br><br><strong>Mme la présidente. </strong>Il y a des règles dans cet hémicycle : deux minutes de question et deux minutes de réponse.<br> <p>",
+        "entities": [
+          {
+            "start_char": 39,
+            "end_char": 45,
+            "label": "ORG",
+            "text": "ÉLÈVES"
+          },
+          {
+            "start_char": 62,
+            "end_char": 70,
+            "label": "LOC",
+            "text": "HANDICAP"
+          },
+          {
+            "start_char": 79,
+            "end_char": 86,
+            "label": "LOC",
+            "text": "PG9></a"
+          },
+          {
+            "start_char": 104,
+            "end_char": 107,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 148,
+            "end_char": 181,
+            "label": "PER",
+            "text": "Mme Cécile Rilhac.<br><br><strong"
+          },
+          {
+            "start_char": 182,
+            "end_char": 199,
+            "label": "PER",
+            "text": "Mme Cécile Rilhac"
+          },
+          {
+            "start_char": 302,
+            "end_char": 315,
+            "label": "LOC",
+            "text": "Stella Dupont"
+          },
+          {
+            "start_char": 317,
+            "end_char": 335,
+            "label": "PER",
+            "text": "Graziella Melchior"
+          },
+          {
+            "start_char": 367,
+            "end_char": 383,
+            "label": "MISC",
+            "text": "majorité.<br><br"
+          },
+          {
+            "start_char": 718,
+            "end_char": 734,
+            "label": "MISC",
+            "text": "priorité.<br><br"
+          },
+          {
+            "start_char": 794,
+            "end_char": 796,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 830,
+            "end_char": 834,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 957,
+            "end_char": 961,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 1036,
+            "end_char": 1044,
+            "label": "LOC",
+            "text": "i>(Vives"
+          },
+          {
+            "start_char": 1082,
+            "end_char": 1096,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i"
+          },
+          {
+            "start_char": 1160,
+            "end_char": 1184,
+            "label": "PER",
+            "text": "François Ruffin.</strong"
+          },
+          {
+            "start_char": 1224,
+            "end_char": 1241,
+            "label": "PER",
+            "text": "Mme Cécile Rilhac"
+          },
+          {
+            "start_char": 1252,
+            "end_char": 1261,
+            "label": "LOC",
+            "text": "Permettez"
+          },
+          {
+            "start_char": 1302,
+            "end_char": 1306,
+            "label": "MISC",
+            "text": "AESH"
+          },
+          {
+            "start_char": 1502,
+            "end_char": 1526,
+            "label": "PER",
+            "text": "François Ruffin.</strong"
+          },
+          {
+            "start_char": 1571,
+            "end_char": 1588,
+            "label": "PER",
+            "text": "Mme Cécile Rilhac"
+          },
+          {
+            "start_char": 1599,
+            "end_char": 1607,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1752,
+            "end_char": 1776,
+            "label": "PER",
+            "text": "François Ruffin.</strong"
+          },
+          {
+            "start_char": 1819,
+            "end_char": 1836,
+            "label": "PER",
+            "text": "Mme Cécile Rilhac"
+          },
+          {
+            "start_char": 2037,
+            "end_char": 2061,
+            "label": "PER",
+            "text": "François Ruffin.</strong"
+          },
+          {
+            "start_char": 2106,
+            "end_char": 2123,
+            "label": "PER",
+            "text": "Mme Cécile Rilhac"
+          },
+          {
+            "start_char": 2216,
+            "end_char": 2220,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 2278,
+            "end_char": 2282,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 2432,
+            "end_char": 2457,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br>Ma"
+          },
+          {
+            "start_char": 2555,
+            "end_char": 2579,
+            "label": "PER",
+            "text": "François Ruffin.</strong"
+          },
+          {
+            "start_char": 2616,
+            "end_char": 2633,
+            "label": "PER",
+            "text": "Mme Cécile Rilhac"
+          },
+          {
+            "start_char": 2846,
+            "end_char": 2849,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 2853,
+            "end_char": 2877,
+            "label": "PER",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2878,
+            "end_char": 2881,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2906,
+            "end_char": 2925,
+            "label": "MISC",
+            "text": "Mes chers collègues"
+          },
+          {
+            "start_char": 3136,
+            "end_char": 3138,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3142,
+            "end_char": 3145,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 3186,
+            "end_char": 3208,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 3225,
+            "end_char": 3227,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3243,
+            "end_char": 3245,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3300,
+            "end_char": 3306,
+            "label": "PER",
+            "text": "Ruffin"
+          },
+          {
+            "start_char": 3320,
+            "end_char": 3325,
+            "label": "LOC",
+            "text": "Vives"
+          },
+          {
+            "start_char": 3366,
+            "end_char": 3368,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3370,
+            "end_char": 3373,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 3377,
+            "end_char": 3401,
+            "label": "PER",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3405,
+            "end_char": 3408,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 3441,
+            "end_char": 3443,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3516,
+            "end_char": 3520,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 3677,
+            "end_char": 3692,
+            "label": "MISC",
+            "text": "évident.<br><br"
+          },
+          {
+            "start_char": 3763,
+            "end_char": 3788,
+            "label": "PER",
+            "text": "François Ruffin.</strong>"
+          },
+          {
+            "start_char": 3856,
+            "end_char": 3879,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3880,
+            "end_char": 3886,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 4025,
+            "end_char": 4029,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 4089,
+            "end_char": 4108,
+            "label": "PER",
+            "text": "Di Filippo.</strong"
+          },
+          {
+            "start_char": 4110,
+            "end_char": 4118,
+            "label": "PER",
+            "text": "Blanquer"
+          },
+          {
+            "start_char": 4170,
+            "end_char": 4173,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 4323,
+            "end_char": 4327,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 4456,
+            "end_char": 4480,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong"
+          },
+          {
+            "start_char": 4527,
+            "end_char": 4530,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 4639,
+            "end_char": 4642,
+            "label": "ORG",
+            "text": "CDD"
+          },
+          {
+            "start_char": 4735,
+            "end_char": 4738,
+            "label": "ORG",
+            "text": "CDI"
+          },
+          {
+            "start_char": 4789,
+            "end_char": 4813,
+            "label": "PER",
+            "text": "François Ruffin.</strong"
+          },
+          {
+            "start_char": 4848,
+            "end_char": 4851,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 5082,
+            "end_char": 5106,
+            "label": "PER",
+            "text": "François Ruffin.</strong"
+          },
+          {
+            "start_char": 5141,
+            "end_char": 5165,
+            "label": "PER",
+            "text": "Philippe Vigier.</strong"
+          },
+          {
+            "start_char": 5205,
+            "end_char": 5211,
+            "label": "PER",
+            "text": "M. Pap"
+          },
+          {
+            "start_char": 5257,
+            "end_char": 5261,
+            "label": "ORG",
+            "text": "AESH"
+          },
+          {
+            "start_char": 5427,
+            "end_char": 5433,
+            "label": "PER",
+            "text": "Ruffin"
+          },
+          {
+            "start_char": 5478,
+            "end_char": 5487,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 5510,
+            "end_char": 5553,
+            "label": "PER",
+            "text": "Mme la présidente.</strong> Monsieur Ruffin"
+          },
+          {
+            "start_char": 5601,
+            "end_char": 5604,
+            "label": "PER",
+            "text": "Pap"
+          },
+          {
+            "start_char": 5870,
+            "end_char": 5874,
+            "label": "MISC",
+            "text": "AESH"
+          },
+          {
+            "start_char": 5939,
+            "end_char": 5941,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5943,
+            "end_char": 5946,
+            "label": "PER",
+            "text": "Dem"
+          },
+          {
+            "start_char": 5950,
+            "end_char": 5974,
+            "label": "PER",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5975,
+            "end_char": 5978,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 6012,
+            "end_char": 6018,
+            "label": "PER",
+            "text": "Ruffin"
+          },
+          {
+            "start_char": 6145,
+            "end_char": 6147,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 6149,
+            "end_char": 6152,
+            "label": "MISC",
+            "text": "Dem"
+          },
+          {
+            "start_char": 6156,
+            "end_char": 6159,
+            "label": "ORG",
+            "text": "HOR"
+          },
+          {
+            "start_char": 6201,
+            "end_char": 6231,
+            "label": "ORG",
+            "text": "LFI-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 6321,
+            "end_char": 6324,
+            "label": "PER",
+            "text": "Mme"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 122,
+            "sentiment": "3 stars",
+            "score": 0.33105501532554626
+          },
+          {
+            "begin_char": 123,
+            "end_char": 200,
+            "sentiment": "3 stars",
+            "score": 0.27312204241752625
+          },
+          {
+            "begin_char": 201,
+            "end_char": 568,
+            "sentiment": "5 stars",
+            "score": 0.5063004493713379
+          },
+          {
+            "begin_char": 569,
+            "end_char": 735,
+            "sentiment": "5 stars",
+            "score": 0.5131957530975342
+          },
+          {
+            "begin_char": 735,
+            "end_char": 853,
+            "sentiment": "4 stars",
+            "score": 0.4422299265861511
+          },
+          {
+            "begin_char": 854,
+            "end_char": 1034,
+            "sentiment": "5 stars",
+            "score": 0.4098127484321594
+          },
+          {
+            "begin_char": 1035,
+            "end_char": 1044,
+            "sentiment": "3 stars",
+            "score": 0.2765619456768036
+          },
+          {
+            "begin_char": 1045,
+            "end_char": 1057,
+            "sentiment": "5 stars",
+            "score": 0.4357210099697113
+          },
+          {
+            "begin_char": 1058,
+            "end_char": 1096,
+            "sentiment": "3 stars",
+            "score": 0.3611481189727783
+          },
+          {
+            "begin_char": 1096,
+            "end_char": 1097,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 1098,
+            "end_char": 1208,
+            "sentiment": "3 stars",
+            "score": 0.22624105215072632
+          },
+          {
+            "begin_char": 1208,
+            "end_char": 1242,
+            "sentiment": "3 stars",
+            "score": 0.2867465019226074
+          },
+          {
+            "begin_char": 1243,
+            "end_char": 1555,
+            "sentiment": "2 stars",
+            "score": 0.2824704647064209
+          },
+          {
+            "begin_char": 1555,
+            "end_char": 1589,
+            "sentiment": "3 stars",
+            "score": 0.2867465019226074
+          },
+          {
+            "begin_char": 1590,
+            "end_char": 1670,
+            "sentiment": "5 stars",
+            "score": 0.4050666093826294
+          },
+          {
+            "begin_char": 1671,
+            "end_char": 1777,
+            "sentiment": "5 stars",
+            "score": 0.39937958121299744
+          },
+          {
+            "begin_char": 1778,
+            "end_char": 1803,
+            "sentiment": "1 star",
+            "score": 0.29036518931388855
+          },
+          {
+            "begin_char": 1803,
+            "end_char": 1837,
+            "sentiment": "3 stars",
+            "score": 0.2867465019226074
+          },
+          {
+            "begin_char": 1838,
+            "end_char": 1847,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1847,
+            "end_char": 1888,
+            "sentiment": "4 stars",
+            "score": 0.3258165717124939
+          },
+          {
+            "begin_char": 1889,
+            "end_char": 2090,
+            "sentiment": "2 stars",
+            "score": 0.256473571062088
+          },
+          {
+            "begin_char": 2090,
+            "end_char": 2124,
+            "sentiment": "3 stars",
+            "score": 0.2867465019226074
+          },
+          {
+            "begin_char": 2125,
+            "end_char": 2221,
+            "sentiment": "2 stars",
+            "score": 0.34531816840171814
+          },
+          {
+            "begin_char": 2222,
+            "end_char": 2384,
+            "sentiment": "5 stars",
+            "score": 0.6114295721054077
+          },
+          {
+            "begin_char": 2385,
+            "end_char": 2580,
+            "sentiment": "4 stars",
+            "score": 0.3214039206504822
+          },
+          {
+            "begin_char": 2581,
+            "end_char": 2600,
+            "sentiment": "1 star",
+            "score": 0.22802437841892242
+          },
+          {
+            "begin_char": 2600,
+            "end_char": 2634,
+            "sentiment": "3 stars",
+            "score": 0.2867465019226074
+          },
+          {
+            "begin_char": 2635,
+            "end_char": 2757,
+            "sentiment": "5 stars",
+            "score": 0.3030265271663666
+          },
+          {
+            "begin_char": 2758,
+            "end_char": 2896,
+            "sentiment": "4 stars",
+            "score": 0.30822500586509705
+          },
+          {
+            "begin_char": 2897,
+            "end_char": 2906,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2906,
+            "end_char": 2987,
+            "sentiment": "5 stars",
+            "score": 0.4181983172893524
+          },
+          {
+            "begin_char": 2988,
+            "end_char": 3083,
+            "sentiment": "5 stars",
+            "score": 0.41852137446403503
+          },
+          {
+            "begin_char": 3084,
+            "end_char": 3146,
+            "sentiment": "4 stars",
+            "score": 0.3077124059200287
+          },
+          {
+            "begin_char": 3147,
+            "end_char": 3209,
+            "sentiment": "3 stars",
+            "score": 0.2971016764640808
+          },
+          {
+            "begin_char": 3209,
+            "end_char": 3283,
+            "sentiment": "5 stars",
+            "score": 0.3279423117637634
+          },
+          {
+            "begin_char": 3284,
+            "end_char": 3299,
+            "sentiment": "3 stars",
+            "score": 0.3311246931552887
+          },
+          {
+            "begin_char": 3300,
+            "end_char": 3325,
+            "sentiment": "5 stars",
+            "score": 0.5170015692710876
+          },
+          {
+            "begin_char": 3326,
+            "end_char": 3402,
+            "sentiment": "3 stars",
+            "score": 0.3282172381877899
+          },
+          {
+            "begin_char": 3402,
+            "end_char": 3428,
+            "sentiment": "3 stars",
+            "score": 0.30672886967658997
+          },
+          {
+            "begin_char": 3429,
+            "end_char": 3481,
+            "sentiment": "4 stars",
+            "score": 0.30159011483192444
+          },
+          {
+            "begin_char": 3482,
+            "end_char": 3486,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3486,
+            "end_char": 3644,
+            "sentiment": "4 stars",
+            "score": 0.4709275960922241
+          },
+          {
+            "begin_char": 3645,
+            "end_char": 3693,
+            "sentiment": "4 stars",
+            "score": 0.41740888357162476
+          },
+          {
+            "begin_char": 3693,
+            "end_char": 3788,
+            "sentiment": "5 stars",
+            "score": 0.3879835605621338
+          },
+          {
+            "begin_char": 3789,
+            "end_char": 3813,
+            "sentiment": "5 stars",
+            "score": 0.48873287439346313
+          },
+          {
+            "begin_char": 3814,
+            "end_char": 3917,
+            "sentiment": "3 stars",
+            "score": 0.3486625850200653
+          },
+          {
+            "begin_char": 3918,
+            "end_char": 4012,
+            "sentiment": "5 stars",
+            "score": 0.29958376288414
+          },
+          {
+            "begin_char": 4013,
+            "end_char": 4088,
+            "sentiment": "3 stars",
+            "score": 0.3099099099636078
+          },
+          {
+            "begin_char": 4089,
+            "end_char": 4108,
+            "sentiment": "3 stars",
+            "score": 0.3072790205478668
+          },
+          {
+            "begin_char": 4108,
+            "end_char": 4109,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 4110,
+            "end_char": 4151,
+            "sentiment": "1 star",
+            "score": 0.38251614570617676
+          },
+          {
+            "begin_char": 4151,
+            "end_char": 4203,
+            "sentiment": "3 stars",
+            "score": 0.3062691390514374
+          },
+          {
+            "begin_char": 4204,
+            "end_char": 4481,
+            "sentiment": "4 stars",
+            "score": 0.3609379529953003
+          },
+          {
+            "begin_char": 4482,
+            "end_char": 4508,
+            "sentiment": "1 star",
+            "score": 0.3416242003440857
+          },
+          {
+            "begin_char": 4508,
+            "end_char": 4560,
+            "sentiment": "3 stars",
+            "score": 0.3062691390514374
+          },
+          {
+            "begin_char": 4561,
+            "end_char": 4668,
+            "sentiment": "3 stars",
+            "score": 0.29381754994392395
+          },
+          {
+            "begin_char": 4669,
+            "end_char": 4814,
+            "sentiment": "3 stars",
+            "score": 0.272729754447937
+          },
+          {
+            "begin_char": 4815,
+            "end_char": 4829,
+            "sentiment": "1 star",
+            "score": 0.3066955506801605
+          },
+          {
+            "begin_char": 4829,
+            "end_char": 4881,
+            "sentiment": "3 stars",
+            "score": 0.3062691390514374
+          },
+          {
+            "begin_char": 4882,
+            "end_char": 4989,
+            "sentiment": "4 stars",
+            "score": 0.3332074284553528
+          },
+          {
+            "begin_char": 4990,
+            "end_char": 5107,
+            "sentiment": "4 stars",
+            "score": 0.3536359369754791
+          },
+          {
+            "begin_char": 5108,
+            "end_char": 5122,
+            "sentiment": "1 star",
+            "score": 0.3066955506801605
+          },
+          {
+            "begin_char": 5122,
+            "end_char": 5189,
+            "sentiment": "3 stars",
+            "score": 0.24891993403434753
+          },
+          {
+            "begin_char": 5189,
+            "end_char": 5241,
+            "sentiment": "3 stars",
+            "score": 0.3062691390514374
+          },
+          {
+            "begin_char": 5242,
+            "end_char": 5410,
+            "sentiment": "4 stars",
+            "score": 0.39812207221984863
+          },
+          {
+            "begin_char": 5411,
+            "end_char": 5426,
+            "sentiment": "3 stars",
+            "score": 0.3311246931552887
+          },
+          {
+            "begin_char": 5427,
+            "end_char": 5447,
+            "sentiment": "3 stars",
+            "score": 0.27862706780433655
+          },
+          {
+            "begin_char": 5447,
+            "end_char": 5460,
+            "sentiment": "5 stars",
+            "score": 0.41084393858909607
+          },
+          {
+            "begin_char": 5461,
+            "end_char": 5488,
+            "sentiment": "4 stars",
+            "score": 0.31075093150138855
+          },
+          {
+            "begin_char": 5488,
+            "end_char": 5489,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 5490,
+            "end_char": 5553,
+            "sentiment": "3 stars",
+            "score": 0.31445348262786865
+          },
+          {
+            "begin_char": 5553,
+            "end_char": 5582,
+            "sentiment": "1 star",
+            "score": 0.6194712519645691
+          },
+          {
+            "begin_char": 5582,
+            "end_char": 5634,
+            "sentiment": "3 stars",
+            "score": 0.3062691390514374
+          },
+          {
+            "begin_char": 5635,
+            "end_char": 5639,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5639,
+            "end_char": 5697,
+            "sentiment": "4 stars",
+            "score": 0.42792487144470215
+          },
+          {
+            "begin_char": 5698,
+            "end_char": 5809,
+            "sentiment": "4 stars",
+            "score": 0.4026780128479004
+          },
+          {
+            "begin_char": 5810,
+            "end_char": 5876,
+            "sentiment": "5 stars",
+            "score": 0.4748654365539551
+          },
+          {
+            "begin_char": 5877,
+            "end_char": 5891,
+            "sentiment": "4 stars",
+            "score": 0.3510480523109436
+          },
+          {
+            "begin_char": 5892,
+            "end_char": 5993,
+            "sentiment": "4 stars",
+            "score": 0.31433340907096863
+          },
+          {
+            "begin_char": 5994,
+            "end_char": 6097,
+            "sentiment": "1 star",
+            "score": 0.4448692202568054
+          },
+          {
+            "begin_char": 6098,
+            "end_char": 6160,
+            "sentiment": "4 stars",
+            "score": 0.31297925114631653
+          },
+          {
+            "begin_char": 6161,
+            "end_char": 6259,
+            "sentiment": "3 stars",
+            "score": 0.3340006470680237
+          },
+          {
+            "begin_char": 6260,
+            "end_char": 6305,
+            "sentiment": "1 star",
+            "score": 0.5173180103302002
+          },
+          {
+            "begin_char": 6305,
+            "end_char": 6339,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 6340,
+            "end_char": 6349,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 6349,
+            "end_char": 6448,
+            "sentiment": "1 star",
+            "score": 0.313064306974411
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-20",
+        "pageJO": "2516",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

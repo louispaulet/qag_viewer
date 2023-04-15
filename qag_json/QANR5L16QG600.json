@@ -1,0 +1,713 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG600",
+    "identifiant": {
+      "numero": "600",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "justice",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "RENFORCEMENT DES MOYENS DE LA JUSTICE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719910",
+        "mandatRef": "PM796728"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Justice",
+      "developpe": "Ministère de la justice"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Justice",
+          "developpe": "Ministère de la justice"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RENFORCEMENT DES MOYENS DE LA JUSTICE <a name=PG17></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Mounir Belhamiti.<br><br><strong>M. Mounir Belhamiti. </strong>Monsieur le garde des sceaux, vous avez annoncé un plan d'action pour la justice d'une ampleur sans précédent. L'objectif est d'atteindre en 2027, par les choix que nous ferons ici à l'Assemblée, un budget annuel de 11 milliards d’euros pour la justice.<br><br>Ensemble, nous allons financer le recrutement de 10 000 personnels supplémentaires, dont 1 500 magistrats et au moins autant de greffiers d’ici la fin du quinquennat ; ensemble, nous allons dégager des moyens indispensables à la modernisation, notamment numérique, du travail de la justice ; ensemble, nous allons simplifier le code de procédure pénale ; ensemble, nous allons développer une politique de l’amiable pour une justice plus rapide et plus proche. Autant d'objectifs cohérents avec les choix budgétaires de notre majorité : ensemble, nous avons déjà fait progresser de 44 % les crédits de la justice depuis 2017.<br><br><strong>M. Patrick Hetzel.</strong> Manifestement, il n'y a pas de question !<br><br><strong>M. Mounir Belhamiti. </strong>Le retard accumulé depuis des décennies se traduit néanmoins par des situations difficiles. J'ai passé deux journées en immersion dans différents services judiciaires à Nantes. J'ai pu constater à quel point les moyens que vous avez annoncés et que nous allons concrétiser ensemble sont attendus. Dans certains territoires, les évolutions démographiques, mais aussi la réalité du stock d'affaires dans les tribunaux, appellent une attention particulière.<br><br>Monsieur le ministre, ma question est simple. Dans cet effort inédit pour la justice, notre majorité est déterminée.<br><br><strong>M. Pierre Cordier.</strong> Quelle majorité ?<br><br><strong>M. Mounir Belhamiti. </strong>Pouvez-vous nous indiquer dans quel volume et à quel rythme ces postes seront créés ? <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>M. Maxime Minot.</strong> Allô, allô !<br><br><strong>Mme la présidente. </strong>La parole est à M. le garde des sceaux, ministre de la justice.<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux, ministre de la justice. </i>Je vous remercie, monsieur Belhamiti, d'avoir rappelé les chiffres du budget voté par notre majorité dont la justice bénéficie désormais.<br><br><strong>M. Pierre Cordier.</strong> Encore une fois, quelle majorité ?<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>Je souhaiterais affiner quelques chiffres sur le plan national. Sept cents magistrats, 850 greffiers et 2 000 contractuels ont déjà été embauchés. Le travail des uns et des autres a permis un déstockage des dossiers en attente de près d'un tiers, ce qui est énorme – c'est la première fois que la justice peut enfin s'attaquer aux dossiers en stock. Mais cela n'est pas fini : il faut aller beaucoup plus loin, d'où le recrutement à venir de 1 500 magistrats et de 1 500 greffiers. Par ailleurs, des contractuels seront « CDIsés » et verront ainsi leur statut pérennisé ; hier, j'ai annoncé l'embauche de 300 contractuels. Voilà les chiffres sur le plan national.<br><br>En ce qui concerne Nantes, je veux rappeler qu'un morceau avalé ne peut pas ne pas avoir de saveur. Cinq postes de magistrat ont été créés en 2022, et six postes supplémentaires en 2023 : deux magistrats sont arrivés en janvier, quatre prendront leurs fonctions en septembre. Le service des greffes a été augmenté de 5 %, soit deux fois l'augmentation nationale. Bien entendu, nous luttons contre les vacances : dix-huit contractuels ont d'ores et déjà été envoyés à Nantes en 2020 et quatre juristes assistants seront envoyés prochainement.<br><br>Je lis dans la presse un communiqué de la maire de Nantes, qui explique que les maillons faibles, ce sont les budgets en France et à Nantes. Je voudrais lui dire, avec une familiarité qu'elle me pardonnera,…<br><br><strong>Mme Christine Arrighi.</strong> J'en doute !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux. </i>…qu'il est tout de même gonflé d'affirmer une chose pareille ! Premièrement, les députés qu'elle a soutenus n'ont jamais voté nos budgets. <i>(« Eh oui ! » et applaudissements sur plusieurs bancs du groupe RE.)</i> Deuxièmement, je n'aurai pas la cruauté de lui rappeler combien de magistrats ont été embauchés sous François Hollande.<br><br><strong>M. Pierre Cordier.</strong> Tu as voté pour lui !<br><br><strong>M. Éric Dupond-Moretti,</strong><i> garde des sceaux . </i>Vous, monsieur le député, vous étiez là ; vous êtes le seul député de Nantes à avoir permis à la justice d'aller mieux ! <i>(« Bravo ! » et applaudissements sur plusieurs bancs des groupes RE et Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Mounir Belhamiti.<br><br><strong>M. Mounir Belhamiti. </strong>Je vous remercie pour ces précisions, monsieur le ministre. Elles confirment que depuis les créations de postes de policiers nationaux jusqu'au déploiement et au renforcement des moyens de la justice sur l'ensemble de nos territoires, et singulièrement à Nantes, l'État est au rendez-vous lorsqu'il s'agit de la sécurité de nos concitoyens. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 46,
+            "label": "MISC",
+            "text": "RENFORCEMENT DES MOYENS"
+          },
+          {
+            "start_char": 53,
+            "end_char": 60,
+            "label": "MISC",
+            "text": "JUSTICE"
+          },
+          {
+            "start_char": 95,
+            "end_char": 98,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 139,
+            "end_char": 174,
+            "label": "PER",
+            "text": "M. Mounir Belhamiti.<br><br><strong"
+          },
+          {
+            "start_char": 185,
+            "end_char": 194,
+            "label": "LOC",
+            "text": "Belhamiti"
+          },
+          {
+            "start_char": 205,
+            "end_char": 213,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 390,
+            "end_char": 399,
+            "label": "ORG",
+            "text": "Assemblée"
+          },
+          {
+            "start_char": 450,
+            "end_char": 474,
+            "label": "MISC",
+            "text": "justice.<br><br>Ensemble"
+          },
+          {
+            "start_char": 604,
+            "end_char": 606,
+            "label": "MISC",
+            "text": "d’"
+          },
+          {
+            "start_char": 871,
+            "end_char": 873,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1109,
+            "end_char": 1133,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong>"
+          },
+          {
+            "start_char": 1201,
+            "end_char": 1210,
+            "label": "LOC",
+            "text": "Belhamiti"
+          },
+          {
+            "start_char": 1390,
+            "end_char": 1396,
+            "label": "LOC",
+            "text": "Nantes"
+          },
+          {
+            "start_char": 1662,
+            "end_char": 1682,
+            "label": "MISC",
+            "text": "particulière.<br><br"
+          },
+          {
+            "start_char": 1683,
+            "end_char": 1691,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 1818,
+            "end_char": 1841,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 1886,
+            "end_char": 1895,
+            "label": "LOC",
+            "text": "Belhamiti"
+          },
+          {
+            "start_char": 1906,
+            "end_char": 1912,
+            "label": "PER",
+            "text": "Pouvez"
+          },
+          {
+            "start_char": 2043,
+            "end_char": 2066,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2070,
+            "end_char": 2097,
+            "label": "PER",
+            "text": "Maxime Minot.</strong> Allô"
+          },
+          {
+            "start_char": 2121,
+            "end_char": 2124,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2165,
+            "end_char": 2167,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2189,
+            "end_char": 2227,
+            "label": "ORG",
+            "text": "ministre de la justice.<br><br><strong"
+          },
+          {
+            "start_char": 2231,
+            "end_char": 2242,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 2337,
+            "end_char": 2346,
+            "label": "PER",
+            "text": "Belhamiti"
+          },
+          {
+            "start_char": 2466,
+            "end_char": 2489,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 2544,
+            "end_char": 2555,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 3121,
+            "end_char": 3127,
+            "label": "MISC",
+            "text": "CDIsés"
+          },
+          {
+            "start_char": 3253,
+            "end_char": 3269,
+            "label": "MISC",
+            "text": "national.<br><br"
+          },
+          {
+            "start_char": 3289,
+            "end_char": 3295,
+            "label": "LOC",
+            "text": "Nantes"
+          },
+          {
+            "start_char": 3737,
+            "end_char": 3743,
+            "label": "LOC",
+            "text": "Nantes"
+          },
+          {
+            "start_char": 3797,
+            "end_char": 3876,
+            "label": "MISC",
+            "text": "prochainement.<br><br>Je lis dans la presse un communiqué de la maire de Nantes"
+          },
+          {
+            "start_char": 3940,
+            "end_char": 3946,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 3952,
+            "end_char": 3958,
+            "label": "LOC",
+            "text": "Nantes"
+          },
+          {
+            "start_char": 4042,
+            "end_char": 4073,
+            "label": "PER",
+            "text": "Mme Christine Arrighi.</strong>"
+          },
+          {
+            "start_char": 4105,
+            "end_char": 4116,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4366,
+            "end_char": 4374,
+            "label": "ORG",
+            "text": "RE.)</i>"
+          },
+          {
+            "start_char": 4476,
+            "end_char": 4509,
+            "label": "PER",
+            "text": "François Hollande.<br><br><strong"
+          },
+          {
+            "start_char": 4513,
+            "end_char": 4537,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong>"
+          },
+          {
+            "start_char": 4578,
+            "end_char": 4589,
+            "label": "PER",
+            "text": "Éric Dupond"
+          },
+          {
+            "start_char": 4704,
+            "end_char": 4710,
+            "label": "LOC",
+            "text": "Nantes"
+          },
+          {
+            "start_char": 4761,
+            "end_char": 4766,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 4823,
+            "end_char": 4825,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4854,
+            "end_char": 4857,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4898,
+            "end_char": 4933,
+            "label": "PER",
+            "text": "M. Mounir Belhamiti.<br><br><strong"
+          },
+          {
+            "start_char": 4944,
+            "end_char": 4953,
+            "label": "LOC",
+            "text": "Belhamiti"
+          },
+          {
+            "start_char": 5219,
+            "end_char": 5225,
+            "label": "LOC",
+            "text": "Nantes"
+          },
+          {
+            "start_char": 5229,
+            "end_char": 5233,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5356,
+            "end_char": 5367,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 113,
+            "sentiment": "3 stars",
+            "score": 0.28410863876342773
+          },
+          {
+            "begin_char": 114,
+            "end_char": 195,
+            "sentiment": "4 stars",
+            "score": 0.2468561977148056
+          },
+          {
+            "begin_char": 196,
+            "end_char": 205,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 205,
+            "end_char": 315,
+            "sentiment": "5 stars",
+            "score": 0.7130225896835327
+          },
+          {
+            "begin_char": 316,
+            "end_char": 757,
+            "sentiment": "5 stars",
+            "score": 0.4995415210723877
+          },
+          {
+            "begin_char": 758,
+            "end_char": 820,
+            "sentiment": "4 stars",
+            "score": 0.40005436539649963
+          },
+          {
+            "begin_char": 821,
+            "end_char": 925,
+            "sentiment": "5 stars",
+            "score": 0.5068926811218262
+          },
+          {
+            "begin_char": 926,
+            "end_char": 1133,
+            "sentiment": "4 stars",
+            "score": 0.42123860120773315
+          },
+          {
+            "begin_char": 1134,
+            "end_char": 1175,
+            "sentiment": "5 stars",
+            "score": 0.31827259063720703
+          },
+          {
+            "begin_char": 1175,
+            "end_char": 1211,
+            "sentiment": "3 stars",
+            "score": 0.277612566947937
+          },
+          {
+            "begin_char": 1212,
+            "end_char": 1221,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1221,
+            "end_char": 1312,
+            "sentiment": "3 stars",
+            "score": 0.5445451140403748
+          },
+          {
+            "begin_char": 1313,
+            "end_char": 1397,
+            "sentiment": "4 stars",
+            "score": 0.3584262430667877
+          },
+          {
+            "begin_char": 1398,
+            "end_char": 1517,
+            "sentiment": "5 stars",
+            "score": 0.5827345848083496
+          },
+          {
+            "begin_char": 1518,
+            "end_char": 1683,
+            "sentiment": "4 stars",
+            "score": 0.5127758383750916
+          },
+          {
+            "begin_char": 1683,
+            "end_char": 1728,
+            "sentiment": "4 stars",
+            "score": 0.29766175150871277
+          },
+          {
+            "begin_char": 1729,
+            "end_char": 1860,
+            "sentiment": "4 stars",
+            "score": 0.4079708158969879
+          },
+          {
+            "begin_char": 1860,
+            "end_char": 1896,
+            "sentiment": "3 stars",
+            "score": 0.277612566947937
+          },
+          {
+            "begin_char": 1897,
+            "end_char": 1991,
+            "sentiment": "3 stars",
+            "score": 0.2662009596824646
+          },
+          {
+            "begin_char": 1992,
+            "end_char": 2105,
+            "sentiment": "3 stars",
+            "score": 0.304569274187088
+          },
+          {
+            "begin_char": 2105,
+            "end_char": 2139,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2140,
+            "end_char": 2305,
+            "sentiment": "4 stars",
+            "score": 0.31975746154785156
+          },
+          {
+            "begin_char": 2306,
+            "end_char": 2310,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2310,
+            "end_char": 2312,
+            "sentiment": "4 stars",
+            "score": 0.26574963331222534
+          },
+          {
+            "begin_char": 2313,
+            "end_char": 2525,
+            "sentiment": "5 stars",
+            "score": 0.3538168966770172
+          },
+          {
+            "begin_char": 2525,
+            "end_char": 2594,
+            "sentiment": "4 stars",
+            "score": 0.28637129068374634
+          },
+          {
+            "begin_char": 2595,
+            "end_char": 2662,
+            "sentiment": "3 stars",
+            "score": 0.4191988706588745
+          },
+          {
+            "begin_char": 2663,
+            "end_char": 2745,
+            "sentiment": "4 stars",
+            "score": 0.2749607563018799
+          },
+          {
+            "begin_char": 2746,
+            "end_char": 2948,
+            "sentiment": "5 stars",
+            "score": 0.4897633492946625
+          },
+          {
+            "begin_char": 2949,
+            "end_char": 3080,
+            "sentiment": "4 stars",
+            "score": 0.33047956228256226
+          },
+          {
+            "begin_char": 3081,
+            "end_char": 3170,
+            "sentiment": "4 stars",
+            "score": 0.2986242175102234
+          },
+          {
+            "begin_char": 3171,
+            "end_char": 3221,
+            "sentiment": "5 stars",
+            "score": 0.2453710436820984
+          },
+          {
+            "begin_char": 3222,
+            "end_char": 3270,
+            "sentiment": "3 stars",
+            "score": 0.26020094752311707
+          },
+          {
+            "begin_char": 3270,
+            "end_char": 3369,
+            "sentiment": "1 star",
+            "score": 0.3884750306606293
+          },
+          {
+            "begin_char": 3370,
+            "end_char": 3545,
+            "sentiment": "5 stars",
+            "score": 0.35091346502304077
+          },
+          {
+            "begin_char": 3546,
+            "end_char": 3632,
+            "sentiment": "5 stars",
+            "score": 0.3248260021209717
+          },
+          {
+            "begin_char": 3633,
+            "end_char": 3959,
+            "sentiment": "3 stars",
+            "score": 0.2743092477321625
+          },
+          {
+            "begin_char": 3960,
+            "end_char": 4073,
+            "sentiment": "5 stars",
+            "score": 0.26799914240837097
+          },
+          {
+            "begin_char": 4074,
+            "end_char": 4086,
+            "sentiment": "1 star",
+            "score": 0.37842199206352234
+          },
+          {
+            "begin_char": 4086,
+            "end_char": 4155,
+            "sentiment": "4 stars",
+            "score": 0.28637129068374634
+          },
+          {
+            "begin_char": 4156,
+            "end_char": 4222,
+            "sentiment": "1 star",
+            "score": 0.6514819264411926
+          },
+          {
+            "begin_char": 4223,
+            "end_char": 4298,
+            "sentiment": "1 star",
+            "score": 0.6151429414749146
+          },
+          {
+            "begin_char": 4299,
+            "end_char": 4374,
+            "sentiment": "5 stars",
+            "score": 0.253913551568985
+          },
+          {
+            "begin_char": 4375,
+            "end_char": 4537,
+            "sentiment": "3 stars",
+            "score": 0.2781417667865753
+          },
+          {
+            "begin_char": 4538,
+            "end_char": 4559,
+            "sentiment": "5 stars",
+            "score": 0.5189999938011169
+          },
+          {
+            "begin_char": 4559,
+            "end_char": 4629,
+            "sentiment": "4 stars",
+            "score": 0.28689906001091003
+          },
+          {
+            "begin_char": 4630,
+            "end_char": 4675,
+            "sentiment": "3 stars",
+            "score": 0.24697065353393555
+          },
+          {
+            "begin_char": 4676,
+            "end_char": 4754,
+            "sentiment": "5 stars",
+            "score": 0.45150116086006165
+          },
+          {
+            "begin_char": 4755,
+            "end_char": 4872,
+            "sentiment": "5 stars",
+            "score": 0.3517954349517822
+          },
+          {
+            "begin_char": 4873,
+            "end_char": 4954,
+            "sentiment": "4 stars",
+            "score": 0.2468561977148056
+          },
+          {
+            "begin_char": 4955,
+            "end_char": 5023,
+            "sentiment": "5 stars",
+            "score": 0.3749885857105255
+          },
+          {
+            "begin_char": 5024,
+            "end_char": 5304,
+            "sentiment": "5 stars",
+            "score": 0.577349066734314
+          },
+          {
+            "begin_char": 5305,
+            "end_char": 5368,
+            "sentiment": "3 stars",
+            "score": 0.3112752139568329
+          },
+          {
+            "begin_char": 5369,
+            "end_char": 5372,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-03-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-03-01",
+        "pageJO": "1899",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

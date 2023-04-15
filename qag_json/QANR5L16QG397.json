@@ -1,0 +1,875 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG397",
+    "identifiant": {
+      "numero": "397",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "HAUSSE DES PRIX DE L'ÉNERGIE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA607090",
+        "mandatRef": "PM796761"
+      },
+      "groupe": {
+        "organeRef": "PO800508",
+        "abrege": "LR",
+        "developpe": "Les Républicains"
+      }
+    },
+    "minInt": {
+      "abrege": "Renouveau démocratique, porte-parole du Gouvernement",
+      "developpe": "Ministère auprès de la Première ministre, chargé du renouveau démocratique, porte-parole du Gouvernement"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Renouveau démocratique, porte-parole du Gouvernement",
+          "developpe": "Ministère auprès de la Première ministre, chargé du renouveau démocratique, porte-parole du Gouvernement"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> HAUSSE DES PRIX DE L'ÉNERGIE <a name=PG11></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Pierre Vigier.<br><br><strong>M. Jean-Pierre Vigier. </strong>Madame la Première ministre, la flambée des prix de l'énergie est un objet d'inquiétude majeure pour tous les Français.<br><br>Comment rester insensibles à la détresse de nos artisans, commerçants, chefs d'entreprise et agriculteurs, qui voient leur activité menacée ? Comment tolérer que des Français renoncent à se chauffer dignement cet hiver ? Comment accepter que les collectivités territoriales ne puissent plus assurer certains services essentiels ? Je pense d'ailleurs à celles des territoires ruraux et de montagne, qui souffrent plus spécifiquement.<br><br><strong>Mme Émilie Bonnivard.</strong> Eh oui !<br><br><strong>M. Jean-Pierre Vigier. </strong>Certaines communes voient leurs factures multipliées par cinq !<br><br><strong>M. Vincent Descoeur.</strong> Et même par six !<br><br><strong>M. Jean-Pierre Vigier. </strong>Face à cette situation, les aides actuelles ne suffisent pas.<br><br><strong>Mme Anne-Laure Blin.</strong> Il a raison !<br><br><strong>M. Jean-Pierre Vigier. </strong>Leurs critères sont trop restrictifs, oubliant de trop nombreux Français.<br><br><strong>M. Sébastien Jumel.</strong> Il a raison !<br><br><strong>M. Jean-Pierre Vigier. </strong>Plus largement, toutes vos réponses sont insuffisantes. <i>(Applaudissements sur les bancs du groupe LR.) </i>Nous devons réviser – je dis bien réviser – durablement le calcul du prix de l'énergie, qui pénalise fortement notre pays.<br><br><strong>M. Sébastien Jumel.</strong> Il faut réguler les tarifs !<br><br><strong>M. Marc Le Fur.</strong> Bien sûr !<br><br><strong>M. Jean-Pierre Vigier. </strong>Madame la Première ministre, apportez-nous des solutions concrètes, rapides et efficaces. Les Français nous regardent et comptent sur vous pour agir fortement à leur service. <i>(Applaudissements sur les bancs du groupe LR ainsi que sur plusieurs bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé du renouveau démocratique, porte-parole du Gouvernement.<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué chargé du renouveau démocratique, porte-parole du Gouvernement. </i>Monsieur Vigier, face à l'augmentation des coûts de l'énergie, vous avez eu l'occasion à plusieurs reprises de voter des mécanismes de protection destinés à nos concitoyens, aux entreprises, aux artisans, aux commerçants et aux collectivités. Bref, nombreuses ont été les occasions de joindre votre voix à celles de la majorité afin que cette augmentation, qui affecte tous les pays européens, reste supportable pour eux – de fait, son ampleur dans notre pays n'a rien à voir avec ce qu'elle est dans la moyenne des pays européens…<br><br><strong>M. Dino Cinieri.</strong> N'importe quoi !<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué . </i>…et la quasi-totalité des pays qui nous entourent. <i>(Exclamations sur plusieurs bancs du groupe LR.)</i><br><br><strong>M. Jean-Pierre Vigier.</strong> C'est faux !<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué. </i>En plus de renforcer et de moderniser le nucléaire, pour diversifier notre mix énergétique, nous vous avons soumis un texte important sur les énergies renouvelables. Vous aurez dans quelques jours la possibilité de joindre votre voix à celles de la majorité pour que nous gagnions en indépendance énergétique, tout en faisant du bien à la planète. <i>(Exclamations continues sur les bancs des groupes LR et GDR-NUPES. - M. Nicolas Dupont-Aignan proteste également.)</i><br><br><strong>M. Nicolas Dupont-Aignan.</strong> Zéro !<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué . </i>Oui, vous aurez dans les jours et les semaines qui viennent l'occasion de joindre votre voix à celles de la majorité et des actes à vos paroles. La France a maîtrisé l'augmentation des prix de l'électricité et du gaz, grâce à un bouclier tarifaire sans pareil en Europe.<br><br>La France est le pays qui limite la hausse du prix du gaz et de l'électricité à 15 % à compter du 1er janvier 2023. Il n'en est rien dans les pays voisins. <i>(Mme Caroline Abadie applaudit. – Vives exclamations sur les bancs des groupes RN, LR et GDR-NUPES.)</i><br><br>Plus vous criez, plus ça vous énerve, plus vous montrez que j'ai raison ! Tant mieux, je continue donc ! <i>(Protestations sur les bancs des groupes RN, LR et GDR-NUPES.)</i><br><br>La ministre déléguée Olivia Grégoire a également rappelé le soutien dont bénéficient en France les artisans et les commerçants. <i>(Protestations sur les bancs du groupe LR.) </i>Croyez-vous une seconde que nous avons instauré le « quoi qu'il en coûte » pour sauver tous les commerces, les boulangeries, les restaurants pendant des années, avant de les laisser ensuite en difficulté…<br><br><strong>Mme la présidente.</strong> Mes chers collègues du groupe Les Républicains, je vous remercie d'écouter M. le ministre délégué.<br><br><strong>M. Olivier Véran,</strong><i> ministre délégué. </i>…face à la hausse du prix de l'énergie ? Bref, croyez en la volonté de la Première ministre et de son gouvernement d'être en toutes circonstances à l'écoute de la totalité de nos concitoyens et de faire front ensemble. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>Mme Caroline Parmentier.</strong> Non, on n'y croit pas !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 53,
+            "label": "MISC",
+            "text": "HAUSSE DES PRIX DE L'ÉNERGIE <"
+          },
+          {
+            "start_char": 86,
+            "end_char": 89,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 130,
+            "end_char": 133,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 133,
+            "end_char": 167,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier.<br><br><strong"
+          },
+          {
+            "start_char": 171,
+            "end_char": 189,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier"
+          },
+          {
+            "start_char": 200,
+            "end_char": 218,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 493,
+            "end_char": 501,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 775,
+            "end_char": 804,
+            "label": "PER",
+            "text": "Mme Émilie Bonnivard.</strong"
+          },
+          {
+            "start_char": 833,
+            "end_char": 851,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier"
+          },
+          {
+            "start_char": 944,
+            "end_char": 969,
+            "label": "PER",
+            "text": "Vincent Descoeur.</strong"
+          },
+          {
+            "start_char": 1007,
+            "end_char": 1025,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier"
+          },
+          {
+            "start_char": 1113,
+            "end_char": 1142,
+            "label": "PER",
+            "text": "Mme Anne-Laure Blin.</strong>"
+          },
+          {
+            "start_char": 1175,
+            "end_char": 1193,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier"
+          },
+          {
+            "start_char": 1296,
+            "end_char": 1321,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 1354,
+            "end_char": 1372,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier"
+          },
+          {
+            "start_char": 1484,
+            "end_char": 1486,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 1634,
+            "end_char": 1658,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong"
+          },
+          {
+            "start_char": 1707,
+            "end_char": 1711,
+            "label": "PER",
+            "text": "Marc"
+          },
+          {
+            "start_char": 1715,
+            "end_char": 1727,
+            "label": "ORG",
+            "text": "Fur.</strong"
+          },
+          {
+            "start_char": 1758,
+            "end_char": 1776,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier"
+          },
+          {
+            "start_char": 1787,
+            "end_char": 1805,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 1881,
+            "end_char": 1889,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2007,
+            "end_char": 2009,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2050,
+            "end_char": 2073,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2074,
+            "end_char": 2077,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2118,
+            "end_char": 2120,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2220,
+            "end_char": 2230,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 2317,
+            "end_char": 2329,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2335,
+            "end_char": 2350,
+            "label": "PER",
+            "text": "Monsieur Vigier"
+          },
+          {
+            "start_char": 2885,
+            "end_char": 2906,
+            "label": "PER",
+            "text": "Dino Cinieri.</strong"
+          },
+          {
+            "start_char": 2940,
+            "end_char": 2950,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3091,
+            "end_char": 3114,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3118,
+            "end_char": 3145,
+            "label": "PER",
+            "text": "Jean-Pierre Vigier.</strong"
+          },
+          {
+            "start_char": 3175,
+            "end_char": 3185,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3628,
+            "end_char": 3630,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 3634,
+            "end_char": 3638,
+            "label": "ORG",
+            "text": "GDR-"
+          },
+          {
+            "start_char": 3638,
+            "end_char": 3643,
+            "label": "ORG",
+            "text": "NUPES"
+          },
+          {
+            "start_char": 3650,
+            "end_char": 3671,
+            "label": "PER",
+            "text": "Nicolas Dupont-Aignan"
+          },
+          {
+            "start_char": 3715,
+            "end_char": 3745,
+            "label": "PER",
+            "text": "Nicolas Dupont-Aignan.</strong"
+          },
+          {
+            "start_char": 3747,
+            "end_char": 3751,
+            "label": "LOC",
+            "text": "Zéro"
+          },
+          {
+            "start_char": 3769,
+            "end_char": 3779,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 3967,
+            "end_char": 3976,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 4100,
+            "end_char": 4109,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 4293,
+            "end_char": 4298,
+            "label": "LOC",
+            "text": "Vives"
+          },
+          {
+            "start_char": 4338,
+            "end_char": 4340,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 4342,
+            "end_char": 4344,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 4348,
+            "end_char": 4370,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 4520,
+            "end_char": 4522,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 4524,
+            "end_char": 4526,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 4530,
+            "end_char": 4552,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br"
+          },
+          {
+            "start_char": 4641,
+            "end_char": 4647,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 4723,
+            "end_char": 4725,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 4732,
+            "end_char": 4738,
+            "label": "LOC",
+            "text": "Croyez"
+          },
+          {
+            "start_char": 4952,
+            "end_char": 4978,
+            "label": "PER",
+            "text": "Mme la présidente.</strong"
+          },
+          {
+            "start_char": 4980,
+            "end_char": 4983,
+            "label": "LOC",
+            "text": "Mes"
+          },
+          {
+            "start_char": 5014,
+            "end_char": 5026,
+            "label": "ORG",
+            "text": "Républicains"
+          },
+          {
+            "start_char": 5055,
+            "end_char": 5057,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 5094,
+            "end_char": 5104,
+            "label": "PER",
+            "text": "M. Olivier"
+          },
+          {
+            "start_char": 5193,
+            "end_char": 5199,
+            "label": "MISC",
+            "text": "croyez"
+          },
+          {
+            "start_char": 5220,
+            "end_char": 5228,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 5416,
+            "end_char": 5439,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5440,
+            "end_char": 5473,
+            "label": "PER",
+            "text": "Mme Caroline Parmentier.</strong>"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 104,
+            "sentiment": "3 stars",
+            "score": 0.2784684896469116
+          },
+          {
+            "begin_char": 105,
+            "end_char": 190,
+            "sentiment": "4 stars",
+            "score": 0.2725026309490204
+          },
+          {
+            "begin_char": 191,
+            "end_char": 200,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 200,
+            "end_char": 327,
+            "sentiment": "5 stars",
+            "score": 0.405387818813324
+          },
+          {
+            "begin_char": 327,
+            "end_char": 468,
+            "sentiment": "5 stars",
+            "score": 0.5768786072731018
+          },
+          {
+            "begin_char": 469,
+            "end_char": 547,
+            "sentiment": "5 stars",
+            "score": 0.22194696962833405
+          },
+          {
+            "begin_char": 548,
+            "end_char": 656,
+            "sentiment": "1 star",
+            "score": 0.23270003497600555
+          },
+          {
+            "begin_char": 657,
+            "end_char": 805,
+            "sentiment": "4 stars",
+            "score": 0.30454903841018677
+          },
+          {
+            "begin_char": 806,
+            "end_char": 814,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 814,
+            "end_char": 852,
+            "sentiment": "3 stars",
+            "score": 0.27627426385879517
+          },
+          {
+            "begin_char": 853,
+            "end_char": 862,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 862,
+            "end_char": 925,
+            "sentiment": "2 stars",
+            "score": 0.3537270128726959
+          },
+          {
+            "begin_char": 925,
+            "end_char": 988,
+            "sentiment": "3 stars",
+            "score": 0.25058963894844055
+          },
+          {
+            "begin_char": 988,
+            "end_char": 1026,
+            "sentiment": "3 stars",
+            "score": 0.27627426385879517
+          },
+          {
+            "begin_char": 1027,
+            "end_char": 1142,
+            "sentiment": "3 stars",
+            "score": 0.3705753982067108
+          },
+          {
+            "begin_char": 1143,
+            "end_char": 1156,
+            "sentiment": "5 stars",
+            "score": 0.3322871923446655
+          },
+          {
+            "begin_char": 1156,
+            "end_char": 1194,
+            "sentiment": "3 stars",
+            "score": 0.27627426385879517
+          },
+          {
+            "begin_char": 1195,
+            "end_char": 1204,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1204,
+            "end_char": 1321,
+            "sentiment": "2 stars",
+            "score": 0.43896937370300293
+          },
+          {
+            "begin_char": 1322,
+            "end_char": 1335,
+            "sentiment": "5 stars",
+            "score": 0.3322871923446655
+          },
+          {
+            "begin_char": 1335,
+            "end_char": 1373,
+            "sentiment": "3 stars",
+            "score": 0.27627426385879517
+          },
+          {
+            "begin_char": 1374,
+            "end_char": 1438,
+            "sentiment": "1 star",
+            "score": 0.4653064012527466
+          },
+          {
+            "begin_char": 1439,
+            "end_char": 1493,
+            "sentiment": "4 stars",
+            "score": 0.30701664090156555
+          },
+          {
+            "begin_char": 1493,
+            "end_char": 1659,
+            "sentiment": "4 stars",
+            "score": 0.32412996888160706
+          },
+          {
+            "begin_char": 1660,
+            "end_char": 1688,
+            "sentiment": "4 stars",
+            "score": 0.33297601342201233
+          },
+          {
+            "begin_char": 1688,
+            "end_char": 1711,
+            "sentiment": "3 stars",
+            "score": 0.30153682827949524
+          },
+          {
+            "begin_char": 1712,
+            "end_char": 1727,
+            "sentiment": "3 stars",
+            "score": 0.30543115735054016
+          },
+          {
+            "begin_char": 1727,
+            "end_char": 1728,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 1729,
+            "end_char": 1739,
+            "sentiment": "5 stars",
+            "score": 0.3230304718017578
+          },
+          {
+            "begin_char": 1739,
+            "end_char": 1777,
+            "sentiment": "3 stars",
+            "score": 0.27627426385879517
+          },
+          {
+            "begin_char": 1778,
+            "end_char": 1787,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1787,
+            "end_char": 1876,
+            "sentiment": "5 stars",
+            "score": 0.6391249299049377
+          },
+          {
+            "begin_char": 1877,
+            "end_char": 1961,
+            "sentiment": "5 stars",
+            "score": 0.6633566617965698
+          },
+          {
+            "begin_char": 1962,
+            "end_char": 2092,
+            "sentiment": "4 stars",
+            "score": 0.32168319821357727
+          },
+          {
+            "begin_char": 2093,
+            "end_char": 2249,
+            "sentiment": "4 stars",
+            "score": 0.3387698829174042
+          },
+          {
+            "begin_char": 2250,
+            "end_char": 2330,
+            "sentiment": "4 stars",
+            "score": 0.3927465081214905
+          },
+          {
+            "begin_char": 2331,
+            "end_char": 2577,
+            "sentiment": "5 stars",
+            "score": 0.4412970244884491
+          },
+          {
+            "begin_char": 2578,
+            "end_char": 2907,
+            "sentiment": "5 stars",
+            "score": 0.4034598469734192
+          },
+          {
+            "begin_char": 2908,
+            "end_char": 2924,
+            "sentiment": "1 star",
+            "score": 0.8737018704414368
+          },
+          {
+            "begin_char": 2924,
+            "end_char": 2988,
+            "sentiment": "3 stars",
+            "score": 0.30576416850090027
+          },
+          {
+            "begin_char": 2989,
+            "end_char": 3043,
+            "sentiment": "5 stars",
+            "score": 0.27737563848495483
+          },
+          {
+            "begin_char": 3044,
+            "end_char": 3159,
+            "sentiment": "1 star",
+            "score": 0.38345712423324585
+          },
+          {
+            "begin_char": 3159,
+            "end_char": 3222,
+            "sentiment": "3 stars",
+            "score": 0.2865789830684662
+          },
+          {
+            "begin_char": 3223,
+            "end_char": 3227,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3227,
+            "end_char": 3392,
+            "sentiment": "5 stars",
+            "score": 0.5535741448402405
+          },
+          {
+            "begin_char": 3393,
+            "end_char": 3574,
+            "sentiment": "5 stars",
+            "score": 0.7240012288093567
+          },
+          {
+            "begin_char": 3575,
+            "end_char": 3644,
+            "sentiment": "4 stars",
+            "score": 0.28498512506484985
+          },
+          {
+            "begin_char": 3645,
+            "end_char": 3746,
+            "sentiment": "3 stars",
+            "score": 0.324156254529953
+          },
+          {
+            "begin_char": 3747,
+            "end_char": 3753,
+            "sentiment": "1 star",
+            "score": 0.9203963279724121
+          },
+          {
+            "begin_char": 3753,
+            "end_char": 3817,
+            "sentiment": "3 stars",
+            "score": 0.30576416850090027
+          },
+          {
+            "begin_char": 3818,
+            "end_char": 3966,
+            "sentiment": "5 stars",
+            "score": 0.5753586888313293
+          },
+          {
+            "begin_char": 3967,
+            "end_char": 4215,
+            "sentiment": "5 stars",
+            "score": 0.6037238240242004
+          },
+          {
+            "begin_char": 4216,
+            "end_char": 4255,
+            "sentiment": "2 stars",
+            "score": 0.2502953112125397
+          },
+          {
+            "begin_char": 4256,
+            "end_char": 4272,
+            "sentiment": "3 stars",
+            "score": 0.2938516438007355
+          },
+          {
+            "begin_char": 4273,
+            "end_char": 4290,
+            "sentiment": "5 stars",
+            "score": 0.5720462203025818
+          },
+          {
+            "begin_char": 4291,
+            "end_char": 4371,
+            "sentiment": "5 stars",
+            "score": 0.37963175773620605
+          },
+          {
+            "begin_char": 4371,
+            "end_char": 4444,
+            "sentiment": "1 star",
+            "score": 0.6455803513526917
+          },
+          {
+            "begin_char": 4445,
+            "end_char": 4475,
+            "sentiment": "5 stars",
+            "score": 0.37299254536628723
+          },
+          {
+            "begin_char": 4476,
+            "end_char": 4553,
+            "sentiment": "3 stars",
+            "score": 0.3003127872943878
+          },
+          {
+            "begin_char": 4553,
+            "end_char": 4580,
+            "sentiment": "4 stars",
+            "score": 0.3149525821208954
+          },
+          {
+            "begin_char": 4581,
+            "end_char": 4680,
+            "sentiment": "5 stars",
+            "score": 0.4527561366558075
+          },
+          {
+            "begin_char": 4681,
+            "end_char": 4732,
+            "sentiment": "3 stars",
+            "score": 0.2896306812763214
+          },
+          {
+            "begin_char": 4732,
+            "end_char": 4979,
+            "sentiment": "1 star",
+            "score": 0.4446612000465393
+          },
+          {
+            "begin_char": 4980,
+            "end_char": 5141,
+            "sentiment": "5 stars",
+            "score": 0.3958568572998047
+          },
+          {
+            "begin_char": 5142,
+            "end_char": 5186,
+            "sentiment": "3 stars",
+            "score": 0.2924173176288605
+          },
+          {
+            "begin_char": 5187,
+            "end_char": 5364,
+            "sentiment": "5 stars",
+            "score": 0.7183693647384644
+          },
+          {
+            "begin_char": 5365,
+            "end_char": 5473,
+            "sentiment": "3 stars",
+            "score": 0.3466644883155823
+          },
+          {
+            "begin_char": 5474,
+            "end_char": 5497,
+            "sentiment": "1 star",
+            "score": 0.7035360932350159
+          },
+          {
+            "begin_char": 5497,
+            "end_char": 5505,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-15",
+        "pageJO": "7017",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

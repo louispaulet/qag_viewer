@@ -1,0 +1,881 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG16",
+    "identifiant": {
+      "numero": "16",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "climat",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Conséquences de la canicule"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA795076",
+        "mandatRef": "PM797289"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition écologique et cohésion des territoires",
+      "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition écologique et cohésion des territoires",
+          "developpe": "Ministère de la transition écologique et de la cohésion des territoires"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> CONSÉQUENCES DE LA CANICULE <a name=PG16></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Sandrine Rousseau.<br><br><strong>Mme Sandrine Rousseau. </strong>Nous sommes au premier jour d'une canicule que les prévisionnistes annoncent comme exceptionnelle – plus précisément, nous vivons le second épisode caniculaire en deux mois.<br><br><strong>Mme Caroline Parmentier.</strong> Bravo, madame Soleil !<br><br><strong>Mme Sandrine Rousseau. </strong>Avant, il y avait eu les inondations, les feux gigantesques, la grêle : ce ne sont pas les alertes qui ont manqué, mais les adaptations. En Grèce, l'année dernière, les pompiers ont été débordés par l'ampleur des feux.<i> </i>Les pluies diluviennes et les inondations en Allemagne et en Belgique ont fait près de 200 morts l'année dernière. Pourtant, nous découvrons, encore et encore : encore et encore, nous semblons surpris.<br><br>Aujourd'hui, l'hôpital est en surchauffe, le covid remonte.<br><br><strong>M. Aurélien Pradié.</strong> Pire encore : Mme Rousseau a été élue députée !<br><br><strong>Mme Sandrine Rousseau. </strong>Les soignants et soignantes démissionnent. Ils partent usés, fatigués et révoltés des conditions de travail qu'on leur impose. Méprisés, ils quittent leur métier. Le secteur de l'aide à domicile est saturé, étranglé par des frais de transport qu'il ne peut plus assumer. Dans les EHPAD aussi, les personnels s'en vont. C'est bien normal : la seule chose qu'on leur promet, au fond, est de travailler jusqu'à 65 ans.<br><br><strong>M. Thibaut François.</strong> À cause de vous !<br><br><strong>Mme Sandrine Rousseau. </strong>Comment les personnes âgées vont-elles passer l'été ? Y a-t-il eu un plan de préparation des EHPAD aux épisodes caniculaires ? Non.<br><br>Les pompiers ont-ils reçu, eux au moins, des renforts – de personnel, de moyens, de matériel – à la hauteur des enjeux ? Il y a un énorme feu dans les Cévennes. Le sud craque sous la sécheresse. Et que fait-on ? Renforce-t-on les moyens des pompiers ? Non.<br><br>Les personnes sans domicile fixe meurent plus de chaleur l'été que de froid l'hiver. Que fait-on ? Qu'a-t-on fait ? Rien. <i>(Applaudissements sur les bancs des groupes Écolo-NUPES et LFI-NUPES.)</i> L'urgence, pour vous, c'était d'inscrire l'importation de gaz de schiste et la relance des centrales à charbon dans le projet de loi relatif à la protection du pouvoir d'achat.<br><br><strong>M. Aurélien Pradié.</strong> Ne criez pas !<br><br><strong>Mme Sandrine Rousseau. </strong>Ma question est très simple : puisque l'été va être chaud, que préparez-vous ? <i>(Applaudissements sur les bancs des groupes Écolo-NUPES et LFI-NUPES et sur quelques bancs du groupe GDR-NUPES.)</i> <br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de la transition écologique et de la cohésion des territoires.<br><br><strong>M. Christophe Béchu,</strong><i> ministre de la transition écologique et de la cohésion des territoires. </i>Je voudrais tout d'abord, comme au moins l'un de mes prédécesseurs, vous dire l'émotion particulière qui me saisit. Je vous remercie donc, madame la députée, de m'accueillir…<br><br><strong>M. Aurélien Pradié.</strong> Personne ne vous accueille !<br><br><strong>M. Christophe Béchu,</strong><i> ministre . </i>…avec cette question à laquelle je vais avoir l'occasion de répondre quelques jours après que vous avez salué ma nomination.<br><br><strong>M. Fabien Di Filippo.</strong> Déjà une minute de gagnée !<br><br><strong>M. Christophe Béchu,</strong><i> ministre. </i>Au sein de votre intervention, vous avez relié de nombreux points. Le défi majeur qui se pose à nous, et qui n'autorise personne à rester dans le déni climatique, s'illustre parfaitement par cette deuxième vague de chaleur, d'une intensité particulière, qui intervient si peu de temps après la précédente.<br><br>Les experts sont unanimes sur un point : ces épisodes seront deux fois plus nombreux en 2050.<br><br><strong>M. Antoine Léaument.</strong> Il faut sortir du capitalisme !<br><br><strong>M. Christophe Béchu, ministre.</strong> Face à cette urgence, la Première ministre a donné des instructions. Je pense au déclenchement du plan ORSEC, organisation de la réponse de sécurité civile, contre les vagues de chaleur. Nous travaillons de façon étroite avec les maires qui, vous le savez, tiennent les registres communaux recensant les personnes vulnérables, ce qui permet d'aller à leur contact. Nous allons intensifier ces mesures partout sur le terrain, puisque la Première ministre nous a demandé de nous déployer dès maintenant afin d'être aux côtés de l'ensemble des territoires.<br><br><strong>M. Christophe Béchu, ministre.</strong> Vous avez évoqué les pompiers ou les soignants. Ne nous trompons pas : des décisions vont être prises ici même et à l'échelle européenne alors que plusieurs mesures sont déjà en vigueur, mais au moment où la crise survient, tous les pouvoirs publics, partout où ils se trouvent, doivent unir leurs énergies.<br><br><strong>M. Christophe Béchu, ministre.</strong> Je veux ainsi saluer l'action du conseil régional de Bretagne, qui vient de se doter d'un haut conseil pour le climat afin de territorialiser une partie des décisions. Nous devons collectivement nous interroger sur la manière de répondre à l'ensemble de ces enjeux. Cette préoccupation sera au cœur du prochain plan national d'adaptation au changement climatique, qui sera lancé à partir de 2023 et qui nous donnera l'occasion de montrer le changement de braquet et l'intensification de notre action, accélération que nous appelons de nos vœux sur l'ensemble de ces questions. <i>(Applaudissements sur les bancs du groupe RE et sur quelques bancs du groupe Dem.)</i><br><br><strong>M. Aurélien Pradié.</strong> L'héroïsme pur !<br><br><strong>Mme la présidente. </strong>La parole est à Mme Sandrine Rousseau.<br><br><strong>Mme Sandrine Rousseau. </strong>La canicule n'attend pas 2023 : elle est là ! (Applaudissements sur les bancs des groupes Écolo-NUPES et LFI-NUPES.)<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 35,
+            "label": "MISC",
+            "text": "CONSÉQUENCES"
+          },
+          {
+            "start_char": 42,
+            "end_char": 50,
+            "label": "ORG",
+            "text": "CANICULE"
+          },
+          {
+            "start_char": 85,
+            "end_char": 88,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 129,
+            "end_char": 141,
+            "label": "PER",
+            "text": "Mme Sandrine"
+          },
+          {
+            "start_char": 167,
+            "end_char": 188,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau"
+          },
+          {
+            "start_char": 388,
+            "end_char": 420,
+            "label": "PER",
+            "text": "Mme Caroline Parmentier.</strong"
+          },
+          {
+            "start_char": 422,
+            "end_char": 427,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 436,
+            "end_char": 442,
+            "label": "LOC",
+            "text": "Soleil"
+          },
+          {
+            "start_char": 460,
+            "end_char": 481,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau"
+          },
+          {
+            "start_char": 632,
+            "end_char": 637,
+            "label": "LOC",
+            "text": "Grèce"
+          },
+          {
+            "start_char": 763,
+            "end_char": 772,
+            "label": "LOC",
+            "text": "Allemagne"
+          },
+          {
+            "start_char": 779,
+            "end_char": 787,
+            "label": "LOC",
+            "text": "Belgique"
+          },
+          {
+            "start_char": 911,
+            "end_char": 926,
+            "label": "MISC",
+            "text": "surpris.<br><br"
+          },
+          {
+            "start_char": 1005,
+            "end_char": 1029,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 1045,
+            "end_char": 1057,
+            "label": "PER",
+            "text": "Mme Rousseau"
+          },
+          {
+            "start_char": 1094,
+            "end_char": 1115,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau"
+          },
+          {
+            "start_char": 1253,
+            "end_char": 1261,
+            "label": "PER",
+            "text": "Méprisés"
+          },
+          {
+            "start_char": 1406,
+            "end_char": 1411,
+            "label": "ORG",
+            "text": "EHPAD"
+          },
+          {
+            "start_char": 1560,
+            "end_char": 1585,
+            "label": "PER",
+            "text": "Thibaut François.</strong"
+          },
+          {
+            "start_char": 1620,
+            "end_char": 1641,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau"
+          },
+          {
+            "start_char": 1745,
+            "end_char": 1750,
+            "label": "ORG",
+            "text": "EHPAD"
+          },
+          {
+            "start_char": 1779,
+            "end_char": 1790,
+            "label": "ORG",
+            "text": "Non.<br><br"
+          },
+          {
+            "start_char": 1942,
+            "end_char": 1950,
+            "label": "LOC",
+            "text": "Cévennes"
+          },
+          {
+            "start_char": 2043,
+            "end_char": 2054,
+            "label": "ORG",
+            "text": "Non.<br><br"
+          },
+          {
+            "start_char": 2224,
+            "end_char": 2235,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2239,
+            "end_char": 2253,
+            "label": "MISC",
+            "text": "LFI-NUPES.)</i"
+          },
+          {
+            "start_char": 2450,
+            "end_char": 2474,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 2506,
+            "end_char": 2527,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau"
+          },
+          {
+            "start_char": 2664,
+            "end_char": 2675,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2679,
+            "end_char": 2688,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2721,
+            "end_char": 2735,
+            "label": "ORG",
+            "text": "GDR-NUPES.)</i"
+          },
+          {
+            "start_char": 2753,
+            "end_char": 2756,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2797,
+            "end_char": 2799,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2890,
+            "end_char": 2903,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3192,
+            "end_char": 3217,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong>"
+          },
+          {
+            "start_char": 3262,
+            "end_char": 3275,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3450,
+            "end_char": 3459,
+            "label": "PER",
+            "text": "M. Fabien"
+          },
+          {
+            "start_char": 3460,
+            "end_char": 3480,
+            "label": "PER",
+            "text": "Di Filippo.</strong>"
+          },
+          {
+            "start_char": 3524,
+            "end_char": 3537,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 3865,
+            "end_char": 3883,
+            "label": "MISC",
+            "text": "précédente.<br><br"
+          },
+          {
+            "start_char": 3996,
+            "end_char": 4021,
+            "label": "PER",
+            "text": "Antoine Léaument.</strong"
+          },
+          {
+            "start_char": 4073,
+            "end_char": 4089,
+            "label": "PER",
+            "text": "Christophe Béchu"
+          },
+          {
+            "start_char": 4091,
+            "end_char": 4108,
+            "label": "ORG",
+            "text": "ministre.</strong"
+          },
+          {
+            "start_char": 4135,
+            "end_char": 4143,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4213,
+            "end_char": 4218,
+            "label": "ORG",
+            "text": "ORSEC"
+          },
+          {
+            "start_char": 4546,
+            "end_char": 4554,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4682,
+            "end_char": 4698,
+            "label": "PER",
+            "text": "Christophe Béchu"
+          },
+          {
+            "start_char": 4700,
+            "end_char": 4717,
+            "label": "ORG",
+            "text": "ministre.</strong"
+          },
+          {
+            "start_char": 5045,
+            "end_char": 5061,
+            "label": "PER",
+            "text": "Christophe Béchu"
+          },
+          {
+            "start_char": 5063,
+            "end_char": 5080,
+            "label": "ORG",
+            "text": "ministre.</strong"
+          },
+          {
+            "start_char": 5115,
+            "end_char": 5143,
+            "label": "LOC",
+            "text": "conseil régional de Bretagne"
+          },
+          {
+            "start_char": 5697,
+            "end_char": 5706,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 5739,
+            "end_char": 5763,
+            "label": "ORG",
+            "text": "Dem.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5767,
+            "end_char": 5791,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 5825,
+            "end_char": 5828,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5869,
+            "end_char": 5881,
+            "label": "PER",
+            "text": "Mme Sandrine"
+          },
+          {
+            "start_char": 5907,
+            "end_char": 5928,
+            "label": "PER",
+            "text": "Mme Sandrine Rousseau"
+          },
+          {
+            "start_char": 5986,
+            "end_char": 6002,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 6029,
+            "end_char": 6040,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 6044,
+            "end_char": 6058,
+            "label": "MISC",
+            "text": "LFI-NUPES.)<br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 103,
+            "sentiment": "3 stars",
+            "score": 0.3396565020084381
+          },
+          {
+            "begin_char": 104,
+            "end_char": 189,
+            "sentiment": "3 stars",
+            "score": 0.25244197249412537
+          },
+          {
+            "begin_char": 190,
+            "end_char": 482,
+            "sentiment": "5 stars",
+            "score": 0.3631327152252197
+          },
+          {
+            "begin_char": 483,
+            "end_char": 492,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 492,
+            "end_char": 628,
+            "sentiment": "2 stars",
+            "score": 0.276766836643219
+          },
+          {
+            "begin_char": 629,
+            "end_char": 718,
+            "sentiment": "3 stars",
+            "score": 0.30404990911483765
+          },
+          {
+            "begin_char": 718,
+            "end_char": 832,
+            "sentiment": "4 stars",
+            "score": 0.27950891852378845
+          },
+          {
+            "begin_char": 833,
+            "end_char": 967,
+            "sentiment": "2 stars",
+            "score": 0.3530362546443939
+          },
+          {
+            "begin_char": 967,
+            "end_char": 1078,
+            "sentiment": "1 star",
+            "score": 0.5000293850898743
+          },
+          {
+            "begin_char": 1078,
+            "end_char": 1116,
+            "sentiment": "3 stars",
+            "score": 0.28439125418663025
+          },
+          {
+            "begin_char": 1117,
+            "end_char": 1126,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1126,
+            "end_char": 1168,
+            "sentiment": "1 star",
+            "score": 0.24235059320926666
+          },
+          {
+            "begin_char": 1169,
+            "end_char": 1252,
+            "sentiment": "2 stars",
+            "score": 0.34722986817359924
+          },
+          {
+            "begin_char": 1253,
+            "end_char": 1288,
+            "sentiment": "2 stars",
+            "score": 0.2694893479347229
+          },
+          {
+            "begin_char": 1289,
+            "end_char": 1396,
+            "sentiment": "2 stars",
+            "score": 0.34690818190574646
+          },
+          {
+            "begin_char": 1397,
+            "end_char": 1444,
+            "sentiment": "2 stars",
+            "score": 0.2390275001525879
+          },
+          {
+            "begin_char": 1445,
+            "end_char": 1604,
+            "sentiment": "1 star",
+            "score": 0.43806469440460205
+          },
+          {
+            "begin_char": 1604,
+            "end_char": 1642,
+            "sentiment": "3 stars",
+            "score": 0.28439125418663025
+          },
+          {
+            "begin_char": 1643,
+            "end_char": 1652,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1652,
+            "end_char": 1705,
+            "sentiment": "3 stars",
+            "score": 0.28692370653152466
+          },
+          {
+            "begin_char": 1706,
+            "end_char": 1778,
+            "sentiment": "3 stars",
+            "score": 0.3218751847743988
+          },
+          {
+            "begin_char": 1779,
+            "end_char": 1791,
+            "sentiment": "2 stars",
+            "score": 0.26951801776885986
+          },
+          {
+            "begin_char": 1791,
+            "end_char": 1911,
+            "sentiment": "5 stars",
+            "score": 0.3111779987812042
+          },
+          {
+            "begin_char": 1912,
+            "end_char": 1951,
+            "sentiment": "1 star",
+            "score": 0.25053277611732483
+          },
+          {
+            "begin_char": 1952,
+            "end_char": 1985,
+            "sentiment": "2 stars",
+            "score": 0.34699687361717224
+          },
+          {
+            "begin_char": 1986,
+            "end_char": 2002,
+            "sentiment": "1 star",
+            "score": 0.5368306636810303
+          },
+          {
+            "begin_char": 2003,
+            "end_char": 2042,
+            "sentiment": "4 stars",
+            "score": 0.3678486943244934
+          },
+          {
+            "begin_char": 2043,
+            "end_char": 2055,
+            "sentiment": "2 stars",
+            "score": 0.26951801776885986
+          },
+          {
+            "begin_char": 2055,
+            "end_char": 2139,
+            "sentiment": "2 stars",
+            "score": 0.3164793848991394
+          },
+          {
+            "begin_char": 2140,
+            "end_char": 2153,
+            "sentiment": "1 star",
+            "score": 0.4612041115760803
+          },
+          {
+            "begin_char": 2154,
+            "end_char": 2170,
+            "sentiment": "1 star",
+            "score": 0.6733264327049255
+          },
+          {
+            "begin_char": 2171,
+            "end_char": 2176,
+            "sentiment": "1 star",
+            "score": 0.7282894849777222
+          },
+          {
+            "begin_char": 2177,
+            "end_char": 2254,
+            "sentiment": "4 stars",
+            "score": 0.3259700834751129
+          },
+          {
+            "begin_char": 2255,
+            "end_char": 2475,
+            "sentiment": "5 stars",
+            "score": 0.3298259973526001
+          },
+          {
+            "begin_char": 2476,
+            "end_char": 2490,
+            "sentiment": "5 stars",
+            "score": 0.5395721793174744
+          },
+          {
+            "begin_char": 2490,
+            "end_char": 2528,
+            "sentiment": "3 stars",
+            "score": 0.28439125418663025
+          },
+          {
+            "begin_char": 2529,
+            "end_char": 2616,
+            "sentiment": "3 stars",
+            "score": 0.2822440564632416
+          },
+          {
+            "begin_char": 2617,
+            "end_char": 2771,
+            "sentiment": "4 stars",
+            "score": 0.3201252818107605
+          },
+          {
+            "begin_char": 2772,
+            "end_char": 2994,
+            "sentiment": "4 stars",
+            "score": 0.3396654725074768
+          },
+          {
+            "begin_char": 2995,
+            "end_char": 3114,
+            "sentiment": "5 stars",
+            "score": 0.6388499140739441
+          },
+          {
+            "begin_char": 3115,
+            "end_char": 3217,
+            "sentiment": "4 stars",
+            "score": 0.29840758442878723
+          },
+          {
+            "begin_char": 3218,
+            "end_char": 3246,
+            "sentiment": "1 star",
+            "score": 0.8140184283256531
+          },
+          {
+            "begin_char": 3246,
+            "end_char": 3305,
+            "sentiment": "3 stars",
+            "score": 0.314378947019577
+          },
+          {
+            "begin_char": 3306,
+            "end_char": 3459,
+            "sentiment": "3 stars",
+            "score": 0.29600825905799866
+          },
+          {
+            "begin_char": 3460,
+            "end_char": 3480,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 3481,
+            "end_char": 3485,
+            "sentiment": "2 stars",
+            "score": 0.23967090249061584
+          },
+          {
+            "begin_char": 3486,
+            "end_char": 3508,
+            "sentiment": "1 star",
+            "score": 0.4828360378742218
+          },
+          {
+            "begin_char": 3508,
+            "end_char": 3566,
+            "sentiment": "3 stars",
+            "score": 0.29623985290527344
+          },
+          {
+            "begin_char": 3567,
+            "end_char": 3571,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3571,
+            "end_char": 3637,
+            "sentiment": "5 stars",
+            "score": 0.37136346101760864
+          },
+          {
+            "begin_char": 3638,
+            "end_char": 3884,
+            "sentiment": "5 stars",
+            "score": 0.5627661347389221
+          },
+          {
+            "begin_char": 3884,
+            "end_char": 4022,
+            "sentiment": "2 stars",
+            "score": 0.2474903166294098
+          },
+          {
+            "begin_char": 4023,
+            "end_char": 4054,
+            "sentiment": "5 stars",
+            "score": 0.55413818359375
+          },
+          {
+            "begin_char": 4054,
+            "end_char": 4109,
+            "sentiment": "3 stars",
+            "score": 0.3005385994911194
+          },
+          {
+            "begin_char": 4110,
+            "end_char": 4178,
+            "sentiment": "4 stars",
+            "score": 0.34400179982185364
+          },
+          {
+            "begin_char": 4179,
+            "end_char": 4296,
+            "sentiment": "4 stars",
+            "score": 0.3705501854419708
+          },
+          {
+            "begin_char": 4297,
+            "end_char": 4474,
+            "sentiment": "5 stars",
+            "score": 0.4778411388397217
+          },
+          {
+            "begin_char": 4475,
+            "end_char": 4718,
+            "sentiment": "5 stars",
+            "score": 0.5357213616371155
+          },
+          {
+            "begin_char": 4719,
+            "end_char": 4766,
+            "sentiment": "2 stars",
+            "score": 0.24111664295196533
+          },
+          {
+            "begin_char": 4767,
+            "end_char": 5081,
+            "sentiment": "5 stars",
+            "score": 0.4678303003311157
+          },
+          {
+            "begin_char": 5082,
+            "end_char": 5249,
+            "sentiment": "5 stars",
+            "score": 0.41888678073883057
+          },
+          {
+            "begin_char": 5250,
+            "end_char": 5347,
+            "sentiment": "5 stars",
+            "score": 0.48137542605400085
+          },
+          {
+            "begin_char": 5348,
+            "end_char": 5658,
+            "sentiment": "5 stars",
+            "score": 0.6978116035461426
+          },
+          {
+            "begin_char": 5659,
+            "end_char": 5792,
+            "sentiment": "3 stars",
+            "score": 0.3520568907260895
+          },
+          {
+            "begin_char": 5793,
+            "end_char": 5809,
+            "sentiment": "5 stars",
+            "score": 0.6559309959411621
+          },
+          {
+            "begin_char": 5809,
+            "end_char": 5843,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 5844,
+            "end_char": 5929,
+            "sentiment": "3 stars",
+            "score": 0.25244197249412537
+          },
+          {
+            "begin_char": 5930,
+            "end_char": 5986,
+            "sentiment": "5 stars",
+            "score": 0.3602764308452606
+          },
+          {
+            "begin_char": 5986,
+            "end_char": 6059,
+            "sentiment": "4 stars",
+            "score": 0.3598082363605499
+          },
+          {
+            "begin_char": 6060,
+            "end_char": 6063,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-13",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-13",
+        "pageJO": "2342",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

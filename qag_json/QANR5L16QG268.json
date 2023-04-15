@@ -1,0 +1,557 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG268",
+    "identifiant": {
+      "numero": "268",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "associations et fondations",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Situation du bénévolat"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719528",
+        "mandatRef": "PM796515"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Économie sociale et solidaire et vie associative",
+      "developpe": "Secrétariat d’État auprès de la Première ministre, chargé de l’économie sociale et solidaire et de la vie associative"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Économie sociale et solidaire et vie associative",
+          "developpe": "Secrétariat d’État auprès de la Première ministre, chargé de l’économie sociale et solidaire et de la vie associative"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SITUATION DU BÉNÉVOLAT <a name=PG22></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jean-François Portarrieu.<br><br><strong>M. Jean-François Portarrieu. </strong>Il y a en France environ 1,3 million d'associations actives, dont 90 % fonctionnent sans salariés, grâce à leurs seuls bénévoles. Le secteur associatif est très important, mais on peut s'interroger sur les conséquences des crises qui se superposent depuis la pandémie de covid-19. Une étude réalisée récemment pour France Bénévolat montre que 27 % des bénévoles ont cessé leur engagement pendant la crise sanitaire et ce mouvement d'érosion se poursuit puisque, toujours selon cette étude, 2 millions de bénévoles ont interrompu leur activité au cours des deux dernières années.<br><br>Dans ce contexte, un grand nombre d'associations peinent à maintenir leur niveau d'activité, notamment à cause de cette baisse de l'engagement. Sans déjà parler d'une crise du bénévolat, on observe des signes tangibles d'essoufflement, et le délitement constaté par de nombreux élus que j'ai interrogés dans la région toulousaine concerne sans doute toute la France.<br><br>Or ce phénomène inquiète de nombreux maires car les associations jouent très souvent un rôle essentiel dans la vie de leurs communes. Si l'on y ajoute le ralentissement, depuis une dizaine d'années, des créations d'associations, on peut s'interroger sur l'avenir de ce secteur qui intervient pourtant dans de nombreux domaines d'activité comme l'action sociale et humanitaire, le handicap, le sport, la culture ou encore les loisirs.<br><br>Face à ces inquiétudes et pour espérer endiguer le phénomène de désaffection des bénévoles, une évaluation de la situation sera-t-elle réalisée et, surtout, des mesures de reconnaissance et d'encouragement de l'engagement associatif sont-elles envisagées ?<br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État chargée de l’économie sociale et solidaire et de la vie associative.<br><br><strong>Mme Marlène Schiappa,</strong><i> secrétaire d'État chargée de l’économie sociale et solidaire et de la vie associative. </i>Je salue votre engagement, monsieur le député, en faveur de l'avenir de la vie associative, en Haute-Garonne comme partout en France. Vous le rappelez à juste raison : les bénévoles sont nombreux et permettent au pays de tenir. Un Français sur trois est bénévole. Or être bénévole, c'est donner ce qu'on a de plus précieux au monde : son temps – qui, par définition, ne reviendra jamais.<br><br>Ces bénévoles, nous devons les encourager. C'est pourquoi la Première ministre a souhaité que je travaille sur deux grandes priorités. La première consiste à valoriser l'engagement bénévole. Nous avons entamé un tour de France du bénévolat au cours duquel nous décernons des médailles à des bénévoles,…<br><br><strong>Mme Frédérique Meunier.</strong> Ça ne suffit pas !<br><br><strong>M. Pierre Cordier.</strong> C'est n'importe quoi !<br><br><strong>Mme Marlène Schiappa,</strong><i> secrétaire d'État. </i>…ces figures que vous voyez partout dans vos circonscriptions et qui sont notamment présentes lors d'événements collectifs. Ensuite, nous les écoutons et allons à leur rencontre pour coconstruire les politiques publiques de la vie associative.<br><br>Décerner une médaille, c'est très positif mais insuffisant, me direz-vous.<br><br><strong>Mme Frédérique Meunier.</strong> Eh oui !<br><br><strong>Mme Marlène Schiappa,</strong><i> secrétaire d'État. </i>Cela tombe bien : nous ne nous arrêtons pas là. <i>(« Ah ! » sur les bancs du groupe LR.)</i> Nous nous employons à ouvrir la possibilité de transformer en diplômes les années d'expérience bénévole, dans le cadre des travaux que conduisent les ministres Olivier Dussopt et Carole Grandjean et des dispositions que l'Assemblée a votées afin de faciliter l'accès à la validation des acquis de l'expérience (VAE).<br><br>La Première ministre m'a donc demandé de développer une plateforme pour les bénévoles, afin que chacun d'entre eux sache à quel diplôme prétendre et comment sanctionner ainsi son expérience.<br><br>Seconde priorité, après la valorisation : la simplification. Les bénévoles ne s'engagent pas pour passer des heures à remplir de la paperasse mais pour exercer leur cœur d'activité, leur passion, leur métier, et pour faire ensemble, avec les autres. C'est pourquoi nous ouvrons un grand chantier de simplification de la vie associative, afin de lutter contre l'inflation des formalités administratives exigées des associations. Le tour de France du bénévolat permettra d'écouter ces dernières. J'ai hâte de venir à votre rencontre, avec les bénévoles, dans vos circonscriptions. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 36,
+            "end_char": 45,
+            "label": "ORG",
+            "text": "BÉNÉVOLAT"
+          },
+          {
+            "start_char": 80,
+            "end_char": 83,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 124,
+            "end_char": 167,
+            "label": "PER",
+            "text": "M. Jean-François Portarrieu.<br><br><strong"
+          },
+          {
+            "start_char": 171,
+            "end_char": 195,
+            "label": "PER",
+            "text": "Jean-François Portarrieu"
+          },
+          {
+            "start_char": 216,
+            "end_char": 222,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 521,
+            "end_char": 537,
+            "label": "PER",
+            "text": "France Bénévolat"
+          },
+          {
+            "start_char": 1151,
+            "end_char": 1168,
+            "label": "MISC",
+            "text": "France.<br><br>Or"
+          },
+          {
+            "start_char": 1591,
+            "end_char": 1611,
+            "label": "MISC",
+            "text": "loisirs.<br><br>Face"
+          },
+          {
+            "start_char": 1879,
+            "end_char": 1882,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1923,
+            "end_char": 1926,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1943,
+            "end_char": 1947,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1959,
+            "end_char": 1961,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2032,
+            "end_char": 2043,
+            "label": "PER",
+            "text": "Mme Marlène"
+          },
+          {
+            "start_char": 2079,
+            "end_char": 2083,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2095,
+            "end_char": 2097,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2252,
+            "end_char": 2265,
+            "label": "LOC",
+            "text": "Haute-Garonne"
+          },
+          {
+            "start_char": 2283,
+            "end_char": 2289,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 2388,
+            "end_char": 2396,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2537,
+            "end_char": 2551,
+            "label": "MISC",
+            "text": "jamais.<br><br"
+          },
+          {
+            "start_char": 2613,
+            "end_char": 2621,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 2769,
+            "end_char": 2778,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 2870,
+            "end_char": 2901,
+            "label": "PER",
+            "text": "Mme Frédérique Meunier.</strong"
+          },
+          {
+            "start_char": 2903,
+            "end_char": 2905,
+            "label": "MISC",
+            "text": "Ça"
+          },
+          {
+            "start_char": 2940,
+            "end_char": 2963,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 3003,
+            "end_char": 3014,
+            "label": "PER",
+            "text": "Mme Marlène"
+          },
+          {
+            "start_char": 3050,
+            "end_char": 3054,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3311,
+            "end_char": 3319,
+            "label": "PER",
+            "text": "Décerner"
+          },
+          {
+            "start_char": 3401,
+            "end_char": 3432,
+            "label": "PER",
+            "text": "Mme Frédérique Meunier.</strong"
+          },
+          {
+            "start_char": 3458,
+            "end_char": 3469,
+            "label": "PER",
+            "text": "Mme Marlène"
+          },
+          {
+            "start_char": 3505,
+            "end_char": 3509,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3569,
+            "end_char": 3573,
+            "label": "MISC",
+            "text": "Ah !"
+          },
+          {
+            "start_char": 3600,
+            "end_char": 3607,
+            "label": "ORG",
+            "text": "LR.)</i"
+          },
+          {
+            "start_char": 3769,
+            "end_char": 3784,
+            "label": "PER",
+            "text": "Olivier Dussopt"
+          },
+          {
+            "start_char": 3788,
+            "end_char": 3804,
+            "label": "PER",
+            "text": "Carole Grandjean"
+          },
+          {
+            "start_char": 3831,
+            "end_char": 3840,
+            "label": "ORG",
+            "text": "Assemblée"
+          },
+          {
+            "start_char": 3936,
+            "end_char": 3956,
+            "label": "MISC",
+            "text": "Première ministre m'"
+          },
+          {
+            "start_char": 4567,
+            "end_char": 4576,
+            "label": "LOC",
+            "text": "de France"
+          },
+          {
+            "start_char": 4761,
+            "end_char": 4772,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 98,
+            "sentiment": "3 stars",
+            "score": 0.32566943764686584
+          },
+          {
+            "begin_char": 99,
+            "end_char": 196,
+            "sentiment": "4 stars",
+            "score": 0.2692829966545105
+          },
+          {
+            "begin_char": 197,
+            "end_char": 206,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 206,
+            "end_char": 335,
+            "sentiment": "5 stars",
+            "score": 0.31015247106552124
+          },
+          {
+            "begin_char": 336,
+            "end_char": 486,
+            "sentiment": "4 stars",
+            "score": 0.42261794209480286
+          },
+          {
+            "begin_char": 487,
+            "end_char": 935,
+            "sentiment": "3 stars",
+            "score": 0.419055312871933
+          },
+          {
+            "begin_char": 936,
+            "end_char": 1299,
+            "sentiment": "4 stars",
+            "score": 0.3965294063091278
+          },
+          {
+            "begin_char": 1300,
+            "end_char": 1729,
+            "sentiment": "4 stars",
+            "score": 0.44382068514823914
+          },
+          {
+            "begin_char": 1730,
+            "end_char": 1863,
+            "sentiment": "4 stars",
+            "score": 0.3928307592868805
+          },
+          {
+            "begin_char": 1863,
+            "end_char": 1897,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 1898,
+            "end_char": 2152,
+            "sentiment": "4 stars",
+            "score": 0.3311837613582611
+          },
+          {
+            "begin_char": 2153,
+            "end_char": 2157,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2157,
+            "end_char": 2290,
+            "sentiment": "5 stars",
+            "score": 0.5650186538696289
+          },
+          {
+            "begin_char": 2291,
+            "end_char": 2384,
+            "sentiment": "5 stars",
+            "score": 0.41017448902130127
+          },
+          {
+            "begin_char": 2385,
+            "end_char": 2420,
+            "sentiment": "3 stars",
+            "score": 0.2820970416069031
+          },
+          {
+            "begin_char": 2421,
+            "end_char": 2552,
+            "sentiment": "5 stars",
+            "score": 0.5533007979393005
+          },
+          {
+            "begin_char": 2552,
+            "end_char": 2594,
+            "sentiment": "5 stars",
+            "score": 0.4625447392463684
+          },
+          {
+            "begin_char": 2595,
+            "end_char": 2686,
+            "sentiment": "4 stars",
+            "score": 0.3221088647842407
+          },
+          {
+            "begin_char": 2687,
+            "end_char": 2742,
+            "sentiment": "4 stars",
+            "score": 0.3173304796218872
+          },
+          {
+            "begin_char": 2743,
+            "end_char": 2902,
+            "sentiment": "3 stars",
+            "score": 0.28246504068374634
+          },
+          {
+            "begin_char": 2903,
+            "end_char": 2921,
+            "sentiment": "1 star",
+            "score": 0.46338948607444763
+          },
+          {
+            "begin_char": 2921,
+            "end_char": 2964,
+            "sentiment": "3 stars",
+            "score": 0.323579341173172
+          },
+          {
+            "begin_char": 2965,
+            "end_char": 2987,
+            "sentiment": "1 star",
+            "score": 0.9221543073654175
+          },
+          {
+            "begin_char": 2987,
+            "end_char": 3055,
+            "sentiment": "3 stars",
+            "score": 0.30050769448280334
+          },
+          {
+            "begin_char": 3056,
+            "end_char": 3183,
+            "sentiment": "5 stars",
+            "score": 0.35925930738449097
+          },
+          {
+            "begin_char": 3184,
+            "end_char": 3311,
+            "sentiment": "5 stars",
+            "score": 0.4745813012123108
+          },
+          {
+            "begin_char": 3311,
+            "end_char": 3433,
+            "sentiment": "3 stars",
+            "score": 0.3625357151031494
+          },
+          {
+            "begin_char": 3434,
+            "end_char": 3442,
+            "sentiment": "5 stars",
+            "score": 0.41055935621261597
+          },
+          {
+            "begin_char": 3442,
+            "end_char": 3510,
+            "sentiment": "3 stars",
+            "score": 0.30050769448280334
+          },
+          {
+            "begin_char": 3511,
+            "end_char": 3562,
+            "sentiment": "5 stars",
+            "score": 0.28227171301841736
+          },
+          {
+            "begin_char": 3563,
+            "end_char": 3608,
+            "sentiment": "3 stars",
+            "score": 0.2619953751564026
+          },
+          {
+            "begin_char": 3609,
+            "end_char": 4191,
+            "sentiment": "5 stars",
+            "score": 0.48032957315444946
+          },
+          {
+            "begin_char": 4192,
+            "end_char": 4380,
+            "sentiment": "5 stars",
+            "score": 0.33529892563819885
+          },
+          {
+            "begin_char": 4381,
+            "end_char": 4558,
+            "sentiment": "5 stars",
+            "score": 0.4889986217021942
+          },
+          {
+            "begin_char": 4559,
+            "end_char": 4624,
+            "sentiment": "5 stars",
+            "score": 0.45246583223342896
+          },
+          {
+            "begin_char": 4625,
+            "end_char": 4709,
+            "sentiment": "5 stars",
+            "score": 0.6295807361602783
+          },
+          {
+            "begin_char": 4710,
+            "end_char": 4773,
+            "sentiment": "3 stars",
+            "score": 0.3112752139568329
+          },
+          {
+            "begin_char": 4774,
+            "end_char": 4777,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-09",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-09",
+        "pageJO": "5248",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

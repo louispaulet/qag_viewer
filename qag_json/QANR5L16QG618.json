@@ -1,0 +1,527 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG618",
+    "identifiant": {
+      "numero": "618",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "professions de santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "RÉMUNÉRATION DES INFIRMIERS LIBÉRAUX"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721486",
+        "mandatRef": "PM797517"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Première ministre",
+      "developpe": "Première ministre"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Première ministre",
+          "developpe": "Première ministre"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉMUNÉRATION DES INFIRMIERS LIBÉRAUX <a name=PG7></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Christophe Naegelen.<br><br><strong>M. Christophe Naegelen. </strong>Madame la Première ministre, alors que certains parlent de mettre la France à genoux, je souhaitais vous parler de ces personnes qui, quelles que soient les crises ou les pandémies, sont aux côtés de nos concitoyens, notamment les plus fragiles. Les infirmières et infirmiers libéraux n'ont bénéficié ni de la prime covid ni de celle issue du Ségur de la santé. Ils constituent néanmoins des maillons essentiels de notre société pour assurer la continuité des soins dans un contexte où le Gouvernement affiche une politique ambitieuse du « bien vieillir » à domicile. Ils sont toujours en première ligne, exercent un métier éprouvant, dont la pénibilité n'est d'ailleurs pas prise en compte dans leur retraite, et pallient le manque de soins dans nos territoires sous-dotés.<br><br>La valorisation financière de leurs actes est inchangée depuis plus de dix ans, et alors que la France connaît un contexte inflationniste préjudiciable à tous. Leurs indemnités forfaitaires de déplacement sont fixées à 2,50 euros, ce qui est en soi plus que minime et qui devient insignifiant au vu de l'augmentation du prix de l'essence. Ce montant apparaît d'autant plus indécent que depuis le 31 décembre dernier, l'aide exceptionnelle au déplacement pour ces professionnels, qui bénéficiaient depuis avril 2022 d'une maigre revalorisation de 4 centimes, a été supprimée.<br><br>Précisons que les indemnités forfaitaires de déplacement sont complétées par une indemnité kilométrique de 50 centimes par kilomètre, dès lors que le patient n'habite pas dans la commune du professionnel, ce qui crée une fois de plus un préjudice pour nos territoires ruraux. Je prends l'exemple de cette infirmière bressaude qui s'est vu refuser ce remboursement au seul motif qu'elle exerce dans une commune vaste de 57 kilomètres carrés.<br><br>Qu'entend donc faire le Gouvernement pour que, d'une part, les conditions que j'ai évoquées et qui ne tiennent pas compte de la réalité de tous les territoires soient assouplies, d'autre part, pour envoyer un signal fort à toutes ces femmes et ces hommes qui, tous les jours, assurent une présence et un service indispensables ?<i> (Applaudissements sur les bancs du groupe LIOT, ainsi que sur plusieurs bancs du groupe RN et sur quelques bancs du groupe LR. – Mme Christine Pires Beaune applaudit aussi.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la Première ministre.<br><br><strong>Mme Élisabeth Borne,</strong><i> Première ministre. </i>Vous avez raison, les infirmières et infirmiers libéraux sont essentiels pour l'accès aux soins et pour la santé de nos concitoyens. Dans la France rurale, dans les zones de montagne, dans les petites communes, ou dans les villes moyennes, ces professionnels sont bien souvent les visages accessibles du soin. En semaine comme le week-end, ils parcourent des dizaines de kilomètres par jour au contact des Françaises et des Français qui en ont besoin. Au nom du Gouvernement, je veux leur dire toute ma reconnaissance <i>(Applaudissements sur plusieurs bancs du groupe RE et sur quelques bancs du groupe Dem)</i> : avec le ministre de la santé François Braun, nous sommes mobilisés à leurs côtés.<br><br>Concernant les indemnités kilométriques, nous sommes bien conscients des difficultés, notamment dans ces périodes de prix élevés des carburants. Dès 2019, leur mode de calcul a été révisé afin de mieux tenir compte de la réalité des déplacements. Il n'y a désormais plus de règles uniques pour l'ensemble du pays, celles-ci pouvant être négociées à l'échelle de chaque département, en tenant compte des réalités locales. En écho à votre alerte, le ministre de la santé demandera à l'assurance maladie de veiller à la bonne prise en compte de ces réalités. J'ajoute que, l'an dernier, l'assurance maladie a revalorisé les indemnités kilométriques pour les infirmières et infirmiers libéraux, qui ont évidemment bénéficié des différentes aides instaurées par le Gouvernement, lesquelles ont été doublées par l'assurance maladie.<br><br>S'agissant de la rémunération, en 2020, nous avons établi le bilan de soins infirmiers, qui a rénové le mode de facturation des actes infirmiers, avec une rémunération forfaitaire journalière adaptée aux patients. Depuis le 1er janvier 2022, cet outil a été étendu à l'ensemble des patients dépendants. Le bilan de soins infirmiers connaît un succès important et nous allons, d'ici à 2024, pratiquement doubler les financements, avec 217 millions.<br><br>Cependant, je sais que des interrogations, des doutes et des difficultés persistent. Nous travaillons donc avec les soignants pour faire évoluer le métier d'infirmier libéral. Nous voulons notamment permettre une adaptation des formations, des référentiels d'activité et des compétences. Une mission commune de l'inspection du ministère de la santé et de la prévention et de celle de l'enseignement supérieur et de la recherche travaille sur ce sujet. Par ailleurs, le Gouvernement se mobilise pour enrichir ce métier d'infirmières et d'infirmiers libéraux : élargissement des compétences vaccinales ou encore expérimentation de l'établissement de certificats de décès, très attendue dans les territoires, notamment par les maires. Cette évolution du métier va de pair avec le renforcement de son attractivité, qui est l'une des conditions pour assurer une meilleure offre de soins dans tout notre territoire. Je sais que cette préoccupation est très largement partagée sur ces bancs, comme en témoigne l'adoption à l'unanimité, il y a quelques semaines, de la proposition de loi de la rapporteure générale de la commission des affaires sociales, Mme Stéphanie Rist. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 50,
+            "label": "MISC",
+            "text": "RÉMUNÉRATION DES INFIRMIERS"
+          },
+          {
+            "start_char": 51,
+            "end_char": 59,
+            "label": "MISC",
+            "text": "LIBÉRAUX"
+          },
+          {
+            "start_char": 93,
+            "end_char": 96,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 137,
+            "end_char": 150,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 179,
+            "end_char": 198,
+            "label": "PER",
+            "text": "Christophe Naegelen"
+          },
+          {
+            "start_char": 209,
+            "end_char": 227,
+            "label": "PER",
+            "text": "Madame la Première"
+          },
+          {
+            "start_char": 275,
+            "end_char": 284,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 552,
+            "end_char": 569,
+            "label": "ORG",
+            "text": "Ségur de la santé"
+          },
+          {
+            "start_char": 698,
+            "end_char": 710,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1084,
+            "end_char": 1093,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1555,
+            "end_char": 1572,
+            "label": "MISC",
+            "text": "supprimée.<br><br"
+          },
+          {
+            "start_char": 2045,
+            "end_char": 2057,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2354,
+            "end_char": 2370,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 2441,
+            "end_char": 2443,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 2476,
+            "end_char": 2478,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2482,
+            "end_char": 2508,
+            "label": "PER",
+            "text": "Mme Christine Pires Beaune"
+          },
+          {
+            "start_char": 2546,
+            "end_char": 2549,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2590,
+            "end_char": 2605,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 2631,
+            "end_char": 2644,
+            "label": "PER",
+            "text": "Mme Élisabeth"
+          },
+          {
+            "start_char": 2825,
+            "end_char": 2834,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3017,
+            "end_char": 3025,
+            "label": "LOC",
+            "text": "week-end"
+          },
+          {
+            "start_char": 3093,
+            "end_char": 3103,
+            "label": "LOC",
+            "text": "Françaises"
+          },
+          {
+            "start_char": 3111,
+            "end_char": 3119,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3149,
+            "end_char": 3161,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3291,
+            "end_char": 3298,
+            "label": "ORG",
+            "text": "Dem)</i"
+          },
+          {
+            "start_char": 3331,
+            "end_char": 3345,
+            "label": "PER",
+            "text": "François Braun"
+          },
+          {
+            "start_char": 3377,
+            "end_char": 3390,
+            "label": "MISC",
+            "text": "côtés.<br><br"
+          },
+          {
+            "start_char": 4151,
+            "end_char": 4163,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4209,
+            "end_char": 4224,
+            "label": "MISC",
+            "text": "maladie.<br><br"
+          },
+          {
+            "start_char": 4663,
+            "end_char": 4689,
+            "label": "MISC",
+            "text": "millions.<br><br>Cependant"
+          },
+          {
+            "start_char": 5149,
+            "end_char": 5161,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 5827,
+            "end_char": 5845,
+            "label": "PER",
+            "text": "Mme Stéphanie Rist"
+          },
+          {
+            "start_char": 5898,
+            "end_char": 5909,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 50,
+            "sentiment": "4 stars",
+            "score": 0.2800585925579071
+          },
+          {
+            "begin_char": 51,
+            "end_char": 59,
+            "sentiment": "4 stars",
+            "score": 0.34257370233535767
+          },
+          {
+            "begin_char": 60,
+            "end_char": 111,
+            "sentiment": "3 stars",
+            "score": 0.3023648262023926
+          },
+          {
+            "begin_char": 112,
+            "end_char": 176,
+            "sentiment": "3 stars",
+            "score": 0.24959950149059296
+          },
+          {
+            "begin_char": 176,
+            "end_char": 199,
+            "sentiment": "4 stars",
+            "score": 0.2594858705997467
+          },
+          {
+            "begin_char": 200,
+            "end_char": 209,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 209,
+            "end_char": 454,
+            "sentiment": "5 stars",
+            "score": 0.6627954244613647
+          },
+          {
+            "begin_char": 455,
+            "end_char": 570,
+            "sentiment": "1 star",
+            "score": 0.42290791869163513
+          },
+          {
+            "begin_char": 571,
+            "end_char": 776,
+            "sentiment": "4 stars",
+            "score": 0.4845622479915619
+          },
+          {
+            "begin_char": 777,
+            "end_char": 991,
+            "sentiment": "4 stars",
+            "score": 0.39414480328559875
+          },
+          {
+            "begin_char": 991,
+            "end_char": 1150,
+            "sentiment": "5 stars",
+            "score": 0.3419521450996399
+          },
+          {
+            "begin_char": 1151,
+            "end_char": 1329,
+            "sentiment": "2 stars",
+            "score": 0.48900049924850464
+          },
+          {
+            "begin_char": 1330,
+            "end_char": 1848,
+            "sentiment": "1 star",
+            "score": 0.4404154121875763
+          },
+          {
+            "begin_char": 1849,
+            "end_char": 2349,
+            "sentiment": "5 stars",
+            "score": 0.37105289101600647
+          },
+          {
+            "begin_char": 2349,
+            "end_char": 2479,
+            "sentiment": "4 stars",
+            "score": 0.3676958382129669
+          },
+          {
+            "begin_char": 2480,
+            "end_char": 2564,
+            "sentiment": "3 stars",
+            "score": 0.3177618086338043
+          },
+          {
+            "begin_char": 2565,
+            "end_char": 2663,
+            "sentiment": "3 stars",
+            "score": 0.28298741579055786
+          },
+          {
+            "begin_char": 2664,
+            "end_char": 2682,
+            "sentiment": "4 stars",
+            "score": 0.3165116310119629
+          },
+          {
+            "begin_char": 2683,
+            "end_char": 2703,
+            "sentiment": "4 stars",
+            "score": 0.2660495936870575
+          },
+          {
+            "begin_char": 2703,
+            "end_char": 2819,
+            "sentiment": "5 stars",
+            "score": 0.5868300795555115
+          },
+          {
+            "begin_char": 2820,
+            "end_char": 2996,
+            "sentiment": "4 stars",
+            "score": 0.3538343012332916
+          },
+          {
+            "begin_char": 2997,
+            "end_char": 3138,
+            "sentiment": "5 stars",
+            "score": 0.41619518399238586
+          },
+          {
+            "begin_char": 3139,
+            "end_char": 3391,
+            "sentiment": "5 stars",
+            "score": 0.6599730849266052
+          },
+          {
+            "begin_char": 3391,
+            "end_char": 3535,
+            "sentiment": "4 stars",
+            "score": 0.36975327134132385
+          },
+          {
+            "begin_char": 3536,
+            "end_char": 3637,
+            "sentiment": "4 stars",
+            "score": 0.43275216221809387
+          },
+          {
+            "begin_char": 3638,
+            "end_char": 3811,
+            "sentiment": "5 stars",
+            "score": 0.4308668076992035
+          },
+          {
+            "begin_char": 3812,
+            "end_char": 3946,
+            "sentiment": "4 stars",
+            "score": 0.38332536816596985
+          },
+          {
+            "begin_char": 3947,
+            "end_char": 4438,
+            "sentiment": "4 stars",
+            "score": 0.41562333703041077
+          },
+          {
+            "begin_char": 4439,
+            "end_char": 4527,
+            "sentiment": "5 stars",
+            "score": 0.5873103141784668
+          },
+          {
+            "begin_char": 4528,
+            "end_char": 4764,
+            "sentiment": "5 stars",
+            "score": 0.4915672540664673
+          },
+          {
+            "begin_char": 4765,
+            "end_char": 4855,
+            "sentiment": "5 stars",
+            "score": 0.43406522274017334
+          },
+          {
+            "begin_char": 4856,
+            "end_char": 4967,
+            "sentiment": "4 stars",
+            "score": 0.4557330906391144
+          },
+          {
+            "begin_char": 4968,
+            "end_char": 5131,
+            "sentiment": "4 stars",
+            "score": 0.3885830342769623
+          },
+          {
+            "begin_char": 5132,
+            "end_char": 5411,
+            "sentiment": "5 stars",
+            "score": 0.4624655544757843
+          },
+          {
+            "begin_char": 5412,
+            "end_char": 5589,
+            "sentiment": "4 stars",
+            "score": 0.46940362453460693
+          },
+          {
+            "begin_char": 5590,
+            "end_char": 5846,
+            "sentiment": "4 stars",
+            "score": 0.42415472865104675
+          },
+          {
+            "begin_char": 5847,
+            "end_char": 5910,
+            "sentiment": "3 stars",
+            "score": 0.3112752139568329
+          },
+          {
+            "begin_char": 5911,
+            "end_char": 5914,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-03-08",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-03-08",
+        "pageJO": "2227",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

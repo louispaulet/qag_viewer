@@ -1,0 +1,455 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG414",
+    "identifiant": {
+      "numero": "414",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "sécurité des biens et des personnes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": null
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793102",
+        "mandatRef": "PM796143"
+      },
+      "groupe": {
+        "organeRef": "PO800520",
+        "abrege": "RN",
+        "developpe": "Rassemblement National"
+      }
+    },
+    "minInt": {
+      "abrege": "Armées",
+      "developpe": "Ministère des armées"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Armées",
+          "developpe": "Ministère des armées"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-15",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "<p> </p><p align=\"CENTER\"> RÉSERVE OPÉRATIONNELLE <a name=PG28></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Christian Girard.<br><br><strong>M. Christian Girard. </strong>Ma question s'adresse à M. le ministre des armées. La réserve de l'Ukraine lui a permis de reprendre l'initiative sur la Russie. Notre armée de terre exige, elle aussi, une réserve employable, dont le volume correspond à une réalité combattante. Sur ce point, le dernier communiqué de la garde nationale, lacunaire, ne fait que citer des chiffres sans apporter aucun gage de qualité. En réalité, nous savons que les chefs de corps doivent composer avec une réserve fort peu opérationnelle. La confiance d'un chef ne peut souscrire à la politique des miettes : on ne forme pas un soldat en deux semaines ! Les dispositifs d'incitation des entreprises pour accorder des jours de disponibilité à leurs salariés sont à l'avenant, ne permettant que le minimum létal pour envoyer des soldats peu formés au combat. Or la disponibilité, c'est la clé.<br><br>Le chiffre de 24 000 réservistes est spécieux, alors que penser de votre annonce fondée sur le chiffre de 100 000 réservistes ? Dans les faits, nombre de personnels ne se présentent plus aux périodes de réserve, ils ne sont plus formés, plus à jour de leur visite médicale ni de leurs aptitudes, mais ils restent inscrits sur les tableaux d'effectifs. Nous déplorons un artifice systémique sur le volume et nous nous interrogeons sur la relation de l'officier adjoint de réserve (OAR) avec le chef de corps. L'OAR gère le recrutement et conseille le chef de corps sur l'emploi et la formation des réservistes. Les tableaux d'effectifs de la réserve opérationnelle peuvent être biaisés par cette relation duplice, où le conseiller est tributaire des résultats attendus. Pour ces raisons, nous demandons au ministère de faire la pleine clarté sur l'effet militaire des chiffres présentés par la garde nationale. <i>(Applaudissements sur les bancs du groupe RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État chargée des anciens combattants et de la mémoire.<br><br><strong>Mme Patricia Mirallès,</strong><i> secrétaire d'État chargée des anciens combattants et de la mémoire. </i>M. Sébastien Lecornu, ministre des armées, vous prie d'excuser son absence : il est actuellement très occupé par la prochaine loi de programmation militaire (LPM). Il m'a demandé de vous rassurer sur la nécessaire adaptation de nos armées aux nouvelles menaces, qui doit se faire en rendant plus flexible l'accès à la réserve. Notre objectif est d'avoir un militaire de réserve pour deux militaires d'active.<br><br>Un groupe de travail sur l'avenir de la réserve militaire s'est réuni hier, après une première réunion le 21 novembre en présence du ministre des armées. Ce groupe de travail, l'un des six mis en place par Sébastien Lecornu, préfigure une nouvelle méthode de coconstruction de la prochaine loi de programmation militaire. En amont de la présentation du texte en Conseil des ministres et de son dépôt devant les deux assemblées parlementaires, il traduit la volonté du ministre de mener une large concertation sur les sujets les plus structurants pour l'avenir des armées.<br><br>Les autres thématiques retenues pour ces groupes de travail sont : alliances et partenariats stratégiques ; économie de guerre et équipement du combattant – la capacitaire ; environnement de travail et conditions de vie du militaire et de sa famille ; espace et cyber ; mémoire combattante. Les groupes de travail réuniront parlementaires, entreprises, associations, représentants des organisations syndicales et patronales, chercheurs, etc.<br><br>S'agissant plus spécifiquement du groupe de travail sur l'avenir de la réserve militaire, la réunion de ce lundi a permis de rehausser l'ambition du ministère pour retenir à l'horizon 2035 l'objectif d'un réserviste pour deux militaires d'active. Pour atteindre cet objectif, il a identifié une quinzaine de mesures concrètes que le groupe de travail expertisera dans les prochaines semaines, en particulier le recul des limites d'âge et d'adaptation des critères d'aptitude médicale, la pleine utilisation des réservistes au quotidien dans nos unités militaires et le développement de la réserve.<br><br><strong>Mme la présidente. </strong>La parole est à M. Christian Girard.<br><br><strong>M. Christian Girard. </strong>Je suis désolé, madame la secrétaire d'État, mais vous n'avez pas répondu à ma question portant sur le nombre de réservistes opérationnels à ce jour. <i>(Applaudissements sur les bancs du groupe RN.)</i><b",
+        "entities": [
+          {
+            "start_char": 27,
+            "end_char": 49,
+            "label": "ORG",
+            "text": "RÉSERVE OPÉRATIONNELLE"
+          },
+          {
+            "start_char": 84,
+            "end_char": 87,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 128,
+            "end_char": 131,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 131,
+            "end_char": 163,
+            "label": "PER",
+            "text": "Christian Girard.<br><br><strong"
+          },
+          {
+            "start_char": 167,
+            "end_char": 183,
+            "label": "PER",
+            "text": "Christian Girard"
+          },
+          {
+            "start_char": 218,
+            "end_char": 220,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 248,
+            "end_char": 268,
+            "label": "LOC",
+            "text": "réserve de l'Ukraine"
+          },
+          {
+            "start_char": 315,
+            "end_char": 321,
+            "label": "LOC",
+            "text": "Russie"
+          },
+          {
+            "start_char": 1524,
+            "end_char": 1527,
+            "label": "ORG",
+            "text": "OAR"
+          },
+          {
+            "start_char": 1554,
+            "end_char": 1557,
+            "label": "ORG",
+            "text": "OAR"
+          },
+          {
+            "start_char": 1999,
+            "end_char": 2022,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2023,
+            "end_char": 2026,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2067,
+            "end_char": 2070,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2087,
+            "end_char": 2091,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2157,
+            "end_char": 2169,
+            "label": "PER",
+            "text": "Mme Patricia"
+          },
+          {
+            "start_char": 2205,
+            "end_char": 2209,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2267,
+            "end_char": 2284,
+            "label": "PER",
+            "text": "Sébastien Lecornu"
+          },
+          {
+            "start_char": 2422,
+            "end_char": 2425,
+            "label": "ORG",
+            "text": "LPM"
+          },
+          {
+            "start_char": 2886,
+            "end_char": 2903,
+            "label": "PER",
+            "text": "Sébastien Lecornu"
+          },
+          {
+            "start_char": 3042,
+            "end_char": 3049,
+            "label": "ORG",
+            "text": "Conseil"
+          },
+          {
+            "start_char": 3244,
+            "end_char": 3258,
+            "label": "MISC",
+            "text": "armées.<br><br"
+          },
+          {
+            "start_char": 4321,
+            "end_char": 4324,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 4365,
+            "end_char": 4368,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 4368,
+            "end_char": 4400,
+            "label": "PER",
+            "text": "Christian Girard.<br><br><strong"
+          },
+          {
+            "start_char": 4404,
+            "end_char": 4420,
+            "label": "PER",
+            "text": "Christian Girard"
+          },
+          {
+            "start_char": 4470,
+            "end_char": 4474,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4626,
+            "end_char": 4636,
+            "label": "ORG",
+            "text": "RN.)</i><b"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 24,
+            "sentiment": "3 stars",
+            "score": 0.27847594022750854
+          },
+          {
+            "begin_char": 24,
+            "end_char": 102,
+            "sentiment": "3 stars",
+            "score": 0.26020121574401855
+          },
+          {
+            "begin_char": 103,
+            "end_char": 184,
+            "sentiment": "4 stars",
+            "score": 0.2571898102760315
+          },
+          {
+            "begin_char": 185,
+            "end_char": 244,
+            "sentiment": "4 stars",
+            "score": 0.29303038120269775
+          },
+          {
+            "begin_char": 245,
+            "end_char": 322,
+            "sentiment": "4 stars",
+            "score": 0.36185982823371887
+          },
+          {
+            "begin_char": 323,
+            "end_char": 439,
+            "sentiment": "4 stars",
+            "score": 0.4386264979839325
+          },
+          {
+            "begin_char": 440,
+            "end_char": 577,
+            "sentiment": "2 stars",
+            "score": 0.4842624366283417
+          },
+          {
+            "begin_char": 578,
+            "end_char": 683,
+            "sentiment": "2 stars",
+            "score": 0.3493576645851135
+          },
+          {
+            "begin_char": 684,
+            "end_char": 798,
+            "sentiment": "1 star",
+            "score": 0.6674770712852478
+          },
+          {
+            "begin_char": 799,
+            "end_char": 1001,
+            "sentiment": "2 stars",
+            "score": 0.44956138730049133
+          },
+          {
+            "begin_char": 1002,
+            "end_char": 1044,
+            "sentiment": "5 stars",
+            "score": 0.285997211933136
+          },
+          {
+            "begin_char": 1044,
+            "end_char": 1171,
+            "sentiment": "1 star",
+            "score": 0.6558276414871216
+          },
+          {
+            "begin_char": 1172,
+            "end_char": 1395,
+            "sentiment": "2 stars",
+            "score": 0.3038705885410309
+          },
+          {
+            "begin_char": 1396,
+            "end_char": 1551,
+            "sentiment": "3 stars",
+            "score": 0.43813395500183105
+          },
+          {
+            "begin_char": 1552,
+            "end_char": 1653,
+            "sentiment": "4 stars",
+            "score": 0.42809566855430603
+          },
+          {
+            "begin_char": 1654,
+            "end_char": 1812,
+            "sentiment": "3 stars",
+            "score": 0.5287498235702515
+          },
+          {
+            "begin_char": 1813,
+            "end_char": 1953,
+            "sentiment": "4 stars",
+            "score": 0.3746302127838135
+          },
+          {
+            "begin_char": 1954,
+            "end_char": 2041,
+            "sentiment": "4 stars",
+            "score": 0.3186970353126526
+          },
+          {
+            "begin_char": 2042,
+            "end_char": 2259,
+            "sentiment": "4 stars",
+            "score": 0.3277911841869354
+          },
+          {
+            "begin_char": 2260,
+            "end_char": 2427,
+            "sentiment": "4 stars",
+            "score": 0.329549640417099
+          },
+          {
+            "begin_char": 2428,
+            "end_char": 2590,
+            "sentiment": "4 stars",
+            "score": 0.44799625873565674
+          },
+          {
+            "begin_char": 2591,
+            "end_char": 2680,
+            "sentiment": "3 stars",
+            "score": 0.29424357414245605
+          },
+          {
+            "begin_char": 2680,
+            "end_char": 2833,
+            "sentiment": "4 stars",
+            "score": 0.37260058522224426
+          },
+          {
+            "begin_char": 2834,
+            "end_char": 3001,
+            "sentiment": "4 stars",
+            "score": 0.40073293447494507
+          },
+          {
+            "begin_char": 3002,
+            "end_char": 3259,
+            "sentiment": "4 stars",
+            "score": 0.4415648877620697
+          },
+          {
+            "begin_char": 3259,
+            "end_char": 3366,
+            "sentiment": "4 stars",
+            "score": 0.3548048436641693
+          },
+          {
+            "begin_char": 3367,
+            "end_char": 3432,
+            "sentiment": "4 stars",
+            "score": 0.32027846574783325
+          },
+          {
+            "begin_char": 3433,
+            "end_char": 3510,
+            "sentiment": "4 stars",
+            "score": 0.41612038016319275
+          },
+          {
+            "begin_char": 3511,
+            "end_char": 3528,
+            "sentiment": "5 stars",
+            "score": 0.2961137294769287
+          },
+          {
+            "begin_char": 3529,
+            "end_char": 3549,
+            "sentiment": "4 stars",
+            "score": 0.39091306924819946
+          },
+          {
+            "begin_char": 3550,
+            "end_char": 3954,
+            "sentiment": "4 stars",
+            "score": 0.4270178973674774
+          },
+          {
+            "begin_char": 3955,
+            "end_char": 4339,
+            "sentiment": "4 stars",
+            "score": 0.43773892521858215
+          },
+          {
+            "begin_char": 4340,
+            "end_char": 4421,
+            "sentiment": "4 stars",
+            "score": 0.2571898102760315
+          },
+          {
+            "begin_char": 4422,
+            "end_char": 4580,
+            "sentiment": "2 stars",
+            "score": 0.33612900972366333
+          },
+          {
+            "begin_char": 4581,
+            "end_char": 4636,
+            "sentiment": "3 stars",
+            "score": 0.3267795741558075
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-15",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-15",
+        "pageJO": "7030",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,803 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG40",
+    "identifiant": {
+      "numero": "40",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "outre-mer",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Accueil des Jeux des îles de l'Océan Indienà Mayotte"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA796078",
+        "mandatRef": "PM797838"
+      },
+      "groupe": {
+        "organeRef": "PO800532",
+        "abrege": "LIOT",
+        "developpe": "Libertés, Indépendants, Outre-mer et Territoires"
+      }
+    },
+    "minInt": {
+      "abrege": "Europe et affaires étrangères",
+      "developpe": "Ministère de l’Europe et des affaires étrangères"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Europe et affaires étrangères",
+          "developpe": "Ministère de l’Europe et des affaires étrangères"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ACCUEIL DES JEUX DES ÎLES DE L'OCÉAN INDIEN À MAYOTTE <a name=PG13></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Estelle Youssouffa.<br><br><strong>Mme Estelle Youssouffa. </strong>Ma question s'adresse à Mme la ministre de l'Europe et des affaires étrangères. J'étais, ce 14 juillet, à Mayotte, territoire dont je suis la représentante. Je tiens à vous dire avec quelle ferveur et avec quel patriotisme notre fête nationale y a été célébrée. Mayotte est fière d'être française depuis 1841. Pour nous, Mahorais, la fête a malheureusement été gâchée. Nous avons vu le Président de la République des Comores, Azali Assoumani, et son ministre des sports, accueillis et embrassés en tribune d'honneur, à quelques pas d'ici, place de la Concorde.<br><br>Les ors de la République brillaient de mille feux pour Azali Assoumani, qui revendique la souveraineté comorienne sur Mayotte, devant les Nations unies et dans les colonnes du Figaro. Il accepte les aides financières de Paris, mais refuse de reconnaitre notre choix de rester Français. Il encourage, sinon orchestre, l'afflux migratoire, qui, de l'avis des précédents gouvernements, déstabilise complètement Mayotte et empêche toute politique publique. Par ailleurs, il refuse à nos sportifs mahorais et français l'honneur et la gloire de chanter La Marseillaise et de porter nos couleurs nationales lors des rencontres sportives. Il défend la candidature des Comores à l'organisation des Jeux des îles en 2027, alors que Mayotte est candidate pour accueillir cet événement depuis plusieurs années.<br><br>Pour boucler le dossier, le Conseil départemental de Mayotte attend d'ailleurs depuis plusieurs mois la réponse de l'État au sujet de sa demande de cofinancement des Jeux. Certes, au regard des drames humains et de la menace sur l'intégrité territoriale de la France, le sport semble être un sujet léger, mais il est pourtant porteur de symboles importants. Madame la ministre, la France va-t-elle appuyer la candidature d'un pays qui attaque la souveraineté nationale, ou soutenir pleinement et uniquement Mayotte, pour accueillir les Jeux des îles de l'Océan indien en 2027 ? <i>(Applaudissements sur les bancs des groupes LIOT, LR et RN.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre de l’Europe et des affaires étrangères.<br><br><strong>Mme Catherine Colonna,</strong><i> ministre de l’Europe et des affaires étrangères. </i>Vous m'avez en réalité posé deux questions. La première d'entre elles porte sur l'organisation des Jeux des îles en 2027. Je vais être très claire : si Mayotte souhaite se porter candidate pour les accueillir,…<br><br><strong>M. Mansour Kamardine.</strong> C'est fait !<br><br><strong>Mme Catherine Colonna,</strong><i> ministre . </i>…la diplomatie française sera mobilisée pour défendre sa candidature auprès des membres de la commission qui organise ces Jeux. N'en doutez pas. <i>(Applaudissements sur quelques bancs du groupe RE.)</i><br><br>Quant à votre deuxième question, je peux vous assurer de la détermination de la France à appuyer – encore – ses bonnes relations avec les Comores, comme vous l'avez souligné. Elles sont nécessaires pour lutter contre la pression migratoire sur Mayotte. <i>(Exclamations sur les bancs du groupe RN.)</i><br><br><strong>M. Mansour Kamardine.</strong> Arrêtez !<br><br><strong>Mme Catherine Colonna,</strong><i> ministre . </i>Depuis 2019, nous avons obtenu des autorités comoriennes de pouvoir procéder à une opération de reconduite des clandestins par jour. <i>(Exclamations sur les bancs du groupe RN et sur quelques bancs du groupe LR.)</i><br><br><strong>M. Jérôme Buisson.</strong> Une seule !<br><br><strong>Mme Catherine Colonna,</strong><i> ministre . </i>Plus de 20 000 éloignements de Comoriens en situation irrégulière ont ainsi été opérés en 2021.<br><br><strong>M. Jocelyn Dessigny.</strong> C'est insuffisant !<br><br><strong>Mme Catherine Colonna,</strong><i> ministre. </i>Nous soutenons également les opérations des forces comoriennes sur terre et en mer pour empêcher le départ des barques depuis l'île d'Anjouan. Et j'ajoute, madame la députée, que, depuis 2019, nous appliquons, avec l'Agence française de développement (AFD), un important plan de développement de 150 millions d'euros pour lutter contre les causes profondes de l'immigration, à travers, notamment, la création d'opportunités économiques en faveur des jeunes aux Comores.<br><br><strong>M. Jean-Philippe Tanguy.</strong> Vous n'avez honte de rien !<br><br><strong>Mme Catherine Colonna,</strong><i> ministre . </i>Ce plan concerne en particulier l'île d'Anjouan d'où partent, vous le savez, la plupart des migrants. <i>(Applaudissements sur quelques bancs du groupe RE. - Huées sur de nombreux bancs du groupe RN.)</i><br><br><strong>M. Jocelyn Dessigny.</strong> Vous ne répondez pas aux questions !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 43,
+            "label": "MISC",
+            "text": "ACCUEIL DES JEUX DES"
+          },
+          {
+            "start_char": 69,
+            "end_char": 76,
+            "label": "LOC",
+            "text": "MAYOTTE"
+          },
+          {
+            "start_char": 111,
+            "end_char": 114,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 155,
+            "end_char": 193,
+            "label": "PER",
+            "text": "Mme Estelle Youssouffa.<br><br><strong"
+          },
+          {
+            "start_char": 194,
+            "end_char": 216,
+            "label": "PER",
+            "text": "Mme Estelle Youssouffa"
+          },
+          {
+            "start_char": 251,
+            "end_char": 254,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 258,
+            "end_char": 278,
+            "label": "ORG",
+            "text": "ministre de l'Europe"
+          },
+          {
+            "start_char": 333,
+            "end_char": 340,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 489,
+            "end_char": 496,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 548,
+            "end_char": 556,
+            "label": "MISC",
+            "text": "Mahorais"
+          },
+          {
+            "start_char": 613,
+            "end_char": 651,
+            "label": "PER",
+            "text": "Président de la République des Comores"
+          },
+          {
+            "start_char": 653,
+            "end_char": 668,
+            "label": "PER",
+            "text": "Azali Assoumani"
+          },
+          {
+            "start_char": 809,
+            "end_char": 819,
+            "label": "LOC",
+            "text": "République"
+          },
+          {
+            "start_char": 850,
+            "end_char": 865,
+            "label": "PER",
+            "text": "Azali Assoumani"
+          },
+          {
+            "start_char": 913,
+            "end_char": 920,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 933,
+            "end_char": 946,
+            "label": "ORG",
+            "text": "Nations unies"
+          },
+          {
+            "start_char": 959,
+            "end_char": 977,
+            "label": "LOC",
+            "text": "colonnes du Figaro"
+          },
+          {
+            "start_char": 1015,
+            "end_char": 1020,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 1071,
+            "end_char": 1079,
+            "label": "MISC",
+            "text": "Français"
+          },
+          {
+            "start_char": 1203,
+            "end_char": 1210,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 1342,
+            "end_char": 1357,
+            "label": "MISC",
+            "text": "La Marseillaise"
+          },
+          {
+            "start_char": 1455,
+            "end_char": 1462,
+            "label": "LOC",
+            "text": "Comores"
+          },
+          {
+            "start_char": 1484,
+            "end_char": 1497,
+            "label": "MISC",
+            "text": "Jeux des îles"
+          },
+          {
+            "start_char": 1517,
+            "end_char": 1524,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 1629,
+            "end_char": 1661,
+            "label": "ORG",
+            "text": "Conseil départemental de Mayotte"
+          },
+          {
+            "start_char": 1718,
+            "end_char": 1722,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 1767,
+            "end_char": 1771,
+            "label": "MISC",
+            "text": "Jeux"
+          },
+          {
+            "start_char": 1858,
+            "end_char": 1867,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 1959,
+            "end_char": 1965,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 1979,
+            "end_char": 1988,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 2108,
+            "end_char": 2115,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 2137,
+            "end_char": 2168,
+            "label": "MISC",
+            "text": "Jeux des îles de l'Océan indien"
+          },
+          {
+            "start_char": 2232,
+            "end_char": 2234,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2238,
+            "end_char": 2261,
+            "label": "MISC",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2262,
+            "end_char": 2265,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2306,
+            "end_char": 2309,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2327,
+            "end_char": 2333,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2377,
+            "end_char": 2390,
+            "label": "PER",
+            "text": "Mme Catherine"
+          },
+          {
+            "start_char": 2426,
+            "end_char": 2432,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 2564,
+            "end_char": 2577,
+            "label": "MISC",
+            "text": "Jeux des îles"
+          },
+          {
+            "start_char": 2617,
+            "end_char": 2624,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 2691,
+            "end_char": 2720,
+            "label": "PER",
+            "text": "M. Mansour Kamardine.</strong"
+          },
+          {
+            "start_char": 2750,
+            "end_char": 2763,
+            "label": "PER",
+            "text": "Mme Catherine"
+          },
+          {
+            "start_char": 2922,
+            "end_char": 2926,
+            "label": "MISC",
+            "text": "Jeux"
+          },
+          {
+            "start_char": 2995,
+            "end_char": 3010,
+            "label": "ORG",
+            "text": "RE.)</i><br><br"
+          },
+          {
+            "start_char": 3088,
+            "end_char": 3097,
+            "label": "LOC",
+            "text": "la France"
+          },
+          {
+            "start_char": 3149,
+            "end_char": 3156,
+            "label": "LOC",
+            "text": "Comores"
+          },
+          {
+            "start_char": 3255,
+            "end_char": 3262,
+            "label": "LOC",
+            "text": "Mayotte"
+          },
+          {
+            "start_char": 3305,
+            "end_char": 3328,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3360,
+            "end_char": 3367,
+            "label": "LOC",
+            "text": "Arrêtez"
+          },
+          {
+            "start_char": 3385,
+            "end_char": 3398,
+            "label": "PER",
+            "text": "Mme Catherine"
+          },
+          {
+            "start_char": 3420,
+            "end_char": 3428,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3609,
+            "end_char": 3611,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 3644,
+            "end_char": 3667,
+            "label": "ORG",
+            "text": "LR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 3671,
+            "end_char": 3694,
+            "label": "PER",
+            "text": "Jérôme Buisson.</strong"
+          },
+          {
+            "start_char": 3723,
+            "end_char": 3736,
+            "label": "PER",
+            "text": "Mme Catherine"
+          },
+          {
+            "start_char": 3758,
+            "end_char": 3766,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3804,
+            "end_char": 3813,
+            "label": "LOC",
+            "text": "Comoriens"
+          },
+          {
+            "start_char": 3887,
+            "end_char": 3912,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong"
+          },
+          {
+            "start_char": 3949,
+            "end_char": 3962,
+            "label": "PER",
+            "text": "Mme Catherine"
+          },
+          {
+            "start_char": 3984,
+            "end_char": 3992,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4132,
+            "end_char": 4139,
+            "label": "LOC",
+            "text": "Anjouan"
+          },
+          {
+            "start_char": 4215,
+            "end_char": 4248,
+            "label": "ORG",
+            "text": "Agence française de développement"
+          },
+          {
+            "start_char": 4250,
+            "end_char": 4253,
+            "label": "ORG",
+            "text": "AFD"
+          },
+          {
+            "start_char": 4486,
+            "end_char": 4515,
+            "label": "PER",
+            "text": "Jean-Philippe Tanguy.</strong"
+          },
+          {
+            "start_char": 4560,
+            "end_char": 4573,
+            "label": "PER",
+            "text": "Mme Catherine"
+          },
+          {
+            "start_char": 4595,
+            "end_char": 4603,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 4650,
+            "end_char": 4657,
+            "label": "LOC",
+            "text": "Anjouan"
+          },
+          {
+            "start_char": 4755,
+            "end_char": 4764,
+            "label": "MISC",
+            "text": "groupe RE"
+          },
+          {
+            "start_char": 4806,
+            "end_char": 4829,
+            "label": "ORG",
+            "text": "RN.)</i><br><br><strong"
+          },
+          {
+            "start_char": 4833,
+            "end_char": 4859,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong>"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 129,
+            "sentiment": "3 stars",
+            "score": 0.31596115231513977
+          },
+          {
+            "begin_char": 130,
+            "end_char": 217,
+            "sentiment": "3 stars",
+            "score": 0.24878127872943878
+          },
+          {
+            "begin_char": 218,
+            "end_char": 306,
+            "sentiment": "4 stars",
+            "score": 0.2914849519729614
+          },
+          {
+            "begin_char": 307,
+            "end_char": 383,
+            "sentiment": "4 stars",
+            "score": 0.32782310247421265
+          },
+          {
+            "begin_char": 384,
+            "end_char": 488,
+            "sentiment": "5 stars",
+            "score": 0.6890795826911926
+          },
+          {
+            "begin_char": 489,
+            "end_char": 536,
+            "sentiment": "4 stars",
+            "score": 0.39347073435783386
+          },
+          {
+            "begin_char": 537,
+            "end_char": 595,
+            "sentiment": "2 stars",
+            "score": 0.42968517541885376
+          },
+          {
+            "begin_char": 596,
+            "end_char": 795,
+            "sentiment": "5 stars",
+            "score": 0.3487544357776642
+          },
+          {
+            "begin_char": 795,
+            "end_char": 978,
+            "sentiment": "5 stars",
+            "score": 0.5777360796928406
+          },
+          {
+            "begin_char": 979,
+            "end_char": 1080,
+            "sentiment": "3 stars",
+            "score": 0.2596975266933441
+          },
+          {
+            "begin_char": 1081,
+            "end_char": 1247,
+            "sentiment": "4 stars",
+            "score": 0.3101291060447693
+          },
+          {
+            "begin_char": 1248,
+            "end_char": 1425,
+            "sentiment": "1 star",
+            "score": 0.250059574842453
+          },
+          {
+            "begin_char": 1426,
+            "end_char": 1772,
+            "sentiment": "3 stars",
+            "score": 0.3532355725765228
+          },
+          {
+            "begin_char": 1773,
+            "end_char": 1958,
+            "sentiment": "4 stars",
+            "score": 0.4674045145511627
+          },
+          {
+            "begin_char": 1959,
+            "end_char": 2178,
+            "sentiment": "5 stars",
+            "score": 0.3875495195388794
+          },
+          {
+            "begin_char": 2179,
+            "end_char": 2280,
+            "sentiment": "4 stars",
+            "score": 0.3233914375305176
+          },
+          {
+            "begin_char": 2281,
+            "end_char": 2460,
+            "sentiment": "4 stars",
+            "score": 0.283491313457489
+          },
+          {
+            "begin_char": 2461,
+            "end_char": 2508,
+            "sentiment": "2 stars",
+            "score": 0.35646679997444153
+          },
+          {
+            "begin_char": 2509,
+            "end_char": 2586,
+            "sentiment": "3 stars",
+            "score": 0.26770058274269104
+          },
+          {
+            "begin_char": 2587,
+            "end_char": 2734,
+            "sentiment": "3 stars",
+            "score": 0.21996428072452545
+          },
+          {
+            "begin_char": 2734,
+            "end_char": 2795,
+            "sentiment": "3 stars",
+            "score": 0.3190247714519501
+          },
+          {
+            "begin_char": 2796,
+            "end_char": 2927,
+            "sentiment": "4 stars",
+            "score": 0.34168317914009094
+          },
+          {
+            "begin_char": 2928,
+            "end_char": 2944,
+            "sentiment": "5 stars",
+            "score": 0.3551453948020935
+          },
+          {
+            "begin_char": 2945,
+            "end_char": 3042,
+            "sentiment": "3 stars",
+            "score": 0.320272296667099
+          },
+          {
+            "begin_char": 3042,
+            "end_char": 3185,
+            "sentiment": "5 stars",
+            "score": 0.5406255125999451
+          },
+          {
+            "begin_char": 3186,
+            "end_char": 3263,
+            "sentiment": "4 stars",
+            "score": 0.44181910157203674
+          },
+          {
+            "begin_char": 3264,
+            "end_char": 3359,
+            "sentiment": "3 stars",
+            "score": 0.3318602442741394
+          },
+          {
+            "begin_char": 3360,
+            "end_char": 3369,
+            "sentiment": "1 star",
+            "score": 0.7823079228401184
+          },
+          {
+            "begin_char": 3369,
+            "end_char": 3430,
+            "sentiment": "3 stars",
+            "score": 0.3190247714519501
+          },
+          {
+            "begin_char": 3431,
+            "end_char": 3567,
+            "sentiment": "4 stars",
+            "score": 0.32335805892944336
+          },
+          {
+            "begin_char": 3568,
+            "end_char": 3695,
+            "sentiment": "3 stars",
+            "score": 0.34500643610954285
+          },
+          {
+            "begin_char": 3696,
+            "end_char": 3707,
+            "sentiment": "1 star",
+            "score": 0.5744444727897644
+          },
+          {
+            "begin_char": 3707,
+            "end_char": 3768,
+            "sentiment": "3 stars",
+            "score": 0.3190247714519501
+          },
+          {
+            "begin_char": 3769,
+            "end_char": 3913,
+            "sentiment": "3 stars",
+            "score": 0.31154051423072815
+          },
+          {
+            "begin_char": 3914,
+            "end_char": 3933,
+            "sentiment": "2 stars",
+            "score": 0.40498214960098267
+          },
+          {
+            "begin_char": 3933,
+            "end_char": 3993,
+            "sentiment": "3 stars",
+            "score": 0.29922792315483093
+          },
+          {
+            "begin_char": 3994,
+            "end_char": 3998,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3998,
+            "end_char": 4140,
+            "sentiment": "4 stars",
+            "score": 0.4355171322822571
+          },
+          {
+            "begin_char": 4141,
+            "end_char": 4516,
+            "sentiment": "4 stars",
+            "score": 0.456595778465271
+          },
+          {
+            "begin_char": 4517,
+            "end_char": 4544,
+            "sentiment": "5 stars",
+            "score": 0.5156058073043823
+          },
+          {
+            "begin_char": 4544,
+            "end_char": 4605,
+            "sentiment": "3 stars",
+            "score": 0.3190247714519501
+          },
+          {
+            "begin_char": 4606,
+            "end_char": 4610,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4610,
+            "end_char": 4711,
+            "sentiment": "3 stars",
+            "score": 0.26585423946380615
+          },
+          {
+            "begin_char": 4712,
+            "end_char": 4765,
+            "sentiment": "3 stars",
+            "score": 0.2982350289821625
+          },
+          {
+            "begin_char": 4766,
+            "end_char": 4859,
+            "sentiment": "3 stars",
+            "score": 0.3505150377750397
+          },
+          {
+            "begin_char": 4860,
+            "end_char": 4896,
+            "sentiment": "1 star",
+            "score": 0.8663125038146973
+          },
+          {
+            "begin_char": 4896,
+            "end_char": 4904,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-20",
+        "pageJO": "2519",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

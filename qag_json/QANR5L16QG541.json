@@ -1,0 +1,437 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG541",
+    "identifiant": {
+      "numero": "541",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "impôts locaux",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PUBLICATION DU DÉCRET RELATIF AUX ZONES TENDUES ET À LA TAXE D'HABITATION"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793572",
+        "mandatRef": "PM796413"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Comptes publics",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Comptes publics",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-02-08",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PUBLICATION DU DÉCRET RELATIF AUX ZONES TENDUES ET À LA TAXE D'HABITATION <a name=PG14></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Christophe Plassard.<br><br><strong>M. Christophe Plassard. </strong>Au cours de l'examen du projet de loi de finances pour 2023, l'Assemblée a voté à une large majorité l'élargissement de la taxe sur les logements vacants et de la taxe d'habitation sur les résidences secondaires aux communes touristiques n'appartenant pas à une zone d'urbanisation continue de 50 000 habitants. Pour nos communes sous tension, il est absolument nécessaire que cette mesure d'élargissement, qui doit passer par un décret, puisse s'appliquer dès l'élaboration des budgets communaux de 2023.<br><br>En effet, malgré les nombreux gestes que nous avons faits envers les collectivités pour les soutenir face à l'inflation et à la crise énergétique, les communes touristiques subissent cette crise de plein fouet car elles affrontent en outre un marché immobilier en pleine expansion. Il est nécessaire de donner la possibilité aux maires de taxer les logements vacants et les résidences secondaires, non seulement pour des raisons budgétaires mais aussi et surtout pour faciliter l'offre de logements saisonniers. Ces zones tendues sont en effet sous-dotées en matière d'offres immobilières abordables : en dehors des saisons touristiques, les logements vacants dépassent parfois le seuil de 50 %.<br><br>Je l'observe en Charente-Maritime : les territoires de Royan, de Marennes ou de l'île d'Oléron sont en zone particulièrement tendue. Cette mesure de justice territoriale, que nous avons votée à une large majorité, leur offrira la marge de manœuvre dont ils ont besoin pour équilibrer leurs comptes dès 2023. Pour cela, la mesure doit être votée localement avant le 28 février.<br><br>Monsieur le ministre délégué, je me fais le relais des maires et des administrés de ces communes, qui sont victimes de leur attractivité touristique, pour vous dire qu'il y a urgence. Pourquoi la publication de ce décret d'élargissement des zones tendues a-t-elle été repoussée ?<br><br><strong>M. Sébastien Jumel.</strong> Il a raison !<br><br><strong>M. Christophe Plassard. </strong>Que pouvez-vous nous dire pour rassurer nos communes ? Une mesure transitoire est-elle prévue pour les aider ? <i>(Applaudissements sur les bancs du groupe HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé des comptes publics.<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué chargé des comptes publics. </i>Comme vous l'avez rappelé, le Gouvernement a soutenu, pendant l'examen du projet de loi de finances pour 2023, l'initiative du député Xavier Roseren – évidemment soutenue par bien d'autres députés de la majorité et même de l'opposition – visant à renforcer les marges de manœuvre dont disposent les communes pour imposer les résidences secondaires. La définition des zones tendues a ainsi été complétée pour tenir compte de la situation des communes touristiques : concrètement, celles qui comptent une part très significative de résidences secondaires vont pouvoir actionner un levier important, à savoir une majoration de la taxe d'habitation sur les résidences secondaires pouvant aller jusqu'à 60 %.<br><br>Nous avons lancé les travaux d'élaboration du décret dès le mois de décembre et les concertations sont en cours avec les associations d'élus. Ce décret sera pris d'ici à la fin du printemps et permettra aux communes entrantes de délibérer avant le 1er octobre de cette année pour majorer la taxe d'habitation sur les résidences secondaires à compter des impositions de l'année prochaine.<br><br>Si nous avons ménagé ce délai, c'est en premier lieu parce que les échanges avec les élus locaux ont amené à identifier, chez certains, des inquiétudes fortes, d'abord s'agissant du zonage proposé par le Gouvernement, dont plusieurs élus considèrent qu'il ne traite pas de façon adéquate certaines parties du territoire ; il faut poursuivre les échanges à ce sujet. Mais c'est aussi parce que l'établissement de ce zonage a des conséquences. Une partie des communes perdront ainsi la taxe d'habitation sur les locaux vacants car – vous le savez – le zonage est ainsi fait que les deux taxes ne peuvent être perçues simultanément sur une même zone – c'est l'une ou l'autre –, et nous voulons éviter qu'il y ait finalement des communes perdantes.<br><br>Enfin, nous allons continuer à discuter mais je veux rappeler, comme vous l'avez fait dans votre question, que ce qui a motivé l'extension de cette majoration, c'est la volonté de créer un effet incitatif auprès des propriétaires. Il est donc, d'une certaine manière, logique qu'une sorte de délai de prévenance leur soit accordé avant que cette imposition s'applique : si vous l'appliquez rétroactivement – ou presque –, il n'y a pas d'effet incitatif.<br><br>Je terminerai par là : il est évident que nous devons agir dans les zones que vous évoquez pour favoriser l'émergence d'une offre immobilière de résidences principales. Cela passe par certains leviers, en particulier la fiscalité – mais pas seulement –, et nous devons poursuivre les travaux sur ce sujet.<br> <p>",
+        "entities": [
+          {
+            "start_char": 45,
+            "end_char": 52,
+            "label": "ORG",
+            "text": "RELATIF"
+          },
+          {
+            "start_char": 57,
+            "end_char": 70,
+            "label": "MISC",
+            "text": "ZONES TENDUES"
+          },
+          {
+            "start_char": 74,
+            "end_char": 96,
+            "label": "MISC",
+            "text": "À LA TAXE D'HABITATION"
+          },
+          {
+            "start_char": 131,
+            "end_char": 134,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 175,
+            "end_char": 188,
+            "label": "PER",
+            "text": "M. Christophe"
+          },
+          {
+            "start_char": 217,
+            "end_char": 236,
+            "label": "PER",
+            "text": "Christophe Plassard"
+          },
+          {
+            "start_char": 310,
+            "end_char": 319,
+            "label": "ORG",
+            "text": "Assemblée"
+          },
+          {
+            "start_char": 1479,
+            "end_char": 1496,
+            "label": "LOC",
+            "text": "Charente-Maritime"
+          },
+          {
+            "start_char": 1518,
+            "end_char": 1523,
+            "label": "LOC",
+            "text": "Royan"
+          },
+          {
+            "start_char": 1528,
+            "end_char": 1536,
+            "label": "LOC",
+            "text": "Marennes"
+          },
+          {
+            "start_char": 1545,
+            "end_char": 1557,
+            "label": "LOC",
+            "text": "île d'Oléron"
+          },
+          {
+            "start_char": 1831,
+            "end_char": 1847,
+            "label": "MISC",
+            "text": "février.<br><br>"
+          },
+          {
+            "start_char": 1847,
+            "end_char": 1855,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 2145,
+            "end_char": 2170,
+            "label": "PER",
+            "text": "Sébastien Jumel.</strong>"
+          },
+          {
+            "start_char": 2203,
+            "end_char": 2222,
+            "label": "PER",
+            "text": "Christophe Plassard"
+          },
+          {
+            "start_char": 2389,
+            "end_char": 2413,
+            "label": "ORG",
+            "text": "HOR.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2414,
+            "end_char": 2417,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2458,
+            "end_char": 2460,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2524,
+            "end_char": 2534,
+            "label": "PER",
+            "text": "M. Gabriel"
+          },
+          {
+            "start_char": 2633,
+            "end_char": 2645,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2737,
+            "end_char": 2751,
+            "label": "PER",
+            "text": "Xavier Roseren"
+          },
+          {
+            "start_char": 3691,
+            "end_char": 3711,
+            "label": "MISC",
+            "text": "prochaine.<br><br>Si"
+          },
+          {
+            "start_char": 3913,
+            "end_char": 3925,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 4443,
+            "end_char": 4460,
+            "label": "MISC",
+            "text": "perdantes.<br><br"
+          },
+          {
+            "start_char": 4904,
+            "end_char": 4921,
+            "label": "MISC",
+            "text": "incitatif.<br><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 52,
+            "sentiment": "3 stars",
+            "score": 0.3183186650276184
+          },
+          {
+            "begin_char": 53,
+            "end_char": 96,
+            "sentiment": "1 star",
+            "score": 0.30896851420402527
+          },
+          {
+            "begin_char": 97,
+            "end_char": 149,
+            "sentiment": "3 stars",
+            "score": 0.30728286504745483
+          },
+          {
+            "begin_char": 150,
+            "end_char": 237,
+            "sentiment": "4 stars",
+            "score": 0.25218743085861206
+          },
+          {
+            "begin_char": 238,
+            "end_char": 247,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 247,
+            "end_char": 558,
+            "sentiment": "4 stars",
+            "score": 0.403577983379364
+          },
+          {
+            "begin_char": 559,
+            "end_char": 1041,
+            "sentiment": "5 stars",
+            "score": 0.4773592948913574
+          },
+          {
+            "begin_char": 1042,
+            "end_char": 1271,
+            "sentiment": "5 stars",
+            "score": 0.4251411557197571
+          },
+          {
+            "begin_char": 1272,
+            "end_char": 1463,
+            "sentiment": "3 stars",
+            "score": 0.5140442252159119
+          },
+          {
+            "begin_char": 1463,
+            "end_char": 1595,
+            "sentiment": "3 stars",
+            "score": 0.3553924560546875
+          },
+          {
+            "begin_char": 1596,
+            "end_char": 1770,
+            "sentiment": "5 stars",
+            "score": 0.48494142293930054
+          },
+          {
+            "begin_char": 1771,
+            "end_char": 1847,
+            "sentiment": "4 stars",
+            "score": 0.3255496919155121
+          },
+          {
+            "begin_char": 1847,
+            "end_char": 2030,
+            "sentiment": "5 stars",
+            "score": 0.45312926173210144
+          },
+          {
+            "begin_char": 2031,
+            "end_char": 2126,
+            "sentiment": "3 stars",
+            "score": 0.2654479742050171
+          },
+          {
+            "begin_char": 2126,
+            "end_char": 2170,
+            "sentiment": "3 stars",
+            "score": 0.31285977363586426
+          },
+          {
+            "begin_char": 2171,
+            "end_char": 2184,
+            "sentiment": "5 stars",
+            "score": 0.3322871923446655
+          },
+          {
+            "begin_char": 2184,
+            "end_char": 2223,
+            "sentiment": "3 stars",
+            "score": 0.27754688262939453
+          },
+          {
+            "begin_char": 2224,
+            "end_char": 2233,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 2233,
+            "end_char": 2287,
+            "sentiment": "5 stars",
+            "score": 0.24132351577281952
+          },
+          {
+            "begin_char": 2288,
+            "end_char": 2343,
+            "sentiment": "3 stars",
+            "score": 0.3581588864326477
+          },
+          {
+            "begin_char": 2344,
+            "end_char": 2432,
+            "sentiment": "4 stars",
+            "score": 0.3090986907482147
+          },
+          {
+            "begin_char": 2433,
+            "end_char": 2598,
+            "sentiment": "4 stars",
+            "score": 0.2992722690105438
+          },
+          {
+            "begin_char": 2599,
+            "end_char": 2951,
+            "sentiment": "4 stars",
+            "score": 0.3931378424167633
+          },
+          {
+            "begin_char": 2952,
+            "end_char": 3314,
+            "sentiment": "4 stars",
+            "score": 0.4764775335788727
+          },
+          {
+            "begin_char": 3314,
+            "end_char": 3455,
+            "sentiment": "5 stars",
+            "score": 0.4204002916812897
+          },
+          {
+            "begin_char": 3456,
+            "end_char": 4030,
+            "sentiment": "4 stars",
+            "score": 0.39528989791870117
+          },
+          {
+            "begin_char": 4031,
+            "end_char": 4074,
+            "sentiment": "4 stars",
+            "score": 0.31776511669158936
+          },
+          {
+            "begin_char": 4075,
+            "end_char": 4150,
+            "sentiment": "3 stars",
+            "score": 0.2855212986469269
+          },
+          {
+            "begin_char": 4151,
+            "end_char": 4691,
+            "sentiment": "4 stars",
+            "score": 0.3079332709312439
+          },
+          {
+            "begin_char": 4692,
+            "end_char": 5090,
+            "sentiment": "3 stars",
+            "score": 0.29317542910575867
+          },
+          {
+            "begin_char": 5091,
+            "end_char": 5235,
+            "sentiment": "4 stars",
+            "score": 0.37028053402900696
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-02-08",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-02-08",
+        "pageJO": "960",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,893 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG361",
+    "identifiant": {
+      "numero": "361",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "énergie et carburants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "grève des salariés de GRDF"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793452",
+        "mandatRef": "PM796332"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Transition énergétique",
+      "developpe": "Ministère de la transition énergétique"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transition énergétique",
+          "developpe": "Ministère de la transition énergétique"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> GRÈVE DES SALARIÉS DE GRDF <a name=PG3></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Hendrik Davi.<br><br><strong>M. Hendrik Davi. </strong>Les salariés de GRDF (Gaz réseau distribution France), en grève depuis un mois, occupent depuis hier soir le site de Marseille. « En 2000, quand je suis arrivé, on venait du monde entier pour apprendre les savoir-faire des salariés d’EDF. Nous étions un exemple. Nous étions fiers et tous les salariés avaient le service public chevillé au corps. Aujourd’hui, ils nous préparent à des coupures de courant dans les écoles. C’est une honte. » Ce sont les mots des salariés de GRDF.<br><br>Que réclament-ils ? Une hausse de salaire de 4,6 %. <i>(Applaudissements sur les bancs des groupes LFI-NUPES et GDR-NUPES.) </i>Cela coûterait à peine 18 millions d'euros, alors que GRDF a versé 518 millions de dividendes. Nous n’en serions pas là si vous aviez lancé des négociations partout en France pour indexer les salaires sur l’inflation, comme nous le proposions. (Applaudissements sur les bancs du groupe LFI-NUPES.) Pire, vous avez choisi la répression, notamment à RTE – Réseau de transport d'électricité – où une enquête a été ouverte après le suicide d’un salarié.<br><br>La situation sociale à GRDF et à RTE dit beaucoup de la crise énergétique que nous traversons : d’abord, le mépris des salariés et la casse méthodique du service public ; ensuite, un manque cruel de volonté politique pour développer les énergies renouvelables et la rénovation globale des bâtiments. Encore une fois, vous n’avez rien anticipé.<br><br><strong>M. Patrick Hetzel.</strong> Si : ils ont fermé les centrales nucléaires.<br><br><strong>M. Hendrik Davi. </strong>Des délestages sont donc prévus, notamment dans les zones rurales, menaçant de désorganiser le pays. Les Français sont inquiets pour les patients hospitalisés à domicile, les transports et les écoles. Comment gérer la crise ? En planifiant ces délestages sur les activités qui ne sont pas indispensables, comme la publicité, la pollution lumineuse ou l’activité de certaines entreprises <i>(Applaudissements sur les bancs du groupe LFI-NUPES) </i>pour préserver ce qui est essentiel comme le chauffage des particuliers, les transports et les écoles.<br><br>Madame la ministre, à l’heure de la crise énergétique, qu’attendez-vous pour donner satisfaction aux salariés de GRDF et de RTE ? C'est la moindre des choses. <i>(Applaudissements sur les bancs des groupes LFI-NUPES et GDR-NUPES.) </i>Allez-vous planifier des délestages préservant les plus démunis et les activités essentielles ? Enfin, quand allez-vous recréer le service public intégré de l’énergie dont notre pays a tant besoin pour mener à bien la transition énergétique ? (« Bravo ! » et applaudissements sur les bancs du groupe LFI-NUPES ainsi que sur quelques bancs des groupes Écolo-NUPES et GDR-NUPES.)<br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre de la transition énergétique.<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre de la transition énergétique. </i>Votre question me permet de saluer l'ensemble des salariés de la filière énergétique qui sont aujourd'hui au travail chez EDF, chez RTE, chez Enedis et chez GRDF pour nous préparer dans les meilleures conditions au passage de l'hiver.<br><br><strong>M. Louis Boyard.</strong> Ils sont en grève !<br><br><strong>Mme Agnès Pannier-Runacher,</strong><i> ministre . </i>Vous le savez, la négociation sociale a été active. La branche des industries électriques et gazières (IEG) a négocié en un temps record un accord plus que majoritaire qui a été signé par les quatre confédérations syndicales. Par ailleurs, un accord majoritaire a été trouvé chez GRDF. Chez RTE, les négociations ont été entamées fin novembre et vont bon train. Je salue l'esprit de responsabilité des organisations syndicales qui se sont mobilisées pour que ces négociations aboutissent.<br><br>S'agissant de notre préparation pour l'hiver et de la sobriété, je rappelle que c'est ce gouvernement qui, sous l'égide de la Première ministre et du Président de la République, a instauré un plan de sobriété, lequel ne concerne pas uniquement monsieur et madame Tout-le-monde, mais, au contraire, également les grandes entreprises, les administrations et les collectivités locales, afin de leur permettre de baisser de 10 % leur consommation d'énergie au cours des deux prochaines années. Ce plan porte ses fruits puisque, comme l'a souligné à l'instant Mme la Première ministre, nous constatons une baisse de 7 % de la consommation en France. Or il ne s'agit pas d'une baisse dans l'absolu, mais d'une baisse corrigée des normales saisonnières ! <br><br>Nous allons continuer de mobiliser tous les acteurs pour que ce plan de sobriété atteigne son objectif et que la baisse de la consommation nous assure la sécurité énergétique et un hiver serein. Je rappelle que les tensions actuelles sur le système énergétique sont européennes, et non françaises. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>Un député du groupe LR .</strong> C'est faux !<br><br><strong>Mme la présidente. </strong>La parole est à M. Hendrik Davi.<br><br><strong>M. Hendrik Davi. </strong>Je doute que vous convainquiez les salariés de Marseille en grève ! <i>(Applaudissements sur les bancs des groupes LFI-NUPES et GDR-NUPES.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 41,
+            "label": "MISC",
+            "text": "GRÈVE DES SALARIÉS"
+          },
+          {
+            "start_char": 45,
+            "end_char": 49,
+            "label": "ORG",
+            "text": "GRDF"
+          },
+          {
+            "start_char": 58,
+            "end_char": 65,
+            "label": "LOC",
+            "text": "PG3></a"
+          },
+          {
+            "start_char": 83,
+            "end_char": 86,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 127,
+            "end_char": 137,
+            "label": "PER",
+            "text": "M. Hendrik"
+          },
+          {
+            "start_char": 162,
+            "end_char": 174,
+            "label": "PER",
+            "text": "Hendrik Davi"
+          },
+          {
+            "start_char": 201,
+            "end_char": 205,
+            "label": "ORG",
+            "text": "GRDF"
+          },
+          {
+            "start_char": 207,
+            "end_char": 230,
+            "label": "ORG",
+            "text": "Gaz réseau distribution"
+          },
+          {
+            "start_char": 231,
+            "end_char": 237,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 302,
+            "end_char": 311,
+            "label": "LOC",
+            "text": "Marseille"
+          },
+          {
+            "start_char": 419,
+            "end_char": 422,
+            "label": "ORG",
+            "text": "EDF"
+          },
+          {
+            "start_char": 607,
+            "end_char": 609,
+            "label": "MISC",
+            "text": "C’"
+          },
+          {
+            "start_char": 659,
+            "end_char": 675,
+            "label": "PER",
+            "text": "GRDF.<br><br>Que"
+          },
+          {
+            "start_char": 771,
+            "end_char": 780,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 784,
+            "end_char": 793,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 854,
+            "end_char": 858,
+            "label": "ORG",
+            "text": "GRDF"
+          },
+          {
+            "start_char": 900,
+            "end_char": 902,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 968,
+            "end_char": 974,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1005,
+            "end_char": 1007,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1045,
+            "end_char": 1075,
+            "label": "MISC",
+            "text": "Applaudissements sur les bancs"
+          },
+          {
+            "start_char": 1086,
+            "end_char": 1095,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 1148,
+            "end_char": 1189,
+            "label": "MISC",
+            "text": "RTE – Réseau de transport d'électricité –"
+          },
+          {
+            "start_char": 1241,
+            "end_char": 1256,
+            "label": "MISC",
+            "text": "salarié.<br><br"
+          },
+          {
+            "start_char": 1280,
+            "end_char": 1284,
+            "label": "ORG",
+            "text": "GRDF"
+          },
+          {
+            "start_char": 1290,
+            "end_char": 1293,
+            "label": "PER",
+            "text": "RTE"
+          },
+          {
+            "start_char": 1579,
+            "end_char": 1581,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 1619,
+            "end_char": 1642,
+            "label": "PER",
+            "text": "Patrick Hetzel.</strong"
+          },
+          {
+            "start_char": 1707,
+            "end_char": 1719,
+            "label": "PER",
+            "text": "Hendrik Davi"
+          },
+          {
+            "start_char": 1835,
+            "end_char": 1843,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 2081,
+            "end_char": 2083,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 2118,
+            "end_char": 2137,
+            "label": "MISC",
+            "text": "i>(Applaudissements"
+          },
+          {
+            "start_char": 2162,
+            "end_char": 2171,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2272,
+            "end_char": 2286,
+            "label": "ORG",
+            "text": "écoles.<br><br"
+          },
+          {
+            "start_char": 2287,
+            "end_char": 2293,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 2309,
+            "end_char": 2311,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2342,
+            "end_char": 2345,
+            "label": "PER",
+            "text": "qu’"
+          },
+          {
+            "start_char": 2400,
+            "end_char": 2404,
+            "label": "ORG",
+            "text": "GRDF"
+          },
+          {
+            "start_char": 2411,
+            "end_char": 2414,
+            "label": "PER",
+            "text": "RTE"
+          },
+          {
+            "start_char": 2493,
+            "end_char": 2502,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2506,
+            "end_char": 2515,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2522,
+            "end_char": 2527,
+            "label": "LOC",
+            "text": "Allez"
+          },
+          {
+            "start_char": 2679,
+            "end_char": 2681,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2768,
+            "end_char": 2773,
+            "label": "PER",
+            "text": "Bravo"
+          },
+          {
+            "start_char": 2822,
+            "end_char": 2831,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2873,
+            "end_char": 2884,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2888,
+            "end_char": 2914,
+            "label": "MISC",
+            "text": "GDR-NUPES.)<br><br><strong"
+          },
+          {
+            "start_char": 2915,
+            "end_char": 2918,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2959,
+            "end_char": 2962,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3020,
+            "end_char": 3037,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 3225,
+            "end_char": 3228,
+            "label": "ORG",
+            "text": "EDF"
+          },
+          {
+            "start_char": 3235,
+            "end_char": 3238,
+            "label": "PER",
+            "text": "RTE"
+          },
+          {
+            "start_char": 3245,
+            "end_char": 3251,
+            "label": "ORG",
+            "text": "Enedis"
+          },
+          {
+            "start_char": 3260,
+            "end_char": 3264,
+            "label": "ORG",
+            "text": "GRDF"
+          },
+          {
+            "start_char": 3356,
+            "end_char": 3377,
+            "label": "PER",
+            "text": "Louis Boyard.</strong"
+          },
+          {
+            "start_char": 3414,
+            "end_char": 3431,
+            "label": "PER",
+            "text": "Mme Agnès Pannier"
+          },
+          {
+            "start_char": 3454,
+            "end_char": 3462,
+            "label": "LOC",
+            "text": "ministre"
+          },
+          {
+            "start_char": 3572,
+            "end_char": 3575,
+            "label": "ORG",
+            "text": "IEG"
+          },
+          {
+            "start_char": 3749,
+            "end_char": 3753,
+            "label": "ORG",
+            "text": "GRDF"
+          },
+          {
+            "start_char": 3760,
+            "end_char": 3763,
+            "label": "PER",
+            "text": "RTE"
+          },
+          {
+            "start_char": 3945,
+            "end_char": 3964,
+            "label": "MISC",
+            "text": "aboutissent.<br><br"
+          },
+          {
+            "start_char": 4091,
+            "end_char": 4114,
+            "label": "MISC",
+            "text": "Première ministre et du"
+          },
+          {
+            "start_char": 4115,
+            "end_char": 4141,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 4221,
+            "end_char": 4241,
+            "label": "PER",
+            "text": "madame Tout-le-monde"
+          },
+          {
+            "start_char": 4520,
+            "end_char": 4535,
+            "label": "PER",
+            "text": "Mme la Première"
+          },
+          {
+            "start_char": 4602,
+            "end_char": 4608,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 5064,
+            "end_char": 5087,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 5108,
+            "end_char": 5110,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 5150,
+            "end_char": 5153,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5194,
+            "end_char": 5204,
+            "label": "PER",
+            "text": "M. Hendrik"
+          },
+          {
+            "start_char": 5229,
+            "end_char": 5241,
+            "label": "PER",
+            "text": "Hendrik Davi"
+          },
+          {
+            "start_char": 5299,
+            "end_char": 5308,
+            "label": "LOC",
+            "text": "Marseille"
+          },
+          {
+            "start_char": 5367,
+            "end_char": 5376,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 5380,
+            "end_char": 5383,
+            "label": "ORG",
+            "text": "GDR"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 101,
+            "sentiment": "3 stars",
+            "score": 0.3266514837741852
+          },
+          {
+            "begin_char": 102,
+            "end_char": 175,
+            "sentiment": "4 stars",
+            "score": 0.24837914109230042
+          },
+          {
+            "begin_char": 176,
+            "end_char": 185,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 185,
+            "end_char": 207,
+            "sentiment": "4 stars",
+            "score": 0.3062437176704407
+          },
+          {
+            "begin_char": 207,
+            "end_char": 264,
+            "sentiment": "4 stars",
+            "score": 0.2723880708217621
+          },
+          {
+            "begin_char": 265,
+            "end_char": 312,
+            "sentiment": "1 star",
+            "score": 0.2658179998397827
+          },
+          {
+            "begin_char": 313,
+            "end_char": 315,
+            "sentiment": "4 stars",
+            "score": 0.24992533028125763
+          },
+          {
+            "begin_char": 315,
+            "end_char": 423,
+            "sentiment": "5 stars",
+            "score": 0.4619064927101135
+          },
+          {
+            "begin_char": 424,
+            "end_char": 447,
+            "sentiment": "4 stars",
+            "score": 0.21415257453918457
+          },
+          {
+            "begin_char": 448,
+            "end_char": 531,
+            "sentiment": "5 stars",
+            "score": 0.511492908000946
+          },
+          {
+            "begin_char": 532,
+            "end_char": 606,
+            "sentiment": "5 stars",
+            "score": 0.21726378798484802
+          },
+          {
+            "begin_char": 607,
+            "end_char": 625,
+            "sentiment": "1 star",
+            "score": 0.9046580195426941
+          },
+          {
+            "begin_char": 626,
+            "end_char": 691,
+            "sentiment": "5 stars",
+            "score": 0.2833573818206787
+          },
+          {
+            "begin_char": 692,
+            "end_char": 723,
+            "sentiment": "4 stars",
+            "score": 0.4058217406272888
+          },
+          {
+            "begin_char": 724,
+            "end_char": 794,
+            "sentiment": "4 stars",
+            "score": 0.33193010091781616
+          },
+          {
+            "begin_char": 794,
+            "end_char": 795,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 796,
+            "end_char": 800,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 800,
+            "end_char": 894,
+            "sentiment": "1 star",
+            "score": 0.3503884971141815
+          },
+          {
+            "begin_char": 895,
+            "end_char": 1043,
+            "sentiment": "5 stars",
+            "score": 0.25173547863960266
+          },
+          {
+            "begin_char": 1044,
+            "end_char": 1045,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 1045,
+            "end_char": 1096,
+            "sentiment": "4 stars",
+            "score": 0.3767821490764618
+          },
+          {
+            "begin_char": 1096,
+            "end_char": 1257,
+            "sentiment": "1 star",
+            "score": 0.27394500374794006
+          },
+          {
+            "begin_char": 1257,
+            "end_char": 1427,
+            "sentiment": "4 stars",
+            "score": 0.31058478355407715
+          },
+          {
+            "begin_char": 1428,
+            "end_char": 1556,
+            "sentiment": "2 stars",
+            "score": 0.37295296788215637
+          },
+          {
+            "begin_char": 1557,
+            "end_char": 1643,
+            "sentiment": "1 star",
+            "score": 0.6977530121803284
+          },
+          {
+            "begin_char": 1644,
+            "end_char": 1707,
+            "sentiment": "1 star",
+            "score": 0.29595842957496643
+          },
+          {
+            "begin_char": 1707,
+            "end_char": 1720,
+            "sentiment": "3 stars",
+            "score": 0.28006333112716675
+          },
+          {
+            "begin_char": 1721,
+            "end_char": 1830,
+            "sentiment": "3 stars",
+            "score": 0.32300347089767456
+          },
+          {
+            "begin_char": 1831,
+            "end_char": 1930,
+            "sentiment": "5 stars",
+            "score": 0.3321762979030609
+          },
+          {
+            "begin_char": 1931,
+            "end_char": 1955,
+            "sentiment": "4 stars",
+            "score": 0.36807212233543396
+          },
+          {
+            "begin_char": 1956,
+            "end_char": 2177,
+            "sentiment": "4 stars",
+            "score": 0.334270179271698
+          },
+          {
+            "begin_char": 2177,
+            "end_char": 2287,
+            "sentiment": "5 stars",
+            "score": 0.4584798216819763
+          },
+          {
+            "begin_char": 2287,
+            "end_char": 2416,
+            "sentiment": "5 stars",
+            "score": 0.5395873188972473
+          },
+          {
+            "begin_char": 2417,
+            "end_char": 2445,
+            "sentiment": "4 stars",
+            "score": 0.2513319253921509
+          },
+          {
+            "begin_char": 2446,
+            "end_char": 2516,
+            "sentiment": "4 stars",
+            "score": 0.33193010091781616
+          },
+          {
+            "begin_char": 2516,
+            "end_char": 2517,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 2518,
+            "end_char": 2522,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2522,
+            "end_char": 2617,
+            "sentiment": "1 star",
+            "score": 0.21836252510547638
+          },
+          {
+            "begin_char": 2618,
+            "end_char": 2764,
+            "sentiment": "5 stars",
+            "score": 0.6561633348464966
+          },
+          {
+            "begin_char": 2765,
+            "end_char": 2933,
+            "sentiment": "5 stars",
+            "score": 0.5174641013145447
+          },
+          {
+            "begin_char": 2934,
+            "end_char": 3059,
+            "sentiment": "3 stars",
+            "score": 0.28279468417167664
+          },
+          {
+            "begin_char": 3060,
+            "end_char": 3098,
+            "sentiment": "4 stars",
+            "score": 0.3457353115081787
+          },
+          {
+            "begin_char": 3099,
+            "end_char": 3103,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3103,
+            "end_char": 3398,
+            "sentiment": "5 stars",
+            "score": 0.5497734546661377
+          },
+          {
+            "begin_char": 3398,
+            "end_char": 3464,
+            "sentiment": "3 stars",
+            "score": 0.31557586789131165
+          },
+          {
+            "begin_char": 3465,
+            "end_char": 3520,
+            "sentiment": "4 stars",
+            "score": 0.3427892327308655
+          },
+          {
+            "begin_char": 3521,
+            "end_char": 3694,
+            "sentiment": "4 stars",
+            "score": 0.43414753675460815
+          },
+          {
+            "begin_char": 3695,
+            "end_char": 3754,
+            "sentiment": "4 stars",
+            "score": 0.3980424404144287
+          },
+          {
+            "begin_char": 3755,
+            "end_char": 3830,
+            "sentiment": "4 stars",
+            "score": 0.356082946062088
+          },
+          {
+            "begin_char": 3831,
+            "end_char": 4454,
+            "sentiment": "5 stars",
+            "score": 0.5804969668388367
+          },
+          {
+            "begin_char": 4455,
+            "end_char": 4609,
+            "sentiment": "4 stars",
+            "score": 0.3884982764720917
+          },
+          {
+            "begin_char": 4610,
+            "end_char": 4712,
+            "sentiment": "3 stars",
+            "score": 0.2833944261074066
+          },
+          {
+            "begin_char": 4713,
+            "end_char": 4915,
+            "sentiment": "5 stars",
+            "score": 0.676332414150238
+          },
+          {
+            "begin_char": 4916,
+            "end_char": 5018,
+            "sentiment": "4 stars",
+            "score": 0.32485151290893555
+          },
+          {
+            "begin_char": 5019,
+            "end_char": 5121,
+            "sentiment": "3 stars",
+            "score": 0.353228896856308
+          },
+          {
+            "begin_char": 5122,
+            "end_char": 5168,
+            "sentiment": "1 star",
+            "score": 0.6770448684692383
+          },
+          {
+            "begin_char": 5169,
+            "end_char": 5242,
+            "sentiment": "4 stars",
+            "score": 0.24837914109230042
+          },
+          {
+            "begin_char": 5243,
+            "end_char": 5252,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5252,
+            "end_char": 5319,
+            "sentiment": "1 star",
+            "score": 0.5227525234222412
+          },
+          {
+            "begin_char": 5320,
+            "end_char": 5403,
+            "sentiment": "3 stars",
+            "score": 0.3083638846874237
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-07",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-07",
+        "pageJO": "6558",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

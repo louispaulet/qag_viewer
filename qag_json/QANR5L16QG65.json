@@ -1,0 +1,623 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG65",
+    "identifiant": {
+      "numero": "65",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "maladies",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Variole du singe"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721482",
+        "mandatRef": "PM797514"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Organisation territoriale et professions de santé",
+      "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Organisation territoriale et professions de santé",
+          "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> VARIOLE DU SINGE <a name=PG11></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. David Valence.<br><br><strong>M. David Valence. </strong>Ma question s'adresse à M. le ministre de la santé et de la prévention ; j'y associe Clara Chassaniol, députée de Paris, et Raphaël Gérard, député de Charente-Maritime.<br><br>Samedi dernier, le directeur général de l'Organisation mondiale de la santé a déclaré une urgence sanitaire de portée internationale à propos de l'orthopoxvirose simienne, dite variole du singe. Si le risque reste modéré à l'échelle internationale, il est d'ores et déjà élevé en Europe selon les experts. Depuis mai 2022, des cas de variole du singe sont signalés hors du continent africain et le virus aurait déjà infecté au moins 17 000 personnes dans plus de soixante-dix pays.<br><br>En France, 1 567 cas ont été recensés pour cette maladie à déclaration obligatoire la semaine dernière ; 1 749 ont été dénombrés hier.<br><br>Dans la grande majorité des cas, la maladie demeure bénigne, mais les lésions cutanées qu'elle entraîne peuvent se révéler très douloureuses.<br><br>À ce jour, près de 95 % des personnes touchées par le virus en France sont des hommes jeunes, ayant eu des partenaires sexuels masculins dans les jours précédant l'apparition des symptômes. Le Gouvernement et les autorités sanitaires ont réagi rapidement ces dernières semaines pour faire face à la pandémie naissante : un numéro vert permet d'informer, de conseiller et d'orienter nos concitoyens. Dans la région Grand Est, une vaccination antivariolique sur base de virus vivant atténué a été organisée, et des centres de vaccination fonctionnent déjà dans quatre départements. S'ils ont d'abord accueilli les seuls cas contacts, ils reçoivent aujourd'hui toutes les personnes considérées comme étant à risque.<br><br>Malgré ces mesures précoces, l'inquiétude est très vive chez beaucoup d'hommes homosexuels et dans leurs familles face à ce virus encore mal connu. Je sais que vous en êtes conscient, monsieur le ministre. Aussi, pouvez-vous nous présenter la manière… <i>(Exclamations sur les bancs du groupe LFI-NUPES. – « Le temps, madame la présidente ! » sur les bancs des groupes RN et LR.) </i>…dont vous abordez ce risque pandémique et nous exposer la stratégie… (Mme la présidente coupe le micro de l’orateur, dont le temps de parole est écoulé.)<br><br><strong>Mme la présidente. </strong>Pardonnez-moi ! Merci d'avoir veillé au respect du temps pour moi, mes chers collègues. <i>(Sourires.)</i><br><br><strong>M. Philippe Gosselin.</strong> Le propos était profond, mais tout de même…<br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée auprès du ministre de la santé et de la prévention, chargée de l’organisation territoriale et des professions de santé.<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée auprès du ministre de la santé et de la prévention, chargée de l’organisation territoriale et des professions de santé. </i>Votre question me permet de compléter ma réponse à la question de M. Kerbrat. Vous l'avez souligné, nous observons depuis plusieurs semaines déjà la diffusion inédite de cette maladie humaine mondiale. Près de 16 000 cas ont été recensés dans le monde, dont 8 000 en Europe. <br><br>Je vous remercie d'avoir salué la rapidité d'action des autorités sanitaires françaises, tordant ainsi le cou à l'idée que nous n'aurions pas réagi assez vite. Depuis le mois de mai, elles sont pleinement mobilisées sur le sujet : la variole du singe a été classée dans les maladies à déclaration obligatoire, et l'ensemble des laboratoires, professionnels et établissements de santé sont mobilisés.<br><br>La France est ainsi le premier pays d'Europe – le premier ! – à s'inscrire dans une dynamique d'anticipation. Avec près de 1 200 injections réalisées le 21 juillet, le nombre d'injections quotidiennes est en constante augmentation, et plus de 114 centres de vaccination sont désormais ouverts. Ce mouvement appelé à se poursuivre et à s'accélérer nous place parmi les pays les plus volontaristes en la matière. Le déclenchement du seuil d'alerte par l'OMS vient d'ailleurs confirmer la nécessité de cette mobilisation, qui doit s'inscrire dans la durée. <br><br>Nous poursuivrons donc la sensibilisation des professionnels, afin qu'ils soient pleinement mobilisés, et, en lien avec les associations, nous renforcerons les messages de prévention pour limiter la diffusion de l'épidémie. Cette semaine, nous travaillerons également avec nos homologues européens pour établir une stratégie coordonnée.<br><br>Par ailleurs, je souhaite rappeler à nouveau que nous n'avons pas de problème d'approvisionnement en vaccins…<br><br><strong>M. Guillaume Garot.</strong> Ah !<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée . </i>42 000 doses sont disponibles et le déstockage de doses supplémentaires se poursuivra autant que nécessaire au cours des prochaines semaines, en fonction des demandes remontées du terrain par les agences régionales de santé (ARS). De plus, des commandes complémentaires ont été passées pour répondre à l'ensemble de la demande de vaccination dans les semaines et mois à venir. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 34,
+            "end_char": 39,
+            "label": "ORG",
+            "text": "SINGE"
+          },
+          {
+            "start_char": 74,
+            "end_char": 77,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 118,
+            "end_char": 150,
+            "label": "PER",
+            "text": "M. David Valence.<br><br><strong"
+          },
+          {
+            "start_char": 151,
+            "end_char": 167,
+            "label": "PER",
+            "text": "M. David Valence"
+          },
+          {
+            "start_char": 202,
+            "end_char": 204,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 263,
+            "end_char": 279,
+            "label": "PER",
+            "text": "Clara Chassaniol"
+          },
+          {
+            "start_char": 292,
+            "end_char": 297,
+            "label": "LOC",
+            "text": "Paris"
+          },
+          {
+            "start_char": 302,
+            "end_char": 316,
+            "label": "PER",
+            "text": "Raphaël Gérard"
+          },
+          {
+            "start_char": 328,
+            "end_char": 353,
+            "label": "LOC",
+            "text": "Charente-Maritime.<br><br"
+          },
+          {
+            "start_char": 354,
+            "end_char": 360,
+            "label": "LOC",
+            "text": "Samedi"
+          },
+          {
+            "start_char": 396,
+            "end_char": 429,
+            "label": "ORG",
+            "text": "Organisation mondiale de la santé"
+          },
+          {
+            "start_char": 634,
+            "end_char": 640,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 830,
+            "end_char": 842,
+            "label": "MISC",
+            "text": "pays.<br><br"
+          },
+          {
+            "start_char": 846,
+            "end_char": 852,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 972,
+            "end_char": 984,
+            "label": "MISC",
+            "text": "hier.<br><br"
+          },
+          {
+            "start_char": 1197,
+            "end_char": 1203,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 1327,
+            "end_char": 1339,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1548,
+            "end_char": 1557,
+            "label": "LOC",
+            "text": "Grand Est"
+          },
+          {
+            "start_char": 1839,
+            "end_char": 1853,
+            "label": "MISC",
+            "text": "risque.<br><br"
+          },
+          {
+            "start_char": 2147,
+            "end_char": 2156,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2223,
+            "end_char": 2225,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 2229,
+            "end_char": 2231,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 2309,
+            "end_char": 2312,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2345,
+            "end_char": 2347,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2408,
+            "end_char": 2411,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2436,
+            "end_char": 2445,
+            "label": "LOC",
+            "text": "Pardonnez"
+          },
+          {
+            "start_char": 2452,
+            "end_char": 2457,
+            "label": "PER",
+            "text": "Merci"
+          },
+          {
+            "start_char": 2561,
+            "end_char": 2588,
+            "label": "PER",
+            "text": "Philippe Gosselin.</strong>"
+          },
+          {
+            "start_char": 2648,
+            "end_char": 2651,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2692,
+            "end_char": 2695,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2780,
+            "end_char": 2782,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2852,
+            "end_char": 2861,
+            "label": "PER",
+            "text": "Mme Agnès"
+          },
+          {
+            "start_char": 2971,
+            "end_char": 2973,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3098,
+            "end_char": 3108,
+            "label": "PER",
+            "text": "M. Kerbrat"
+          },
+          {
+            "start_char": 3299,
+            "end_char": 3305,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 3704,
+            "end_char": 3721,
+            "label": "MISC",
+            "text": "mobilisés.<br><br"
+          },
+          {
+            "start_char": 3722,
+            "end_char": 3731,
+            "label": "LOC",
+            "text": "La France"
+          },
+          {
+            "start_char": 3760,
+            "end_char": 3766,
+            "label": "LOC",
+            "text": "Europe"
+          },
+          {
+            "start_char": 4174,
+            "end_char": 4177,
+            "label": "ORG",
+            "text": "OMS"
+          },
+          {
+            "start_char": 4609,
+            "end_char": 4627,
+            "label": "MISC",
+            "text": "coordonnée.<br><br"
+          },
+          {
+            "start_char": 4756,
+            "end_char": 4786,
+            "label": "PER",
+            "text": "Guillaume Garot.</strong> Ah !"
+          },
+          {
+            "start_char": 4802,
+            "end_char": 4818,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 5089,
+            "end_char": 5092,
+            "label": "MISC",
+            "text": "ARS"
+          },
+          {
+            "start_char": 5292,
+            "end_char": 5303,
+            "label": "ORG",
+            "text": "RE.)</i><br"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 92,
+            "sentiment": "1 star",
+            "score": 0.33448898792266846
+          },
+          {
+            "begin_char": 93,
+            "end_char": 168,
+            "sentiment": "4 stars",
+            "score": 0.245883047580719
+          },
+          {
+            "begin_char": 169,
+            "end_char": 250,
+            "sentiment": "4 stars",
+            "score": 0.31841570138931274
+          },
+          {
+            "begin_char": 251,
+            "end_char": 548,
+            "sentiment": "5 stars",
+            "score": 0.34228453040122986
+          },
+          {
+            "begin_char": 549,
+            "end_char": 659,
+            "sentiment": "4 stars",
+            "score": 0.378993421792984
+          },
+          {
+            "begin_char": 660,
+            "end_char": 947,
+            "sentiment": "4 stars",
+            "score": 0.2560765743255615
+          },
+          {
+            "begin_char": 948,
+            "end_char": 985,
+            "sentiment": "3 stars",
+            "score": 0.21372631192207336
+          },
+          {
+            "begin_char": 985,
+            "end_char": 1323,
+            "sentiment": "3 stars",
+            "score": 0.3985265791416168
+          },
+          {
+            "begin_char": 1324,
+            "end_char": 1532,
+            "sentiment": "5 stars",
+            "score": 0.6463291645050049
+          },
+          {
+            "begin_char": 1533,
+            "end_char": 1713,
+            "sentiment": "4 stars",
+            "score": 0.4052914083003998
+          },
+          {
+            "begin_char": 1714,
+            "end_char": 1764,
+            "sentiment": "2 stars",
+            "score": 0.3135002851486206
+          },
+          {
+            "begin_char": 1764,
+            "end_char": 1881,
+            "sentiment": "4 stars",
+            "score": 0.3343922793865204
+          },
+          {
+            "begin_char": 1881,
+            "end_char": 2001,
+            "sentiment": "4 stars",
+            "score": 0.39570167660713196
+          },
+          {
+            "begin_char": 2002,
+            "end_char": 2059,
+            "sentiment": "5 stars",
+            "score": 0.4109347462654114
+          },
+          {
+            "begin_char": 2060,
+            "end_char": 2157,
+            "sentiment": "1 star",
+            "score": 0.26602843403816223
+          },
+          {
+            "begin_char": 2158,
+            "end_char": 2162,
+            "sentiment": "3 stars",
+            "score": 0.26025277376174927
+          },
+          {
+            "begin_char": 2162,
+            "end_char": 2170,
+            "sentiment": "4 stars",
+            "score": 0.338458389043808
+          },
+          {
+            "begin_char": 2170,
+            "end_char": 2426,
+            "sentiment": "4 stars",
+            "score": 0.2619461417198181
+          },
+          {
+            "begin_char": 2427,
+            "end_char": 2451,
+            "sentiment": "1 star",
+            "score": 0.3364364206790924
+          },
+          {
+            "begin_char": 2452,
+            "end_char": 2523,
+            "sentiment": "5 stars",
+            "score": 0.5068865418434143
+          },
+          {
+            "begin_char": 2524,
+            "end_char": 2588,
+            "sentiment": "3 stars",
+            "score": 0.33270275592803955
+          },
+          {
+            "begin_char": 2589,
+            "end_char": 2666,
+            "sentiment": "3 stars",
+            "score": 0.3704981207847595
+          },
+          {
+            "begin_char": 2667,
+            "end_char": 2861,
+            "sentiment": "4 stars",
+            "score": 0.3341585099697113
+          },
+          {
+            "begin_char": 2862,
+            "end_char": 2889,
+            "sentiment": "3 stars",
+            "score": 0.29235321283340454
+          },
+          {
+            "begin_char": 2890,
+            "end_char": 3027,
+            "sentiment": "4 stars",
+            "score": 0.3657079041004181
+          },
+          {
+            "begin_char": 3028,
+            "end_char": 3032,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 3032,
+            "end_char": 3109,
+            "sentiment": "4 stars",
+            "score": 0.4283193051815033
+          },
+          {
+            "begin_char": 3110,
+            "end_char": 3233,
+            "sentiment": "5 stars",
+            "score": 0.5809906721115112
+          },
+          {
+            "begin_char": 3234,
+            "end_char": 3306,
+            "sentiment": "5 stars",
+            "score": 0.40780019760131836
+          },
+          {
+            "begin_char": 3307,
+            "end_char": 3474,
+            "sentiment": "5 stars",
+            "score": 0.43788546323776245
+          },
+          {
+            "begin_char": 3475,
+            "end_char": 3831,
+            "sentiment": "5 stars",
+            "score": 0.6356366276741028
+          },
+          {
+            "begin_char": 3832,
+            "end_char": 4015,
+            "sentiment": "5 stars",
+            "score": 0.6346140503883362
+          },
+          {
+            "begin_char": 4016,
+            "end_char": 4132,
+            "sentiment": "5 stars",
+            "score": 0.5749529004096985
+          },
+          {
+            "begin_char": 4133,
+            "end_char": 4275,
+            "sentiment": "5 stars",
+            "score": 0.49332496523857117
+          },
+          {
+            "begin_char": 4276,
+            "end_char": 4284,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 4284,
+            "end_char": 4507,
+            "sentiment": "5 stars",
+            "score": 0.489252507686615
+          },
+          {
+            "begin_char": 4508,
+            "end_char": 4786,
+            "sentiment": "5 stars",
+            "score": 0.45062127709388733
+          },
+          {
+            "begin_char": 4786,
+            "end_char": 4839,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 4840,
+            "end_char": 4859,
+            "sentiment": "4 stars",
+            "score": 0.33328285813331604
+          },
+          {
+            "begin_char": 4860,
+            "end_char": 5094,
+            "sentiment": "4 stars",
+            "score": 0.441566526889801
+          },
+          {
+            "begin_char": 5095,
+            "end_char": 5240,
+            "sentiment": "4 stars",
+            "score": 0.4677099585533142
+          },
+          {
+            "begin_char": 5241,
+            "end_char": 5304,
+            "sentiment": "3 stars",
+            "score": 0.3112752139568329
+          },
+          {
+            "begin_char": 5305,
+            "end_char": 5308,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-27",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-27",
+        "pageJO": "3098",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

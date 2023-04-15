@@ -1,0 +1,713 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG247",
+    "identifiant": {
+      "numero": "247",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enseignement technique et professionnel",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Projet de réforme du lycée professionnel"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA718926",
+        "mandatRef": "PM796326"
+      },
+      "groupe": {
+        "organeRef": "PO800502",
+        "abrege": "GDR-NUPES",
+        "developpe": "Gauche démocrate et républicaine - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Enseignement et formation professionnels",
+      "developpe": "Ministère auprès du ministre du travail, du plein emploi et de l’insertion et du ministre de l’éducation nationale et de la jeunesse, chargé de l’enseignement et de la formation professionnels"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Enseignement et formation professionnels",
+          "developpe": "Ministère auprès du ministre du travail, du plein emploi et de l’insertion et du ministre de l’éducation nationale et de la jeunesse, chargé de l’enseignement et de la formation professionnels"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PROJET DE RÉFORME DU LYCÉE PROFESSIONNEL <a name=PG1></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Pierre Dharréville.<br><br><strong>M. Pierre Dharréville. </strong>Une réforme se prépare, celle du lycée professionnel, qui concerne 28 % des lycéens. La responsabilité de leur formation migrerait du ministère de l’éducation nationale vers le ministère du travail.<br><br>Le doublement annoncé des périodes de stage vise à rapprocher cette voie de celle de l’apprentissage et à éviter qu’elle lui fasse trop de concurrence. Il entraînera la perte de trois cent quatre-vingts heures de cours, au détriment de l’enseignement général comme de l’enseignement technique.<br><br>Une telle réforme affaiblirait la qualité de la formation, la valeur et le caractère national du diplôme, sacrifierait une nouvelle fois le suivi des jeunes en stage et rendrait plus difficile l’accès à des études supérieures. En donnant aux forces économiques le pouvoir sur la formation de ces jeunes, le Gouvernement cherche à promouvoir une logique de cases à remplir, où le lycée professionnel ne formerait plus à un métier, mais à des tâches répondant à un besoin immédiat.<br><br>La place de ces jeunes n’est pas au travail dans une entreprise, avec un patron s’ils ont la chance d’en trouver un, mais à l'école avec les profs, les copines et les copains, une école qui leur donne les moyens de comprendre, d’agir, de s’épanouir dans toutes les dimensions de leur vie.<br><br>Ce projet de réforme marque un renoncement éducatif, un affaiblissement de l’action publique pour les jeunes qui en ont le plus besoin. Il accentuera encore le tri social.<br><br>Ces jeunes ont « droit à l’entière croissance », comme l'écrivait Jean Jaurès. C’est pour eux que 62 % des personnels des lycées professionnels étaient en grève le 18 octobre. Un nouveau mouvement se prépare le 17 novembre. Le malaise est très profond, dans un contexte de crise qui frappe l’ensemble de l’éducation nationale.<br><br>À l’heure où il faudrait revaloriser les métiers du travail manuel, le lycée professionnel n’est-il pas un lieu essentiel, au cœur des grands enjeux de la société et de ses mutations ? Des concertations ont péniblement été lancées quant aux modalités de mise en œuvre du projet, mais non quant à son bien-fondé. Comment sera débattu et décidé démocratiquement – j'insiste sur ce mot – l’avenir du lycée professionnel ? <i>(Applaudissements sur les bancs des groupes GDR, LFI-NUPES, SOC et Écolo-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée chargée de l’enseignement et de la formation professionnels.<br><br><strong>M. Sylvain Maillard.</strong> Très bien !<br><br><strong>Mme Carole Grandjean,</strong><i> ministre déléguée chargée de l’enseignement et de la formation professionnels. </i>Votre question porte sur le projet de réforme du lycée professionnel que défend le Gouvernement. Oui, l'idée que la jeunesse doit être préparée aux défis de demain nous est chevillée au corps ; aussi souhaitons-nous réformer le lycée professionnel, par lequel passe un tiers des jeunes Français, un tiers dont seulement la moitié s'insère dans l'emploi. Oui, nous partageons ce constat avec les personnels pédagogiques. Oui, nous devons relever ce défi et accompagner chaque jeune vers la réussite. <i>(M. Hubert Wulfranc s'exclame.)</i><br><br>Le lycée professionnel doit être une voie d'excellence, nous en sommes convaincus. C'est pourquoi nous avons engagé une concertation autour de quatre groupes de travail. L'un d'eux travaillera sur le décrochage : deux tiers des décrocheurs étant issus du lycée professionnel, il s'agit d'un enjeu fondamental. Un autre traitera de l'insertion professionnelle : je vous rappelle qu'un diplômé de lycée professionnel sur deux ne s'insère pas dans l'emploi.<br><br><strong>M. Hubert Wulfranc et M. Jean-Paul Lecoq .</strong> Et combien dans l'apprentissage ?<br><br><strong>Mme Carole Grandjean,</strong><i> ministre déléguée. </i>C'est notre responsabilité et celle du pacte républicain que de relever ce défi. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.)</i> Par ailleurs, seulement la moitié des élèves qui poursuivent leurs études après le lycée professionnel réussissent dans cette voie. C'est notre responsabilité collective que de mieux les y préparer.<br><br>Les groupes de travail ont donc pour objectif de préparer les conditions de la réussite pour les élèves comme pour les enseignants, qui doivent disposer des conditions d'enseignement nécessaires pour transmettre aux lycéens des savoirs fondamentaux utiles à leur parcours professionnel et à leur parcours de citoyen. La mission d'enseignant inclut aussi l'accompagnement des élèves dans leur orientation professionnelle, ce qui implique de les préparer à un métier et à l'insertion professionnelle.<br><br>Nous partageons tous ce constat : la voie professionnelle ne tient pas sa promesse républicaine d'insertion dans l'emploi. Réfléchissons donc tous ensemble aux modalités qui permettront à chaque élève de réussir. C'est là notre grand défi. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.)</i><br><br><strong>Mme la présidente. </strong>Je demande à chacun d'observer le silence, car il est dommage qu'un brouhaha constant nous empêche d'entendre les orateurs.<br><br><strong>M. Pierre Cordier.</strong> C'est la majorité !<br><br><strong>Mme la présidente. </strong>Je ne désigne pas de coupable.<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 40,
+            "label": "MISC",
+            "text": "PROJET DE RÉFORME"
+          },
+          {
+            "start_char": 72,
+            "end_char": 79,
+            "label": "PER",
+            "text": "PG1></a"
+          },
+          {
+            "start_char": 97,
+            "end_char": 100,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 141,
+            "end_char": 143,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 182,
+            "end_char": 200,
+            "label": "PER",
+            "text": "Pierre Dharréville"
+          },
+          {
+            "start_char": 358,
+            "end_char": 360,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 401,
+            "end_char": 416,
+            "label": "MISC",
+            "text": "travail.<br><br"
+          },
+          {
+            "start_char": 502,
+            "end_char": 504,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 530,
+            "end_char": 533,
+            "label": "PER",
+            "text": "qu’"
+          },
+          {
+            "start_char": 653,
+            "end_char": 655,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 685,
+            "end_char": 687,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 700,
+            "end_char": 718,
+            "label": "MISC",
+            "text": "technique.<br><br>"
+          },
+          {
+            "start_char": 911,
+            "end_char": 913,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1025,
+            "end_char": 1037,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 1188,
+            "end_char": 1204,
+            "label": "MISC",
+            "text": "immédiat.<br><br"
+          },
+          {
+            "start_char": 1228,
+            "end_char": 1230,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 1285,
+            "end_char": 1287,
+            "label": "ORG",
+            "text": "s’"
+          },
+          {
+            "start_char": 1432,
+            "end_char": 1434,
+            "label": "PER",
+            "text": "d’"
+          },
+          {
+            "start_char": 1443,
+            "end_char": 1445,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 1576,
+            "end_char": 1593,
+            "label": "ORG",
+            "text": "l’action publique"
+          },
+          {
+            "start_char": 1665,
+            "end_char": 1679,
+            "label": "MISC",
+            "text": "social.<br><br"
+          },
+          {
+            "start_char": 1705,
+            "end_char": 1707,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1746,
+            "end_char": 1757,
+            "label": "PER",
+            "text": "Jean Jaurès"
+          },
+          {
+            "start_char": 1759,
+            "end_char": 1761,
+            "label": "MISC",
+            "text": "C’"
+          },
+          {
+            "start_char": 1970,
+            "end_char": 1980,
+            "label": "ORG",
+            "text": "l’ensemble"
+          },
+          {
+            "start_char": 1984,
+            "end_char": 1986,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2016,
+            "end_char": 2018,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2105,
+            "end_char": 2107,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 2399,
+            "end_char": 2401,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2480,
+            "end_char": 2483,
+            "label": "ORG",
+            "text": "GDR"
+          },
+          {
+            "start_char": 2485,
+            "end_char": 2494,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2496,
+            "end_char": 2499,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2503,
+            "end_char": 2535,
+            "label": "LOC",
+            "text": "Écolo-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2536,
+            "end_char": 2539,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2580,
+            "end_char": 2583,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2616,
+            "end_char": 2618,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2681,
+            "end_char": 2715,
+            "label": "PER",
+            "text": "M. Sylvain Maillard.</strong> Très"
+          },
+          {
+            "start_char": 2738,
+            "end_char": 2770,
+            "label": "PER",
+            "text": "Mme Carole Grandjean,</strong><i"
+          },
+          {
+            "start_char": 2801,
+            "end_char": 2803,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2938,
+            "end_char": 2950,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3141,
+            "end_char": 3149,
+            "label": "LOC",
+            "text": "Français"
+          },
+          {
+            "start_char": 3361,
+            "end_char": 3376,
+            "label": "PER",
+            "text": "Hubert Wulfranc"
+          },
+          {
+            "start_char": 3870,
+            "end_char": 3873,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 3873,
+            "end_char": 3888,
+            "label": "PER",
+            "text": "Hubert Wulfranc"
+          },
+          {
+            "start_char": 3892,
+            "end_char": 3894,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 3895,
+            "end_char": 3910,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq"
+          },
+          {
+            "start_char": 3971,
+            "end_char": 4003,
+            "label": "PER",
+            "text": "Mme Carole Grandjean,</strong><i"
+          },
+          {
+            "start_char": 4162,
+            "end_char": 4164,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 4168,
+            "end_char": 4176,
+            "label": "MISC",
+            "text": "Dem.)</i"
+          },
+          {
+            "start_char": 4367,
+            "end_char": 4383,
+            "label": "MISC",
+            "text": "préparer.<br><br"
+          },
+          {
+            "start_char": 4866,
+            "end_char": 4889,
+            "label": "MISC",
+            "text": "professionnelle.<br><br"
+          },
+          {
+            "start_char": 5183,
+            "end_char": 5185,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 5214,
+            "end_char": 5217,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 5384,
+            "end_char": 5407,
+            "label": "PER",
+            "text": "Pierre Cordier.</strong"
+          },
+          {
+            "start_char": 5444,
+            "end_char": 5447,
+            "label": "PER",
+            "text": "Mme"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 115,
+            "sentiment": "3 stars",
+            "score": 0.35165467858314514
+          },
+          {
+            "begin_char": 116,
+            "end_char": 201,
+            "sentiment": "4 stars",
+            "score": 0.25904297828674316
+          },
+          {
+            "begin_char": 202,
+            "end_char": 211,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 211,
+            "end_char": 295,
+            "sentiment": "4 stars",
+            "score": 0.32056206464767456
+          },
+          {
+            "begin_char": 296,
+            "end_char": 568,
+            "sentiment": "4 stars",
+            "score": 0.3009224534034729
+          },
+          {
+            "begin_char": 569,
+            "end_char": 718,
+            "sentiment": "2 stars",
+            "score": 0.3961842954158783
+          },
+          {
+            "begin_char": 718,
+            "end_char": 944,
+            "sentiment": "3 stars",
+            "score": 0.2631646394729614
+          },
+          {
+            "begin_char": 945,
+            "end_char": 1205,
+            "sentiment": "5 stars",
+            "score": 0.28863412141799927
+          },
+          {
+            "begin_char": 1205,
+            "end_char": 1636,
+            "sentiment": "5 stars",
+            "score": 0.29648688435554504
+          },
+          {
+            "begin_char": 1637,
+            "end_char": 1680,
+            "sentiment": "4 stars",
+            "score": 0.3646281659603119
+          },
+          {
+            "begin_char": 1680,
+            "end_char": 1758,
+            "sentiment": "5 stars",
+            "score": 0.4936274290084839
+          },
+          {
+            "begin_char": 1759,
+            "end_char": 1855,
+            "sentiment": "3 stars",
+            "score": 0.2571380138397217
+          },
+          {
+            "begin_char": 1856,
+            "end_char": 1903,
+            "sentiment": "5 stars",
+            "score": 0.3245777487754822
+          },
+          {
+            "begin_char": 1904,
+            "end_char": 2198,
+            "sentiment": "5 stars",
+            "score": 0.41684314608573914
+          },
+          {
+            "begin_char": 2199,
+            "end_char": 2325,
+            "sentiment": "2 stars",
+            "score": 0.3780105710029602
+          },
+          {
+            "begin_char": 2326,
+            "end_char": 2397,
+            "sentiment": "5 stars",
+            "score": 0.3660276532173157
+          },
+          {
+            "begin_char": 2397,
+            "end_char": 2432,
+            "sentiment": "3 stars",
+            "score": 0.26806843280792236
+          },
+          {
+            "begin_char": 2433,
+            "end_char": 2554,
+            "sentiment": "4 stars",
+            "score": 0.33557450771331787
+          },
+          {
+            "begin_char": 2555,
+            "end_char": 2722,
+            "sentiment": "5 stars",
+            "score": 0.45714032649993896
+          },
+          {
+            "begin_char": 2722,
+            "end_char": 2771,
+            "sentiment": "3 stars",
+            "score": 0.3073686957359314
+          },
+          {
+            "begin_char": 2772,
+            "end_char": 2850,
+            "sentiment": "4 stars",
+            "score": 0.34290799498558044
+          },
+          {
+            "begin_char": 2851,
+            "end_char": 2855,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2855,
+            "end_char": 2951,
+            "sentiment": "4 stars",
+            "score": 0.32171934843063354
+          },
+          {
+            "begin_char": 2952,
+            "end_char": 3048,
+            "sentiment": "5 stars",
+            "score": 0.23742510378360748
+          },
+          {
+            "begin_char": 3049,
+            "end_char": 3208,
+            "sentiment": "5 stars",
+            "score": 0.29084596037864685
+          },
+          {
+            "begin_char": 3209,
+            "end_char": 3274,
+            "sentiment": "5 stars",
+            "score": 0.46111470460891724
+          },
+          {
+            "begin_char": 3275,
+            "end_char": 3353,
+            "sentiment": "5 stars",
+            "score": 0.570681095123291
+          },
+          {
+            "begin_char": 3354,
+            "end_char": 3399,
+            "sentiment": "3 stars",
+            "score": 0.3354262709617615
+          },
+          {
+            "begin_char": 3399,
+            "end_char": 3400,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 3400,
+            "end_char": 3482,
+            "sentiment": "5 stars",
+            "score": 0.5782063007354736
+          },
+          {
+            "begin_char": 3483,
+            "end_char": 3569,
+            "sentiment": "4 stars",
+            "score": 0.380931556224823
+          },
+          {
+            "begin_char": 3570,
+            "end_char": 3709,
+            "sentiment": "3 stars",
+            "score": 0.306956946849823
+          },
+          {
+            "begin_char": 3710,
+            "end_char": 4023,
+            "sentiment": "3 stars",
+            "score": 0.3667074143886566
+          },
+          {
+            "begin_char": 4024,
+            "end_char": 4108,
+            "sentiment": "5 stars",
+            "score": 0.4426741898059845
+          },
+          {
+            "begin_char": 4109,
+            "end_char": 4177,
+            "sentiment": "3 stars",
+            "score": 0.31790122389793396
+          },
+          {
+            "begin_char": 4178,
+            "end_char": 4309,
+            "sentiment": "2 stars",
+            "score": 0.36273184418678284
+          },
+          {
+            "begin_char": 4310,
+            "end_char": 4384,
+            "sentiment": "4 stars",
+            "score": 0.36086025834083557
+          },
+          {
+            "begin_char": 4384,
+            "end_char": 4700,
+            "sentiment": "5 stars",
+            "score": 0.5024266839027405
+          },
+          {
+            "begin_char": 4701,
+            "end_char": 4890,
+            "sentiment": "4 stars",
+            "score": 0.41912394762039185
+          },
+          {
+            "begin_char": 4890,
+            "end_char": 5012,
+            "sentiment": "3 stars",
+            "score": 0.25108602643013
+          },
+          {
+            "begin_char": 5013,
+            "end_char": 5102,
+            "sentiment": "5 stars",
+            "score": 0.4390200078487396
+          },
+          {
+            "begin_char": 5103,
+            "end_char": 5129,
+            "sentiment": "5 stars",
+            "score": 0.5124606490135193
+          },
+          {
+            "begin_char": 5130,
+            "end_char": 5232,
+            "sentiment": "3 stars",
+            "score": 0.31954196095466614
+          },
+          {
+            "begin_char": 5233,
+            "end_char": 5408,
+            "sentiment": "4 stars",
+            "score": 0.3188468813896179
+          },
+          {
+            "begin_char": 5409,
+            "end_char": 5428,
+            "sentiment": "3 stars",
+            "score": 0.25607359409332275
+          },
+          {
+            "begin_char": 5428,
+            "end_char": 5462,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 5463,
+            "end_char": 5510,
+            "sentiment": "3 stars",
+            "score": 0.23137959837913513
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-09",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-09",
+        "pageJO": "5232",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

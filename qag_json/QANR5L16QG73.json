@@ -1,0 +1,551 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG73",
+    "identifiant": {
+      "numero": "73",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "transports ferroviaires",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Modernisation et développement du réseau ferroviaire"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793174",
+        "mandatRef": "PM796188"
+      },
+      "groupe": {
+        "organeRef": "PO800502",
+        "abrege": "GDR-NUPES",
+        "developpe": "Gauche démocrate et républicaine - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Transports",
+      "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Transports",
+          "developpe": "Ministère auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-27",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> MODERNISATION ET DÉVELOPPEMENT DU RÉSEAU FERROVIAIRE <a name=PG19></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Yannick Monnet.<br><br><strong>M. Yannick Monnet. </strong>La semaine dernière, les passagers du train Paris-Clermont ont vécu une nuit et une journée de galère. Ils sont arrivés à Moulins, dans ma circonscription, puis à Clermont-Ferrand, avec près de 20 heures de retard à cause d'une rupture de caténaire. C'est d'autant plus inacceptable que c'est le énième incident survenu sur cette ligne, sur laquelle se multiplient les problèmes techniques qui pourrissent littéralement la vie des usagers. Ces incidents témoignent des graves problèmes de maintenance du réseau et de l'insuffisance chronique des moyens alloués aux infrastructures. Ces moyens, nettement inférieurs à ceux de nos voisins européens, demeurent insuffisants par rapport aux besoins.<br><br>Ce constat a conduit il y a deux semaines le président-directeur général de la SNCF, Jean-Pierre Farandou, à réclamer un plan d'investissement de 100 milliards d'euros sur quinze dans le transport ferroviaire et les infrastructures afférentes, comme le font l'Allemagne, l'Italie ou la Suisse. Les cheminots, comme les ONG (organisations non gouvernementales) environnementales, réclament depuis des années un vrai plan d'investissements sur dix ans pour construire l'efficacité du réseau ferroviaire de 2030, favoriser un développement juste et harmonieux des territoires et répondre aux besoins et aux attentes de la population et des usagers. Les investissements actuels, en tenant compte des 4,75 milliards du plan de relance, sont largement insuffisants pour tenir les objectifs climatiques et rebâtir un grand service public ferroviaire.<br><br>Ma question est simple : que comptez-vous faire pour répondre à la colère des usagers ? Quels moyens entendez-vous mettre en œuvre dans les prochains mois pour moderniser et développer le réseau, doubler la part du fret ferroviaire dans le transport de marchandises, développer les lignes du quotidien et faire en sorte que notre système ferroviaire reste l'un des plus performants au monde ? <i>(Applaudissements sur les bancs du groupe GDR-NUPES. – Mme Sandra Regol applaudit également.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports.<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué auprès du ministre de la transition écologique et de la cohésion des territoires, chargé des transports. </i>Vous posez plusieurs questions et je veux d'abord réagir à celle que vous avez soulevée en premier, concernant l'incident très regrettable qui s'est produit la semaine dernière sur la ligne Paris-Clermont, occasionnant plus de vingt heures d'attente. Je le dis très sincèrement : cette ligne est particulièrement en difficulté et mérite un investissement spécifique renforcé, qui a été engagé il y a déjà quelques mois, avec une échéance en 2026. L'intégralité des rames sera renouvelée et plus de 800 millions seront investis dans la remise à niveau du réseau. Nous le devons, sur cette ligne tout spécialement.<br><br><strong>M. Jean-Paul Lecoq.</strong> Et pour la ligne Paris-Normandie ?<br><br><strong>M. Clément Beaune,</strong><i> ministre délégué . </i>J'ai d'ailleurs échangé dès samedi, à sa demande, avec le maire de Clermont-Ferrand M. Bianchi, ainsi qu'avec la députée Lingemann. J'ai pris l'engagement de tenir à la rentrée une réunion consacrée à ce sujet spécifique, afin de caler précisément les modalités de réinvestissement sur cette ligne ; je le ferai avec tous ceux qui le souhaitent.<br><br>Vous posez la question plus générale de l'investissement dans le ferroviaire. J'insiste sur l'enjeu du réseau, qui a fait l'objet d'une prise de conscience récente. Je salue à cet égard le travail conduit par le gouvernement précédent : il a investi très massivement dans le réseau, dont personne ne voulait entendre parler. Les investissements s'élevaient à 1 milliard d'euros par an il y a quinze ans et à 2,5 milliards il y a cinq ans ; actuellement, nous investissons presque 3 milliards dans le réseau pour éviter son vieillissement. Nous continuerons cet effort. La Première ministre l'a dit devant l'Assemblée : la colonne vertébrale de la mobilité durable et verte, c'est le ferroviaire. Nous devons donner la priorité au réseau et nous continuerons en ce sens.<br><br>Nous aurons l'occasion d'en discuter dans le prochain projet de loi de finances, lorsque nous examinerons la trajectoire pluriannuelle des finances publiques mais également avec le prochain rapport du Conseil d'orientation des infrastructures. Celui-ci avait déjà commencé, sous l'autorité de David Valence, à produire un travail visant à matérialiser, accélérer et financer cette priorité. Il est temps de l'appliquer, ce que nous ferons dans les prochaines semaines, sur cette ligne en particulier, en prenant en compte l'ensemble des orientations dégagées. C'est d'ores et déjà très concret, puisque le contrat de performance, qui a été signé entre l'État et SNCF Réseau entérine, pour la première fois depuis dix ans, un effort de 3 milliards d'euros par an. <i>(Applaudissements sur les bancs des groupes RE et Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 36,
+            "label": "ORG",
+            "text": "MODERNISATION"
+          },
+          {
+            "start_char": 64,
+            "end_char": 75,
+            "label": "MISC",
+            "text": "FERROVIAIRE"
+          },
+          {
+            "start_char": 110,
+            "end_char": 113,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 154,
+            "end_char": 156,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 157,
+            "end_char": 187,
+            "label": "PER",
+            "text": "Yannick Monnet.<br><br><strong"
+          },
+          {
+            "start_char": 191,
+            "end_char": 205,
+            "label": "PER",
+            "text": "Yannick Monnet"
+          },
+          {
+            "start_char": 260,
+            "end_char": 274,
+            "label": "LOC",
+            "text": "Paris-Clermont"
+          },
+          {
+            "start_char": 338,
+            "end_char": 345,
+            "label": "LOC",
+            "text": "Moulins"
+          },
+          {
+            "start_char": 379,
+            "end_char": 395,
+            "label": "LOC",
+            "text": "Clermont-Ferrand"
+          },
+          {
+            "start_char": 903,
+            "end_char": 918,
+            "label": "MISC",
+            "text": "besoins.<br><br"
+          },
+          {
+            "start_char": 998,
+            "end_char": 1002,
+            "label": "ORG",
+            "text": "SNCF"
+          },
+          {
+            "start_char": 1004,
+            "end_char": 1024,
+            "label": "PER",
+            "text": "Jean-Pierre Farandou"
+          },
+          {
+            "start_char": 1179,
+            "end_char": 1188,
+            "label": "LOC",
+            "text": "Allemagne"
+          },
+          {
+            "start_char": 1192,
+            "end_char": 1198,
+            "label": "LOC",
+            "text": "Italie"
+          },
+          {
+            "start_char": 1205,
+            "end_char": 1211,
+            "label": "LOC",
+            "text": "Suisse"
+          },
+          {
+            "start_char": 1750,
+            "end_char": 1769,
+            "label": "MISC",
+            "text": "ferroviaire.<br><br"
+          },
+          {
+            "start_char": 2208,
+            "end_char": 2217,
+            "label": "ORG",
+            "text": "GDR-NUPES"
+          },
+          {
+            "start_char": 2221,
+            "end_char": 2225,
+            "label": "PER",
+            "text": "Mme "
+          },
+          {
+            "start_char": 2279,
+            "end_char": 2282,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2323,
+            "end_char": 2325,
+            "label": "PER",
+            "text": "M."
+          },
+          {
+            "start_char": 2466,
+            "end_char": 2469,
+            "label": "PER",
+            "text": "M. "
+          },
+          {
+            "start_char": 2469,
+            "end_char": 2495,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 2807,
+            "end_char": 2827,
+            "label": "LOC",
+            "text": "ligne Paris-Clermont"
+          },
+          {
+            "start_char": 3254,
+            "end_char": 3278,
+            "label": "PER",
+            "text": "Jean-Paul Lecoq.</strong"
+          },
+          {
+            "start_char": 3291,
+            "end_char": 3312,
+            "label": "LOC",
+            "text": "ligne Paris-Normandie"
+          },
+          {
+            "start_char": 3333,
+            "end_char": 3359,
+            "label": "PER",
+            "text": "Clément Beaune,</strong><i"
+          },
+          {
+            "start_char": 3361,
+            "end_char": 3377,
+            "label": "ORG",
+            "text": "ministre délégué"
+          },
+          {
+            "start_char": 3451,
+            "end_char": 3478,
+            "label": "LOC",
+            "text": "Clermont-Ferrand M. Bianchi"
+          },
+          {
+            "start_char": 3505,
+            "end_char": 3514,
+            "label": "LOC",
+            "text": "Lingemann"
+          },
+          {
+            "start_char": 3718,
+            "end_char": 3736,
+            "label": "MISC",
+            "text": "souhaitent.<br><br"
+          },
+          {
+            "start_char": 4309,
+            "end_char": 4317,
+            "label": "MISC",
+            "text": "Première"
+          },
+          {
+            "start_char": 4344,
+            "end_char": 4353,
+            "label": "ORG",
+            "text": "Assemblée"
+          },
+          {
+            "start_char": 4501,
+            "end_char": 4513,
+            "label": "MISC",
+            "text": "sens.<br><br"
+          },
+          {
+            "start_char": 4715,
+            "end_char": 4722,
+            "label": "ORG",
+            "text": "Conseil"
+          },
+          {
+            "start_char": 4807,
+            "end_char": 4820,
+            "label": "PER",
+            "text": "David Valence"
+          },
+          {
+            "start_char": 5168,
+            "end_char": 5172,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5176,
+            "end_char": 5196,
+            "label": "ORG",
+            "text": "SNCF Réseau entérine"
+          },
+          {
+            "start_char": 5324,
+            "end_char": 5326,
+            "label": "MISC",
+            "text": "RE"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 128,
+            "sentiment": "4 stars",
+            "score": 0.35596606135368347
+          },
+          {
+            "begin_char": 129,
+            "end_char": 206,
+            "sentiment": "4 stars",
+            "score": 0.25406089425086975
+          },
+          {
+            "begin_char": 207,
+            "end_char": 318,
+            "sentiment": "1 star",
+            "score": 0.38218018412590027
+          },
+          {
+            "begin_char": 319,
+            "end_char": 465,
+            "sentiment": "2 stars",
+            "score": 0.31285354495048523
+          },
+          {
+            "begin_char": 466,
+            "end_char": 655,
+            "sentiment": "1 star",
+            "score": 0.6855615973472595
+          },
+          {
+            "begin_char": 656,
+            "end_char": 797,
+            "sentiment": "2 stars",
+            "score": 0.32559025287628174
+          },
+          {
+            "begin_char": 798,
+            "end_char": 919,
+            "sentiment": "3 stars",
+            "score": 0.4991283714771271
+          },
+          {
+            "begin_char": 919,
+            "end_char": 1212,
+            "sentiment": "3 stars",
+            "score": 0.29497435688972473
+          },
+          {
+            "begin_char": 1213,
+            "end_char": 1564,
+            "sentiment": "5 stars",
+            "score": 0.6587426662445068
+          },
+          {
+            "begin_char": 1565,
+            "end_char": 1857,
+            "sentiment": "2 stars",
+            "score": 0.3440418243408203
+          },
+          {
+            "begin_char": 1858,
+            "end_char": 2162,
+            "sentiment": "5 stars",
+            "score": 0.7232676148414612
+          },
+          {
+            "begin_char": 2163,
+            "end_char": 2225,
+            "sentiment": "4 stars",
+            "score": 0.3308228850364685
+          },
+          {
+            "begin_char": 2225,
+            "end_char": 2297,
+            "sentiment": "4 stars",
+            "score": 0.3524588942527771
+          },
+          {
+            "begin_char": 2298,
+            "end_char": 2496,
+            "sentiment": "4 stars",
+            "score": 0.3516586422920227
+          },
+          {
+            "begin_char": 2497,
+            "end_char": 2505,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 2506,
+            "end_char": 2513,
+            "sentiment": "4 stars",
+            "score": 0.3199934959411621
+          },
+          {
+            "begin_char": 2514,
+            "end_char": 2618,
+            "sentiment": "4 stars",
+            "score": 0.37332937121391296
+          },
+          {
+            "begin_char": 2619,
+            "end_char": 2873,
+            "sentiment": "4 stars",
+            "score": 0.2219923734664917
+          },
+          {
+            "begin_char": 2874,
+            "end_char": 3069,
+            "sentiment": "5 stars",
+            "score": 0.43464335799217224
+          },
+          {
+            "begin_char": 3070,
+            "end_char": 3184,
+            "sentiment": "5 stars",
+            "score": 0.48629897832870483
+          },
+          {
+            "begin_char": 3185,
+            "end_char": 3314,
+            "sentiment": "4 stars",
+            "score": 0.32201746106147766
+          },
+          {
+            "begin_char": 3314,
+            "end_char": 3379,
+            "sentiment": "3 stars",
+            "score": 0.3126049041748047
+          },
+          {
+            "begin_char": 3380,
+            "end_char": 3515,
+            "sentiment": "4 stars",
+            "score": 0.36321568489074707
+          },
+          {
+            "begin_char": 3516,
+            "end_char": 3683,
+            "sentiment": "4 stars",
+            "score": 0.44706425070762634
+          },
+          {
+            "begin_char": 3684,
+            "end_char": 3737,
+            "sentiment": "5 stars",
+            "score": 0.5280174612998962
+          },
+          {
+            "begin_char": 3737,
+            "end_char": 3814,
+            "sentiment": "3 stars",
+            "score": 0.2527124285697937
+          },
+          {
+            "begin_char": 3815,
+            "end_char": 3901,
+            "sentiment": "5 stars",
+            "score": 0.44330504536628723
+          },
+          {
+            "begin_char": 3902,
+            "end_char": 4061,
+            "sentiment": "5 stars",
+            "score": 0.5802841186523438
+          },
+          {
+            "begin_char": 4062,
+            "end_char": 4176,
+            "sentiment": "3 stars",
+            "score": 0.32928353548049927
+          },
+          {
+            "begin_char": 4177,
+            "end_char": 4275,
+            "sentiment": "5 stars",
+            "score": 0.3671170175075531
+          },
+          {
+            "begin_char": 4276,
+            "end_char": 4305,
+            "sentiment": "4 stars",
+            "score": 0.3702071011066437
+          },
+          {
+            "begin_char": 4306,
+            "end_char": 4432,
+            "sentiment": "5 stars",
+            "score": 0.4504892826080322
+          },
+          {
+            "begin_char": 4433,
+            "end_char": 4514,
+            "sentiment": "5 stars",
+            "score": 0.4741140604019165
+          },
+          {
+            "begin_char": 4514,
+            "end_char": 4757,
+            "sentiment": "4 stars",
+            "score": 0.4790961742401123
+          },
+          {
+            "begin_char": 4758,
+            "end_char": 4904,
+            "sentiment": "3 stars",
+            "score": 0.28700339794158936
+          },
+          {
+            "begin_char": 4905,
+            "end_char": 5073,
+            "sentiment": "4 stars",
+            "score": 0.4166237413883209
+          },
+          {
+            "begin_char": 5074,
+            "end_char": 5276,
+            "sentiment": "5 stars",
+            "score": 0.45312628149986267
+          },
+          {
+            "begin_char": 5277,
+            "end_char": 5347,
+            "sentiment": "3 stars",
+            "score": 0.31892722845077515
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-27",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-27",
+        "pageJO": "3104",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

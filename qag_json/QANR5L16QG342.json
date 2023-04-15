@@ -1,0 +1,695 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG342",
+    "identifiant": {
+      "numero": "342",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "santé",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Santé mentale"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794154",
+        "mandatRef": "PM796743"
+      },
+      "groupe": {
+        "organeRef": "PO800526",
+        "abrege": "ECOLO",
+        "developpe": "Écologiste - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Organisation territoriale et professions de santé",
+      "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Organisation territoriale et professions de santé",
+          "developpe": "Ministère auprès du ministre de la santé et de la prévention, chargé de l’organisation territoriale et des professions de santé"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-30",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> SANTÉ MENTALE <a name=PG12></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Jean-Claude Raux.<br><br><strong>M. Jean-Claude Raux. </strong>J’ai lu dans une récente tribune du <i>Monde</i> que la santé mentale était l’« enjeu du XXIe siècle ».<br><br><strong>M. Aurélien Pradié.</strong> C'est sûr, nous en avons des exemples.<br><br><strong>M. Jean-Claude Raux. </strong>Pourtant près de 30 % des postes de psychiatres sont vacants en France et je n’ose commenter l’état de la pédopsychiatrie !<br><br>Hier, après deux heures passées auprès de psychiatres et de médecins, voici les mots qui m’ont frappé : abandon, incompréhension, épuisement. Ce sont hélas les mêmes termes qui résonnent aux oreilles de chacune et chacun de mes collègues dans leurs territoires.<br><br>Dans les hôpitaux de Loire-Atlantique où suroccupation et pénurie médicale sont le lot quotidien, où médecins et personnels paramédicaux s’évertuent malgré tout à mener un travail et des projets de qualité, les demandes sans fin d’adaptation, l’accroissement du nombre de missions, les décisions méprisantes de l’agence régionale de santé (ARS) conduisent à l’épuisement des soignants et à la dégradation des soins. Quand, faute de soignants, une unité a fermé dans la Sarthe, ce sont vingt et un patients qui ont dû être accueillis cet été dans un établissement de notre département de Loire-Atlantique malgré le manque déjà criant d'effectifs. Et les patients, dès qu'il est mis un terme à leur hospitalisation, rentrent chez eux sans suivi approprié. Demain, l'absence de médecins en Mayenne, en Vendée ou ailleurs pourrait entraîner d'autres transhumances de patients dans des conditions iniques. Et que dire de ceux qui ne peuvent même pas accéder aux soins ou encore des enfants admis dans des services réservés aux adultes, faute de places ?<br><br>Madame la ministre déléguée chargée de l'organisation territoriale et des professions de santé, quand des médecins qui ont fait le choix de l'hôpital public et de la psychiatrie vous disent qu'ils et elles ne sont plus capables de penser, naviguent à vue en fonction des arrêts de travail, ne gèrent que l'urgence et les fermetures de lit ; quand des équipes entières vous parlent de guerre au quotidien sans être ni entendus ni reconnus ni soutenus, que leur répondez-vous ? Une personne sur cinq est touchée chaque année par un trouble psychique : allez-vous enfin faire de la santé mentale une priorité au lieu de laisser se délabrer la psychiatrie, gérée qu'elle est par des technocrates qui ont conduit notre système de santé au bord du gouffre ? <i>(Applaudissements sur plusieurs bancs des groupes LFI-NUPES, SOC, Écolo-NUPES et GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée chargée de l’organisation territoriale et des professions de santé.<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée chargée de l’organisation territoriale et des professions de santé. </i>La psychiatrie et plus largement la prise en charge de la santé mentale sont des sujets d'importance, comme vous le rappelez, qui font l'objet de toute mon attention. Les conséquences de la crise du covid notamment ont fortement affecté la santé mentale de nos concitoyens qui est plus que jamais une priorité.<br><br><strong>Mme Christine Arrighi.</strong> Et alors ?<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée . </i>Le ministère a pleinement conscience des difficultés que rencontrent actuellement les psychiatres. Ce matin ont été reçus avenue de Ségur les quatre syndicats ayant appelé à la grève. Nous sommes convenus qu'un cycle de réunions de travail sur les sujets propres à la psychiatrie s'ouvrirait à partir de début janvier avec les représentants de la profession. Le ministre François Braun les recevra et, dans le cadre d'un dialogue social nourri, nous souhaitons élaborer un plan d'ampleur destiné à améliorer les conditions d'exercice et à conduire les chantiers structurels de modernisation de la profession.<br><br><strong>Mme Christine Arrighi.</strong> C'est un problème qui se pose depuis des années !<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée . </i>Les travaux autour de ces chantiers sont en cours, qu'il s'agisse de la réforme du financement de la psychiatrie, qui a pour objectif de réduire les inégalités entre les territoires et de redonner des marges de développement, notamment dans le secteur public, ou de la réforme des autorisations destinée à renforcer le maillage territorial. Prochainement sera dressé un premier bilan des assises de la santé mentale et de la psychiatrie.<br><br><strong>Mme Christine Arrighi.</strong> Pourquoi ne l'avoir pas fait avant ?<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée . </i>Ces assises permettront d'accélérer les actions dans le domaine de la pédopsychiatrie, qui constitue un enjeu majeur. J'ajoute que d'importantes enveloppes financières ont été ouvertes pour soutenir le secteur de façon pérenne, notamment en 2020 avec 110 millions d'euros et de nouveau en 2021.<br><br>Dans le cadre du Ségur de l'investissement, sont en outre déployés des dispositifs de soutien aux projets de modernisation, assez nécessaires, des établissements psychiatriques.<br><br>Les mesures de soutien général à l'hôpital bénéficient aussi aux services de psychiatrie. Enfin, le Conseil national de la refondation (CNR) « Santé », dont les travaux sont en cours dans tous les territoires, favorise l'activation de leviers locaux pour répondre à ces enjeux en créant des alliances au plus près des réalités de terrain.<br><br>Vous l'avez signalé, la prise en charge de la psychiatrie est un enjeu majeur.<br><br><strong>Mme Anne-Laure Blin.</strong> Oui, depuis plus d'un an !<br><br><strong>Mme Agnès Firmin Le Bodo,</strong><i> ministre déléguée . </i>C'est la raison pour laquelle nous utilisons tous les leviers pour refonder et transformer notre système de santé et l'adapter aux défis auxquels nous faisons face, ambition dans laquelle la santé mentale et la psychiatrie sont des priorités structurantes et transversales. <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>M. Aurélien Pradié.</strong> Mais quel verbiage !<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 28,
+            "label": "ORG",
+            "text": "SANTÉ"
+          },
+          {
+            "start_char": 71,
+            "end_char": 74,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 115,
+            "end_char": 129,
+            "label": "PER",
+            "text": "M. Jean-Claude"
+          },
+          {
+            "start_char": 154,
+            "end_char": 170,
+            "label": "PER",
+            "text": "Jean-Claude Raux"
+          },
+          {
+            "start_char": 270,
+            "end_char": 274,
+            "label": "MISC",
+            "text": "XXIe"
+          },
+          {
+            "start_char": 303,
+            "end_char": 327,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          },
+          {
+            "start_char": 386,
+            "end_char": 402,
+            "label": "PER",
+            "text": "Jean-Claude Raux"
+          },
+          {
+            "start_char": 477,
+            "end_char": 483,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 490,
+            "end_char": 492,
+            "label": "PER",
+            "text": "n’"
+          },
+          {
+            "start_char": 506,
+            "end_char": 508,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 633,
+            "end_char": 635,
+            "label": "PER",
+            "text": "m’"
+          },
+          {
+            "start_char": 793,
+            "end_char": 812,
+            "label": "MISC",
+            "text": "territoires.<br><br"
+          },
+          {
+            "start_char": 834,
+            "end_char": 850,
+            "label": "LOC",
+            "text": "Loire-Atlantique"
+          },
+          {
+            "start_char": 950,
+            "end_char": 952,
+            "label": "PER",
+            "text": "s’"
+          },
+          {
+            "start_char": 1056,
+            "end_char": 1058,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 1124,
+            "end_char": 1126,
+            "label": "ORG",
+            "text": "l’"
+          },
+          {
+            "start_char": 1153,
+            "end_char": 1156,
+            "label": "MISC",
+            "text": "ARS"
+          },
+          {
+            "start_char": 1171,
+            "end_char": 1173,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 1279,
+            "end_char": 1288,
+            "label": "LOC",
+            "text": "la Sarthe"
+          },
+          {
+            "start_char": 1400,
+            "end_char": 1416,
+            "label": "LOC",
+            "text": "Loire-Atlantique"
+          },
+          {
+            "start_char": 1600,
+            "end_char": 1607,
+            "label": "LOC",
+            "text": "Mayenne"
+          },
+          {
+            "start_char": 1612,
+            "end_char": 1618,
+            "label": "LOC",
+            "text": "Vendée"
+          },
+          {
+            "start_char": 1869,
+            "end_char": 1875,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 2674,
+            "end_char": 2683,
+            "label": "ORG",
+            "text": "LFI-NUPES"
+          },
+          {
+            "start_char": 2685,
+            "end_char": 2688,
+            "label": "ORG",
+            "text": "SOC"
+          },
+          {
+            "start_char": 2690,
+            "end_char": 2701,
+            "label": "MISC",
+            "text": "Écolo-NUPES"
+          },
+          {
+            "start_char": 2705,
+            "end_char": 2735,
+            "label": "LOC",
+            "text": "GDR-NUPES.)</i><br><br><strong"
+          },
+          {
+            "start_char": 2736,
+            "end_char": 2739,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2780,
+            "end_char": 2783,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2816,
+            "end_char": 2818,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2888,
+            "end_char": 2904,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 2955,
+            "end_char": 2957,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 3342,
+            "end_char": 3372,
+            "label": "PER",
+            "text": "Mme Christine Arrighi.</strong"
+          },
+          {
+            "start_char": 3400,
+            "end_char": 3416,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 3594,
+            "end_char": 3599,
+            "label": "LOC",
+            "text": "Ségur"
+          },
+          {
+            "start_char": 3833,
+            "end_char": 3847,
+            "label": "PER",
+            "text": "François Braun"
+          },
+          {
+            "start_char": 4086,
+            "end_char": 4116,
+            "label": "PER",
+            "text": "Mme Christine Arrighi.</strong"
+          },
+          {
+            "start_char": 4183,
+            "end_char": 4199,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 4698,
+            "end_char": 4729,
+            "label": "PER",
+            "text": "Mme Christine Arrighi.</strong>"
+          },
+          {
+            "start_char": 4782,
+            "end_char": 4798,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 5163,
+            "end_char": 5188,
+            "label": "ORG",
+            "text": "Ségur de l'investissement"
+          },
+          {
+            "start_char": 5308,
+            "end_char": 5330,
+            "label": "MISC",
+            "text": "psychiatriques.<br><br"
+          },
+          {
+            "start_char": 5431,
+            "end_char": 5465,
+            "label": "ORG",
+            "text": "Conseil national de la refondation"
+          },
+          {
+            "start_char": 5467,
+            "end_char": 5470,
+            "label": "ORG",
+            "text": "CNR"
+          },
+          {
+            "start_char": 5661,
+            "end_char": 5676,
+            "label": "MISC",
+            "text": "terrain.<br><br"
+          },
+          {
+            "start_char": 5771,
+            "end_char": 5804,
+            "label": "PER",
+            "text": "Mme Anne-Laure Blin.</strong> Oui"
+          },
+          {
+            "start_char": 5843,
+            "end_char": 5859,
+            "label": "PER",
+            "text": "Mme Agnès Firmin"
+          },
+          {
+            "start_char": 6230,
+            "end_char": 6253,
+            "label": "ORG",
+            "text": "RE.)</i><br><br><strong"
+          },
+          {
+            "start_char": 6257,
+            "end_char": 6281,
+            "label": "PER",
+            "text": "Aurélien Pradié.</strong"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 89,
+            "sentiment": "3 stars",
+            "score": 0.2837888300418854
+          },
+          {
+            "begin_char": 90,
+            "end_char": 171,
+            "sentiment": "3 stars",
+            "score": 0.2587343156337738
+          },
+          {
+            "begin_char": 172,
+            "end_char": 183,
+            "sentiment": "3 stars",
+            "score": 0.2758214771747589
+          },
+          {
+            "begin_char": 183,
+            "end_char": 188,
+            "sentiment": "4 stars",
+            "score": 0.28402337431907654
+          },
+          {
+            "begin_char": 189,
+            "end_char": 328,
+            "sentiment": "4 stars",
+            "score": 0.2989494204521179
+          },
+          {
+            "begin_char": 329,
+            "end_char": 403,
+            "sentiment": "3 stars",
+            "score": 0.23141160607337952
+          },
+          {
+            "begin_char": 404,
+            "end_char": 536,
+            "sentiment": "1 star",
+            "score": 0.5308040380477905
+          },
+          {
+            "begin_char": 536,
+            "end_char": 685,
+            "sentiment": "1 star",
+            "score": 0.37441110610961914
+          },
+          {
+            "begin_char": 686,
+            "end_char": 813,
+            "sentiment": "2 stars",
+            "score": 0.36649566888809204
+          },
+          {
+            "begin_char": 813,
+            "end_char": 1157,
+            "sentiment": "2 stars",
+            "score": 0.22544725239276886
+          },
+          {
+            "begin_char": 1158,
+            "end_char": 1228,
+            "sentiment": "1 star",
+            "score": 0.36230939626693726
+          },
+          {
+            "begin_char": 1229,
+            "end_char": 1458,
+            "sentiment": "2 stars",
+            "score": 0.3212895691394806
+          },
+          {
+            "begin_char": 1459,
+            "end_char": 1566,
+            "sentiment": "1 star",
+            "score": 0.40068578720092773
+          },
+          {
+            "begin_char": 1567,
+            "end_char": 1713,
+            "sentiment": "4 stars",
+            "score": 0.24595516920089722
+          },
+          {
+            "begin_char": 1714,
+            "end_char": 1861,
+            "sentiment": "1 star",
+            "score": 0.714003324508667
+          },
+          {
+            "begin_char": 1861,
+            "end_char": 1869,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1869,
+            "end_char": 2209,
+            "sentiment": "1 star",
+            "score": 0.31436216831207275
+          },
+          {
+            "begin_char": 2210,
+            "end_char": 2344,
+            "sentiment": "1 star",
+            "score": 0.5500703454017639
+          },
+          {
+            "begin_char": 2345,
+            "end_char": 2418,
+            "sentiment": "3 stars",
+            "score": 0.29347485303878784
+          },
+          {
+            "begin_char": 2419,
+            "end_char": 2620,
+            "sentiment": "5 stars",
+            "score": 0.48699650168418884
+          },
+          {
+            "begin_char": 2621,
+            "end_char": 2754,
+            "sentiment": "4 stars",
+            "score": 0.33701199293136597
+          },
+          {
+            "begin_char": 2755,
+            "end_char": 2925,
+            "sentiment": "3 stars",
+            "score": 0.30307215452194214
+          },
+          {
+            "begin_char": 2926,
+            "end_char": 2934,
+            "sentiment": "4 stars",
+            "score": 0.3137228786945343
+          },
+          {
+            "begin_char": 2935,
+            "end_char": 3011,
+            "sentiment": "4 stars",
+            "score": 0.32783234119415283
+          },
+          {
+            "begin_char": 3012,
+            "end_char": 3182,
+            "sentiment": "5 stars",
+            "score": 0.5312055349349976
+          },
+          {
+            "begin_char": 3183,
+            "end_char": 3384,
+            "sentiment": "5 stars",
+            "score": 0.4455534815788269
+          },
+          {
+            "begin_char": 3384,
+            "end_char": 3437,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 3438,
+            "end_char": 3457,
+            "sentiment": "4 stars",
+            "score": 0.33328285813331604
+          },
+          {
+            "begin_char": 3458,
+            "end_char": 3560,
+            "sentiment": "4 stars",
+            "score": 0.3964885175228119
+          },
+          {
+            "begin_char": 3561,
+            "end_char": 3645,
+            "sentiment": "4 stars",
+            "score": 0.2751706540584564
+          },
+          {
+            "begin_char": 3646,
+            "end_char": 3820,
+            "sentiment": "4 stars",
+            "score": 0.3755890130996704
+          },
+          {
+            "begin_char": 3821,
+            "end_char": 4167,
+            "sentiment": "4 stars",
+            "score": 0.43487340211868286
+          },
+          {
+            "begin_char": 4167,
+            "end_char": 4220,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 4221,
+            "end_char": 4240,
+            "sentiment": "4 stars",
+            "score": 0.33328285813331604
+          },
+          {
+            "begin_char": 4241,
+            "end_char": 4585,
+            "sentiment": "4 stars",
+            "score": 0.43593189120292664
+          },
+          {
+            "begin_char": 4586,
+            "end_char": 4729,
+            "sentiment": "4 stars",
+            "score": 0.34071823954582214
+          },
+          {
+            "begin_char": 4730,
+            "end_char": 4766,
+            "sentiment": "1 star",
+            "score": 0.2503983676433563
+          },
+          {
+            "begin_char": 4766,
+            "end_char": 4819,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 4820,
+            "end_char": 4839,
+            "sentiment": "4 stars",
+            "score": 0.33328285813331604
+          },
+          {
+            "begin_char": 4840,
+            "end_char": 4844,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4844,
+            "end_char": 4961,
+            "sentiment": "5 stars",
+            "score": 0.4682382345199585
+          },
+          {
+            "begin_char": 4962,
+            "end_char": 5331,
+            "sentiment": "4 stars",
+            "score": 0.5146464705467224
+          },
+          {
+            "begin_char": 5331,
+            "end_char": 5420,
+            "sentiment": "4 stars",
+            "score": 0.36912059783935547
+          },
+          {
+            "begin_char": 5421,
+            "end_char": 5513,
+            "sentiment": "4 stars",
+            "score": 0.3909643590450287
+          },
+          {
+            "begin_char": 5514,
+            "end_char": 5827,
+            "sentiment": "5 stars",
+            "score": 0.6210927963256836
+          },
+          {
+            "begin_char": 5827,
+            "end_char": 5880,
+            "sentiment": "3 stars",
+            "score": 0.3267890512943268
+          },
+          {
+            "begin_char": 5881,
+            "end_char": 5900,
+            "sentiment": "4 stars",
+            "score": 0.33328285813331604
+          },
+          {
+            "begin_char": 5901,
+            "end_char": 6178,
+            "sentiment": "5 stars",
+            "score": 0.7038429975509644
+          },
+          {
+            "begin_char": 6179,
+            "end_char": 6282,
+            "sentiment": "3 stars",
+            "score": 0.3554695248603821
+          },
+          {
+            "begin_char": 6283,
+            "end_char": 6303,
+            "sentiment": "1 star",
+            "score": 0.6849570870399475
+          },
+          {
+            "begin_char": 6303,
+            "end_char": 6311,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-30",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-30",
+        "pageJO": "6140",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

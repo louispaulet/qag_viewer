@@ -1,0 +1,473 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG214",
+    "identifiant": {
+      "numero": "214",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "agriculture",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "VERSEMENT DES INDEMNITÉS AUX AGRICULTEURS À LA SUITE DES INCENDIES ESTIVAUX"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA719890",
+        "mandatRef": "PM796680"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Collectivités territoriales",
+      "developpe": "Ministère auprès du ministre de l’intérieur et des outre-mer et du ministre de la transition écologique et de la cohésion des territoires, chargé des collectivités territoriales"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Collectivités territoriales",
+          "developpe": "Ministère auprès du ministre de l’intérieur et des outre-mer et du ministre de la transition écologique et de la cohésion des territoires, chargé des collectivités territoriales"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> VERSEMENT DES INDEMNITÉS AUX AGRICULTEURS À LA SUITE DES INCENDIES ESTIVAUX <a name=PG21></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Danielle Brulebois.<br><br><strong>Mme Danielle Brulebois. </strong>Monsieur le ministre de l'intérieur et des outre-mer, le mois d'août a été marqué en France par de tragiques incendies. Dans le Jura, où ils ont dévasté 1 200 hectares de forêt, nous avons frôlé le pire quand les flammes sont venues menacer les habitations jusqu'au cœur de plusieurs villages et hameaux. Si nous n'avons à déplorer aucune victime, aucun blessé, aucune habitation brûlée, nous le devons à l'engagement courageux et exemplaire des sapeurs-pompiers professionnels et volontaires : des jours et des nuits durant, ils ont mené une lutte acharnée contre des murs de flammes et des tourbillons de feu imprévisibles, dans des conditions extrêmes et hostiles. Vous avez été constamment à notre écoute, monsieur le ministre, et vous nous avez envoyé des moyens aériens multiples et salvateurs : Canadair, avions Dash, hélicoptères. Avec ma collègue députée du Jura Marie-Christine Dalloz, je vous en remercie.<br><br>Les centres d'incendie et de secours ont pu compter sur l'aide déterminante des agriculteurs qui se sont mobilisés spontanément, jour et nuit. Armés de leurs tonnes à lisier, ils ont fait gagner un temps précieux aux pompiers, les ravitaillant en eau et allant, eux aussi, au front pour arroser les feux et les abords des villages afin de les protéger. Le Président de la République a salué l'immense élan de solidarité jurassien, l'engagement des maires, des élus, des pompiers, des gendarmes et des bénévoles, et l'aide apportée par les agriculteurs.<br><br>Alors que les agriculteurs ont engagé sans compter leurs forces, leur matériel, leurs moyens, délaissant les travaux de leur ferme, où en est le versement de l'indemnisation bien légitime qui leur a été promise ? <i>(Mme Marina Ferrari applaudit.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée chargée des collectivités territoriales.<br><br><strong>Mme Caroline Cayeux,</strong><i> ministre déléguée chargée des collectivités territoriales. </i>Comme vous l'avez dit, les feux du Jura cet été ont été particulièrement ravageurs, avec plus de 1 200 hectares brûlés, principalement sur deux communes, Cernon et Vescles. L'État, que vous avez salué, a été présent aux côtés des sapeurs-pompiers et des élus locaux : plus de 200 sapeurs-pompiers, 3 Canadair, un Dash et deux hélicoptères. D'autres acteurs se sont engagés au service de la lutte contre ces incendies : les agriculteurs, qui ont apporté de l'eau pour ravitailler des camions contre le feu et procéder au noyage des lisières.<br><br>Lors d'un contact téléphonique avec les élus locaux, le Président de la République s'est effectivement engagé à ce qu'une compensation soit versée aux agriculteurs qui ont œuvré lors de cette action collective de préservation du massif jurassien. La procédure d'indemnisation est globale, puisque sont désormais concernés les frais liés aux feux de la Gironde. Je veux donc vous rassurer : les procédures sont en cours. Nous attendons encore quelques éléments de facture pour obtenir les crédits et procéder rapidement aux indemnisations nécessaires.<br><br>Je veux évidemment saluer à mon tour cette solidarité sur le terrain qui fait honneur à notre pays. <i>(Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br><br><strong>Mme la présidente. </strong>La parole est à Mme Danielle Brulebois.<br><br><strong>Mme Danielle Brulebois. </strong>La promesse est tenue, je vous remercie. (Applaudissements sur quelques bancs des groupes RE et Dem.)<br> <p>",
+        "entities": [
+          {
+            "start_char": 23,
+            "end_char": 36,
+            "label": "MISC",
+            "text": "VERSEMENT DES"
+          },
+          {
+            "start_char": 37,
+            "end_char": 47,
+            "label": "MISC",
+            "text": "INDEMNITÉS"
+          },
+          {
+            "start_char": 52,
+            "end_char": 98,
+            "label": "MISC",
+            "text": "AGRICULTEURS À LA SUITE DES INCENDIES ESTIVAUX"
+          },
+          {
+            "start_char": 133,
+            "end_char": 136,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 177,
+            "end_char": 189,
+            "label": "PER",
+            "text": "Mme Danielle"
+          },
+          {
+            "start_char": 216,
+            "end_char": 238,
+            "label": "PER",
+            "text": "Mme Danielle Brulebois"
+          },
+          {
+            "start_char": 249,
+            "end_char": 257,
+            "label": "PER",
+            "text": "Monsieur"
+          },
+          {
+            "start_char": 334,
+            "end_char": 340,
+            "label": "LOC",
+            "text": "France"
+          },
+          {
+            "start_char": 377,
+            "end_char": 381,
+            "label": "LOC",
+            "text": "Jura"
+          },
+          {
+            "start_char": 1051,
+            "end_char": 1059,
+            "label": "LOC",
+            "text": "Canadair"
+          },
+          {
+            "start_char": 1068,
+            "end_char": 1072,
+            "label": "PER",
+            "text": "Dash"
+          },
+          {
+            "start_char": 1116,
+            "end_char": 1143,
+            "label": "LOC",
+            "text": "Jura Marie-Christine Dalloz"
+          },
+          {
+            "start_char": 1156,
+            "end_char": 1172,
+            "label": "MISC",
+            "text": "remercie.<br><br"
+          },
+          {
+            "start_char": 1316,
+            "end_char": 1321,
+            "label": "PER",
+            "text": "Armés"
+          },
+          {
+            "start_char": 1529,
+            "end_char": 1555,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 1712,
+            "end_char": 1732,
+            "label": "MISC",
+            "text": "agriculteurs.<br><br"
+          },
+          {
+            "start_char": 2000,
+            "end_char": 2003,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2044,
+            "end_char": 2047,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2125,
+            "end_char": 2137,
+            "label": "PER",
+            "text": "Mme Caroline"
+          },
+          {
+            "start_char": 2256,
+            "end_char": 2260,
+            "label": "LOC",
+            "text": "Jura"
+          },
+          {
+            "start_char": 2375,
+            "end_char": 2381,
+            "label": "LOC",
+            "text": "Cernon"
+          },
+          {
+            "start_char": 2385,
+            "end_char": 2392,
+            "label": "LOC",
+            "text": "Vescles"
+          },
+          {
+            "start_char": 2396,
+            "end_char": 2400,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2521,
+            "end_char": 2529,
+            "label": "LOC",
+            "text": "Canadair"
+          },
+          {
+            "start_char": 2534,
+            "end_char": 2538,
+            "label": "LOC",
+            "text": "Dash"
+          },
+          {
+            "start_char": 2752,
+            "end_char": 2768,
+            "label": "MISC",
+            "text": "lisières.<br><br"
+          },
+          {
+            "start_char": 2825,
+            "end_char": 2851,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3121,
+            "end_char": 3128,
+            "label": "LOC",
+            "text": "Gironde"
+          },
+          {
+            "start_char": 3307,
+            "end_char": 3326,
+            "label": "MISC",
+            "text": "nécessaires.<br><br"
+          },
+          {
+            "start_char": 3479,
+            "end_char": 3481,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 3510,
+            "end_char": 3513,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 3554,
+            "end_char": 3566,
+            "label": "PER",
+            "text": "Mme Danielle"
+          },
+          {
+            "start_char": 3593,
+            "end_char": 3615,
+            "label": "PER",
+            "text": "Mme Danielle Brulebois"
+          },
+          {
+            "start_char": 3668,
+            "end_char": 3684,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 3716,
+            "end_char": 3718,
+            "label": "MISC",
+            "text": "RE"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 47,
+            "sentiment": "5 stars",
+            "score": 0.3026278018951416
+          },
+          {
+            "begin_char": 48,
+            "end_char": 150,
+            "sentiment": "3 stars",
+            "score": 0.2617684006690979
+          },
+          {
+            "begin_char": 150,
+            "end_char": 151,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 152,
+            "end_char": 239,
+            "sentiment": "3 stars",
+            "score": 0.2507627606391907
+          },
+          {
+            "begin_char": 240,
+            "end_char": 249,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 249,
+            "end_char": 368,
+            "sentiment": "4 stars",
+            "score": 0.3698281943798065
+          },
+          {
+            "begin_char": 369,
+            "end_char": 553,
+            "sentiment": "1 star",
+            "score": 0.3284633755683899
+          },
+          {
+            "begin_char": 554,
+            "end_char": 916,
+            "sentiment": "5 stars",
+            "score": 0.70208340883255
+          },
+          {
+            "begin_char": 917,
+            "end_char": 1087,
+            "sentiment": "5 stars",
+            "score": 0.7589479088783264
+          },
+          {
+            "begin_char": 1088,
+            "end_char": 1143,
+            "sentiment": "4 stars",
+            "score": 0.3329527676105499
+          },
+          {
+            "begin_char": 1143,
+            "end_char": 1173,
+            "sentiment": "5 stars",
+            "score": 0.47221139073371887
+          },
+          {
+            "begin_char": 1173,
+            "end_char": 1315,
+            "sentiment": "5 stars",
+            "score": 0.5377511978149414
+          },
+          {
+            "begin_char": 1316,
+            "end_char": 1525,
+            "sentiment": "5 stars",
+            "score": 0.4515154957771301
+          },
+          {
+            "begin_char": 1526,
+            "end_char": 1945,
+            "sentiment": "5 stars",
+            "score": 0.49262097477912903
+          },
+          {
+            "begin_char": 1946,
+            "end_char": 1960,
+            "sentiment": "3 stars",
+            "score": 0.28861814737319946
+          },
+          {
+            "begin_char": 1961,
+            "end_char": 2018,
+            "sentiment": "5 stars",
+            "score": 0.3740778863430023
+          },
+          {
+            "begin_char": 2019,
+            "end_char": 2216,
+            "sentiment": "4 stars",
+            "score": 0.28080958127975464
+          },
+          {
+            "begin_char": 2217,
+            "end_char": 2393,
+            "sentiment": "3 stars",
+            "score": 0.29229357838630676
+          },
+          {
+            "begin_char": 2394,
+            "end_char": 2560,
+            "sentiment": "5 stars",
+            "score": 0.5126705765724182
+          },
+          {
+            "begin_char": 2561,
+            "end_char": 3015,
+            "sentiment": "4 stars",
+            "score": 0.4162415862083435
+          },
+          {
+            "begin_char": 3016,
+            "end_char": 3129,
+            "sentiment": "4 stars",
+            "score": 0.35177838802337646
+          },
+          {
+            "begin_char": 3130,
+            "end_char": 3188,
+            "sentiment": "5 stars",
+            "score": 0.25570014119148254
+          },
+          {
+            "begin_char": 3189,
+            "end_char": 3426,
+            "sentiment": "5 stars",
+            "score": 0.4424288272857666
+          },
+          {
+            "begin_char": 3427,
+            "end_char": 3528,
+            "sentiment": "3 stars",
+            "score": 0.32598647475242615
+          },
+          {
+            "begin_char": 3529,
+            "end_char": 3616,
+            "sentiment": "3 stars",
+            "score": 0.2507627606391907
+          },
+          {
+            "begin_char": 3617,
+            "end_char": 3668,
+            "sentiment": "5 stars",
+            "score": 0.4658238887786865
+          },
+          {
+            "begin_char": 3668,
+            "end_char": 3731,
+            "sentiment": "4 stars",
+            "score": 0.3246068060398102
+          },
+          {
+            "begin_char": 3732,
+            "end_char": 3735,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-26",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-26",
+        "pageJO": "4569",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

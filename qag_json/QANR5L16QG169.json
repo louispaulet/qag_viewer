@@ -1,0 +1,773 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG169",
+    "identifiant": {
+      "numero": "169",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enfants",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "AIDE SOCIALE À L'ENFANCE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA721710",
+        "mandatRef": "PM797505"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Enfance",
+      "developpe": "Secrétariat d’État auprès de la Première ministre, chargé de l’enfance"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Enfance",
+          "developpe": "Secrétariat d’État auprès de la Première ministre, chargé de l’enfance"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-20",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> AIDE SOCIALE À L'ENFANCE <a name=PG4></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Michèle Peyron.<br><br><strong>Mme Michèle Peyron. </strong>Ma question s'adresse à Mme la secrétaire d'État chargée de l'enfance. C'est choqués et indignés que nous avons découvert, avant-hier, le reportage diffusé sur M6 dans « Zone interdite ». Ce reportage, qui fait suite à celui qui a été diffusé en 2019 – et qui avait déjà chamboulé la société – montre à nouveau le quotidien inacceptable de certains enfants confiés à l'aide sociale à l'enfance (ASE). <i>(Exclamations sur quelques bancs du groupe RN.)</i> Nous ne pouvons détourner le regard de ces situations d'une extrême gravité qui surviennent dans certains départements. Si la responsabilité en est partagée, je souhaite néanmoins souligner que la majorité des professionnels de la protection de l'enfance effectuent un travail formidable d'accompagnement de ces jeunes vulnérables. (Applaudissements sur plusieurs bancs des groupes RE et Dem. – Mme Sophie Taillé-Polian applaudit également.) Je veux également saluer le travail des associations, notamment de celles qui sont animées par d'anciens enfants placés. <br><br>Depuis cinq ans, nous agissons pour que ces situations soient de plus en plus rares et disparaissent. Dans le cadre de la loi relative à la protection des enfants, dont j'ai été la rapporteure, nous avons voté l'interdiction de placer des enfants dans des hôtels – cette disposition entrera en vigueur en 2024 pour permettre aux départements de s'y adapter. Pour protéger les enfants, nous avons rendu systématique le contrôle des antécédents judiciaires de tous les professionnels et bénévoles qui interviennent auprès des enfants dans des établissements pour mineurs, au-delà de l'étape de l'embauche. Nous avons également valorisé les assistants familiaux en instaurant une rémunération minimale. Plus récemment, Mme la présidente de l'Assemblée nationale a annoncé la création d'une délégation des droits des enfants, demandée de longue date. Je souhaite saluer la présidente de cette délégation, notre collègue Perrine Goulet, qui œuvre depuis de longues années pour la protection de l'enfance. <i>(Applaudissements sur plusieurs bancs des groupes RE et Dem.) </i>Nous continuerons à nous investir pour faire avancer ces sujets. Madame la secrétaire d'État, quelles réponses supplémentaires le Gouvernement peut-il apporter ? <br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État chargée de l’enfance.<br><br><strong>Mme Charlotte Caubel,</strong><i> secrétaire d'État chargée de l’enfance. </i>Personne ne doit détourner le regard face aux drames et aux dysfonctionnements qui ont été à nouveau relatés dans le reportage que vous avez évoqué. Ces images sont intolérables, parce qu'elles concernent des enfants dont la vie est déjà fracturée et cabossée. Nous devons tous prendre nos responsabilités.<br><br><strong>Mme Laure Lavalette.</strong> Surtout vous !<br><br><strong>Mme Charlotte Caubel,</strong><i> secrétaire d'État . </i>Le Président de la République a pris ses responsabilités en plaçant l'enfance et la protection de l'enfance au cœur du quinquennat.<i> (Plusieurs députés des groupes LR et RN font des gestes de dénégation.)</i> Le Gouvernement et la majorité ont pris leurs responsabilités avec la loi du 7 février 2022 relative à la protection des enfants – vous en étiez, madame la députée.<br><br><strong>M. Thomas Ménagé.</strong> Et concrètement ?<br><br><strong>Mme Charlotte Caubel,</strong><i> secrétaire d'État . </i>Il est maintenant de ma responsabilité de la mettre concrètement en œuvre. <i>(« Quand ? Ce n'est pas trop tôt ! » sur les bancs du groupe RN.)</i> J'y travaille avec détermination, avec l'ensemble des membres du Gouvernement concernés,…<br><br><strong>M. Jocelyn Dessigny.</strong> Quelles responsabilités avez-vous prises ? Quels actes avez-vous engagés ?<br><br><strong>Mme Charlotte Caubel,</strong><i> secrétaire d'État . </i>…notamment pour renforcer les contrôles des antécédents judiciaires de tous les professionnels qui entourent les enfants, mais aussi, entre autres, pour mettre fin au placement des enfants dans des hôtels sociaux.<br><br>Je veux m'appuyer sur les comités départementaux de la protection de l'enfance prévus par la loi, qui réuniront, autour des préfets, les procureurs de la République, les recteurs, les directeurs des agences régionales de santé (ARS) et l'ensemble des acteurs concernés, pour répondre au mieux aux situations de chaque enfant en danger.<br><br><strong>M. Thomas Ménagé.</strong> Quelles actions concrètes ?<br><br><strong>Mme Charlotte Caubel,</strong><i> secrétaire d'État . </i>Les présidents des départements, que nous avons rencontrés lors de leur congrès, veulent aussi assumer leurs responsabilités, y compris ceux qui sont impliqués dans le reportage. Pour sa part, l'État doit faire encore davantage. C'est pourquoi j'ai proposé, dans le projet de loi de finances que vous êtes en train d'examiner, le recrutement de cinquante agents d'État supplémentaires, qui renforceront les contrôles auprès de l'ensemble des services.<br><br><strong>Mme Laure Lavalette.</strong> Qui êtes-vous ?<br><br><strong>Mme Caroline Parmentier.</strong> Personne ne vous connaît !<br><br><strong>Mme Charlotte Caubel,</strong><i> secrétaire d'État . </i>Nous devons tous agir en responsabilité ; il y va de la protection des enfants et des professionnels qui les accompagnent.<i> (Applaudissements sur quelques bancs des groupes RE et Dem.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 28,
+            "end_char": 35,
+            "label": "ORG",
+            "text": "SOCIALE"
+          },
+          {
+            "start_char": 38,
+            "end_char": 47,
+            "label": "MISC",
+            "text": "L'ENFANCE"
+          },
+          {
+            "start_char": 56,
+            "end_char": 63,
+            "label": "MISC",
+            "text": "PG4></a"
+          },
+          {
+            "start_char": 81,
+            "end_char": 84,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 125,
+            "end_char": 159,
+            "label": "PER",
+            "text": "Mme Michèle Peyron.<br><br><strong"
+          },
+          {
+            "start_char": 160,
+            "end_char": 178,
+            "label": "PER",
+            "text": "Mme Michèle Peyron"
+          },
+          {
+            "start_char": 213,
+            "end_char": 216,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 233,
+            "end_char": 237,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 349,
+            "end_char": 351,
+            "label": "ORG",
+            "text": "M6"
+          },
+          {
+            "start_char": 359,
+            "end_char": 373,
+            "label": "MISC",
+            "text": "Zone interdite"
+          },
+          {
+            "start_char": 584,
+            "end_char": 587,
+            "label": "ORG",
+            "text": "ASE"
+          },
+          {
+            "start_char": 636,
+            "end_char": 643,
+            "label": "ORG",
+            "text": "RN.)</i"
+          },
+          {
+            "start_char": 978,
+            "end_char": 994,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 1027,
+            "end_char": 1029,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 1033,
+            "end_char": 1036,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 1040,
+            "end_char": 1064,
+            "label": "PER",
+            "text": "Mme Sophie Taillé-Polian"
+          },
+          {
+            "start_char": 1932,
+            "end_char": 1935,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 1955,
+            "end_char": 1974,
+            "label": "ORG",
+            "text": "Assemblée nationale"
+          },
+          {
+            "start_char": 2132,
+            "end_char": 2146,
+            "label": "PER",
+            "text": "Perrine Goulet"
+          },
+          {
+            "start_char": 2269,
+            "end_char": 2271,
+            "label": "MISC",
+            "text": "RE"
+          },
+          {
+            "start_char": 2275,
+            "end_char": 2278,
+            "label": "ORG",
+            "text": "Dem"
+          },
+          {
+            "start_char": 2350,
+            "end_char": 2356,
+            "label": "PER",
+            "text": "Madame"
+          },
+          {
+            "start_char": 2373,
+            "end_char": 2377,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2415,
+            "end_char": 2427,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 2463,
+            "end_char": 2466,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2507,
+            "end_char": 2510,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 2527,
+            "end_char": 2531,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2543,
+            "end_char": 2545,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2569,
+            "end_char": 2582,
+            "label": "PER",
+            "text": "Mme Charlotte"
+          },
+          {
+            "start_char": 2616,
+            "end_char": 2620,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 2632,
+            "end_char": 2634,
+            "label": "LOC",
+            "text": "l’"
+          },
+          {
+            "start_char": 2969,
+            "end_char": 2978,
+            "label": "PER",
+            "text": "Mme Laure"
+          },
+          {
+            "start_char": 3029,
+            "end_char": 3042,
+            "label": "PER",
+            "text": "Mme Charlotte"
+          },
+          {
+            "start_char": 3076,
+            "end_char": 3080,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3090,
+            "end_char": 3116,
+            "label": "PER",
+            "text": "Président de la République"
+          },
+          {
+            "start_char": 3253,
+            "end_char": 3255,
+            "label": "ORG",
+            "text": "LR"
+          },
+          {
+            "start_char": 3259,
+            "end_char": 3261,
+            "label": "ORG",
+            "text": "RN"
+          },
+          {
+            "start_char": 3301,
+            "end_char": 3313,
+            "label": "LOC",
+            "text": "Gouvernement"
+          },
+          {
+            "start_char": 3481,
+            "end_char": 3503,
+            "label": "PER",
+            "text": "Thomas Ménagé.</strong"
+          },
+          {
+            "start_char": 3538,
+            "end_char": 3551,
+            "label": "PER",
+            "text": "Mme Charlotte"
+          },
+          {
+            "start_char": 3585,
+            "end_char": 3589,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 3735,
+            "end_char": 3742,
+            "label": "ORG",
+            "text": "RN.)</i"
+          },
+          {
+            "start_char": 3809,
+            "end_char": 3832,
+            "label": "MISC",
+            "text": "Gouvernement concernés,"
+          },
+          {
+            "start_char": 3852,
+            "end_char": 3878,
+            "label": "PER",
+            "text": "Jocelyn Dessigny.</strong>"
+          },
+          {
+            "start_char": 3879,
+            "end_char": 3886,
+            "label": "LOC",
+            "text": "Quelles"
+          },
+          {
+            "start_char": 3969,
+            "end_char": 3982,
+            "label": "PER",
+            "text": "Mme Charlotte"
+          },
+          {
+            "start_char": 4016,
+            "end_char": 4020,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4232,
+            "end_char": 4247,
+            "label": "MISC",
+            "text": "sociaux.<br><br"
+          },
+          {
+            "start_char": 4402,
+            "end_char": 4412,
+            "label": "MISC",
+            "text": "République"
+          },
+          {
+            "start_char": 4476,
+            "end_char": 4479,
+            "label": "MISC",
+            "text": "ARS"
+          },
+          {
+            "start_char": 4602,
+            "end_char": 4624,
+            "label": "PER",
+            "text": "Thomas Ménagé.</strong"
+          },
+          {
+            "start_char": 4669,
+            "end_char": 4682,
+            "label": "PER",
+            "text": "Mme Charlotte"
+          },
+          {
+            "start_char": 4716,
+            "end_char": 4720,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 4922,
+            "end_char": 4926,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5091,
+            "end_char": 5095,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5194,
+            "end_char": 5222,
+            "label": "PER",
+            "text": "Mme Laure Lavalette.</strong"
+          },
+          {
+            "start_char": 5255,
+            "end_char": 5288,
+            "label": "PER",
+            "text": "Mme Caroline Parmentier.</strong>"
+          },
+          {
+            "start_char": 5331,
+            "end_char": 5344,
+            "label": "PER",
+            "text": "Mme Charlotte"
+          },
+          {
+            "start_char": 5378,
+            "end_char": 5382,
+            "label": "LOC",
+            "text": "État"
+          },
+          {
+            "start_char": 5516,
+            "end_char": 5532,
+            "label": "LOC",
+            "text": "Applaudissements"
+          },
+          {
+            "start_char": 5564,
+            "end_char": 5566,
+            "label": "MISC",
+            "text": "RE"
+          }
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 99,
+            "sentiment": "3 stars",
+            "score": 0.30074062943458557
+          },
+          {
+            "begin_char": 100,
+            "end_char": 179,
+            "sentiment": "3 stars",
+            "score": 0.2664392292499542
+          },
+          {
+            "begin_char": 180,
+            "end_char": 259,
+            "sentiment": "4 stars",
+            "score": 0.29201313853263855
+          },
+          {
+            "begin_char": 260,
+            "end_char": 376,
+            "sentiment": "1 star",
+            "score": 0.3716981112957001
+          },
+          {
+            "begin_char": 377,
+            "end_char": 589,
+            "sentiment": "4 stars",
+            "score": 0.3474442958831787
+          },
+          {
+            "begin_char": 590,
+            "end_char": 644,
+            "sentiment": "3 stars",
+            "score": 0.3049817383289337
+          },
+          {
+            "begin_char": 645,
+            "end_char": 764,
+            "sentiment": "5 stars",
+            "score": 0.36994245648384094
+          },
+          {
+            "begin_char": 765,
+            "end_char": 978,
+            "sentiment": "4 stars",
+            "score": 0.47210511565208435
+          },
+          {
+            "begin_char": 978,
+            "end_char": 1037,
+            "sentiment": "4 stars",
+            "score": 0.336683988571167
+          },
+          {
+            "begin_char": 1038,
+            "end_char": 1085,
+            "sentiment": "4 stars",
+            "score": 0.35733628273010254
+          },
+          {
+            "begin_char": 1085,
+            "end_char": 1086,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 1087,
+            "end_char": 1207,
+            "sentiment": "5 stars",
+            "score": 0.5163164734840393
+          },
+          {
+            "begin_char": 1208,
+            "end_char": 1317,
+            "sentiment": "5 stars",
+            "score": 0.5121124982833862
+          },
+          {
+            "begin_char": 1318,
+            "end_char": 1573,
+            "sentiment": "4 stars",
+            "score": 0.38366249203681946
+          },
+          {
+            "begin_char": 1574,
+            "end_char": 1819,
+            "sentiment": "5 stars",
+            "score": 0.439938485622406
+          },
+          {
+            "begin_char": 1820,
+            "end_char": 1915,
+            "sentiment": "5 stars",
+            "score": 0.4067199230194092
+          },
+          {
+            "begin_char": 1916,
+            "end_char": 2062,
+            "sentiment": "4 stars",
+            "score": 0.3662181794643402
+          },
+          {
+            "begin_char": 2063,
+            "end_char": 2215,
+            "sentiment": "5 stars",
+            "score": 0.41517937183380127
+          },
+          {
+            "begin_char": 2216,
+            "end_char": 2279,
+            "sentiment": "4 stars",
+            "score": 0.32460883259773254
+          },
+          {
+            "begin_char": 2279,
+            "end_char": 2280,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 2281,
+            "end_char": 2285,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2285,
+            "end_char": 2349,
+            "sentiment": "5 stars",
+            "score": 0.4553769826889038
+          },
+          {
+            "begin_char": 2350,
+            "end_char": 2446,
+            "sentiment": "4 stars",
+            "score": 0.3181936740875244
+          },
+          {
+            "begin_char": 2447,
+            "end_char": 2481,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2482,
+            "end_char": 2642,
+            "sentiment": "4 stars",
+            "score": 0.29513055086135864
+          },
+          {
+            "begin_char": 2643,
+            "end_char": 2647,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2647,
+            "end_char": 2795,
+            "sentiment": "5 stars",
+            "score": 0.4093451201915741
+          },
+          {
+            "begin_char": 2796,
+            "end_char": 2907,
+            "sentiment": "1 star",
+            "score": 0.7866474390029907
+          },
+          {
+            "begin_char": 2908,
+            "end_char": 3013,
+            "sentiment": "5 stars",
+            "score": 0.4608395993709564
+          },
+          {
+            "begin_char": 3013,
+            "end_char": 3082,
+            "sentiment": "3 stars",
+            "score": 0.32847562432289124
+          },
+          {
+            "begin_char": 3083,
+            "end_char": 3297,
+            "sentiment": "4 stars",
+            "score": 0.37633201479911804
+          },
+          {
+            "begin_char": 3298,
+            "end_char": 3591,
+            "sentiment": "4 stars",
+            "score": 0.30951598286628723
+          },
+          {
+            "begin_char": 3592,
+            "end_char": 3670,
+            "sentiment": "4 stars",
+            "score": 0.35373568534851074
+          },
+          {
+            "begin_char": 3671,
+            "end_char": 3684,
+            "sentiment": "3 stars",
+            "score": 0.28229671716690063
+          },
+          {
+            "begin_char": 3685,
+            "end_char": 3743,
+            "sentiment": "3 stars",
+            "score": 0.34910836815834045
+          },
+          {
+            "begin_char": 3744,
+            "end_char": 3878,
+            "sentiment": "5 stars",
+            "score": 0.4023130238056183
+          },
+          {
+            "begin_char": 3879,
+            "end_char": 3921,
+            "sentiment": "4 stars",
+            "score": 0.2559446692466736
+          },
+          {
+            "begin_char": 3922,
+            "end_char": 3953,
+            "sentiment": "5 stars",
+            "score": 0.31071531772613525
+          },
+          {
+            "begin_char": 3953,
+            "end_char": 4022,
+            "sentiment": "3 stars",
+            "score": 0.32847562432289124
+          },
+          {
+            "begin_char": 4023,
+            "end_char": 4248,
+            "sentiment": "4 stars",
+            "score": 0.4027322828769684
+          },
+          {
+            "begin_char": 4248,
+            "end_char": 4653,
+            "sentiment": "5 stars",
+            "score": 0.457464337348938
+          },
+          {
+            "begin_char": 4653,
+            "end_char": 4722,
+            "sentiment": "3 stars",
+            "score": 0.32847562432289124
+          },
+          {
+            "begin_char": 4723,
+            "end_char": 4905,
+            "sentiment": "4 stars",
+            "score": 0.30756211280822754
+          },
+          {
+            "begin_char": 4906,
+            "end_char": 4955,
+            "sentiment": "3 stars",
+            "score": 0.2557116150856018
+          },
+          {
+            "begin_char": 4956,
+            "end_char": 5239,
+            "sentiment": "4 stars",
+            "score": 0.3326050043106079
+          },
+          {
+            "begin_char": 5239,
+            "end_char": 5288,
+            "sentiment": "3 stars",
+            "score": 0.29713642597198486
+          },
+          {
+            "begin_char": 5289,
+            "end_char": 5315,
+            "sentiment": "1 star",
+            "score": 0.298116534948349
+          },
+          {
+            "begin_char": 5315,
+            "end_char": 5384,
+            "sentiment": "3 stars",
+            "score": 0.32847562432289124
+          },
+          {
+            "begin_char": 5385,
+            "end_char": 5389,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5389,
+            "end_char": 5430,
+            "sentiment": "5 stars",
+            "score": 0.5180299878120422
+          },
+          {
+            "begin_char": 5431,
+            "end_char": 5583,
+            "sentiment": "4 stars",
+            "score": 0.35933396220207214
+          },
+          {
+            "begin_char": 5584,
+            "end_char": 5587,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-20",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-20",
+        "pageJO": "4304",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}
