@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', async () => {
+  document.getElementById('toggleHighlight').addEventListener('click', toggleHighlight);
   const qagSelector = document.getElementById('qagSelector');
   const qagContent = document.getElementById('qagContent');
   
@@ -40,6 +41,20 @@ function convertSpeakerNameToWikipediaLink(text) {
   });
 }
 
+function toggleHighlight() {
+  const spans = document.querySelectorAll('#qagContent span');
+  spans.forEach((span) => {
+    if (span.style.backgroundColor) {
+      span.style.backgroundColor = '';
+    } else {
+      const opacity = parseFloat(span.getAttribute('data-opacity'));
+      const color = span.getAttribute('data-color');
+      span.style.backgroundColor = `${color}${opacity})`;
+    }
+  });
+}
+
+
 function highlightSentences(json, text) {
   const sentimentData = json.question.textesReponse.texteReponse.sentiment_data;
 
@@ -78,13 +93,14 @@ function highlightSentences(json, text) {
       default:
         color = "";
     }
-
+   
     // Add the highlighted text
     if (color) {
-      highlightedText += `<span style="background-color: ${color}${opacity / 100});">${text.slice(beginChar, endChar)}</span>`;
+      highlightedText += `<span data-color="${color}" data-opacity="${opacity / 100}" style="background-color: ${color}${opacity / 100});">${text.slice(beginChar, endChar)}</span>`;
     } else {
       highlightedText += text.slice(beginChar, endChar);
     }
+
 
     // Update the current index
     currentIndex = endChar;
