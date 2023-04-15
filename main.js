@@ -45,14 +45,19 @@ function toggleHighlight() {
   const spans = document.querySelectorAll('#qagContent span');
   spans.forEach((span) => {
     if (span.style.backgroundColor) {
+      span.style.color = '';
       span.style.backgroundColor = '';
     } else {
       const opacity = parseFloat(span.getAttribute('data-opacity'));
       const color = span.getAttribute('data-color');
+      const sentiment = span.getAttribute('data-sentiment');
+      const textColor = (sentiment === "1 star" || sentiment === "2 stars") ? "white" : "black";
+      span.style.color = textColor;
       span.style.backgroundColor = `${color}${opacity})`;
     }
   });
 }
+
 
 
 function highlightSentences(json, text) {
@@ -94,9 +99,10 @@ function highlightSentences(json, text) {
         color = "";
     }
    
-    // Add the highlighted text
+        // Add the highlighted text
     if (color) {
-      highlightedText += `<span data-color="${color}" data-opacity="${opacity / 100}" style="background-color: ${color}${opacity / 100});">${text.slice(beginChar, endChar)}</span>`;
+      const textColor = (sentiment === "1 star" || sentiment === "2 stars") ? "white" : "black";
+      highlightedText += `<span data-sentiment="${sentiment}" data-color="${color}" data-opacity="${opacity / 100}" style="background-color: ${color}${opacity / 100}; color: ${textColor};">${text.slice(beginChar, endChar)}</span>`;
     } else {
       highlightedText += text.slice(beginChar, endChar);
     }
