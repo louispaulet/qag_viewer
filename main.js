@@ -41,13 +41,7 @@ function convertSpeakerNameToWikipediaLink(text) {
 }
 
 function highlightSentences(json, text) {
-  //const text = json.question.textesReponse.texteReponse.texte;
   const sentimentData = json.question.textesReponse.texteReponse.sentiment_data;
-  
-  // If sentimentData is not available, return the input text without highlighting
-  if (!sentimentData) {
-    return text;
-  }
 
   let highlightedText = "";
   let currentIndex = 0;
@@ -63,11 +57,31 @@ function highlightSentences(json, text) {
     // Add the text before the highlight
     highlightedText += text.slice(currentIndex, beginChar);
 
+    // Determine the color based on sentiment
+    let color;
+    switch (sentiment) {
+      case "1 star":
+        color = "rgba(255, 0, 0, ";
+        break;
+      case "2 stars":
+        color = "rgba(255, 165, 0, ";
+        break;
+      case "3 stars":
+        color = "rgba(255, 255, 0, ";
+        break;
+      case "4 stars":
+        color = "rgba(173, 255, 47, ";
+        break;
+      case "5 stars":
+        color = "rgba(0, 255, 0, ";
+        break;
+      default:
+        color = "";
+    }
+
     // Add the highlighted text
-    if (sentiment < 3) {
-      highlightedText += `<span style="background-color: rgba(255, 0, 0, ${opacity / 100});">${text.slice(beginChar, endChar)}</span>`;
-    } else if (sentiment >= 3) {
-      highlightedText += `<span style="background-color: rgba(0, 255, 0, ${opacity / 100});">${text.slice(beginChar, endChar)}</span>`;
+    if (color) {
+      highlightedText += `<span style="background-color: ${color}${opacity / 100});">${text.slice(beginChar, endChar)}</span>`;
     } else {
       highlightedText += text.slice(beginChar, endChar);
     }
@@ -81,6 +95,7 @@ function highlightSentences(json, text) {
 
   return highlightedText;
 }
+
 
 
 function jsonToHTML(json) {
