@@ -40,6 +40,47 @@ function convertSpeakerNameToWikipediaLink(text) {
   });
 }
 
+function highlightSentences(json, text) {
+  //const text = json.question.textesReponse.texteReponse.texte;
+  const sentimentData = json.question.textesReponse.texteReponse.sentiment_data;
+  
+  // If sentimentData is not available, return the input text without highlighting
+  if (!sentimentData) {
+    return text;
+  }
+
+  let highlightedText = "";
+  let currentIndex = 0;
+
+  sentimentData.forEach((data) => {
+    const beginChar = data.begin_char;
+    const endChar = data.end_char;
+    const sentiment = data.sentiment;
+    const score = data.score;
+
+    const opacity = (score * 100).toFixed(2);
+
+    // Add the text before the highlight
+    highlightedText += text.slice(currentIndex, beginChar);
+
+    // Add the highlighted text
+    if (sentiment < 3) {
+      highlightedText += `<span style="background-color: rgba(255, 0, 0, ${opacity / 100});">${text.slice(beginChar, endChar)}</span>`;
+    } else if (sentiment >= 3) {
+      highlightedText += `<span style="background-color: rgba(0, 255, 0, ${opacity / 100});">${text.slice(beginChar, endChar)}</span>`;
+    } else {
+      highlightedText += text.slice(beginChar, endChar);
+    }
+
+    // Update the current index
+    currentIndex = endChar;
+  });
+
+  // Add the remaining text after the last highlight
+  highlightedText += text.slice(currentIndex);
+
+  return highlightedText;
+}
 
 
 function jsonToHTML(json) {
@@ -55,10 +96,14 @@ function jsonToHTML(json) {
 
   const qagText = document.createElement('div');
   const rawText = json.question.textesReponse.texteReponse.texte;
-  const convertedText = convertSpeakerNameToWikipediaLink(rawText);
+  const highlightedText = highlightSentences(json, rawText);
+  const convertedText = convertSpeakerNameToWikipediaLink(highlightedText);
+
   qagText.innerHTML = convertedText;
   qagContent.appendChild(qagText);
 }
+
+
 
 
 function compareDates(a, b) {
