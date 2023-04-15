@@ -41,25 +41,35 @@ function convertSpeakerNameToWikipediaLink(text) {
 }
 
 function highlightPronouns(jsonData) {
-    const pronounPositions = jsonData.question.textesReponse.texteReponse.pronoun_positions;
-    let text = jsonData.question.textesReponse.texteReponse.texte;
+  const male_pronouns = ["il", "lui", "son", "sa", "le", "ce"];
+  const female_pronouns = ["elle", "lui", "sa", "son", "la", "cette"];
+
+  const pronounPositions = jsonData.question.textesReponse.texteReponse.pronoun_positions;
+  let text = jsonData.question.textesReponse.texteReponse.texte;
+  
+  // Sort pronounPositions in descending order by position
+  pronounPositions.sort((a, b) => b.position - a.position);
+
+  // Wrap each pronoun with a div and apply the gender-specific 'highlighted-pronoun' class
+  pronounPositions.forEach(pronounData => {
+    const position = pronounData.position;
+    const pronoun = pronounData.pronoun;
+
+    let highlightedPronoun;
+    if (male_pronouns.includes(pronoun)) {
+      highlightedPronoun = `<div class="highlighted-pronoun-male">${pronoun}</div>`;
+    } else if (female_pronouns.includes(pronoun)) {
+      highlightedPronoun = `<div class="highlighted-pronoun-female">${pronoun}</div>`;
+    } else {
+      return;
+    }
     
-    // Sort pronounPositions in descending order by position
-    pronounPositions.sort((a, b) => b.position - a.position);
+    text = text.slice(0, position) + highlightedPronoun + text.slice(position + pronoun.length);
+  });
 
-    // Wrap each pronoun with a div and apply the 'highlighted-pronoun' class
-    pronounPositions.forEach(pronounData => {
-        const position = pronounData.position;
-        const pronoun = pronounData.pronoun;
-        const highlightedPronoun = `<div class="highlighted-pronoun">${pronoun}</div>`;
-        text = text.slice(0, position) + highlightedPronoun + text.slice(position + pronoun.length);
-    });
-
-    return text;
+  return text;
 }
-
-
-
+    
 function jsonToHTML(json) {
   const dateJO = extractDate(json);
 

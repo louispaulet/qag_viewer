@@ -12,7 +12,22 @@ body {
   flex: 1;
 }
 
-.highlighted-pronoun {
-    background-color: yellow;
-    display: inline;
+.highlighted-pronoun-male {
+  background-color: blue;
+  color: white;
+  display: inline;
+  padding: 2px;
+  margin: 0;
+  border-radius: 3px;
 }
+
+
+.highlighted-pronoun-female {
+  background-color: red;
+  color: white;
+  display: inline;
+  padding: 2px;
+  margin: 0;
+  border-radius: 3px;
+}
+
