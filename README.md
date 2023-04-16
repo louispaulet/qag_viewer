@@ -1,13 +1,16 @@
-# 🎉 QAG Selector 🎉
+# 🎉 QAG Viewer 🎉
 
-Welcome to the QAG Selector repository! This project helps you populate a dropdown menu with JSON files and display them in a user-friendly format. ✨
+Welcome to the QAG Viewer repository! This project helps you visualize French parliamentary questions and answers from the National Assembly in a user-friendly format. ✨
 
 QAG source: https://data.assemblee-nationale.fr/travaux-parlementaires/questions/questions-au-gouvernement  
 
 ## 🚀 Features
 
-- Populates a dropdown selector with JSON files
-- Formats the displayed JSON file titles
+- Populates a dropdown selector with JSON files containing questions and answers
+- Displays the selected QAG with proper formatting
+- Allows you to toggle between two display modes:
+  - Highlighting sentences based on sentiment analysis
+  - Converting speaker names to their respective Wikipedia links
 - Easy to integrate into your web application
 
 ## 🔧 Setup
@@ -24,20 +27,45 @@ git clone https://github.com/louispaulet/qag_viewer.git
 cd qag_viewer
 ```
 
+
 3. Open the `index.html` file in your browser
 
 ## 📄 Usage
 
-To use the QAG Selector, update your JSON files according to this structure:
-
+To use the QAG Viewer, update your JSON files according to this structure:
 
 ```json
 {
-  "indexationAN": {
-    "rubrique": "entreprises",
-    "teteAnalyse": null,
-    "analyses": {
-      "analyse": "\"Uber files\""
+  "question": {
+    "indexationAN": {
+      "rubrique": "entreprises",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "\"Uber files\""
+      },
+      "minAttribs": {
+        "minAttrib": {
+          "infoJO": {
+            "dateJO": "2023-04-10"
+          }
+        }
+      }
+    },
+    "textesReponse": {
+      "texteReponse": {
+        "texte": "Here goes the text of the question and answer...",
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 100,
+            "sentiment": "4 stars",
+            "score": 0.8
+          }
+        ],
+        "infoJO": {
+          "dateJO": "2023-04-10"
+        }
+      }
     }
   }
 }
