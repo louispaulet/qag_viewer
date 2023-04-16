@@ -1,0 +1,345 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG5",
+    "identifiant": {
+      "numero": "5",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "pouvoir d'achat",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Pouvoir d'achat"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA718978",
+        "mandatRef": "PM796320"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Comptes publics",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Comptes publics",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> POUVOIR D'ACHAT <a name=PG5></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Mohamed Laqhila.<br><br><strong>M. Mohamed Laqhila. </strong>Monsieur le ministre délégué chargé des comptes publics, la période de forte inflation que nous connaissons exige des mesures d'urgence pour que nos concitoyens puissent continuer de vivre dignement de leur travail. Au-delà des travailleurs, c'est bien le pouvoir d'achat de tous les Français, retraités et bénéficiaires de minima sociaux, que notre majorité entend protéger.<br><br>Mais voilà, il y a le temps de l'urgence et le temps long, celui de la reconstruction. Face aux postures politiciennes et aux mesures irresponsables proposées par certaines oppositions, je souhaite appeler l'attention de la représentation nationale sur une autre inquiétude, partagée par les travailleurs, les chefs d'entreprise, les étudiants et toutes celles et ceux qui créent de la richesse et craignent pour leur avenir et celui de leurs enfants, à moyen et long termes. Agir pour le pouvoir d'achat avec efficacité et de manière durable implique de gérer nos finances publiques dans un esprit de responsabilité. Nous devons aussi cette protection à nos concitoyens.<br><br>Aussi pourriez-vous, monsieur le ministre délégué, rassurer les Françaises et les Français et nous présenter les mesures et les plans d'action envisagés par le Gouvernement pour développer le plein emploi, lequel constitue le premier moyen, selon nous, d'une augmentation efficiente du pouvoir d'achat ?<br><br>Allez-vous entamer une véritable baisse du déficit public et réaffirmer devant la représentation nationale que l'engagement pris sous le précédent quinquennat – ni hausses d'impôts, ni creusement de la dette – sera tenu ?<br><br>Quelles mesures sont-elles envisagées pour permettre, malgré le contexte de crise, que l'affirmation selon laquelle les profits d'aujourd'hui sont les investissements de demain et les emplois d'après-demain soit toujours vérifiable ? (Applaudissements sur les bancs des groupes RE, Dem et HOR.)<br><br><strong>M. Stéphane Peu.</strong> Cela fait cinquante ans que ça ne marche pas !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics.<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics. </i>Dans sa déclaration de politique générale, Mme la Première ministre a rappelé la stratégie du Gouvernement et de la majorité en faveur du plein emploi dans notre pays. Nous avons le taux de chômage le plus bas depuis quinze ans et c'est heureux !<br><br><strong>M. Jocelyn Dessigny.</strong> C'est faux ! Et les Français qui sont en intérim, ils sont où ?<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué . </i>Cette situation nous permet de bénéficier aujourd'hui de ressources supplémentaires pour investir et parer à l'urgence en limitant l'impact de l'inflation pour les Français.<br><br>Rappelons que le taux d'inflation de la France est inférieur de 2 points à celui de la zone euro, grâce à l'action du Gouvernement et de la majorité :…<br><br><strong>Mme Caroline Parmentier.</strong> Tout va bien, alors ?<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué . </i>…le blocage de certains prix a permis d'éviter qu'ils ne s'envolent – il suffit de regarder chez nos voisins européens pour mesurer l'efficacité des mesures que nous avons prises. Nous allons continuer résolument dans cette voie et, comme vous l'avez appelé de vos vœux, investir en faveur de l'emploi. Nous poursuivrons également notre action de soutien à la compétitivité des entreprises, grâce notamment à la suppression de la cotisation sur la valeur ajoutée des entreprises (CVAE) et à la baisse des impôts de production.<br><br>J'étais hier aux côtés du Président de la République au sommet Choose France 2022, qui accueillait les chefs d'entreprise de grands groupes internationaux. Ces derniers ont témoigné du regain d'attractivité de la France depuis quelques années : ils ont aujourd'hui envie d'investir en France ! Depuis trois ans, les baromètres internationaux nous classent d'ailleurs comme le pays le plus attractif d'Europe pour les investissements étrangers. (Applaudissements sur les bancs des groupe RE, Dem et HOR.)<br><br><strong>M. Jocelyn Dessigny.</strong> Pourquoi les Français ne le voient-ils pas ?<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué. </i>Ce sont 6,5 milliards d'investissements étrangers qui ont été annoncés hier, soit des milliers d'emplois supplémentaires. Voilà une bonne nouvelle pour les Français qui cherchent un emploi.<br><br><strong>M. Jocelyn Dessigny.</strong> Encore faut-il qu'ils puissent payer leur plein d'essence pour aller au travail !<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué . </i>C'est une bonne nouvelle aussi pour nos finances puisque nous pourrons ainsi dégager des recettes, investir et soutenir le pouvoir d'achat. Nous allons continuer résolument dans cette voie et travailler sur la formation avec Olivier Dussopt, ministre du travail, du plein emploi et de l'insertion – nous le savons tous, la formation constitue un enjeu fondamental. Nous continuerons également de promouvoir le gain du retour à l'emploi pour convaincre les Français de saisir les opportunités actuelles sur le marché du travail. C'est une stratégie globale que nous développons. (Applaudissements sur les bancs des groupe RE, Dem et HOR.)<br> <p>",
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 90,
+            "sentiment": "3 stars",
+            "score": 0.2971173822879791
+          },
+          {
+            "begin_char": 91,
+            "end_char": 170,
+            "sentiment": "4 stars",
+            "score": 0.24881823360919952
+          },
+          {
+            "begin_char": 171,
+            "end_char": 180,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 180,
+            "end_char": 394,
+            "sentiment": "5 stars",
+            "score": 0.5571688413619995
+          },
+          {
+            "begin_char": 394,
+            "end_char": 395,
+            "sentiment": "4 stars",
+            "score": 0.28710025548934937
+          },
+          {
+            "begin_char": 396,
+            "end_char": 649,
+            "sentiment": "5 stars",
+            "score": 0.38396456837654114
+          },
+          {
+            "begin_char": 650,
+            "end_char": 1038,
+            "sentiment": "5 stars",
+            "score": 0.6682136654853821
+          },
+          {
+            "begin_char": 1039,
+            "end_char": 1180,
+            "sentiment": "5 stars",
+            "score": 0.5037965774536133
+          },
+          {
+            "begin_char": 1181,
+            "end_char": 1545,
+            "sentiment": "5 stars",
+            "score": 0.6064221858978271
+          },
+          {
+            "begin_char": 1545,
+            "end_char": 1553,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 1553,
+            "end_char": 1774,
+            "sentiment": "5 stars",
+            "score": 0.3443661332130432
+          },
+          {
+            "begin_char": 1774,
+            "end_char": 2117,
+            "sentiment": "4 stars",
+            "score": 0.3721635341644287
+          },
+          {
+            "begin_char": 2118,
+            "end_char": 2164,
+            "sentiment": "1 star",
+            "score": 0.7619792222976685
+          },
+          {
+            "begin_char": 2164,
+            "end_char": 2198,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2199,
+            "end_char": 2556,
+            "sentiment": "4 stars",
+            "score": 0.3370208740234375
+          },
+          {
+            "begin_char": 2557,
+            "end_char": 2728,
+            "sentiment": "4 stars",
+            "score": 0.39971697330474854
+          },
+          {
+            "begin_char": 2729,
+            "end_char": 2807,
+            "sentiment": "5 stars",
+            "score": 0.5518321990966797
+          },
+          {
+            "begin_char": 2807,
+            "end_char": 2865,
+            "sentiment": "1 star",
+            "score": 0.5676850080490112
+          },
+          {
+            "begin_char": 2866,
+            "end_char": 2916,
+            "sentiment": "1 star",
+            "score": 0.2601769268512726
+          },
+          {
+            "begin_char": 2916,
+            "end_char": 2980,
+            "sentiment": "3 stars",
+            "score": 0.2997398376464844
+          },
+          {
+            "begin_char": 2981,
+            "end_char": 3166,
+            "sentiment": "5 stars",
+            "score": 0.45432382822036743
+          },
+          {
+            "begin_char": 3166,
+            "end_char": 3316,
+            "sentiment": "3 stars",
+            "score": 0.26932406425476074
+          },
+          {
+            "begin_char": 3316,
+            "end_char": 3366,
+            "sentiment": "3 stars",
+            "score": 0.30866631865501404
+          },
+          {
+            "begin_char": 3367,
+            "end_char": 3388,
+            "sentiment": "4 stars",
+            "score": 0.4195388853549957
+          },
+          {
+            "begin_char": 3388,
+            "end_char": 3452,
+            "sentiment": "3 stars",
+            "score": 0.2997398376464844
+          },
+          {
+            "begin_char": 3453,
+            "end_char": 3636,
+            "sentiment": "4 stars",
+            "score": 0.33854740858078003
+          },
+          {
+            "begin_char": 3637,
+            "end_char": 3759,
+            "sentiment": "5 stars",
+            "score": 0.6625398397445679
+          },
+          {
+            "begin_char": 3760,
+            "end_char": 3991,
+            "sentiment": "4 stars",
+            "score": 0.4467303454875946
+          },
+          {
+            "begin_char": 3991,
+            "end_char": 4146,
+            "sentiment": "5 stars",
+            "score": 0.5828299522399902
+          },
+          {
+            "begin_char": 4147,
+            "end_char": 4284,
+            "sentiment": "5 stars",
+            "score": 0.5581243634223938
+          },
+          {
+            "begin_char": 4285,
+            "end_char": 4584,
+            "sentiment": "5 stars",
+            "score": 0.37949973344802856
+          },
+          {
+            "begin_char": 4584,
+            "end_char": 4647,
+            "sentiment": "3 stars",
+            "score": 0.28099483251571655
+          },
+          {
+            "begin_char": 4648,
+            "end_char": 4773,
+            "sentiment": "5 stars",
+            "score": 0.3294132649898529
+          },
+          {
+            "begin_char": 4774,
+            "end_char": 4968,
+            "sentiment": "5 stars",
+            "score": 0.26048585772514343
+          },
+          {
+            "begin_char": 4968,
+            "end_char": 5032,
+            "sentiment": "3 stars",
+            "score": 0.2997398376464844
+          },
+          {
+            "begin_char": 5033,
+            "end_char": 5176,
+            "sentiment": "5 stars",
+            "score": 0.5290774703025818
+          },
+          {
+            "begin_char": 5177,
+            "end_char": 5401,
+            "sentiment": "5 stars",
+            "score": 0.6075252294540405
+          },
+          {
+            "begin_char": 5402,
+            "end_char": 5564,
+            "sentiment": "5 stars",
+            "score": 0.5094143748283386
+          },
+          {
+            "begin_char": 5565,
+            "end_char": 5616,
+            "sentiment": "4 stars",
+            "score": 0.4225272834300995
+          },
+          {
+            "begin_char": 5616,
+            "end_char": 5678,
+            "sentiment": "4 stars",
+            "score": 0.3403247594833374
+          },
+          {
+            "begin_char": 5679,
+            "end_char": 5682,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-13",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-13",
+        "pageJO": "2333",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG605",
+    "identifiant": {
+      "numero": "605",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "eau et assainissement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "LUTTE CONTRE LA SÉCHERESSE"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794082",
+        "mandatRef": "PM796698"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Écologie",
+      "developpe": "Secrétariat d’État auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de l’écologie"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Écologie",
+          "developpe": "Secrétariat d’État auprès du ministre de la transition écologique et de la cohésion des territoires, chargé de l’écologie"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> LUTTE CONTRE LA SÉCHERESSE <a name=PG22></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Mathilde Hignet.<br><br><strong>Mme Mathilde Hignet. </strong>Ma question s'adresse à Mme la Première ministre.<br><br>Après la sécheresse estivale, voilà la sécheresse hivernale : ce n'est pas une surprise, c'est une conséquence directe du changement climatique. Les scientifiques nous alertent depuis longtemps sur la diminution de notre ressource en eau. Le rapport du Groupe d'experts intergouvernemental sur l'évolution du climat (Giec) indique que plus d'un tiers de la population risque de manquer d'eau à partir de 2 degrés de réchauffement.<br><br>Vous comptez créer une cellule interministérielle chargée d'anticiper les risques et les mesures à prendre en cas de sécheresse. Madame la Première ministre, il est déjà trop tard pour anticiper : la sécheresse est là. Depuis l'été dernier, les nappes phréatiques ne se sont pas remplies. Nos paysans sont déjà en difficulté. Les maraîchers vont commencer l'été sans réserves d'eau. Que proposez-vous comme solution pour eux ? Nous pouvons convenir que construire des bassines alors qu'il ne pleut pas n'est pas une bonne solution. <i>(Applaudissements sur les bancs des groupes LFI-NUPES et Écolo-NUPES.) </i>J'espère que vous aurez de meilleures idées que l'été dernier : alors que les paysans n'étaient plus autorisés à arroser leurs cultures, ici même, l'eau coulait à flots pour garder les petits coins d'herbe de l'Assemblée bien verts !<br><br><strong>M. Fabien Di Filippo.</strong> Même en matière de bassines, ils sont idéologues…<br><br><strong>Mme Mathilde Hignet. </strong>Il est temps de revoir nos priorités. L'eau ne peut être utilisée sans limite. Oui, des restrictions d'urgence doivent être mises en place – vous multipliez d'ailleurs les effets d'annonce à ce sujet dans les médias –, mais cela ne résout pas le problème à long terme. En agriculture, que proposez-vous pour accompagner les paysans dans l'évolution de leurs modes de production, pour les aider à adapter leurs pratiques, notamment en remplaçant le maïs par des plantes non irrigables ? Que proposez-vous pour améliorer le stockage de l'eau dans les sols, outre la plantation de haies ? Plus globalement, que proposez-vous pour remédier à la vétusté des canalisations ? En Guadeloupe, c'est 50 % de l'eau qui est perdue à cause de leur vétusté, et un tiers dans certaines agglomérations. <i>(Applaudissements sur les bancs du groupe LFI-NUPES, ainsi que sur quelques bancs des groupes SOC et Écolo-NUPES.) </i>La sécheresse ne doit pas être pensée seulement en situation de crise, mais dans sa globalité, afin de remonter à la source du problème. (Applaudissements sur les bancs des groupes LFI-NUPES et Écolo-NUPES, ainsi que sur quelques bancs des groupes SOC et GDR-NUPES.)<br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État chargée de l’écologie.<br><br><strong>Mme Bérangère Couillard,</strong><i> secrétaire d'État chargée de l’écologie. </i>Ces dernières années, la multiplication des sécheresses estivales – et parfois même hivernales – a démontré, s'il en était encore besoin, que la question de l'eau et de son partage est un sujet majeur d'adaptation au changement climatique pour notre pays. Nous devons collectivement, État et collectivités territoriales, mieux anticiper la diminution de la ressource en eau et mieux préparer les sécheresses à venir.<br><br>C'est tout l'objet du plan Eau que la Première ministre présentera dans le courant du mois de mars. Dans le cadre de la planification écologique, nous devons engager une réelle transition en trois axes : d'abord, la sobriété de nos usages ; ensuite, la garantie de l'accès à une eau potable de qualité ; enfin, la restauration du grand cycle de l'eau. Ce travail s'inscrit dans la continuité des assises de l'eau et du Varenne agricole. Il s'agit de concilier, à l'échelle des territoires, la moindre disponibilité de la ressource avec des besoins accrus en eau.<br><br><strong>Mme Mathilde Panot.</strong> Et les bassines ?<br><br><strong>Mme Bérangère Couillard,</strong><i> secrétaire d'État . </i>La pertinence des réserves de substitution doit être appréciée au cas par cas, sans en faire une solution miracle ni un tabou.<br><br><strong>Mme Mathilde Panot.</strong> Non !<br><br><strong>Mme Bérangère Couillard,</strong><i> secrétaire d'État . </i>Chaque projet qui respectera les critères exigeants que nous aurons fixés pourra être validé. Le stockage hivernal, lorsque les expertises techniques le jugent soutenable pour les milieux, lorsqu'il s'inscrit dans un projet territorial largement concerté favorable à la transition agroenvironnementale…<br><br><strong>Mme Christine Arrighi.</strong> Cela n'existe pas !<br><br><strong>Mme Bérangère Couillard,</strong><i> secrétaire d'État . </i>…et lorsqu'il participe à un meilleur partage de la ressource, ne doit pas être écarté. Il n'est pas l'unique solution, et sur beaucoup de territoires, il ne sera techniquement pas possible, mais le stockage hivernal fait partie du panel de solutions à mobiliser.<br><br><strong>Mme Mathilde Panot.</strong> Non !<br><br><strong>Mme Bérangère Couillard,</strong><i> secrétaire d'État . </i>Le remplissage est encadré de manière très stricte afin de limiter son impact environnemental ; ainsi, certains ouvrages sont déjà quasiment pleins là où il a plu, tandis que d'autres présentent un taux de remplissage faible qui augmentera au printemps.<br><br><strong>Mme Mathilde Panot.</strong> Arrêtez de faire croire que c'est grâce à la pluie. Vous pompez la nappe phréatique !<br> <p>",
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 102,
+            "sentiment": "3 stars",
+            "score": 0.26067477464675903
+          },
+          {
+            "begin_char": 103,
+            "end_char": 184,
+            "sentiment": "3 stars",
+            "score": 0.24233773350715637
+          },
+          {
+            "begin_char": 185,
+            "end_char": 395,
+            "sentiment": "4 stars",
+            "score": 0.28009679913520813
+          },
+          {
+            "begin_char": 396,
+            "end_char": 489,
+            "sentiment": "5 stars",
+            "score": 0.3934057354927063
+          },
+          {
+            "begin_char": 490,
+            "end_char": 689,
+            "sentiment": "3 stars",
+            "score": 0.33379653096199036
+          },
+          {
+            "begin_char": 689,
+            "end_char": 817,
+            "sentiment": "4 stars",
+            "score": 0.36111631989479065
+          },
+          {
+            "begin_char": 818,
+            "end_char": 907,
+            "sentiment": "5 stars",
+            "score": 0.26985904574394226
+          },
+          {
+            "begin_char": 908,
+            "end_char": 977,
+            "sentiment": "2 stars",
+            "score": 0.3773372173309326
+          },
+          {
+            "begin_char": 978,
+            "end_char": 1014,
+            "sentiment": "3 stars",
+            "score": 0.2325698435306549
+          },
+          {
+            "begin_char": 1015,
+            "end_char": 1071,
+            "sentiment": "5 stars",
+            "score": 0.3003900647163391
+          },
+          {
+            "begin_char": 1072,
+            "end_char": 1115,
+            "sentiment": "3 stars",
+            "score": 0.23290374875068665
+          },
+          {
+            "begin_char": 1116,
+            "end_char": 1220,
+            "sentiment": "2 stars",
+            "score": 0.4302954375743866
+          },
+          {
+            "begin_char": 1221,
+            "end_char": 1293,
+            "sentiment": "4 stars",
+            "score": 0.34478968381881714
+          },
+          {
+            "begin_char": 1293,
+            "end_char": 1294,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 1295,
+            "end_char": 1299,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 1299,
+            "end_char": 1532,
+            "sentiment": "2 stars",
+            "score": 0.3252575397491455
+          },
+          {
+            "begin_char": 1532,
+            "end_char": 1557,
+            "sentiment": "3 stars",
+            "score": 0.3095281720161438
+          },
+          {
+            "begin_char": 1558,
+            "end_char": 1664,
+            "sentiment": "2 stars",
+            "score": 0.3482065200805664
+          },
+          {
+            "begin_char": 1665,
+            "end_char": 1674,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1674,
+            "end_char": 1711,
+            "sentiment": "5 stars",
+            "score": 0.479719877243042
+          },
+          {
+            "begin_char": 1712,
+            "end_char": 1752,
+            "sentiment": "5 stars",
+            "score": 0.29343193769454956
+          },
+          {
+            "begin_char": 1753,
+            "end_char": 1942,
+            "sentiment": "2 stars",
+            "score": 0.4045735001564026
+          },
+          {
+            "begin_char": 1943,
+            "end_char": 2159,
+            "sentiment": "5 stars",
+            "score": 0.4812057614326477
+          },
+          {
+            "begin_char": 2160,
+            "end_char": 2259,
+            "sentiment": "4 stars",
+            "score": 0.34825727343559265
+          },
+          {
+            "begin_char": 2260,
+            "end_char": 2342,
+            "sentiment": "3 stars",
+            "score": 0.3730447292327881
+          },
+          {
+            "begin_char": 2343,
+            "end_char": 2460,
+            "sentiment": "2 stars",
+            "score": 0.364381343126297
+          },
+          {
+            "begin_char": 2461,
+            "end_char": 2577,
+            "sentiment": "4 stars",
+            "score": 0.35113468766212463
+          },
+          {
+            "begin_char": 2577,
+            "end_char": 2578,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 2579,
+            "end_char": 2583,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2583,
+            "end_char": 2719,
+            "sentiment": "4 stars",
+            "score": 0.2887803018093109
+          },
+          {
+            "begin_char": 2720,
+            "end_char": 2721,
+            "sentiment": "4 stars",
+            "score": 0.3286765515804291
+          },
+          {
+            "begin_char": 2721,
+            "end_char": 2883,
+            "sentiment": "4 stars",
+            "score": 0.36558371782302856
+          },
+          {
+            "begin_char": 2884,
+            "end_char": 3008,
+            "sentiment": "3 stars",
+            "score": 0.3019806742668152
+          },
+          {
+            "begin_char": 3009,
+            "end_char": 3049,
+            "sentiment": "4 stars",
+            "score": 0.34350618720054626
+          },
+          {
+            "begin_char": 3050,
+            "end_char": 3309,
+            "sentiment": "5 stars",
+            "score": 0.5067713260650635
+          },
+          {
+            "begin_char": 3310,
+            "end_char": 3577,
+            "sentiment": "5 stars",
+            "score": 0.4495698809623718
+          },
+          {
+            "begin_char": 3578,
+            "end_char": 3718,
+            "sentiment": "5 stars",
+            "score": 0.4142243564128876
+          },
+          {
+            "begin_char": 3719,
+            "end_char": 3781,
+            "sentiment": "4 stars",
+            "score": 0.4063601493835449
+          },
+          {
+            "begin_char": 3782,
+            "end_char": 3829,
+            "sentiment": "5 stars",
+            "score": 0.40987828373908997
+          },
+          {
+            "begin_char": 3830,
+            "end_char": 3914,
+            "sentiment": "4 stars",
+            "score": 0.43607109785079956
+          },
+          {
+            "begin_char": 3915,
+            "end_char": 4084,
+            "sentiment": "4 stars",
+            "score": 0.33695176243782043
+          },
+          {
+            "begin_char": 4085,
+            "end_char": 4102,
+            "sentiment": "5 stars",
+            "score": 0.27382007241249084
+          },
+          {
+            "begin_char": 4102,
+            "end_char": 4174,
+            "sentiment": "3 stars",
+            "score": 0.332613080739975
+          },
+          {
+            "begin_char": 4175,
+            "end_char": 4179,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4179,
+            "end_char": 4355,
+            "sentiment": "2 stars",
+            "score": 0.2655417323112488
+          },
+          {
+            "begin_char": 4355,
+            "end_char": 4427,
+            "sentiment": "3 stars",
+            "score": 0.332613080739975
+          },
+          {
+            "begin_char": 4428,
+            "end_char": 4432,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4432,
+            "end_char": 4525,
+            "sentiment": "4 stars",
+            "score": 0.4057789444923401
+          },
+          {
+            "begin_char": 4526,
+            "end_char": 4781,
+            "sentiment": "4 stars",
+            "score": 0.41010352969169617
+          },
+          {
+            "begin_char": 4782,
+            "end_char": 4801,
+            "sentiment": "1 star",
+            "score": 0.8149345517158508
+          },
+          {
+            "begin_char": 4801,
+            "end_char": 4873,
+            "sentiment": "3 stars",
+            "score": 0.332613080739975
+          },
+          {
+            "begin_char": 4874,
+            "end_char": 4965,
+            "sentiment": "3 stars",
+            "score": 0.2817273437976837
+          },
+          {
+            "begin_char": 4966,
+            "end_char": 5191,
+            "sentiment": "2 stars",
+            "score": 0.35547563433647156
+          },
+          {
+            "begin_char": 5191,
+            "end_char": 5263,
+            "sentiment": "3 stars",
+            "score": 0.332613080739975
+          },
+          {
+            "begin_char": 5264,
+            "end_char": 5363,
+            "sentiment": "3 stars",
+            "score": 0.39335334300994873
+          },
+          {
+            "begin_char": 5364,
+            "end_char": 5565,
+            "sentiment": "3 stars",
+            "score": 0.5047213435173035
+          },
+          {
+            "begin_char": 5566,
+            "end_char": 5617,
+            "sentiment": "1 star",
+            "score": 0.49932053685188293
+          },
+          {
+            "begin_char": 5618,
+            "end_char": 5651,
+            "sentiment": "1 star",
+            "score": 0.6809982657432556
+          },
+          {
+            "begin_char": 5651,
+            "end_char": 5659,
+            "sentiment": "4 stars",
+            "score": 0.2718104124069214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-03-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-03-01",
+        "pageJO": "1903",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

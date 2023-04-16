@@ -1,0 +1,429 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG267",
+    "identifiant": {
+      "numero": "267",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "secteur public",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Offre publique d'achat de l'état sur le groupe EDF"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA793624",
+        "mandatRef": "PM796440"
+      },
+      "groupe": {
+        "organeRef": "PO800496",
+        "abrege": "SOC",
+        "developpe": "Socialistes et apparentés (membre de l’intergroupe NUPES)"
+      }
+    },
+    "minInt": {
+      "abrege": "Comptes publics",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Comptes publics",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> OFFRE PUBLIQUE D'ACHAT DE L'ÉTAT SUR LE GROUPE EDF <a name=PG21></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Philippe Brun.<br><br><strong>M. Philippe Brun. </strong>Madame la Première ministre, votre projet d'offre publique d'achat (OPA) sur le groupe EDF ne laisse de poser question. Pourquoi en effet dépenser plus de 9,7 milliards d'euros d'argent public pour prendre le capital d'une société que l'on contrôle déjà ? Cette question n'a reçu aucune réponse. En tant que rapporteur spécial de la commission des finances de l'Assemblée, je me suis rendu deux fois à Bercy pour y exercer mon pouvoir de contrôle sur pièces et sur place. J'ai demandé des notes ou plans stratégiques actant l'abandon du sinistre projet Hercule de démantèlement d'EDF. Figurez-vous, mes chers collègues, qu'il n'en existe aucune.<br><br>J'ai pu consulter des documents stratégiques confidentiels qui démontrent une tout autre réalité. Dans une note du 27 juin 2022, la montée au capital d'EDF est présentée comme un moyen d'avoir les mains libres pour « engager une filialisation de tout ou partie des activités du groupe liées à la transition énergétique, suivie le cas échéant de leur introduction en Bourse ».<br><br><strong>M. Boris Vallaud.</strong> Voilà la vérité !<br><br><strong>Mme Ségolène Amiot.</strong> C'est scandaleux !<br><br><strong>M. Sylvain Maillard.</strong> N'importe quoi !<br><br><strong>M. Philippe Brun. </strong>Il y est également écrit ceci : « Débuter par une réorganisation du groupe enverrait un signal négatif aux organisations syndicales, qui ne manqueraient pas de se mobiliser. »<br><br>Dans les nombreux documents que j'ai consultés, j'ai constaté l'intention claire qu'a le Gouvernement de démanteler EDF une fois la nationalisation terminée. Ma question est donc simple, madame la Première ministre : lorsque le Gouvernement, par la voix du ministre de l'économie Bruno Le Maire, a affirmé à la tribune de l'Assemblée, le 22 juillet, qu'il garantirait l'unité d'EDF, avez-vous menti à la représentation nationale ? <i>(Applaudissements sur les bancs des groupes SOC, LFI-NUPES et GDR-NUPES.)</i><br><br><strong>M. Inaki Echaniz.</strong> Bravo !<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre délégué chargé des comptes publics.<br><br><strong>M. Fabien Di Filippo.</strong> Les socialistes parlent aux socialistes !<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué chargé des comptes publics. </i>Veuillez tout d'abord excuser Bruno Le Maire, qui participe à Bruxelles à une réunion de l'Eurogroupe.<br><br>L'objectif de la montée à 100 % de l'État au capital d'EDF est clair : renforcer la politique nucléaire de la France…<br><br><strong>M. Pierre Cordier.</strong> Il est grand temps !<br><br><strong>Mme Clémence Guetté.</strong> Et privatiser le reste ?<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué . </i>…conformément au discours que le Président de la République a prononcé à Belfort, dans lequel il prévoyait notamment la construction de six EPR 2 – la nouvelle version des réacteurs pressurisés européens – afin d'assurer la souveraineté énergétique des Français.<br><br>Il n'y aurait aucun sens à ce que l'État monte à 100 % au capital d'une entreprise telle qu'EDF pour, ensuite, la démanteler ou la vendre par appartement ! Ce n'est absolument pas le sujet et Bruno Le Maire a déjà eu l'occasion de dire que le projet Hercule n'est plus à l'ordre du jour.<br><br>En vertu de vos prérogatives de rapporteur spécial, vous avez exercé, monsieur le député, votre pouvoir de contrôle sur pièces et sur place en vous rendant à deux reprises à Bercy. Les portes vous ont été ouvertes et tous les documents que vous avez demandés vous ont été communiqués – je vous vois le confirmer en hochant de la tête. Vous avez eu accès à de nombreux documents et notes que vous avez pu consulter en toute transparence…<br><br><strong>M. Boris Vallaud.</strong> Et ça n'a pas été simple !<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué . </i>…car nous sommes très respectueux.<br><br><strong>Mme Clémence Guetté.</strong> Vous privatisez poliment !<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué . </i>Bruno Le Maire, ses équipes et Bercy sont à votre disposition pour répondre aux questions que vous auriez sur les documents que vous avez consultés.<br><br><strong>M. Olivier Faure.</strong> Ce n'est pas la question !<br><br><strong>M. Gabriel Attal,</strong><i> ministre délégué. </i>Je vous rappelle notre objectif : conforter et renforcer EDF, qui en a bien besoin, afin que nous soyons en mesure d'assurer la souveraineté énergétique de notre pays. J'espère que vous nous suivrez dans cette voie lorsque les débats sur ce sujet auront lieu au Parlement ! <i>(Applaudissements sur plusieurs bancs du groupe RE.)</i><br><br><strong>M. Inaki Echaniz.</strong> Pourquoi ne répondez-vous pas dès maintenant ?<br><br><strong>Mme la présidente. </strong>La parole est à M. Philippe Brun.<br><br><strong>M. Philippe Brun. </strong>Je vous renvoie à une note, que j'ai consultée, du groupe de travail sur les négociations avec la Commission européenne concernant les tarifs régulés de l'électricité. Elle présente quatre scénarios pour l'avenir d'EDF, et dans chacun d'entre eux, le démantèlement est envisagé. Nous devons donc nous inquiéter. Vous devez désormais faire preuve de transparence, et nous demandons un projet de loi de nationalisation qui permettra de fixer définitivement l'avenir d'EDF. <i>(Applaudissements sur les bancs des groupes SOC, LFI-NUPES, Écolo-NUPES et GDR-NUPES).</i><br> <p>",
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 126,
+            "sentiment": "3 stars",
+            "score": 0.32149583101272583
+          },
+          {
+            "begin_char": 127,
+            "end_char": 202,
+            "sentiment": "3 stars",
+            "score": 0.26207414269447327
+          },
+          {
+            "begin_char": 203,
+            "end_char": 331,
+            "sentiment": "3 stars",
+            "score": 0.25528648495674133
+          },
+          {
+            "begin_char": 332,
+            "end_char": 467,
+            "sentiment": "1 star",
+            "score": 0.3501294255256653
+          },
+          {
+            "begin_char": 468,
+            "end_char": 507,
+            "sentiment": "1 star",
+            "score": 0.7394670248031616
+          },
+          {
+            "begin_char": 508,
+            "end_char": 683,
+            "sentiment": "5 stars",
+            "score": 0.4136238694190979
+          },
+          {
+            "begin_char": 684,
+            "end_char": 796,
+            "sentiment": "4 stars",
+            "score": 0.3208554983139038
+          },
+          {
+            "begin_char": 797,
+            "end_char": 865,
+            "sentiment": "1 star",
+            "score": 0.32725587487220764
+          },
+          {
+            "begin_char": 865,
+            "end_char": 962,
+            "sentiment": "5 stars",
+            "score": 0.47917991876602173
+          },
+          {
+            "begin_char": 963,
+            "end_char": 1300,
+            "sentiment": "5 stars",
+            "score": 0.3540194034576416
+          },
+          {
+            "begin_char": 1300,
+            "end_char": 1344,
+            "sentiment": "3 stars",
+            "score": 0.30360937118530273
+          },
+          {
+            "begin_char": 1345,
+            "end_char": 1363,
+            "sentiment": "1 star",
+            "score": 0.8036848306655884
+          },
+          {
+            "begin_char": 1363,
+            "end_char": 1425,
+            "sentiment": "1 star",
+            "score": 0.8004953265190125
+          },
+          {
+            "begin_char": 1425,
+            "end_char": 1458,
+            "sentiment": "3 stars",
+            "score": 0.2932438552379608
+          },
+          {
+            "begin_char": 1459,
+            "end_char": 1468,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1468,
+            "end_char": 1651,
+            "sentiment": "2 stars",
+            "score": 0.29678869247436523
+          },
+          {
+            "begin_char": 1651,
+            "end_char": 1808,
+            "sentiment": "5 stars",
+            "score": 0.3277508318424225
+          },
+          {
+            "begin_char": 1809,
+            "end_char": 2081,
+            "sentiment": "5 stars",
+            "score": 0.2456156611442566
+          },
+          {
+            "begin_char": 2082,
+            "end_char": 2212,
+            "sentiment": "5 stars",
+            "score": 0.5680739283561707
+          },
+          {
+            "begin_char": 2212,
+            "end_char": 2246,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2247,
+            "end_char": 2347,
+            "sentiment": "3 stars",
+            "score": 0.2928772270679474
+          },
+          {
+            "begin_char": 2348,
+            "end_char": 2368,
+            "sentiment": "3 stars",
+            "score": 0.27347269654273987
+          },
+          {
+            "begin_char": 2369,
+            "end_char": 2410,
+            "sentiment": "1 star",
+            "score": 0.3343183398246765
+          },
+          {
+            "begin_char": 2410,
+            "end_char": 2500,
+            "sentiment": "3 stars",
+            "score": 0.30973225831985474
+          },
+          {
+            "begin_char": 2501,
+            "end_char": 2505,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 2505,
+            "end_char": 2775,
+            "sentiment": "4 stars",
+            "score": 0.25967937707901
+          },
+          {
+            "begin_char": 2776,
+            "end_char": 2796,
+            "sentiment": "5 stars",
+            "score": 0.5078251361846924
+          },
+          {
+            "begin_char": 2796,
+            "end_char": 2866,
+            "sentiment": "2 stars",
+            "score": 0.3247224986553192
+          },
+          {
+            "begin_char": 2866,
+            "end_char": 2930,
+            "sentiment": "3 stars",
+            "score": 0.2997398376464844
+          },
+          {
+            "begin_char": 2931,
+            "end_char": 3360,
+            "sentiment": "5 stars",
+            "score": 0.22977040708065033
+          },
+          {
+            "begin_char": 3361,
+            "end_char": 3402,
+            "sentiment": "1 star",
+            "score": 0.7030405402183533
+          },
+          {
+            "begin_char": 3403,
+            "end_char": 3500,
+            "sentiment": "2 stars",
+            "score": 0.29146820306777954
+          },
+          {
+            "begin_char": 3500,
+            "end_char": 3680,
+            "sentiment": "5 stars",
+            "score": 0.42483463883399963
+          },
+          {
+            "begin_char": 3681,
+            "end_char": 3834,
+            "sentiment": "5 stars",
+            "score": 0.514966607093811
+          },
+          {
+            "begin_char": 3835,
+            "end_char": 4005,
+            "sentiment": "5 stars",
+            "score": 0.5465087294578552
+          },
+          {
+            "begin_char": 4005,
+            "end_char": 4069,
+            "sentiment": "3 stars",
+            "score": 0.2997398376464844
+          },
+          {
+            "begin_char": 4070,
+            "end_char": 4153,
+            "sentiment": "4 stars",
+            "score": 0.2998843789100647
+          },
+          {
+            "begin_char": 4154,
+            "end_char": 4180,
+            "sentiment": "1 star",
+            "score": 0.5251330137252808
+          },
+          {
+            "begin_char": 4180,
+            "end_char": 4244,
+            "sentiment": "3 stars",
+            "score": 0.2997398376464844
+          },
+          {
+            "begin_char": 4245,
+            "end_char": 4254,
+            "sentiment": "3 stars",
+            "score": 0.32368484139442444
+          },
+          {
+            "begin_char": 4255,
+            "end_char": 4439,
+            "sentiment": "4 stars",
+            "score": 0.40464136004447937
+          },
+          {
+            "begin_char": 4440,
+            "end_char": 4466,
+            "sentiment": "1 star",
+            "score": 0.3416242003440857
+          },
+          {
+            "begin_char": 4466,
+            "end_char": 4529,
+            "sentiment": "3 stars",
+            "score": 0.28099483251571655
+          },
+          {
+            "begin_char": 4530,
+            "end_char": 4534,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 4534,
+            "end_char": 4701,
+            "sentiment": "5 stars",
+            "score": 0.6402282118797302
+          },
+          {
+            "begin_char": 4702,
+            "end_char": 4807,
+            "sentiment": "5 stars",
+            "score": 0.4063146412372589
+          },
+          {
+            "begin_char": 4808,
+            "end_char": 4909,
+            "sentiment": "3 stars",
+            "score": 0.3493834137916565
+          },
+          {
+            "begin_char": 4910,
+            "end_char": 4956,
+            "sentiment": "1 star",
+            "score": 0.34788113832473755
+          },
+          {
+            "begin_char": 4956,
+            "end_char": 4990,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 4991,
+            "end_char": 5066,
+            "sentiment": "3 stars",
+            "score": 0.26207414269447327
+          },
+          {
+            "begin_char": 5067,
+            "end_char": 5076,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 5076,
+            "end_char": 5243,
+            "sentiment": "4 stars",
+            "score": 0.37543168663978577
+          },
+          {
+            "begin_char": 5244,
+            "end_char": 5354,
+            "sentiment": "4 stars",
+            "score": 0.3036807179450989
+          },
+          {
+            "begin_char": 5355,
+            "end_char": 5387,
+            "sentiment": "2 stars",
+            "score": 0.2468850016593933
+          },
+          {
+            "begin_char": 5388,
+            "end_char": 5546,
+            "sentiment": "5 stars",
+            "score": 0.608923614025116
+          },
+          {
+            "begin_char": 5547,
+            "end_char": 5644,
+            "sentiment": "4 stars",
+            "score": 0.3230292797088623
+          },
+          {
+            "begin_char": 5645,
+            "end_char": 5648,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-09",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-09",
+        "pageJO": "5248",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

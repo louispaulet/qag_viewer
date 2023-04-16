@@ -1,0 +1,297 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG595",
+    "identifiant": {
+      "numero": "595",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "enseignement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PROTECTION DES ENSEIGNANTS"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA720772",
+        "mandatRef": "PM797169"
+      },
+      "groupe": {
+        "organeRef": "PO800484",
+        "abrege": "DEM",
+        "developpe": "Démocrate (MoDem et Indépendants)"
+      }
+    },
+    "minInt": {
+      "abrege": "Jeunesse et service national universel",
+      "developpe": "Secrétariat d’État auprès du ministre des armées et du ministre de l’éducation nationale et de la jeunesse, chargé de la jeunesse et du service national universel"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Jeunesse et service national universel",
+          "developpe": "Secrétariat d’État auprès du ministre des armées et du ministre de l’éducation nationale et de la jeunesse, chargé de la jeunesse et du service national universel"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2023-03-01",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PROTECTION DES ENSEIGNANTS <a name=PG12></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Vincent Bru.<br><br><strong>M. Vincent Bru. </strong>Ma question s'adresse à M. le ministre de l'éducation nationale et de la jeunesse.<br><br>Mercredi dernier, Agnès Lassalle, professeure d'espagnol au lycée Saint-Thomas-d'Aquin de Saint-Jean-de-Luz, a été assassinée dans sa classe par un de ses élèves. Cet acte d'une violence inouïe nous plonge dans la sidération et dans la tristesse. Je veux ici rappeler tout le soutien de la représentation nationale à la communauté enseignante, et exprimer nos plus sincères condoléances à la famille de la victime et à ses collègues. <i>(Mmes et MM. les députés et les membres du Gouvernement se lèvent et applaudissent longuement.)</i><br><br>Cet événement tragique est survenu dans un établissement et dans une ville paisibles. Mais le contexte général dans lequel nous vivons, celui d'une banalisation des actes de violences physiques, parfois sous l'influence des réseaux sociaux et des jeux vidéo, contamine inexorablement tous les espaces. L'école, le lieu où s'épanouissent et se développent nos enfants, n'est malheureusement plus un sanctuaire ; nos enseignants sont confrontés au quotidien à la violence et demeurent souvent démunis pour y répondre : leur protection doit être une priorité pour qu'ils puissent exercer leurs missions dans la plus grande sérénité.<br><br>Cet événement tragique pose aussi la question de la détection et de la prise en charge des troubles psychologiques au sein même de l’institution scolaire. Les moyens affectés à la médecine scolaire sont-ils suffisants ? Les psychologues scolaires sont-ils en capacité d’assurer un suivi adéquat des élèves, sachant que ces derniers éprouvent de plus en plus des difficultés psychologiques, surtout depuis le covid ? Les familles doivent attendre de longs mois pour obtenir des soins auprès d'un professionnel de la santé mentale, et la coordination entre les différents acteurs est souvent difficile.<br><br>Quelles mesures le ministre de l'éducation nationale et de la jeunesse compte-t-il mettre en œuvre pour assurer une meilleure protection de nos enseignants et pour améliorer la détection et le suivi des élèves atteints de troubles psychologiques ? <i>(Applaudissements sur les bancs du groupe Dem. – M Fabrice Brun et M. Thomas Rudigoz applaudissent également.)</i> <br><br><strong>Mme la présidente. </strong>La parole est à Mme la secrétaire d'État chargée de la jeunesse et du service national universel.<br><br><strong>Mme Sarah El Haïry,</strong><i> secrétaire d'État chargée de la jeunesse et du service national universel. </i>Permettez-moi d'abord, monsieur le député, de m'associer à votre hommage à Agnès Lasalle, professeure d'espagnol au sein d'un lycée de Saint-Jean-de-Luz, qui a été en effet assassinée mercredi dernier. Nous pensons évidemment avec d'autant plus d'émotion à sa famille, à ses élèves, à ses collègues et à toute la communauté éducative que les professeurs remplissent des missions essentielles, celles d'élever les esprits et les espérances, et de transmettre le savoir. À chaque fois que l'un d'entre eux est touché, un petit bout de nous tous l'est bien sûr aussi, parce que c'est un acte contre l'école et contre la République. Vous savez que le ministre de l'éducation nationale s'est rendu quasi immédiatement sur place, accompagné du secrétaire général de l'enseignement catholique, pour soutenir les équipes éducatives.<br><br>Vous avez souligné à juste titre que l'école n'est plus hermétique aux problématiques de notre société. Mais nous ne devons pas abandonner l'idée que l'école est un sanctuaire que nous avons le devoir de protéger. À cette fin, nous avons mis en place des plans de mise en sûreté, élaborés conjointement avec les référents appartenant aux forces de l'ordre, et qui sont activés en cas de danger imminent. Cela étant, le lycée de Saint-Thomas-d'Aquin ne connaissait jusqu'alors aucune violence ; et bien qu'il ait, lui aussi, élaboré un tel plan, cela n'a pas permis d'éviter, mercredi dernier, ce qu'il était impossible de prévoir.<br><br>Il y a des sujets sur lesquels nous devons avancer davantage, vous en avez souligné plusieurs : je pense évidemment à la santé mentale des élèves. À cet effet, le ministre de l'éducation nationale, Pap Ndiaye, et le ministre de la santé vont améliorer certains dispositifs, dont « mon parcours psy », qui renforce le lien entre les enseignants, la médecine scolaire et la médecine de ville. Notons également le recrutement de 20 % d'infirmiers supplémentaires.<br><br>Je salue, au nom du ministre de l'éducation nationale, le courage et la dignité de l'équipe pédagogique du lycée Saint-Thomas-d'Aquin. <i>(Applaudissements sur les bancs du groupe Dem. – M. Fabrice Brun applaudit également.)</i><br> <p>",
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 102,
+            "sentiment": "4 stars",
+            "score": 0.3052879869937897
+          },
+          {
+            "begin_char": 103,
+            "end_char": 174,
+            "sentiment": "3 stars",
+            "score": 0.2510127127170563
+          },
+          {
+            "begin_char": 175,
+            "end_char": 436,
+            "sentiment": "4 stars",
+            "score": 0.3210143446922302
+          },
+          {
+            "begin_char": 437,
+            "end_char": 520,
+            "sentiment": "5 stars",
+            "score": 0.750253438949585
+          },
+          {
+            "begin_char": 521,
+            "end_char": 707,
+            "sentiment": "5 stars",
+            "score": 0.6396877765655518
+          },
+          {
+            "begin_char": 708,
+            "end_char": 818,
+            "sentiment": "5 stars",
+            "score": 0.4302704632282257
+          },
+          {
+            "begin_char": 818,
+            "end_char": 903,
+            "sentiment": "4 stars",
+            "score": 0.3193463683128357
+          },
+          {
+            "begin_char": 904,
+            "end_char": 1119,
+            "sentiment": "5 stars",
+            "score": 0.442466676235199
+          },
+          {
+            "begin_char": 1120,
+            "end_char": 1228,
+            "sentiment": "3 stars",
+            "score": 0.29523640871047974
+          },
+          {
+            "begin_char": 1229,
+            "end_char": 1455,
+            "sentiment": "4 stars",
+            "score": 0.42865505814552307
+          },
+          {
+            "begin_char": 1455,
+            "end_char": 1609,
+            "sentiment": "4 stars",
+            "score": 0.45214173197746277
+          },
+          {
+            "begin_char": 1610,
+            "end_char": 1674,
+            "sentiment": "3 stars",
+            "score": 0.3753620982170105
+          },
+          {
+            "begin_char": 1675,
+            "end_char": 1870,
+            "sentiment": "4 stars",
+            "score": 0.3307495415210724
+          },
+          {
+            "begin_char": 1871,
+            "end_char": 2310,
+            "sentiment": "4 stars",
+            "score": 0.37091055512428284
+          },
+          {
+            "begin_char": 2311,
+            "end_char": 2360,
+            "sentiment": "4 stars",
+            "score": 0.3547486662864685
+          },
+          {
+            "begin_char": 2361,
+            "end_char": 2365,
+            "sentiment": "3 stars",
+            "score": 0.28720977902412415
+          },
+          {
+            "begin_char": 2365,
+            "end_char": 2428,
+            "sentiment": "4 stars",
+            "score": 0.3163071274757385
+          },
+          {
+            "begin_char": 2429,
+            "end_char": 2463,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 2464,
+            "end_char": 2692,
+            "sentiment": "5 stars",
+            "score": 0.33099067211151123
+          },
+          {
+            "begin_char": 2693,
+            "end_char": 2898,
+            "sentiment": "4 stars",
+            "score": 0.3167106509208679
+          },
+          {
+            "begin_char": 2899,
+            "end_char": 3165,
+            "sentiment": "5 stars",
+            "score": 0.8187723755836487
+          },
+          {
+            "begin_char": 3166,
+            "end_char": 3325,
+            "sentiment": "5 stars",
+            "score": 0.6112627983093262
+          },
+          {
+            "begin_char": 3326,
+            "end_char": 3529,
+            "sentiment": "5 stars",
+            "score": 0.33712905645370483
+          },
+          {
+            "begin_char": 3529,
+            "end_char": 3632,
+            "sentiment": "5 stars",
+            "score": 0.4446698725223541
+          },
+          {
+            "begin_char": 3633,
+            "end_char": 3742,
+            "sentiment": "5 stars",
+            "score": 0.43442806601524353
+          },
+          {
+            "begin_char": 3743,
+            "end_char": 3932,
+            "sentiment": "4 stars",
+            "score": 0.48349833488464355
+          },
+          {
+            "begin_char": 3933,
+            "end_char": 4022,
+            "sentiment": "3 stars",
+            "score": 0.28552666306495667
+          },
+          {
+            "begin_char": 4023,
+            "end_char": 4313,
+            "sentiment": "3 stars",
+            "score": 0.34772223234176636
+          },
+          {
+            "begin_char": 4314,
+            "end_char": 4557,
+            "sentiment": "4 stars",
+            "score": 0.4097600281238556
+          },
+          {
+            "begin_char": 4558,
+            "end_char": 4635,
+            "sentiment": "4 stars",
+            "score": 0.32865044474601746
+          },
+          {
+            "begin_char": 4635,
+            "end_char": 4769,
+            "sentiment": "5 stars",
+            "score": 0.5592684745788574
+          },
+          {
+            "begin_char": 4770,
+            "end_char": 4819,
+            "sentiment": "4 stars",
+            "score": 0.3547486662864685
+          },
+          {
+            "begin_char": 4820,
+            "end_char": 4871,
+            "sentiment": "3 stars",
+            "score": 0.30906397104263306
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2023-03-01",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2023-03-01",
+        "pageJO": "1896",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

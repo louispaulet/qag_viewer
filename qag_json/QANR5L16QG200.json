@@ -1,0 +1,387 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG200",
+    "identifiant": {
+      "numero": "200",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "sécurité des biens et des personnes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "PROJET DE LOI D'ORIENTATION ET DE PROGRAMMATION DU MINISTÈRE DE L'INTÉRIEUR"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA722150",
+        "mandatRef": "PM797445"
+      },
+      "groupe": {
+        "organeRef": "PO800538",
+        "abrege": "RE",
+        "developpe": "Renaissance"
+      }
+    },
+    "minInt": {
+      "abrege": "Intérieur et outre-mer",
+      "developpe": "Ministère de l’intérieur et des outre-mer"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Intérieur et outre-mer",
+          "developpe": "Ministère de l’intérieur et des outre-mer"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-10-26",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> PROJET DE LOI D'ORIENTATION ET DE PROGRAMMATION DU MINISTÈRE DE L'INTÉRIEUR <a name=PG7></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Sacha Houlié.<br><br><strong>M. Sacha Houlié. </strong>Avant d'interroger le ministre de l'intérieur et des outre-mer, je veux rendre hommage au gendarme qui a perdu la vie cette nuit dans l'Eure ainsi qu'à ses camarades blessés. <i>(Applaudissements sur tous les bancs.)</i><br><br>Des quartiers populaires de Poitiers aux territoires d'outre-mer comme la Guyane, où nous nous trouvions il y a quelques semaines, toute la France parle de sécurité. Le droit à la tranquillité est absolu. Il constitue un acquis que nous devons chèrement défendre.<br><br>Pourtant, beaucoup de nos concitoyens font part de leur sentiment de vivre dans une société plus violente. Les Français décrivent une menace protéiforme : agression physique dans la rue, trafic de drogue, vandalisme, harcèlement ou agression sexuelle.<br><br><strong>M. Laurent Jacobelli.</strong> C'est ce que nous venons de dire !<br><br><strong>M. Sacha Houlié. </strong>Nous voulons être à la hauteur de leurs attentes et de leurs exigences.<br><br>Il y a deux ans, devant la commission des lois, vous avez établi la liste des sept péchés capitaux de la police. Vous avez listé ce qui ne marchait pas et les chantiers que nous devions entreprendre :…<br><br><strong>M. Fabien Di Filippo.</strong> Et le bilan est catastrophique !<br><br><strong>M. Sacha Houlié. </strong>…le manque de formation, le défaut d'encadrement, le manque de moyens humains et matériels, l'encadrement du recours à la vidéo, le renforcement de la confiance dans les inspections, le renouvellement de la confiance des citoyens dans leur police et l'amélioration de la relation entre police et justice.<br><br><strong>M. Laurent Jacobelli.</strong> Si même la gauche le dit… Ce n'est plus nauséabond ?<br><br><strong>M. Sacha Houlié. </strong>Ma première question est donc la suivante : de quelle manière la loi d'orientation et de programmation du ministère de l'intérieur tient-elle compte de ces enjeux ?<br><br>Vous avez commencé à déployer les 8 500 policiers et gendarmes supplémentaires qui s'ajoutent aux 10 000 agents recrutés et formés durant le quinquennat précédent. On compte 300 policiers supplémentaires à Marseille, 160 CRS et gendarmes de plus à Lille, autant à Montpellier et à Béziers, 70 à Nantes.<br><br>Mesurez-vous déjà les résultats de ce déploiement sur le reflux de la délinquance et sur le démantèlement des réseaux ? En matière de sécurité, nos concitoyens nous imposent une obligation de résultat.<br><br>Le projet examiné la semaine prochaine par l'Assemblée prévoit 15 milliards d'euros déployés sur les cinq prochaines années, dont la moitié consacrée à la cybercriminalité.<br><br>L'orateur du groupe socialiste au Sénat a déclaré que « la demande de sécurité exprimée par nos concitoyens » avait « convaincu [les sénateurs socialistes] de voter en faveur de ce texte et des moyens supplémentaires qui sont alloués à nos forces de l'ordre ».<br><br>Voici donc ma dernière question : comment convaincre nos collègues députés des groupes Les Républicains et Socialistes et apparentés de suivre le vote de leurs homologues au Sénat ? <i>(Applaudissements sur les bancs du groupe RE et sur plusieurs bancs du groupe Dem.)</i> <br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’intérieur et des outre-mer.<br><br><strong>M. Gérald Darmanin,</strong><i> ministre de l’intérieur et des outre-mer. </i>Permettez-moi tout d'abord de rendre hommage à mon tour au gendarme décédé dans l'Eure cette nuit et à ses camarades blessés – dont l'un, grièvement. Le défunt laisse une veuve avec quatre enfants. Elle les élèvera, je l'espère, en lien direct avec l'État qui sera au rendez-vous. J'irai présider la cérémonie lors des obsèques. Nous pensons bien sûr à tous les policiers et gendarmes qui, aujourd'hui, meurent en opération, en mission et en service. <i>(Mmes et MM. les députés se lèvent et applaudissent. – Les membres du Gouvernement se lèvent également.) </i>Je vous remercie au nom de nos forces de l'ordre.<br><br>C'est justement en ayant à l'esprit que la mort peut malheureusement frapper les policiers et gendarmes lors d'interventions destinées à nous protéger que la Première ministre et le Président de la République ont arbitré en faveur d'une augmentation de 15 milliards des crédits du ministère de l'intérieur au cours des cinq prochaines années, avec une hausse des effectifs – 8 500 personnes supplémentaires – mais également des moyens hors du commun déployés pour lutter contre les nouvelles menaces.<br><br>Je pense à la cybercriminalité qui, ici et maintenant – et plus encore demain –, touche nos concitoyens, nos collectivités locales, nos hôpitaux ou encore nos entreprises mais aussi aux nouveaux désordres publics, très nombreux, comme on l'a vu ces derniers mois et ces dernières années. Il faut aussi poursuivre la lutte contre le terrorisme, et plus généralement contre tous les types de délinquance, celle-ci étant protéiforme et revêtant désormais une dimension souvent internationale et de plus en plus technologique.<br><br>Sur le modèle de la loi de programmation militaire, nous devons expliciter ce que nous voulons faire pendant cinq ans pour le ministère de l'intérieur, pour les femmes et les hommes qui le servent, afin de renforcer la sécurité de nos concitoyens, en lien bien sûr avec le ministère de la justice, qui connaîtra parallèlement une augmentation de ses crédits dans le cadre de la future loi de programmation.<br><br>Vous m'avez demandé comment nous avions fait pour qu'un texte du ministère de l'intérieur, qui prévoit la création de 200 brigades sur l'ensemble du territoire, des unités de force mobile supplémentaires ou une augmentation des effectifs dans les commissariats, soit voté à la quasi-unanimité par les groupes politiques au Sénat.<br><br>Pour traiter ces questions complexes, nous avons proposé une méthode simple : la discussion. Dans quelques jours, le Gouvernement abordera l'examen du texte ici même, en commission des lois, avec le même esprit de concorde et d'ouverture, quels que soient les groupes politiques avec lesquels nous discuterons. J'espère que nous parviendrons à trouver le même accord, lequel démontrera qu'il ne s'agit pas d'un sujet politicien mais de la volonté de soutenir les policiers et les gendarmes. <i>(Applaudissements sur de nombreux bancs des groupes RE et Dem.)</i><br> <p>",
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 150,
+            "sentiment": "3 stars",
+            "score": 0.35187095403671265
+          },
+          {
+            "begin_char": 151,
+            "end_char": 224,
+            "sentiment": "4 stars",
+            "score": 0.24681662023067474
+          },
+          {
+            "begin_char": 225,
+            "end_char": 234,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 234,
+            "end_char": 408,
+            "sentiment": "5 stars",
+            "score": 0.41368335485458374
+          },
+          {
+            "begin_char": 409,
+            "end_char": 627,
+            "sentiment": "5 stars",
+            "score": 0.3411194682121277
+          },
+          {
+            "begin_char": 628,
+            "end_char": 666,
+            "sentiment": "5 stars",
+            "score": 0.5992422103881836
+          },
+          {
+            "begin_char": 667,
+            "end_char": 839,
+            "sentiment": "5 stars",
+            "score": 0.574568510055542
+          },
+          {
+            "begin_char": 840,
+            "end_char": 1030,
+            "sentiment": "3 stars",
+            "score": 0.2610095739364624
+          },
+          {
+            "begin_char": 1031,
+            "end_char": 1065,
+            "sentiment": "5 stars",
+            "score": 0.32530757784843445
+          },
+          {
+            "begin_char": 1065,
+            "end_char": 1097,
+            "sentiment": "3 stars",
+            "score": 0.28015637397766113
+          },
+          {
+            "begin_char": 1098,
+            "end_char": 1107,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 1107,
+            "end_char": 1186,
+            "sentiment": "5 stars",
+            "score": 0.5660834312438965
+          },
+          {
+            "begin_char": 1186,
+            "end_char": 1298,
+            "sentiment": "1 star",
+            "score": 0.22882013022899628
+          },
+          {
+            "begin_char": 1299,
+            "end_char": 1412,
+            "sentiment": "1 star",
+            "score": 0.4460481107234955
+          },
+          {
+            "begin_char": 1413,
+            "end_char": 1466,
+            "sentiment": "1 star",
+            "score": 0.6634535789489746
+          },
+          {
+            "begin_char": 1466,
+            "end_char": 1498,
+            "sentiment": "3 stars",
+            "score": 0.28015637397766113
+          },
+          {
+            "begin_char": 1499,
+            "end_char": 1858,
+            "sentiment": "3 stars",
+            "score": 0.3474595248699188
+          },
+          {
+            "begin_char": 1859,
+            "end_char": 1884,
+            "sentiment": "1 star",
+            "score": 0.36949577927589417
+          },
+          {
+            "begin_char": 1885,
+            "end_char": 1911,
+            "sentiment": "1 star",
+            "score": 0.5402097105979919
+          },
+          {
+            "begin_char": 1911,
+            "end_char": 1943,
+            "sentiment": "3 stars",
+            "score": 0.28015637397766113
+          },
+          {
+            "begin_char": 1944,
+            "end_char": 2117,
+            "sentiment": "3 stars",
+            "score": 0.3131295442581177
+          },
+          {
+            "begin_char": 2117,
+            "end_char": 2125,
+            "sentiment": "4 stars",
+            "score": 0.2764464318752289
+          },
+          {
+            "begin_char": 2125,
+            "end_char": 2288,
+            "sentiment": "5 stars",
+            "score": 0.26297900080680847
+          },
+          {
+            "begin_char": 2289,
+            "end_char": 2554,
+            "sentiment": "5 stars",
+            "score": 0.2899233400821686
+          },
+          {
+            "begin_char": 2555,
+            "end_char": 2644,
+            "sentiment": "4 stars",
+            "score": 0.3207288980484009
+          },
+          {
+            "begin_char": 2644,
+            "end_char": 2824,
+            "sentiment": "4 stars",
+            "score": 0.34371012449264526
+          },
+          {
+            "begin_char": 2824,
+            "end_char": 3092,
+            "sentiment": "5 stars",
+            "score": 0.44384944438934326
+          },
+          {
+            "begin_char": 3092,
+            "end_char": 3178,
+            "sentiment": "4 stars",
+            "score": 0.26077941060066223
+          },
+          {
+            "begin_char": 3179,
+            "end_char": 3273,
+            "sentiment": "3 stars",
+            "score": 0.22915346920490265
+          },
+          {
+            "begin_char": 3274,
+            "end_char": 3364,
+            "sentiment": "4 stars",
+            "score": 0.31183677911758423
+          },
+          {
+            "begin_char": 3365,
+            "end_char": 3399,
+            "sentiment": "4 stars",
+            "score": 0.27651146054267883
+          },
+          {
+            "begin_char": 3400,
+            "end_char": 3519,
+            "sentiment": "4 stars",
+            "score": 0.3126711845397949
+          },
+          {
+            "begin_char": 3520,
+            "end_char": 3561,
+            "sentiment": "4 stars",
+            "score": 0.31207600235939026
+          },
+          {
+            "begin_char": 3562,
+            "end_char": 3715,
+            "sentiment": "4 stars",
+            "score": 0.3321674168109894
+          },
+          {
+            "begin_char": 3716,
+            "end_char": 3763,
+            "sentiment": "4 stars",
+            "score": 0.3557535409927368
+          },
+          {
+            "begin_char": 3764,
+            "end_char": 3846,
+            "sentiment": "5 stars",
+            "score": 0.4425826966762543
+          },
+          {
+            "begin_char": 3847,
+            "end_char": 3894,
+            "sentiment": "5 stars",
+            "score": 0.36509931087493896
+          },
+          {
+            "begin_char": 3895,
+            "end_char": 4016,
+            "sentiment": "5 stars",
+            "score": 0.6142308712005615
+          },
+          {
+            "begin_char": 4017,
+            "end_char": 4072,
+            "sentiment": "5 stars",
+            "score": 0.3713614344596863
+          },
+          {
+            "begin_char": 4073,
+            "end_char": 4186,
+            "sentiment": "5 stars",
+            "score": 0.42536336183547974
+          },
+          {
+            "begin_char": 4186,
+            "end_char": 4694,
+            "sentiment": "5 stars",
+            "score": 0.4257257282733917
+          },
+          {
+            "begin_char": 4694,
+            "end_char": 4981,
+            "sentiment": "5 stars",
+            "score": 0.6857178807258606
+          },
+          {
+            "begin_char": 4982,
+            "end_char": 5224,
+            "sentiment": "5 stars",
+            "score": 0.45571908354759216
+          },
+          {
+            "begin_char": 5224,
+            "end_char": 5638,
+            "sentiment": "5 stars",
+            "score": 0.5017014145851135
+          },
+          {
+            "begin_char": 5638,
+            "end_char": 6067,
+            "sentiment": "4 stars",
+            "score": 0.2853311002254486
+          },
+          {
+            "begin_char": 6068,
+            "end_char": 6285,
+            "sentiment": "5 stars",
+            "score": 0.499520868062973
+          },
+          {
+            "begin_char": 6286,
+            "end_char": 6465,
+            "sentiment": "3 stars",
+            "score": 0.23668622970581055
+          },
+          {
+            "begin_char": 6466,
+            "end_char": 6544,
+            "sentiment": "3 stars",
+            "score": 0.31337448954582214
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-10-26",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-10-26",
+        "pageJO": "4558",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

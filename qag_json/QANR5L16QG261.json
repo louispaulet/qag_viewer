@@ -1,0 +1,363 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG261",
+    "identifiant": {
+      "numero": "261",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "harcèlement",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Harcèlement scolaire"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA774962",
+        "mandatRef": "PM797766"
+      },
+      "groupe": {
+        "organeRef": "PO800502",
+        "abrege": "GDR-NUPES",
+        "developpe": "Gauche démocrate et républicaine - NUPES"
+      }
+    },
+    "minInt": {
+      "abrege": "Éducation nationale et jeunesse",
+      "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Éducation nationale et jeunesse",
+          "developpe": "Ministère de l’éducation nationale et de la jeunesse"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-09",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> HARCÈLEMENT SCOLAIRE <a name=PG15></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Karine Lebon.<br><br><strong>Mme Karine Lebon. </strong>Avant toute chose, je souhaite rendre hommage à Charlotte Dalleau, poignardée à mort par son conjoint, dimanche, à La Réunion. Cette femme de 49 ans laisse trois enfants derrière elle. Je pense à elle et à ses proches. (Applaudissements sur divers bancs. – MM. Sylvain Maillard et Didier Martin se lèvent pour applaudir.)<br><br>Ma question s’adresse au ministre de l'éducation nationale et de la jeunesse. À deux jours de la journée nationale de lutte contre le harcèlement à l'école, combien de jeunes souffrent de moqueries répétées au sujet de leur poids, de leurs vêtements, de la couleur de leur peau, de leur orientation sexuelle ? Combien s’absentent de leur établissement, se mutilent, voire choisissent d'en finir parce qu'ils n’ont plus la force de faire face ? Un enfant sur huit à La Réunion, un sur dix dans l'ensemble du territoire ! Durant les trois premiers mois de cette année, le nombre de passages aux urgences d'adolescents ayant tenté de se suicider a augmenté de 25 % par rapport à la même période en 2021. Même si le confinement y est certainement pour beaucoup, cela montre bien, monsieur le ministre, que le temps presse.<br><br>Loin de constituer un signe favorable, la disparition des infirmières scolaires, qui constituaient un relais essentiel, est extrêmement préoccupante. <i>(Applaudissements sur quelques bancs des groupes GDR-NUPES et Écolo-NUPES.)</i> Même constat du côté des psychologues scolaires : dans les académies, les postes non pourvus se comptent par dizaines. La loi du 2 mars 2022 visant à combattre le harcèlement scolaire ne suffit pas. La prévention, la sensibilisation sont capitales ; punir ne peut être le seul remède. L'institution s'appuie trop sur les enseignants volontaires, à qui elle demande toujours plus sans leur donner les outils ni le temps qu'il faudrait.<br><br>Depuis septembre, le programme de lutte contre le harcèlement à l'école (Phare) est devenu obligatoire dans les écoles et collèges. Les formations doivent commencer ce mois-ci. Pouvez-vous confirmer, monsieur le ministre, que vous êtes dans les temps, que tous les établissements ont fait remonter la liste de leurs ambassadeurs et personnels concernés ? Surtout, quand comptez-vous consacrer à ce sujet des formations obligatoires pour tous les enseignants ? <i>(Applaudissements sur plusieurs bancs des groupes GDR-NUPES, LFI-NUPES et Écolo-NUPES, ainsi que sur quelques bancs du groupe SOC.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’éducation nationale et de la jeunesse.<br><br><strong>M. Pap Ndiaye,</strong><i> ministre de l’éducation nationale et de la jeunesse. </i>Vous l'avez rappelé, la journée nationale de lutte contre le harcèlement à l'école est prévue dans deux jours. Je me suis moi-même rendu hier en compagnie de Mme Macron, ainsi que de mes collègues Charlotte Caubel et Franck Riester, dans un collège de Seine-et-Marne, où nous avons pu saluer le travail des élèves lauréats du prix « Non au harcèlement » ; je vous invite d'ailleurs à regarder leur clip vidéo. Par ailleurs, le Parlement s'est en effet saisi de cette question : il en est résulté la loi du 2 mars 2022.<br><br>Quant à nous, nous avons généralisé le programme Phare à l'occasion de la rentrée. Je me permets toutefois de rectifier votre propos : loin d'être répressif, ce programme consiste précisément à sensibiliser, à ce que chaque école ou collège compte cinq adultes formés et dix ambassadeurs faisant office de lanceurs d'alerte. Déjà, il ressort des informations transmises par les rectorats que cette généralisation est en cours. Nous sommes en outre très attentifs au phénomène de cyberharcèlement : nous avons popularisé le 3018, le numéro vert à composer en cas de violences numériques, qui s'ajoute au 3020, créé pour les cas de harcèlement scolaire. Hier encore, nous échangions avec les responsables de cette ligne. Cette mobilisation de l'ensemble des acteurs constitue un travail de longue haleine ; tous doivent apporter leur concours, y compris les infirmières et les psychologues scolaires – si certains postes sont effectivement vacants, nous en créons d'autres –, afin de faire reculer le fléau du harcèlement.<br><br><strong>Mme la présidente. </strong>La parole est à Mme Karine Lebon.<br><br><strong>Mme Karine Lebon. </strong>Monsieur le ministre, je n'ai absolument pas dit que le programme Phare était de nature répressive, mais que la loi prévoyait trop de répression et pas assez d'éducation. Je n'ai pas confondu les deux. <i>(Applaudissements sur les bancs du groupe GDR-NUPES, ainsi que sur plusieurs bancs des groupes LFI-NUPES et Écolo-NUPES.)</i><br> <p>",
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 96,
+            "sentiment": "3 stars",
+            "score": 0.34236931800842285
+          },
+          {
+            "begin_char": 97,
+            "end_char": 172,
+            "sentiment": "3 stars",
+            "score": 0.2537034749984741
+          },
+          {
+            "begin_char": 173,
+            "end_char": 182,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 182,
+            "end_char": 308,
+            "sentiment": "5 stars",
+            "score": 0.399078369140625
+          },
+          {
+            "begin_char": 309,
+            "end_char": 366,
+            "sentiment": "3 stars",
+            "score": 0.34292203187942505
+          },
+          {
+            "begin_char": 367,
+            "end_char": 402,
+            "sentiment": "5 stars",
+            "score": 0.5921385884284973
+          },
+          {
+            "begin_char": 402,
+            "end_char": 436,
+            "sentiment": "4 stars",
+            "score": 0.36746665835380554
+          },
+          {
+            "begin_char": 437,
+            "end_char": 450,
+            "sentiment": "3 stars",
+            "score": 0.26192939281463623
+          },
+          {
+            "begin_char": 451,
+            "end_char": 511,
+            "sentiment": "5 stars",
+            "score": 0.33361390233039856
+          },
+          {
+            "begin_char": 511,
+            "end_char": 588,
+            "sentiment": "4 stars",
+            "score": 0.27092668414115906
+          },
+          {
+            "begin_char": 589,
+            "end_char": 820,
+            "sentiment": "4 stars",
+            "score": 0.2519049048423767
+          },
+          {
+            "begin_char": 821,
+            "end_char": 954,
+            "sentiment": "2 stars",
+            "score": 0.25121840834617615
+          },
+          {
+            "begin_char": 955,
+            "end_char": 1030,
+            "sentiment": "2 stars",
+            "score": 0.3329330086708069
+          },
+          {
+            "begin_char": 1031,
+            "end_char": 1211,
+            "sentiment": "4 stars",
+            "score": 0.2803853452205658
+          },
+          {
+            "begin_char": 1212,
+            "end_char": 1337,
+            "sentiment": "4 stars",
+            "score": 0.4532811641693115
+          },
+          {
+            "begin_char": 1337,
+            "end_char": 1486,
+            "sentiment": "2 stars",
+            "score": 0.3243549168109894
+          },
+          {
+            "begin_char": 1487,
+            "end_char": 1688,
+            "sentiment": "3 stars",
+            "score": 0.35555794835090637
+          },
+          {
+            "begin_char": 1689,
+            "end_char": 1768,
+            "sentiment": "2 stars",
+            "score": 0.38249966502189636
+          },
+          {
+            "begin_char": 1769,
+            "end_char": 1819,
+            "sentiment": "4 stars",
+            "score": 0.4318489134311676
+          },
+          {
+            "begin_char": 1820,
+            "end_char": 1854,
+            "sentiment": "5 stars",
+            "score": 0.24795281887054443
+          },
+          {
+            "begin_char": 1855,
+            "end_char": 2143,
+            "sentiment": "2 stars",
+            "score": 0.4274352788925171
+          },
+          {
+            "begin_char": 2144,
+            "end_char": 2188,
+            "sentiment": "4 stars",
+            "score": 0.2547444999217987
+          },
+          {
+            "begin_char": 2189,
+            "end_char": 2366,
+            "sentiment": "5 stars",
+            "score": 0.316523015499115
+          },
+          {
+            "begin_char": 2367,
+            "end_char": 2471,
+            "sentiment": "5 stars",
+            "score": 0.28825974464416504
+          },
+          {
+            "begin_char": 2472,
+            "end_char": 2644,
+            "sentiment": "4 stars",
+            "score": 0.33167675137519836
+          },
+          {
+            "begin_char": 2645,
+            "end_char": 2770,
+            "sentiment": "3 stars",
+            "score": 0.30180537700653076
+          },
+          {
+            "begin_char": 2771,
+            "end_char": 2823,
+            "sentiment": "4 stars",
+            "score": 0.30159011483192444
+          },
+          {
+            "begin_char": 2824,
+            "end_char": 2938,
+            "sentiment": "4 stars",
+            "score": 0.28182461857795715
+          },
+          {
+            "begin_char": 2939,
+            "end_char": 2953,
+            "sentiment": "1 star",
+            "score": 0.3609083592891693
+          },
+          {
+            "begin_char": 2953,
+            "end_char": 2954,
+            "sentiment": "4 stars",
+            "score": 0.29557907581329346
+          },
+          {
+            "begin_char": 2954,
+            "end_char": 3183,
+            "sentiment": "5 stars",
+            "score": 0.4472528398036957
+          },
+          {
+            "begin_char": 3184,
+            "end_char": 3237,
+            "sentiment": "5 stars",
+            "score": 0.37498319149017334
+          },
+          {
+            "begin_char": 3238,
+            "end_char": 3354,
+            "sentiment": "4 stars",
+            "score": 0.37727442383766174
+          },
+          {
+            "begin_char": 3354,
+            "end_char": 3436,
+            "sentiment": "5 stars",
+            "score": 0.34978005290031433
+          },
+          {
+            "begin_char": 3437,
+            "end_char": 3678,
+            "sentiment": "4 stars",
+            "score": 0.29021841287612915
+          },
+          {
+            "begin_char": 3679,
+            "end_char": 3780,
+            "sentiment": "3 stars",
+            "score": 0.2980830669403076
+          },
+          {
+            "begin_char": 3781,
+            "end_char": 4005,
+            "sentiment": "5 stars",
+            "score": 0.5597479343414307
+          },
+          {
+            "begin_char": 4006,
+            "end_char": 4072,
+            "sentiment": "3 stars",
+            "score": 0.2291872650384903
+          },
+          {
+            "begin_char": 4073,
+            "end_char": 4158,
+            "sentiment": "4 stars",
+            "score": 0.44930097460746765
+          },
+          {
+            "begin_char": 4159,
+            "end_char": 4408,
+            "sentiment": "5 stars",
+            "score": 0.5040953159332275
+          },
+          {
+            "begin_char": 4409,
+            "end_char": 4484,
+            "sentiment": "3 stars",
+            "score": 0.2537034749984741
+          },
+          {
+            "begin_char": 4485,
+            "end_char": 4494,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 4494,
+            "end_char": 4664,
+            "sentiment": "2 stars",
+            "score": 0.28724205493927
+          },
+          {
+            "begin_char": 4665,
+            "end_char": 4695,
+            "sentiment": "3 stars",
+            "score": 0.26519644260406494
+          },
+          {
+            "begin_char": 4696,
+            "end_char": 4832,
+            "sentiment": "4 stars",
+            "score": 0.3232100307941437
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-09",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-09",
+        "pageJO": "5243",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}

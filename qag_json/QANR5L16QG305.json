@@ -1,0 +1,441 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG305",
+    "identifiant": {
+      "numero": "305",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "chômage",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "Réforme de l'assurance chômage"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794786",
+        "mandatRef": "PM797118"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Travail, plein emploi et insertion",
+      "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Travail, plein emploi et insertion",
+          "developpe": "Ministère du travail, du plein emploi et de l’insertion"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-11-23",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> RÉFORME DE L'ASSURANCE CHÔMAGE <a name=PG3></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Emmanuel Fernandes.<br><br><strong>M. Emmanuel Fernandes. </strong>Ma question s'adresse au ministre du travail. Le 21 novembre 1945, votre illustre prédécesseur, Ambroise Croizat, prit cette même fonction, pour ensuite devenir le père de la sécurité sociale. Cruelle ironie : à partir de cet autre 21 novembre, votre nom, monsieur Dussopt, sera à jamais associé à l'une des réformes les plus antisociales de l'histoire. <i>(Applaudissements sur les bancs du groupe LFI-NUPES. – M. Hubert Wulfranc applaudit également.)</i><br><br>Oui, votre réforme de l'assurance chômage est l'acte II de la guerre que mène Emmanuel Macron aux chômeurs depuis 2017 : après avoir réduit les droits de 1,15 million de personnes, vous avez annoncé hier la baisse de 25 % de la durée d'indemnisation. En cumulant les économies de ces deux réformes, le président des riches aura repris d'une main 6,6 milliards d'euros par an aux chômeurs, pour donner de l'autre main 1,7 million par an aux 100 Français les plus riches, en supprimant l'ISF (impôt de solidarité sur la fortune), et en instaurant la <i>flat tax</i>. (Mêmes mouvements.) Vous faites les poches au peuple, mais vous gavez vos amis ! Pire : votre injuste mécanisme de modulation entraînera la double peine dans les zones du pays où le chômage continue d'augmenter, dès lors que la moyenne nationale sera tirée vers le bas grâce aux régions où l'on embauche.<br><br>Pour vous, les chômeurs sont des feignants qui profitent de leur douce oisiveté, dans leur canapé. Assez de cet insupportable mépris ! <i>(Mêmes mouvements.)</i> La quasi-totalité des demandeurs d'emploi subissent leur situation ! Votre volonté de leur tordre le bras pour leur faire accepter n'importe quel emploi précaire est vouée à l'échec. Que ne comprenez-vous pas dans la phrase : « Il n'y a qu'un emploi vacant pour seize demandeurs » ? (Mêmes mouvements.) Savez-vous que plus de 40 % des chômeurs sont déjà dans la pauvreté ?<br><br>Enfin, si malgré ces données factuelles, vous pensez toujours que le chômage est trop rentable comparé au fait de retourner bosser, pourquoi ne pas voter ce jeudi pour l'augmentation du Smic à 1 600 euros ? <i>(Applaudissements sur les bancs du groupe LFI-NUPES, dont certains membres se lèvent, et sur quelques bancs du groupe GDR-NUPES.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre du travail, du plein emploi et de l’insertion.<br><br><strong>M. Olivier Dussopt,</strong><i> ministre du travail, du plein emploi et de l’insertion. </i>J'ai présenté hier aux partenaires sociaux les mécanismes de modulation des règles d'indemnisation de l'assurance chômage, conformément à l'engagement que le Président de la République avait pris pendant la campagne électorale. La majorité le tient, grâce au projet de loi portant mesures d’urgence relatives au fonctionnement du marché du travail en vue du plein emploi. Il a été adopté par le Parlement la semaine dernière ; la loi sera donc appliquée.<br><br>Le nouveau dispositif repose sur un principe simple : quand les circonstances sont bonnes, les règles d'indemnisation doivent être plus incitatives, mais elles doivent être plus protectrices quand la conjoncture est mauvaise.<br><br>Le bilan que vous avez esquissé ne correspond pas au bilan réel du Gouvernement en matière d'emploi. Vous avez qualifié le Président de la République comme vous savez le faire – avec beaucoup d'impolitesse <i>(Exclamations sur les bancs du groupe LFI-NUPES) –</i>, mais vous avez oublié certains faits.<br><br><strong>M. Fabien Di Filippo.</strong> « Antisocial, tu perds ton sang-froid ! »<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Vous avez oublié que c'est cette majorité, donc le Président de la République, qui a permis, en cinq ans, à 1,7 million de personnes de retrouver le chemin de l'emploi <i>(Applaudissements sur les bancs du groupe RE. – M. Cyrille Isaac-Sibille applaudit également)</i> ; que c'est cette majorité qui a élaboré le plan d'investissement dans les compétences (PIC), doté de 15 milliards d'euros d'investissements en faveur des compétences, du savoir et de l'insertion ; qu'elle a déployé le contrat d'engagement jeune, qui compte presque 300 000 bénéficiaires, des jeunes sans emploi ni formation, que nous accompagnons ainsi sur le chemin des formations qualifiantes et de l'emploi. (Mêmes mouvements)<br><br><strong>M. Pierre Cordier.</strong> Ce n'est pas ce que tu disais en 2017 !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>C'est également cette majorité qui a augmenté les crédits consacrés à l'apprentissage, de sorte que notre pays compte désormais plus de 800 000 apprentis, placés sur une voie royale de formation pour l'insertion professionnelle. <i>(Mme Danielle Brulebois et MM. Erwan Balanant et Cyrille Isaac-Sibille applaudissent.)</i><br><br>Enfin, depuis un an, face aux difficultés de recrutement que connaissent les entreprises, cette majorité a un plan de réduction des tensions. Figurez-vous qu'il a permis de raccompagner vers l'emploi 280 000 demandeurs d'emploi de longue durée, dont 156 000 de très longue durée. <i>(Applaudissements sur quelques bancs du groupe RE. – M. Cyrille Isaac-Sibille applaudit également.)</i> Cela participe à nous permettre de consacrer davantage de moyens à l'investissement dans les compétences et dans l'insertion. (Mme Mathilde Panot proteste.)<br><br><strong>Mme Sophia Chikirou.</strong> On en reparlera !<br><br><strong>M. Olivier Dussopt,</strong><i> ministre . </i>Notre majorité est celle du plein emploi. Vous avez osé parler de mépris envers les chômeurs : le seul mépris est le vôtre, qui consiste à souhaiter que la précarité perdure, parce que, je vous l'ai déjà dit, c'est votre fonds de commerce ! <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</i><br><br><strong>Mme la présidente. </strong>La parole est à M. Emmanuel Fernandes.<br><br><strong>M. Emmanuel Fernandes. </strong>Monsieur Dussopt, vous êtes l'anti-Ambroise Croizat : vous détruisez la solidarité ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES. – Protestations sur quelques bancs du groupe RE.)</i><br> <p>",
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 21,
+            "sentiment": "5 stars",
+            "score": 0.3058934211730957
+          },
+          {
+            "begin_char": 21,
+            "end_char": 22,
+            "sentiment": "3 stars",
+            "score": 0.26056504249572754
+          },
+          {
+            "begin_char": 23,
+            "end_char": 105,
+            "sentiment": "3 stars",
+            "score": 0.29004350304603577
+          },
+          {
+            "begin_char": 106,
+            "end_char": 191,
+            "sentiment": "4 stars",
+            "score": 0.2727644145488739
+          },
+          {
+            "begin_char": 192,
+            "end_char": 246,
+            "sentiment": "3 stars",
+            "score": 0.2686011493206024
+          },
+          {
+            "begin_char": 247,
+            "end_char": 393,
+            "sentiment": "4 stars",
+            "score": 0.291053831577301
+          },
+          {
+            "begin_char": 394,
+            "end_char": 554,
+            "sentiment": "5 stars",
+            "score": 0.6810114979743958
+          },
+          {
+            "begin_char": 555,
+            "end_char": 751,
+            "sentiment": "4 stars",
+            "score": 0.3874453902244568
+          },
+          {
+            "begin_char": 752,
+            "end_char": 785,
+            "sentiment": "5 stars",
+            "score": 0.23044608533382416
+          },
+          {
+            "begin_char": 786,
+            "end_char": 915,
+            "sentiment": "1 star",
+            "score": 0.27925238013267517
+          },
+          {
+            "begin_char": 916,
+            "end_char": 1249,
+            "sentiment": "5 stars",
+            "score": 0.2544429898262024
+          },
+          {
+            "begin_char": 1250,
+            "end_char": 1310,
+            "sentiment": "1 star",
+            "score": 0.6520171165466309
+          },
+          {
+            "begin_char": 1311,
+            "end_char": 1640,
+            "sentiment": "1 star",
+            "score": 0.5703137516975403
+          },
+          {
+            "begin_char": 1641,
+            "end_char": 1676,
+            "sentiment": "1 star",
+            "score": 0.8348757028579712
+          },
+          {
+            "begin_char": 1677,
+            "end_char": 1703,
+            "sentiment": "3 stars",
+            "score": 0.29162317514419556
+          },
+          {
+            "begin_char": 1704,
+            "end_char": 1772,
+            "sentiment": "1 star",
+            "score": 0.2509775757789612
+          },
+          {
+            "begin_char": 1773,
+            "end_char": 1886,
+            "sentiment": "1 star",
+            "score": 0.8258004188537598
+          },
+          {
+            "begin_char": 1887,
+            "end_char": 1932,
+            "sentiment": "1 star",
+            "score": 0.36516258120536804
+          },
+          {
+            "begin_char": 1932,
+            "end_char": 1986,
+            "sentiment": "1 star",
+            "score": 0.5884812474250793
+          },
+          {
+            "begin_char": 1987,
+            "end_char": 2005,
+            "sentiment": "3 stars",
+            "score": 0.2723478376865387
+          },
+          {
+            "begin_char": 2005,
+            "end_char": 2006,
+            "sentiment": "4 stars",
+            "score": 0.2979520559310913
+          },
+          {
+            "begin_char": 2007,
+            "end_char": 2076,
+            "sentiment": "1 star",
+            "score": 0.30774885416030884
+          },
+          {
+            "begin_char": 2076,
+            "end_char": 2290,
+            "sentiment": "2 stars",
+            "score": 0.27181074023246765
+          },
+          {
+            "begin_char": 2291,
+            "end_char": 2345,
+            "sentiment": "4 stars",
+            "score": 0.36415764689445496
+          },
+          {
+            "begin_char": 2345,
+            "end_char": 2461,
+            "sentiment": "3 stars",
+            "score": 0.31300702691078186
+          },
+          {
+            "begin_char": 2462,
+            "end_char": 2595,
+            "sentiment": "4 stars",
+            "score": 0.31246376037597656
+          },
+          {
+            "begin_char": 2596,
+            "end_char": 2651,
+            "sentiment": "4 stars",
+            "score": 0.3305377960205078
+          },
+          {
+            "begin_char": 2652,
+            "end_char": 2883,
+            "sentiment": "4 stars",
+            "score": 0.39082396030426025
+          },
+          {
+            "begin_char": 2884,
+            "end_char": 3027,
+            "sentiment": "4 stars",
+            "score": 0.43477874994277954
+          },
+          {
+            "begin_char": 3028,
+            "end_char": 3082,
+            "sentiment": "4 stars",
+            "score": 0.33626535534858704
+          },
+          {
+            "begin_char": 3083,
+            "end_char": 3118,
+            "sentiment": "4 stars",
+            "score": 0.30188998579978943
+          },
+          {
+            "begin_char": 3118,
+            "end_char": 3451,
+            "sentiment": "3 stars",
+            "score": 0.35069942474365234
+          },
+          {
+            "begin_char": 3452,
+            "end_char": 3678,
+            "sentiment": "2 stars",
+            "score": 0.25160253047943115
+          },
+          {
+            "begin_char": 3679,
+            "end_char": 3799,
+            "sentiment": "3 stars",
+            "score": 0.2860974967479706
+          },
+          {
+            "begin_char": 3800,
+            "end_char": 4074,
+            "sentiment": "5 stars",
+            "score": 0.38476499915122986
+          },
+          {
+            "begin_char": 4075,
+            "end_char": 4270,
+            "sentiment": "4 stars",
+            "score": 0.3563062250614166
+          },
+          {
+            "begin_char": 4271,
+            "end_char": 4484,
+            "sentiment": "5 stars",
+            "score": 0.5057107210159302
+          },
+          {
+            "begin_char": 4485,
+            "end_char": 4546,
+            "sentiment": "3 stars",
+            "score": 0.31324315071105957
+          },
+          {
+            "begin_char": 4547,
+            "end_char": 4586,
+            "sentiment": "1 star",
+            "score": 0.4395139813423157
+          },
+          {
+            "begin_char": 4586,
+            "end_char": 4644,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 4645,
+            "end_char": 4877,
+            "sentiment": "5 stars",
+            "score": 0.39917102456092834
+          },
+          {
+            "begin_char": 4878,
+            "end_char": 5120,
+            "sentiment": "4 stars",
+            "score": 0.43418630957603455
+          },
+          {
+            "begin_char": 5121,
+            "end_char": 5258,
+            "sentiment": "5 stars",
+            "score": 0.42735832929611206
+          },
+          {
+            "begin_char": 5259,
+            "end_char": 5365,
+            "sentiment": "4 stars",
+            "score": 0.3186889886856079
+          },
+          {
+            "begin_char": 5366,
+            "end_char": 5491,
+            "sentiment": "5 stars",
+            "score": 0.46136167645454407
+          },
+          {
+            "begin_char": 5492,
+            "end_char": 5538,
+            "sentiment": "3 stars",
+            "score": 0.27239909768104553
+          },
+          {
+            "begin_char": 5538,
+            "end_char": 5567,
+            "sentiment": "3 stars",
+            "score": 0.2822319567203522
+          },
+          {
+            "begin_char": 5568,
+            "end_char": 5585,
+            "sentiment": "5 stars",
+            "score": 0.4096972644329071
+          },
+          {
+            "begin_char": 5585,
+            "end_char": 5643,
+            "sentiment": "3 stars",
+            "score": 0.31734779477119446
+          },
+          {
+            "begin_char": 5644,
+            "end_char": 5648,
+            "sentiment": "3 stars",
+            "score": 0.31072211265563965
+          },
+          {
+            "begin_char": 5648,
+            "end_char": 5689,
+            "sentiment": "5 stars",
+            "score": 0.28531360626220703
+          },
+          {
+            "begin_char": 5690,
+            "end_char": 5888,
+            "sentiment": "1 star",
+            "score": 0.6910200119018555
+          },
+          {
+            "begin_char": 5889,
+            "end_char": 5990,
+            "sentiment": "4 stars",
+            "score": 0.31433340907096863
+          },
+          {
+            "begin_char": 5991,
+            "end_char": 6076,
+            "sentiment": "4 stars",
+            "score": 0.2727644145488739
+          },
+          {
+            "begin_char": 6077,
+            "end_char": 6170,
+            "sentiment": "1 star",
+            "score": 0.5195034146308899
+          },
+          {
+            "begin_char": 6171,
+            "end_char": 6229,
+            "sentiment": "4 stars",
+            "score": 0.323662668466568
+          },
+          {
+            "begin_char": 6229,
+            "end_char": 6242,
+            "sentiment": "5 stars",
+            "score": 0.41084393858909607
+          },
+          {
+            "begin_char": 6243,
+            "end_char": 6284,
+            "sentiment": "3 stars",
+            "score": 0.38005292415618896
+          },
+          {
+            "begin_char": 6285,
+            "end_char": 6288,
+            "sentiment": "4 stars",
+            "score": 0.27594465017318726
+          }
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-11-23",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-11-23",
+        "pageJO": "5893",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}
