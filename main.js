@@ -3,6 +3,11 @@ document.getElementById('toggleHighlight').addEventListener('click', toggleHighl
   const qagSelector = document.getElementById('qagSelector');
   const qagContent = document.getElementById('qagContent');  
   
+  /**
+ * Extracts the publication date of a QAG from the JSON object.
+ * @param {Object} json - The JSON object containing the QAG data.
+ * @returns {string} - The publication date as a string or "Unknown" if not found.
+ */
     function extractDate(json) {
       let dateJO = 'Unknown';
 
@@ -18,7 +23,11 @@ document.getElementById('toggleHighlight').addEventListener('click', toggleHighl
 
           return dateJO;
     }
-
+/**
+ * Converts speaker names in the text to Wikipedia links.
+ * @param {string} text - The QAG text with speaker names in <strong> tags.
+ * @returns {string} - The updated text with speaker names linked to their Wikipedia pages.
+ */
 function convertSpeakerNameToWikipediaLink(text) {
   const regex = /<strong>([^<]+)<\/strong>/g;
   const wikipediaBaseURL = "https://fr.wikipedia.org/wiki/";
@@ -43,6 +52,9 @@ function convertSpeakerNameToWikipediaLink(text) {
 
 let displayMode = 'wikipedia'; // Initialize the display mode
 
+/**
+ * Toggles the display mode between "highlight" and "wikipedia" and updates the QAG content.
+ */
 function toggleHighlight() {
     if (displayMode === 'highlight') {
       displayMode = 'wikipedia';
@@ -60,7 +72,12 @@ function toggleHighlight() {
   }
 
 
-
+/**
+ * Highlights the sentences in the QAG text based on the sentiment data.
+ * @param {Object} json - The JSON object containing the QAG data and sentiment data.
+ * @param {string} text - The QAG text to be highlighted.
+ * @returns {string} - The updated text with highlighted sentences.
+ */
 function highlightSentences(json, text) {
   const sentimentData = json.question.textesReponse.texteReponse.sentiment_data;
 
@@ -120,7 +137,11 @@ function highlightSentences(json, text) {
 }
 
 
-
+/**
+ * Converts a JSON object containing QAG data to HTML and appends it to the page.
+ * @param {Object} json - The JSON object containing the QAG data.
+ * @param {string} mode - The display mode, either "highlight" or "wikipedia".
+ */
 function jsonToHTML(json, mode) {
   const dateJO = extractDate(json);
 
@@ -148,7 +169,12 @@ function jsonToHTML(json, mode) {
 
 
 
-
+/**
+ * Compares two dates and returns a value to be used for sorting.
+ * @param {string} a - The first date as a string.
+ * @param {string} b - The second date as a string.
+ * @returns {number} - A value to be used for sorting (-1, 0, or 1).
+ */
 function compareDates(a, b) {
   if (a === 'Unknown') {
     return 1;
@@ -159,6 +185,11 @@ function compareDates(a, b) {
   return a.localeCompare(b);
 }
 
+/**
+ * Formats a date string to the format "YYYY-MM-DD".
+ * @param {string} date - The date string to be formatted.
+ * @returns {string} - The formatted date string.
+ */
 function formatDate(date) {
   const dateObj = new Date(date);
   const year = dateObj.getFullYear();
@@ -167,6 +198,10 @@ function formatDate(date) {
   return `${year}-${month}-${day}`;
 }
 
+/**
+ * Fetches the QAG list by fetching filenames and loading their JSON files.
+ * @returns {Promise<Array>} - A promise that resolves to an array of QAG objects.
+ */
 async function fetchQAGList() {
   const filenames = await fetchQAGFilenames();
   const qagListPromises = filenames.map(async (filename) => {
@@ -188,13 +223,21 @@ async function fetchQAGList() {
 }
 
 
-
+/**
+ * Loads a QAG JSON file.
+ * @param {string} file - The file path of the QAG JSON file.
+ * @returns {Promise<Object>} - A promise that resolves to the QAG JSON object.
+ */
   async function loadQAG(file) {
     const response = await fetch(file);
     const json = await response.json();
     return json;
   }
-
+  
+/**
+ * Populates the QAG selector with options based on the QAG list.
+ * @param {Array} qagList - The array of QAG objects.
+ */
     function populateQAGSelector(qagList) {
       qagList.forEach(qag => {
         const option = document.createElement('option');
@@ -207,10 +250,17 @@ async function fetchQAGList() {
       });
     }
 
+/**
+ * Clears the current QAG content from the page.
+ */
   function clearQAGContent() {
     qagContent.innerHTML = '';
   }
-
+  
+/**
+ * Fetches the QAG filenames from the server.
+ * @returns {Promise<Array>} - A promise that resolves to an array of QAG filenames.
+ */
   async function fetchQAGFilenames() {
     const response = await fetch('qag_filenames.txt');
     const text = await response.text();
