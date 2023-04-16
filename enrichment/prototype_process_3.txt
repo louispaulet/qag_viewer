@@ -1,0 +1,100 @@
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG370",
+    "identifiant": {
+      "numero": "370",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "sécurité des biens et des personnes",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "éventuelles coupures d'électricité"
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA794838",
+        "mandatRef": "PM797148"
+      },
+      "groupe": {
+        "organeRef": "PO800514",
+        "abrege": "HOR",
+        "developpe": "Horizons et apparentés"
+      }
+    },
+    "minInt": {
+      "abrege": "Intérieur et outre-mer",
+      "developpe": "Ministère de l’intérieur et des outre-mer"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Intérieur et outre-mer",
+          "developpe": "Ministère de l’intérieur et des outre-mer"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-12-07",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> ÉVENTUELLES COUPURES D'ÉLECTRICITÉ <a name=PG12></a> </p><br><strong>Mme la présidente. </strong>La parole est à M. Didier Lemaire.<br><br><strong>M. Didier Lemaire. </strong>Comme beaucoup de nos concitoyens, je m'inquiète des coupures d'électricité à venir, qui pourraient durer de deux minutes à deux heures. On ne peut malheureusement pas se contenter d'espérer qu'il ne se passe pas de drame durant ces coupures, quelle que soit leur durée.<br><br>En matière de gestion de crise, la chance n'a pas sa place et la prévention reste le meilleur atout. Aussi, ai-je lu avec attention la note des préfets de zone sur la mise en place de dispositifs adaptés, dans les cas où les numéros d'urgence – 15, 17, 18 ou 112 – ne pourraient pas fonctionner. <br><br>Je me réjouis de voir que les maires sont à nouveau au cœur du dispositif car je fais partie de ceux qui pensent que l'on peut trouver des solutions locales aux enjeux nationaux. Monsieur le ministre de l'intérieur et des outre-mer, j'ai d'ailleurs eu l'occasion d'échanger avec votre conseiller à la sécurité civile sur ces sujets. Si les maires doivent ouvrir des cellules de crise, il faut qu'ils aient une connaissance fine des différents dispositifs et modes opératoires relatifs à la sécurité civile. Or nombre de plans et dispositifs sont méconnus ou devenus inappropriés au fil du temps.<br><br>Vous le savez mieux que quiconque, la gestion de crise ne s'improvise pas. Comment comptez-vous communiquer auprès de nos concitoyennes et concitoyens sur cet événement ? Comment comptez-vous accompagner les maires pour faire face à ces nouveaux défis auxquels nous serons confrontés de plus en plus souvent ?<br><br><strong>Mme la présidente. </strong>La parole est à M. le ministre de l’intérieur et des outre-mer.<br><br><strong>M. Gérald Darmanin,</strong><i> ministre de l’intérieur et des outre-mer. </i>Sous l'autorité de la Première ministre, les préfets de la République, les policiers, les gendarmes et les pompiers, en lien avec les départements, se préparent à ce scénario dans lequel le délestage aurait des répercussions sur la vie des Français.<br><br>Comme vous l'avez indiqué, les préfets ont rendu leur copie à madame la Première ministre et à la cellule interministérielle de crise qu'elle a créée au ministère de l'intérieur, pour suivre dans chacun des départements tous les services qui assurent la sécurité des Français : les commissariats, les brigades de gendarmerie, les centres d'appel 17 et 18, c'est-à-dire les numéros d'urgence de police secours et des pompiers, qui sont en lien avec les départements et les maires.<br><br>Dans ces situations d'urgence, les Français doivent composer le 112, un numéro d'urgence interopérable qu'ils connaissent déjà. Nous répartissons ensuite les appels entre divers services, notamment ceux du ministère de la santé en cas de difficultés particulières.<br><br>Il existe déjà des circonstances qui empêchent certains de nos concitoyens d'avoir accès à ces numéros : dans les zones blanches ou en cas de défaillance du réseau d'un opérateur téléphonique, comme cela s'est produit récemment.<br><br>À la demande de la Première ministre, nous avons équipé en groupes électrogènes tous les sites du ministère de l'intérieur, notamment ceux des forces de l'ordre. Nous allons aussi renforcer de manière considérable les brigades de gendarmerie et les commissariats de police, afin de pouvoir réagir en cas de zones blanches intempestives et répondre aux demandes de nos concitoyens, soit par le biais de leurs élus – notamment les maires –, soit en ouvrant tous les lieux de service public. <i>(M. Didier Paris applaudit.)</i><br> <p>",
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 110,
+            "sentiment": "3 stars",
+            "score": 0.31667360663414
+          },
+          {
+            "begin_char": 111,
+            "end_char": 188,
+            "sentiment": "3 stars",
+            "score": 0.26409298181533813
+          }
+          // removed many sentiment_data items for brevity
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-12-07",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-12-07",
+        "pageJO": "6565",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}
