@@ -1,10 +1,7 @@
 document.addEventListener('DOMContentLoaded', async () => {
-  document.getElementById('toggleHighlight').addEventListener('click', toggleHighlight);
+document.getElementById('toggleHighlight').addEventListener('click', toggleHighlight);
   const qagSelector = document.getElementById('qagSelector');
-  const qagContent = document.getElementById('qagContent');
-  
-    let displayMode = 'wikipedia'; // Initialize the display mode
-
+  const qagContent = document.getElementById('qagContent');  
   
     function extractDate(json) {
       let dateJO = 'Unknown';
@@ -43,6 +40,8 @@ function convertSpeakerNameToWikipediaLink(text) {
     return `<strong><a href="${wikipediaURL}">${speakerName}</a></strong>`;
   });
 }
+
+let displayMode = 'wikipedia'; // Initialize the display mode
 
 function toggleHighlight() {
     if (displayMode === 'highlight') {
@@ -103,7 +102,7 @@ function highlightSentences(json, text) {
    
         // Add the highlighted text
     if (color) {
-      const textColor = (sentiment === "1 star" || sentiment === "2 stars") ? "white" : "black";
+      const textColor = (sentiment === "1 star") ? "white" : "black";
       highlightedText += `<span style="background-color: ${color} ${opacity / 100}); color: ${textColor};">${text.slice(beginChar, endChar)}</span>`;
     } else {
       highlightedText += text.slice(beginChar, endChar);
@@ -222,13 +221,7 @@ async function fetchQAGList() {
   const qagList = await fetchQAGList();
   populateQAGSelector(qagList);
 
-  qagSelector.addEventListener('change', async (event) => {
-    clearQAGContent();
-    const selectedQAG = event.target.value;
-    const json = await loadQAG(selectedQAG);
-    jsonToHTML(json);
-  });
-  
-    qagSelector.addEventListener('change', updateQAGContent);
+ 
+  qagSelector.addEventListener('change', updateQAGContent);
 
 });
