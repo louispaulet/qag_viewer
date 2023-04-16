@@ -1,21 +1,22 @@
 document.addEventListener('DOMContentLoaded', async () => {
+document.getElementById('toggleHighlight').addEventListener('click', toggleHighlight);
   const qagSelector = document.getElementById('qagSelector');
-  const qagContent = document.getElementById('qagContent');
+  const qagContent = document.getElementById('qagContent');  
   
-  function extractDate(json) {
-  let dateJO = 'Unknown';
+    function extractDate(json) {
+      let dateJO = 'Unknown';
 
-  if (json.question.indexationAN.minAttribs &&
-      json.question.indexationAN.minAttribs.minAttrib &&
-      json.question.indexationAN.minAttribs.minAttrib.infoJO &&
-      json.question.indexationAN.minAttribs.minAttrib.infoJO.dateJO) {
-        dateJO = json.question.indexationAN.minAttribs.minAttrib.infoJO.dateJO;
-      } else if (json.question.textesReponse.texteReponse.infoJO &&
-                 json.question.textesReponse.texteReponse.infoJO.dateJO) {
-        dateJO = json.question.textesReponse.texteReponse.infoJO.dateJO;
-      }
+      if (json.question.indexationAN.minAttribs &&
+          json.question.indexationAN.minAttribs.minAttrib &&
+          json.question.indexationAN.minAttribs.minAttrib.infoJO &&
+          json.question.indexationAN.minAttribs.minAttrib.infoJO.dateJO) {
+            dateJO = json.question.indexationAN.minAttribs.minAttrib.infoJO.dateJO;
+          } else if (json.question.textesReponse.texteReponse.infoJO &&
+                     json.question.textesReponse.texteReponse.infoJO.dateJO) {
+            dateJO = json.question.textesReponse.texteReponse.infoJO.dateJO;
+          }
 
-      return dateJO;
+          return dateJO;
     }
 
 function convertSpeakerNameToWikipediaLink(text) {
@@ -40,9 +41,87 @@ function convertSpeakerNameToWikipediaLink(text) {
   });
 }
 
+let displayMode = 'wikipedia'; // Initialize the display mode
+
+function toggleHighlight() {
+    if (displayMode === 'highlight') {
+      displayMode = 'wikipedia';
+    } else {
+      displayMode = 'highlight';
+    }
+    updateQAGContent();
+  }
+
+  async function updateQAGContent() {
+    clearQAGContent();
+    const selectedQAG = qagSelector.value;
+    const json = await loadQAG(selectedQAG);
+    jsonToHTML(json, displayMode);
+  }
 
 
-function jsonToHTML(json) {
+
+function highlightSentences(json, text) {
+  const sentimentData = json.question.textesReponse.texteReponse.sentiment_data;
+
+  let highlightedText = "";
+  let currentIndex = 0;
+
+  sentimentData.forEach((data) => {
+    const beginChar = data.begin_char;
+    const endChar = data.end_char;
+    const sentiment = data.sentiment;
+    const score = data.score;
+
+    const opacity = (score * 100).toFixed(2);
+
+    // Add the text before the highlight
+    highlightedText += text.slice(currentIndex, beginChar);
+
+    // Determine the color based on sentiment
+    let color;
+    switch (sentiment) {
+      case "1 star":
+        color = "rgba(255, 0, 0, ";
+        break;
+      case "2 stars":
+        color = "rgba(255, 165, 0, ";
+        break;
+      case "3 stars":
+        color = "rgba(255, 255, 0, ";
+        break;
+      case "4 stars":
+        color = "rgba(173, 255, 47, ";
+        break;
+      case "5 stars":
+        color = "rgba(0, 255, 0, ";
+        break;
+      default:
+        color = "";
+    }
+   
+        // Add the highlighted text
+    if (color) {
+      const textColor = (sentiment === "1 star") ? "white" : "black";
+      highlightedText += `<span style="background-color: ${color} ${opacity / 100}); color: ${textColor};">${text.slice(beginChar, endChar)}</span>`;
+    } else {
+      highlightedText += text.slice(beginChar, endChar);
+    }
+
+
+    // Update the current index
+    currentIndex = endChar;
+  });
+
+  // Add the remaining text after the last highlight
+  highlightedText += text.slice(currentIndex);
+
+  return highlightedText;
+}
+
+
+
+function jsonToHTML(json, mode) {
   const dateJO = extractDate(json);
 
   const qagDate = document.createElement('h3');
@@ -54,11 +133,20 @@ function jsonToHTML(json) {
   qagContent.appendChild(qagTitle);
 
   const qagText = document.createElement('div');
-  const rawText = json.question.textesReponse.texteReponse.texte;
-  const convertedText = convertSpeakerNameToWikipediaLink(rawText);
-  qagText.innerHTML = convertedText;
-  qagContent.appendChild(qagText);
+    const rawText = json.question.textesReponse.texteReponse.texte;
+    let processedText;
+
+    if (mode === 'highlight') {
+      processedText = highlightSentences(json, rawText);
+    } else {
+      processedText = convertSpeakerNameToWikipediaLink(rawText);
+    }
+
+    qagText.innerHTML = processedText;
+    qagContent.appendChild(qagText);
 }
+
+
 
 
 function compareDates(a, b) {
@@ -133,10 +221,7 @@ async function fetchQAGList() {
   const qagList = await fetchQAGList();
   populateQAGSelector(qagList);
 
-  qagSelector.addEventListener('change', async (event) => {
-    clearQAGContent();
-    const selectedQAG = event.target.value;
-    const json = await loadQAG(selectedQAG);
-    jsonToHTML(json);
-  });
+ 
+  qagSelector.addEventListener('change', updateQAGContent);
+
 });
