@@ -3,20 +3,23 @@ document.addEventListener('DOMContentLoaded', async () => {
   const qagSelector = document.getElementById('qagSelector');
   const qagContent = document.getElementById('qagContent');
   
-  function extractDate(json) {
-  let dateJO = 'Unknown';
+    let displayMode = 'wikipedia'; // Initialize the display mode
 
-  if (json.question.indexationAN.minAttribs &&
-      json.question.indexationAN.minAttribs.minAttrib &&
-      json.question.indexationAN.minAttribs.minAttrib.infoJO &&
-      json.question.indexationAN.minAttribs.minAttrib.infoJO.dateJO) {
-        dateJO = json.question.indexationAN.minAttribs.minAttrib.infoJO.dateJO;
-      } else if (json.question.textesReponse.texteReponse.infoJO &&
-                 json.question.textesReponse.texteReponse.infoJO.dateJO) {
-        dateJO = json.question.textesReponse.texteReponse.infoJO.dateJO;
-      }
+  
+    function extractDate(json) {
+      let dateJO = 'Unknown';
 
-      return dateJO;
+      if (json.question.indexationAN.minAttribs &&
+          json.question.indexationAN.minAttribs.minAttrib &&
+          json.question.indexationAN.minAttribs.minAttrib.infoJO &&
+          json.question.indexationAN.minAttribs.minAttrib.infoJO.dateJO) {
+            dateJO = json.question.indexationAN.minAttribs.minAttrib.infoJO.dateJO;
+          } else if (json.question.textesReponse.texteReponse.infoJO &&
+                     json.question.textesReponse.texteReponse.infoJO.dateJO) {
+            dateJO = json.question.textesReponse.texteReponse.infoJO.dateJO;
+          }
+
+          return dateJO;
     }
 
 function convertSpeakerNameToWikipediaLink(text) {
@@ -42,21 +45,20 @@ function convertSpeakerNameToWikipediaLink(text) {
 }
 
 function toggleHighlight() {
-  const spans = document.querySelectorAll('#qagContent span');
-  spans.forEach((span) => {
-    if (span.style.backgroundColor) {
-      span.style.color = '';
-      span.style.backgroundColor = '';
+    if (displayMode === 'highlight') {
+      displayMode = 'wikipedia';
     } else {
-      const opacity = parseFloat(span.getAttribute('data-opacity'));
-      const color = span.getAttribute('data-color');
-      const sentiment = span.getAttribute('data-sentiment');
-      const textColor = (sentiment === "1 star" || sentiment === "2 stars") ? "white" : "black";
-      span.style.color = textColor;
-      span.style.backgroundColor = `${color}${opacity})`;
+      displayMode = 'highlight';
     }
-  });
-}
+    updateQAGContent();
+  }
+
+  async function updateQAGContent() {
+    clearQAGContent();
+    const selectedQAG = qagSelector.value;
+    const json = await loadQAG(selectedQAG);
+    jsonToHTML(json, displayMode);
+  }
 
 
 
@@ -102,7 +104,7 @@ function highlightSentences(json, text) {
         // Add the highlighted text
     if (color) {
       const textColor = (sentiment === "1 star" || sentiment === "2 stars") ? "white" : "black";
-      highlightedText += `<span data-sentiment="${sentiment}" data-color="${color}" data-opacity="${opacity / 100}" style="background-color: ${color}${opacity / 100}; color: ${textColor};">${text.slice(beginChar, endChar)}</span>`;
+      highlightedText += `<span style="background-color: ${color} ${opacity / 100}); color: ${textColor};">${text.slice(beginChar, endChar)}</span>`;
     } else {
       highlightedText += text.slice(beginChar, endChar);
     }
@@ -120,7 +122,7 @@ function highlightSentences(json, text) {
 
 
 
-function jsonToHTML(json) {
+function jsonToHTML(json, mode) {
   const dateJO = extractDate(json);
 
   const qagDate = document.createElement('h3');
@@ -132,12 +134,17 @@ function jsonToHTML(json) {
   qagContent.appendChild(qagTitle);
 
   const qagText = document.createElement('div');
-  const rawText = json.question.textesReponse.texteReponse.texte;
-  const highlightedText = highlightSentences(json, rawText);
-  const convertedText = convertSpeakerNameToWikipediaLink(highlightedText);
+    const rawText = json.question.textesReponse.texteReponse.texte;
+    let processedText;
 
-  qagText.innerHTML = convertedText;
-  qagContent.appendChild(qagText);
+    if (mode === 'highlight') {
+      processedText = highlightSentences(json, rawText);
+    } else {
+      processedText = convertSpeakerNameToWikipediaLink(rawText);
+    }
+
+    qagText.innerHTML = processedText;
+    qagContent.appendChild(qagText);
 }
 
 
@@ -221,4 +228,7 @@ async function fetchQAGList() {
     const json = await loadQAG(selectedQAG);
     jsonToHTML(json);
   });
+  
+    qagSelector.addEventListener('change', updateQAGContent);
+
 });

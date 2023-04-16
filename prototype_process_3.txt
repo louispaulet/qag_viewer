@@ -1,0 +1,142 @@
+// 20230416033554
+// file:///C:/Users/Louis%20Paulet/projets/qag_viewer/qag_json/QANR5L16QG3.json
+
+{
+  "question": {
+    "@xmlns": "http://schemas.assemblee-nationale.fr/referentiel",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:type": "QuestionGouvernement_Type",
+    "uid": "QANR5L16QG3",
+    "identifiant": {
+      "numero": "3",
+      "regime": "5eme Republique",
+      "legislature": "16"
+    },
+    "type": "QG",
+    "indexationAN": {
+      "rubrique": "entreprises",
+      "teteAnalyse": null,
+      "analyses": {
+        "analyse": "\"Uber files\""
+      }
+    },
+    "auteur": {
+      "identite": {
+        "acteurRef": "PA796018",
+        "mandatRef": "PM797805"
+      },
+      "groupe": {
+        "organeRef": "PO800490",
+        "abrege": "LFI-NUPES",
+        "developpe": "La France insoumise - Nouvelle Union Populaire écologique et sociale"
+      }
+    },
+    "minInt": {
+      "abrege": "Petites et moyennes entreprises, commerce, artisanat et tourisme",
+      "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme"
+    },
+    "minAttribs": {
+      "minAttrib": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "denomination": {
+          "abrege": "Petites et moyennes entreprises, commerce, artisanat et tourisme",
+          "developpe": "Ministère auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargé des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme"
+        }
+      }
+    },
+    "textesQuestion": null,
+    "textesReponse": {
+      "texteReponse": {
+        "infoJO": {
+          "typeJO": "JO_DEBAT",
+          "dateJO": "2022-07-13",
+          "pageJO": null,
+          "numJO": null,
+          "urlLegifrance": null,
+          "referenceNOR": null
+        },
+        "texte": "</p><p align=\"CENTER\"> « UBER FILES » <a name=PG3></a> </p><br><strong>Mme la présidente. </strong>La parole est à Mme Danielle Simonnet.<br><br><strong>Mme Danielle Simonnet. </strong>Ah la République exemplaire tant vantée par Emmanuel Macron ! Après les affaires McKinsey, Alstom, celle des sociétés d'autoroutes et j'en passe, voilà le scandale d'État « Macron Ubergate » ! Pour s’implanter en France face à la lutte des taxis dont mon collègue Sébastien Delogu se souvient bien, Uber, le géant américain de l'évasion fiscale et de la casse de notre modèle social, a pu s'appuyer largement sur son VRP en chef : Emmanuel Macron. <i>(Applaudissements sur les bancs du groupe LFI-NUPES. – Mme Elsa Faucillon applaudit également.)</i><br><br>Nombre de réunions, rendez-vous, coups de fil et SMS gardés secrets entre les dirigeants d'Uber et Emmanuel Macron ont donc permis des deals secrets à Bercy pour torpiller la loi, alléger les réglementations et commander des amendements clés en main. Un arrêté préfectoral défavorable à Uber ? Des perquisitions et des enquêtes de la direction générale de la concurrence, de la consommation et de la répression des fraudes ? Un SMS, et ça repart !<br><br>Un ministre de la République aurait donc servi les intérêts d'une plateforme américaine contre l'avis même de son gouvernement et de notre administration ! <i>(Applaudissements sur les bancs du groupe LFI-NUPES. – Mme Elsa Faucillon applaudit également.)</i><br><br>Et, surprise, nous découvrons que le lobbyiste en chef d'Uber a participé en 2016 à la levée de fonds du candidat à l'élection présidentielle Emmanuel Macron !<br><br>Madame la Première ministre, avec Emmanuel Macron, vous continuez de travailler pour Uber et les plateformes au niveau européen en contrant la directive sur la présomption de salariat, arrachée de haute lutte par la députée européenne insoumise Leïla Chaibi !<i> (Applaudissements sur les bancs du groupe LFI-NUPES et sur quelques bancs du groupe GDR-NUPES.)</i><br><br>Sur le fond, votre projet, c'est la société du travailleur sans droit d'Uber, un suicide social par le low-cost. À l'arrivée, c'est la casse du code du travail et le retour aux tâcherons du XIXe siècle,…<br><br><strong>Plusieurs députés du groupe RE .</strong> C'est faux !<br><br><strong>Mme Danielle Simonnet. </strong>…la casse de la sécurité sociale et l'appauvrissement de l'État, car ces plateformes sont championnes de l'évasion fiscale.<br><br><strong>M. Sylvain Maillard.</strong> Vous n'aimez pas le travail !<br><br><strong>Mme Danielle Simonnet. </strong>Vous n'y voyez « ni affaire, ni scandale, ni deal ». Pourtant, servir la République, ce n'est pas l'asservir pour satisfaire les lobbies ! Qu'avez-vous à répondre ? Nous exigeons une commission d'enquête parlementaire.<br><br><strong>Mme la présidente.</strong> Merci, madame Simonnet !<br><br><strong>Mme Danielle Simonnet. </strong>Il est grand temps d'imposer la séparation des lobbies et de l'État ! <i>(Applaudissements sur les bancs des groupes LFI-NUPES, SOC, Écolo-NUPES et GDR-NUPES.)</i><br><br><strong>Mme la présidente.</strong> Madame Simonnet, je vous prie de bien vouloir noter qu'avant toute prise de parole il est d'usage, dans cet hémicycle, de saluer la présidence. <i>(Applaudissements sur les bancs des groupes RE, Dem, HOR et LR et parmi les députés non inscrits. – Vives exclamations et protestations sur les bancs du groupe LFI-NUPES.) </i><br><br><strong>Mme Clémentine Autain.</strong> Ça ne va pas, non ?<br><br><strong>M. Sébastien Delogu.</strong> Mais non !<br><br><strong>Mme Clémentine Autain.</strong> Pour qui vous prenez-vous ?<br><br><strong>Mme la présidente. </strong>La parole est à Mme la ministre déléguée auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargée des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme.<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée auprès du ministre de l’économie, des finances et de la souveraineté industrielle et numérique, chargée des petites et moyennes entreprises, du commerce, de l’artisanat et du tourisme. </i>Je vous remercie, madame la présidente. Mesdames et messieurs les députés, je vous prie tout d'abord de bien vouloir excuser l'absence de Bruno Le Maire, ministre de l'économie, des finances et de la souveraineté industrielle et numérique, actuellement en déplacement avec le Président de la République. (Exclamations et protestations persistantes sur les bancs du groupe LFI-NUPES.)<br><br><strong>M. Patrick Hetzel.</strong> Il n'est jamais là, Bruno Le Maire !<br><br><strong>Mme la présidente.</strong> Permettez-moi de vous interrompre un instant, madame la ministre déléguée.<br><br><strong>Mme la présidente.</strong> Chers collègues, si vous posez des questions et que vous n'écoutez pas les réponses, je ne vois pas l'intérêt de cette séance de questions au Gouvernement ! <i>(Applaudissements sur les bancs du groupe RE. - Exclamations sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>Mme la présidente.</strong> Madame la ministre déléguée, vous avez la parole !<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée . </i>Je reprends et je vous remercie par avance de bien vouloir me conserver les quinze secondes qui viennent de s'écouler.<br><br>Je tenais donc à vous présenter les excuses de Bruno Le Maire pour son absence puisqu'il est en Isère avec le Président de la République. Il n'aura donc pas la possibilité de vous répondre lui-même.<br><br>Vous m'interrogez sur le rôle d'Emmanuel Macron, lorsqu'il était ministre de l'économie, de l'industrie et du numérique, dans l'implantation d'Uber en France et je vais vous répondre clairement. Madame Simonnet, le ministre de l'économie, de l'industrie et du numérique qu'il était a tout simplement fait son travail. <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br><strong>Plusieurs députés du groupe LFI-NUPES .</strong> Non !<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée . </i>Il a reçu les dirigeants d'Uber, mais il a reçu aussi – soyons précis ! – ceux de Netflix, Airbnb, Tesla, tout comme, plus près de nous, ceux de Doctolib, Alan et BackMarket. Pourquoi ? Parce que ces acteurs sont au cœur de l'économie du XXIe siècle. <i>(Protestations sur les bancs du groupe LFI-NUPES.)</i><br><br><strong>Plusieurs députés du groupe LFI-NUPES .</strong> Non !<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée . </i>Et quoi que vous en disiez, c'est bien dans ces groupes que se trouvent la croissance et les emplois ! <i>(Mêmes mouvements.)</i><br><br><strong>M. Thibault Bazin.</strong> Mais non !<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée . </i>Madame Simonnet, qui a porté la régulation des géants du numérique en Europe ? La France ! <i>(Applaudissements sur les bancs du groupe RE.)</i><br><br>Qui a défendu le respect des données personnelles ? La France ! Quel est le premier pays à avoir proposé une taxation des géants du numérique ? La France ! <i>(Mêmes mouvements.) </i>Quel est le pays qui a été pour cela sanctionné par le président Trump ? La France ! <br><br><strong>Mme Farida Amrani.</strong> Ce n'est pas vrai !<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée . </i>Alors oui, madame Simonnet, lorsqu'il était ministre de l'économie, de l'industrie et du numérique, le Président de la République a pris toutes les mesures nécessaires pour encourager l'implantation de ces entreprises en France, mais aussi la protection des consommateurs. Mme la Première ministre pourrait d'ailleurs bien mieux que moi en témoigner puisque c'est elle, au ministère du travail, de l'emploi et de l'insertion, qui a œuvré au rééquilibrage des relations de travail entre les plateformes et les travailleurs, en renforçant les droits de ces derniers, mais aussi en permettant – je sais que vous êtes sensible à ce sujet, madame la députée – la première élection de représentants syndicaux au sein de ces entreprises. <br><br>Alors non, madame Simonnet, nous ne pouvons pas être d'accord. <i>(M. Matthias Tavel montre la pendule en criant « Le temps ! ».)</i><br><br><strong>Mme la présidente.</strong> Merci, madame la ministre déléguée !<br><br><strong>Mme Olivia Grégoire,</strong><i> ministre déléguée . </i>Être aux responsabilités, c'est libérer et protéger ! <i>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</i><br> <p>",
+        "entities": [
+          {
+            "start_char": 25,
+            "end_char": 35,
+            "label": "MISC",
+            "text": "UBER FILES"
+          },
+          {
+            "start_char": 46,
+            "end_char": 53,
+            "label": "LOC",
+            "text": "PG3></a"
+          },
+          {
+            "start_char": 71,
+            "end_char": 74,
+            "label": "PER",
+            "text": "Mme"
+          },
+          {
+            "start_char": 115,
+            "end_char": 152,
+            "label": "PER",
+            "text": "Mme Danielle Simonnet.<br><br><strong"
+          }
+          // and many more like this...
+        ],
+        "sentiment_data": [
+          {
+            "begin_char": 0,
+            "end_char": 20,
+            "sentiment": "3 stars",
+            "score": 0.2665126323699951
+          },
+          {
+            "begin_char": 20,
+            "end_char": 89,
+            "sentiment": "3 stars",
+            "score": 0.2808808386325836
+          },
+          {
+            "begin_char": 90,
+            "end_char": 175,
+            "sentiment": "3 stars",
+            "score": 0.23967041075229645
+          },
+          {
+            "begin_char": 176,
+            "end_char": 185,
+            "sentiment": "4 stars",
+            "score": 0.2783368229866028
+          },
+          {
+            "begin_char": 185,
+            "end_char": 237,
+            "sentiment": "5 stars",
+            "score": 0.7008472681045532
+          }
+          // and many more like this...
+        ]
+      }
+    },
+    "cloture": {
+      "codeCloture": "REP_PUB",
+      "libelleCloture": "Réponse publiée",
+      "dateCloture": "2022-07-13",
+      "infoJO": {
+        "typeJO": "JO_DEBAT",
+        "dateJO": "2022-07-13",
+        "pageJO": "2331",
+        "numJO": null,
+        "urlLegifrance": null,
+        "referenceNOR": null
+      }
+    }
+  }
+}
